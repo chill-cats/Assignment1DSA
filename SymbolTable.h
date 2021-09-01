@@ -79,7 +79,7 @@ public:
 
     void handleAssign(const std::string &identifierName, const std::string &value, const std::string &line) const;
 
-    int handleLookup(const std::string &identifierName) const;
+    int handleLookup(const string &identifierName, const std::string &line) const;
 
     void handleBegin();
 

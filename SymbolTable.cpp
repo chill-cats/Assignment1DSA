@@ -196,7 +196,7 @@ std::pair<std::string, bool> SymbolTable::processLine(const string &line) {
         auto identifierName = matches[1];
 
 
-        return {std::to_string(handleLookup(identifierName)), true};
+        return {std::to_string(handleLookup(identifierName, line)), true};
 
     } else if (std::regex_match(line, VALID_PRINT_REGEX)) {
         return {trim(handlePrint()), true};
@@ -297,10 +297,10 @@ SymbolTable::handleAssign(const std::string &identifierName, const std::string &
             currentScope = currentScope->parentScope;
         }
         if (assigner == nullptr || assignee == nullptr) {
-            throw Undeclared("ASSIGN " + identifierName + " " + value);
+            throw Undeclared(line);
         }
         if (assignee->type != assigner->type) {
-            throw TypeMismatch("ASSIGN " + identifierName + " " + value);
+            throw TypeMismatch(line);
         }
         assignee->value = assigner->value;
         return;
@@ -309,7 +309,7 @@ SymbolTable::handleAssign(const std::string &identifierName, const std::string &
     throw InvalidInstruction(line);
 }
 
-int SymbolTable::handleLookup(const string &identifierName) const {
+int SymbolTable::handleLookup(const string &identifierName, const std::string &line) const {
     auto currentScope = this->scopes.innerMostScope;
     while (currentScope) {
         if (currentScope->idList.containIdentifierWithName(identifierName)) {
@@ -317,7 +317,7 @@ int SymbolTable::handleLookup(const string &identifierName) const {
         }
         currentScope = currentScope->parentScope;
     }
-    throw Undeclared("LOOKUP " + identifierName);
+    throw Undeclared(line);
 }
 
 void SymbolTable::handleBegin() {

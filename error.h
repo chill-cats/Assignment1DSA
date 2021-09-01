@@ -11,11 +11,11 @@ class InvalidInstruction : public exception
     string mess;
 
 public:
-    InvalidInstruction(string instruction)
+    InvalidInstruction(const string& instruction)
     {
         mess = "Invalid: " + instruction;
     }
-    const char *what() const throw()
+    const char *what() const noexcept
     {
         return mess.c_str();
     }
@@ -29,7 +29,7 @@ public:
     {
         mess = "TypeMismatch: " + instruction;
     }
-    const char *what() const throw()
+    const char *what() const noexcept
     {
         return mess.c_str();
     }
@@ -43,7 +43,7 @@ public:
     {
         mess = "Undeclared: " + instruction;
     }
-    const char *what() const throw()
+    const char *what() const noexcept
     {
         return mess.c_str();
     }
@@ -57,7 +57,7 @@ public:
     {
         mess = "Redeclared: " + instruction;
     }
-    const char *what() const throw()
+    const char *what() const noexcept
     {
         return mess.c_str();
     }
@@ -71,7 +71,7 @@ public:
     {
         mess = "UnclosedBlock: " + to_string(level);
     }
-    const char *what() const throw()
+    const char *what() const noexcept
     {
         return mess.c_str();
     }
@@ -85,7 +85,7 @@ public:
     {
         mess = "UnknownBlock";
     }
-    const char *what() const throw()
+    const char *what() const noexcept
     {
         return mess.c_str();
     }
