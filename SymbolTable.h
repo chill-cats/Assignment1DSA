@@ -73,7 +73,7 @@ public:
 
     void run(const string &filename);
 
-    pair<string, bool> processLine(const std::string &str);
+    std::pair<string, bool> processLine(const std::string &str);
 
     void handleInsert(const std::string &identifierName, const std::string &type, const std::string &line) const;
 

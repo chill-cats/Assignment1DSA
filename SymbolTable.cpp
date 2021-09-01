@@ -69,10 +69,10 @@ void ScopeList::addInnerScope() {
 }
 
 ScopeList::~ScopeList() {
-    auto current = this->globalScope;
+    auto current = this->innerMostScope;
     while (current) {
         auto deleteScope = current;
-        current = current->childScope;
+        current = current->parentScope;
         delete deleteScope;
     }
 }
@@ -98,8 +98,13 @@ void SymbolTable::run(const string &filename) {
     while (std::getline(fileInput, line)) {
         auto output = processLine(line);
         auto shouldPrint = output.second;
-        if (shouldPrint)
-            std::cout << output.first << std::endl;
+        if (shouldPrint) {
+            std::cout << output.first;
+            if (fileInput.peek() != EOF) {
+                std::cout << std::endl;
+            }
+        }
+
     }
     this->handleCleanUp();
     fileInput.close();

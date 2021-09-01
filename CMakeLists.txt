@@ -8,7 +8,7 @@ if (CMAKE_CXX_COMPILER_ID STREQUAL "AppleClang"
         OR CMAKE_CXX_COMPILER_ID STREQUAL "GNU")
 
         add_compile_options(-Wall -Wextra -pedantic -Wshadow -Wdouble-promotion -Wundef -fno-common)
-    If (CMAKE_CXX_COMPILER_ID STREQUAL "AppleClang"
+    if (CMAKE_CXX_COMPILER_ID STREQUAL "AppleClang"
             OR CMAKE_CXX_COMPILER_ID STREQUAL "Clang")
         add_compile_options(-fsanitize=address -fno-omit-frame-pointer)
         add_link_options(-fsanitize=address)
@@ -18,6 +18,21 @@ if (CMAKE_CXX_COMPILER_ID STREQUAL "AppleClang"
     endif()
 endif()
 
+if (SAN STREQUAL "ASan")
+    if (CMAKE_CXX_COMPILER_ID STREQUAL "AppleClang"
+            OR CMAKE_CXX_COMPILER_ID STREQUAL "Clang")
+        add_compile_options(-fsanitize=address -fno-omit-frame-pointer)
+        add_link_options(-fsanitize=address)
+    endif()
+endif()
+
+if (SAN STREQUAL "UBSan")
+    if (CMAKE_CXX_COMPILER_ID STREQUAL "AppleClang"
+            OR CMAKE_CXX_COMPILER_ID STREQUAL "Clang")
+        add_compile_options(-fsanitize=undefined -fno-omit-frame-pointer)
+        add_link_options(-fsanitize=undefined)
+    endif()
+endif()
 find_package(GTest)
 
 if (GTest_FOUND)
