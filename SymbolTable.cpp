@@ -100,7 +100,7 @@ void SymbolTable::run(const string &filename) {
         auto shouldPrint = output.second;
         if (shouldPrint) {
             std::cout << output.first;
-            if (fileInput.peek() != EOF) {
+            if (!fileInput.eof()) {
                 std::cout << std::endl;
             }
         }

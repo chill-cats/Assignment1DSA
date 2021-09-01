@@ -1,2 +1,3 @@
 INSERT l6LxI number
+INSERT lakfj string
 kjfaljf fkajsklf
