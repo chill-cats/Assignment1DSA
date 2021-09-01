@@ -1,1 +1,10 @@
-INSERT l6LxI string
+INSERT x number
+INSERT y string
+ASSIGN x 15
+BEGIN
+INSERT z number
+BEGIN
+INSERT y number
+LOOKUP x
+END
+END

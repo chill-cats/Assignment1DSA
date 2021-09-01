@@ -98,10 +98,7 @@ void SymbolTable::run(const string &filename) {
     while (std::getline(fileInput, line)) {
         auto output = this->processLine(line);
         if (this->shouldPrint) {
-            std::cout << output;
-            if (!fileInput.eof()) {
-                std::cout << std::endl;
-            }
+            std::cout << output << std::endl;
         }
         this->shouldPrint = false;
     }
@@ -121,7 +118,7 @@ std::string SymbolTable::processLine(const string &line) {
 
     // Right now we have to match from once to 3 times to check the line is valid and
     // get the arguments for each command. Is there a way to both check the validity
-    // and getting the arguments at the same time?
+    // and getting the arguments at the same time? 🥺🥺🥺🥺🥺🥺
 
     std::smatch matches;
     if (std::regex_search(line, matches, VALID_INSERT_REGEX)) {
@@ -142,7 +139,9 @@ std::string SymbolTable::processLine(const string &line) {
 
     } else if (std::regex_search(line, matches, VALID_LOOKUP_REGEX)) {
         const auto identifierName = matches[1];
-        return {std::to_string(handleLookup(identifierName, line)), true};
+
+        this->shouldPrint = true;
+        return std::to_string(handleLookup(identifierName, line));
 
     } else if (std::regex_match(line, VALID_BEGIN_REGEX)) {
         handleBegin();
@@ -157,12 +156,13 @@ std::string SymbolTable::processLine(const string &line) {
         return {};
 
     } else if (std::regex_match(line, VALID_PRINT_REGEX)) {
-        this->shouldPrint = true;
-        return trim(handlePrint());
-
+        auto result = trim(handlePrint());
+        this->shouldPrint = !result.empty();
+        return result;
     } else if (std::regex_match(line, VALID_REVERSE_PRINT_REGEX)) {
-        this->shouldPrint = true;
-        return trim(handleReversePrint());
+        auto result = trim(handleReversePrint());
+        this->shouldPrint = !result.empty();
+        return result;
     }
     throw InvalidInstruction(line);
 }
@@ -208,12 +208,13 @@ void SymbolTable::handleInsert(const string &identifierName, const string &type,
 
 void
 SymbolTable::handleAssign(const std::string &identifierName, const std::string &value, const std::string &line) const {
+    using std::regex;
     static const regex STRING_VALUE_REGEX(R"(^'[\dA-Za-z\s]+'$)");
     static const regex NUMBER_VALUE_REGEX(R"(^\d+$)");
     static const regex IDENTIFIER_VALUE_REGEX(R"(^[a-z]\w*$)");
 
     if (std::regex_match(value, NUMBER_VALUE_REGEX)) {
-        Scope *currentScope = this->scopes.innerMostScope;
+        auto *currentScope = this->scopes.innerMostScope;
         while (currentScope) {
             auto identifier = currentScope->idList.containIdentifierWithName(identifierName);
             if (identifier) {
@@ -229,7 +230,7 @@ SymbolTable::handleAssign(const std::string &identifierName, const std::string &
         throw Undeclared(line);
 
     } else if (std::regex_match(value, STRING_VALUE_REGEX)) {
-        Scope *currentScope = this->scopes.innerMostScope;
+        auto *currentScope = this->scopes.innerMostScope;
         while (currentScope) {
             auto identifier = currentScope->idList.containIdentifierWithName(identifierName);
             if (identifier) {
@@ -245,7 +246,7 @@ SymbolTable::handleAssign(const std::string &identifierName, const std::string &
         throw Undeclared(line);
     } else if (std::regex_match(value, IDENTIFIER_VALUE_REGEX)) {
         // value is identifier
-        Scope *currentScope = this->scopes.innerMostScope;
+        auto *currentScope = this->scopes.innerMostScope;
         Identifier *assignee = nullptr;
         Identifier *assigner = nullptr;
         while (currentScope && (assignee == nullptr || assigner == nullptr)) {

@@ -2,7 +2,7 @@
 // Created by Hoang Nhan Le Nguyen on 28/08/2021.
 //
 #include "gtest/gtest.h"
-#include "../../assignment1-dsa/SymbolTable.h"
+#include "../SymbolTable.h"
 
 #define EXPECT_THROW_WITH_MESSAGE(stmt, etype, whatstring) EXPECT_THROW( \
         try { \

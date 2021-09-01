@@ -35,9 +35,6 @@ if (SAN STREQUAL "UBSan")
 endif()
 find_package(GTest)
 
-if (GTest_FOUND)
-    enable_testing()
-endif()
 
 add_library(symbolTable SymbolTable.h SymbolTable.cpp)
 
@@ -45,6 +42,8 @@ add_executable(assignmentDsaAlternative main.cpp main.h)
 target_link_libraries(assignmentDsaAlternative symbolTable)
 
 if (GTest_FOUND AND (CMAKE_BUILD_TYPE STREQUAL "Debug"))
+    enable_testing()
+
     add_executable(testInsert testing/test_insert.cpp)
     target_link_libraries(testInsert symbolTable GTest::gtest GTest::gtest_main)
     gtest_discover_tests(testInsert)
