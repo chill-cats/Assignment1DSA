@@ -96,112 +96,73 @@ void SymbolTable::run(const string &filename) {
     std::ifstream fileInput(filename);
     std::string line;
     while (std::getline(fileInput, line)) {
-        auto output = processLine(line);
-        auto shouldPrint = output.second;
-        if (shouldPrint) {
-            std::cout << output.first;
+        auto output = this->processLine(line);
+        if (this->shouldPrint) {
+            std::cout << output;
             if (!fileInput.eof()) {
                 std::cout << std::endl;
             }
         }
-
+        this->shouldPrint = false;
     }
     this->handleCleanUp();
     fileInput.close();
 }
 
-std::pair<std::string, bool> SymbolTable::processLine(const string &line) {
-    static const regex VALID_INSERT_REGEX(R"(^INSERT[ ][a-z]\w*[ ](?:string|number)$)");
-    static const regex VALID_ASSIGN_REGEX(R"(^ASSIGN[ ][a-z]\w*[ ](?:[a-z]\w*|\d+|'[\dA-Za-z\s]+')$)"
+std::string SymbolTable::processLine(const string &line) {
+    static const regex VALID_INSERT_REGEX(R"(^INSERT[ ]([a-z]\w*)[ ](string|number)$)");
+    static const regex VALID_ASSIGN_REGEX(R"(^ASSIGN[ ]([a-z]\w*)[ ]([a-z]\w*|\d+|'[\dA-Za-z\s]+')$)"
     );
-    static const regex VALID_LOOKUP_REGEX(R"(^LOOKUP[ ][a-z]\w*$)");
+    static const regex VALID_LOOKUP_REGEX(R"(^LOOKUP[ ]([a-z]\w*)$)");
     static const regex VALID_BEGIN_REGEX(R"(^BEGIN$)");
     static const regex VALID_END_REGEX(R"(^END$)");
     static const regex VALID_PRINT_REGEX(R"(^PRINT$)");
     static const regex VALID_REVERSE_PRINT_REGEX(R"(^RPRINT$)");
 
-    static const regex INSERT_IDENTIFIER_NAME_CAPTURE_REGEX(R"(^INSERT[ ]([a-z]\w*)[ ](?:string|number)$)"
-    );
-    static const regex INSERT_IDENTIFIER_TYPE_CAPTURE_REGEX(R"(^INSERT[ ][a-z]\w*[ ](string|number)$)"
-    );
+    // Right now we have to match from once to 3 times to check the line is valid and
+    // get the arguments for each command. Is there a way to both check the validity
+    // and getting the arguments at the same time?
 
-    static const regex ASSIGN_IDENTIFIER_NAME_CAPTURE_REGEX(
-            R"(^ASSIGN[ ]([a-z]\w*)[ ](?:[a-z]\w*|\d+|'[\dA-Za-z\s]+')$)"
-    );
-    static const regex ASSIGN_IDENTIFIER_VALUE_CAPTURE_REGEX(R"(^ASSIGN[ ][a-z]\w*[ ]([a-z]\w*|\d+|'[\dA-Za-z\s]+')$)"
-    );
-
-    static const regex LOOKUP_IDENTIFIER_NAME_CAPTURE(R"(^LOOKUP[ ]([a-z]\w*)$)");
-
-    if (std::regex_match(line, VALID_INSERT_REGEX)) {
-        std::smatch matches;
-        if (!std::regex_search(line, matches, INSERT_IDENTIFIER_NAME_CAPTURE_REGEX)) {
-            throw InvalidInstruction(line);
-        }
-        if (matches.size() != 2) {
-            throw InvalidInstruction(line);
-        }
-
-        auto identifierName = matches[1];
-
-        if (!std::regex_search(line, matches, INSERT_IDENTIFIER_TYPE_CAPTURE_REGEX)) {
-            throw InvalidInstruction(line);
-        }
-        if (matches.size() != 2) {
-            throw InvalidInstruction(line);
-        }
-        auto type = matches[1];
-
+    std::smatch matches;
+    if (std::regex_search(line, matches, VALID_INSERT_REGEX)) {
+        const auto identifierName = matches[1];
+        const auto type = matches[2];
         handleInsert(identifierName, type, line);
 
-        return {"success", true};
+        this->shouldPrint = true;
+        return {"success"};
 
-    } else if (std::regex_match(line, VALID_ASSIGN_REGEX)) {
-        std::smatch matches;
-
-        if (!std::regex_search(line, matches, ASSIGN_IDENTIFIER_VALUE_CAPTURE_REGEX)) {
-            throw InvalidInstruction(line);
-        }
-        if (matches.size() != 2) {
-            throw InvalidInstruction(line);
-        }
-        auto value = matches[1];
-
-        if (!std::regex_search(line, matches, ASSIGN_IDENTIFIER_NAME_CAPTURE_REGEX)) {
-            throw InvalidInstruction(line);
-        }
-        if (matches.size() != 2) {
-            throw InvalidInstruction(line);
-        }
-        auto identifierName = matches[1];
-
+    } else if (std::regex_search(line, matches, VALID_ASSIGN_REGEX)) {
+        const auto identifierName = matches[1];
+        const auto value = matches[2];
         handleAssign(identifierName, value, line);
 
-        return {"success", true};
-    } else if (std::regex_match(line, VALID_BEGIN_REGEX)) {
-        handleBegin();
-        return {"", false};
-    } else if (std::regex_match(line, VALID_END_REGEX)) {
-        handleEnd();
-        return {"", false};
-    } else if (std::regex_match(line, VALID_LOOKUP_REGEX)) {
-        std::smatch matches;
+        this->shouldPrint = true;
+        return {"success"};
 
-        if (!std::regex_search(line, matches, LOOKUP_IDENTIFIER_NAME_CAPTURE)) {
-            throw InvalidInstruction(line);
-        }
-        if (matches.size() != 2) {
-            throw InvalidInstruction(line);
-        }
-        auto identifierName = matches[1];
-
-
+    } else if (std::regex_search(line, matches, VALID_LOOKUP_REGEX)) {
+        const auto identifierName = matches[1];
         return {std::to_string(handleLookup(identifierName, line)), true};
 
+    } else if (std::regex_match(line, VALID_BEGIN_REGEX)) {
+        handleBegin();
+
+        this->shouldPrint = false;
+        return {};
+
+    } else if (std::regex_match(line, VALID_END_REGEX)) {
+        handleEnd();
+
+        this->shouldPrint = false;
+        return {};
+
     } else if (std::regex_match(line, VALID_PRINT_REGEX)) {
-        return {trim(handlePrint()), true};
+        this->shouldPrint = true;
+        return trim(handlePrint());
+
     } else if (std::regex_match(line, VALID_REVERSE_PRINT_REGEX)) {
-        return {trim(handleReversePrint()), true};
+        this->shouldPrint = true;
+        return trim(handleReversePrint());
     }
     throw InvalidInstruction(line);
 }

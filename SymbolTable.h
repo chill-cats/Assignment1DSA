@@ -67,13 +67,15 @@ public:
 
 class SymbolTable {
 public:
+    bool shouldPrint = false;
+
     ScopeList scopes;
 
     SymbolTable();
 
     void run(const string &filename);
 
-    std::pair<string, bool> processLine(const std::string &str);
+    std::string processLine(const std::string &str);
 
     void handleInsert(const std::string &identifierName, const std::string &type, const std::string &line) const;
 

@@ -1,3 +1,1 @@
-INSERT l6LxI number
-INSERT lakfj string
-kjfaljf fkajsklf
+INSERT l6LxI string
