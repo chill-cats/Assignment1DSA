@@ -14,4 +14,4 @@ jobs:
           ref: hoangnhan
       - name: Setup GCC
         uses: egor-tensin/setup-gcc@v1
-      - run: c++ main.cpp SymbolTable.cpp -Wextra -Wall -Werror -pendantic -Wshadow -Wdouble-promotion -Wundef -fno-common
+      - run: c++ main.cpp SymbolTable.cpp -Wextra -Wall -Werror -pedantic -Wshadow -Wdouble-promotion -Wundef -fno-common
