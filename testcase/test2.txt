@@ -1,3 +1,20 @@
-INSERT x number
-INSERT y string
-INSERT x number
+RPRINT
+BEGIN
+INSERT hh number
+INSERT q5y string
+INSERT uc number
+INSERT bRT5 number
+INSERT t number
+RPRINT
+ASSIGN uc 240
+INSERT bzM7C number
+END
+INSERT sX number
+INSERT zBoF string
+PRINT
+INSERT fo string
+INSERT iW number
+BEGIN
+INSERT wa number
+u nO
+INSERT ouOcIO number
