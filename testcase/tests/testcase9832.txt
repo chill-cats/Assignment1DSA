@@ -1,0 +1,17 @@
+INSERT xfhuaF string
+ASSIGN xfhuaF 334
+INSERT yZniMR string
+INSERT y number
+INSERT v string
+LOOKUP xfhuaF
+INSERT m number
+INSERT faNU string
+PRINT
+ASSIGN faNU '4'
+RPRINT
+BEGIN
+INSERT m5 string
+INSERT wW0pc3 string
+INSERT mW string
+INSERT cU62z string
+END

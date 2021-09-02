@@ -1,0 +1,8 @@
+ASSIGN hbAG 1235
+INSERT iIYi string
+RPRINT
+INSERT bv string
+END
+RPRINT
+INSERT xQLQdi string
+BEGIN

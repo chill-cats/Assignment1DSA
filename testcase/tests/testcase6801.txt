@@ -1,0 +1,18 @@
+INSERT tU string
+INSERT n number
+ASSIGN n n
+INSERT xBxx number
+END
+LOOKUP xBxx
+INSERT l string
+END
+PRINT
+INSERT sW9NzA string
+INSERT iVuV number
+ASSIGN l '3arGx'
+INSERT uaIO number
+ASSIGN l uaIO
+END
+lt8eq mX
+INSERT t string
+INSERT khF string

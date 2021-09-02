@@ -1,0 +1,5 @@
+INSERT x string
+INSERT bYOp number
+INSERT d5Zz string
+INSERT z98ZO string
+RPRINT

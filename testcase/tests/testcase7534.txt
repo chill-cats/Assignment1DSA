@@ -1,0 +1,8 @@
+INSERT qMzf string
+INSERT tIg number
+INSERT ioZ string
+ASSIGN ioZ 297
+INSERT jaY9s7 string
+INSERT xBoW string
+INSERT frGJy string
+INSERT sS5 number

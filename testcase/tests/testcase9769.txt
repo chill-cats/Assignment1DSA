@@ -1,0 +1,23 @@
+INSERT bz string
+INSERT g4VP number
+BEGIN
+INSERT q number
+PRINT
+INSERT i number
+INSERT kf number
+ASSIGN g4VP 'RA'
+INSERT z2N2X8 number
+INSERT rLllg string
+INSERT aApQL string
+INSERT v4 number
+y j_U2E
+PRINT
+INSERT d number
+LOOKUP aApQL
+INSERT xLDbx number
+INSERT twDe string
+BEGIN
+INSERT odOBjt string
+INSERT sVK number
+INSERT ikh3c number
+INSERT fn string

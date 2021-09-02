@@ -1,0 +1,21 @@
+PRINT
+INSERT mtEL string
+INSERT yS string
+INSERT a_n number
+INSERT qV number
+PRINT
+PRINT
+INSERT x string
+INSERT i number
+INSERT iUsiv string
+INSERT n number
+INSERT qccUWA number
+INSERT z4 number
+INSERT gDN number
+BEGIN
+ea7YuF gtqRTi
+INSERT y number
+PRINT
+INSERT aeGr string
+INSERT mWKo number
+LOOKUP n

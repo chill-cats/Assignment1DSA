@@ -1,0 +1,37 @@
+BEGIN
+LOOKUP yL
+ASSIGN qt 1088
+INSERT vbQ number
+INSERT aI number
+INSERT gj2 string
+BEGIN
+INSERT wjsK number
+INSERT r number
+END
+LOOKUP gj2
+INSERT a4pNM string
+INSERT n9CQTL string
+ASSIGN wjsK gj2
+INSERT sjTJWH string
+ASSIGN gj2 'VFP'
+ASSIGN wjsK 'W3kVr'
+RPRINT
+fQiHE ggIMu
+END
+INSERT hYJ8m5 string
+RPRINT
+INSERT t5lGol number
+INSERT iY number
+bFnU nd1
+RPRINT
+LOOKUP t5lGol
+INSERT pESI number
+LOOKUP gj2
+LOOKUP gj2
+INSERT lnekI number
+INSERT wIES number
+END
+END
+INSERT kxcC number
+PRINT
+RPRINT

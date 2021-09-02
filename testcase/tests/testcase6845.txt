@@ -1,0 +1,30 @@
+hTWvc h
+BEGIN
+INSERT uRkU number
+INSERT pF number
+INSERT ez string
+INSERT nNY string
+INSERT aLPi string
+INSERT dWYaIg number
+LOOKUP pF
+INSERT s256j6 number
+INSERT b2 string
+INSERT xi1 number
+INSERT t_JePX string
+INSERT fB number
+INSERT dwQ string
+umK0p kfElIE
+ASSIGN ez dwQ
+INSERT pMSnGY number
+RPRINT
+INSERT cT5 number
+ASSIGN ez 763
+INSERT cm5A6v number
+RPRINT
+INSERT q string
+plw2L v
+INSERT v number
+INSERT hJ0 string
+END
+INSERT a string
+BEGIN

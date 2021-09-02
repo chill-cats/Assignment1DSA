@@ -1,0 +1,4 @@
+INSERT jPjP number
+ASSIGN jPjP jPjP
+INSERT l string
+PRINT

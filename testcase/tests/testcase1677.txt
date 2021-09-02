@@ -1,0 +1,10 @@
+INSERT kwl number
+PRINT
+INSERT x4i string
+INSERT x string
+INSERT iMWAvw number
+RPRINT
+INSERT d5Pa string
+ASSIGN d5Pa x4i
+INSERT hIi string
+INSERT s string

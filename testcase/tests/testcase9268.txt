@@ -1,0 +1,12 @@
+INSERT g9nDx string
+ASSIGN g9nDx 880
+BEGIN
+INSERT n3z string
+INSERT sp9 string
+PRINT
+INSERT oGh string
+INSERT b3zXG number
+INSERT i string
+INSERT m string
+INSERT r string
+INSERT usI number

@@ -1,0 +1,9 @@
+INSERT l number
+ASSIGN l 'o'
+INSERT xbf string
+INSERT l number
+INSERT m string
+INSERT tY number
+BEGIN
+INSERT cU_By number
+INSERT qM string

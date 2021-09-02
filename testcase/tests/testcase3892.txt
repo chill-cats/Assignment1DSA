@@ -1,0 +1,20 @@
+INSERT vck8 number
+INSERT vp number
+INSERT tO string
+ASSIGN tO 355
+INSERT bWM2 string
+INSERT hez number
+RPRINT
+INSERT z number
+INSERT jBJLA8 number
+ASSIGN tO 785
+INSERT lh435 string
+LOOKUP vck8
+INSERT nhAt string
+xv juA
+END
+INSERT lV32 number
+INSERT bcEN string
+LOOKUP hez
+LOOKUP vp
+INSERT pIh string

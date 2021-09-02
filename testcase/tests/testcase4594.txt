@@ -1,0 +1,21 @@
+INSERT qt number
+INSERT ers number
+RPRINT
+INSERT y8 number
+INSERT p string
+INSERT kAZYph number
+INSERT oxJ4 number
+END
+BEGIN
+ASSIGN ers 'sEJZK'
+BEGIN
+INSERT dAhH number
+INSERT xX8bm8 string
+INSERT tlirk string
+INSERT aQ6i number
+INSERT pkQY string
+INSERT shjo string
+INSERT kDjM4h string
+PRINT
+LOOKUP shjo
+RPRINT

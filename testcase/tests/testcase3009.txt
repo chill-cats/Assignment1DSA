@@ -1,0 +1,6 @@
+INSERT q number
+INSERT bU string
+INSERT f string
+END
+INSERT u string
+INSERT q6c string

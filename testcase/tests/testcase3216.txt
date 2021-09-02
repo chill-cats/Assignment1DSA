@@ -1,0 +1,5 @@
+INSERT hDann number
+BEGIN
+INSERT aQv number
+INSERT u number
+RPRINT

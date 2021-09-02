@@ -1,0 +1,5 @@
+kq zsn
+INSERT fDo string
+RPRINT
+INSERT eDc string
+END

@@ -1,0 +1,39 @@
+END
+INSERT i number
+INSERT cZinm string
+INSERT yHuc83 string
+INSERT dcS80u number
+RPRINT
+END
+END
+INSERT ksgOIf number
+INSERT nlXpYG number
+INSERT sh1Dr number
+INSERT c string
+BEGIN
+s0V c
+INSERT j string
+RPRINT
+ASSIGN sh1Dr yHuc83
+INSERT eF5 number
+INSERT gzRIWn string
+PRINT
+INSERT dws5VE number
+INSERT xCBQmh string
+INSERT rkv9t number
+RPRINT
+INSERT gr string
+PRINT
+INSERT vnF8F number
+INSERT aRPXOZ string
+INSERT w number
+END
+INSERT y1W number
+INSERT m string
+INSERT cbjXv number
+INSERT f1qGQB number
+INSERT lyIW number
+INSERT loU number
+BEGIN
+LOOKUP aRPXOZ
+END

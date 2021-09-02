@@ -1,0 +1,30 @@
+INSERT r5r7 string
+INSERT wERYA string
+INSERT u9L0Un number
+INSERT aHvV string
+INSERT g string
+RPRINT
+INSERT mYC string
+END
+BEGIN
+INSERT k string
+BEGIN
+PRINT
+INSERT p1z number
+PRINT
+BEGIN
+INSERT nQp string
+LOOKUP mYC
+INSERT cucrs number
+INSERT q string
+INSERT n number
+INSERT fd string
+BEGIN
+END
+INSERT t76 string
+INSERT w string
+INSERT epM number
+INSERT sq0 string
+qnnqUw cY
+ASSIGN sq0 u9L0Un
+ASSIGN cucrs 'U'

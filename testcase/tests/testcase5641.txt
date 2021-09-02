@@ -1,0 +1,11 @@
+INSERT gaeq string
+BEGIN
+yzeCI uB2LFx
+RPRINT
+BEGIN
+END
+INSERT d number
+INSERT s string
+INSERT yw number
+INSERT fEH number
+INSERT fpz string

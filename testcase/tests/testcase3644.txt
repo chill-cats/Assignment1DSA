@@ -1,0 +1,25 @@
+INSERT jAT2 number
+INSERT ch9 string
+INSERT fN string
+ASSIGN fN ch9
+INSERT m string
+INSERT xOjdH string
+INSERT u number
+INSERT rUVGqj number
+INSERT pEpiY string
+INSERT dXULYu number
+ASSIGN rUVGqj 494
+INSERT rsW number
+INSERT grIMa string
+INSERT yhlKm number
+INSERT yFOxsT number
+INSERT r8q string
+INSERT sk_nv number
+INSERT d string
+RPRINT
+END
+INSERT oULorE number
+mE qH6g
+END
+BEGIN
+LOOKUP ch9

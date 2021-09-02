@@ -1,0 +1,21 @@
+END
+LOOKUP f
+INSERT v number
+INSERT a string
+BEGIN
+PRINT
+INSERT b number
+INSERT aG string
+INSERT bKs2 string
+INSERT lqJ1C number
+INSERT lX1lu string
+PRINT
+INSERT x7b1na string
+LOOKUP nnsLN3
+INSERT r string
+END
+PRINT
+INSERT mFH6Yh number
+INSERT tqeSF number
+BEGIN
+u aico

@@ -1,0 +1,39 @@
+INSERT tX string
+ASSIGN tX tX
+INSERT w string
+LOOKUP w
+INSERT eyJ string
+INSERT xU1K number
+PRINT
+ASSIGN w 'K'
+ASSIGN eyJ 1104
+END
+kF w78aB
+INSERT bnn9z number
+END
+ASSIGN xU1K 1097
+INSERT fRN82 string
+BEGIN
+INSERT prqdL number
+INSERT zk number
+INSERT o3osWi number
+END
+LOOKUP tX
+INSERT dNlWDy string
+INSERT fYPw number
+PRINT
+INSERT ok3GpX number
+INSERT pWNlD0 string
+LOOKUP zk
+INSERT nIPkEq number
+END
+BEGIN
+LOOKUP pWNlD0
+RPRINT
+INSERT cNk3 string
+INSERT lSbcR number
+INSERT fpmW number
+INSERT d string
+ASSIGN pWNlD0 411
+INSERT p9 number
+INSERT kwyoeK string

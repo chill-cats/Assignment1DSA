@@ -1,0 +1,13 @@
+INSERT i number
+INSERT tMF number
+INSERT bW number
+PRINT
+BEGIN
+ASSIGN kyK6 tMF
+INSERT jq number
+INSERT abiUo string
+LOOKUP abiUo
+END
+INSERT c0Axrh string
+INSERT mA_ number
+ASSIGN l0W 1072

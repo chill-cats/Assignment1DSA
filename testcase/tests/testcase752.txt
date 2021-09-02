@@ -1,0 +1,11 @@
+RPRINT
+LOOKUP x7HeRQ
+END
+INSERT hvBhDA number
+INSERT uqYS string
+END
+INSERT q number
+INSERT a72 string
+ASSIGN w8ro uqYS
+BEGIN
+END

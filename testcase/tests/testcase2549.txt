@@ -1,0 +1,39 @@
+INSERT zcC_O number
+INSERT uqX8YS string
+INSERT pWgeCd string
+INSERT pV number
+INSERT zq string
+BEGIN
+INSERT fO string
+ASSIGN fGSR3 zcC_O
+PRINT
+LOOKUP pWgeCd
+BEGIN
+INSERT pDG43z number
+INSERT s0vdkF string
+INSERT cliE2n string
+END
+INSERT m string
+INSERT cXT string
+BEGIN
+INSERT a number
+INSERT xCDzN number
+INSERT uluCt string
+INSERT g string
+RPRINT
+RPRINT
+v8 zkW
+INSERT vRBhQ string
+BEGIN
+LOOKUP s0vdkF
+PRINT
+PRINT
+INSERT yN number
+END
+INSERT u string
+RPRINT
+LOOKUP pV
+INSERT dJ number
+RPRINT
+LOOKUP cliE2n
+oI_wC pig

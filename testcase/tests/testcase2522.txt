@@ -1,0 +1,22 @@
+INSERT j number
+INSERT mboW number
+INSERT gzWnq string
+INSERT cgcZa number
+INSERT iY7 number
+INSERT s2L number
+INSERT fiV number
+LOOKUP j
+oJfKn c
+BEGIN
+RPRINT
+INSERT wu number
+END
+PRINT
+LOOKUP wu
+PRINT
+INSERT yj string
+INSERT ua number
+INSERT veXFoJ string
+INSERT s2 string
+INSERT zC78 number
+END

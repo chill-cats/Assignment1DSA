@@ -1,0 +1,38 @@
+INSERT ud number
+INSERT sluM6 number
+BEGIN
+INSERT mZygC string
+on foNC
+INSERT xcU number
+INSERT gcVY number
+INSERT cj number
+PRINT
+END
+INSERT plj string
+ASSIGN gcVY 234
+END
+INSERT vZ number
+LOOKUP plj
+INSERT fOPe string
+INSERT dwvLy9 number
+INSERT mbIp string
+INSERT w number
+ASSIGN vZ plj
+RPRINT
+INSERT v string
+INSERT aTEj string
+END
+INSERT s string
+RPRINT
+INSERT wP number
+INSERT jF1zld string
+RPRINT
+BEGIN
+mHlmM j
+INSERT eVyv string
+INSERT l_ number
+LOOKUP s
+INSERT k8dGx number
+LOOKUP mZygC
+LOOKUP mbIp
+INSERT ubLcy number

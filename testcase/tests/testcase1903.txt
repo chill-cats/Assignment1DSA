@@ -1,0 +1,31 @@
+INSERT zt4qfd string
+END
+INSERT ugE9d number
+INSERT iRt number
+RPRINT
+INSERT aq string
+LOOKUP zt4qfd
+INSERT oV1w number
+INSERT kW_ string
+INSERT ucUhh number
+PRINT
+INSERT c number
+INSERT lPIXj1 number
+INSERT nYli8n string
+ASSIGN lPIXj1 nYli8n
+INSERT gEsa number
+INSERT l string
+INSERT qs number
+INSERT s number
+ASSIGN c 1097
+INSERT kGcfOB number
+RPRINT
+INSERT u1uz number
+INSERT oDDTJW number
+INSERT rK8l number
+INSERT vl string
+INSERT b string
+cV5wno jtyXG
+INSERT sf7F string
+BEGIN
+BEGIN

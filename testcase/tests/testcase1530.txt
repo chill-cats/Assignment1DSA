@@ -1,0 +1,8 @@
+INSERT u_P6m number
+INSERT a number
+INSERT l0d number
+INSERT fV0u string
+RPRINT
+INSERT to7Wzq string
+INSERT f5 number
+PRINT

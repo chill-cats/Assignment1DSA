@@ -1,0 +1,9 @@
+INSERT xoD string
+INSERT nw number
+INSERT v string
+INSERT nd string
+qpDkQ jJ1BT
+BEGIN
+LOOKUP nd
+INSERT a number
+INSERT oA5GDN string

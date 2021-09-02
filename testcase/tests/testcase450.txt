@@ -1,0 +1,5 @@
+INSERT t2QTS number
+INSERT gKv string
+INSERT u string
+BEGIN
+INSERT ewqQ string

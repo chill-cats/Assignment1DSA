@@ -1,0 +1,19 @@
+INSERT udGgl string
+LOOKUP udGgl
+INSERT v_Zx string
+INSERT t string
+INSERT pO number
+PRINT
+INSERT oI string
+BEGIN
+LOOKUP pO
+RPRINT
+INSERT eL number
+INSERT hy number
+INSERT nO string
+INSERT lO string
+INSERT wNuEB4 number
+RPRINT
+INSERT k string
+INSERT l3JM number
+INSERT xzgO number

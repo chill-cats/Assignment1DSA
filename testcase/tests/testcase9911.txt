@@ -1,0 +1,15 @@
+INSERT kY01d number
+PRINT
+RPRINT
+PRINT
+INSERT tT number
+INSERT ntRpto number
+INSERT xOr string
+PRINT
+INSERT einaoX string
+INSERT y number
+INSERT vC9x string
+INSERT qwoDf string
+RPRINT
+INSERT w83A number
+LOOKUP tT

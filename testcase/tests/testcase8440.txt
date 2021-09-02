@@ -1,0 +1,16 @@
+PRINT
+INSERT gz number
+PRINT
+RPRINT
+LOOKUP gz
+LOOKUP gz
+ASSIGN gz gz
+RPRINT
+INSERT wFzcu number
+INSERT x8 string
+INSERT vw2E number
+INSERT gF5W9e number
+INSERT rPH1 number
+ASSIGN gF5W9e rPH1
+INSERT lzC string
+INSERT aXIgF number

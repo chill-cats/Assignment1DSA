@@ -1,0 +1,9 @@
+INSERT rQj string
+ASSIGN rQj rQj
+BEGIN
+INSERT kL number
+END
+INSERT e6z number
+INSERT sywv string
+INSERT baXb number
+INSERT knG number

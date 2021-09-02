@@ -1,0 +1,11 @@
+INSERT k number
+INSERT wVdV string
+INSERT i2D number
+INSERT tOgC number
+LOOKUP wVdV
+PRINT
+INSERT xdgs number
+INSERT j string
+INSERT v number
+INSERT fNS string
+RPRINT

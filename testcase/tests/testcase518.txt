@@ -1,0 +1,18 @@
+BEGIN
+RPRINT
+INSERT x644Gh string
+END
+INSERT s8Iq_m string
+INSERT xRRN string
+PRINT
+INSERT nc string
+INSERT sb8J9 number
+INSERT rVaR number
+BEGIN
+INSERT l7iQ number
+INSERT vrr number
+INSERT dJ9WA string
+LOOKUP s8Iq_m
+LOOKUP sb8J9
+BEGIN
+INSERT k3ay number

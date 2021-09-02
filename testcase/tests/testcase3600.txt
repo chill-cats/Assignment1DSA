@@ -1,0 +1,34 @@
+INSERT xeU4RG string
+ASSIGN xeU4RG 'zAfwU'
+INSERT dI6s3V string
+INSERT r string
+INSERT zR82vq string
+INSERT qc1aGO number
+BEGIN
+RPRINT
+BEGIN
+INSERT vhmmSo number
+INSERT ajTqQ number
+END
+INSERT dB0 string
+INSERT ikLi string
+INSERT n3DUV string
+LOOKUP qc1aGO
+INSERT cEAN string
+pg ix5X
+INSERT gn string
+INSERT zv8 number
+INSERT y4BA1A string
+LOOKUP qc1aGO
+ASSIGN qc1aGO qc1aGO
+INSERT g25 string
+INSERT sQFHD number
+RPRINT
+INSERT zH number
+INSERT cHXfx number
+INSERT yl number
+PRINT
+INSERT tCF number
+INSERT z string
+ASSIGN ikLi 546
+LOOKUP pJ

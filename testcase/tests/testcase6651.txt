@@ -1,0 +1,24 @@
+INSERT iHsulC string
+INSERT f number
+BEGIN
+LOOKUP f
+RPRINT
+INSERT gUhxlr string
+ASSIGN f gUhxlr
+INSERT oO number
+LOOKUP f
+INSERT ncunS number
+INSERT eGM6Y4 string
+INSERT d number
+INSERT ma string
+LOOKUP ncunS
+INSERT s number
+INSERT t3X8 number
+INSERT gY string
+INSERT hN number
+INSERT o string
+INSERT dGv8k number
+INSERT l9 string
+ASSIGN eGM6Y4 188
+ASSIGN eGM6Y4 hN
+INSERT f string

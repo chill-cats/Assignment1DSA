@@ -1,0 +1,35 @@
+LOOKUP lik9
+INSERT dRKv number
+INSERT o7 string
+INSERT n_6CG string
+INSERT scyf5A string
+fii8Z7 vV98lX
+INSERT eMSEx number
+INSERT wW number
+INSERT d3VOgK number
+INSERT moazL number
+LOOKUP moazL
+INSERT gQIy78 number
+BEGIN
+END
+INSERT cff string
+INSERT p string
+PRINT
+INSERT jYs7 number
+END
+INSERT j string
+uc5O eqC63
+INSERT io5t0 number
+INSERT lko1K4 string
+INSERT klC number
+INSERT pzZ string
+LOOKUP moazL
+RPRINT
+INSERT wAT string
+ASSIGN scyf5A dRKv
+RPRINT
+INSERT cVi7b8 string
+INSERT tHdK string
+INSERT zScBS number
+INSERT bqZsS number
+PRINT

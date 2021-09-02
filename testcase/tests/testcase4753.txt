@@ -1,0 +1,19 @@
+INSERT yC number
+INSERT pgEGb string
+INSERT ut string
+LOOKUP ut
+LOOKUP ut
+INSERT dbPMFM number
+ASSIGN yC yC
+INSERT nM string
+wEAGqg g
+INSERT ecGcL number
+RPRINT
+INSERT mTGxKm number
+INSERT z string
+INSERT v6 string
+END
+INSERT oqbyMX string
+LOOKUP nM
+INSERT nRWsG number
+INSERT fA69t string

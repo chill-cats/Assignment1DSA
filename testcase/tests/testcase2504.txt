@@ -1,0 +1,8 @@
+PRINT
+BEGIN
+INSERT aKjipO number
+INSERT qZao7 string
+RPRINT
+INSERT bme9sv number
+INSERT kRJ number
+BEGIN

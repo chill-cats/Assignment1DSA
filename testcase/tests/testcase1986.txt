@@ -1,0 +1,11 @@
+INSERT p number
+INSERT l string
+INSERT eHaJ string
+y iY594R
+INSERT gIYv number
+INSERT nqw string
+END
+INSERT ksESUL number
+PRINT
+BEGIN
+INSERT j string

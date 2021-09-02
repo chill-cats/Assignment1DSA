@@ -1,0 +1,5 @@
+INSERT lif7L number
+INSERT uq175B number
+INSERT eKiN number
+LOOKUP eKiN
+BEGIN

@@ -1,0 +1,22 @@
+INSERT fm string
+INSERT ya string
+INSERT sL string
+INSERT z3dCPE string
+INSERT d string
+INSERT b number
+RPRINT
+INSERT s6_7H string
+INSERT r number
+INSERT s number
+PRINT
+INSERT icdZ number
+INSERT k number
+INSERT oOnMpw string
+RPRINT
+INSERT zMR1 string
+INSERT v4sZ string
+BEGIN
+INSERT g string
+INSERT y string
+END
+INSERT wYO number

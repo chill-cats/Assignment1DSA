@@ -1,0 +1,29 @@
+INSERT jE6Kq string
+INSERT q number
+INSERT hzA number
+INSERT wEkv number
+INSERT tP7 string
+INSERT m string
+INSERT zxcSn number
+INSERT kh number
+ASSIGN tP7 661
+ASSIGN zxcSn 's'
+END
+PRINT
+INSERT cCON number
+INSERT sAihZ string
+ASSIGN zxcSn 'lr'
+INSERT h string
+RPRINT
+BEGIN
+INSERT yQ string
+INSERT s_ES0 number
+INSERT ipu3c number
+PRINT
+INSERT c number
+INSERT jN5 string
+INSERT l7dcqw string
+INSERT dT7wt string
+a6 lRbWk
+INSERT zHsHVs string
+INSERT vhMwcA number

@@ -1,0 +1,4 @@
+INSERT wnutKb string
+INSERT e string
+LOOKUP wnutKb
+INSERT rP2f string

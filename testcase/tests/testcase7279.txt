@@ -1,0 +1,17 @@
+INSERT tzow number
+INSERT pPD number
+PRINT
+ASSIGN tzow 24
+INSERT h string
+INSERT saxl8 string
+LOOKUP tzow
+INSERT sDcB number
+INSERT r4 number
+INSERT fCMJOQ number
+INSERT mwWPY number
+BEGIN
+INSERT k5Z4EC string
+INSERT dTkHz string
+INSERT ra_3 string
+INSERT zDGHH0 string
+BEGIN

@@ -1,0 +1,37 @@
+INSERT hSRH6z string
+INSERT vRDNZ3 string
+ASSIGN vRDNZ3 143
+BEGIN
+INSERT pq number
+END
+INSERT yZTX number
+LOOKUP vRDNZ3
+INSERT nFTX number
+INSERT jFI number
+INSERT vl number
+o0z l0uqi
+INSERT a string
+INSERT iU1bO number
+INSERT bcrPWm string
+INSERT c5SG8 number
+INSERT onfu string
+INSERT gOy3CA number
+INSERT yZNR string
+INSERT vS5i string
+INSERT kXv string
+LOOKUP yZNR
+z9 k
+INSERT s string
+BEGIN
+INSERT eXx number
+INSERT hRvMQ number
+INSERT gXz2f string
+RPRINT
+INSERT wd number
+LOOKUP eXx
+INSERT umUR number
+ASSIGN yZNR gXz2f
+INSERT m number
+INSERT k6h string
+INSERT l string
+END

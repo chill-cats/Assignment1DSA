@@ -1,0 +1,19 @@
+INSERT s string
+sG iQm7sM
+yI1 dH
+ASSIGN s 453
+INSERT q string
+INSERT jM5G number
+kT vzHi
+INSERT b8 number
+INSERT akl number
+INSERT shhE string
+INSERT pWMVb string
+INSERT pC string
+PRINT
+INSERT r string
+PRINT
+PRINT
+INSERT g string
+INSERT a number
+RPRINT

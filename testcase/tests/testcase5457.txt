@@ -1,0 +1,40 @@
+INSERT n0c string
+INSERT bRc number
+PRINT
+INSERT s number
+INSERT dW0A number
+INSERT cg string
+INSERT bk number
+PRINT
+INSERT nsoF8H number
+INSERT v5Vlo2 string
+LOOKUP bRc
+INSERT eQ number
+INSERT b string
+hh aCn
+RPRINT
+INSERT nj2Tw number
+INSERT vpGr string
+PRINT
+INSERT gQ number
+INSERT fqT string
+q jL
+INSERT jJD9V number
+u wfpQI9
+END
+vwOBG x
+INSERT aYd4v string
+INSERT g2 number
+BEGIN
+INSERT jI8c number
+ASSIGN b 1161
+INSERT lfKh number
+INSERT mES number
+INSERT sn9x string
+PRINT
+INSERT y4S number
+PRINT
+INSERT z string
+INSERT mA4L string
+INSERT cL5 string
+INSERT r number

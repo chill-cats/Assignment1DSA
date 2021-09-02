@@ -1,0 +1,29 @@
+INSERT aVK5 string
+LOOKUP aVK5
+INSERT x number
+INSERT aVka string
+INSERT wq3e number
+PRINT
+INSERT va number
+a4c2EX k2p
+INSERT m8Ho string
+INSERT gA number
+INSERT yAL string
+INSERT g string
+LOOKUP aVK5
+INSERT lfau2 number
+INSERT hMI0T8 number
+END
+LOOKUP gA
+BEGIN
+INSERT g4O2 number
+RPRINT
+RPRINT
+INSERT d6OV number
+PRINT
+INSERT dW number
+INSERT h_Jw number
+INSERT te number
+INSERT hUC string
+INSERT m string
+RPRINT

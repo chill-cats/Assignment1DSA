@@ -1,0 +1,26 @@
+INSERT bk number
+INSERT s string
+INSERT jZE number
+LOOKUP jZE
+LOOKUP jZE
+LOOKUP jZE
+PRINT
+BEGIN
+INSERT p string
+INSERT f number
+LOOKUP bk
+INSERT p number
+INSERT iyJ string
+INSERT g string
+RPRINT
+RPRINT
+PRINT
+INSERT uyYDKM number
+END
+INSERT eH string
+PRINT
+BEGIN
+INSERT h4H3 string
+INSERT j2 string
+LOOKUP wj
+INSERT eoG6 string

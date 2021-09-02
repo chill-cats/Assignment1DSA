@@ -1,0 +1,12 @@
+INSERT hS3P number
+INSERT uQFx3Q number
+LOOKUP uQFx3Q
+INSERT qH string
+INSERT r number
+INSERT d string
+INSERT jpT number
+INSERT i number
+INSERT qp0V string
+END
+INSERT asL string
+INSERT tA string

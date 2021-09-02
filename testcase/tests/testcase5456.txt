@@ -1,0 +1,24 @@
+INSERT boq number
+INSERT wa7bbo number
+INSERT kz string
+LOOKUP kz
+ASSIGN boq kz
+INSERT n8Ka number
+INSERT e number
+INSERT ccP string
+INSERT mGGL string
+y32lUy lBQa3
+INSERT kvUn_N number
+INSERT r string
+LOOKUP mGGL
+LOOKUP kvUn_N
+INSERT oWyEym string
+jC26 s7r0
+RPRINT
+RPRINT
+ASSIGN q 1043
+INSERT l0uQ string
+pVM lXbN
+RPRINT
+ASSIGN r 'Vz'
+INSERT yM2 string

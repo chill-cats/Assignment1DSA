@@ -1,0 +1,11 @@
+INSERT wNO number
+INSERT w number
+LOOKUP w
+INSERT t string
+BEGIN
+INSERT wam string
+INSERT k string
+ASSIGN k 'gglWN'
+INSERT ovUQP string
+INSERT pmx0 string
+INSERT v string

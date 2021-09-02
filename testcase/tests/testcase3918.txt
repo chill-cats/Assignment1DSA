@@ -1,0 +1,40 @@
+LOOKUP aanHSE
+INSERT r2 number
+END
+RPRINT
+INSERT qQ number
+INSERT agNH number
+BEGIN
+INSERT env8w number
+INSERT mUG4 number
+INSERT uciD string
+INSERT ewV number
+INSERT tU number
+INSERT uAi string
+INSERT qB string
+INSERT ad1 string
+INSERT h number
+INSERT ryhR string
+INSERT h_c0 number
+INSERT sucZ string
+PRINT
+BEGIN
+END
+INSERT aQH string
+LOOKUP agNH
+INSERT tz number
+INSERT u4ftbs number
+END
+INSERT rz3R number
+INSERT t6_k number
+INSERT z5d5T9 string
+INSERT k8VAO string
+INSERT qywB number
+INSERT vXNp5U string
+INSERT fDXNnt string
+INSERT j string
+p sKE
+INSERT w1 number
+INSERT r string
+BEGIN
+INSERT h number

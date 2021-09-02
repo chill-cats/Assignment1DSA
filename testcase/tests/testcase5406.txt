@@ -1,0 +1,30 @@
+INSERT pVq number
+INSERT p8 string
+INSERT rW string
+INSERT twNuY number
+INSERT yno string
+INSERT fqSY number
+INSERT dkSv number
+ASSIGN rW fqSY
+INSERT bLoN string
+RPRINT
+INSERT gZN string
+PRINT
+INSERT bzFv string
+INSERT hVxRC string
+INSERT cioQe number
+INSERT yfx number
+END
+INSERT jBS string
+ASSIGN cioQe pVq
+blkK7 foMa
+INSERT q string
+INSERT a number
+INSERT a6 string
+INSERT eno string
+INSERT i6t number
+BEGIN
+PRINT
+INSERT mB number
+LOOKUP cioQe
+INSERT nXezb number

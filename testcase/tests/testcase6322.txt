@@ -1,0 +1,17 @@
+ASSIGN rcW 657
+INSERT nG number
+END
+RPRINT
+INSERT m68kAz number
+INSERT pxO number
+INSERT n number
+INSERT hRBe number
+INSERT lCafL string
+INSERT d string
+INSERT yfFT number
+INSERT k number
+k n
+INSERT bKLMA string
+INSERT gh2G number
+INSERT f number
+ASSIGN n 'gdz6'

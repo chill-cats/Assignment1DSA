@@ -1,0 +1,37 @@
+INSERT iobcD string
+INSERT eI string
+INSERT qqeTX6 number
+ASSIGN iobcD 78
+INSERT qY string
+INSERT yxvO string
+INSERT zxwvLO number
+INSERT rDmLD number
+INSERT b string
+LOOKUP qY
+INSERT i6cp8 string
+INSERT cJNDi number
+BEGIN
+INSERT ij string
+INSERT wXoRk string
+INSERT bOna string
+INSERT sZzO string
+INSERT l0tbqt string
+PRINT
+LOOKUP i6cp8
+INSERT cjYvf number
+LOOKUP rDmLD
+INSERT ts9wcL string
+END
+INSERT eqIX string
+INSERT mLhA number
+ASSIGN eI 888
+BEGIN
+INSERT q6iccS string
+INSERT h number
+INSERT oYJkT number
+INSERT bl string
+PRINT
+INSERT pBpYXt number
+LOOKUP q6iccS
+INSERT bH3p string
+PRINT

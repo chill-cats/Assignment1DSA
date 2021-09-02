@@ -1,0 +1,40 @@
+INSERT fdEdB string
+INSERT oZxep string
+PRINT
+RPRINT
+LOOKUP fdEdB
+INSERT hSCj number
+INSERT cmjma7 string
+INSERT nSZA string
+INSERT z string
+INSERT iV string
+RPRINT
+INSERT aqH string
+INSERT jdSt1Y string
+INSERT hGWq number
+INSERT k number
+INSERT dvLXZ number
+INSERT o number
+ASSIGN hGWq fdEdB
+LOOKUP aqH
+RPRINT
+INSERT pkDT string
+RPRINT
+BEGIN
+ASSIGN cmjma7 aqH
+RPRINT
+INSERT tr0b6_ number
+atr l
+INSERT g8 number
+END
+INSERT e string
+RPRINT
+INSERT qJptBT string
+INSERT wR0xH number
+PRINT
+INSERT pl8TIA number
+INSERT cDZ number
+BEGIN
+INSERT kE8Rs string
+INSERT yt9J number
+INSERT kMZSd string

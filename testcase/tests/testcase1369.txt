@@ -1,0 +1,36 @@
+INSERT tOu0di string
+INSERT yZY3 string
+LOOKUP yZY3
+INSERT m string
+INSERT hTZmlx number
+INSERT hxeU string
+PRINT
+INSERT euOW number
+INSERT yeW8 string
+INSERT x7k1 string
+INSERT laHD number
+INSERT s string
+INSERT jMI6 string
+END
+INSERT q_d8Vg number
+INSERT d31hK number
+xmfMuo zkhH
+INSERT tqW_Ug number
+BEGIN
+INSERT ppZv string
+INSERT h8cNT string
+pGNE q8s
+ASSIGN d31hK 'KH'
+ASSIGN tOu0di 1206
+INSERT wlkzuD number
+LOOKUP hTZmlx
+INSERT v number
+INSERT yioqn4 number
+BEGIN
+RPRINT
+INSERT ripHVN string
+INSERT qXv string
+INSERT nlgY75 string
+INSERT k3Hi number
+INSERT j74bQ6 string
+RPRINT

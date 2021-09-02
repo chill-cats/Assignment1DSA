@@ -1,0 +1,23 @@
+RPRINT
+INSERT pWJwR7 number
+PRINT
+INSERT bBwWp string
+ASSIGN bBwWp bBwWp
+INSERT uBLq8f string
+INSERT dn string
+INSERT s_h string
+INSERT x string
+INSERT cqW string
+INSERT mee number
+ASSIGN bBwWp 'kShK'
+INSERT wl0f string
+PRINT
+RPRINT
+INSERT of number
+END
+INSERT h8HH number
+END
+INSERT y string
+INSERT agGfh number
+RPRINT
+END

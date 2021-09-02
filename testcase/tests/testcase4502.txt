@@ -1,0 +1,27 @@
+LOOKUP jQV
+INSERT arZ string
+INSERT wn4VWV number
+INSERT t number
+INSERT lEs number
+INSERT m number
+PRINT
+INSERT sd string
+ASSIGN m 241
+RPRINT
+INSERT f number
+INSERT am string
+END
+INSERT i_Eyd string
+PRINT
+INSERT h3R number
+INSERT ee string
+INSERT e string
+INSERT fLz string
+INSERT cXJmdS number
+BEGIN
+PRINT
+INSERT geVm string
+INSERT f3 string
+INSERT k string
+END
+INSERT hF1z string

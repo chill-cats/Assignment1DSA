@@ -1,0 +1,15 @@
+INSERT kgKKF9 number
+LOOKUP kgKKF9
+PRINT
+INSERT l6 string
+INSERT rFQJi number
+INSERT mkAWYp string
+LOOKUP l6
+INSERT a67FYT string
+RPRINT
+INSERT ahBx string
+INSERT isDS number
+INSERT ba68 number
+BEGIN
+INSERT v number
+INSERT mv string

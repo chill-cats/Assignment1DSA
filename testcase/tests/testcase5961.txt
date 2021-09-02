@@ -1,0 +1,10 @@
+LOOKUP nySYA
+INSERT d91Nbv string
+RPRINT
+INSERT nUHLVq number
+INSERT ffow3A string
+LOOKUP ffow3A
+INSERT qqN6jZ string
+INSERT bI number
+BEGIN
+ASSIGN ffow3A 'ti3'

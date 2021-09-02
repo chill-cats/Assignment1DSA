@@ -1,0 +1,12 @@
+END
+INSERT j number
+END
+INSERT kZZruH number
+INSERT x99z string
+ASSIGN j '8F'
+INSERT pw number
+INSERT z4P5Fa string
+INSERT do number
+END
+INSERT sXTIt string
+INSERT fA__Cq number

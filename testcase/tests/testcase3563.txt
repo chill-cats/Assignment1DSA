@@ -1,0 +1,9 @@
+INSERT iRAF number
+END
+aa stJ
+ASSIGN iRAF 'yPO'
+END
+INSERT afE number
+END
+INSERT te string
+INSERT f0 number

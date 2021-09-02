@@ -1,0 +1,39 @@
+END
+INSERT n string
+PRINT
+INSERT o number
+INSERT p string
+INSERT uF string
+INSERT l49 string
+INSERT s6m string
+LOOKUP p
+INSERT wuH string
+INSERT o number
+LOOKUP s6m
+LOOKUP n
+PRINT
+INSERT w3B string
+INSERT zeW string
+INSERT eEsj_ number
+INSERT lteN number
+INSERT i number
+INSERT prG string
+INSERT z number
+INSERT pzPAe number
+RPRINT
+INSERT g5Ot number
+INSERT vkS string
+INSERT m4vj number
+PRINT
+t5xJ cxJiyu
+INSERT kwM string
+BEGIN
+cBrSv osr4sy
+INSERT b11ZE string
+LOOKUP kwM
+RPRINT
+INSERT l39vNY number
+INSERT c7 string
+INSERT j9CGZ string
+INSERT mDld number
+PRINT

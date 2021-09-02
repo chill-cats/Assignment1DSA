@@ -1,0 +1,29 @@
+INSERT uG number
+ASSIGN uG 'dyl'
+BEGIN
+INSERT o string
+LOOKUP uG
+BEGIN
+LOOKUP o
+ASSIGN o 434
+BEGIN
+INSERT xG7dvZ number
+PRINT
+INSERT iY number
+LOOKUP o
+INSERT jb string
+y bxwDTl
+INSERT upXIl string
+ASSIGN upXIl iY
+INSERT ko1 number
+INSERT rH number
+INSERT pMV48 string
+INSERT b99u number
+RPRINT
+INSERT gI9TMA number
+ASSIGN gI9TMA jb
+INSERT n string
+INSERT he string
+qaTV f
+INSERT fYx7 string
+kuujDq ai

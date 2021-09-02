@@ -1,0 +1,7 @@
+INSERT aeu number
+RPRINT
+INSERT i number
+INSERT qnj string
+INSERT levjeJ number
+ak94 adF4
+INSERT oXbi39 number

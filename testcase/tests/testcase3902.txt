@@ -1,0 +1,15 @@
+INSERT t4GPl string
+INSERT b1x76Q number
+INSERT qx0 string
+INSERT a6FsS number
+PRINT
+INSERT vWsJF number
+INSERT tM9 number
+INSERT e number
+PRINT
+RPRINT
+INSERT rL6u25 number
+LOOKUP rL6u25
+INSERT h0dj number
+BEGIN
+INSERT ttrzGH number

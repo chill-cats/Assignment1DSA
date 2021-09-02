@@ -1,0 +1,38 @@
+INSERT g3 string
+INSERT u number
+INSERT p4OuU_ number
+END
+INSERT tCA5 number
+INSERT i string
+INSERT u string
+LOOKUP i
+INSERT eWd2 number
+INSERT vSukJP string
+co q0S
+LOOKUP u
+PRINT
+LOOKUP g3
+INSERT ouGLwG string
+END
+PRINT
+INSERT b2c1K string
+INSERT lC string
+INSERT e string
+INSERT bMfGN number
+INSERT uGAxwe number
+r4Xq nm
+INSERT s string
+INSERT p number
+END
+END
+INSERT v string
+LOOKUP e
+BEGIN
+BEGIN
+INSERT i number
+INSERT m number
+INSERT sL number
+INSERT nPYlfr number
+INSERT qrTw4 number
+INSERT lm7Mkj number
+ASSIGN m 139

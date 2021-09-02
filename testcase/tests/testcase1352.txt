@@ -1,0 +1,24 @@
+INSERT cOwVr string
+LOOKUP cOwVr
+INSERT uMCQs number
+INSERT dP number
+RPRINT
+INSERT w5c8 number
+INSERT tf5d4 number
+INSERT puuXFF number
+RPRINT
+INSERT mGu string
+i xD8Q
+INSERT k3 string
+INSERT vR71uN number
+INSERT nK number
+INSERT iTD3nX number
+INSERT n string
+INSERT w4osH string
+INSERT xHis87 number
+INSERT vKQ string
+INSERT b number
+INSERT h number
+END
+END
+INSERT t_xS number

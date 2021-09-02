@@ -1,0 +1,8 @@
+END
+RPRINT
+RPRINT
+INSERT k7yDF string
+BEGIN
+INSERT c string
+RPRINT
+INSERT mJY_b number

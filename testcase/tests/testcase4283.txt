@@ -1,0 +1,35 @@
+INSERT gEKG4 number
+INSERT cPQ number
+RPRINT
+INSERT o string
+INSERT x4U number
+INSERT aGzhz5 number
+INSERT u number
+END
+INSERT az number
+INSERT kR74dw number
+INSERT v number
+INSERT dFWDG_ string
+INSERT dAHO string
+INSERT pyE string
+INSERT wE7H number
+INSERT oPk7 number
+BEGIN
+INSERT b2t number
+INSERT dGI number
+PRINT
+BEGIN
+PRINT
+LOOKUP oPk7
+INSERT h6bI1 string
+END
+INSERT ea1Uf6 string
+INSERT z0jD0B string
+ASSIGN u 359
+INSERT k6c string
+END
+BEGIN
+ASSIGN v 'QzuKp'
+ASSIGN pyE dFWDG_
+BEGIN
+INSERT w4w number

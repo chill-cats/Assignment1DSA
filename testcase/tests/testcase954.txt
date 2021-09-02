@@ -1,0 +1,13 @@
+INSERT hGZ string
+RPRINT
+BEGIN
+INSERT w10 number
+ASSIGN hGZ 'gAv'
+RPRINT
+INSERT f string
+INSERT sj number
+BEGIN
+END
+END
+INSERT tfrg number
+INSERT gcJw number

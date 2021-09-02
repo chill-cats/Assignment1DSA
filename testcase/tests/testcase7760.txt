@@ -1,0 +1,7 @@
+LOOKUP w24X
+END
+END
+INSERT g string
+INSERT j7 number
+INSERT rJ number
+INSERT v number

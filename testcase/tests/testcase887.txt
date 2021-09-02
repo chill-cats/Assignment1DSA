@@ -1,0 +1,25 @@
+INSERT j948Y string
+INSERT uy8 number
+INSERT wK9ku number
+INSERT e number
+END
+INSERT x8qKXs string
+LOOKUP x8qKXs
+RPRINT
+INSERT jBCu string
+PRINT
+INSERT sds string
+ASSIGN wK9ku 328
+PRINT
+INSERT lO4 string
+END
+INSERT ecaC number
+INSERT vp number
+PRINT
+LOOKUP e
+INSERT qykHrZ number
+INSERT o string
+INSERT jogYT number
+PRINT
+rP aB8
+INSERT amb number

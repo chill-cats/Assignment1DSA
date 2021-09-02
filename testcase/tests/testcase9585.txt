@@ -1,0 +1,27 @@
+INSERT k3v6h string
+INSERT vMY number
+INSERT ax4k9S number
+END
+INSERT bB7NX string
+INSERT bYj1qf string
+LOOKUP bB7NX
+BEGIN
+INSERT mX string
+RPRINT
+END
+INSERT x4 string
+INSERT vv_r number
+RPRINT
+LOOKUP x4
+aEb3 pHSgHN
+INSERT yyY88 string
+INSERT i3iy string
+RPRINT
+END
+INSERT zFZc6m number
+INSERT dk string
+LOOKUP mX
+INSERT xeqx_9 string
+BEGIN
+INSERT td string
+LOOKUP k3v6h

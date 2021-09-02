@@ -1,0 +1,36 @@
+BEGIN
+BEGIN
+INSERT prCfy number
+RPRINT
+INSERT riD number
+INSERT dn number
+INSERT yb4Sz number
+INSERT cenXkt string
+INSERT ujg57 string
+ASSIGN riD 'Mjc'
+ASSIGN ujg57 'PaS'
+END
+INSERT l number
+INSERT kb8 string
+INSERT pQ number
+INSERT jePc string
+ASSIGN ujg57 1093
+INSERT mKB number
+INSERT wHByG number
+LOOKUP cenXkt
+BEGIN
+LOOKUP ujg57
+LOOKUP l
+RPRINT
+INSERT kR8_ string
+END
+INSERT b_9HR string
+RPRINT
+na no993
+INSERT lpQR string
+INSERT jfO string
+INSERT yb_TVm string
+LOOKUP yb_TVm
+RPRINT
+INSERT bSwVF number
+INSERT aNwJW string

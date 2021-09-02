@@ -1,0 +1,32 @@
+INSERT lh number
+INSERT hp number
+INSERT vi number
+INSERT wjw1ye string
+ASSIGN hp 'DM3ec'
+INSERT vD number
+INSERT r4r1 number
+INSERT ox4ih string
+INSERT vhgW string
+INSERT h_ string
+RPRINT
+INSERT c string
+INSERT ac number
+END
+INSERT u number
+BEGIN
+cuuTSZ p
+INSERT b3 number
+INSERT pr7ik_ number
+ASSIGN u 260
+INSERT d1I5YO number
+INSERT k number
+LOOKUP ac
+INSERT hw number
+INSERT lL89 string
+INSERT q8UAd0 string
+PRINT
+LOOKUP wjw1ye
+nuyp dgvhcJ
+RPRINT
+c otEu_
+ASSIGN wjw1ye 0

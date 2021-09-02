@@ -1,0 +1,14 @@
+PRINT
+INSERT mMuh1A number
+INSERT yZ3jB string
+RPRINT
+RPRINT
+INSERT mMmW7 string
+INSERT q string
+ASSIGN q 531
+BEGIN
+END
+INSERT o string
+k lPpht
+PRINT
+INSERT wbH number

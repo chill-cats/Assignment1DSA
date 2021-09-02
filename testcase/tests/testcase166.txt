@@ -1,0 +1,32 @@
+INSERT u string
+INSERT f7qE number
+LOOKUP f7qE
+INSERT lO2CI number
+PRINT
+INSERT nF string
+INSERT g7OfO string
+INSERT kGK number
+INSERT r string
+INSERT dx string
+INSERT jSnC string
+INSERT u7 string
+INSERT hrrRJE string
+INSERT sCZ string
+LOOKUP g7OfO
+INSERT t string
+INSERT laj_nf number
+INSERT lMds number
+INSERT k4cC string
+INSERT aR9 number
+INSERT sG9i number
+INSERT oFLv number
+PRINT
+END
+END
+INSERT mZ number
+INSERT eKah string
+INSERT lR8S55 string
+INSERT tCH string
+INSERT d9X number
+PRINT
+INSERT dF number

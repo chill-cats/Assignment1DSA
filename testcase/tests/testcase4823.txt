@@ -1,0 +1,28 @@
+PRINT
+END
+INSERT jUr2d string
+INSERT ngnFl number
+INSERT p string
+INSERT nCUQBS string
+INSERT fH number
+LOOKUP p
+RPRINT
+INSERT vOfzd number
+glUq nJ
+INSERT aN1NM string
+INSERT wZ7vlQ number
+RPRINT
+INSERT nSM string
+INSERT r string
+nIu m
+INSERT pe string
+ASSIGN lBF 1023
+fFI7Y uRkqEc
+sLsuL aKCb
+INSERT kpK number
+LOOKUP p
+INSERT rSzsO number
+INSERT wlXiz string
+INSERT d8N number
+INSERT hFNc number
+RPRINT

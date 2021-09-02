@@ -1,0 +1,14 @@
+INSERT zTX string
+RPRINT
+INSERT e number
+INSERT jGr number
+BEGIN
+LOOKUP jGr
+INSERT lbOdm3 string
+INSERT e3SY string
+RPRINT
+INSERT yGX number
+LOOKUP e
+LOOKUP jGr
+INSERT hS string
+RPRINT

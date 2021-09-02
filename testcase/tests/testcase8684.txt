@@ -1,0 +1,35 @@
+RPRINT
+RPRINT
+INSERT jR66wn string
+INSERT fL2 number
+INSERT t2j number
+BEGIN
+BEGIN
+LOOKUP jR66wn
+INSERT xf7Ae number
+RPRINT
+INSERT mP9AK string
+INSERT dINN string
+INSERT gJu string
+INSERT eorcf string
+END
+INSERT v string
+INSERT cJ number
+INSERT sDo7pJ string
+INSERT cd number
+ASSIGN gJu cJ
+n zBhvT
+PRINT
+PRINT
+PRINT
+INSERT fII number
+INSERT iJ number
+PRINT
+LOOKUP oAvHh_
+RPRINT
+INSERT cNuQK number
+BEGIN
+ASSIGN t2j 1198
+END
+INSERT qTOI55 string
+INSERT xxAVh_ string

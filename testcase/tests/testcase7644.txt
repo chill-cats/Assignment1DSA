@@ -1,0 +1,40 @@
+INSERT o string
+LOOKUP o
+INSERT s number
+PRINT
+RPRINT
+BEGIN
+INSERT nPsub string
+BEGIN
+RPRINT
+INSERT ka number
+PRINT
+RPRINT
+BEGIN
+RPRINT
+INSERT q4I string
+INSERT m3JqY string
+INSERT s string
+LOOKUP nPsub
+INSERT iCL string
+INSERT p number
+INSERT w number
+INSERT fy5tnE number
+INSERT l_SEs string
+dzOpBz nNv
+INSERT o number
+INSERT v5P string
+ASSIGN o o
+INSERT xL0z string
+RPRINT
+INSERT jMYM string
+INSERT tzG string
+INSERT wQdKcg number
+INSERT uohPm string
+INSERT fauGN number
+INSERT x number
+INSERT imx string
+INSERT o string
+END
+BEGIN
+INSERT x3zc number

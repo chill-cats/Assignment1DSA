@@ -1,0 +1,37 @@
+wjhP arqF
+ASSIGN fI 'jOeH'
+INSERT aXOU number
+INSERT ips8OM string
+ASSIGN ips8OM aXOU
+ASSIGN aXOU 622
+INSERT ww_cUE string
+RPRINT
+INSERT b34e string
+INSERT nJ string
+RPRINT
+END
+END
+INSERT lgz number
+INSERT d_Km string
+END
+viV1dN n
+LOOKUP aXOU
+RPRINT
+INSERT x22 number
+INSERT g0sg string
+INSERT ePtEn4 number
+INSERT wsA7D number
+INSERT bDjw string
+INSERT x7 number
+LOOKUP x22
+ASSIGN bDjw g0sg
+ASSIGN wsA7D wsA7D
+RPRINT
+INSERT aAqM number
+INSERT c number
+INSERT b string
+BEGIN
+INSERT sKA number
+INSERT kM string
+INSERT iILcix string
+END

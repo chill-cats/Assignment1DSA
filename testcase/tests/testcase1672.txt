@@ -1,0 +1,21 @@
+BEGIN
+END
+ASSIGN ju5t 843
+RPRINT
+INSERT ob9A string
+PRINT
+INSERT h number
+END
+ASSIGN h h
+LOOKUP h
+INSERT zt5 string
+INSERT k8 string
+INSERT ww8t1 string
+INSERT satZ string
+ASSIGN ww8t1 '9K'
+RPRINT
+LOOKUP h
+END
+END
+INSERT cbt9n string
+INSERT a2 number

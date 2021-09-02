@@ -1,0 +1,34 @@
+PRINT
+INSERT eNG number
+INSERT yH string
+INSERT teCHHz string
+INSERT em string
+RPRINT
+ASSIGN yH 'eG0c'
+INSERT w9NLRz string
+PRINT
+INSERT tIOV number
+INSERT n7h6P string
+INSERT mc2ECx string
+INSERT qyMQ string
+END
+PRINT
+INSERT ga41w number
+PRINT
+INSERT gO string
+ASSIGN w9NLRz 1033
+ASSIGN mc2ECx '47DrU'
+END
+INSERT hNUwS5 number
+INSERT b string
+INSERT j1dS string
+LOOKUP eNG
+BEGIN
+PRINT
+INSERT rPgQ string
+INSERT b2wqoF string
+INSERT qYYhd number
+ASSIGN ga41w eNG
+INSERT lG number
+RPRINT
+BEGIN

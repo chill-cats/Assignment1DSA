@@ -1,0 +1,20 @@
+INSERT gsikQM number
+INSERT pbR string
+END
+INSERT jEUC_L string
+END
+INSERT wHR string
+INSERT fq string
+INSERT u string
+INSERT wFFAu string
+INSERT u_P number
+INSERT mmEWRp string
+RPRINT
+INSERT idef number
+INSERT s7x0P string
+BEGIN
+INSERT yftVav number
+RPRINT
+BEGIN
+INSERT zGRui number
+ASSIGN mmEWRp u_P

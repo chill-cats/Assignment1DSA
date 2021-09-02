@@ -1,0 +1,4 @@
+RPRINT
+ASSIGN k '9A'
+INSERT roju number
+BEGIN

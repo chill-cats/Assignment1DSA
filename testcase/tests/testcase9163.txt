@@ -1,0 +1,2 @@
+INSERT pG2 number
+RPRINT

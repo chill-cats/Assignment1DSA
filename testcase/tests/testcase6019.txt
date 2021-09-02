@@ -1,0 +1,34 @@
+END
+BEGIN
+INSERT kTS486 number
+INSERT a2VGnf string
+INSERT lz string
+INSERT lyTNGs number
+INSERT o7w number
+INSERT kD4r number
+INSERT kD1y0V string
+INSERT moTZVY string
+INSERT dZhoTf string
+RPRINT
+LOOKUP kD1y0V
+BEGIN
+INSERT qvDylG string
+INSERT o number
+LOOKUP o7w
+INSERT tv3JK number
+INSERT vf string
+INSERT puUuoE number
+BEGIN
+INSERT mqqgI4 number
+INSERT eN number
+ASSIGN lyTNGs 'dA'
+LOOKUP qvDylG
+INSERT x6D string
+INSERT f7J string
+INSERT o string
+pcI me0rZ
+INSERT qy number
+cW fetLQ
+INSERT vMR string
+PRINT
+PRINT

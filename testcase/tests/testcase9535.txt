@@ -1,0 +1,30 @@
+INSERT s6c string
+INSERT lF string
+INSERT rpUFlr string
+INSERT dB string
+INSERT kNzd string
+LOOKUP rpUFlr
+RPRINT
+INSERT nKQWk number
+INSERT jY6 number
+LOOKUP rpUFlr
+PRINT
+INSERT mfi4Sx string
+RPRINT
+cQX uGFj
+PRINT
+ASSIGN jY6 'K8FW'
+LOOKUP nKQWk
+INSERT f number
+INSERT c6 string
+INSERT tKue number
+INSERT t4 string
+BEGIN
+INSERT yVvz string
+PRINT
+PRINT
+q oEzv_
+INSERT cUL6_ string
+INSERT tpkawK string
+BEGIN
+INSERT q number

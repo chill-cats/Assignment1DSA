@@ -1,0 +1,12 @@
+INSERT rx9 number
+INSERT aBe6qp string
+BEGIN
+RPRINT
+INSERT t string
+BEGIN
+INSERT hLww string
+RPRINT
+INSERT ml number
+BEGIN
+END
+INSERT lVmVi string

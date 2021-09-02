@@ -1,0 +1,33 @@
+ASSIGN n1 1080
+INSERT wnl number
+INSERT l number
+INSERT v number
+INSERT h string
+LOOKUP l
+ASSIGN wnl 'xy3mP'
+BEGIN
+INSERT dme string
+a5B nz1t
+ASSIGN h v
+ASSIGN dme 60
+LOOKUP dme
+ASSIGN dme l
+INSERT n7tO4l number
+LOOKUP l
+INSERT k017F string
+RPRINT
+LOOKUP l6
+INSERT mqhcu8 string
+BEGIN
+RPRINT
+INSERT xrQT string
+INSERT wj string
+INSERT x number
+INSERT yt0 number
+INSERT ig8V string
+INSERT g string
+INSERT bH string
+RPRINT
+INSERT ckE2 string
+LOOKUP ig8V
+INSERT s number

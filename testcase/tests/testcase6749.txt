@@ -1,0 +1,31 @@
+BEGIN
+INSERT d number
+INSERT l2Ym number
+INSERT uN string
+INSERT i string
+INSERT mlhVr number
+ASSIGN l2Ym l2Ym
+ASSIGN uN 318
+INSERT dLbsYq string
+INSERT jWPhS string
+f8zEsA k
+RPRINT
+INSERT cTp5YC number
+INSERT cy8I string
+INSERT oLNTji string
+INSERT y3NcP string
+END
+INSERT pw string
+INSERT w23 string
+ASSIGN oLNTji 35
+INSERT l string
+INSERT i94vo string
+INSERT pM8IJk string
+INSERT xo string
+INSERT e0NFd string
+INSERT qNkO number
+INSERT r number
+LOOKUP i94vo
+INSERT o string
+INSERT a12n string
+INSERT a string

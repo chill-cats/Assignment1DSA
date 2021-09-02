@@ -1,0 +1,37 @@
+RPRINT
+ASSIGN cH 'S'
+INSERT xMnjTy number
+LOOKUP xMnjTy
+INSERT vICps string
+INSERT ah number
+END
+INSERT psx number
+INSERT mC string
+INSERT bg string
+END
+END
+gn_ rhiC
+INSERT yE number
+RPRINT
+INSERT b0_Yj string
+h eYSg
+INSERT oqp string
+INSERT wovszh number
+INSERT yEd number
+BEGIN
+INSERT r number
+RPRINT
+INSERT eJEW string
+INSERT cxY string
+INSERT js number
+INSERT fC string
+INSERT yCTxwA string
+m rsM
+INSERT swuUI number
+INSERT ojBb number
+INSERT sc number
+INSERT uq3 number
+INSERT uZ3I number
+INSERT gQ31p string
+mG em
+BEGIN

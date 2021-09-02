@@ -1,0 +1,16 @@
+ASSIGN ow6 495
+RPRINT
+INSERT v string
+INSERT arXA number
+INSERT rt number
+INSERT cPX number
+INSERT wHqM number
+INSERT hGFvh number
+INSERT m4bQ string
+BEGIN
+INSERT zer string
+INSERT kM7p number
+INSERT o04 number
+INSERT iH9cc4 string
+ASSIGN m4bQ 930
+INSERT kgVqe string

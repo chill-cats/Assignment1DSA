@@ -1,0 +1,9 @@
+INSERT jUj string
+INSERT gdRGw number
+INSERT nJ string
+INSERT e number
+RPRINT
+INSERT aKR6rc number
+RPRINT
+INSERT g number
+INSERT ul_ number

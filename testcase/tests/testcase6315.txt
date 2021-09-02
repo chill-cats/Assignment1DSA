@@ -1,0 +1,40 @@
+INSERT jdqq string
+INSERT weia2 number
+PRINT
+INSERT ri string
+INSERT b string
+INSERT lyf number
+INSERT uifI number
+PRINT
+INSERT x string
+INSERT s number
+INSERT wyJf string
+INSERT xWq number
+LOOKUP ri
+END
+INSERT r string
+INSERT kJcmdv string
+BEGIN
+INSERT tIg2 number
+INSERT q string
+BEGIN
+PRINT
+END
+INSERT n string
+RPRINT
+INSERT vKtvO number
+RPRINT
+INSERT o7 string
+INSERT gTain3 number
+INSERT sV8s number
+INSERT r5Cu number
+INSERT a string
+INSERT mbxxR string
+INSERT m string
+INSERT p number
+ASSIGN gTain3 lyf
+INSERT v string
+INSERT aF number
+INSERT a65q number
+INSERT zyZlN number
+INSERT mc4 number

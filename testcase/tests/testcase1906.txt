@@ -1,0 +1,18 @@
+LOOKUP p
+INSERT i3tbE0 number
+PRINT
+INSERT xm string
+RPRINT
+INSERT e string
+RPRINT
+RPRINT
+LOOKUP i3tbE0
+RPRINT
+END
+cUqR s6U
+PRINT
+INSERT r2d number
+INSERT rnq8 number
+INSERT ujbYBS number
+INSERT iQh number
+PRINT

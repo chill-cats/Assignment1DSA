@@ -1,0 +1,5 @@
+INSERT iX_ string
+INSERT u_o4F number
+INSERT zzSq string
+RPRINT
+INSERT tw string

@@ -1,0 +1,13 @@
+BEGIN
+INSERT btF string
+INSERT v string
+INSERT jlcY string
+BEGIN
+INSERT t3hBK8 number
+a22TCl t8
+ijA aO9_1
+INSERT ab number
+LOOKUP t3hBK8
+INSERT g number
+INSERT wf string
+ASSIGN btF 'trTsH'

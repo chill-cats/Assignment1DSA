@@ -1,0 +1,38 @@
+INSERT c4xKM string
+RPRINT
+INSERT pTaxf number
+INSERT tS number
+INSERT bSB number
+RPRINT
+INSERT gdo0 string
+INSERT cM string
+LOOKUP cM
+LOOKUP bSB
+m hL
+cM uMk7k
+INSERT lq string
+RPRINT
+BEGIN
+LOOKUP tS
+INSERT tz4 number
+INSERT e number
+BEGIN
+LOOKUP cM
+INSERT kk number
+RPRINT
+INSERT kxWvE number
+INSERT sUQEw number
+INSERT wt number
+INSERT sJkQvC string
+END
+INSERT sUEFQ number
+INSERT vPu2S number
+END
+END
+END
+zBDp9 v
+BEGIN
+INSERT a number
+INSERT xgMLRf string
+INSERT cO8 number
+INSERT v string

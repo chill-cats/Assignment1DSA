@@ -1,0 +1,38 @@
+c3VK ov
+LOOKUP r
+BEGIN
+INSERT k28n string
+INSERT m9MM string
+LOOKUP m9MM
+INSERT x83O21 string
+INSERT rmx string
+ASSIGN m9MM 1208
+INSERT a number
+PRINT
+INSERT xE string
+INSERT b string
+INSERT ll string
+LOOKUP ll
+INSERT mh string
+LOOKUP xE
+INSERT mUY2Fj string
+ASSIGN x83O21 ll
+INSERT x string
+END
+BEGIN
+INSERT uqtL number
+INSERT w4rtI number
+INSERT gNaj string
+INSERT heE number
+INSERT f38P98 string
+BEGIN
+INSERT eWmV string
+INSERT o_ number
+INSERT du number
+INSERT wZVxp string
+INSERT xPsF number
+ASSIGN uqtL gNaj
+RPRINT
+INSERT pP string
+PRINT
+END

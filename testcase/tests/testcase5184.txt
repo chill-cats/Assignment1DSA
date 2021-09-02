@@ -1,0 +1,23 @@
+INSERT p2GZNj string
+INSERT nPBl string
+INSERT pJ string
+cf8_mw iWP
+RPRINT
+INSERT dCx number
+RPRINT
+LOOKUP dCx
+ASSIGN dCx pJ
+ASSIGN nPBl ' Ci'
+INSERT b_gmSa string
+w k
+INSERT ldmseE string
+p9 aJ
+PRINT
+INSERT wwEYaS number
+lCZ v3WB
+INSERT n number
+LOOKUP wwEYaS
+kCz fB
+INSERT zk string
+INSERT xuh number
+INSERT j9l number

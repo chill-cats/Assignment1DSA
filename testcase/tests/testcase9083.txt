@@ -1,0 +1,14 @@
+INSERT ubH number
+INSERT rhCV0J string
+INSERT te5R7 number
+INSERT nslZ number
+RPRINT
+INSERT jj number
+INSERT spF1pC string
+INSERT ai4 string
+INSERT z number
+ASSIGN nslZ 140
+END
+INSERT umad0 number
+PRINT
+INSERT yj12jb number

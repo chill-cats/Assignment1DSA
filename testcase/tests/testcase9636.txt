@@ -1,0 +1,32 @@
+INSERT dI8v4G number
+ASSIGN dI8v4G dI8v4G
+INSERT ax969A number
+INSERT k2 string
+ASSIGN ax969A 92
+INSERT xRa9 number
+INSERT vhwE string
+INSERT lktBt string
+qEsZt x0aPVU
+INSERT uDB496 number
+INSERT wd string
+PRINT
+INSERT i number
+BEGIN
+INSERT gcH string
+INSERT hfwEpo number
+BEGIN
+INSERT p string
+INSERT iakeV number
+INSERT am5x string
+BEGIN
+RPRINT
+END
+INSERT t8Z string
+INSERT ynB number
+ASSIGN dI8v4G k2
+PRINT
+INSERT vVAW number
+LOOKUP am5x
+LOOKUP hfwEpo
+INSERT yfC number
+INSERT f string

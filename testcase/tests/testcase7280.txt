@@ -1,0 +1,24 @@
+INSERT mqha number
+INSERT rvWdWk number
+iyiQz iWcPj
+ASSIGN rvWdWk ' oapa'
+INSERT g number
+INSERT l6cAQ2 number
+INSERT t number
+INSERT fRJ7Ii string
+LOOKUP t
+INSERT lP1t number
+INSERT hC number
+RPRINT
+INSERT tqn string
+RPRINT
+INSERT sDb4O number
+LOOKUP l6cAQ2
+LOOKUP fRJ7Ii
+END
+INSERT zZI string
+PRINT
+INSERT eyu number
+END
+PRINT
+INSERT dd1r string

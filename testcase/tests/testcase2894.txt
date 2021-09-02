@@ -1,0 +1,5 @@
+ASSIGN fX 'rt'
+END
+LOOKUP fOL85w
+INSERT hc string
+INSERT lIKu0w number

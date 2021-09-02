@@ -1,0 +1,40 @@
+INSERT oxnym1 string
+END
+INSERT gaon0K number
+INSERT qc6 number
+INSERT nrpP number
+END
+INSERT k6 number
+RPRINT
+INSERT yb1d number
+RPRINT
+END
+INSERT fQx5 string
+LOOKUP oxnym1
+INSERT tPAgk number
+INSERT zVSAy_ number
+INSERT nAWp string
+LOOKUP k6
+INSERT hpyHb number
+INSERT fe7hUK number
+INSERT ivQ string
+INSERT td string
+PRINT
+RPRINT
+INSERT l5c string
+LOOKUP nAWp
+INSERT lxj string
+BEGIN
+BEGIN
+INSERT jSllx number
+BEGIN
+INSERT xbEg1 string
+INSERT pqA number
+INSERT a number
+PRINT
+LOOKUP tPAgk
+INSERT ll string
+INSERT byD string
+PRINT
+INSERT t1KJW string
+INSERT cv string

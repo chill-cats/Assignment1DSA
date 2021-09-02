@@ -1,0 +1,25 @@
+INSERT vt0OO7 string
+LOOKUP vt0OO7
+INSERT lyTYe number
+BEGIN
+PRINT
+INSERT kP string
+PRINT
+INSERT c04GmP number
+END
+INSERT mJ string
+END
+INSERT uR string
+INSERT zLXR string
+END
+RPRINT
+BEGIN
+INSERT e_d number
+INSERT licE8e number
+INSERT gO number
+END
+INSERT vb6oI2 string
+PRINT
+INSERT dID string
+END
+ASSIGN kP gO

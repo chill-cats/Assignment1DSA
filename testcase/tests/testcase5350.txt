@@ -1,0 +1,12 @@
+END
+INSERT lO string
+RPRINT
+ASSIGN lO 8
+RPRINT
+END
+INSERT h number
+INSERT eQ number
+END
+INSERT gV6cLs string
+BEGIN
+LOOKUP gV6cLs

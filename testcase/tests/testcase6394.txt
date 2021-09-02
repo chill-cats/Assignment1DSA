@@ -1,0 +1,31 @@
+RPRINT
+INSERT dMzaTx number
+ASSIGN dMzaTx 255
+INSERT gEZ number
+RPRINT
+BEGIN
+ASSIGN dMzaTx 'Yv4'
+INSERT s number
+RPRINT
+y4 iFWw2
+PRINT
+INSERT wle8 string
+INSERT a string
+INSERT pBI8 number
+INSERT dNgN number
+BEGIN
+PRINT
+INSERT j1I string
+INSERT hz string
+INSERT njuZ9P number
+INSERT uvKz string
+BEGIN
+INSERT f8u number
+INSERT fL9Ol string
+END
+kK cT_
+INSERT qNFD string
+ASSIGN njuZ9P gEZ
+INSERT uVvW string
+INSERT zO number
+INSERT xoWdue string

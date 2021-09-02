@@ -1,0 +1,9 @@
+INSERT cPoP number
+INSERT kGm string
+END
+INSERT nwi number
+INSERT s number
+BEGIN
+END
+INSERT o number
+INSERT h_ string

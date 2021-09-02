@@ -1,0 +1,36 @@
+INSERT lQB string
+INSERT jIsR number
+RPRINT
+INSERT bL9G8z string
+BEGIN
+END
+LOOKUP lQB
+RPRINT
+INSERT h number
+END
+ASSIGN jIsR bL9G8z
+RPRINT
+INSERT ivPa string
+INSERT g string
+INSERT mD3s string
+INSERT cJ string
+RPRINT
+ASSIGN h bL9G8z
+INSERT gIW string
+INSERT tb string
+INSERT d number
+INSERT sy57 number
+INSERT od string
+INSERT sQ string
+INSERT x number
+RPRINT
+INSERT r string
+INSERT ur number
+INSERT c string
+INSERT kjio number
+INSERT xdd string
+INSERT z number
+INSERT eCGufA number
+ASSIGN x 221
+INSERT ek number
+INSERT jrW number

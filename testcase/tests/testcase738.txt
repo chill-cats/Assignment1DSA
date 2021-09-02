@@ -1,0 +1,8 @@
+RPRINT
+INSERT qIzdD number
+PRINT
+INSERT thhvm number
+RPRINT
+PRINT
+INSERT y4g string
+INSERT dKv8 number

@@ -1,0 +1,10 @@
+INSERT v number
+INSERT l_E85v number
+ASSIGN l_E85v 'SxbH3'
+RPRINT
+LOOKUP v
+RPRINT
+INSERT xir number
+INSERT qk string
+INSERT yP string
+INSERT b2oRU string

@@ -1,0 +1,35 @@
+PRINT
+RPRINT
+INSERT pxCi1T string
+END
+PRINT
+INSERT ow string
+RPRINT
+RPRINT
+RPRINT
+INSERT weSy number
+INSERT mfY6 number
+INSERT d_i number
+INSERT iWFTI string
+END
+INSERT tsT number
+END
+jhzeZf vLVcaj
+INSERT v number
+INSERT eRN string
+INSERT t_j9lm number
+LOOKUP d_i
+INSERT ctx_S number
+INSERT hQXh string
+ASSIGN t_j9lm 'zpg'
+INSERT b1 number
+ASSIGN ow ow
+INSERT hqWK__ string
+INSERT fGuAW number
+BEGIN
+INSERT h number
+INSERT f string
+INSERT nC number
+INSERT dueGl_ number
+INSERT tB90 number
+INSERT lXhhV6 number

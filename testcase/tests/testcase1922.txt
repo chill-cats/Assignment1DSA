@@ -1,0 +1,11 @@
+INSERT oHVWTU number
+RPRINT
+INSERT f number
+BEGIN
+LOOKUP f
+INSERT od2e1 string
+BEGIN
+BEGIN
+INSERT remX number
+INSERT hgBn string
+INSERT jXSRY string

@@ -1,0 +1,3 @@
+INSERT tb string
+ASSIGN tb tb
+INSERT rv string

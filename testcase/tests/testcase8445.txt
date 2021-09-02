@@ -1,0 +1,30 @@
+INSERT v number
+INSERT w2k number
+END
+LOOKUP v
+INSERT b string
+INSERT jPZRDH number
+INSERT q string
+END
+INSERT b number
+LOOKUP w2k
+PRINT
+INSERT b76 number
+INSERT s1Pz string
+INSERT biLN6N string
+ASSIGN jPZRDH 'is2v'
+END
+INSERT jU number
+INSERT se59 string
+INSERT f8 number
+INSERT fPgkHT string
+BEGIN
+BEGIN
+INSERT rbNP string
+INSERT ug3Y number
+zGvD tc_veH
+INSERT fF8Cj number
+INSERT p5l1 number
+BEGIN
+BEGIN
+INSERT cg string

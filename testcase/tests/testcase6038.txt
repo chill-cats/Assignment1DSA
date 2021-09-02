@@ -1,0 +1,22 @@
+INSERT v66NcE number
+INSERT q number
+LOOKUP q
+INSERT lt string
+INSERT rkL3d number
+INSERT aDsCf string
+PRINT
+RPRINT
+INSERT b7mj number
+END
+INSERT h5dFb string
+INSERT e string
+INSERT eD string
+INSERT d number
+INSERT ff number
+INSERT cYd6jG string
+END
+INSERT nHrumE number
+INSERT eTsZ number
+INSERT mAV string
+p5wKw h9MSr
+LOOKUP nHrumE

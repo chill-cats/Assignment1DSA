@@ -1,0 +1,17 @@
+PRINT
+ASSIGN rW 479
+INSERT v string
+END
+END
+INSERT amV number
+INSERT d8JMp number
+zsC qL
+INSERT vKT2 string
+INSERT q__M4p string
+INSERT zf4uT0 string
+INSERT t string
+ASSIGN amV q__M4p
+INSERT jyqJ number
+BEGIN
+ASSIGN v 'U'
+INSERT ekyVU string

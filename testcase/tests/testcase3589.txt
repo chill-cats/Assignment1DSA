@@ -1,0 +1,12 @@
+INSERT d number
+INSERT zP string
+PRINT
+INSERT gA string
+PRINT
+INSERT gMpvt number
+d3vZtQ vApI
+INSERT jsEx7 number
+INSERT whLMyW string
+INSERT ll3i2 number
+PRINT
+BEGIN

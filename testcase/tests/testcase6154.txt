@@ -1,0 +1,23 @@
+INSERT nGA9t string
+INSERT gA string
+INSERT tU number
+LOOKUP tU
+INSERT q number
+INSERT f number
+INSERT aJVV string
+INSERT vFmTM number
+ASSIGN aJVV 'RdX'
+INSERT eGJmNN number
+INSERT lKO4 number
+INSERT mj6Xt string
+INSERT pwW9E number
+INSERT r5 string
+INSERT p number
+RPRINT
+LOOKUP p
+PRINT
+BEGIN
+INSERT kb string
+END
+INSERT fG6 string
+u hl8v

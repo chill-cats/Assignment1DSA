@@ -1,0 +1,19 @@
+INSERT noyD0 number
+PRINT
+INSERT lJ01Ze number
+BEGIN
+INSERT ql3 number
+INSERT cpJBT number
+ASSIGN cpJBT 1053
+INSERT dD string
+INSERT l number
+INSERT efNmQu string
+END
+RPRINT
+BEGIN
+INSERT sS number
+INSERT qtceD number
+INSERT m number
+INSERT nsXxS string
+LOOKUP nM32U
+INSERT q string

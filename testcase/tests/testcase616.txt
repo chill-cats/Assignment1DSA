@@ -1,0 +1,17 @@
+INSERT d number
+LOOKUP d
+INSERT pH string
+INSERT fb4L number
+LOOKUP fb4L
+ASSIGN fb4L 'Ynn'
+INSERT ljc_ number
+LOOKUP ljc_
+PRINT
+INSERT zcYhAX number
+LOOKUP fb4L
+INSERT l number
+PRINT
+ASSIGN d pH
+END
+LOOKUP d
+PRINT

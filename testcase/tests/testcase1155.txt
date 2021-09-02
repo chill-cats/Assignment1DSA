@@ -1,0 +1,10 @@
+INSERT uv8 number
+INSERT k number
+RPRINT
+INSERT lvKe string
+INSERT z90D5D number
+RPRINT
+ASSIGN k k
+INSERT spgtM number
+INSERT x4 number
+INSERT jRkJ7 number

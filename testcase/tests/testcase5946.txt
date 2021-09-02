@@ -1,0 +1,7 @@
+ASSIGN jXD 'r2G85'
+END
+INSERT cDQ number
+INSERT x string
+INSERT rfo string
+b gHS
+LOOKUP cDQ

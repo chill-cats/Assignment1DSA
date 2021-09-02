@@ -1,0 +1,24 @@
+INSERT o0LQ55 string
+INSERT fymI string
+INSERT wflq string
+INSERT eZTH string
+INSERT xmSQ string
+INSERT m string
+END
+INSERT blN string
+INSERT wUa93K number
+ASSIGN blN 'BBy'
+INSERT j number
+INSERT gc string
+INSERT oAu2 string
+INSERT cDpa0 string
+INSERT f string
+INSERT mlg number
+PRINT
+RPRINT
+INSERT bz7 number
+INSERT l string
+INSERT iX2664 number
+INSERT m6Rcp string
+BEGIN
+INSERT tz4 number

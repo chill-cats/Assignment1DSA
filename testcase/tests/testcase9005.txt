@@ -1,0 +1,22 @@
+INSERT c7h string
+INSERT r5K string
+RPRINT
+INSERT mi6SR string
+INSERT dzI number
+INSERT gCBQlb string
+o b5X
+RPRINT
+ASSIGN mi6SR '6G'
+END
+INSERT rVbi string
+INSERT mO9x48 string
+INSERT x6gH string
+INSERT rT6dE number
+f b
+END
+PRINT
+INSERT f number
+END
+RPRINT
+INSERT fHmrkP number
+LOOKUP fHmrkP

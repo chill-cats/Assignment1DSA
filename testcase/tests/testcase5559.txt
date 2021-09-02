@@ -1,0 +1,20 @@
+INSERT im1hNF string
+BEGIN
+BEGIN
+INSERT wq number
+INSERT lDcVd2 number
+ASSIGN im1hNF 789
+ASSIGN oz 180
+INSERT gN8V string
+INSERT lF number
+INSERT x number
+ASSIGN lF 954
+INSERT g number
+RPRINT
+PRINT
+RPRINT
+INSERT ljERKe number
+INSERT oQ3 number
+INSERT og string
+INSERT uDMbZ_ string
+LOOKUP gN8V

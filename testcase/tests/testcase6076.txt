@@ -1,0 +1,9 @@
+BEGIN
+ASSIGN bL1 'Q85I'
+ASSIGN r 385
+INSERT sv359Z string
+END
+INSERT qAD number
+INSERT v number
+INSERT h0_ string
+INSERT ff44 string

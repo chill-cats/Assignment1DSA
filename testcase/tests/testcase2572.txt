@@ -1,0 +1,24 @@
+INSERT xZ string
+INSERT jNK5 number
+INSERT bp7 number
+da0brV w2vs
+INSERT yz string
+INSERT y string
+INSERT avaKsN number
+INSERT mcK number
+ASSIGN avaKsN y
+INSERT lZ5 number
+INSERT ntEQ number
+INSERT rqq string
+INSERT tMe string
+BEGIN
+BEGIN
+INSERT iI number
+INSERT t_f4i number
+RPRINT
+RPRINT
+INSERT a number
+INSERT jH9g number
+INSERT n number
+INSERT uss6 string
+END

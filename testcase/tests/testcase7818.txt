@@ -1,0 +1,21 @@
+INSERT lEUv number
+BEGIN
+INSERT ylj number
+INSERT lA number
+INSERT gfs string
+INSERT xlOq04 number
+INSERT piD string
+INSERT vHc5 string
+INSERT cK number
+INSERT leb number
+INSERT o6Jb string
+RPRINT
+INSERT cOY9 string
+INSERT vcyp number
+INSERT k6PXL number
+INSERT c4eh string
+INSERT fiJL string
+LOOKUP gfs
+INSERT vFid string
+ASSIGN cOY9 ylj
+INSERT s number

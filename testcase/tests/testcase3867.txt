@@ -1,0 +1,9 @@
+tc4UCx fQd
+INSERT zmb number
+RPRINT
+INSERT skjW0 number
+INSERT f7uyl number
+LOOKUP zmb
+ASSIGN f7uyl 'J61'
+INSERT soKNA string
+INSERT fD string

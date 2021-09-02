@@ -1,0 +1,39 @@
+INSERT n string
+INSERT d string
+INSERT h4Sy string
+INSERT aAeW85 number
+INSERT gy number
+ASSIGN n 948
+mH ei
+ASSIGN gy 1199
+taBOM pfS9v
+PRINT
+INSERT ei_Gq string
+INSERT ym string
+INSERT zAvbpS string
+INSERT meitN string
+LOOKUP ei_Gq
+INSERT f string
+ASSIGN gy gy
+INSERT n string
+INSERT ny0 number
+INSERT o5Bblj string
+INSERT lwHp string
+LOOKUP ny0
+INSERT yVLz number
+INSERT tmp string
+bev v
+INSERT eD number
+INSERT ydXlX number
+INSERT ji89 number
+INSERT syj string
+INSERT qhQy number
+ASSIGN o5Bblj 'sZa'
+INSERT y9NRp number
+INSERT dwEVQf number
+INSERT ubo string
+lZF fPzg0d
+INSERT nB0H number
+INSERT y1zkZ number
+INSERT e7iH number
+END

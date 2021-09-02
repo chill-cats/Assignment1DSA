@@ -1,0 +1,30 @@
+LOOKUP dY
+INSERT z5 number
+INSERT u number
+INSERT zw0d string
+INSERT msbN string
+INSERT tGP string
+INSERT qvE string
+ASSIGN msbN qvE
+INSERT nMT4Ba number
+INSERT yc7okf string
+INSERT p string
+INSERT iWq8qh number
+INSERT tYjJU number
+INSERT foY number
+INSERT j string
+ASSIGN tYjJU '2Sso7'
+END
+END
+INSERT mHB9 string
+INSERT diJBs0 string
+END
+BEGIN
+PRINT
+PRINT
+INSERT zaOZAr string
+INSERT nPxt4c number
+ni6Y oG
+INSERT mE number
+INSERT kJ string
+INSERT gOmX44 number

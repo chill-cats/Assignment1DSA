@@ -1,0 +1,16 @@
+LOOKUP j
+INSERT gjSP number
+INSERT oq string
+INSERT b5 string
+RPRINT
+INSERT jFDP49 number
+INSERT c9 string
+INSERT bi0s1z string
+INSERT yCt string
+INSERT t9d4q string
+INSERT fKyez number
+INSERT aHKOjQ number
+INSERT g1 number
+INSERT y string
+LOOKUP gjSP
+PRINT

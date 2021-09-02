@@ -1,0 +1,11 @@
+INSERT f string
+INSERT c0 number
+INSERT uqb string
+INSERT mb number
+INSERT nkeJx0 string
+INSERT d number
+INSERT pnSPBO string
+BEGIN
+INSERT gb string
+BEGIN
+ASSIGN uqb 1160

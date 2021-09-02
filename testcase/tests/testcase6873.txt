@@ -1,0 +1,26 @@
+INSERT reb string
+BEGIN
+INSERT xK9 number
+BEGIN
+eJc q2Qn4_
+INSERT rb string
+LOOKUP xK9
+INSERT spn6Q5 string
+INSERT s15 number
+INSERT s number
+INSERT rMZKv string
+LOOKUP reb
+INSERT r7sD number
+INSERT gJtpl0 number
+INSERT sJ0 number
+END
+e_7D oyEG
+INSERT sKKZhT string
+INSERT jIKz7 string
+INSERT q number
+PRINT
+LOOKUP reb
+INSERT uI number
+END
+PRINT
+RPRINT

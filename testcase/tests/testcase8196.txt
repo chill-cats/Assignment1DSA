@@ -1,0 +1,34 @@
+ASSIGN u3 'rhC'
+INSERT d9hON string
+INSERT nRz string
+INSERT cg string
+INSERT nTA number
+INSERT n number
+INSERT tP number
+INSERT dAfmB8 string
+INSERT rAj number
+PRINT
+INSERT meFNd string
+INSERT ugqlE3 string
+INSERT am string
+INSERT z string
+ASSIGN rAj 'o'
+BEGIN
+INSERT n string
+ASSIGN d9hON 'T'
+INSERT ig0sT string
+PRINT
+INSERT yY5A string
+INSERT ql number
+LOOKUP n
+END
+INSERT p string
+LOOKUP ig0sT
+INSERT dP_ string
+INSERT y number
+END
+INSERT uJKP string
+END
+END
+RPRINT
+INSERT u61 string

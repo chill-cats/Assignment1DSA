@@ -1,0 +1,34 @@
+LOOKUP w
+INSERT e3 string
+ASSIGN e3 640
+INSERT kK2Q string
+RPRINT
+INSERT sLV number
+BEGIN
+INSERT hN6Ms string
+INSERT jo number
+INSERT jv8CWw string
+INSERT z3X string
+INSERT qkr string
+INSERT osZ string
+INSERT m4bp number
+PRINT
+INSERT fa number
+jJqB xLu
+INSERT f string
+ASSIGN jo 594
+INSERT sg5H string
+RPRINT
+INSERT xd number
+INSERT h8 number
+INSERT ol2N number
+RPRINT
+RPRINT
+INSERT dcF9A string
+INSERT iVV number
+INSERT ccR number
+LOOKUP ccR
+INSERT fRu6A string
+INSERT wZNG4N string
+INSERT eSaqpe string
+END

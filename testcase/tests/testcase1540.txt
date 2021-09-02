@@ -1,0 +1,8 @@
+RPRINT
+INSERT jkr number
+LOOKUP jkr
+INSERT kP7 number
+RPRINT
+INSERT rxY0P string
+INSERT r string
+INSERT mKakL number

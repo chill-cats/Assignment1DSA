@@ -1,0 +1,22 @@
+END
+END
+INSERT vAQYH number
+LOOKUP f
+PRINT
+INSERT h number
+LOOKUP h
+INSERT tL string
+END
+INSERT aP string
+INSERT p_O number
+END
+RPRINT
+INSERT d7 string
+qsC9rh ls
+PRINT
+INSERT gFq string
+RPRINT
+ASSIGN gFq d7
+INSERT rJsH string
+INSERT yE string
+BEGIN

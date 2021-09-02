@@ -1,0 +1,21 @@
+INSERT qlW9 string
+INSERT arABiA string
+INSERT jiA number
+INSERT vMlyq string
+INSERT zDQH string
+INSERT fau9VF string
+INSERT tA string
+LOOKUP arABiA
+INSERT aMwAK number
+END
+END
+INSERT g string
+END
+INSERT qz3vJp string
+INSERT k number
+INSERT eHGzn5 string
+INSERT r8HOjy number
+END
+INSERT bDvoA8 string
+INSERT oel number
+INSERT wSnpd string

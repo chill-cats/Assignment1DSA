@@ -1,0 +1,24 @@
+INSERT tdoZSm number
+INSERT uki number
+INSERT j string
+PRINT
+ASSIGN uki 'vK'
+INSERT wQ string
+INSERT fHkVlr string
+INSERT uOdl string
+INSERT xW number
+INSERT o number
+INSERT qMN number
+INSERT cA number
+INSERT r3 number
+END
+ASSIGN uki 'Z4t'
+INSERT k string
+INSERT bQ number
+END
+INSERT t string
+PRINT
+INSERT m_ string
+INSERT fkmvPg string
+INSERT fc string
+INSERT q string

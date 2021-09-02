@@ -1,0 +1,40 @@
+INSERT meA3Ro number
+INSERT lE string
+INSERT to4U string
+ASSIGN lE 1158
+INSERT uU number
+INSERT zdw number
+PRINT
+INSERT nU number
+i04 lEWv
+ASSIGN f '086'
+PRINT
+INSERT s1I2 number
+INSERT a4X number
+INSERT iB1 number
+INSERT nRSpCp string
+INSERT cSFlb number
+INSERT nw number
+INSERT j number
+INSERT xx3y string
+INSERT f5YU4L string
+PRINT
+BEGIN
+INSERT rhXG7 string
+BEGIN
+BEGIN
+END
+ASSIGN nw nw
+INSERT f0D50q string
+BEGIN
+LOOKUP j
+INSERT vSJYB number
+INSERT sR string
+INSERT oU string
+BEGIN
+ASSIGN cSFlb nw
+INSERT tAe number
+LOOKUP tAe
+INSERT lGUF number
+PRINT
+END

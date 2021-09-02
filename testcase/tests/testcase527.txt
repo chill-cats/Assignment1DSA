@@ -1,0 +1,34 @@
+INSERT iQ number
+INSERT wNu string
+RPRINT
+BEGIN
+RPRINT
+INSERT uO string
+INSERT ashnTB number
+LOOKUP wNu
+oXQiO y
+INSERT x4oulc string
+INSERT bCZtHG string
+PRINT
+INSERT xo7vw number
+INSERT pn2 number
+PRINT
+RPRINT
+ASSIGN xo7vw 'q7'
+INSERT q string
+BEGIN
+INSERT vW6F number
+PRINT
+LOOKUP bCZtHG
+INSERT reRId string
+INSERT rc string
+ASSIGN vW6F iQ
+RPRINT
+INSERT k5IANX string
+INSERT zBXq2 string
+INSERT rOGUUQ string
+INSERT fVPnN number
+END
+LOOKUP bCZtHG
+PRINT
+INSERT mv string

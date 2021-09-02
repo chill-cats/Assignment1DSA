@@ -1,0 +1,12 @@
+INSERT k number
+END
+ASSIGN k k
+INSERT u number
+RPRINT
+INSERT u string
+INSERT aRMxm number
+INSERT eXv string
+INSERT rKR5p8 number
+INSERT t45jI number
+INSERT o number
+INSERT ilFI number

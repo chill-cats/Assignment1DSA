@@ -1,0 +1,6 @@
+INSERT q_T string
+END
+INSERT w7_AVV string
+INSERT iiCX3 string
+INSERT iI string
+ASSIGN iI 964

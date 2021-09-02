@@ -1,0 +1,33 @@
+LOOKUP o58B
+INSERT moFo string
+ASSIGN moFo 'J'
+INSERT vF number
+INSERT i string
+nBd pW
+INSERT aSeQe number
+INSERT p number
+INSERT wIAv string
+INSERT lvI string
+INSERT kCFz number
+INSERT e number
+BEGIN
+INSERT um9 string
+BEGIN
+iIhH ms
+INSERT bJLg number
+RPRINT
+PRINT
+INSERT dTP number
+INSERT d9 number
+INSERT yI2mlF number
+INSERT r4aCe6 string
+INSERT jPv number
+INSERT whDg string
+INSERT t_zQ2 string
+RPRINT
+INSERT v2vo string
+cDKFn rVgY
+INSERT pb string
+INSERT qSh number
+INSERT q52gk string
+INSERT o number

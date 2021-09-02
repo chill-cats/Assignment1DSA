@@ -1,0 +1,35 @@
+INSERT b number
+INSERT old9p number
+INSERT f string
+INSERT lNBPC string
+INSERT kO string
+INSERT dPEyM string
+INSERT jYTkR number
+INSERT h string
+END
+INSERT te number
+RPRINT
+ASSIGN h 'EnYqL'
+INSERT o string
+INSERT awr6m number
+INSERT dnEz number
+INSERT u3R string
+RPRINT
+INSERT o6x2 string
+INSERT we_ number
+INSERT mBAD string
+BEGIN
+BEGIN
+END
+ASSIGN dnEz o6x2
+INSERT aQ string
+END
+INSERT zwGE number
+INSERT iseuYe number
+INSERT vQrh number
+RPRINT
+INSERT ls string
+INSERT nJ string
+INSERT s string
+INSERT jxC7w_ number
+INSERT g string

@@ -1,0 +1,36 @@
+INSERT fuq string
+INSERT saE number
+INSERT ms number
+END
+INSERT mltD string
+END
+INSERT yT string
+INSERT ptn_ string
+q p4MhG
+INSERT rXatn number
+INSERT yG number
+END
+INSERT aWZiC8 number
+END
+INSERT yXiu number
+INSERT j string
+BEGIN
+INSERT ewh number
+INSERT h_6qZ number
+BEGIN
+INSERT ew string
+INSERT efo number
+INSERT fT number
+INSERT f number
+INSERT woIbX number
+INSERT sRLH number
+INSERT k number
+RPRINT
+INSERT jp number
+LOOKUP ptn_
+PRINT
+RPRINT
+INSERT k string
+j kr7
+RPRINT
+ASSIGN yXiu 'ItKT8'

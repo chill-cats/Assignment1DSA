@@ -1,0 +1,34 @@
+INSERT sSL54 string
+INSERT ocK9Ee string
+INSERT d9Ib string
+INSERT c7 string
+INSERT gSR string
+ASSIGN c7 'dfu0'
+INSERT rD string
+END
+INSERT l_x6j number
+ASSIGN rD 'Bb5Kx'
+END
+END
+INSERT kOW string
+LOOKUP rD
+INSERT l32L5 string
+INSERT l1Z string
+INSERT z string
+INSERT k number
+PRINT
+END
+END
+RPRINT
+RPRINT
+INSERT eR number
+BEGIN
+ASSIGN gSR 1092
+INSERT nYJcaI string
+LOOKUP l1Z
+RPRINT
+RPRINT
+INSERT hcvx number
+INSERT c4ks number
+INSERT yFr number
+INSERT o5Kx string

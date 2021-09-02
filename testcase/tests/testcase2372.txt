@@ -1,0 +1,38 @@
+iX huohJ
+INSERT sQ_BR number
+INSERT oy number
+BEGIN
+p oHEhra
+INSERT gQi7Q5 string
+INSERT rx number
+INSERT uzS6o string
+END
+INSERT divOs1 string
+PRINT
+INSERT uFu51 number
+f2 dhTvY
+INSERT m string
+LOOKUP divOs1
+INSERT kMN string
+INSERT qD9IzX string
+ASSIGN uFu51 'HlGWb'
+END
+END
+PRINT
+BEGIN
+INSERT wtK number
+INSERT lBW7 number
+INSERT e number
+INSERT bJ3a string
+INSERT kRd9 string
+INSERT z string
+INSERT jk5oGb number
+ASSIGN kRd9 1080
+INSERT hmtb string
+RPRINT
+ASSIGN bJ3a 207
+INSERT n8r5v string
+INSERT hlL5 string
+INSERT tjJ string
+INSERT j4 string
+INSERT x number

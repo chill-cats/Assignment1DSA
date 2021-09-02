@@ -1,0 +1,29 @@
+INSERT lx3 string
+INSERT rPACE0 string
+INSERT awmyn string
+INSERT p number
+INSERT qRWgO string
+INSERT hD string
+INSERT m0uKx number
+INSERT dQ string
+INSERT zO string
+BEGIN
+END
+INSERT gy8C string
+q a3dzMX
+BEGIN
+INSERT kFzBj number
+LOOKUP rPACE0
+INSERT rdKL0 number
+LOOKUP rdKL0
+INSERT xFO string
+INSERT vo string
+ASSIGN gy8C zO
+INSERT zB number
+INSERT c string
+INSERT ptgK1 string
+INSERT q string
+END
+LOOKUP lx3
+rJlj u3
+INSERT m8meK number

@@ -1,0 +1,30 @@
+tunmA a
+PRINT
+LOOKUP h0
+INSERT ekW string
+INSERT lB string
+INSERT hTLyX number
+INSERT rckX string
+INSERT kz number
+INSERT ud string
+INSERT zkC3 number
+INSERT w string
+INSERT d string
+INSERT ng4BU string
+ASSIGN kz hTLyX
+BEGIN
+INSERT vw2KFC number
+INSERT s string
+INSERT xSH number
+BEGIN
+END
+INSERT sWcq string
+INSERT vD string
+INSERT k73aeE string
+INSERT cSflj8 string
+ASSIGN sWcq 'DnUzZ'
+INSERT yU string
+BEGIN
+ASSIGN ekW 'owzJ'
+INSERT kQFzZq string
+INSERT eo1bi number

@@ -1,0 +1,27 @@
+INSERT yIL number
+END
+LOOKUP yIL
+BEGIN
+INSERT y number
+INSERT wHqI0Q string
+INSERT yZTj string
+INSERT gFBSV string
+INSERT rVDebh number
+INSERT nxu6m number
+INSERT r string
+LOOKUP y
+INSERT zF number
+INSERT uRT string
+INSERT lwkpxV string
+PRINT
+END
+INSERT d9C2 number
+INSERT ej number
+INSERT ovT20p string
+INSERT dyX string
+LOOKUP d9C2
+INSERT bC number
+BEGIN
+INSERT dlcFkg string
+PRINT
+INSERT we95kX string

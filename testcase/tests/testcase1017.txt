@@ -1,0 +1,28 @@
+ASSIGN g 808
+INSERT j0z string
+INSERT wg string
+INSERT qlr9 number
+INSERT h string
+INSERT dM7eCf string
+PRINT
+INSERT fRZ number
+ASSIGN qlr9 dM7eCf
+ASSIGN j0z 225
+ASSIGN qlr9 dM7eCf
+RPRINT
+INSERT d string
+INSERT zBE string
+INSERT wzAoV number
+INSERT p number
+INSERT zOcPIK number
+PRINT
+h e
+mbT nd4
+ASSIGN wzAoV ' j'
+INSERT c number
+LOOKUP zOcPIK
+INSERT g0 number
+INSERT aOEen number
+END
+PRINT
+fSPhX wqT

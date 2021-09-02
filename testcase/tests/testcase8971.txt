@@ -1,0 +1,5 @@
+INSERT axl7 number
+INSERT vzkIc number
+INSERT gpt string
+INSERT a4dE number
+END

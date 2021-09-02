@@ -1,0 +1,35 @@
+BEGIN
+INSERT tfsWeG number
+INSERT upgt9K number
+ASSIGN upgt9K 785
+INSERT i number
+ASSIGN i 884
+INSERT uqxHFZ string
+INSERT jYF7Vw string
+INSERT tT string
+RPRINT
+INSERT e5Mz string
+cv hsjwJ
+INSERT lMun string
+INSERT ks number
+INSERT smN number
+LOOKUP upgt9K
+END
+INSERT rHa0C number
+INSERT f string
+ASSIGN lMun 'ruF'
+INSERT sM string
+LOOKUP tT
+INSERT kAims6 string
+BEGIN
+INSERT eXIaA4 string
+ASSIGN kAims6 '6ON'
+INSERT ycx string
+ASSIGN f 'o7hH '
+INSERT iRQsJb string
+INSERT zyS8M string
+BEGIN
+RPRINT
+INSERT g4k string
+INSERT xA number
+PRINT

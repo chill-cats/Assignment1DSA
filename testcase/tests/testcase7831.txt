@@ -1,0 +1,12 @@
+PRINT
+INSERT dKvcaA string
+INSERT k2 number
+INSERT kD7hj number
+INSERT ceBu6 string
+INSERT nOkW string
+LOOKUP k2
+INSERT d985 string
+BEGIN
+LOOKUP k2
+INSERT w number
+INSERT f9 number

@@ -1,0 +1,7 @@
+ASSIGN cJn '6NcW'
+LOOKUP bA_4_S
+RPRINT
+LOOKUP tEX1k
+INSERT m number
+INSERT aCd number
+INSERT u number

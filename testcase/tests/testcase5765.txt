@@ -1,0 +1,16 @@
+INSERT nkTSe string
+INSERT qlC string
+INSERT wCwGXo string
+RPRINT
+ASSIGN wCwGXo nkTSe
+END
+INSERT hjxa number
+INSERT qnhlka number
+INSERT vW string
+INSERT zKn0o string
+INSERT vIG number
+RPRINT
+RPRINT
+BEGIN
+END
+LOOKUP wCwGXo

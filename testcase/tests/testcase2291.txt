@@ -1,0 +1,13 @@
+INSERT u string
+INSERT i number
+bCSr jNGa
+INSERT r44N number
+INSERT bqrUSU number
+RPRINT
+INSERT a1 string
+END
+ASSIGN r44N 731
+INSERT eqa string
+ASSIGN u 588
+ASSIGN a1 'Xx'
+INSERT fMee number

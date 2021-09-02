@@ -1,0 +1,7 @@
+INSERT v0vxZ2 number
+PRINT
+INSERT n string
+PRINT
+INSERT bF7 number
+PRINT
+BEGIN

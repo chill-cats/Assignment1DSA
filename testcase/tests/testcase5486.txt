@@ -1,0 +1,12 @@
+END
+INSERT cx7 number
+RPRINT
+m5N rfK955
+INSERT rDY string
+INSERT gZ47e string
+INSERT oq0V number
+END
+INSERT hW93 number
+PRINT
+INSERT zAkCAP string
+ASSIGN gZ47e 352

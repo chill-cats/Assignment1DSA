@@ -1,0 +1,21 @@
+INSERT fWR string
+INSERT hYW9dH number
+ASSIGN fWR 'u'
+INSERT zk_lm string
+END
+INSERT vc2 string
+PRINT
+INSERT gqR4 string
+m nW4
+INSERT jl2 number
+INSERT pnrGR9 number
+INSERT rUHh string
+INSERT a string
+ASSIGN rUHh 954
+wnK w
+END
+RPRINT
+PRINT
+INSERT cmm string
+ASSIGN hYW9dH 'MCZZ'
+INSERT dCANAQ string

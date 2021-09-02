@@ -1,0 +1,17 @@
+LOOKUP rCYV
+INSERT trigU number
+INSERT az string
+PRINT
+INSERT aa59T string
+END
+END
+INSERT a7UQDW string
+LOOKUP a7UQDW
+INSERT d4Z number
+INSERT fuh3u string
+INSERT xpNGc string
+INSERT m_fe02 number
+RPRINT
+BEGIN
+INSERT v number
+INSERT nfvfPa number

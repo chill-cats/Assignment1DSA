@@ -1,0 +1,4 @@
+INSERT qtun string
+LOOKUP qtun
+RPRINT
+n11tim h

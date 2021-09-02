@@ -1,0 +1,28 @@
+LOOKUP sWLX
+INSERT iDn string
+INSERT sS5 number
+INSERT n8JYw number
+END
+LOOKUP iDn
+INSERT p number
+INSERT l string
+END
+tSvi0 usg3IK
+INSERT rt number
+vI tn8Bg
+INSERT mj3oU string
+INSERT mqEC3O string
+INSERT aseU string
+INSERT m14b number
+INSERT tKk6 string
+nZ5VNf wR3wbw
+INSERT pq string
+INSERT v string
+INSERT vj5v string
+dU zP6
+BEGIN
+INSERT kbL6d number
+RPRINT
+INSERT e number
+RPRINT
+INSERT og string

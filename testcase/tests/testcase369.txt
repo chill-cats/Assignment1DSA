@@ -1,0 +1,36 @@
+BEGIN
+PRINT
+k w
+PRINT
+ASSIGN haRqH '3TzYx'
+INSERT lufN string
+INSERT wlAue number
+LOOKUP wlAue
+INSERT aHm number
+INSERT sO8w string
+INSERT eJ8zX number
+INSERT p1q number
+INSERT n03q string
+RPRINT
+INSERT r number
+RPRINT
+INSERT nj number
+LOOKUP sO8w
+PRINT
+INSERT m7wU0p number
+ASSIGN nj 906
+INSERT jBLf string
+INSERT n_ number
+INSERT f string
+INSERT vJ number
+INSERT ykCg string
+INSERT goLz string
+INSERT i string
+nL qv_s
+INSERT o number
+INSERT fmDBEH number
+INSERT j3nP string
+LOOKUP eJ8zX
+LOOKUP wlAue
+INSERT fr number
+END

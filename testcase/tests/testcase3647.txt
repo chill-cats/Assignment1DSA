@@ -1,0 +1,16 @@
+RPRINT
+INSERT m number
+LOOKUP m
+END
+INSERT yU string
+ASSIGN yU m
+INSERT i string
+INSERT kE4V number
+BEGIN
+INSERT uU4U number
+INSERT yOcO string
+INSERT x76 number
+ASSIGN yU 'GYPaO'
+INSERT iz1g number
+INSERT r8E string
+INSERT o string

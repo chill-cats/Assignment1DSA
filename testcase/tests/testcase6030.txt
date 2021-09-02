@@ -1,0 +1,28 @@
+INSERT yk number
+INSERT pYMcPs number
+PRINT
+INSERT w string
+INSERT c6Gal_ number
+ASSIGN c6Gal_ 'e'
+INSERT dwKa1 number
+END
+INSERT i3M string
+LOOKUP pYMcPs
+INSERT uUKm8 number
+BEGIN
+LOOKUP uUKm8
+INSERT bD string
+BEGIN
+INSERT wDzsuD string
+INSERT m1 number
+INSERT k1GID string
+PRINT
+INSERT n_oX1 number
+INSERT hK9Z7h number
+INSERT a5qEN string
+INSERT w string
+INSERT wPo43 number
+INSERT lJfq number
+INSERT u9 string
+RPRINT
+INSERT txF number

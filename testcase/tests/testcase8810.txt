@@ -1,0 +1,5 @@
+END
+PRINT
+INSERT szAJni string
+INSERT hX string
+END

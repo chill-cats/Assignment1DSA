@@ -1,0 +1,23 @@
+RPRINT
+INSERT kflaX string
+LOOKUP kflaX
+INSERT lv string
+INSERT tPybX8 number
+PRINT
+ASSIGN lv 'Ido'
+BEGIN
+INSERT mfzG string
+INSERT ePX8z string
+BEGIN
+INSERT kB7c0 string
+INSERT aMrVP0 string
+RPRINT
+LOOKUP aMrVP0
+INSERT vR number
+INSERT dVA4C string
+RPRINT
+vw9g zbP
+INSERT h string
+INSERT wMvWr number
+INSERT oVz string
+INSERT rJmVn number

@@ -1,0 +1,31 @@
+INSERT x number
+INSERT vtk number
+INSERT mA4lmd number
+INSERT c string
+INSERT p6H4vb number
+LOOKUP c
+pcdw oFGKcA
+INSERT b string
+INSERT hyNklw string
+INSERT vcsmq string
+INSERT cR3 string
+END
+INSERT e number
+INSERT sw string
+ASSIGN e 638
+INSERT xert number
+PRINT
+LOOKUP olO
+ASSIGN cR3 188
+RPRINT
+PRINT
+INSERT hnL_y number
+INSERT dWAGXY number
+INSERT wsKD number
+INSERT blSf_ string
+INSERT l string
+PRINT
+INSERT tvythm string
+INSERT bb string
+LOOKUP bb
+INSERT adPHM1 number

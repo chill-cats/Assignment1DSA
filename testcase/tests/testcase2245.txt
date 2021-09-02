@@ -1,0 +1,25 @@
+INSERT ggW string
+INSERT eMji string
+INSERT fkbo string
+INSERT j number
+INSERT mC9 number
+INSERT rqY number
+INSERT jTfy number
+INSERT lBsZTk string
+INSERT rC string
+INSERT hSv5 string
+ASSIGN lBsZTk 448
+INSERT r2 number
+INSERT zw3 number
+INSERT ssFY string
+PRINT
+INSERT ulzJAS number
+INSERT d6Ahdd string
+INSERT a number
+INSERT dyxxYS string
+RPRINT
+INSERT zXTw string
+INSERT v1 number
+INSERT eL string
+INSERT hK string
+INSERT aEA string

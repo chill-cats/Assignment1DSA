@@ -1,0 +1,6 @@
+INSERT pXiQ string
+INSERT c9X7 number
+ASSIGN pXiQ pXiQ
+INSERT h number
+INSERT jJ9mP number
+ASSIGN pXiQ '4S2'

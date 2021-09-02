@@ -1,0 +1,33 @@
+END
+INSERT tp7idV string
+PRINT
+jY08 l
+END
+INSERT uttIX string
+ASSIGN uttIX 571
+INSERT iIF02 number
+RPRINT
+LOOKUP iIF02
+INSERT q3peyC string
+xawd3B f9
+ASSIGN iIF02 94
+PRINT
+BEGIN
+END
+INSERT whtP2 number
+LOOKUP tp7idV
+RPRINT
+INSERT rVE string
+ASSIGN uttIX 411
+INSERT vF string
+INSERT ulEK string
+INSERT jfraF number
+BEGIN
+ASSIGN ulEK tp7idV
+INSERT aM string
+ASSIGN rVE 'mx'
+ASSIGN bALc 661
+INSERT hRh number
+INSERT fmZQK string
+INSERT sJL1 number
+ASSIGN sc ulEK

@@ -1,0 +1,15 @@
+END
+INSERT rM7M_ number
+INSERT r number
+INSERT aukt1z string
+RPRINT
+PRINT
+RPRINT
+INSERT zgRY number
+LOOKUP rM7M_
+PRINT
+ASSIGN zgRY 'el2MD'
+INSERT v string
+INSERT l47Cl number
+PRINT
+INSERT swQh string

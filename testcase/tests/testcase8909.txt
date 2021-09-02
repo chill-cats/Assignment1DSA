@@ -1,0 +1,20 @@
+INSERT r string
+ASSIGN r 1230
+INSERT olPyDe number
+INSERT njw60 string
+INSERT b string
+INSERT fdP number
+LOOKUP njw60
+PRINT
+INSERT g string
+LOOKUP g
+RPRINT
+INSERT p9WgV0 string
+INSERT x6lh9v string
+BEGIN
+INSERT r number
+INSERT bWh3Y string
+INSERT eCfS7 string
+RPRINT
+INSERT z8r number
+INSERT ucb string

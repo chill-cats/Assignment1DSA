@@ -1,0 +1,8 @@
+INSERT owJ7 string
+INSERT ic9n number
+BEGIN
+PRINT
+INSERT qrCf string
+INSERT ytM number
+INSERT aFdt string
+INSERT x string

@@ -1,0 +1,19 @@
+INSERT waWHa string
+RPRINT
+INSERT bSrn number
+ASSIGN bSrn 'aTAr0'
+INSERT c string
+RPRINT
+END
+INSERT e_A string
+INSERT zBN6z number
+INSERT kXgx4W number
+PRINT
+RPRINT
+INSERT q4Ec string
+END
+INSERT wXR5se string
+RPRINT
+LOOKUP hb6BY
+INSERT yejwZ number
+INSERT v3 number

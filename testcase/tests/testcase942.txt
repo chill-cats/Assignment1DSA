@@ -1,0 +1,11 @@
+INSERT hY14YW number
+LOOKUP hY14YW
+ASSIGN hY14YW hY14YW
+INSERT l8bJ string
+INSERT y string
+INSERT b string
+INSERT eSs string
+INSERT ozX number
+LOOKUP zOZ
+LOOKUP b
+LOOKUP ozX

@@ -1,0 +1,20 @@
+ASSIGN eoHG 987
+ASSIGN d5 858
+INSERT f string
+LOOKUP f
+INSERT s749 number
+ASSIGN f s749
+INSERT wzHK string
+ASSIGN f 1202
+INSERT tJ6 number
+INSERT bS number
+INSERT kPd string
+END
+INSERT mUN6z string
+INSERT mCrrTc string
+INSERT xh string
+INSERT r string
+INSERT oV9te number
+LOOKUP kPd
+INSERT hYl string
+jaC kUQ7

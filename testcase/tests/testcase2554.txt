@@ -1,0 +1,22 @@
+INSERT sJC number
+ASSIGN sJC 1104
+INSERT f2DI number
+LOOKUP f2DI
+LOOKUP sJC
+INSERT fAeoS number
+BEGIN
+INSERT aa6wt string
+RPRINT
+ASSIGN f2DI f2DI
+INSERT vEJcl string
+INSERT rk8S number
+aG h1
+INSERT i7Iy number
+INSERT v number
+INSERT h number
+PRINT
+END
+INSERT sx5 string
+INSERT lbxe_r number
+INSERT raj4t string
+INSERT m3Ndkm string

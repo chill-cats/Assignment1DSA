@@ -1,0 +1,16 @@
+INSERT k string
+INSERT lm number
+INSERT tcKO string
+INSERT u string
+ASSIGN u '7s'
+INSERT gPX string
+INSERT bWgy5 string
+INSERT wRcu number
+INSERT eBR number
+INSERT xpEB number
+INSERT dh0kXR string
+INSERT jhW number
+INSERT uLD6Y8 string
+INSERT vwh string
+fwY uM
+INSERT c8R string

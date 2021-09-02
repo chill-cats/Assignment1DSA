@@ -1,0 +1,15 @@
+RPRINT
+INSERT sLxFE0 string
+INSERT wAj5gU string
+ASSIGN sLxFE0 sLxFE0
+ko6 x1s
+INSERT lh number
+ASSIGN wAj5gU ' 3U'
+LOOKUP sLxFE0
+INSERT qEWC number
+RPRINT
+END
+PRINT
+INSERT bP81 number
+INSERT rI2 string
+ASSIGN bP81 sLxFE0

@@ -1,0 +1,26 @@
+INSERT xPM number
+ASSIGN xPM 424
+INSERT oc number
+INSERT lcOnFV number
+PRINT
+INSERT jtOMu8 string
+ASSIGN oc '72sVQ'
+INSERT p string
+PRINT
+INSERT uD3J7e string
+INSERT oD string
+INSERT t56iF string
+INSERT ua number
+INSERT j string
+INSERT fWW_V5 string
+RPRINT
+END
+BEGIN
+INSERT v string
+INSERT vuj number
+END
+ASSIGN oD uD3J7e
+INSERT cz5lP number
+INSERT mpipV number
+INSERT n_s9hx number
+BEGIN

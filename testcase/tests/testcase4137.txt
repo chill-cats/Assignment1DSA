@@ -1,0 +1,17 @@
+BEGIN
+INSERT xb string
+END
+INSERT fz string
+PRINT
+INSERT c number
+INSERT rAOhk number
+INSERT stXq_ number
+INSERT s string
+INSERT jX6Or string
+RPRINT
+ASSIGN stXq_ 27
+INSERT olW string
+INSERT tNOlR number
+INSERT aOD number
+lnJURH jqMqN6
+PRINT

@@ -1,0 +1,27 @@
+INSERT ciA76a string
+INSERT lh string
+INSERT j2 number
+INSERT rS number
+PRINT
+INSERT m_Z number
+INSERT ms string
+INSERT x number
+INSERT k_qfI number
+RPRINT
+INSERT bP5x number
+INSERT v8 number
+INSERT y string
+INSERT v9ewj string
+INSERT g6bI number
+INSERT b8 number
+ASSIGN bP5x v8
+INSERT pS number
+INSERT hG string
+q h
+INSERT tV string
+INSERT nI string
+LOOKUP bP5x
+INSERT tB40Z number
+BEGIN
+INSERT xU string
+INSERT s string

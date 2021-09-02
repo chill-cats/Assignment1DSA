@@ -1,0 +1,39 @@
+INSERT xI7 string
+END
+END
+LOOKUP xI7
+BEGIN
+INSERT s string
+INSERT e string
+LOOKUP xI7
+INSERT dT7 string
+INSERT sI9k74 string
+INSERT qbxq string
+INSERT cjd3 number
+INSERT r7Wdv number
+INSERT oY583 number
+INSERT b string
+INSERT urd6B_ number
+END
+INSERT vi number
+INSERT e string
+BEGIN
+RPRINT
+INSERT bqEHYZ number
+BEGIN
+INSERT b1 string
+ASSIGN xo 'LyO'
+INSERT s string
+INSERT tF string
+INSERT hl5I string
+INSERT w string
+INSERT ccvf string
+INSERT pFuW5 number
+INSERT ttYjl string
+INSERT sG2Zuq string
+ASSIGN vi tF
+LOOKUP s
+INSERT q number
+INSERT zmaS number
+INSERT c number
+INSERT xGjpjU number

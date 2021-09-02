@@ -1,0 +1,29 @@
+INSERT zDi8 string
+INSERT vYOB string
+END
+RPRINT
+INSERT jzB number
+RPRINT
+INSERT wWee number
+INSERT vJ1c number
+LOOKUP wWee
+INSERT lJnR number
+BEGIN
+INSERT lBEM number
+END
+INSERT oLGk string
+RPRINT
+INSERT gjfc number
+RPRINT
+INSERT ersj1b string
+BEGIN
+RPRINT
+INSERT cNB number
+BEGIN
+PRINT
+BEGIN
+INSERT dfB9Nd number
+INSERT j string
+END
+ASSIGN jzB 514
+INSERT gR number

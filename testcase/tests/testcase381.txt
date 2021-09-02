@@ -1,0 +1,15 @@
+INSERT rLVkNe string
+PRINT
+INSERT eO number
+ASSIGN rLVkNe eO
+INSERT j string
+f jheT
+RPRINT
+END
+BEGIN
+INSERT zYfwn number
+zgdE gdLc
+INSERT z number
+INSERT nl number
+RPRINT
+INSERT sNN string

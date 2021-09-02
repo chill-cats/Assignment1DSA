@@ -1,0 +1,13 @@
+INSERT nbu4 string
+INSERT nF string
+INSERT v_W number
+PRINT
+INSERT t number
+INSERT lgpni number
+RPRINT
+INSERT kbb9o string
+INSERT qqxhaD string
+INSERT ku number
+BEGIN
+INSERT ezE string
+ASSIGN kbb9o nbu4

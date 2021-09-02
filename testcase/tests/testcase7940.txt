@@ -1,0 +1,4 @@
+PRINT
+PRINT
+END
+INSERT eb6 string

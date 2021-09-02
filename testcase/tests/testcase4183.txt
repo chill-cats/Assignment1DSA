@@ -1,0 +1,31 @@
+INSERT uLuAHw string
+INSERT u string
+INSERT ieN string
+BEGIN
+PRINT
+INSERT dHuF number
+INSERT l string
+INSERT rGTrOP number
+INSERT x_HVc string
+INSERT bpbP string
+INSERT oXV_vn string
+INSERT amywYA number
+INSERT rPI string
+LOOKUP rPI
+PRINT
+INSERT bNB string
+INSERT qIR number
+RPRINT
+ASSIGN qIR 'tBOH'
+BEGIN
+INSERT ii string
+INSERT t string
+INSERT zPf string
+LOOKUP bpbP
+INSERT w5 string
+PRINT
+LOOKUP l
+INSERT ldSPt number
+RPRINT
+INSERT gFL5 string
+INSERT olCc3 string

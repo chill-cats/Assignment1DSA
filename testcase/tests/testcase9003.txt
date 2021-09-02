@@ -1,0 +1,12 @@
+ASSIGN dxVSc 528
+INSERT y5 string
+INSERT s number
+INSERT sUHnuY number
+LOOKUP s
+INSERT v string
+INSERT irVEY number
+INSERT aAy number
+INSERT n number
+END
+PRINT
+ASSIGN v irVEY

@@ -1,0 +1,31 @@
+INSERT xfA7 string
+INSERT aPFd string
+INSERT mLC0 number
+INSERT rtDBZQ number
+INSERT hyKOQ number
+INSERT o4EI string
+INSERT vC97q8 string
+END
+INSERT q6lSfk string
+BEGIN
+LOOKUP o4EI
+END
+INSERT vMxejU number
+PRINT
+INSERT l number
+INSERT e number
+INSERT nKv3h string
+ASSIGN aPFd 690
+ASSIGN vC97q8 vC97q8
+INSERT kPCcT number
+END
+LOOKUP e
+INSERT v number
+INSERT t number
+RPRINT
+END
+INSERT k0wM number
+INSERT i9qWG number
+INSERT hrnI string
+INSERT kn number
+INSERT n8ydud number

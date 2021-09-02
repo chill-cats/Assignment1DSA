@@ -1,0 +1,6 @@
+BEGIN
+INSERT pb string
+LOOKUP pb
+RPRINT
+INSERT o number
+INSERT kYf number

@@ -1,0 +1,34 @@
+INSERT pVlNT9 string
+INSERT uWuf number
+INSERT oA_m string
+INSERT rb string
+INSERT v6DL number
+PRINT
+INSERT khOj string
+PRINT
+INSERT ms number
+LOOKUP uWuf
+ASSIGN oA_m pVlNT9
+INSERT vJ4 number
+INSERT wFT3 string
+INSERT xrY number
+INSERT y string
+RPRINT
+INSERT as number
+INSERT zp string
+INSERT j number
+INSERT w6gun number
+INSERT z87lZs number
+INSERT cx3u8 number
+INSERT cd8 string
+INSERT hMX string
+INSERT i string
+INSERT gOG6 number
+INSERT ogZi1 string
+INSERT yO string
+lb p_iCQ6
+INSERT n number
+INSERT i number
+INSERT zAF number
+INSERT jkFmrU number
+INSERT ufopl string

@@ -1,0 +1,23 @@
+INSERT pMv72Z string
+INSERT tdeoR string
+INSERT vaQdL string
+INSERT nBk number
+ASSIGN vaQdL 'k7Jd'
+INSERT a number
+LOOKUP vaQdL
+INSERT tjg string
+LOOKUP a
+RPRINT
+INSERT g26CwP number
+INSERT vU7lz number
+ASSIGN pMv72Z vU7lz
+INSERT oNXUxV number
+INSERT uEnS9 string
+ykP dP
+INSERT p number
+INSERT bwKx string
+gvM l1dQ5v
+INSERT nqaZ number
+RPRINT
+INSERT nLDxD string
+END

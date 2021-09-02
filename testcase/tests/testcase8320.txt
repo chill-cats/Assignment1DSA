@@ -1,0 +1,37 @@
+INSERT geP number
+hfCapv j1Vcc
+INSERT cRd4 number
+INSERT wNL0Bv number
+INSERT vMQJvU string
+INSERT jHK string
+INSERT tZGy1 string
+INSERT n number
+PRINT
+INSERT w6ZZOC string
+INSERT r number
+PRINT
+ASSIGN cRd4 442
+INSERT rLujt string
+INSERT vWMy number
+d waB
+INSERT zI2A number
+ASSIGN jHK 'yaG'
+INSERT xbt string
+INSERT iW4g0v string
+ASSIGN xbt 'Uqfnv'
+INSERT qAtGLX number
+RPRINT
+LOOKUP vMQJvU
+INSERT vYh3D3 number
+ASSIGN w6ZZOC n
+ASSIGN vYh3D3 'LUv'
+LOOKUP tZGy1
+INSERT aznAaB string
+INSERT xxG number
+LOOKUP vYh3D3
+INSERT ingKK7 string
+ASSIGN xxG rLujt
+LOOKUP xbt
+RPRINT
+PRINT
+INSERT p number

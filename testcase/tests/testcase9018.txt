@@ -1,0 +1,37 @@
+INSERT z_j0yr string
+INSERT nhy string
+INSERT a string
+ASSIGN nhy a
+INSERT n6Bw number
+INSERT ge number
+INSERT tICuyw string
+INSERT e number
+PRINT
+LOOKUP z_j0yr
+INSERT uF number
+RPRINT
+INSERT buVrFJ number
+b d8
+INSERT gUVaM number
+INSERT aIirCD number
+vuAExj igiwU
+LOOKUP gUVaM
+INSERT kWh_I string
+INSERT xF string
+RPRINT
+INSERT q string
+INSERT z0P string
+INSERT rLBbLx number
+INSERT c2C string
+INSERT hu0Ab string
+INSERT kp7lC string
+INSERT i1bx string
+INSERT aJsI number
+PRINT
+LOOKUP a
+RPRINT
+INSERT lPUq string
+LOOKUP hu0Ab
+RPRINT
+ASSIGN xF 'zh'
+ASSIGN xF 937

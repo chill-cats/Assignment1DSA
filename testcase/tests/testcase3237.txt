@@ -1,0 +1,39 @@
+END
+ASSIGN bQEao 1026
+INSERT w number
+INSERT qBJC string
+INSERT fjos number
+ASSIGN w 1133
+PRINT
+PRINT
+LOOKUP w
+END
+INSERT pD number
+INSERT o9rr7 number
+INSERT wHnrZ string
+INSERT e string
+INSERT cgHTRV number
+INSERT tJ5 number
+INSERT dxg number
+INSERT f number
+INSERT kYr string
+ASSIGN qBJC 1041
+PRINT
+q qu1ylq
+qo wZOhy
+INSERT v0Rsk number
+BEGIN
+INSERT eik number
+LOOKUP o9rr7
+LOOKUP v0Rsk
+END
+INSERT bHdd string
+INSERT lx2 string
+INSERT f string
+INSERT pv string
+RPRINT
+BEGIN
+INSERT ddwsn number
+ASSIGN e 'xUkD'
+END
+BEGIN

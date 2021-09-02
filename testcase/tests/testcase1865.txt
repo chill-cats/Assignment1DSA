@@ -1,0 +1,39 @@
+INSERT xrp string
+INSERT s string
+END
+INSERT sl5y number
+INSERT b number
+ASSIGN xrp 'qrQ0C'
+INSERT phwH string
+LOOKUP xrp
+INSERT lDO number
+INSERT ci string
+END
+INSERT vd5E4i string
+RPRINT
+INSERT uI2 string
+INSERT e number
+INSERT d number
+INSERT qDfEJ number
+RPRINT
+INSERT h1 number
+INSERT dwm string
+INSERT gYnE4 string
+LOOKUP xrp
+RPRINT
+INSERT cbHFy string
+ASSIGN sl5y h1
+LOOKUP vd5E4i
+c ca79g
+INSERT aUXb number
+INSERT kY string
+INSERT cws string
+PRINT
+RPRINT
+INSERT zvCpL3 string
+INSERT xBxyY number
+RPRINT
+LOOKUP qDfEJ
+INSERT m_1_ string
+PRINT
+ASSIGN b 467

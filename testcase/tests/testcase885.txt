@@ -1,0 +1,24 @@
+INSERT sP string
+INSERT b162 number
+INSERT l string
+INSERT om number
+INSERT m string
+LOOKUP b162
+INSERT ulT5 string
+INSERT q number
+INSERT uYmbd string
+INSERT v8TAJB string
+INSERT b94sYC number
+h_NINt fsB
+ASSIGN uYmbd 1188
+f yI
+INSERT bu7 number
+INSERT d07t string
+INSERT qC string
+INSERT c number
+INSERT q2OP string
+INSERT ctbNm number
+INSERT tw string
+LOOKUP q
+END
+BEGIN

@@ -1,0 +1,12 @@
+INSERT mddYLC string
+BEGIN
+ASSIGN mddYLC 'Vk'
+INSERT al string
+BEGIN
+LOOKUP al
+INSERT nuVfGQ string
+INSERT at string
+INSERT dun_j string
+BEGIN
+INSERT brZ number
+INSERT p string

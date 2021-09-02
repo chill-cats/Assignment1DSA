@@ -1,0 +1,28 @@
+INSERT s number
+RPRINT
+INSERT ymamo number
+INSERT o string
+INSERT i string
+RPRINT
+INSERT tVm number
+INSERT izLx string
+RPRINT
+INSERT puQRxk number
+INSERT yYH number
+PRINT
+INSERT gjP4ZR number
+INSERT eS9Bzk number
+END
+INSERT n string
+INSERT rXdhk4 number
+INSERT nni number
+BEGIN
+LOOKUP o
+RPRINT
+INSERT yNExVL number
+END
+PRINT
+PRINT
+INSERT lrk_ string
+INSERT lqHp string
+END

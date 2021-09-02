@@ -1,0 +1,6 @@
+INSERT pKX1 number
+INSERT qJf number
+INSERT xnwo string
+LOOKUP qJf
+INSERT zECim number
+INSERT sd number

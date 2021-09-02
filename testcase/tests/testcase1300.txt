@@ -1,0 +1,8 @@
+INSERT g6N string
+LOOKUP g6N
+INSERT aZx string
+ASSIGN g6N 978
+LOOKUP aZx
+INSERT gnIF string
+INSERT f number
+END

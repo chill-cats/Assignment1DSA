@@ -1,0 +1,36 @@
+INSERT z number
+RPRINT
+INSERT bC8 number
+INSERT hY number
+LOOKUP hY
+INSERT g8D string
+INSERT cYFfgq string
+INSERT tzyE number
+RPRINT
+BEGIN
+INSERT b string
+INSERT hqNcq string
+INSERT zUwS number
+INSERT eWrWg number
+INSERT n9E number
+RPRINT
+INSERT tGaSfG number
+RPRINT
+cTI r
+INSERT tJlb string
+LOOKUP zUwS
+INSERT xX string
+INSERT qTt0 number
+INSERT jSlA_ string
+INSERT i string
+INSERT u string
+PRINT
+INSERT i2R number
+RPRINT
+PRINT
+BEGIN
+INSERT q number
+BEGIN
+BEGIN
+eYm zwUa
+INSERT pvvgN string

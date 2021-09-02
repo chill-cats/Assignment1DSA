@@ -1,0 +1,15 @@
+PRINT
+BEGIN
+ASSIGN ijl 120
+INSERT x string
+LOOKUP x
+INSERT zES4 string
+RPRINT
+INSERT sljK string
+INSERT kJ number
+LOOKUP zES4
+INSERT ag74Mw string
+INSERT jp1XI number
+INSERT f number
+INSERT aw9Hj string
+x5tW t

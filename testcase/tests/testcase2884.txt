@@ -1,0 +1,10 @@
+INSERT x1 number
+END
+END
+INSERT pWpk number
+INSERT p5_Kip number
+INSERT m_ string
+INSERT k number
+INSERT z number
+INSERT tLJ string
+cv_I apy

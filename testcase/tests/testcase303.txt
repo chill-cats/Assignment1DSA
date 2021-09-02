@@ -1,0 +1,25 @@
+INSERT yLF string
+INSERT hXFAwc string
+INSERT lg6Qd number
+INSERT xKr number
+END
+ASSIGN lg6Qd yLF
+INSERT dm string
+INSERT b0VPKl number
+LOOKUP xKr
+INSERT a4ATC number
+RPRINT
+INSERT pYo number
+LOOKUP xKr
+ASSIGN yLF hXFAwc
+INSERT rkJF string
+INSERT cE string
+b gpGYH8
+INSERT yh9X9 string
+INSERT dAS0p string
+BEGIN
+INSERT v_thh number
+INSERT wchh number
+INSERT yr7Ks number
+INSERT f7nQ7 string
+INSERT zBh string

@@ -1,0 +1,32 @@
+LOOKUP oSg
+RPRINT
+BEGIN
+INSERT fOJX number
+LOOKUP fOJX
+INSERT um number
+INSERT i number
+INSERT k1PU7z number
+END
+INSERT d2 string
+INSERT j string
+ASSIGN i 1191
+INSERT r3 string
+PRINT
+INSERT p8ml2U string
+INSERT wEbN string
+INSERT hpVM8 number
+INSERT e number
+INSERT m string
+RPRINT
+INSERT o number
+INSERT gb string
+RPRINT
+INSERT rDORL number
+INSERT k number
+INSERT y3yK number
+INSERT e76Qe number
+RPRINT
+INSERT uQ number
+BEGIN
+ASSIGN hpVM8 1093
+INSERT ncoxTT string

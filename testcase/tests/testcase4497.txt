@@ -1,0 +1,20 @@
+PRINT
+RPRINT
+INSERT njuX number
+INSERT uwQ string
+INSERT gy1N string
+INSERT oYJYai number
+INSERT g7VSD number
+END
+INSERT hvkyFk string
+INSERT xhxUQa number
+INSERT zFLLl string
+ASSIGN hvkyFk 1220
+INSERT nXPu string
+INSERT q2rUH number
+ASSIGN kgq_Z0 'S44n'
+INSERT e9I number
+END
+INSERT dN string
+ASSIGN oYJYai oYJYai
+LOOKUP g7VSD

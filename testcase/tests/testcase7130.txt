@@ -1,0 +1,34 @@
+INSERT hBw number
+INSERT v2R5cV number
+INSERT p number
+RPRINT
+LOOKUP hBw
+INSERT fodY string
+LOOKUP p
+v0WK tRJDw
+INSERT ron_ string
+INSERT w number
+RPRINT
+LOOKUP w
+END
+INSERT qWmds7 number
+PRINT
+BEGIN
+BEGIN
+END
+INSERT i string
+INSERT hB number
+INSERT q number
+INSERT mwIX string
+INSERT qfc number
+RPRINT
+INSERT zEikJ string
+INSERT n2WfO string
+INSERT kW number
+RPRINT
+INSERT b string
+LOOKUP i
+INSERT e string
+INSERT lky0 string
+ASSIGN zEikJ qfc
+BEGIN

@@ -1,0 +1,6 @@
+INSERT q9mo number
+BEGIN
+INSERT byIE string
+INSERT eAZ string
+BEGIN
+LOOKUP q9mo

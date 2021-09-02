@@ -1,0 +1,38 @@
+INSERT fBaz number
+INSERT gKuP number
+INSERT k string
+INSERT fjJ string
+RPRINT
+INSERT xu4CEs number
+INSERT c string
+iSyAK_ womDU
+LOOKUP fjJ
+INSERT mZGC string
+ASSIGN fBaz 679
+INSERT xS0 number
+RPRINT
+INSERT ovSS9 string
+BEGIN
+RPRINT
+oRUQxR q8Z
+LOOKUP gKuP
+INSERT tQIW number
+INSERT uS9lv3 string
+INSERT feb string
+END
+PRINT
+INSERT r7Hnm number
+BEGIN
+INSERT dH string
+INSERT nBl string
+INSERT ysFak number
+INSERT lB string
+LOOKUP xS0
+INSERT u_ number
+PRINT
+INSERT kH2 string
+INSERT xDuM4V string
+INSERT m2 string
+INSERT hXTx string
+INSERT nJPc number
+RPRINT

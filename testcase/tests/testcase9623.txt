@@ -1,0 +1,26 @@
+PRINT
+INSERT pP number
+INSERT nY number
+ASSIGN nY 'F'
+INSERT i8 string
+INSERT xhw number
+END
+END
+BEGIN
+INSERT lo6fQd string
+LOOKUP xhw
+INSERT hGZ number
+INSERT f string
+INSERT hlZBi number
+INSERT zypXO number
+INSERT pk number
+BEGIN
+INSERT g6oU4f number
+INSERT tIgTi8 string
+BEGIN
+INSERT zuZ number
+INSERT bobFi0 number
+INSERT ssL string
+n uZ
+INSERT yby8Iz string
+BEGIN

@@ -1,0 +1,17 @@
+RPRINT
+INSERT shxA string
+INSERT fDjSP string
+INSERT vAAu string
+BEGIN
+INSERT v number
+INSERT b number
+BEGIN
+ASSIGN shxA 'B'
+BEGIN
+INSERT oISt number
+INSERT iU number
+INSERT s6AX number
+LOOKUP v
+INSERT iFTE number
+INSERT phP number
+INSERT yFS string

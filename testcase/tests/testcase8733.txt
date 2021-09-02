@@ -1,0 +1,29 @@
+ASSIGN a97Vph 30
+RPRINT
+INSERT tcHLP_ number
+INSERT cz number
+INSERT jY4L number
+INSERT x string
+BEGIN
+INSERT eQKc2 string
+INSERT t number
+LOOKUP tcHLP_
+BEGIN
+INSERT z80 number
+INSERT yo number
+ASSIGN t '4K'
+RPRINT
+RPRINT
+INSERT o string
+ASSIGN t tcHLP_
+INSERT u617 string
+INSERT jm3 string
+INSERT a string
+INSERT xX4 string
+INSERT knd string
+INSERT lb string
+INSERT kd string
+npAeQi l
+INSERT i string
+INSERT qKO number
+LOOKUP tcHLP_

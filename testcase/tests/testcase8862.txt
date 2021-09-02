@@ -1,0 +1,16 @@
+INSERT sN9 string
+INSERT sY4W3 string
+INSERT wpgu0 number
+ASSIGN sN9 307
+INSERT y string
+rvzcMA w
+RPRINT
+INSERT r4H number
+INSERT kR number
+INSERT hs string
+RPRINT
+END
+INSERT e5tT string
+PRINT
+INSERT pzeVc string
+INSERT jLvj number

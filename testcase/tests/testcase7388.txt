@@ -1,0 +1,39 @@
+INSERT pjD number
+LOOKUP pjD
+PRINT
+lrY ey
+INSERT hG7 string
+INSERT mZr number
+INSERT d string
+INSERT f string
+PRINT
+LOOKUP pjD
+END
+LOOKUP pjD
+BEGIN
+PRINT
+RPRINT
+END
+INSERT yGc number
+INSERT aLVn string
+RPRINT
+ASSIGN aLVn 'BS'
+INSERT x string
+INSERT kZ number
+INSERT qwp8 string
+INSERT xfU96 number
+INSERT cBe_n number
+ASSIGN qwp8 'wVhdf'
+INSERT enOv string
+INSERT g string
+INSERT yV string
+INSERT pjmK string
+END
+INSERT d number
+INSERT gFb number
+INSERT aDws number
+BEGIN
+INSERT xhHVTh number
+PRINT
+ASSIGN yGc xfU96
+BEGIN

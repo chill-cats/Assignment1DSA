@@ -1,0 +1,7 @@
+PRINT
+INSERT qmF number
+INSERT h3FN string
+BEGIN
+INSERT sVC number
+INSERT ufJ string
+INSERT l number

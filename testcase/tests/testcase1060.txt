@@ -1,0 +1,4 @@
+ASSIGN dCLk0 73
+INSERT w string
+INSERT y number
+INSERT fu number

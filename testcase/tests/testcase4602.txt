@@ -1,0 +1,16 @@
+INSERT unvR string
+INSERT yHKJ number
+ASSIGN unvR ' X'
+INSERT n9 number
+INSERT pVDR number
+INSERT l5Z number
+INSERT z6 string
+ASSIGN unvR z6
+INSERT psvYil number
+BEGIN
+INSERT smr string
+INSERT fQ number
+INSERT h23FCF number
+END
+PRINT
+LOOKUP n9

@@ -1,0 +1,3 @@
+INSERT xXMy number
+INSERT fR88RA number
+INSERT bj string

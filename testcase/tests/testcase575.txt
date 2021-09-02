@@ -1,0 +1,38 @@
+INSERT qX number
+INSERT lWrjL number
+INSERT r7J string
+INSERT wA string
+ASSIGN dCzm3p '6zErf'
+INSERT qJ7nCu number
+BEGIN
+INSERT ymy string
+INSERT tET number
+ASSIGN wA 759
+INSERT p8Eh number
+INSERT vdc string
+BEGIN
+INSERT jJei9x string
+INSERT b number
+INSERT dC number
+ASSIGN jJei9x 'MGO'
+INSERT a string
+INSERT pNv number
+INSERT tXABU9 number
+INSERT m string
+INSERT srvkVJ number
+INSERT p number
+PRINT
+ASSIGN jJei9x '13JEK'
+INSERT nR string
+INSERT e61H string
+INSERT m4b number
+INSERT k6 string
+INSERT uKaM string
+BEGIN
+END
+INSERT fDwqY string
+INSERT opXu0p number
+INSERT x string
+LOOKUP pNv
+BEGIN
+INSERT im string

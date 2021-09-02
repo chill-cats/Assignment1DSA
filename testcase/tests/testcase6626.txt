@@ -1,0 +1,15 @@
+LOOKUP r
+INSERT x string
+INSERT mw1igc number
+INSERT j4asq number
+INSERT hKQ9y7 number
+PRINT
+mv t0t
+BEGIN
+LOOKUP x
+INSERT aA8 number
+BEGIN
+INSERT n2tC string
+INSERT x number
+ASSIGN x mw1igc
+END

@@ -1,0 +1,38 @@
+INSERT e_42es string
+INSERT wdf string
+PRINT
+ASSIGN e_42es 679
+INSERT jx_5da string
+INSERT s8nC number
+INSERT aYZUb string
+INSERT es string
+INSERT iE string
+hUn3 upI
+INSERT eQAKMy number
+LOOKUP wdf
+BEGIN
+INSERT u1IF number
+ASSIGN eQAKMy e_42es
+INSERT fg number
+INSERT tOBkD string
+INSERT f string
+INSERT l58 number
+LOOKUP aYZUb
+INSERT vJZ string
+RPRINT
+INSERT coV number
+INSERT k number
+INSERT nVS number
+END
+INSERT xJ string
+INSERT id string
+BEGIN
+INSERT lJw string
+INSERT n string
+RPRINT
+LOOKUP vJZ
+INSERT ye9Z string
+INSERT eggQo string
+INSERT gC number
+INSERT gl number
+INSERT lpWy number

@@ -1,0 +1,21 @@
+BEGIN
+wT kF7n1
+INSERT tBZy_l string
+INSERT e string
+ASSIGN e 27
+INSERT hzx_f number
+INSERT p number
+END
+dRaF e
+INSERT tZnE number
+LOOKUP p
+INSERT w5Tg string
+PRINT
+INSERT v number
+BEGIN
+RPRINT
+LOOKUP tZnE
+RPRINT
+INSERT nY9K string
+ASSIGN v 418
+INSERT yRic string

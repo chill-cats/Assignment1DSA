@@ -1,0 +1,35 @@
+INSERT wf706 number
+INSERT im string
+PRINT
+END
+INSERT p62 string
+INSERT gUKjw number
+END
+INSERT v16D string
+BEGIN
+INSERT lrhoz number
+END
+INSERT xIp2Tu number
+INSERT g number
+INSERT mYX string
+INSERT aPeXU number
+INSERT cU44 number
+INSERT ghTcVD number
+PRINT
+INSERT k7 string
+INSERT vWu number
+PRINT
+INSERT a number
+INSERT ai string
+INSERT aHCQ number
+INSERT gA59 number
+INSERT bED number
+INSERT iFQ0h string
+ASSIGN p62 ai
+INSERT kw string
+RPRINT
+INSERT sxPLE string
+INSERT c6sw4 string
+INSERT r number
+INSERT y5Sq number
+INSERT nShH number

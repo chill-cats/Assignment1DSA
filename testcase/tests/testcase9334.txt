@@ -1,0 +1,36 @@
+END
+INSERT sBd0gq string
+INSERT zweBN string
+INSERT e number
+INSERT xL number
+LOOKUP xL
+LOOKUP e
+PRINT
+INSERT uORpJ string
+RPRINT
+INSERT wZjUF string
+INSERT uYs9 number
+END
+INSERT yC string
+INSERT awRhNu string
+INSERT pvO1 number
+END
+INSERT feM string
+enb6 z
+INSERT tjio string
+RPRINT
+INSERT clwC string
+INSERT jq number
+INSERT ciJb number
+PRINT
+INSERT z_ string
+PRINT
+INSERT arHkYn number
+INSERT vmm2 number
+INSERT oO6P string
+INSERT xx number
+INSERT dVHND string
+INSERT n number
+END
+INSERT k string
+INSERT fG4jeT number

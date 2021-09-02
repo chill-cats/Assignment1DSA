@@ -1,0 +1,20 @@
+INSERT a number
+xaQMb m
+INSERT prX string
+INSERT tghi number
+END
+LOOKUP tghi
+RPRINT
+PRINT
+INSERT j6Bd number
+LOOKUP prX
+t y5
+INSERT x string
+INSERT mnI number
+INSERT iJ_T number
+INSERT sR string
+INSERT m string
+INSERT dpKScR number
+INSERT ee3i6L number
+ASSIGN a 354
+INSERT oyirOA string

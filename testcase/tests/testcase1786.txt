@@ -1,0 +1,7 @@
+LOOKUP xDU
+BEGIN
+ASSIGN ete 353
+INSERT p5g number
+INSERT iB7a string
+INSERT ocF number
+RPRINT

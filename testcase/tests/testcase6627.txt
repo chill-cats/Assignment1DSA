@@ -1,0 +1,15 @@
+RPRINT
+INSERT rQ string
+INSERT i number
+INSERT vVi string
+LOOKUP vVi
+BEGIN
+RPRINT
+INSERT fI09l string
+INSERT qlh number
+INSERT yjNi string
+INSERT oGP string
+RPRINT
+INSERT v string
+INSERT nwz number
+BEGIN

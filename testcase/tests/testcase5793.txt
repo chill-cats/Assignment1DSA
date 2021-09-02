@@ -1,0 +1,10 @@
+LOOKUP fJS
+INSERT tX string
+INSERT pfO5c string
+LOOKUP tX
+BEGIN
+INSERT wqOU3 number
+BEGIN
+PRINT
+INSERT uF5I number
+INSERT kFVp number

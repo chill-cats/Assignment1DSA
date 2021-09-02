@@ -1,0 +1,24 @@
+END
+q0iCKA yM7
+INSERT pKuUo number
+INSERT f3K3L string
+INSERT cGbN number
+INSERT ztL number
+BEGIN
+LOOKUP slq
+LOOKUP pKuUo
+INSERT zt number
+INSERT u number
+INSERT z number
+INSERT fI1R number
+INSERT e number
+INSERT ynY number
+RPRINT
+INSERT nz string
+INSERT dOJFLJ string
+INSERT e number
+INSERT pWPh string
+END
+ASSIGN z 1032
+INSERT n string
+INSERT u5 number

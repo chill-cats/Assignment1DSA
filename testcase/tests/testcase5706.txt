@@ -1,0 +1,22 @@
+INSERT ofw string
+INSERT kk string
+INSERT w number
+INSERT ku string
+INSERT yj string
+LOOKUP ku
+RPRINT
+LOOKUP ku
+PRINT
+INSERT wZ string
+INSERT ezn number
+clqDI m
+INSERT q string
+INSERT hO number
+PRINT
+BEGIN
+INSERT hQg7Qd string
+ASSIGN hQg7Qd 340
+BEGIN
+INSERT ftk string
+BEGIN
+ASSIGN ku '8v9'

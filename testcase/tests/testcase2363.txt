@@ -1,0 +1,7 @@
+INSERT otb number
+INSERT gyM string
+ASSIGN gyM gyM
+INSERT hAL string
+INSERT sofW string
+LOOKUP gyM
+INSERT mb number

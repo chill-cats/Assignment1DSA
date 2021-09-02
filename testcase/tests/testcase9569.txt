@@ -1,0 +1,23 @@
+INSERT nMF string
+INSERT ho0D number
+PRINT
+PRINT
+INSERT l2 string
+END
+ASSIGN ho0D l2
+LOOKUP ho0D
+ASSIGN nMF '2'
+INSERT a string
+INSERT vB4T string
+ASSIGN vB4T 'h'
+INSERT q5_y6 number
+BEGIN
+LOOKUP gGVK
+INSERT e2rc string
+INSERT j string
+INSERT y string
+INSERT yma_uj number
+RPRINT
+INSERT d number
+INSERT fNbicc number
+PRINT

@@ -1,0 +1,29 @@
+INSERT aM string
+INSERT sE string
+INSERT kvdvcn number
+END
+INSERT t string
+INSERT xr number
+INSERT sSza number
+PRINT
+INSERT z string
+PRINT
+INSERT esC string
+INSERT gJ2Yu number
+LOOKUP sSza
+PRINT
+RPRINT
+wZ ea
+INSERT i8J string
+INSERT hGAxyd number
+INSERT pMKqR number
+RPRINT
+END
+LOOKUP t
+LOOKUP z
+INSERT lRU number
+PRINT
+PRINT
+INSERT ushr string
+INSERT i8 number
+END

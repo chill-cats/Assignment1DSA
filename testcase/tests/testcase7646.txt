@@ -1,0 +1,35 @@
+BEGIN
+INSERT dW string
+INSERT e string
+RPRINT
+PRINT
+INSERT em string
+INSERT s string
+END
+INSERT g string
+INSERT cOMZ string
+INSERT v6WC string
+INSERT s string
+INSERT eUp number
+BEGIN
+INSERT fe9e string
+INSERT kpn string
+INSERT mO7A1b number
+INSERT l number
+INSERT pf number
+RPRINT
+BEGIN
+LOOKUP em
+hc nfxFE
+rjcw1 r693Cy
+INSERT dBw string
+END
+END
+INSERT ztNp0 number
+INSERT j number
+INSERT l2r string
+INSERT suYdFM string
+INSERT ePanS number
+INSERT h6UON4 number
+INSERT hX number
+PRINT

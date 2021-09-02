@@ -1,0 +1,35 @@
+LOOKUP i8
+INSERT fcg9e number
+PRINT
+INSERT zhF string
+INSERT jk number
+INSERT lq6jy number
+BEGIN
+INSERT hA number
+INSERT bI7 string
+INSERT j31vm0 number
+RPRINT
+END
+INSERT vq string
+ASSIGN j31vm0 bI7
+INSERT zd string
+huz hR
+INSERT w5e53 number
+INSERT ycvY number
+INSERT pB string
+INSERT lN0N7a number
+LOOKUP pB
+RPRINT
+rPfdU o
+INSERT w4 number
+RPRINT
+INSERT cYPDgx number
+LOOKUP jk
+INSERT i8ja string
+INSERT keBB string
+BEGIN
+INSERT gOL number
+INSERT t4kn number
+RPRINT
+INSERT zzUqZ string
+ASSIGN hA 697

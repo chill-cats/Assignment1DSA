@@ -1,0 +1,33 @@
+INSERT z string
+v j8f
+INSERT bqEZI string
+INSERT p5uLPd number
+INSERT pAKGRv string
+INSERT kJh number
+INSERT xVrt number
+INSERT c48E2Z number
+LOOKUP z
+RPRINT
+PRINT
+INSERT ljFBN4 string
+INSERT jP_s number
+INSERT av7MkF number
+LOOKUP ljFBN4
+INSERT ush_qj number
+END
+INSERT k7fg string
+LOOKUP av7MkF
+END
+INSERT lPAfF number
+INSERT fQ number
+INSERT aTG16q string
+INSERT dVWll string
+LOOKUP lPAfF
+INSERT sW_s string
+INSERT f string
+INSERT tC4 number
+END
+ASSIGN sW_s ' We4R'
+RPRINT
+BEGIN
+INSERT rSe05J number

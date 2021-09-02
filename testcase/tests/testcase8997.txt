@@ -1,0 +1,6 @@
+LOOKUP qu_
+RPRINT
+PRINT
+INSERT mQJmJ string
+INSERT aunI2 string
+BEGIN

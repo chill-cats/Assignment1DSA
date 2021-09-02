@@ -1,0 +1,22 @@
+INSERT b7P number
+RPRINT
+BEGIN
+LOOKUP b7P
+RPRINT
+INSERT fWTt0 string
+INSERT iSZ string
+INSERT a string
+END
+INSERT kQTJKs string
+END
+RPRINT
+LOOKUP iSZ
+INSERT ddti string
+LOOKUP b7P
+LOOKUP a
+END
+aZ_iZ cN
+INSERT w number
+mO hBe
+PRINT
+INSERT qeXuOQ number

@@ -1,0 +1,14 @@
+INSERT kvT string
+INSERT m4 string
+INSERT j number
+INSERT j number
+INSERT rhX3G7 string
+BEGIN
+INSERT vmc string
+INSERT u_cpt string
+INSERT iXN number
+INSERT yj38i string
+INSERT rKI number
+LOOKUP rKI
+INSERT rux string
+ASSIGN rhX3G7 iXN

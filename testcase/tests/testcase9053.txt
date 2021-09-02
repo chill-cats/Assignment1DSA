@@ -1,0 +1,40 @@
+INSERT pG number
+END
+PRINT
+INSERT z string
+ASSIGN z pG
+INSERT sRvj number
+INSERT vikE73 string
+INSERT j__v number
+INSERT sN string
+INSERT riSI1u number
+RPRINT
+BEGIN
+LOOKUP riSI1u
+INSERT zD string
+END
+j f
+INSERT v number
+LOOKUP riSI1u
+INSERT m number
+LOOKUP v
+vlZER t
+PRINT
+LOOKUP sN
+INSERT uMX string
+LOOKUP v
+INSERT fUOq number
+RPRINT
+BEGIN
+INSERT sL string
+uN gNH
+INSERT qQs string
+INSERT vhmWCJ number
+BEGIN
+INSERT dNrup4 string
+INSERT a string
+INSERT wEIyo string
+INSERT wq3J0 string
+INSERT i string
+INSERT x8y_X6 number
+INSERT hee6_3 number

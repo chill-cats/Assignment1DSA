@@ -1,0 +1,8 @@
+INSERT rdx8 string
+BEGIN
+RPRINT
+INSERT u string
+INSERT osh string
+INSERT cvP number
+INSERT iJ string
+LOOKUP rdx8

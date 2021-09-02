@@ -1,0 +1,16 @@
+LOOKUP mzW
+INSERT nLm_J number
+RPRINT
+INSERT n string
+LOOKUP nLm_J
+ASSIGN nLm_J nLm_J
+INSERT yp1OO string
+LOOKUP n
+END
+INSERT osX number
+u4 t5KcDH
+INSERT g number
+PRINT
+r ju
+INSERT b string
+RPRINT

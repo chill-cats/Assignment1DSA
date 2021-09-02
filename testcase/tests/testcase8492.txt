@@ -1,0 +1,21 @@
+RPRINT
+INSERT y7si number
+INSERT c number
+INSERT t string
+INSERT ppyYu number
+INSERT b string
+BEGIN
+LOOKUP y7si
+INSERT pmicxz string
+LOOKUP t
+a xrzt
+INSERT dhoSL string
+INSERT dR_LS9 number
+INSERT v string
+INSERT e string
+END
+BEGIN
+INSERT r0h number
+INSERT fUGR string
+BEGIN
+INSERT xS string

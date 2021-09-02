@@ -1,0 +1,15 @@
+ASSIGN y0 518
+END
+INSERT plH string
+BEGIN
+INSERT s0nu number
+LOOKUP plH
+ypL2L6 qAB
+LOOKUP s0nu
+INSERT hl string
+INSERT dwpud number
+INSERT hwd string
+BEGIN
+INSERT kqHas number
+INSERT mzfJ number
+INSERT njGP number

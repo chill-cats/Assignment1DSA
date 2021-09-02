@@ -1,0 +1,31 @@
+ASSIGN c170 716
+INSERT i number
+ASSIGN i i
+INSERT wl2v number
+INSERT iI355 number
+INSERT h string
+INSERT rx16k string
+tV7 a_
+INSERT ekUOQ string
+LOOKUP rx16k
+ASSIGN h 626
+ASSIGN h 528
+INSERT saIM0 string
+INSERT pwUb number
+LOOKUP wl2v
+INSERT fC string
+END
+INSERT rjik string
+INSERT zGZS number
+ASSIGN ekUOQ 'j'
+INSERT a3 number
+INSERT oe string
+PRINT
+ASSIGN rjik 'CynU'
+INSERT x0faj string
+INSERT vPAk number
+INSERT a string
+INSERT s number
+BEGIN
+INSERT lVh string
+INSERT uPQt string

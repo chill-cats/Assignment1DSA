@@ -1,0 +1,5 @@
+INSERT i string
+INSERT z0U2 string
+PRINT
+INSERT y6NU number
+INSERT gGitDX string

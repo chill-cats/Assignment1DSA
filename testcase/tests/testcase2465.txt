@@ -1,0 +1,22 @@
+INSERT mwcWY_ string
+INSERT k string
+INSERT oTdLyL string
+INSERT k number
+BEGIN
+RPRINT
+INSERT woX7zc number
+RPRINT
+BEGIN
+ASSIGN woX7zc k
+INSERT aMvmX4 number
+INSERT vn string
+END
+INSERT dAO string
+INSERT sFKT string
+LOOKUP sFKT
+INSERT d8t5 number
+RPRINT
+LOOKUP k
+INSERT c number
+LOOKUP aMvmX4
+LOOKUP c

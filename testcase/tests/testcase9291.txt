@@ -1,0 +1,20 @@
+INSERT tC3gY number
+m nJ
+INSERT yM string
+INSERT eI string
+INSERT e string
+ASSIGN eI eI
+INSERT xD number
+BEGIN
+INSERT m number
+LOOKUP eI
+ASSIGN xD 373
+INSERT p string
+INSERT xXs4Q7 string
+LOOKUP m
+BEGIN
+INSERT u47 number
+INSERT rA_ string
+INSERT hJ6T number
+r qRq
+PRINT

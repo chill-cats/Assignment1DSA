@@ -1,0 +1,4 @@
+INSERT fmt6 number
+INSERT qIm2 string
+BEGIN
+INSERT gj6a2s number

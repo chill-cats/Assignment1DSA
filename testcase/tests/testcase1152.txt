@@ -1,0 +1,4 @@
+INSERT o string
+INSERT ku string
+INSERT f number
+INSERT sa number

@@ -1,0 +1,38 @@
+INSERT ii number
+END
+INSERT ue_k string
+INSERT cA number
+INSERT cVykE0 number
+v lVyrip
+INSERT i number
+INSERT sbh string
+INSERT cvZ number
+INSERT hNzS string
+LOOKUP sbh
+INSERT jT string
+INSERT xxK68o string
+INSERT oo string
+BEGIN
+INSERT aRn string
+INSERT m string
+PRINT
+PRINT
+INSERT oBp number
+INSERT qjKHm string
+ASSIGN cVykE0 'c6so'
+uuGU ljEOi
+gFqXhw si
+INSERT g8 number
+LOOKUP sbh
+INSERT eAZwI number
+RPRINT
+INSERT bz string
+LOOKUP xxK68o
+INSERT za2nb number
+INSERT aB string
+PRINT
+INSERT ySv9H number
+LOOKUP aRn
+INSERT s number
+BEGIN
+INSERT dz string

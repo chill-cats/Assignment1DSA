@@ -1,0 +1,34 @@
+ASSIGN mmE4M 'DzH'
+INSERT f string
+INSERT bmOB string
+END
+INSERT jyh string
+INSERT cFm string
+INSERT ia number
+INSERT sH string
+INSERT w7 number
+INSERT iUYP3 number
+INSERT hQ9 number
+INSERT d1 string
+RPRINT
+INSERT gk number
+ASSIGN ia '5B'
+BEGIN
+INSERT bAV string
+INSERT hCGqz number
+BEGIN
+ASSIGN jyh cFm
+RPRINT
+INSERT h number
+INSERT o number
+END
+INSERT zf string
+INSERT jga number
+PRINT
+INSERT uvH string
+INSERT mtd number
+INSERT eHF number
+ASSIGN mtd 59
+INSERT gS string
+RPRINT
+INSERT p9mK number

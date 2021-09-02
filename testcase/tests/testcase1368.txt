@@ -1,0 +1,31 @@
+RPRINT
+INSERT pmQzop number
+LOOKUP pmQzop
+BEGIN
+INSERT pjoQIF string
+LOOKUP pmQzop
+INSERT xB string
+PRINT
+BEGIN
+INSERT mGBi number
+INSERT d4Wbv string
+INSERT xTeVN4 string
+BEGIN
+INSERT jAo number
+INSERT qHu number
+INSERT fM string
+INSERT x number
+INSERT vHLy number
+LOOKUP xTeVN4
+ASSIGN vHLy qHu
+LOOKUP x
+INSERT aAUo string
+INSERT ebBHb5 string
+ASSIGN pmQzop 472
+INSERT hV7 string
+INSERT qWw string
+INSERT mMHm number
+INSERT wX1Jy number
+LOOKUP qHu
+INSERT qpYKI7 number
+INSERT aIlrjQ string

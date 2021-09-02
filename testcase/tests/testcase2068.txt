@@ -1,0 +1,26 @@
+INSERT zHG number
+INSERT pSeD number
+END
+INSERT vTS_Vy number
+INSERT ewt string
+INSERT l string
+INSERT n7pL number
+INSERT dx number
+INSERT b string
+INSERT aRAhOE number
+BEGIN
+PRINT
+LOOKUP voBQ
+INSERT a number
+INSERT pO number
+INSERT smqq7 number
+ASSIGN b b
+INSERT hs string
+RPRINT
+INSERT pt0mQN number
+INSERT qWI number
+INSERT w number
+PRINT
+END
+ASSIGN qWI 1140
+INSERT f number

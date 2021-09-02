@@ -1,0 +1,16 @@
+INSERT x8p number
+INSERT g4 number
+INSERT hWRR string
+LOOKUP g4
+INSERT bGgT number
+ASSIGN g4 'I'
+END
+INSERT a number
+INSERT o string
+BEGIN
+INSERT dES number
+INSERT jm7bB string
+PRINT
+LOOKUP a
+BEGIN
+INSERT p string

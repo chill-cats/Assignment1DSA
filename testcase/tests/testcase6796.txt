@@ -1,0 +1,15 @@
+INSERT yG number
+INSERT t6 number
+INSERT rgZ string
+INSERT gIoW number
+INSERT b2L8v string
+LOOKUP gIoW
+PRINT
+PRINT
+INSERT hjWC number
+INSERT ckaq number
+INSERT oq number
+INSERT t2w string
+INSERT ej string
+INSERT wtrglP number
+LOOKUP ej

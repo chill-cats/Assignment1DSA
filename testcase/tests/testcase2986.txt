@@ -1,0 +1,15 @@
+END
+INSERT iydn string
+PRINT
+RPRINT
+fWF1k jsNBo
+INSERT h number
+INSERT w string
+BEGIN
+LOOKUP iydn
+INSERT sc string
+INSERT yxNhD number
+INSERT m4clIB string
+END
+INSERT vM8 number
+PRINT

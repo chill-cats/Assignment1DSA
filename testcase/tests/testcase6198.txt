@@ -1,0 +1,36 @@
+PRINT
+LOOKUP cuEXF
+INSERT z string
+INSERT wW8 number
+BEGIN
+BEGIN
+INSERT kY number
+u t
+INSERT de8i1 string
+INSERT j6pi number
+INSERT j number
+LOOKUP j
+ASSIGN j 'hPr'
+INSERT dm string
+ASSIGN j6pi kY
+LOOKUP z
+PRINT
+PRINT
+INSERT zN number
+RPRINT
+INSERT ly7vT6 number
+INSERT s9Pm8K string
+RPRINT
+INSERT f8iEu string
+INSERT k number
+BEGIN
+INSERT stXl string
+INSERT h6Z string
+INSERT sIn number
+INSERT ir8LHA string
+BEGIN
+END
+INSERT idsQny string
+INSERT pFG string
+INSERT nB number
+INSERT rctCn5 string

@@ -1,0 +1,29 @@
+INSERT cDOenC number
+ASSIGN cDOenC 889
+INSERT fhfi number
+INSERT x string
+INSERT mQpNA string
+RPRINT
+ASSIGN cDOenC fhfi
+INSERT h number
+INSERT rE9z4 string
+INSERT buC3 number
+PRINT
+INSERT sn0Te number
+eiLF8e o_e4
+INSERT iEsB8q string
+INSERT w7 string
+ASSIGN fhfi h
+RPRINT
+PRINT
+INSERT ac6gw number
+ASSIGN w7 x
+INSERT ho number
+INSERT g string
+RPRINT
+INSERT ba6vgA number
+INSERT fKSO string
+END
+INSERT zk string
+INSERT uKU4I number
+INSERT lTVgJ string

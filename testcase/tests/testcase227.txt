@@ -1,0 +1,13 @@
+INSERT ycIS string
+PRINT
+INSERT y0A number
+PRINT
+INSERT lc string
+INSERT dRr1 string
+INSERT o9r number
+RPRINT
+INSERT v string
+INSERT p string
+INSERT y6 string
+INSERT t string
+INSERT aXHXl number

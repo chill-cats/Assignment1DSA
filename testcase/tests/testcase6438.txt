@@ -1,0 +1,16 @@
+INSERT u string
+INSERT dRj50a string
+INSERT h8zbtt number
+INSERT yH string
+INSERT q_ string
+INSERT v number
+INSERT fTqm string
+RPRINT
+INSERT n number
+LOOKUP dRj50a
+INSERT rcS_f number
+END
+INSERT j string
+INSERT gVF20 string
+INSERT h8v number
+INSERT m4sMp number

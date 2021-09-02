@@ -1,0 +1,32 @@
+END
+INSERT iZ string
+PRINT
+PRINT
+RPRINT
+INSERT cko number
+INSERT cf_Wl string
+INSERT egAy string
+INSERT e string
+INSERT rcev number
+ASSIGN cko 'E9qxU'
+INSERT v number
+INSERT tLKqN string
+ASSIGN rcev e
+INSERT vq number
+INSERT e number
+PRINT
+INSERT eb number
+INSERT ogG6rm string
+INSERT i number
+END
+BEGIN
+eiijB pFHC
+BEGIN
+PRINT
+INSERT u6XHB string
+INSERT qn string
+ASSIGN tLKqN i
+INSERT iGGWWw string
+INSERT azO string
+INSERT p3hr number
+INSERT t number

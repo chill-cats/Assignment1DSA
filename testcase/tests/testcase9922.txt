@@ -1,0 +1,7 @@
+ASSIGN tSFrW 358
+INSERT aM string
+INSERT iZrr string
+BEGIN
+INSERT c2j number
+INSERT rV number
+INSERT q number

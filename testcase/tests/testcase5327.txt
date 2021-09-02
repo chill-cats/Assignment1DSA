@@ -1,0 +1,17 @@
+INSERT w5S number
+INSERT gDmibq string
+BEGIN
+INSERT uIhT1 number
+INSERT tp_gP string
+INSERT u17X number
+PRINT
+INSERT k8G7A string
+INSERT dmhg number
+INSERT yquQ string
+cltRh rY
+RPRINT
+LOOKUP w5S
+ASSIGN uIhT1 'DJ21A'
+INSERT kHU number
+ASSIGN dmhg 'Q0mjS'
+INSERT tGi number

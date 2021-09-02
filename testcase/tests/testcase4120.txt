@@ -1,0 +1,37 @@
+BEGIN
+INSERT y string
+INSERT qsO0 number
+INSERT sspt string
+LOOKUP y
+BEGIN
+BEGIN
+INSERT g1h string
+INSERT yrv_z2 number
+END
+PRINT
+INSERT w1D string
+LOOKUP sspt
+INSERT i string
+PRINT
+ASSIGN g1h 'aYiNC'
+INSERT j47OV string
+BEGIN
+INSERT m number
+ASSIGN qsO0 i
+INSERT xcM number
+INSERT r_iE number
+INSERT vCT string
+INSERT lSG4 string
+ASSIGN xcM m
+BEGIN
+INSERT yxj_ string
+INSERT hnqU7 string
+INSERT m19 string
+END
+INSERT pHJt4 string
+INSERT i8MlU number
+INSERT sUosD number
+INSERT rH0_4 number
+INSERT p49p string
+PRINT
+INSERT h5fOdI number

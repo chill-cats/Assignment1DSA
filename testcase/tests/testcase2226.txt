@@ -1,0 +1,34 @@
+INSERT b string
+INSERT q number
+INSERT u04lS number
+INSERT hyoCW_ number
+INSERT r string
+END
+LOOKUP u04lS
+INSERT pZPJF string
+INSERT rj string
+INSERT r5K string
+INSERT zSn3 string
+ASSIGN zSn3 978
+INSERT m number
+INSERT zR string
+RPRINT
+INSERT grP string
+RPRINT
+LOOKUP rj
+RPRINT
+INSERT sEBDC string
+PRINT
+ASSIGN b 129
+ASSIGN zSn3 199
+INSERT trLbt number
+INSERT kOJVID string
+INSERT kKpej number
+BEGIN
+RPRINT
+INSERT ilkz8p number
+INSERT lf string
+PRINT
+END
+INSERT vhi6l string
+END

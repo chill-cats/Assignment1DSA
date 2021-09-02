@@ -1,0 +1,38 @@
+RPRINT
+mCk lKp
+INSERT r string
+INSERT mg6 number
+INSERT pEY string
+LOOKUP pEY
+PRINT
+INSERT j string
+INSERT jvGOG number
+INSERT yEB_L string
+END
+ASSIGN r 'jER'
+INSERT smojCD number
+INSERT z string
+INSERT hnI string
+INSERT p number
+BEGIN
+INSERT ya number
+eiRrxf uJqm
+LOOKUP yEB_L
+ASSIGN jvGOG 'x2r'
+END
+INSERT xsOar number
+INSERT aveYuK number
+LOOKUP aveYuK
+ASSIGN xsOar 953
+INSERT l2DA string
+INSERT hJUZR number
+INSERT eMu9s string
+INSERT pGhz number
+LOOKUP xsOar
+END
+INSERT h8PZhY string
+LOOKUP yEB_L
+BEGIN
+INSERT z1_ number
+INSERT jXZ number
+INSERT jt6 string

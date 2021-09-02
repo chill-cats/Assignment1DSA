@@ -1,0 +1,30 @@
+END
+INSERT lHRBl string
+LOOKUP lHRBl
+INSERT lXaK number
+INSERT sq string
+pHRKr fUA
+INSERT n number
+INSERT fkw string
+BEGIN
+END
+INSERT j string
+INSERT mjOmry number
+LOOKUP fkw
+INSERT mVm string
+dgLhG2 fFlgW3
+INSERT sS string
+INSERT zyKE string
+INSERT eh string
+INSERT a number
+ASSIGN mjOmry 't'
+INSERT hrb number
+INSERT pGq number
+INSERT kLV90h number
+ASSIGN se8C 1058
+INSERT p4aTg5 string
+ASSIGN mVm '8N2'
+BEGIN
+RPRINT
+ASSIGN lHRBl 'A6FJj'
+INSERT pnklD string

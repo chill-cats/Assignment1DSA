@@ -1,0 +1,15 @@
+INSERT zaz1Q number
+INSERT bMb8r0 string
+INSERT jzvbBG number
+INSERT lD string
+END
+wKNk j
+END
+RPRINT
+INSERT mtzT string
+ASSIGN bMb8r0 'Zy'
+INSERT da6M number
+BEGIN
+INSERT s number
+RPRINT
+INSERT oH number

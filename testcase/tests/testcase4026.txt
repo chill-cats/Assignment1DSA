@@ -1,0 +1,19 @@
+LOOKUP c
+INSERT h number
+ASSIGN h 'DM5'
+INSERT zjPl_5 number
+INSERT kB5k25 number
+END
+mjI be7cX
+PRINT
+BEGIN
+LOOKUP h
+INSERT b string
+INSERT q65dM number
+ASSIGN kB5k25 557
+INSERT y string
+RPRINT
+INSERT x8adGV string
+INSERT t string
+INSERT rW7 number
+LOOKUP rW7

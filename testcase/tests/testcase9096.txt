@@ -1,0 +1,15 @@
+INSERT kgC8lp string
+ASSIGN kgC8lp kgC8lp
+INSERT gVLje number
+INSERT jf string
+INSERT muh1yI string
+INSERT fae5 number
+INSERT p5jJ string
+BEGIN
+PRINT
+INSERT ddCf number
+INSERT xF0 string
+END
+BEGIN
+INSERT zA8 number
+PRINT

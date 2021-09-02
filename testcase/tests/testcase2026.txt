@@ -1,0 +1,13 @@
+jxpG xFISzy
+RPRINT
+INSERT cq number
+INSERT vTns3 number
+INSERT nNu number
+LOOKUP cq
+INSERT pUHE6 string
+LOOKUP cq
+INSERT ijVT_W number
+INSERT v9 string
+INSERT g1kN string
+INSERT i0 number
+INSERT jrM number

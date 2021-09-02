@@ -1,0 +1,6 @@
+INSERT eMzXDK string
+INSERT w2xUgY string
+INSERT com26P number
+LOOKUP w2xUgY
+INSERT do string
+BEGIN

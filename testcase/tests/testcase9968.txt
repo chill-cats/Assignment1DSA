@@ -1,0 +1,36 @@
+INSERT rHKK string
+PRINT
+INSERT uWvU string
+INSERT bgK string
+LOOKUP bgK
+INSERT rsXTJ string
+PRINT
+INSERT p string
+BEGIN
+LOOKUP uWvU
+INSERT m1 number
+INSERT xhAc8 string
+INSERT yVA3 string
+INSERT mlq9w number
+INSERT g_xt number
+LOOKUP g_xt
+INSERT fpG number
+INSERT r5em number
+BEGIN
+INSERT bV string
+INSERT hR1m string
+LOOKUP yVA3
+PRINT
+INSERT xj13Q string
+INSERT p string
+INSERT gkCz number
+INSERT vOVI number
+INSERT t string
+INSERT iUPR string
+BEGIN
+INSERT sohOug string
+INSERT tRs number
+PRINT
+ASSIGN xj13Q iUPR
+INSERT a number
+INSERT mYyvg6 string

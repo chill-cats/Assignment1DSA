@@ -1,0 +1,30 @@
+INSERT sX number
+INSERT t8 string
+BEGIN
+INSERT kb number
+INSERT yv string
+INSERT gl7l4 string
+INSERT n string
+INSERT fuG number
+PRINT
+INSERT sFbaiU number
+INSERT q7Uv1 number
+INSERT fg62C string
+LOOKUP kb
+INSERT tQKuRZ number
+INSERT mf string
+INSERT joA number
+BEGIN
+INSERT t string
+RPRINT
+INSERT t string
+INSERT rq string
+RPRINT
+INSERT mVxOXs string
+ASSIGN joA 726
+RPRINT
+INSERT seubWT number
+INSERT ivc number
+INSERT sYK1ho string
+RPRINT
+LOOKUP kb

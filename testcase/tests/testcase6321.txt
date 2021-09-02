@@ -1,0 +1,24 @@
+PRINT
+INSERT xiTxWI string
+INSERT pWg string
+s7jsT f
+INSERT jChNi9 number
+LOOKUP pWg
+ASSIGN pWg 519
+END
+INSERT h1DoHz number
+BEGIN
+LOOKUP xiTxWI
+INSERT ay7 string
+ASSIGN jChNi9 h1DoHz
+ASSIGN xiTxWI pWg
+INSERT lQM number
+BEGIN
+PRINT
+LOOKUP ay7
+INSERT elS9yB number
+INSERT j string
+INSERT k33t_z number
+INSERT a1u1Gr string
+INSERT pt string
+RPRINT

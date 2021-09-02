@@ -1,0 +1,40 @@
+INSERT kp7r1 string
+INSERT lW string
+RPRINT
+ASSIGN lW lW
+INSERT aXb string
+END
+LOOKUP kp7r1
+INSERT p number
+ASSIGN aXb 340
+RPRINT
+INSERT pCe string
+ASSIGN aXb 'fMq'
+INSERT o string
+LOOKUP aXb
+INSERT vkk string
+INSERT vu number
+INSERT t number
+BEGIN
+PRINT
+INSERT wn9o number
+INSERT hCj number
+INSERT yUdkoi string
+INSERT pJu string
+INSERT ub string
+INSERT hd7C string
+BEGIN
+END
+INSERT cSuU number
+INSERT zKP string
+INSERT e3LMd number
+INSERT x number
+INSERT sM_MM string
+LOOKUP lW
+RPRINT
+LOOKUP hd7C
+END
+INSERT lNaFw number
+BEGIN
+INSERT zk number
+INSERT hfOo string

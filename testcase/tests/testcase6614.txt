@@ -1,0 +1,9 @@
+INSERT jHpOCC number
+INSERT tqYLSG string
+INSERT h string
+END
+INSERT f8 number
+INSERT t number
+INSERT vInsPh string
+RPRINT
+BEGIN

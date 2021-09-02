@@ -1,0 +1,36 @@
+INSERT kyR number
+INSERT lANpSp number
+INSERT kGogw5 string
+END
+INSERT mYUQ number
+INSERT z number
+INSERT jJt8 string
+LOOKUP mYUQ
+RPRINT
+INSERT eqd6t string
+PRINT
+ASSIGN mYUQ 653
+INSERT vmq number
+PRINT
+END
+BEGIN
+PRINT
+PRINT
+m qo
+INSERT q1q string
+RPRINT
+LOOKUP vmq
+INSERT r number
+ASSIGN mYUQ eqd6t
+RPRINT
+INSERT umo number
+PRINT
+INSERT e number
+END
+INSERT tA3L string
+fPKv wqWO
+END
+BEGIN
+LOOKUP kyR
+INSERT t string
+hzBK ne4x8O

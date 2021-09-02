@@ -1,0 +1,27 @@
+PRINT
+PRINT
+INSERT l string
+INSERT oY string
+INSERT lUa number
+INSERT pYm number
+INSERT u85DA string
+END
+INSERT uTlb number
+END
+BEGIN
+INSERT gA3A number
+RPRINT
+INSERT h0 number
+ASSIGN l lUa
+INSERT b number
+INSERT iT number
+INSERT rdcv number
+INSERT n4G number
+INSERT xiv number
+INSERT s string
+INSERT dPhqlr number
+BEGIN
+RPRINT
+INSERT e number
+END
+INSERT jlyHW string

@@ -1,0 +1,29 @@
+ASSIGN enq '5Q'
+INSERT h number
+RPRINT
+INSERT bUV string
+INSERT c2T9a number
+INSERT zGV string
+RPRINT
+INSERT oUk string
+INSERT r_ number
+ASSIGN zGV '017'
+INSERT u8Hu string
+INSERT fVOmN string
+ASSIGN u8Hu r_
+PRINT
+INSERT p string
+INSERT xuzWp string
+LOOKUP zGV
+INSERT f number
+LOOKUP oUk
+INSERT ohD8UN number
+INSERT oDl number
+INSERT vg string
+INSERT w string
+INSERT qk8Q9 number
+INSERT s number
+INSERT iPv string
+INSERT q string
+INSERT ifkqE string
+INSERT n5yfB number

@@ -1,0 +1,7 @@
+INSERT dq number
+BEGIN
+INSERT ajo string
+INSERT rEB110 string
+END
+END
+LOOKUP rEB110

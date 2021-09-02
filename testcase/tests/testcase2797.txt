@@ -1,0 +1,23 @@
+INSERT wD3z number
+INSERT g string
+ASSIGN g wD3z
+END
+ASSIGN g 'Gi'
+INSERT f8 number
+INSERT yGA number
+INSERT i7ua string
+BEGIN
+INSERT kDdg number
+INSERT aA number
+INSERT sP4E number
+INSERT d number
+INSERT bg string
+INSERT wTB number
+INSERT p0gX string
+INSERT p3T7QT string
+INSERT lQrld number
+RPRINT
+INSERT yStd8 number
+INSERT q7S number
+INSERT qsB number
+INSERT sYjR string

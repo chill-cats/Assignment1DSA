@@ -1,0 +1,27 @@
+INSERT h0 number
+INSERT oK number
+INSERT nj4v string
+INSERT vMDE string
+INSERT pJ number
+INSERT jCHAn7 string
+dXV hG
+INSERT aIY string
+INSERT rNrg string
+INSERT kCjC5G string
+INSERT x number
+INSERT ugI3j string
+INSERT n string
+INSERT fkWNw string
+INSERT q8GQZ number
+LOOKUP jCHAn7
+END
+INSERT e number
+INSERT g string
+INSERT uEp number
+INSERT lNCT number
+ASSIGN aIY 'LWb'
+INSERT n9Wdwj number
+l qW
+INSERT cTp_ string
+INSERT dOT number
+INSERT aLuQ string

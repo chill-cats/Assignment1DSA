@@ -1,0 +1,19 @@
+ASSIGN vZUPBB '9k2'
+ASSIGN sQ 937
+LOOKUP xO_MnE
+PRINT
+INSERT mAxm string
+BEGIN
+vzC myQu
+ASSIGN mAxm 'VxS'
+INSERT wsXY string
+LOOKUP wsXY
+END
+INSERT m0 string
+INSERT gplH number
+ASSIGN wsXY 'V1'
+INSERT gL5i3J string
+INSERT zF string
+INSERT chcf number
+INSERT l string
+RPRINT

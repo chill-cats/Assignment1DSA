@@ -1,0 +1,28 @@
+INSERT fAl9 number
+INSERT hK number
+LOOKUP fAl9
+LOOKUP fAl9
+END
+RPRINT
+INSERT f string
+INSERT b7 string
+LOOKUP hK
+INSERT jW43n string
+INSERT pwCL number
+INSERT fK8Q number
+LOOKUP jW43n
+INSERT vC string
+INSERT tFadr5 string
+INSERT mBGKz string
+INSERT gcFkgr string
+INSERT nwY4e number
+ASSIGN jW43n fAl9
+INSERT q number
+INSERT mfTzF number
+INSERT m2jL66 string
+ASSIGN fK8Q 149
+LOOKUP gcFkgr
+INSERT bQ string
+INSERT cJOcV number
+RPRINT
+INSERT w number

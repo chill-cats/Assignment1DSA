@@ -1,0 +1,34 @@
+INSERT qoLpy string
+RPRINT
+INSERT h_ string
+INSERT q number
+INSERT tAmItW string
+LOOKUP qoLpy
+INSERT f number
+LOOKUP h_
+INSERT iAhW string
+INSERT zAAx string
+INSERT wW number
+ASSIGN f 'x5yOY'
+INSERT sS3_ string
+INSERT zv string
+PRINT
+INSERT jdeLZ string
+END
+INSERT iRLh number
+INSERT pfNqAE number
+LOOKUP sS3_
+INSERT ot_w number
+INSERT yFhIC3 string
+INSERT n7BSzq string
+PRINT
+PRINT
+LOOKUP jdeLZ
+INSERT cnPKy number
+PRINT
+LOOKUP q
+INSERT nsQ string
+INSERT qDAZ string
+INSERT adL_ string
+e0T nea
+PRINT

@@ -1,0 +1,15 @@
+INSERT uPVj7E string
+INSERT i7 number
+ASSIGN uPVj7E i7
+RPRINT
+INSERT yqHK9E string
+INSERT pmA3D number
+INSERT hcyb string
+INSERT bHxDj1 string
+INSERT wusT string
+INSERT cTwXU number
+ASSIGN wusT 'A75n'
+ASSIGN i7 'P'
+PRINT
+INSERT zZls number
+RPRINT

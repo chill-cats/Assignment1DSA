@@ -1,0 +1,20 @@
+INSERT cpJ number
+INSERT p string
+INSERT uQAAZ2 string
+INSERT po number
+INSERT gdO number
+INSERT hfzI_ number
+INSERT vL1l5 number
+INSERT wbAC number
+INSERT dbI number
+INSERT cig_VL number
+INSERT ve3 string
+LOOKUP gdO
+END
+ASSIGN cig_VL 112
+INSERT fpZeD string
+ASSIGN cig_VL 350
+ASSIGN cpJ 407
+ASSIGN gdO '5zU'
+INSERT aVxSif number
+INSERT uUwXd number

@@ -1,0 +1,34 @@
+INSERT ojCCyE number
+LOOKUP ojCCyE
+INSERT eym66f string
+INSERT n number
+INSERT hJ9_ number
+INSERT xQ1lLW string
+END
+oaRXtX jN
+INSERT rE string
+LOOKUP ojCCyE
+INSERT qq string
+INSERT tPOee string
+LOOKUP hJ9_
+INSERT afIU number
+INSERT e string
+INSERT tcsV string
+LOOKUP xQ1lLW
+END
+INSERT wPI string
+INSERT h number
+PRINT
+INSERT ixzu string
+RPRINT
+BEGIN
+INSERT n6SlTp number
+INSERT r6Ssve number
+INSERT hH number
+INSERT ynCJEz number
+INSERT wQ string
+INSERT k string
+PRINT
+INSERT zvz number
+INSERT f6y number
+RPRINT

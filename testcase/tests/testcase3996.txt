@@ -1,0 +1,33 @@
+INSERT r number
+INSERT ghN string
+INSERT v4Ngs9 number
+INSERT uy number
+INSERT hI string
+RPRINT
+INSERT eV_ number
+INSERT vCmtFW number
+INSERT h string
+INSERT zsJM number
+RPRINT
+INSERT xxs0 string
+INSERT h number
+INSERT yE_V number
+ASSIGN eV_ 'L9Tl'
+INSERT kHW string
+INSERT dv number
+BEGIN
+INSERT lsJ string
+INSERT kHzdp string
+INSERT w number
+LOOKUP r
+INSERT t5 string
+RPRINT
+INSERT l string
+INSERT zZ9H number
+BEGIN
+INSERT twL number
+LOOKUP w
+INSERT yY20CV string
+INSERT ohjA1 number
+INSERT lL number
+INSERT z number

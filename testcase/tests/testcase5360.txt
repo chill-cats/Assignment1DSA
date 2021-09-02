@@ -1,0 +1,30 @@
+PRINT
+INSERT h8H number
+ASSIGN h8H 'R8'
+INSERT k number
+INSERT q4t number
+LOOKUP h8H
+ASSIGN k q4t
+BEGIN
+INSERT s string
+INSERT n6CDao number
+PRINT
+INSERT zKqz number
+LOOKUP n6CDao
+BEGIN
+INSERT x number
+LOOKUP x
+INSERT ahFbv string
+BEGIN
+INSERT hHLS number
+END
+INSERT o string
+PRINT
+BEGIN
+mc po_
+ASSIGN k 'fNuCE'
+INSERT vP string
+INSERT eq string
+INSERT x number
+RPRINT
+INSERT bfV string

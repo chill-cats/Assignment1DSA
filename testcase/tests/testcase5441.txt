@@ -1,0 +1,27 @@
+RPRINT
+PRINT
+INSERT g2 number
+INSERT ydJKx string
+ASSIGN g2 ydJKx
+INSERT dBoR9 string
+INSERT m string
+BEGIN
+INSERT jB number
+INSERT bzNV number
+kXNi lmGF
+INSERT f string
+RPRINT
+INSERT xCe number
+INSERT v number
+INSERT lGpL string
+INSERT yb1 string
+INSERT eacbCh number
+INSERT tv6WU number
+RPRINT
+INSERT lcj1 number
+END
+BEGIN
+INSERT fg string
+INSERT mBcSPF number
+END
+END

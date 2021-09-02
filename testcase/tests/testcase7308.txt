@@ -1,0 +1,18 @@
+BEGIN
+INSERT z string
+gEH pATvio
+LOOKUP z
+INSERT p3 number
+BEGIN
+INSERT lJFD number
+END
+PRINT
+INSERT mSdNFA string
+BEGIN
+INSERT c_id string
+END
+INSERT h9FxX number
+INSERT lV2 number
+RPRINT
+INSERT nn string
+ASSIGN z 'p'

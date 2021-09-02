@@ -1,0 +1,20 @@
+INSERT ku number
+PRINT
+RPRINT
+INSERT yF13e number
+RPRINT
+INSERT e38F string
+INSERT aFEjnP number
+ASSIGN aFEjnP 745
+INSERT fmGZF number
+ASSIGN yF13e 'dbCbu'
+PRINT
+END
+BEGIN
+INSERT o string
+ASSIGN yF13e fmGZF
+INSERT rKBzK string
+INSERT kh string
+BEGIN
+END
+LOOKUP kh

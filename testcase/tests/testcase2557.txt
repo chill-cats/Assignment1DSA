@@ -1,0 +1,25 @@
+INSERT cC number
+ASSIGN cC 1066
+PRINT
+LOOKUP cC
+INSERT rb3 string
+BEGIN
+INSERT vIXkyC string
+LOOKUP rb3
+INSERT rZhWM string
+LOOKUP rb3
+INSERT aJye7 number
+INSERT gZBN number
+INSERT bSosp number
+INSERT oEIu string
+INSERT hqUh8 number
+LOOKUP rZhWM
+INSERT uKtyM string
+INSERT rX string
+RPRINT
+RPRINT
+INSERT rVW3 string
+INSERT tyS number
+INSERT aZ number
+INSERT rb74 string
+INSERT r number

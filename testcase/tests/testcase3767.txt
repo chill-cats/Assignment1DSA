@@ -1,0 +1,3 @@
+INSERT f8 number
+ASSIGN f8 f8
+INSERT pI number

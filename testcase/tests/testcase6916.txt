@@ -1,0 +1,30 @@
+INSERT xDdW string
+INSERT cyky9U string
+INSERT fSs number
+BEGIN
+LOOKUP cyky9U
+RPRINT
+ASSIGN xDdW cyky9U
+BEGIN
+INSERT co1H string
+INSERT vuiqxj number
+PRINT
+INSERT xDO string
+LOOKUP co1H
+RPRINT
+INSERT dRFMDD string
+INSERT nvFy number
+INSERT lUaF number
+BEGIN
+END
+INSERT ndOo9P number
+ASSIGN ylMqTb fSs
+INSERT gI4T string
+END
+INSERT b0Xq_D number
+INSERT uTLUzf number
+BEGIN
+INSERT qV number
+RPRINT
+INSERT exVScc string
+INSERT nE string

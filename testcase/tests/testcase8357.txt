@@ -1,0 +1,10 @@
+RPRINT
+INSERT r7MQ string
+PRINT
+ASSIGN r7MQ r7MQ
+INSERT oE8 number
+INSERT x number
+ASSIGN x r7MQ
+INSERT fsK8 number
+END
+INSERT wh string

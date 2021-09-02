@@ -1,0 +1,33 @@
+RPRINT
+INSERT v number
+INSERT lY string
+INSERT k number
+END
+ASSIGN k 1076
+END
+INSERT wDTQy string
+INSERT fmaj7_ string
+INSERT wReV number
+INSERT dsj1Fw string
+INSERT wuS1sQ number
+END
+INSERT k7H number
+INSERT rnfbq number
+INSERT bBsl4t number
+INSERT pVOe string
+ASSIGN lY pVOe
+INSERT tyAX string
+INSERT fX number
+PRINT
+INSERT sy9 string
+BEGIN
+LOOKUP pVOe
+INSERT l number
+INSERT mU2Lay string
+END
+INSERT pk number
+INSERT xu5 string
+INSERT iEOUA number
+RPRINT
+INSERT pV number
+INSERT tF string

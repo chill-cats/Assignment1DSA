@@ -1,0 +1,6 @@
+x r1
+INSERT srYB number
+INSERT ylh string
+INSERT v string
+RPRINT
+INSERT n number

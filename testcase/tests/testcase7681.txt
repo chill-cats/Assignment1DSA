@@ -1,0 +1,36 @@
+INSERT dr string
+ASSIGN dr dr
+BEGIN
+END
+ASSIGN dr 'J'
+INSERT qrC6 number
+INSERT a string
+INSERT u9l string
+INSERT a57aD string
+qByPj tKZH
+INSERT zka number
+INSERT h5 number
+INSERT eJ number
+INSERT hDg string
+m7 eydm
+INSERT xCieV number
+PRINT
+LOOKUP eJ
+BEGIN
+END
+INSERT d number
+INSERT k_8 string
+ASSIGN zka hDg
+BEGIN
+INSERT el88C number
+INSERT dHYIt string
+INSERT zvr string
+INSERT aZ string
+INSERT ch number
+INSERT hL number
+INSERT nf0P number
+INSERT gu17p number
+taEl fHE
+INSERT h8 number
+INSERT t57C7 string
+INSERT m number

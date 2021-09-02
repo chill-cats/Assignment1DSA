@@ -1,0 +1,38 @@
+INSERT k0f string
+INSERT f string
+INSERT t string
+INSERT e3 number
+INSERT u5ZBw number
+INSERT v2F number
+RPRINT
+INSERT s number
+INSERT u00CvS number
+LOOKUP f
+RPRINT
+INSERT n string
+PRINT
+PRINT
+BEGIN
+INSERT iw number
+INSERT c6X number
+INSERT clnpWU number
+INSERT v0md string
+INSERT hrh number
+uIfFb jGNNAt
+INSERT i string
+INSERT yEG number
+INSERT jgX7 string
+kxWl pmK
+LOOKUP f
+INSERT h string
+RPRINT
+INSERT o number
+INSERT oi string
+INSERT of string
+RPRINT
+INSERT bD string
+INSERT bpCYn7 number
+INSERT o9Lt string
+RPRINT
+INSERT h7 string
+LOOKUP c6X

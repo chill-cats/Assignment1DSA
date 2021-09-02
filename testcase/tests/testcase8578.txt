@@ -1,0 +1,25 @@
+INSERT aC string
+INSERT zM number
+INSERT yVZD string
+LOOKUP zM
+INSERT iSUfc string
+INSERT v9Rat string
+ASSIGN aC yVZD
+INSERT qmuYa string
+INSERT dLR8A string
+INSERT va number
+INSERT x string
+INSERT d string
+ASSIGN v9Rat 'J'
+LOOKUP dLR8A
+PRINT
+END
+INSERT a string
+PRINT
+END
+INSERT i4 string
+LOOKUP dLR8A
+INSERT rWFsL string
+INSERT ylrjKg number
+LOOKUP yVZD
+INSERT kA number

@@ -1,0 +1,26 @@
+INSERT y6CjN number
+BEGIN
+END
+INSERT iU5P number
+INSERT vm_YCv string
+INSERT jw string
+ASSIGN vm_YCv 'W'
+INSERT lJ number
+INSERT k1g string
+PRINT
+END
+INSERT hNmS string
+INSERT mcQ8 string
+INSERT kcJN0 string
+INSERT gUZ string
+a kdik
+INSERT kz number
+END
+LOOKUP kz
+INSERT j number
+INSERT l string
+INSERT m string
+RPRINT
+INSERT jght36 number
+BEGIN
+END

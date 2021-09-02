@@ -1,0 +1,4 @@
+RPRINT
+INSERT dbn string
+ASSIGN a8Un dbn
+LOOKUP dbn

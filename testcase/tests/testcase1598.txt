@@ -1,0 +1,28 @@
+INSERT csLf3 number
+PRINT
+INSERT cVuGb number
+PRINT
+INSERT sGHkTA number
+INSERT nIO number
+RPRINT
+INSERT zJQe string
+INSERT aiAvCi string
+ASSIGN cVuGb cVuGb
+BEGIN
+BEGIN
+INSERT wPo6 number
+INSERT cMdVz string
+INSERT g string
+LOOKUP wPo6
+INSERT dEnoyy string
+sKv0 e
+PRINT
+INSERT qvH number
+LOOKUP cMdVz
+INSERT sq75K string
+INSERT kq number
+INSERT j string
+INSERT yZt0C string
+INSERT kYq number
+INSERT vYAs string
+INSERT rIj string

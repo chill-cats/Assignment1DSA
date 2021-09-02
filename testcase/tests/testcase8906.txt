@@ -1,0 +1,22 @@
+INSERT lowS number
+INSERT w4J number
+INSERT t5YOAA string
+ASSIGN t5YOAA 'u u8'
+ASSIGN lowS t5YOAA
+LOOKUP lowS
+END
+LOOKUP w4J
+INSERT l7a7PS number
+INSERT gA1f0 number
+RPRINT
+INSERT r0ia string
+ASSIGN l7a7PS 502
+INSERT mr string
+mQUgs zcKIS
+uxlX ojhQ
+PRINT
+LOOKUP lowS
+INSERT gxK number
+INSERT go number
+INSERT c string
+INSERT rBN5 string

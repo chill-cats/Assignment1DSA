@@ -1,0 +1,36 @@
+INSERT jxBP string
+BEGIN
+g cS2se
+RPRINT
+i a9
+INSERT p_9 number
+INSERT xGb0 string
+INSERT zn string
+INSERT hYj5 string
+INSERT e string
+INSERT sv number
+INSERT hH number
+INSERT a4 string
+INSERT f number
+INSERT q string
+INSERT oO number
+LOOKUP q
+INSERT gz4uh string
+INSERT hY string
+INSERT kf2n string
+INSERT kksK number
+INSERT woHv string
+INSERT kcOoOy string
+PRINT
+INSERT bbO6_ number
+END
+BEGIN
+ASSIGN gz4uh 'Wq5ao'
+INSERT kmr number
+RPRINT
+INSERT pvL6 string
+INSERT m94HfZ string
+INSERT rZV number
+INSERT lDba string
+RPRINT
+END

@@ -1,0 +1,13 @@
+BEGIN
+INSERT xBa7to number
+hF y9H2M
+LOOKUP xBa7to
+LOOKUP xBa7to
+INSERT u number
+INSERT vR string
+INSERT bGF string
+INSERT aNOnH string
+INSERT d string
+INSERT jAQ string
+ASSIGN aNOnH 'utey'
+INSERT nqhyi6 number

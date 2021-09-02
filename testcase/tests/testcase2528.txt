@@ -1,0 +1,20 @@
+INSERT mbZZ number
+END
+INSERT w string
+INSERT yd string
+INSERT t_HyT number
+INSERT eSX string
+BEGIN
+PRINT
+INSERT b string
+INSERT yCrU7 string
+INSERT v3IM string
+INSERT wgQ number
+INSERT g number
+INSERT z number
+BEGIN
+LOOKUP wgQ
+PRINT
+INSERT wEu0 string
+INSERT as string
+INSERT iCsSN string

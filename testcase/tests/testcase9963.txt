@@ -1,0 +1,33 @@
+LOOKUP u
+INSERT lA6R number
+INSERT bBC string
+INSERT bTVuG number
+INSERT eqhur number
+LOOKUP eqhur
+INSERT u0 string
+INSERT jh0 number
+INSERT s9h string
+BEGIN
+RPRINT
+INSERT xG8G number
+INSERT o string
+INSERT hRTn string
+BEGIN
+INSERT u string
+INSERT nVo number
+INSERT dF string
+BEGIN
+END
+INSERT gEMsUo string
+ASSIGN hRTn 539
+gJ pNK
+INSERT vKtwY number
+INSERT ypU number
+END
+RPRINT
+INSERT bjo number
+BEGIN
+END
+END
+LOOKUP xG8G
+INSERT cUw string

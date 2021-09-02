@@ -1,0 +1,36 @@
+INSERT xfmtFi string
+INSERT in number
+ASSIGN xfmtFi 372
+INSERT giRFRN number
+INSERT mmy8zK string
+END
+INSERT mw4 string
+RPRINT
+INSERT w number
+LOOKUP w
+k wc
+INSERT kd number
+INSERT p number
+INSERT uvV number
+INSERT eTe40i string
+INSERT nNW1GJ string
+BEGIN
+INSERT s number
+INSERT gG0f string
+INSERT kC string
+ASSIGN kd 98
+INSERT k6xn1 number
+INSERT oAMSN8 number
+LOOKUP mmy8zK
+INSERT gGxI string
+INSERT lUGaSh number
+INSERT bC string
+INSERT d26_W string
+END
+INSERT htlV string
+INSERT g string
+INSERT jDYG string
+INSERT tsqAU string
+yO aCvWzq
+INSERT dg string
+INSERT gR4 string

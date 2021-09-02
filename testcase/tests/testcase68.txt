@@ -1,0 +1,33 @@
+INSERT iQqK string
+INSERT d9 number
+INSERT bI number
+INSERT e number
+PRINT
+INSERT j6 string
+INSERT t8yB string
+INSERT p string
+BEGIN
+PRINT
+INSERT axOJ number
+LOOKUP axOJ
+LOOKUP bI
+ASSIGN t8yB 437
+RPRINT
+LOOKUP cC1
+pLb nXNpK
+LOOKUP e
+INSERT r1 number
+PRINT
+END
+LOOKUP axOJ
+INSERT e number
+BEGIN
+BEGIN
+ASSIGN axOJ 865
+INSERT u string
+PRINT
+ASSIGN t8yB 75
+INSERT tK number
+PRINT
+INSERT pC5gny string
+INSERT h3N9WF string

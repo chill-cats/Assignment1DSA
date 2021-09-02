@@ -1,0 +1,14 @@
+INSERT b string
+g g
+INSERT qAy number
+INSERT pP_up number
+INSERT h9kn string
+INSERT zNYO string
+INSERT dWM number
+END
+INSERT jm string
+INSERT j number
+RPRINT
+END
+LOOKUP j
+INSERT n1 number

@@ -1,0 +1,22 @@
+INSERT uUJ string
+END
+BEGIN
+INSERT aKtI3 number
+RPRINT
+ASSIGN uUJ uUJ
+INSERT kN7 number
+kSn_ jI
+RPRINT
+INSERT p string
+INSERT uHvzE string
+PRINT
+INSERT t number
+BEGIN
+INSERT ke_y number
+LOOKUP uUJ
+INSERT oYkI84 number
+INSERT aw6 number
+INSERT yc9 string
+BEGIN
+END
+LOOKUP yc9

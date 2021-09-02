@@ -1,0 +1,40 @@
+INSERT oZyd number
+INSERT m string
+INSERT t2urV string
+END
+PRINT
+END
+INSERT vdqP string
+INSERT zox9q string
+INSERT f42Mf string
+INSERT sz string
+LOOKUP t2urV
+LOOKUP sz
+INSERT rzqF string
+INSERT rv4Xvw string
+PRINT
+ASSIGN f42Mf 'YJL'
+LOOKUP f42Mf
+BEGIN
+LOOKUP f42Mf
+INSERT kPu string
+BEGIN
+INSERT zXq string
+INSERT qpl string
+RPRINT
+PRINT
+INSERT txpw1 number
+INSERT af5X4Q string
+INSERT z71 string
+INSERT aMGTKc string
+INSERT x number
+INSERT g1vfXo number
+INSERT jFqqOp string
+INSERT mKRrpL number
+LOOKUP rv4Xvw
+RPRINT
+INSERT rKvCat number
+ASSIGN jFqqOp 's'
+INSERT i number
+INSERT aL string
+END

@@ -1,0 +1,28 @@
+INSERT uh number
+INSERT jsv0m number
+RPRINT
+LOOKUP jsv0m
+LOOKUP jsv0m
+INSERT ux number
+INSERT nH string
+INSERT db2fsw number
+BEGIN
+INSERT rY string
+INSERT a29tfo number
+INSERT tA string
+INSERT osr string
+RPRINT
+END
+END
+PRINT
+INSERT oW1d string
+INSERT r string
+INSERT gsoF string
+INSERT mG8HD number
+INSERT n3xE9 string
+INSERT gpNt number
+INSERT q number
+LOOKUP ux
+ASSIGN tA 'PiP'
+INSERT bTrKc number
+INSERT dp number

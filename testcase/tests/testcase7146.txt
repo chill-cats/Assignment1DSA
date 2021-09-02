@@ -1,0 +1,22 @@
+INSERT xC string
+ASSIGN xC xC
+INSERT fi number
+INSERT o string
+LOOKUP xC
+nBbbVW oB
+jNrvJH qg
+INSERT vi string
+INSERT bt number
+INSERT kQc number
+INSERT af number
+ASSIGN vi o
+INSERT l number
+ASSIGN af l
+INSERT bmS_5m string
+INSERT uyTAi number
+INSERT zCVf string
+INSERT wHSl number
+PRINT
+INSERT eyTrfA string
+INSERT qE string
+PRINT

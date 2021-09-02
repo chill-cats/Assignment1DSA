@@ -1,0 +1,34 @@
+INSERT xP string
+INSERT v string
+END
+INSERT cw86G number
+INSERT w9k number
+RPRINT
+END
+BEGIN
+INSERT pxq number
+INSERT tZN number
+ASSIGN v w9k
+END
+INSERT yPJjl number
+RPRINT
+INSERT s3x number
+RPRINT
+END
+INSERT maYIGA number
+BEGIN
+LOOKUP tZN
+INSERT qdue3 number
+INSERT m string
+INSERT lz number
+INSERT jJruoJ string
+INSERT ae string
+END
+INSERT fyzx6 string
+INSERT tDaQJ number
+BEGIN
+INSERT k4Voj string
+INSERT wxns string
+INSERT sWGuT string
+INSERT zV_o87 number
+LOOKUP v

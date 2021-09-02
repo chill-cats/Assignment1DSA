@@ -1,0 +1,29 @@
+INSERT w number
+PRINT
+INSERT n number
+INSERT bHl314 string
+BEGIN
+INSERT y3kL string
+BEGIN
+INSERT k number
+END
+INSERT x string
+INSERT vq number
+INSERT v string
+INSERT ycE string
+INSERT b5wLD string
+LOOKUP bHl314
+INSERT l_TYp number
+LOOKUP ycE
+INSERT hWawEU string
+INSERT yz number
+INSERT baKeV number
+INSERT h2hkV string
+END
+jJ7zTY k_KkV
+ASSIGN x '1y1'
+PRINT
+ASSIGN y3kL n
+BEGIN
+END
+INSERT wQZLsI string

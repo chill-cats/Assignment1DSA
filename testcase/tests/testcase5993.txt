@@ -1,0 +1,16 @@
+INSERT pxiCCf string
+LOOKUP pxiCCf
+INSERT nzXa number
+INSERT b5cXu number
+PRINT
+INSERT xSORf number
+INSERT mmlYvr string
+LOOKUP b5cXu
+INSERT ek6mVn string
+INSERT tp number
+ASSIGN pxiCCf 'Jq6'
+LOOKUP xSORf
+PRINT
+INSERT mbxc string
+ASSIGN pxiCCf 727
+PRINT

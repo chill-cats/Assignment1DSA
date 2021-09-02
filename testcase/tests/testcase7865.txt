@@ -1,0 +1,9 @@
+INSERT m string
+INSERT dS6N8J number
+INSERT d number
+BEGIN
+RPRINT
+PRINT
+INSERT srwiQX number
+fJdfqW s34
+INSERT e string

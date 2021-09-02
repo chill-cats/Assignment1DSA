@@ -1,0 +1,28 @@
+INSERT iUb number
+RPRINT
+INSERT q_M string
+INSERT crBR_ string
+INSERT x string
+INSERT jQQcN number
+INSERT wsn0Q string
+INSERT tH2N string
+END
+INSERT wEQnNG string
+INSERT k7t number
+BEGIN
+LOOKUP q_M
+LOOKUP k7t
+INSERT cHBSm string
+ASSIGN iUb 'cwbf'
+INSERT hf string
+INSERT e45B number
+INSERT bLr number
+INSERT idRxA string
+END
+INSERT cp string
+INSERT zdy1 string
+INSERT zif number
+INSERT yp number
+INSERT cvqm number
+INSERT iIQTr string
+RPRINT

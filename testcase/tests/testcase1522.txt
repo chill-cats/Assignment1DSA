@@ -1,0 +1,32 @@
+INSERT u number
+LOOKUP u
+INSERT iRS6lW number
+BEGIN
+RPRINT
+INSERT hgg number
+ASSIGN hgg u
+PRINT
+PRINT
+LOOKUP iRS6lW
+INSERT mkk string
+INSERT nsI number
+INSERT c string
+END
+INSERT t1 string
+BEGIN
+INSERT c9 string
+INSERT gj number
+INSERT pUfbyK number
+INSERT hPWQ string
+INSERT mc0et number
+nVDb nO7nNJ
+BEGIN
+INSERT n9W number
+BEGIN
+INSERT g number
+INSERT q1WJ string
+LOOKUP u
+PRINT
+INSERT vfms number
+INSERT zf0n1 number
+ASSIGN n9W nsI

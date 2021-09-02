@@ -1,0 +1,34 @@
+RPRINT
+PRINT
+INSERT y number
+PRINT
+PRINT
+END
+INSERT j_7MM string
+INSERT tXcYX number
+LOOKUP tXcYX
+INSERT tnkM_ string
+INSERT zA string
+INSERT j string
+INSERT xy string
+INSERT tPxnqk string
+LOOKUP tXcYX
+PRINT
+INSERT du3WZ number
+INSERT wYZ number
+INSERT fNF0Bn string
+INSERT fG number
+INSERT vlC2a string
+LOOKUP tXcYX
+INSERT gU9nA number
+INSERT tJh59r string
+INSERT e string
+INSERT ox7b string
+LOOKUP j2
+END
+ASSIGN tPxnqk zA
+INSERT chFz string
+END
+ASSIGN tnkM_ 787
+INSERT nqTj number
+INSERT r number

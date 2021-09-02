@@ -1,0 +1,12 @@
+INSERT vRTK string
+INSERT s1Cnp number
+LOOKUP s1Cnp
+INSERT hblP string
+PRINT
+INSERT y string
+INSERT x string
+INSERT ao8 number
+BEGIN
+RPRINT
+INSERT vj_xu string
+INSERT pLsEip number

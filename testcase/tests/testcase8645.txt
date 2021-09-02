@@ -1,0 +1,5 @@
+zVAEyY hka
+INSERT d1 number
+INSERT l number
+ASSIGN d1 l
+END

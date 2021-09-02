@@ -1,0 +1,19 @@
+END
+INSERT uK7QfS string
+PRINT
+INSERT asVt number
+INSERT zaB number
+PRINT
+INSERT y number
+END
+INSERT vs0 number
+BEGIN
+PRINT
+ASSIGN zaB 352
+INSERT jqV string
+INSERT g7gb string
+INSERT vzcDPV number
+INSERT t25LM number
+INSERT qQ7b string
+LOOKUP qQ7b
+INSERT kqj number

@@ -1,0 +1,39 @@
+INSERT wrm string
+INSERT uzN number
+INSERT hc number
+INSERT adB7G number
+INSERT zl60 number
+PRINT
+INSERT im45X number
+PRINT
+INSERT bq_ string
+INSERT q8mNR string
+INSERT siGqbA string
+INSERT bf string
+INSERT dy83 number
+PRINT
+INSERT yu7wZg number
+END
+RPRINT
+INSERT i number
+INSERT cZD5_j string
+INSERT wJd number
+LOOKUP bf
+ASSIGN im45X 'WZ'
+INSERT n string
+INSERT oT number
+INSERT t4OB4 number
+INSERT msKq string
+b q
+ASSIGN uzN 'XDv1'
+INSERT pwcwNw string
+INSERT iyniv string
+INSERT u number
+LOOKUP i
+BEGIN
+INSERT k2jpOL string
+INSERT gc number
+INSERT eNhav1 number
+INSERT e string
+BEGIN
+PRINT

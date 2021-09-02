@@ -1,0 +1,4 @@
+ASSIGN hN 663
+INSERT faqhp number
+LOOKUP faqhp
+INSERT hr string

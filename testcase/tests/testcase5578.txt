@@ -1,0 +1,6 @@
+PRINT
+INSERT zIBVXT string
+INSERT x number
+INSERT iJCk string
+INSERT z string
+INSERT p6ET string

@@ -1,0 +1,13 @@
+INSERT bdma number
+INSERT rNTflb number
+INSERT kL9pbb string
+INSERT uTc string
+INSERT pF1_ string
+BEGIN
+ASSIGN pF1_ 311
+INSERT r number
+BEGIN
+INSERT bl number
+INSERT hn string
+BEGIN
+PRINT

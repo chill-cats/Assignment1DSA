@@ -1,0 +1,40 @@
+ASSIGN jp7SG 'g'
+INSERT bwb string
+INSERT rA4g number
+LOOKUP bwb
+edg gQ
+INSERT vlt4 number
+INSERT eBpi number
+RPRINT
+INSERT zH6j number
+INSERT i4V number
+INSERT h number
+INSERT e0 number
+BEGIN
+LOOKUP i4V
+INSERT rCfn number
+INSERT quxSI number
+INSERT s number
+RPRINT
+INSERT tv6XfO string
+ASSIGN zH6j bwb
+BEGIN
+BEGIN
+RPRINT
+INSERT o string
+INSERT jPE9 number
+BEGIN
+INSERT q7e number
+BEGIN
+INSERT oUmk string
+INSERT izdIPd number
+BEGIN
+INSERT gyF string
+ASSIGN vlt4 71
+INSERT f6xieC string
+PRINT
+END
+LOOKUP f6xieC
+LOOKUP f6xieC
+INSERT pC string
+INSERT qTuG string

@@ -1,0 +1,15 @@
+INSERT rOj string
+INSERT fKA number
+ASSIGN rOj rOj
+INSERT sFM number
+ASSIGN fKA sFM
+PRINT
+mGJp vJQzX
+INSERT s number
+PRINT
+INSERT fG number
+INSERT quTGvi number
+INSERT e number
+INSERT wJHjy string
+LOOKUP s
+INSERT lt8 string

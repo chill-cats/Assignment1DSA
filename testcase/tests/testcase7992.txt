@@ -1,0 +1,30 @@
+PRINT
+PRINT
+INSERT tQoq string
+PRINT
+PRINT
+INSERT dP2Mvu number
+INSERT w number
+ASSIGN w 382
+INSERT d number
+INSERT lCC string
+INSERT c string
+INSERT z string
+INSERT jV number
+LOOKUP z
+INSERT q number
+ASSIGN q 523
+PRINT
+ASSIGN z 'tVMfD'
+INSERT p string
+END
+INSERT e string
+BEGIN
+INSERT dF number
+INSERT h7 number
+INSERT m string
+INSERT khuX8x number
+INSERT s string
+INSERT bug number
+RPRINT
+INSERT wMzkk string

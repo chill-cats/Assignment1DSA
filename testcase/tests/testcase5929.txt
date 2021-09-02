@@ -1,0 +1,19 @@
+INSERT yl0j6R string
+RPRINT
+RPRINT
+PRINT
+INSERT i4Bz string
+INSERT dx5a4l string
+INSERT ezdW number
+INSERT f24J6 number
+INSERT npLs0Q string
+INSERT mOqv string
+INSERT bAg number
+INSERT d2GSRL number
+LOOKUP dx5a4l
+RPRINT
+BEGIN
+INSERT z number
+v dPdK
+ASSIGN yl0j6R mOqv
+INSERT kCe number

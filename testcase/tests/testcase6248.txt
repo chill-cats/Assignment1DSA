@@ -1,0 +1,10 @@
+ASSIGN xhi 661
+INSERT hJVTm number
+RPRINT
+PRINT
+END
+INSERT kN string
+RPRINT
+INSERT sah number
+INSERT ttdgi string
+INSERT iM0 number

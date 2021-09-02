@@ -1,0 +1,17 @@
+INSERT eu string
+END
+INSERT nHFV number
+INSERT cJO string
+PRINT
+ASSIGN eu 'aU'
+INSERT a number
+LOOKUP cJO
+INSERT hd3 string
+INSERT xrRH0 string
+INSERT b number
+INSERT pE_Uf string
+INSERT aC string
+INSERT vB string
+INSERT r number
+INSERT pgGc string
+INSERT o9q string

@@ -1,0 +1,1 @@
+INSERT k number

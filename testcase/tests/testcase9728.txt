@@ -1,0 +1,35 @@
+INSERT qu0 number
+PRINT
+INSERT fYgqIR number
+ASSIGN qu0 'OER'
+INSERT bEP string
+INSERT iINx string
+INSERT cU2 number
+INSERT yPTq number
+INSERT kVPz string
+END
+INSERT aoVT number
+INSERT xqoxBn number
+INSERT vxxzsd number
+INSERT i string
+INSERT qvF number
+INSERT k string
+INSERT lNC string
+INSERT tSLjLy string
+ASSIGN vxxzsd '7'
+PRINT
+INSERT h70 string
+LOOKUP qvF
+INSERT xd1Cb string
+RPRINT
+BEGIN
+dU b59f0
+END
+INSERT ylTX3s number
+LOOKUP iINx
+INSERT ihY string
+INSERT eJmdlI string
+INSERT kaky number
+rsD p
+PRINT
+INSERT nij string

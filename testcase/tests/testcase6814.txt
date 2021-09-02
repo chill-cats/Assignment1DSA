@@ -1,0 +1,34 @@
+LOOKUP e5ZCcF
+INSERT ubahX number
+INSERT gqaU number
+INSERT m9swS number
+INSERT j number
+END
+ASSIGN gqaU j
+INSERT yzWyNM string
+INSERT aVu number
+INSERT vQg6 number
+INSERT t number
+LOOKUP j
+BEGIN
+INSERT zO number
+INSERT a6 string
+INSERT y number
+INSERT zSK_ number
+RPRINT
+INSERT rTb string
+ASSIGN rTb aVu
+LOOKUP t
+PRINT
+ASSIGN ubahX '61s'
+PRINT
+INSERT v string
+INSERT r7 string
+INSERT gYoduC string
+INSERT sL6N number
+INSERT pi string
+INSERT w0 number
+LOOKUP t
+INSERT nYTO number
+INSERT uej1 number
+RPRINT

@@ -1,0 +1,36 @@
+BEGIN
+INSERT sq number
+ASSIGN sq 433
+PRINT
+LOOKUP sq
+INSERT xQKuS5 number
+INSERT rzH6Nd number
+INSERT q number
+INSERT mfdKG string
+END
+LOOKUP xQKuS5
+INSERT lc number
+INSERT tT6U number
+INSERT x number
+BEGIN
+INSERT z string
+INSERT mK number
+RPRINT
+PRINT
+PRINT
+INSERT w2NiG string
+INSERT sPHU number
+pceoh x
+INSERT jFxh string
+ASSIGN mK 'rv'
+INSERT fB string
+RPRINT
+PRINT
+INSERT yrPMt number
+ASSIGN x 'NvNbj'
+INSERT a30 number
+INSERT lJG number
+INSERT q string
+BEGIN
+INSERT ioWd9 string
+LOOKUP jFxh

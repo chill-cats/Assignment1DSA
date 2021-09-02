@@ -1,0 +1,25 @@
+RPRINT
+INSERT j number
+BEGIN
+INSERT f1vH string
+END
+END
+INSERT vD4t82 string
+INSERT wQJ number
+LOOKUP f1vH
+INSERT nGwGdm string
+INSERT cg8h number
+INSERT dik1 string
+ASSIGN cg8h 537
+BEGIN
+RPRINT
+ASSIGN vD4t82 'FHt'
+INSERT h number
+BEGIN
+INSERT tIfBwK number
+INSERT g5tM string
+INSERT x number
+hCNQg waqW
+INSERT c96 number
+INSERT z6qpB string
+INSERT bz number

@@ -1,0 +1,10 @@
+LOOKUP xXw
+BEGIN
+INSERT zcPjT string
+INSERT sL number
+INSERT pLg4 string
+de ciLuIu
+LOOKUP zcPjT
+END
+LOOKUP zcPjT
+END

@@ -1,0 +1,32 @@
+RPRINT
+LOOKUP qRF
+END
+INSERT sn9u string
+INSERT p string
+INSERT la string
+INSERT frhu string
+INSERT f string
+INSERT t number
+INSERT rfE number
+END
+INSERT d number
+RPRINT
+PRINT
+INSERT taPGjN number
+INSERT okDX number
+INSERT wKAw string
+INSERT hS string
+END
+PRINT
+RPRINT
+INSERT kxfd number
+LOOKUP hS
+BEGIN
+INSERT e9trL string
+INSERT t number
+END
+INSERT efdS number
+INSERT zwUMN string
+LOOKUP wKAw
+RPRINT
+INSERT xbQ0g number

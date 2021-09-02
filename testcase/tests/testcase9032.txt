@@ -1,0 +1,38 @@
+PRINT
+ASSIGN oAUUdx '9Dk'
+INSERT oC number
+LOOKUP oC
+INSERT rH string
+INSERT j_c number
+INSERT us number
+END
+INSERT fb4h number
+INSERT w number
+INSERT bv number
+INSERT smVtWQ string
+BEGIN
+ASSIGN smVtWQ 1150
+INSERT jLmQY number
+PRINT
+RPRINT
+LOOKUP oC
+INSERT a8k number
+INSERT zI number
+INSERT w number
+ASSIGN bv us
+END
+BEGIN
+INSERT oBnuM6 number
+INSERT gP_Eyh number
+INSERT lz string
+INSERT sDfDu string
+INSERT w1 string
+INSERT oI number
+INSERT f4GV number
+INSERT jRCHBK number
+INSERT lc_ string
+END
+INSERT fxB number
+END
+INSERT jD3Kxi number
+INSERT eIXpe string

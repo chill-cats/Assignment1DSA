@@ -1,0 +1,10 @@
+INSERT cK9 string
+INSERT jRvgt number
+INSERT dsc number
+ASSIGN dsc 'Y'
+INSERT btstn number
+BEGIN
+INSERT nENs number
+END
+INSERT t39 string
+INSERT lWQ number

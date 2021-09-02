@@ -1,0 +1,8 @@
+LOOKUP qwbtg
+INSERT eyeTr0 number
+BEGIN
+PRINT
+INSERT o number
+INSERT e string
+PRINT
+BEGIN

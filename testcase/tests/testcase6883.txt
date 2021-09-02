@@ -1,0 +1,40 @@
+PRINT
+LOOKUP i
+INSERT vVwnD number
+LOOKUP vVwnD
+INSERT uRVg number
+INSERT f string
+END
+INSERT bnMyu string
+END
+RPRINT
+INSERT vqlv string
+ASSIGN vqlv vqlv
+END
+PRINT
+BEGIN
+INSERT u number
+INSERT m9FYBV string
+RPRINT
+INSERT p_ number
+INSERT fdoL2 string
+RPRINT
+INSERT t number
+INSERT nRL9 number
+INSERT h string
+BEGIN
+INSERT i0d number
+ASSIGN m9FYBV bnMyu
+RPRINT
+PRINT
+INSERT bns number
+ASSIGN bns 229
+PRINT
+INSERT ppA number
+PRINT
+INSERT lL89h number
+INSERT zm86eA number
+BEGIN
+RPRINT
+INSERT x number
+oe i

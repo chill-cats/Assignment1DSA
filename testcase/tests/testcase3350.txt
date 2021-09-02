@@ -1,0 +1,25 @@
+INSERT rl7 number
+RPRINT
+INSERT e05 number
+LOOKUP e05
+INSERT tgWo7u string
+INSERT hf number
+p0 n_I6a
+ASSIGN e05 'i6H60'
+INSERT p0 number
+RPRINT
+vwGNJ wMKtT
+LOOKUP hf
+INSERT z number
+INSERT g number
+BEGIN
+INSERT qmms number
+INSERT f5 number
+INSERT j_AO number
+INSERT bK9HI number
+ASSIGN j_AO 'e8mm8'
+RPRINT
+PRINT
+INSERT pdb number
+INSERT o65L string
+INSERT lq3 number

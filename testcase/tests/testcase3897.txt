@@ -1,0 +1,30 @@
+LOOKUP rpYS0u
+RPRINT
+LOOKUP cF
+RPRINT
+INSERT h0 number
+PRINT
+END
+INSERT wEtQL number
+ASSIGN h0 wEtQL
+INSERT tB7CEN number
+BEGIN
+END
+INSERT lr number
+INSERT se number
+INSERT y7xo number
+BEGIN
+INSERT oGGo7 number
+END
+INSERT bXcsdG number
+INSERT fF2Nrs string
+INSERT j string
+END
+xN vt
+INSERT i9Af number
+LOOKUP h0
+INSERT mu string
+LOOKUP lr
+LOOKUP y7xo
+INSERT yaD number
+INSERT oS1Tno number

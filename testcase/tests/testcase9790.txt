@@ -1,0 +1,13 @@
+INSERT gWH string
+INSERT qa1 number
+INSERT gAs7tp number
+INSERT htj string
+INSERT p string
+BEGIN
+INSERT q number
+LOOKUP q
+INSERT gpJ number
+lka fil
+ASSIGN q gpJ
+BEGIN
+ASSIGN gAs7tp 'GmI'

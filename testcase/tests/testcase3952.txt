@@ -1,0 +1,25 @@
+t lh
+INSERT tbzv number
+LOOKUP tbzv
+INSERT vEvc string
+INSERT sRPj number
+RPRINT
+RPRINT
+lQ hDvk
+ASSIGN vEvc 1235
+END
+LOOKUP vEvc
+INSERT qk number
+RPRINT
+BEGIN
+INSERT rNKA number
+RPRINT
+INSERT q number
+ASSIGN rNKA sRPj
+BEGIN
+INSERT pR string
+INSERT l string
+INSERT mdGLI string
+INSERT qlFZUc number
+INSERT xSZ number
+INSERT dkHd number

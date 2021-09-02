@@ -1,0 +1,22 @@
+INSERT r1 string
+INSERT kmtx string
+INSERT isb7OG string
+ASSIGN r1 r1
+ASSIGN kmtx 527
+INSERT gDMF string
+INSERT ymA5 number
+PRINT
+INSERT u number
+ASSIGN r1 '2uPOr'
+INSERT kJxoB string
+PRINT
+INSERT uU string
+INSERT m number
+INSERT np string
+BEGIN
+LOOKUP m
+RPRINT
+BEGIN
+INSERT w7gj2 string
+INSERT pT number
+END

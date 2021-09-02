@@ -1,0 +1,31 @@
+LOOKUP fK
+PRINT
+LOOKUP wDhCDu
+INSERT xJTg9c number
+INSERT d string
+RPRINT
+INSERT b0 number
+INSERT qQ7 number
+INSERT tfe string
+BEGIN
+INSERT yf string
+INSERT pDKU9 string
+END
+ASSIGN b0 xJTg9c
+INSERT cr string
+INSERT u8w number
+INSERT q9e string
+INSERT r6JBK6 string
+LOOKUP r6JBK6
+INSERT sjw number
+INSERT bsQM string
+PRINT
+ASSIGN u8w 211
+INSERT oF string
+ASSIGN yf 292
+RPRINT
+RPRINT
+END
+LOOKUP bsQM
+INSERT dT string
+INSERT nV number

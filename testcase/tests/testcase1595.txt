@@ -1,0 +1,23 @@
+INSERT pIlP string
+INSERT i5I number
+ASSIGN pIlP pIlP
+fIGuw cGD
+INSERT vnZ_S string
+INSERT wvv25S number
+INSERT uk number
+INSERT a number
+INSERT xLr number
+INSERT pxk__ string
+ASSIGN pxk__ wvv25S
+RPRINT
+BEGIN
+BEGIN
+INSERT meNQJl string
+INSERT heia number
+INSERT chO2 string
+sBH w
+INSERT qn number
+RPRINT
+LOOKUP n
+ASSIGN a 'Bp'
+INSERT c4Yad string

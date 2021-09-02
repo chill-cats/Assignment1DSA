@@ -1,0 +1,32 @@
+END
+PRINT
+INSERT s number
+END
+LOOKUP s
+LOOKUP s
+PRINT
+INSERT tgw number
+INSERT xAx number
+INSERT x number
+LOOKUP x
+BEGIN
+BEGIN
+PRINT
+INSERT wcK number
+INSERT nRrooi string
+INSERT eat number
+INSERT wzWu string
+PRINT
+INSERT vNz number
+INSERT ruh19F number
+END
+INSERT pP string
+INSERT uZU string
+LOOKUP ruh19F
+RPRINT
+INSERT f5jge2 number
+RPRINT
+END
+BEGIN
+INSERT kSrhmU number
+INSERT x7F0 string

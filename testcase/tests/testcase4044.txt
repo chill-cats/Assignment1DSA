@@ -1,0 +1,29 @@
+INSERT h string
+RPRINT
+LOOKUP h
+BEGIN
+PRINT
+INSERT aqC string
+INSERT e number
+ASSIGN e 676
+INSERT ddni number
+INSERT pac4O number
+ASSIGN ddni ddni
+INSERT a94L string
+INSERT hS number
+END
+LOOKUP h
+INSERT qvqTA string
+INSERT leQvCh number
+beJ ru
+RPRINT
+INSERT t4KFKg string
+INSERT a3NtPp number
+PRINT
+INSERT a string
+qStsa9 ajaoFr
+p8 blU
+INSERT gVouU number
+INSERT ehKa3 number
+ASSIGN leQvCh 231
+INSERT mvfW number

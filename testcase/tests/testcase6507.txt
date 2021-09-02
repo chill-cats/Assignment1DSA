@@ -1,0 +1,13 @@
+ASSIGN te9V 580
+INSERT iDunDX string
+END
+INSERT ix number
+LOOKUP ix
+INSERT oq8 string
+INSERT ta number
+INSERT gE number
+INSERT h972H string
+INSERT cVXb5P string
+INSERT joHyy number
+ASSIGN ix 972
+INSERT e2Zv string

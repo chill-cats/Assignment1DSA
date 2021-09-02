@@ -1,0 +1,13 @@
+INSERT tzmd string
+dxJs cIUTbw
+INSERT rUREm number
+INSERT rN7 number
+LOOKUP tzmd
+RPRINT
+INSERT aE4cC string
+INSERT f number
+INSERT hFpZ string
+LOOKUP tzmd
+BEGIN
+INSERT zx string
+INSERT l__5H string

@@ -1,0 +1,39 @@
+INSERT ajMFK string
+INSERT m7k number
+INSERT vN string
+INSERT lzx string
+INSERT se number
+LOOKUP m7k
+INSERT xd number
+RPRINT
+INSERT iC5b number
+PRINT
+LOOKUP lzx
+INSERT i string
+INSERT lvTYC_ number
+INSERT hVXQ number
+ASSIGN hVXQ 420
+s n0a
+gFfID m
+PRINT
+PRINT
+RPRINT
+INSERT oA6C string
+PRINT
+INSERT m number
+INSERT p5EKzU string
+PRINT
+dKn n
+INSERT iSHLbk number
+INSERT l string
+ayco ah
+INSERT wK0 string
+INSERT d string
+INSERT i number
+INSERT k8nj number
+INSERT tvL7to number
+RPRINT
+INSERT o string
+ASSIGN k8nj 'uYc2'
+q pg
+INSERT oIKTJU number

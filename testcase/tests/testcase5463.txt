@@ -1,0 +1,40 @@
+END
+INSERT yJ8B number
+RPRINT
+ASSIGN yJ8B 1034
+ASSIGN yJ8B yJ8B
+INSERT dyedu string
+INSERT vCJ number
+INSERT uqzpq6 string
+PRINT
+END
+INSERT ssdA number
+INSERT j5EYot string
+RPRINT
+INSERT sRyJ0 number
+LOOKUP dyedu
+INSERT rc3w number
+INSERT mt6 string
+INSERT lvN string
+INSERT rRnB string
+ASSIGN vCJ 'dQ'
+PRINT
+INSERT t7kjLm string
+INSERT wT string
+INSERT oDsqRT string
+PRINT
+PRINT
+BEGIN
+arD a3
+INSERT eH string
+END
+mrdfm h7
+INSERT xN4zi string
+INSERT ugCH5 number
+END
+INSERT zoRi string
+INSERT v string
+INSERT ulQql string
+ASSIGN ugCH5 xN4zi
+INSERT rPT number
+INSERT y6pk string

@@ -1,0 +1,8 @@
+INSERT m string
+INSERT juX59 number
+INSERT zfTyH_ number
+INSERT zpd3 string
+INSERT bum string
+ASSIGN bum 971
+INSERT g number
+INSERT zy string

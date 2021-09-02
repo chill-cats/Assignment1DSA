@@ -1,0 +1,23 @@
+INSERT tt number
+INSERT kLgQ number
+INSERT y2 string
+INSERT hNN6Eb string
+INSERT l string
+INSERT k number
+INSERT effUFO number
+INSERT qG string
+PRINT
+INSERT cWDz string
+END
+b gG
+INSERT rf number
+RPRINT
+LOOKUP effUFO
+PRINT
+INSERT kfT5yX string
+INSERT y0 string
+INSERT l number
+INSERT vdv number
+INSERT ko number
+END
+PRINT

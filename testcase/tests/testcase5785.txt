@@ -1,0 +1,16 @@
+RPRINT
+INSERT mZYm number
+RPRINT
+BEGIN
+RPRINT
+INSERT fn number
+LOOKUP mZYm
+INSERT hJ string
+ASSIGN mZYm 'iN6L'
+INSERT o number
+INSERT fhPqN2 string
+INSERT x number
+INSERT zbJAje number
+orf g9hhpK
+END
+INSERT yXjo1N number

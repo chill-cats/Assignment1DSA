@@ -1,0 +1,17 @@
+RPRINT
+INSERT szLA1 string
+INSERT r6xAA string
+LOOKUP szLA1
+INSERT aitYrL string
+INSERT e_6Yk number
+INSERT hL1UZ string
+w u2
+u1dgz qCmy
+INSERT eF0 string
+PRINT
+INSERT rwLHW string
+PRINT
+INSERT z string
+INSERT tz string
+INSERT zPV string
+INSERT lSzRPi string

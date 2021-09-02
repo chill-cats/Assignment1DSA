@@ -1,0 +1,23 @@
+PRINT
+RPRINT
+ASSIGN qUC 834
+INSERT y58L string
+RPRINT
+INSERT l02a string
+LOOKUP y58L
+PRINT
+INSERT aUYsdN string
+LOOKUP l02a
+PRINT
+INSERT a1d string
+LOOKUP l02a
+INSERT d string
+BEGIN
+INSERT t9 number
+INSERT gpbhK string
+INSERT y number
+ASSIGN t9 'lNfvn'
+INSERT jjNJ number
+INSERT doz number
+PRINT
+INSERT rmrTu number

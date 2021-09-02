@@ -1,0 +1,32 @@
+INSERT xlyD3_ string
+INSERT ozE3 string
+BEGIN
+LOOKUP ozE3
+RPRINT
+INSERT zlg string
+LOOKUP zlg
+xjN9v qXKgl
+INSERT s_D number
+LOOKUP ozE3
+INSERT xx string
+INSERT mbVS string
+sP hNRGT
+INSERT zZ4L3 string
+ASSIGN ozE3 zZ4L3
+INSERT p number
+INSERT om string
+INSERT u13X string
+INSERT zr number
+BEGIN
+INSERT e number
+INSERT jhLG9A string
+RPRINT
+INSERT dRifG2 string
+LOOKUP mbVS
+INSERT uE string
+INSERT oWvG string
+INSERT mf number
+RPRINT
+END
+INSERT d6 string
+INSERT hIwV number

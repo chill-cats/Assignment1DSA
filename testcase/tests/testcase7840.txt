@@ -1,0 +1,11 @@
+INSERT oNs number
+INSERT x number
+INSERT iXbGbC string
+PRINT
+PRINT
+INSERT bdFfPR number
+INSERT f7o string
+INSERT d number
+INSERT s string
+INSERT knFGL string
+BEGIN

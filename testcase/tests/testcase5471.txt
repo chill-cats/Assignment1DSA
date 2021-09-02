@@ -1,0 +1,7 @@
+INSERT r5 string
+PRINT
+INSERT z string
+INSERT rjbCu number
+END
+INSERT dND8U string
+INSERT mP1bw string

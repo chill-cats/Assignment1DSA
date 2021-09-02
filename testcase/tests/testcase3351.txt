@@ -1,0 +1,36 @@
+INSERT eRs string
+INSERT blPm number
+ASSIGN blPm 175
+INSERT sbe0kw string
+PRINT
+INSERT mERUw9 number
+RPRINT
+INSERT y number
+INSERT pmwPy string
+LOOKUP sbe0kw
+INSERT eH3 string
+LOOKUP eH3
+INSERT lsKWxk number
+INSERT h string
+BEGIN
+INSERT n number
+PRINT
+INSERT a string
+INSERT n4Q number
+ASSIGN eH3 352
+INSERT oHl string
+INSERT knCtf number
+INSERT n7i number
+PRINT
+INSERT q_j8 number
+INSERT q string
+INSERT f number
+INSERT sUB string
+INSERT jc string
+INSERT p2kAh string
+INSERT s string
+INSERT tUfQL string
+INSERT cA string
+INSERT w number
+INSERT i6nn number
+RPRINT

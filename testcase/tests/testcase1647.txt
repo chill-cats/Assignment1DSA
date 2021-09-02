@@ -1,0 +1,27 @@
+INSERT eLE number
+INSERT m number
+RPRINT
+RPRINT
+INSERT gVUdC string
+INSERT cizFeI number
+INSERT r6I number
+PRINT
+pBZ9 ucblF
+INSERT rdYq string
+INSERT k string
+INSERT dIe string
+LOOKUP cizFeI
+INSERT tUj string
+INSERT gY1m string
+INSERT rYoLl number
+INSERT eTp number
+LOOKUP eLE
+INSERT kUzF string
+INSERT qY1W4 string
+PRINT
+BEGIN
+INSERT tT number
+LOOKUP eTp
+INSERT ma6 string
+INSERT nQg string
+INSERT tYI string

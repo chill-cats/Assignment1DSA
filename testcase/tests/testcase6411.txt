@@ -1,0 +1,32 @@
+PRINT
+INSERT x number
+END
+ASSIGN x x
+RPRINT
+INSERT llRZI number
+INSERT qXoGC string
+END
+BEGIN
+INSERT lFq number
+INSERT w9Pf string
+INSERT tBH8U number
+INSERT a2p67G number
+PRINT
+INSERT rJ number
+INSERT nQb string
+PRINT
+PRINT
+ASSIGN a2p67G 1130
+END
+INSERT z9c8 string
+ASSIGN vQd '2Y'
+ASSIGN w9Pf 'V'
+INSERT hq string
+INSERT duHu number
+BEGIN
+INSERT c string
+LOOKUP lFq
+qOTPx a
+INSERT leBG string
+INSERT a8E string
+INSERT cewa number

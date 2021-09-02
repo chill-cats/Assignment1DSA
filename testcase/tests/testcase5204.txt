@@ -1,0 +1,35 @@
+INSERT i2 number
+BEGIN
+INSERT v_u string
+INSERT wM string
+INSERT dF9kJ6 string
+INSERT dAKsk string
+INSERT wP number
+PRINT
+i5 ww_CHu
+INSERT mp number
+INSERT usGH string
+INSERT i09Hh string
+LOOKUP usGH
+PRINT
+END
+INSERT b number
+LOOKUP dAKsk
+INSERT hu string
+INSERT tkg number
+INSERT wD number
+INSERT o2iTf number
+INSERT m7maYU number
+INSERT b6Kx number
+INSERT x string
+INSERT p2XJf string
+INSERT j number
+INSERT s string
+PRINT
+INSERT t6 number
+INSERT r number
+INSERT mGY string
+INSERT r4 string
+BEGIN
+INSERT u string
+BEGIN

@@ -1,0 +1,13 @@
+END
+INSERT y2 number
+INSERT t number
+INSERT w1z7Kq string
+INSERT sMfj number
+RPRINT
+INSERT e_C8 number
+INSERT cd2 string
+PRINT
+LOOKUP t
+INSERT wG6DXP string
+INSERT d string
+INSERT je number

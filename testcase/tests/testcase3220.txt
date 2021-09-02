@@ -1,0 +1,8 @@
+INSERT p number
+INSERT giJU string
+PRINT
+INSERT yZz string
+ASSIGN yZz yZz
+LOOKUP giJU
+RPRINT
+END

@@ -1,0 +1,25 @@
+INSERT ahkW string
+PRINT
+RPRINT
+INSERT rrcB string
+LOOKUP ahkW
+INSERT dJl3 number
+BEGIN
+INSERT udvM number
+LOOKUP ahkW
+INSERT ryUg string
+INSERT pVFYy3 string
+PRINT
+INSERT a string
+PRINT
+INSERT kb number
+INSERT bEX37 string
+ASSIGN bEX37 bEX37
+INSERT eyGO string
+END
+INSERT c string
+INSERT zK number
+INSERT ior string
+LOOKUP ahkW
+INSERT hJ number
+INSERT n0oOQl string

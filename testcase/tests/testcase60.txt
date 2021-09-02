@@ -1,0 +1,40 @@
+INSERT g2 string
+INSERT wvpYA number
+INSERT tHvuAk string
+INSERT wUrae3 number
+ASSIGN wUrae3 tHvuAk
+INSERT lzQPfM number
+INSERT w0RgKX string
+INSERT gM string
+INSERT caFowI string
+LOOKUP w0RgKX
+INSERT rBsosH number
+END
+INSERT sjk string
+END
+INSERT jJDY number
+ASSIGN rBsosH 'IT'
+ASSIGN lzQPfM tHvuAk
+INSERT sf_Lb number
+INSERT t2wE string
+INSERT e string
+INSERT jV3d number
+RPRINT
+INSERT oawTfz number
+INSERT rj number
+INSERT zGBn string
+RPRINT
+INSERT lP string
+INSERT w string
+INSERT f3nXQ7 number
+END
+INSERT iCM number
+INSERT pNJ number
+RPRINT
+INSERT lW string
+RPRINT
+RPRINT
+INSERT kO number
+INSERT lYK_ string
+INSERT hdmkc4 number
+INSERT o7xJ number

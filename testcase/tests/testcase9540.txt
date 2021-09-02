@@ -1,0 +1,9 @@
+LOOKUP cU3Rnq
+LOOKUP x
+RPRINT
+INSERT aqYP string
+BEGIN
+ASSIGN aqYP 78
+INSERT v number
+RPRINT
+INSERT y6N string

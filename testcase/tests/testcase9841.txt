@@ -1,0 +1,29 @@
+INSERT p number
+INSERT n string
+INSERT iDDR string
+LOOKUP p
+INSERT i26I5 number
+LOOKUP p
+BEGIN
+INSERT o_9g number
+INSERT oRknv number
+BEGIN
+INSERT ez string
+INSERT oG string
+INSERT yicb number
+INSERT vfEaCC string
+uWp mQ
+INSERT oj0yX number
+INSERT iMOS number
+INSERT dw24 string
+INSERT kayzp string
+INSERT a number
+INSERT vBi number
+LOOKUP oRknv
+ASSIGN ez 563
+RPRINT
+INSERT bktqVR string
+INSERT gTVs string
+INSERT p9 string
+END
+b z1Si

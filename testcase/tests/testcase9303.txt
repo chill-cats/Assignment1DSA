@@ -1,0 +1,10 @@
+INSERT i number
+INSERT y_2uDw number
+RPRINT
+ASSIGN i y_2uDw
+RPRINT
+RPRINT
+INSERT l number
+RPRINT
+PRINT
+INSERT a8vJqF string

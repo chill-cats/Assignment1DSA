@@ -1,0 +1,13 @@
+INSERT b number
+BEGIN
+INSERT jNe number
+PRINT
+INSERT d6 string
+LOOKUP d6
+INSERT hGI number
+INSERT tMSD number
+INSERT iITDer string
+INSERT mDve string
+INSERT lb string
+INSERT pZ1 number
+INSERT aJf string

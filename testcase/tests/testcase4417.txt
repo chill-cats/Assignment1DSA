@@ -1,0 +1,6 @@
+LOOKUP smrcDL
+ASSIGN bw4rEf 1231
+INSERT iuq43 string
+LOOKUP iuq43
+INSERT xE number
+INSERT aisPM string

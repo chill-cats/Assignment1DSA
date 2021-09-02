@@ -1,0 +1,16 @@
+RPRINT
+INSERT lnum string
+INSERT bn string
+INSERT wQL string
+INSERT kJg string
+INSERT l string
+END
+INSERT gjV string
+INSERT v1onTm number
+LOOKUP kJg
+INSERT l48ktm string
+INSERT v number
+INSERT fBEP number
+RPRINT
+PRINT
+INSERT be number

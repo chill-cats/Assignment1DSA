@@ -1,0 +1,38 @@
+INSERT tP string
+INSERT o number
+INSERT i number
+INSERT v number
+INSERT dLaM9 string
+INSERT oMjv0T string
+INSERT ikMsQY string
+BEGIN
+RPRINT
+PRINT
+INSERT j number
+INSERT cls1 number
+INSERT haa9 number
+INSERT k5W string
+END
+INSERT iLu string
+INSERT iWnRsn number
+RPRINT
+INSERT o4E0v_ string
+INSERT eFU number
+ASSIGN eFU ' dFx'
+INSERT s number
+INSERT dmrsdd number
+ASSIGN ikMsQY 'g'
+INSERT e6 number
+INSERT jad string
+INSERT yVpD string
+RPRINT
+INSERT nEgrcu string
+RPRINT
+BEGIN
+INSERT thkS string
+INSERT slbFU string
+INSERT yHK number
+INSERT bNr number
+ASSIGN oMjv0T 'LHc'
+INSERT zt1F number
+INSERT eH number

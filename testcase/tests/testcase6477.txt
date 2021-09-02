@@ -1,0 +1,11 @@
+INSERT ccpH string
+INSERT wobt3 number
+INSERT rpLiLY string
+INSERT k number
+INSERT yJkE string
+INSERT lje4Z number
+INSERT lkU number
+LOOKUP lje4Z
+INSERT f number
+INSERT q0N number
+INSERT cJRld number

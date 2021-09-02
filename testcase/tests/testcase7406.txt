@@ -1,0 +1,3 @@
+INSERT p8iCo string
+INSERT g5V number
+INSERT zigx number

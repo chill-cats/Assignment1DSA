@@ -1,0 +1,32 @@
+INSERT eW7C number
+END
+INSERT nQ string
+en hOj7
+INSERT u6_W9 number
+LOOKUP nQ
+INSERT qnL number
+INSERT o string
+INSERT kLe1lB number
+BEGIN
+INSERT rDF string
+INSERT f string
+INSERT boNs number
+RPRINT
+LOOKUP boNs
+ASSIGN qnL kLe1lB
+INSERT wZf number
+RPRINT
+LOOKUP wZf
+END
+p dVIKM
+INSERT hL7Qty string
+INSERT h9w number
+INSERT aTwI number
+INSERT s string
+INSERT xd0Wvh string
+BEGIN
+INSERT rW4f number
+INSERT a string
+INSERT yPViX number
+INSERT p0 string
+INSERT qVuOQT string

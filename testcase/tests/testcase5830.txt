@@ -1,0 +1,5 @@
+INSERT wW number
+INSERT u8Ou number
+INSERT j6Tbg string
+PRINT
+INSERT fiaj8c number

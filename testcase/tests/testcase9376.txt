@@ -1,0 +1,20 @@
+INSERT hvv number
+INSERT tPgu number
+INSERT ivm string
+LOOKUP tPgu
+INSERT l string
+INSERT sojaNE string
+INSERT hM string
+INSERT aL string
+INSERT y2zf number
+ihUDk iTyA
+ASSIGN hvv 221
+INSERT a72jg number
+INSERT a5 number
+BEGIN
+PRINT
+INSERT r number
+INSERT kb string
+INSERT ypN4 number
+LOOKUP l
+INSERT aS number

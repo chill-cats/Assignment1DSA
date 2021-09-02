@@ -1,0 +1,11 @@
+INSERT rgz number
+ASSIGN rgz 'Amw'
+INSERT wR1u string
+LOOKUP wR1u
+INSERT nBa string
+u5 tCwkyb
+INSERT cQxN number
+INSERT jiNgB number
+END
+INSERT lT number
+INSERT z number

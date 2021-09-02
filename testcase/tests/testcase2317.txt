@@ -1,0 +1,17 @@
+RPRINT
+o o
+ASSIGN v 728
+LOOKUP bSrxT
+INSERT d number
+INSERT rYkmq string
+INSERT xzLJtH string
+INSERT m string
+INSERT e45Qs string
+LOOKUP rYkmq
+BEGIN
+INSERT w3c string
+INSERT op9 string
+END
+INSERT gG4ngL number
+PRINT
+INSERT yh number

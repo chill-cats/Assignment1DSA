@@ -1,0 +1,12 @@
+INSERT v number
+RPRINT
+ASSIGN v 264
+LOOKUP v
+RPRINT
+x rQ
+INSERT o_ string
+RPRINT
+INSERT eA4t3 string
+INSERT u number
+PRINT
+r_wd tilE

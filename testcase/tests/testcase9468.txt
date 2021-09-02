@@ -1,0 +1,39 @@
+INSERT st1og string
+INSERT ad20g number
+LOOKUP st1og
+INSERT uCCEC number
+LOOKUP st1og
+LOOKUP uCCEC
+jVi tIbHd
+INSERT y number
+INSERT j9Y number
+ASSIGN uCCEC 729
+INSERT pzPnt number
+RPRINT
+INSERT w string
+INSERT k string
+INSERT xJ number
+INSERT pZ3x string
+PRINT
+INSERT p number
+INSERT ozkVpp number
+INSERT b number
+INSERT b0 number
+INSERT e string
+RPRINT
+LOOKUP pzPnt
+INSERT oYDzx9 number
+INSERT jxj number
+INSERT bHl number
+ASSIGN ozkVpp '1RG'
+INSERT c string
+rLkN qvv
+LOOKUP c
+LOOKUP e
+INSERT im number
+INSERT u8wpn1 number
+ASSIGN jxj b0
+ASSIGN bHl '2LE'
+INSERT if number
+END
+INSERT l number

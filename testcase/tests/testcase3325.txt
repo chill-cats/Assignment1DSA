@@ -1,0 +1,23 @@
+INSERT mAtws string
+INSERT nvual number
+fBhg ueyVf
+INSERT wKS8X_ number
+INSERT rg string
+PRINT
+INSERT xunJ number
+INSERT eu0 string
+ASSIGN xunJ '0'
+END
+INSERT n44DAW number
+INSERT aouAAe string
+INSERT v number
+PRINT
+END
+BEGIN
+RPRINT
+INSERT bzdpzI number
+INSERT rW8 string
+INSERT f string
+INSERT uiX number
+INSERT o number
+LOOKUP o

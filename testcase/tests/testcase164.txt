@@ -1,0 +1,20 @@
+INSERT gv number
+INSERT jY string
+INSERT y36Q string
+INSERT w6 number
+BEGIN
+INSERT wCk number
+INSERT nd6H3 string
+INSERT l string
+INSERT pz7C0P number
+BEGIN
+ASSIGN l 1107
+lEda78 qR4
+INSERT nF number
+LOOKUP jY
+INSERT cf number
+INSERT jikUm number
+INSERT r0aGbt number
+INSERT jb1 number
+ASSIGN jikUm 639
+END

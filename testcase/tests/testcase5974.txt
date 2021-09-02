@@ -1,0 +1,31 @@
+ASSIGN fylden 138
+END
+ASSIGN l 629
+INSERT jgQNo string
+INSERT o8bpc6 string
+INSERT ge8 number
+ASSIGN ge8 jgQNo
+INSERT d_ce7K number
+RPRINT
+INSERT aBr number
+INSERT egg number
+INSERT wv5KlS string
+INSERT iwCX number
+INSERT tr0zy string
+INSERT amVs3 string
+INSERT o32ZW8 string
+INSERT pZR string
+LOOKUP ge8
+BEGIN
+INSERT n1pw9Y string
+INSERT vZjk4 number
+INSERT iMUZ number
+LOOKUP ge8
+INSERT bHqrd number
+INSERT sgdwbp string
+BEGIN
+INSERT aqz number
+INSERT hNTb string
+INSERT m string
+INSERT aa9 string
+INSERT f string

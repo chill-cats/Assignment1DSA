@@ -1,0 +1,25 @@
+ASSIGN z7VRz9 'uE8vF'
+INSERT qEYM number
+INSERT kgZ string
+INSERT d number
+tjmm x
+LOOKUP d
+INSERT h0 number
+INSERT y string
+INSERT ss_ string
+PRINT
+INSERT qlW number
+PRINT
+INSERT p number
+INSERT u number
+LOOKUP ss_
+RPRINT
+INSERT w4 number
+INSERT h3ke string
+LOOKUP p
+INSERT xezB string
+ASSIGN h3ke 'yaFo2'
+ASSIGN xezB 572
+INSERT kpBup string
+ASSIGN ss_ ss_
+BEGIN

@@ -1,0 +1,9 @@
+INSERT gl number
+INSERT cj6 string
+INSERT mA string
+ASSIGN cj6 'TF 9'
+ASSIGN gl '5oX21'
+ASSIGN cj6 's'
+INSERT b9GYK3 number
+INSERT dj1 string
+INSERT n420 number

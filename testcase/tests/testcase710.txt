@@ -1,0 +1,39 @@
+RPRINT
+RPRINT
+mz c
+INSERT uCW number
+RPRINT
+INSERT v4 number
+INSERT k5ph_ string
+INSERT lag number
+INSERT itZIwB number
+INSERT uwjY number
+ASSIGN lag uwjY
+INSERT iJjcS5 string
+INSERT e string
+ASSIGN k5ph_ 'NW35N'
+INSERT z number
+INSERT nL2BGG number
+wPqFF lLUX8u
+LOOKUP v4
+PRINT
+INSERT k94MqI number
+END
+INSERT zHKGdk number
+INSERT y string
+INSERT aM number
+INSERT gNrv number
+INSERT vewH string
+INSERT e1DejH string
+INSERT mG number
+RPRINT
+yM7 uoaxG6
+END
+END
+LOOKUP gNrv
+INSERT kC string
+PRINT
+INSERT f string
+INSERT hDyQc5 number
+e fJhPAZ
+INSERT eHj number

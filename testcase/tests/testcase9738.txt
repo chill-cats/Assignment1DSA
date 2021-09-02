@@ -1,0 +1,28 @@
+INSERT zh3k9 string
+ASSIGN zh3k9 1106
+INSERT vwa0 number
+INSERT nF string
+PRINT
+ASSIGN zh3k9 'cP'
+ASSIGN zh3k9 '3kB'
+INSERT hAVh string
+BEGIN
+RPRINT
+RPRINT
+INSERT m string
+INSERT r number
+INSERT y string
+INSERT upGIO number
+nMl g8
+INSERT c string
+INSERT nfeR number
+INSERT fH2 number
+INSERT wxWPH string
+INSERT mToW string
+BEGIN
+INSERT tx8 number
+INSERT hx string
+INSERT cLKoD0 string
+INSERT qrW number
+INSERT r number
+INSERT hR1ao number

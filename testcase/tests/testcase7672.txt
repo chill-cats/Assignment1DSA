@@ -1,0 +1,23 @@
+INSERT g3ZtAK number
+END
+INSERT cQI number
+ASSIGN cQI cQI
+INSERT g3TVK9 number
+BEGIN
+ASSIGN g3TVK9 111
+INSERT h number
+INSERT j string
+LOOKUP j
+INSERT atMdbC string
+BEGIN
+INSERT c number
+PRINT
+END
+jmvn5 zG
+LOOKUP j
+INSERT zT number
+RPRINT
+mLWF_p vFfA2H
+INSERT uo string
+INSERT zGrO2 number
+INSERT s number

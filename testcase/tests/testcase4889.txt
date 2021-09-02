@@ -1,0 +1,39 @@
+RPRINT
+INSERT i1AdXY string
+INSERT fU string
+END
+INSERT z1 string
+INSERT ri5Cb string
+INSERT hBEfoM number
+INSERT uUgo2 number
+INSERT q3Ny number
+a b
+INSERT qWZ9v4 string
+INSERT kG6W string
+q8 g
+INSERT jK string
+ASSIGN i1AdXY 566
+INSERT pv string
+END
+BEGIN
+INSERT ycW9 string
+INSERT tk8 string
+INSERT gzY4 string
+INSERT xDE number
+PRINT
+INSERT yD0xMd string
+INSERT mO string
+INSERT c6BY5 string
+RPRINT
+ASSIGN tk8 1159
+LOOKUP tk8
+INSERT uy string
+ASSIGN i1AdXY 142
+RPRINT
+INSERT nu string
+INSERT v3mySR string
+pd q5Ec
+BEGIN
+INSERT lwF3 number
+INSERT ioXYU number
+INSERT uCU string

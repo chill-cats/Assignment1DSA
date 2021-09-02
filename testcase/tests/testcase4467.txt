@@ -1,0 +1,29 @@
+INSERT wvZ string
+INSERT jKCVbD number
+LOOKUP wvZ
+INSERT zHKenn string
+INSERT skgJ3C number
+RPRINT
+INSERT d4oa number
+INSERT iEpXQ string
+INSERT zIOX string
+PRINT
+INSERT i string
+BEGIN
+ASSIGN skgJ3C jKCVbD
+BEGIN
+BEGIN
+INSERT ztEGq string
+INSERT tXKiA6 string
+INSERT kxDyuA number
+LOOKUP zHKenn
+INSERT gR5 number
+ASSIGN ztEGq 176
+hhy h
+RPRINT
+PRINT
+PRINT
+INSERT b7 number
+LOOKUP skgJ3C
+RPRINT
+PRINT

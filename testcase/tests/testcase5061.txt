@@ -1,0 +1,11 @@
+g3 elK
+BEGIN
+INSERT izC string
+INSERT r number
+PRINT
+INSERT bnPGts number
+LOOKUP r
+INSERT oB string
+INSERT tfaUGd number
+INSERT qDtO number
+INSERT aMk number

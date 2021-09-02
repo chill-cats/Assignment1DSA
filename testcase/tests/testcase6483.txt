@@ -1,0 +1,26 @@
+INSERT z number
+RPRINT
+LOOKUP z
+INSERT dgq6 number
+ASSIGN z '8c'
+LOOKUP z
+INSERT t number
+INSERT zg string
+INSERT aSd string
+BEGIN
+INSERT yOUp string
+END
+ASSIGN yOUp 1150
+LOOKUP yOUp
+RPRINT
+INSERT zOQ string
+INSERT ykqb9v number
+LOOKUP dlONT
+BEGIN
+INSERT hR5f number
+RPRINT
+INSERT o8 string
+INSERT jBqQ number
+INSERT ncTz number
+INSERT orQ number
+INSERT u number

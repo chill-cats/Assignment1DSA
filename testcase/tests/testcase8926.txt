@@ -1,0 +1,17 @@
+INSERT y string
+END
+INSERT pU number
+INSERT c9 number
+INSERT tx91JS number
+INSERT y2z number
+BEGIN
+INSERT mNC3 string
+INSERT yvt number
+INSERT yh number
+ASSIGN yvt 'fAa'
+BEGIN
+RPRINT
+RPRINT
+INSERT fISJiD string
+INSERT klBxo string
+INSERT d2I number

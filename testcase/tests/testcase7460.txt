@@ -1,0 +1,12 @@
+INSERT hpmGv string
+INSERT wGty number
+BEGIN
+INSERT bzD string
+INSERT dbN string
+INSERT yLe string
+INSERT oLvxk string
+INSERT g_jZ string
+INSERT le6 number
+END
+PRINT
+PRINT

@@ -1,0 +1,30 @@
+LOOKUP mFp6z
+RPRINT
+INSERT fYs number
+INSERT epydmN string
+INSERT mWBz1 string
+END
+BEGIN
+RPRINT
+ASSIGN mWBz1 'aaw'
+INSERT fdZN5 number
+INSERT l_I string
+PRINT
+INSERT xsKm number
+BEGIN
+BEGIN
+INSERT ioR string
+INSERT wKg7r string
+RPRINT
+INSERT s string
+BEGIN
+ASSIGN fYs 'r8vW'
+INSERT qdhtt string
+INSERT n2p number
+RPRINT
+LOOKUP n2p
+INSERT k number
+INSERT z_EF string
+INSERT rPd number
+INSERT rIMJA string
+ASSIGN fdZN5 'H4BT'

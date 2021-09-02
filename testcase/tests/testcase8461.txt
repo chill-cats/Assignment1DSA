@@ -1,0 +1,29 @@
+LOOKUP ah9
+a8Q5 dil
+q aSnm
+INSERT oNGsS string
+LOOKUP oNGsS
+INSERT tH7W string
+INSERT vFEdb string
+RPRINT
+ASSIGN oNGsS 1221
+RPRINT
+INSERT bOXUG string
+INSERT vsh6C string
+LOOKUP vsh6C
+INSERT vZII0 string
+ASSIGN tH7W 'yT3Fs'
+ya ax1PlR
+INSERT r string
+INSERT vlDRmC string
+INSERT eAr string
+ta w_F00
+END
+LOOKUP tH7W
+END
+PRINT
+INSERT w1dpiB string
+INSERT o number
+END
+LOOKUP vZII0
+INSERT y9E string

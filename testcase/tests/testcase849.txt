@@ -1,0 +1,40 @@
+INSERT x7 number
+ASSIGN x7 x7
+INSERT bPGbp number
+INSERT jK1sX number
+PRINT
+PRINT
+INSERT g number
+INSERT wvCTQ string
+INSERT ggwV string
+INSERT wl8 string
+INSERT n string
+INSERT o string
+gTvU pEaGQ
+INSERT mS9 string
+INSERT hZT number
+INSERT yxR string
+LOOKUP wvCTQ
+INSERT rTcbFZ number
+INSERT mszN string
+INSERT sdDf number
+RPRINT
+ASSIGN mszN ggwV
+INSERT fsnd string
+INSERT gaD number
+INSERT lgnx4 number
+END
+INSERT ed number
+BEGIN
+INSERT pu string
+z_ipm3 nm
+LOOKUP mS9
+PRINT
+INSERT ii number
+INSERT lpLgl string
+INSERT toGyeY string
+LOOKUP bPGbp
+ASSIGN lpLgl hZT
+INSERT chj0 string
+INSERT uIHkk string
+INSERT cli number

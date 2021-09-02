@@ -1,0 +1,7 @@
+INSERT wh string
+INSERT n string
+INSERT qa string
+RPRINT
+r5 zdTZPK
+END
+INSERT mEXYE7 number

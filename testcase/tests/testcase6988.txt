@@ -1,0 +1,13 @@
+INSERT ihX string
+RPRINT
+LOOKUP ihX
+INSERT u string
+LOOKUP ihX
+INSERT tXGU number
+RPRINT
+INSERT pq0J0y string
+RPRINT
+INSERT r string
+c ptG
+INSERT ke4b number
+INSERT i string

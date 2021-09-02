@@ -1,0 +1,37 @@
+BEGIN
+INSERT gM8BS number
+LOOKUP gM8BS
+INSERT tI string
+INSERT mueC string
+INSERT xN number
+INSERT cj5nn string
+PRINT
+INSERT uzCYk string
+BEGIN
+INSERT wkx_dl number
+vGhR ab2N
+LOOKUP mueC
+BEGIN
+PRINT
+PRINT
+INSERT djjL2 number
+PRINT
+ASSIGN mueC 544
+RPRINT
+INSERT zO number
+ASSIGN xN zO
+ASSIGN xN mueC
+INSERT kg number
+INSERT tlOpci number
+PRINT
+INSERT vSCox string
+INSERT mk1s1 number
+END
+LOOKUP mk1s1
+INSERT fYXRC string
+INSERT h9l number
+INSERT y number
+INSERT gQS5 number
+RPRINT
+LOOKUP zO
+INSERT ltMrN6 number

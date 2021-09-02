@@ -1,0 +1,39 @@
+INSERT aa number
+INSERT b number
+RPRINT
+INSERT ll5GH string
+INSERT pYB string
+INSERT zWVhdJ string
+INSERT a72 string
+INSERT m string
+INSERT d08VL number
+INSERT gkznuP string
+ASSIGN m 'QtKuo'
+INSERT a68Ke number
+mn w
+INSERT p string
+INSERT jotBP number
+aci x5U
+INSERT bttw2Q string
+ASSIGN d08VL 925
+INSERT nA number
+BEGIN
+PRINT
+INSERT eo number
+INSERT hmkwLS string
+LOOKUP ll5GH
+RPRINT
+BEGIN
+INSERT gl_ number
+INSERT b4Ze2E number
+INSERT e string
+ASSIGN m jotBP
+INSERT h number
+INSERT w54H number
+LOOKUP gl_
+BEGIN
+INSERT e_ number
+END
+BEGIN
+ASSIGN a68Ke '9ZgE'
+PRINT

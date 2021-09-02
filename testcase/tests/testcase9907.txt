@@ -1,0 +1,17 @@
+INSERT rrjDmg number
+LOOKUP rrjDmg
+INSERT y string
+LOOKUP rrjDmg
+INSERT pEil number
+LOOKUP pEil
+INSERT r string
+END
+lqBM5 lx8w8
+zyk d7
+INSERT iur3z number
+INSERT zLn number
+LOOKUP iur3z
+INSERT h string
+INSERT pVsnP number
+INSERT xaC8 string
+INSERT i1d6kw number

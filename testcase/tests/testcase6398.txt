@@ -1,0 +1,28 @@
+INSERT a7 string
+ASSIGN a7 a7
+INSERT t9Wh string
+INSERT gZGf number
+INSERT oiMpdi string
+INSERT tF string
+RPRINT
+dKhp spR
+INSERT ynDs number
+INSERT hyV number
+INSERT h_ number
+INSERT aSfRyD number
+INSERT vmn1 string
+INSERT sw string
+END
+INSERT hm string
+INSERT qzN number
+LOOKUP a7
+INSERT n0A_4l string
+LOOKUP hyV
+INSERT lg number
+INSERT s9 number
+ASSIGN sw gZGf
+INSERT fvgK number
+PRINT
+LOOKUP sw
+INSERT d9t8 string
+INSERT d7 string

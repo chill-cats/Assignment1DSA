@@ -1,0 +1,14 @@
+RPRINT
+INSERT u_0 string
+INSERT kwvj number
+INSERT z number
+END
+END
+LOOKUP z
+INSERT zJs number
+RPRINT
+BEGIN
+BEGIN
+ASSIGN zJs 'Ln6fr'
+INSERT a4f number
+INSERT rfP number

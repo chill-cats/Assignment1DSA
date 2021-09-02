@@ -1,0 +1,14 @@
+LOOKUP esxu6
+INSERT uDl string
+LOOKUP uDl
+q5x32 gUK5PV
+INSERT fV number
+INSERT p string
+INSERT oPg string
+BEGIN
+PRINT
+LOOKUP p
+ASSIGN p '9 Z'
+LOOKUP fV
+BEGIN
+b3c rG6

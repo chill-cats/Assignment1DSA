@@ -1,0 +1,9 @@
+a mk
+INSERT aKl4Ex number
+ASSIGN aKl4Ex 313
+LOOKUP aKl4Ex
+INSERT l number
+INSERT oM string
+INSERT v number
+INSERT aQ6G4 number
+INSERT q9XWh number

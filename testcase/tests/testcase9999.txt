@@ -1,0 +1,21 @@
+INSERT vud string
+LOOKUP vud
+INSERT px string
+BEGIN
+INSERT mKNZI string
+INSERT vd number
+INSERT kvry string
+INSERT jNIEx number
+INSERT bWlBb string
+ASSIGN vd kvry
+ASSIGN vd 'hP'
+INSERT cnb number
+INSERT uJXTF number
+BEGIN
+RPRINT
+INSERT tG7pA string
+END
+RPRINT
+INSERT dZb number
+INSERT fQvkJV string
+BEGIN

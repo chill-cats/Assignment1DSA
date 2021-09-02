@@ -1,0 +1,12 @@
+PRINT
+INSERT tNU number
+INSERT kg number
+END
+INSERT bQIJw number
+ASSIGN kg ' '
+INSERT y number
+ASSIGN tNU y
+INSERT e16_b number
+ASSIGN bQIJw '9Ev '
+RPRINT
+INSERT afY string

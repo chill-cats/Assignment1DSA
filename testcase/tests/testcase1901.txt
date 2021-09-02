@@ -1,0 +1,39 @@
+INSERT epqkn string
+INSERT qI4l string
+INSERT m string
+INSERT ef4j string
+INSERT u6QF2D string
+END
+INSERT qQ number
+LOOKUP epqkn
+RPRINT
+INSERT d string
+INSERT be string
+INSERT xo4 string
+RPRINT
+INSERT q string
+PRINT
+INSERT srJn string
+LOOKUP u6QF2D
+INSERT ukRS9X number
+INSERT yGHXk number
+RPRINT
+END
+INSERT c4WP string
+h1 v
+ASSIGN yGHXk ef4j
+BEGIN
+ASSIGN qI4l m
+INSERT vjQxh string
+INSERT js string
+END
+INSERT j03PDi string
+INSERT eo string
+INSERT lEsv9 string
+INSERT rr string
+END
+PRINT
+INSERT ftJAX number
+BEGIN
+INSERT p number
+BEGIN

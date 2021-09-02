@@ -1,0 +1,28 @@
+INSERT jP_uz string
+PRINT
+INSERT igGPnM string
+INSERT l string
+INSERT ktT number
+INSERT nVA9 number
+INSERT q string
+INSERT wqFwRY number
+LOOKUP nVA9
+INSERT kKs string
+PRINT
+INSERT i string
+INSERT hTyOkh number
+INSERT a number
+BEGIN
+END
+INSERT r5_O7 number
+INSERT fGcaT string
+INSERT ybCKM string
+INSERT yErAfo number
+INSERT zvElG string
+INSERT oRDvI number
+END
+INSERT bq_Mg number
+BEGIN
+ASSIGN ybCKM 'jfnz2'
+INSERT cgHI string
+INSERT vGQs_R string

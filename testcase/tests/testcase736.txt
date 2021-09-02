@@ -1,0 +1,15 @@
+INSERT vUF string
+dBe e
+BEGIN
+s cwFIB
+INSERT ifVbz string
+INSERT q4Wj number
+INSERT xbc number
+LOOKUP ifVbz
+INSERT jBRl number
+INSERT yXe3v number
+INSERT or_B number
+ASSIGN ifVbz 'L0G'
+ef rrxE4
+END
+RPRINT

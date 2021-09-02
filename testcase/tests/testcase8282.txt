@@ -1,0 +1,17 @@
+INSERT kON9 number
+INSERT tLWD_u number
+ASSIGN tLWD_u tLWD_u
+INSERT yL438 string
+INSERT qE string
+INSERT gyL_ number
+INSERT zEXH string
+INSERT gax string
+INSERT prES8l string
+BEGIN
+INSERT fr string
+d4YHU p0f
+END
+INSERT k8uXBc number
+INSERT v8 string
+INSERT nn string
+ASSIGN v8 'MIi'

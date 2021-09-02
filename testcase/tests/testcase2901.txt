@@ -1,0 +1,17 @@
+INSERT sq number
+INSERT y number
+INSERT t2e number
+INSERT zSiJ8 string
+pcftQZ x26f
+INSERT rv7 string
+INSERT g3pi1 number
+INSERT psd number
+INSERT h number
+END
+END
+INSERT x_OMs number
+INSERT lR7W string
+INSERT uIFQS number
+LOOKUP psd
+ASSIGN t2e lR7W
+LOOKUP psd

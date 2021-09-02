@@ -1,0 +1,15 @@
+BEGIN
+q pMi
+BEGIN
+INSERT u number
+INSERT l number
+INSERT bSX number
+INSERT ex number
+INSERT lpJYe3 string
+INSERT qD_ string
+INSERT r6 number
+BEGIN
+INSERT cQOF number
+INSERT jl7B_ number
+INSERT go0et number
+INSERT j string

@@ -1,0 +1,18 @@
+INSERT a number
+INSERT f string
+ASSIGN f 'm7'
+INSERT muV number
+INSERT qv8T5m string
+LOOKUP qv8T5m
+INSERT nqz8 string
+ASSIGN f 'SUTVM'
+INSERT mlep string
+INSERT tF string
+INSERT kn string
+PRINT
+INSERT k string
+INSERT zq string
+INSERT l6hK string
+PRINT
+ASSIGN zq qv8T5m
+RPRINT

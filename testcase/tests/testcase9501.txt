@@ -1,0 +1,27 @@
+INSERT nyKV number
+INSERT lb number
+LOOKUP lb
+INSERT v5g number
+BEGIN
+INSERT f string
+LOOKUP v5g
+BEGIN
+LOOKUP f
+INSERT tlBPP string
+ASSIGN lb '0'
+INSERT g number
+INSERT n4Cb string
+INSERT s number
+INSERT e string
+INSERT hPQ8 string
+RPRINT
+INSERT yB2Cu number
+INSERT q_h4 number
+ASSIGN tlBPP 1231
+e97vS t3wbH
+INSERT gMupw1 string
+ASSIGN q_h4 168
+PRINT
+INSERT miaRr number
+INSERT vcz number
+INSERT c number

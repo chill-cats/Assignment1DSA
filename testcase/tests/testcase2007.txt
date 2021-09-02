@@ -1,0 +1,22 @@
+INSERT vfgAR number
+INSERT m number
+INSERT s string
+INSERT g2vpM string
+INSERT esVn5A string
+PRINT
+RPRINT
+LOOKUP g2vpM
+INSERT x string
+END
+BEGIN
+INSERT pRX number
+ahF e
+INSERT mex7 string
+INSERT bvPrl number
+INSERT uWTD3 number
+INSERT vry number
+ASSIGN vfgAR 'l'
+LOOKUP esVn5A
+INSERT i6 number
+END
+INSERT dRa number

@@ -1,0 +1,20 @@
+bF3pn o2cR0z
+INSERT p string
+INSERT ddoy string
+LOOKUP ddoy
+INSERT vOa number
+ASSIGN vOa 979
+INSERT uUfiR number
+PRINT
+INSERT e number
+INSERT tU3OI string
+INSERT j_i string
+PRINT
+ASSIGN vOa vOa
+END
+INSERT o4r string
+INSERT t83 number
+INSERT z0b3 number
+k_K n3yIl
+INSERT w9 string
+INSERT upf number

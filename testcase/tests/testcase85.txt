@@ -1,0 +1,34 @@
+RPRINT
+PRINT
+INSERT aE5H string
+INSERT ik number
+ASSIGN ik '7Lk'
+INSERT l3w number
+INSERT dSN2LZ number
+ASSIGN ik l3w
+INSERT bBXb string
+END
+INSERT eSg string
+RPRINT
+INSERT gr8d number
+END
+INSERT q number
+INSERT d number
+INSERT ske4H number
+INSERT jJ4iU number
+RPRINT
+INSERT kCJ string
+ASSIGN l3w 'GYmNa'
+INSERT kLWAwj number
+INSERT gN string
+INSERT wI90m string
+INSERT q string
+INSERT zTH string
+END
+LOOKUP eSg
+INSERT dh string
+LOOKUP jJ4iU
+INSERT k number
+INSERT r5I number
+LOOKUP aE5H
+BEGIN

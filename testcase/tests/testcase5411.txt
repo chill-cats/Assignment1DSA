@@ -1,0 +1,18 @@
+INSERT cw string
+INSERT tdi number
+INSERT xRz number
+INSERT y3 number
+BEGIN
+INSERT y6N_r number
+BEGIN
+RPRINT
+ASSIGN y6N_r 1095
+INSERT wF5 number
+INSERT gZl string
+RPRINT
+l pz
+INSERT nuYug number
+INSERT sjc6g number
+RPRINT
+INSERT pwFZm number
+PRINT

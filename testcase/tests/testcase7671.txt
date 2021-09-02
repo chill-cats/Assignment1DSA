@@ -1,0 +1,3 @@
+INSERT zZmn string
+INSERT c4r number
+PRINT

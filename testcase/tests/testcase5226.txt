@@ -1,0 +1,27 @@
+INSERT aTT number
+END
+INSERT k1rPy number
+INSERT uXBK number
+ASSIGN uXBK '4s'
+LOOKUP k1rPy
+END
+INSERT qS9V_ number
+BEGIN
+INSERT jRe number
+INSERT s string
+BEGIN
+RPRINT
+INSERT dW8A number
+INSERT m string
+INSERT x number
+LOOKUP qS9V_
+INSERT c number
+INSERT tT6 number
+INSERT zm string
+INSERT yj string
+INSERT tdMAt6 string
+RPRINT
+INSERT f9q number
+INSERT u7vtXo number
+INSERT u5N0 string
+INSERT gbBeub number

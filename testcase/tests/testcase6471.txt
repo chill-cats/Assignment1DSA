@@ -1,0 +1,17 @@
+INSERT tf4lbV number
+INSERT pSTIn string
+INSERT evTh number
+PRINT
+ASSIGN pSTIn tf4lbV
+INSERT xnIP string
+END
+INSERT pIkB0v number
+END
+INSERT b string
+INSERT acF string
+INSERT c3stQx string
+INSERT d7 number
+END
+INSERT jb number
+INSERT k97ReF string
+PRINT

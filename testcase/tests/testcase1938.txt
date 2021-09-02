@@ -1,0 +1,36 @@
+END
+INSERT ew_ string
+ASSIGN ew_ 'Cf'
+INSERT ab5XI number
+INSERT e_W number
+PRINT
+LOOKUP e_W
+INSERT fC number
+INSERT gvOa string
+INSERT t string
+INSERT bQEWin string
+BEGIN
+BEGIN
+INSERT b string
+INSERT sCYB3 number
+INSERT a number
+INSERT rGYyTG number
+INSERT oHl2E number
+INSERT fcslK number
+ASSIGN a 299
+BEGIN
+END
+END
+LOOKUP u1
+INSERT ndQ number
+PRINT
+INSERT pUIOJ number
+INSERT k3 number
+INSERT yGiS number
+INSERT eJhbSF number
+INSERT m4 string
+BEGIN
+ASSIGN sCYB3 572
+LOOKUP pUIOJ
+INSERT cJWa string
+INSERT j7_hX string

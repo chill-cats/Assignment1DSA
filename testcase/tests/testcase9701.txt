@@ -1,0 +1,22 @@
+INSERT kFvS5 number
+RPRINT
+v5dSy x
+INSERT d string
+END
+INSERT dYz number
+a7 luC
+INSERT e number
+INSERT kp string
+INSERT ghWx number
+PRINT
+INSERT gIilK number
+BEGIN
+ASSIGN ghWx dYz
+INSERT t2Cyn string
+INSERT ann number
+LOOKUP e
+INSERT aJoss string
+ASSIGN e 1165
+LOOKUP e
+INSERT jro number
+PRINT

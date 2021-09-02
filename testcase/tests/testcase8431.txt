@@ -1,0 +1,16 @@
+INSERT qI string
+INSERT c0d8vQ string
+INSERT udd string
+LOOKUP c0d8vQ
+INSERT qo string
+INSERT rUVh string
+RPRINT
+RPRINT
+INSERT f number
+RPRINT
+INSERT xIEx string
+INSERT qrcYT number
+INSERT fj2AZL number
+ASSIGN rUVh '0'
+INSERT gEyBgS number
+INSERT wfPiVO number

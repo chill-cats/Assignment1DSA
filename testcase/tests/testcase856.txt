@@ -1,0 +1,35 @@
+INSERT hO8a6y string
+PRINT
+INSERT cx string
+LOOKUP cx
+INSERT y3_T number
+LOOKUP cx
+INSERT t number
+END
+INSERT m0K number
+INSERT fw string
+INSERT eOlQg string
+PRINT
+kCKsit mA
+INSERT jF number
+INSERT nrZ number
+INSERT s number
+INSERT j number
+INSERT soH6 number
+BEGIN
+INSERT t string
+INSERT eXcIU number
+INSERT e_QE string
+INSERT lh1ZE number
+PRINT
+END
+INSERT oN number
+INSERT tOa number
+INSERT i number
+INSERT e2lDT number
+INSERT p_ string
+LOOKUP fw
+INSERT qcI number
+ASSIGN lh1ZE 'jhDMa'
+INSERT oF string
+INSERT lOLF string

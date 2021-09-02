@@ -1,0 +1,39 @@
+q1jA o
+PRINT
+hKJU8J sER_0W
+INSERT eYxs number
+INSERT xw string
+INSERT d string
+INSERT sG number
+INSERT vS number
+INSERT amHv4 number
+INSERT xa5 string
+INSERT o string
+INSERT hEpJ number
+BEGIN
+ASSIGN hEpJ 855
+INSERT tGvDm string
+INSERT y string
+INSERT b string
+INSERT lm_ string
+INSERT npUF string
+BEGIN
+INSERT pc number
+INSERT sYtgJ6 number
+INSERT y string
+LOOKUP xa5
+INSERT v string
+PRINT
+INSERT dZh number
+INSERT mX string
+INSERT yS string
+ASSIGN lm_ 739
+ASSIGN o y
+INSERT q_m number
+PRINT
+INSERT lxJRg string
+INSERT un string
+INSERT x8z number
+RPRINT
+INSERT rOQcwQ string
+RPRINT

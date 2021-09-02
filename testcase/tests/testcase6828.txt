@@ -1,0 +1,5 @@
+INSERT irH number
+RPRINT
+LOOKUP irH
+ASSIGN irH irH
+INSERT bw9 string

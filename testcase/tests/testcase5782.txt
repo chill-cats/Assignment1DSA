@@ -1,0 +1,22 @@
+INSERT ajU number
+LOOKUP ajU
+INSERT p7 number
+INSERT y4KqKN string
+LOOKUP p7
+INSERT oaX number
+BEGIN
+INSERT bpBTw string
+INSERT pEX string
+INSERT x64Dn string
+ASSIGN oaX oaX
+RPRINT
+INSERT hml number
+INSERT vll number
+INSERT x string
+RPRINT
+BEGIN
+INSERT kqLs_ number
+cJ_8 kEW
+INSERT sVEOfg string
+INSERT fbuvA number
+INSERT yo1z string

@@ -1,0 +1,29 @@
+LOOKUP tVK
+END
+INSERT d75 string
+pnrA8D d40l
+INSERT bWvauy string
+INSERT sSV string
+LOOKUP sSV
+RPRINT
+BEGIN
+INSERT fn string
+ASSIGN fn bWvauy
+LOOKUP fn
+INSERT w2VaFl number
+INSERT dbFo string
+INSERT h string
+dMuUqK vI
+LOOKUP d75
+INSERT jazr string
+RPRINT
+ASSIGN w2VaFl w2VaFl
+INSERT izO number
+INSERT mXUy4l number
+INSERT ho number
+INSERT jy3 number
+INSERT rlgxyH number
+INSERT yl string
+f0Oq6 gH9Lti
+INSERT sl4X string
+END

@@ -1,0 +1,34 @@
+PRINT
+ASSIGN fEQ 1180
+e45C kiD70m
+PRINT
+INSERT eu number
+PRINT
+END
+END
+BEGIN
+INSERT oCm string
+INSERT roLp3 string
+INSERT fB number
+LOOKUP roLp3
+INSERT xK2j string
+INSERT n7 number
+INSERT uv string
+END
+RPRINT
+ASSIGN oCm 'vc3'
+INSERT eozU5 number
+ASSIGN oCm 'JQT'
+INSERT hrTT number
+ASSIGN uv xK2j
+INSERT lDvD number
+ASSIGN oCm 'ojStd'
+INSERT wg string
+INSERT lMFP number
+INSERT t6F2K number
+ASSIGN xK2j hrTT
+RPRINT
+INSERT s06_U number
+ASSIGN t6F2K 'jB'
+INSERT yN5sP number
+INSERT b18 number

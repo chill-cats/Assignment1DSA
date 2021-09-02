@@ -1,0 +1,7 @@
+INSERT hFim string
+INSERT qCQ number
+INSERT aV number
+INSERT yD string
+INSERT y number
+LOOKUP aV
+vJJ oW

@@ -1,0 +1,40 @@
+INSERT l string
+INSERT heKcoa number
+RPRINT
+INSERT he string
+INSERT cF number
+INSERT nH number
+INSERT vzCIuc string
+INSERT uYySd number
+INSERT zLD string
+LOOKUP nH
+RPRINT
+INSERT mW number
+LOOKUP mW
+INSERT hr string
+BEGIN
+END
+INSERT r number
+ASSIGN zLD 612
+INSERT eEik_7 number
+INSERT fNGsm number
+BEGIN
+BEGIN
+RPRINT
+RPRINT
+INSERT gHk string
+END
+INSERT y number
+INSERT b6J4 number
+INSERT sdl number
+LOOKUP eEik_7
+INSERT cx string
+LOOKUP hr
+INSERT z number
+INSERT lj number
+INSERT cAsMH number
+INSERT hInmB number
+ASSIGN mW hInmB
+hF vZpTTi
+INSERT sRCrGV string
+RPRINT

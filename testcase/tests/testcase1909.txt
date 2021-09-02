@@ -1,0 +1,21 @@
+INSERT wZanta string
+INSERT tLVm string
+INSERT dsAR number
+rNPDuV i
+END
+INSERT mDwG7P string
+PRINT
+INSERT vn0a string
+INSERT cTzV number
+BEGIN
+LOOKUP cTzV
+INSERT y string
+INSERT ck57_ number
+INSERT bRMZRQ number
+INSERT oiB number
+INSERT qZH string
+ASSIGN qZH 'EH45'
+INSERT u0i string
+END
+LOOKUP bRMZRQ
+LOOKUP mDwG7P

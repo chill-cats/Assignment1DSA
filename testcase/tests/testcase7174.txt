@@ -1,0 +1,16 @@
+BEGIN
+INSERT gK string
+INSERT lHhz0A string
+INSERT dAO string
+INSERT dKYH string
+RPRINT
+LOOKUP lHhz0A
+INSERT d5bnr number
+PRINT
+INSERT sYnjvB string
+BEGIN
+BEGIN
+INSERT xU number
+RPRINT
+INSERT t8 string
+RPRINT

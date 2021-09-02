@@ -1,0 +1,20 @@
+INSERT mc string
+INSERT ik number
+PRINT
+END
+INSERT cqL number
+INSERT aNM number
+INSERT hSsGt string
+INSERT o2 number
+INSERT xS4_Ks number
+INSERT fb6O number
+RPRINT
+INSERT ca string
+RPRINT
+RPRINT
+RPRINT
+INSERT e number
+INSERT ks9OoX number
+ASSIGN mc o2
+INSERT tyHg6 string
+INSERT iwdax number

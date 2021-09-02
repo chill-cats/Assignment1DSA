@@ -1,0 +1,35 @@
+INSERT nLa number
+INSERT ihC number
+INSERT kIt number
+BEGIN
+INSERT p number
+LOOKUP p
+RPRINT
+INSERT pWO0mK string
+RPRINT
+RPRINT
+ASSIGN nLa 'r'
+BEGIN
+INSERT qj number
+INSERT tibzlJ number
+ASSIGN ihC 'bzFpJ'
+INSERT m string
+PRINT
+INSERT uLmyi number
+INSERT vuEi1S string
+INSERT x number
+END
+poo3 gN
+END
+INSERT hLV string
+END
+d07K zvUo
+END
+INSERT ss1 number
+BEGIN
+INSERT fMP number
+INSERT gxzB number
+INSERT mpidWO number
+INSERT uKYj9g string
+RPRINT
+INSERT lu9 number

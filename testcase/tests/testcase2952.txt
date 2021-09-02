@@ -1,0 +1,24 @@
+INSERT m string
+INSERT dnC9L number
+LOOKUP dnC9L
+BEGIN
+INSERT oVnk89 number
+INSERT lo string
+END
+INSERT g_T string
+INSERT mx string
+INSERT sbvl string
+INSERT d number
+INSERT qN string
+INSERT fqIjYY number
+PRINT
+INSERT v number
+INSERT xQ number
+INSERT w2zwqK string
+END
+BEGIN
+LOOKUP lo
+INSERT vD number
+INSERT gbZaK number
+ASSIGN d 'w'
+INSERT mDQe7 string

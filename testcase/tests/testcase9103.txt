@@ -1,0 +1,24 @@
+END
+INSERT knr string
+INSERT aJV number
+l0 rm
+LOOKUP knr
+INSERT nGwpA string
+INSERT n number
+LOOKUP knr
+INSERT t string
+INSERT h4 number
+INSERT w0 string
+LOOKUP nGwpA
+v25WK9 p
+wTXYzo j32JL
+INSERT v number
+INSERT h1X number
+INSERT oyY7rj string
+INSERT g string
+ASSIGN nGwpA 114
+INSERT sxo number
+LOOKUP knr
+INSERT mtu6l string
+INSERT x string
+INSERT j string

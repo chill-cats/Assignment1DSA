@@ -1,0 +1,6 @@
+INSERT z number
+INSERT cPv number
+INSERT pYa2 number
+LOOKUP z
+INSERT oN string
+ASSIGN cPv pYa2

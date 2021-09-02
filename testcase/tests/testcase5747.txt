@@ -1,0 +1,29 @@
+INSERT ygmRM number
+INSERT b number
+ASSIGN ygmRM b
+INSERT tH number
+INSERT ly string
+LOOKUP b
+BEGIN
+INSERT udaNk string
+INSERT dyN number
+INSERT lSN number
+INSERT rJ0C string
+INSERT xvF4S string
+INSERT m7QZ string
+INSERT rGoIv1 number
+END
+INSERT v1 string
+ASSIGN udaNk 'qBNP2'
+INSERT o7Q7mN number
+INSERT rI2L string
+ASSIGN m7QZ xvF4S
+INSERT x string
+f w
+PRINT
+PRINT
+INSERT v1 number
+INSERT bEAW number
+INSERT rqWoS string
+INSERT tEeuv number
+ASSIGN udaNk 'iS'

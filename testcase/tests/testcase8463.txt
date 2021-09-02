@@ -1,0 +1,25 @@
+BEGIN
+INSERT u string
+INSERT kSO number
+END
+LOOKUP u
+BEGIN
+INSERT isL number
+INSERT qedk number
+INSERT jY number
+INSERT iLkIw6 string
+ASSIGN u u
+INSERT d0 number
+INSERT wm9 string
+INSERT ijLbg9 string
+LOOKUP isL
+INSERT g number
+kzDjn b7
+INSERT ik7i string
+INSERT uadRS string
+ASSIGN ijLbg9 qedk
+ASSIGN uadRS 908
+p rY7u
+PRINT
+RPRINT
+LOOKUP isL

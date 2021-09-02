@@ -1,0 +1,10 @@
+END
+INSERT eby string
+INSERT r number
+INSERT v number
+ASSIGN r 'jC'
+INSERT jxIm number
+END
+INSERT k string
+INSERT hr_ string
+INSERT c064je number

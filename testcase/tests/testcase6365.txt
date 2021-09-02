@@ -1,0 +1,7 @@
+PRINT
+INSERT dP number
+INSERT thMV string
+INSERT se8isS string
+INSERT zB1WiU number
+RPRINT
+ASSIGN dP thMV

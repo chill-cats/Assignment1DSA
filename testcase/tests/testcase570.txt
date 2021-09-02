@@ -1,0 +1,21 @@
+INSERT uVAm number
+INSERT owi string
+INSERT ro number
+INSERT c string
+INSERT ezHto number
+ASSIGN ezHto 722
+INSERT vTOiY string
+ASSIGN ro vTOiY
+ASSIGN uVAm 1024
+INSERT hoJa number
+fBU dk0SSB
+INSERT b0Vmvu string
+INSERT i2TW number
+PRINT
+INSERT jrqR number
+END
+RPRINT
+INSERT qGp number
+BEGIN
+INSERT nfqCue number
+INSERT tGSslK string

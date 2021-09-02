@@ -1,0 +1,40 @@
+RPRINT
+LOOKUP mzp
+INSERT bF number
+INSERT i66XX7 number
+RPRINT
+INSERT aw number
+PRINT
+INSERT nu string
+PRINT
+INSERT mekPY6 string
+INSERT rjhNY string
+INSERT jo7Z string
+INSERT usfiR number
+INSERT hDENOz number
+INSERT n2Yz string
+INSERT l number
+INSERT uhHx string
+INSERT afbR number
+INSERT yRbl number
+INSERT pNQwS number
+INSERT eNGTk string
+INSERT uMTeT1 number
+INSERT tk number
+INSERT n5 string
+INSERT xY string
+INSERT gV_f string
+fLqS8 jA3uD_
+INSERT eFb86 string
+END
+INSERT d string
+LOOKUP pNQwS
+INSERT iVw string
+BEGIN
+INSERT umXk12 string
+INSERT p9 number
+PRINT
+RPRINT
+INSERT gim number
+BEGIN
+INSERT nO string

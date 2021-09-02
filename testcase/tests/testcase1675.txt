@@ -1,0 +1,30 @@
+INSERT jIdU string
+INSERT x string
+INSERT eRwOev string
+ASSIGN x x
+LOOKUP x
+INSERT bb number
+INSERT c string
+ASSIGN eRwOev eRwOev
+END
+PRINT
+INSERT h4zaNC string
+INSERT wdC number
+INSERT c number
+INSERT e8 number
+INSERT a6kM number
+INSERT dZ string
+RPRINT
+LOOKUP a6kM
+LOOKUP bb
+END
+INSERT wrcPL string
+PRINT
+ASSIGN x a6kM
+INSERT mrHSb string
+INSERT uJ string
+INSERT p5Ym7 string
+INSERT rIp string
+INSERT gc string
+LOOKUP dZ
+BEGIN

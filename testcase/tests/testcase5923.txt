@@ -1,0 +1,16 @@
+INSERT fznO string
+BEGIN
+INSERT fJo number
+RPRINT
+INSERT i number
+BEGIN
+LOOKUP fJo
+BEGIN
+INSERT h number
+RPRINT
+ASSIGN fJo fJo
+u cLnxI
+ASSIGN h 'mmX'
+INSERT ozWO number
+INSERT sWSVo string
+INSERT bvzZL number

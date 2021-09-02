@@ -1,0 +1,7 @@
+PRINT
+INSERT u string
+END
+INSERT vRbG0 string
+INSERT a3ku number
+sCk f
+RPRINT

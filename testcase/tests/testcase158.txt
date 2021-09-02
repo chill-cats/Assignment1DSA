@@ -1,0 +1,34 @@
+INSERT vSHZ string
+RPRINT
+LOOKUP vSHZ
+LOOKUP vSHZ
+INSERT on8 number
+RPRINT
+INSERT yvq string
+INSERT w_VZ1 number
+INSERT l number
+INSERT vWSS number
+INSERT aiD number
+INSERT g number
+INSERT klUARA number
+ASSIGN on8 'x'
+ASSIGN vSHZ yvq
+LOOKUP l
+INSERT s number
+LOOKUP vSHZ
+INSERT mBhD string
+pev q8m
+f vCH0
+INSERT xBuEoL number
+c1a aAxqf
+INSERT q number
+INSERT hfWa number
+INSERT ufzSa_ string
+INSERT lRPx number
+ASSIGN ufzSa_ 'D'
+INSERT lM string
+INSERT hX number
+PRINT
+INSERT zoylF number
+ASSIGN s 218
+INSERT wcdou string

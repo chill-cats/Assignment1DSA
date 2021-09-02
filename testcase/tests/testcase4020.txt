@@ -1,0 +1,34 @@
+INSERT s number
+INSERT rhv8 string
+INSERT eaK number
+BEGIN
+BEGIN
+END
+INSERT t string
+INSERT zaRW string
+INSERT g string
+RPRINT
+INSERT vo_2p2 string
+INSERT y number
+END
+INSERT u32 number
+PRINT
+INSERT c3G number
+RPRINT
+INSERT ofJAi number
+RPRINT
+INSERT hxo string
+INSERT d number
+ASSIGN u32 'HcnOo'
+PRINT
+INSERT dEz number
+RPRINT
+END
+INSERT u string
+INSERT jI number
+INSERT hC_e number
+INSERT k number
+INSERT zd string
+INSERT v string
+INSERT vLQ number
+INSERT w1m number

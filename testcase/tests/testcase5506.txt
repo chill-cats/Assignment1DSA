@@ -1,0 +1,16 @@
+INSERT rTF string
+ASSIGN rTF 'd9'
+INSERT a string
+INSERT dv9E number
+INSERT t string
+PRINT
+INSERT lyHP0O number
+BEGIN
+hiRta rAda
+INSERT d8 number
+INSERT d string
+INSERT vQt string
+INSERT r8 number
+INSERT rZzj string
+j dwXk
+INSERT ruBiX string

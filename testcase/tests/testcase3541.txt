@@ -1,0 +1,8 @@
+INSERT hmrW5v number
+INSERT p1oXgH number
+PRINT
+INSERT z number
+INSERT uSMz number
+RPRINT
+LOOKUP p1oXgH
+RPRINT

@@ -1,0 +1,29 @@
+RPRINT
+END
+sahx0J sdAZi
+INSERT aT2wct string
+INSERT tp8m string
+INSERT mLN number
+ASSIGN mLN '7YNzi'
+INSERT sbY string
+cnO u
+PRINT
+INSERT iJvuI number
+LOOKUP tp8m
+INSERT wX_ number
+RPRINT
+PRINT
+INSERT e8_XYR string
+INSERT xO number
+BEGIN
+INSERT qWs string
+INSERT qaG_Ko string
+INSERT c4O string
+INSERT oP6 number
+INSERT q7CvUo string
+LOOKUP qaG_Ko
+RPRINT
+INSERT w number
+BEGIN
+INSERT rR_8Nf number
+LOOKUP tp8m

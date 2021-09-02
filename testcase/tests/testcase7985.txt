@@ -1,0 +1,10 @@
+INSERT sf number
+INSERT kje9 string
+uF0 zaSwW
+INSERT la5r string
+BEGIN
+INSERT nJu3 string
+INSERT bJ8l string
+INSERT l number
+LOOKUP sf
+PRINT

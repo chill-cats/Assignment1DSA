@@ -1,0 +1,7 @@
+INSERT qjytxT number
+BEGIN
+INSERT t number
+INSERT ss9B number
+ASSIGN qjytxT ss9B
+BEGIN
+INSERT xLnf3N string

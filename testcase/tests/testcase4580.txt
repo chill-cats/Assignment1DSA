@@ -1,0 +1,7 @@
+INSERT v number
+INSERT g6aRzS string
+y v
+RPRINT
+q iHqIA
+BEGIN
+INSERT eMoQum number

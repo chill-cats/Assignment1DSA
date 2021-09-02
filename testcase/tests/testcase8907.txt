@@ -1,0 +1,24 @@
+INSERT u_Ev number
+LOOKUP u_Ev
+INSERT nyJ4t string
+INSERT wZXdoG number
+LOOKUP wZXdoG
+INSERT k number
+INSERT iKANGT number
+BEGIN
+INSERT h1h2 string
+INSERT a number
+LOOKUP u_Ev
+INSERT c590 string
+INSERT rDY2x string
+INSERT v number
+ASSIGN rDY2x 1196
+INSERT jZnvGK string
+ASSIGN v 'ovgzA'
+INSERT tkPJJP number
+INSERT h string
+BEGIN
+INSERT ta8m number
+BEGIN
+INSERT r41 string
+BEGIN

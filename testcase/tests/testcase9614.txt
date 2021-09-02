@@ -1,0 +1,9 @@
+PRINT
+INSERT vUg number
+INSERT foB string
+INSERT qFmb number
+RPRINT
+RPRINT
+INSERT h number
+INSERT wbW08u string
+LOOKUP h

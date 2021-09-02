@@ -1,0 +1,24 @@
+RPRINT
+INSERT in number
+INSERT wxTz number
+END
+LOOKUP in
+END
+INSERT l1pz_ string
+INSERT mY number
+INSERT dLH number
+rPZvdY yfMx8
+PRINT
+INSERT ok string
+INSERT qZeeZk string
+RPRINT
+END
+INSERT cSir number
+PRINT
+INSERT jelj string
+ASSIGN jelj 920
+INSERT e number
+INSERT n_7 string
+INSERT gPHl string
+ASSIGN ok l1pz_
+INSERT o string

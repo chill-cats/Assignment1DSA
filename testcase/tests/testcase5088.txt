@@ -1,0 +1,22 @@
+INSERT f number
+INSERT l string
+LOOKUP f
+PRINT
+INSERT u number
+INSERT okq6aR string
+kCrrE fSAjvp
+ASSIGN okq6aR 890
+RPRINT
+BEGIN
+INSERT k string
+PRINT
+INSERT qd number
+INSERT lHm9X string
+INSERT oM number
+INSERT l8FWvN number
+s5q u_HPVi
+mB a25
+END
+INSERT rfO3 string
+INSERT cMLp string
+RPRINT

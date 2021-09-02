@@ -1,0 +1,26 @@
+PRINT
+END
+PRINT
+INSERT zJTXiY number
+INSERT r7V string
+INSERT pm7ZpT string
+INSERT q6 string
+BEGIN
+INSERT zpQ25m string
+INSERT wh number
+INSERT nK string
+INSERT xX3Bw string
+BEGIN
+LOOKUP zJTXiY
+INSERT hMA string
+RPRINT
+INSERT uLm string
+INSERT dGJFfr number
+INSERT j string
+INSERT sr string
+ASSIGN j '4'
+INSERT rCCq number
+INSERT ggxZ string
+INSERT fzMfm string
+INSERT onu number
+INSERT r string

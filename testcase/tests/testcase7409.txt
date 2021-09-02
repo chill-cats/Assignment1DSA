@@ -1,0 +1,40 @@
+iKNhH7 flu
+INSERT oJtAH string
+INSERT m2 number
+INSERT xJ string
+sYbf xKYJiw
+INSERT nG0 number
+INSERT tnE_z string
+INSERT xYzO string
+INSERT rg7Vg number
+INSERT xR string
+LOOKUP xR
+INSERT lEEMkq number
+INSERT lL string
+INSERT dBPC number
+INSERT ak number
+LOOKUP lL
+INSERT rjbGm number
+RPRINT
+PRINT
+END
+INSERT h string
+kP ljKTl
+INSERT v string
+BEGIN
+INSERT aP string
+LOOKUP xJ
+INSERT vUNX string
+INSERT o number
+INSERT sEDcL number
+INSERT w number
+d6FnFM x
+INSERT pFJ number
+ASSIGN w nG0
+INSERT vz number
+PRINT
+PRINT
+INSERT xXR number
+INSERT tw string
+INSERT v string
+INSERT zfP number

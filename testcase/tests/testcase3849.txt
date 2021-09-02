@@ -1,0 +1,14 @@
+INSERT c string
+INSERT n5YD number
+INSERT aLj0nf string
+q gud3W8
+BEGIN
+INSERT qVG string
+LOOKUP n5YD
+INSERT lg0Z number
+RPRINT
+END
+INSERT xA string
+INSERT sds string
+INSERT zj number
+INSERT us number

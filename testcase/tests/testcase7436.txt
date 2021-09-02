@@ -1,0 +1,19 @@
+i_v vgz
+INSERT i number
+INSERT o6TI string
+INSERT q8Ux number
+ASSIGN q8Ux 'BQ3ma'
+INSERT fA string
+RPRINT
+INSERT eDycOS number
+fo ppJw
+BEGIN
+INSERT eo number
+INSERT cP string
+INSERT af string
+ASSIGN fA eDycOS
+INSERT v string
+RPRINT
+INSERT qoDk number
+INSERT gZ12j string
+INSERT a6M number

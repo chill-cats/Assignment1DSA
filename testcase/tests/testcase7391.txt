@@ -1,0 +1,9 @@
+INSERT f2Up string
+INSERT wnG number
+INSERT qsJ number
+INSERT k number
+INSERT wps string
+RPRINT
+INSERT sbgsq_ number
+INSERT zxbFRO string
+INSERT sXTbgF string

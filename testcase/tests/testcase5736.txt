@@ -1,0 +1,31 @@
+INSERT kF_BQ_ string
+INSERT z7 number
+INSERT sw string
+INSERT gxlHT number
+INSERT zavMd string
+LOOKUP zavMd
+END
+INSERT pPa5Z4 string
+INSERT sNK5g number
+ASSIGN zavMd z7
+INSERT h1 number
+BEGIN
+INSERT gJ2 number
+ASSIGN kF_BQ_ 840
+INSERT xM1sS number
+END
+qwUp2 zj1
+INSERT n string
+ASSIGN gJ2 sw
+INSERT ftaQ number
+INSERT yll8r string
+INSERT sWv string
+INSERT wSsy1B string
+INSERT pI number
+INSERT p4 string
+END
+INSERT qaDjGg string
+LOOKUP kF_BQ_
+INSERT qE number
+INSERT i1KvI number
+PRINT

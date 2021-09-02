@@ -1,0 +1,34 @@
+END
+INSERT iliUg5 string
+END
+LOOKUP iliUg5
+INSERT yS94Sa number
+LOOKUP yS94Sa
+INSERT x number
+INSERT qx string
+INSERT cW43T number
+INSERT yvPT number
+END
+v7qsS3 q
+INSERT brMZ string
+PRINT
+hB ny4LWq
+INSERT v8_ string
+ASSIGN yS94Sa 'fBMl'
+INSERT vMtdz number
+PRINT
+vr42 bCau
+LOOKUP x
+INSERT baRvL string
+INSERT bWLgRw string
+PRINT
+INSERT lh_ number
+END
+END
+ASSIGN x 'L'
+INSERT sP number
+INSERT l5hPHb string
+LOOKUP l5hPHb
+vwvi xui4
+INSERT pWhU1E string
+PRINT

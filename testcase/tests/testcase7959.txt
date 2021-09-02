@@ -1,0 +1,13 @@
+RPRINT
+INSERT pcVXsF string
+INSERT ew1Q number
+INSERT e number
+INSERT dXKg6O number
+LOOKUP dXKg6O
+mudCK gp
+INSERT ju number
+LOOKUP e
+PRINT
+INSERT kEJ number
+BEGIN
+ASSIGN ju pcVXsF

@@ -1,0 +1,22 @@
+LOOKUP u0FRV
+INSERT phMA number
+r vsMH
+PRINT
+INSERT exC_n7 number
+LOOKUP exC_n7
+INSERT bk number
+END
+RPRINT
+ASSIGN exC_n7 15
+RPRINT
+INSERT tsxb1H number
+END
+INSERT cB number
+INSERT aMRv5A number
+RPRINT
+END
+INSERT h number
+INSERT ge3 string
+INSERT pa string
+INSERT z number
+INSERT yXnv string

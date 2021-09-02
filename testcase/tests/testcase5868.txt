@@ -1,0 +1,39 @@
+INSERT t number
+INSERT sBh number
+RPRINT
+INSERT nDezjf number
+RPRINT
+INSERT cfHE4i string
+END
+INSERT yCs string
+INSERT zKsGh string
+INSERT ye1XkQ number
+RPRINT
+INSERT ah number
+RPRINT
+ASSIGN ye1XkQ 1090
+INSERT ntyCau string
+PRINT
+LOOKUP yCs
+INSERT en string
+INSERT hjqE number
+BEGIN
+INSERT ccPAYm number
+INSERT r number
+BEGIN
+INSERT mOc number
+LOOKUP ntyCau
+INSERT rUKY number
+BEGIN
+LOOKUP yCs
+m tHQQ
+INSERT sD6vBm string
+INSERT ylsf string
+LOOKUP sD6vBm
+INSERT wdQM8r number
+INSERT rpVKhg string
+END
+RPRINT
+PRINT
+INSERT jfAGE string
+INSERT u number

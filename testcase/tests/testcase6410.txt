@@ -1,0 +1,8 @@
+INSERT zo1oy number
+INSERT u number
+INSERT rWC7Q number
+LOOKUP rWC7Q
+INSERT q16n string
+INSERT zD string
+LOOKUP u
+INSERT emOp number

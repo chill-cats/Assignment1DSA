@@ -1,0 +1,24 @@
+END
+INSERT xe number
+INSERT z string
+ASSIGN xe xe
+INSERT iy7V68 number
+RPRINT
+INSERT q number
+PRINT
+INSERT xQBS string
+INSERT k5FKr number
+INSERT v2Y07 number
+INSERT h string
+BEGIN
+INSERT o4yx_p string
+LOOKUP v2Y07
+INSERT uDSx string
+INSERT m number
+INSERT a string
+ASSIGN xQBS 900
+RPRINT
+INSERT gu string
+RPRINT
+ASSIGN uDSx xe
+ASSIGN uDSx 1107

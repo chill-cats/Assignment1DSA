@@ -1,0 +1,34 @@
+INSERT krbic number
+INSERT f6xRw number
+INSERT jIeJ6M string
+END
+INSERT zg number
+INSERT hQa string
+RPRINT
+INSERT d number
+INSERT vyrmLU string
+PRINT
+INSERT yz4C number
+LOOKUP zg
+INSERT a6k string
+LOOKUP hQa
+INSERT pf number
+INSERT uz_cQ number
+INSERT lZ4UL number
+INSERT w96p string
+INSERT in string
+ASSIGN krbic 241
+INSERT saYl string
+INSERT v number
+INSERT yvd string
+eugq aM1
+INSERT bq string
+ASSIGN f6xRw '5e'
+ASSIGN zg vyrmLU
+INSERT o1 string
+INSERT y0am string
+INSERT xe string
+PRINT
+LOOKUP y0am
+RPRINT
+END

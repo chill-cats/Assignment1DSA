@@ -1,0 +1,38 @@
+INSERT cHO0u string
+RPRINT
+INSERT jvEyJ number
+LOOKUP jvEyJ
+INSERT v number
+INSERT h string
+INSERT bA string
+INSERT lECYa number
+INSERT fAP number
+INSERT x number
+RPRINT
+BEGIN
+ASSIGN lECYa '1xz'
+INSERT wR string
+INSERT ox number
+INSERT mTN number
+RPRINT
+RPRINT
+INSERT w number
+LOOKUP wR
+RPRINT
+RPRINT
+PRINT
+siW ymIJ0
+BEGIN
+LOOKUP h
+INSERT dh1I number
+RPRINT
+LOOKUP w
+END
+INSERT e1f_zx number
+INSERT be7 string
+uigE qtb11Z
+iSia pR0o
+INSERT nB8 number
+INSERT ifF string
+INSERT evcwW number
+x zG

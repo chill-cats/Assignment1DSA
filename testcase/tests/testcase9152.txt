@@ -1,0 +1,24 @@
+RPRINT
+INSERT d number
+INSERT j number
+INSERT aE string
+INSERT eqq number
+y5zE84 nK4r
+INSERT rpJQqC number
+INSERT q string
+ASSIGN eqq eqq
+INSERT kdffhl number
+INSERT pcvnE number
+INSERT nvyFEf string
+INSERT v string
+INSERT h number
+INSERT rUqnIT number
+INSERT uD string
+INSERT u string
+INSERT oEps2 number
+ASSIGN h 'En76'
+INSERT dVA number
+BEGIN
+ASSIGN uD 1221
+RPRINT
+LOOKUP q

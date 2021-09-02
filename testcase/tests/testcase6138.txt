@@ -1,0 +1,4 @@
+INSERT teWSaV string
+INSERT qda string
+INSERT dTYlM number
+BEGIN

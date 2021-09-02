@@ -1,0 +1,39 @@
+INSERT znVYu5 string
+INSERT w9 string
+ASSIGN w9 71
+INSERT pxZcj number
+c q1iEvy
+INSERT e number
+INSERT mv string
+INSERT fkTCv number
+INSERT rr number
+INSERT dS string
+INSERT tUG string
+INSERT evwAgK string
+INSERT jIKI string
+INSERT xQY7I number
+BEGIN
+INSERT si number
+RPRINT
+RPRINT
+LOOKUP mv
+ASSIGN fkTCv 725
+INSERT xeytW string
+BEGIN
+INSERT qb1 number
+INSERT bFK number
+LOOKUP si
+END
+INSERT i number
+INSERT hftnW8 string
+LOOKUP bFK
+INSERT t8d string
+INSERT h number
+INSERT wAk number
+END
+INSERT oU string
+LOOKUP rr
+INSERT qlOB string
+INSERT tv9XU number
+RPRINT
+END

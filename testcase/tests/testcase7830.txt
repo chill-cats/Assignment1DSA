@@ -1,0 +1,26 @@
+END
+RPRINT
+ASSIGN zoW 308
+ASSIGN l 'D'
+ASSIGN g 'F'
+INSERT bXTSJ number
+INSERT k_3jXy string
+INSERT vdXaX number
+INSERT mSkx number
+INSERT gndIwN string
+INSERT vYtrVm string
+INSERT fOb3vy string
+INSERT ej string
+END
+INSERT x3eiM_ number
+INSERT eeitr string
+INSERT qDvpj string
+BEGIN
+RPRINT
+ASSIGN mSkx 0
+INSERT d6KMJ string
+INSERT o number
+INSERT v_x number
+INSERT n string
+INSERT ysCsnd string
+ASSIGN x3eiM_ 1226

@@ -1,0 +1,20 @@
+PRINT
+INSERT dh string
+INSERT ijcr number
+INSERT eO number
+PRINT
+INSERT iR string
+INSERT fOVh59 number
+ASSIGN iR 'Fog6'
+INSERT oM number
+INSERT da7D number
+INSERT st4y number
+LOOKUP fOVh59
+INSERT x number
+INSERT fy3 string
+LOOKUP dh
+LOOKUP st4y
+INSERT jnq number
+BEGIN
+ASSIGN iR 'uZSR'
+INSERT b0f string

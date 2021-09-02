@@ -1,0 +1,22 @@
+LOOKUP uIUlvr
+INSERT oQS14 string
+INSERT xhx string
+INSERT cYzO4E string
+INSERT m string
+END
+RPRINT
+INSERT z string
+INSERT k45 string
+LOOKUP cYzO4E
+INSERT lvkLdM number
+RPRINT
+INSERT vQ string
+INSERT jMCb string
+INSERT n2F number
+INSERT e string
+BEGIN
+END
+LOOKUP m
+INSERT u_h number
+INSERT oH number
+INSERT qi string

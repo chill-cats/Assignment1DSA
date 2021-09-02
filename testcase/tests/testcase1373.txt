@@ -1,0 +1,21 @@
+INSERT i number
+PRINT
+INSERT bRiSrc number
+INSERT h string
+INSERT vSxOL number
+RPRINT
+END
+END
+INSERT ar number
+INSERT tf number
+ASSIGN vSxOL '1q8M'
+INSERT e0_Fg number
+LOOKUP e0_Fg
+BEGIN
+INSERT on string
+RPRINT
+BEGIN
+RPRINT
+INSERT y number
+END
+eted0c ngvx

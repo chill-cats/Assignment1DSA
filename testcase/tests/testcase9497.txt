@@ -1,0 +1,20 @@
+INSERT vNH number
+BEGIN
+INSERT f number
+INSERT a string
+LOOKUP a
+INSERT zN number
+LOOKUP a
+INSERT g string
+INSERT gEq5 string
+INSERT l number
+END
+INSERT ppU_e number
+PRINT
+INSERT oy0 string
+h o9DXJ4
+INSERT q string
+INSERT yQFC string
+END
+INSERT wup string
+INSERT g6FQMH string

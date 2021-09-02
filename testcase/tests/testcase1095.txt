@@ -1,0 +1,36 @@
+INSERT fd string
+INSERT nXc number
+ASSIGN nXc 623
+INSERT f string
+INSERT w93 string
+INSERT byZZ string
+INSERT xFq number
+INSERT dG string
+INSERT gxyjv number
+PRINT
+INSERT t number
+INSERT y string
+INSERT vrB string
+INSERT a string
+qCbsh1 bXSb
+INSERT rn string
+INSERT zbw number
+INSERT jMMS number
+INSERT nSNUH number
+BEGIN
+INSERT yxXYs number
+INSERT ldNmGr number
+INSERT gUQ string
+END
+BEGIN
+ASSIGN a 1139
+END
+INSERT tHd string
+INSERT m1e string
+INSERT t number
+RPRINT
+LOOKUP byZZ
+INSERT qxU3Ov string
+INSERT tjaxM string
+INSERT n4WvJ string
+INSERT bQ0O_ string

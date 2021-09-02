@@ -1,0 +1,27 @@
+INSERT u9YThL string
+ASSIGN u9YThL 'k0'
+PRINT
+o qU
+END
+INSERT j92GW string
+INSERT w3 string
+INSERT u3 string
+INSERT wlO1G0 number
+INSERT x5 number
+INSERT g string
+INSERT ku number
+INSERT vF string
+INSERT cPyk string
+INSERT j string
+INSERT ae7 number
+LOOKUP w3
+BEGIN
+INSERT y number
+INSERT n2d6I string
+INSERT k number
+INSERT tlTBu string
+LOOKUP k
+INSERT aI string
+INSERT lscx number
+INSERT i number
+INSERT i22L string

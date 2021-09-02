@@ -1,0 +1,34 @@
+LOOKUP cD
+INSERT aj89d number
+INSERT dv number
+INSERT kU0ITG number
+INSERT iZj number
+END
+INSERT sKF string
+ASSIGN aj89d 'AG'
+RPRINT
+INSERT p number
+INSERT aypMEp number
+INSERT ji number
+BEGIN
+INSERT y number
+INSERT zUOOv1 number
+RPRINT
+END
+INSERT sq number
+INSERT y string
+ASSIGN ji zUOOv1
+INSERT b8 number
+INSERT kcEF number
+INSERT a_HgZ string
+RPRINT
+INSERT gC string
+END
+INSERT kdK28r string
+INSERT kFB string
+INSERT lU string
+INSERT rX string
+INSERT f string
+ASSIGN kFB 1152
+INSERT uwHM3r string
+BEGIN

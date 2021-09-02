@@ -1,0 +1,13 @@
+LOOKUP hL
+INSERT d number
+INSERT m number
+PRINT
+RPRINT
+LOOKUP m
+INSERT j4_6iC number
+INSERT x number
+INSERT bEYzlP string
+INSERT qeAGl2 number
+kL j
+ASSIGN x d
+INSERT x9FdW4 number

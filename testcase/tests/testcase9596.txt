@@ -1,0 +1,8 @@
+INSERT x number
+INSERT zz string
+PRINT
+INSERT nW number
+PRINT
+teeaM cSb2
+INSERT xKXXW number
+END

@@ -1,0 +1,29 @@
+INSERT k number
+INSERT mlHC number
+INSERT iZ string
+INSERT aMK string
+INSERT o string
+INSERT ehwXBj string
+RPRINT
+INSERT jXMr string
+END
+INSERT pPD_NN string
+INSERT d8GZ number
+INSERT rqwzTx number
+END
+END
+END
+LOOKUP pPD_NN
+LOOKUP jXMr
+INSERT iI number
+INSERT w number
+INSERT pAwo number
+INSERT dSu3zj number
+i ft962
+juXjj dPKuWV
+END
+ASSIGN pAwo aMK
+INSERT yggC number
+INSERT k number
+INSERT ddZjI number
+RPRINT

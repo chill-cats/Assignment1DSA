@@ -1,0 +1,25 @@
+BEGIN
+PRINT
+INSERT j_70eK string
+INSERT ytHsSU number
+INSERT c6xK number
+aY6c y0V
+END
+INSERT mGdmgb string
+LOOKUP c6xK
+INSERT dWi string
+INSERT by5 string
+INSERT n6 number
+INSERT ozZ6 number
+BEGIN
+INSERT c string
+INSERT jW string
+INSERT wWGKq string
+INSERT e string
+INSERT sFmjwW string
+RPRINT
+ASSIGN mGdmgb 'HWA'
+INSERT m number
+INSERT s number
+INSERT gtO32 number
+LOOKUP jW

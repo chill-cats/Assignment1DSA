@@ -1,0 +1,8 @@
+INSERT z number
+INSERT qJpFke number
+INSERT b19 number
+INSERT b4 number
+RPRINT
+LOOKUP b19
+INSERT e string
+INSERT k9fdJH number

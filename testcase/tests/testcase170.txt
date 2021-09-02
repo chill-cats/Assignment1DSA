@@ -1,0 +1,6 @@
+INSERT t number
+INSERT fU number
+INSERT c_ string
+END
+RPRINT
+INSERT e84wP string

@@ -1,0 +1,37 @@
+INSERT a2zsv string
+INSERT lKD number
+INSERT wu0ck string
+INSERT rMR1 number
+ASSIGN a2zsv 642
+INSERT svuZeN number
+INSERT f57os string
+INSERT ow string
+INSERT gj string
+INSERT cInjcD string
+INSERT aKfr number
+e cFihqn
+INSERT nxMK number
+INSERT xYkdy number
+INSERT tSh string
+ASSIGN aKfr 'A4'
+INSERT k1xTvJ number
+ASSIGN lKD aKfr
+INSERT hJONH number
+INSERT qEBZSX number
+INSERT eU string
+LOOKUP cInjcD
+BEGIN
+INSERT nwi7 number
+LOOKUP aKfr
+INSERT vpPz string
+BEGIN
+ASSIGN k1xTvJ 'rg'
+RPRINT
+INSERT iv74 string
+INSERT h9J string
+INSERT yWt3f number
+INSERT r string
+INSERT xP number
+INSERT d2fQ string
+INSERT eTof number
+INSERT apBHv4 string

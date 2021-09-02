@@ -1,0 +1,10 @@
+LOOKUP i
+PRINT
+INSERT q string
+INSERT hsLbjf string
+INSERT v number
+INSERT uqI5 number
+LOOKUP uqI5
+INSERT uAs string
+INSERT tdwl number
+BEGIN

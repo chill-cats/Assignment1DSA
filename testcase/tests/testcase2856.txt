@@ -1,0 +1,18 @@
+ASSIGN r 'q0Zg'
+INSERT pT string
+INSERT n number
+INSERT yoJ string
+INSERT vL5 number
+INSERT rDZ0u number
+INSERT v string
+INSERT pRdiv string
+PRINT
+INSERT euTl number
+INSERT cX2MDf number
+LOOKUP rDZ0u
+INSERT doa1M number
+INSERT c string
+INSERT vqYAot number
+LOOKUP doa1M
+END
+INSERT v number

@@ -1,0 +1,20 @@
+BEGIN
+RPRINT
+INSERT v3u9 string
+BEGIN
+END
+INSERT dN number
+INSERT we string
+INSERT qL7 number
+INSERT lNd number
+INSERT l number
+PRINT
+ASSIGN l dN
+hhBns y4iNN
+INSERT wL number
+INSERT i6 number
+INSERT l0LVDz string
+LOOKUP l0LVDz
+INSERT w string
+INSERT fE number
+ASSIGN wL 'nh0I2'

@@ -1,0 +1,22 @@
+LOOKUP z7Yz
+BEGIN
+INSERT q number
+INSERT y string
+ot dbT
+INSERT hIK number
+ASSIGN y 610
+END
+INSERT q number
+LOOKUP hIK
+INSERT pt string
+PRINT
+INSERT gHb81 string
+INSERT e number
+RPRINT
+RPRINT
+ASSIGN hIK q
+INSERT hU9sQ string
+PRINT
+LOOKUP q
+INSERT r string
+INSERT bgBeMW number

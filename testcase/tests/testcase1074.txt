@@ -1,0 +1,28 @@
+INSERT hCLmLt number
+INSERT hi90F number
+myd7 pL
+INSERT x8 string
+INSERT kyPvCm number
+INSERT gU number
+LOOKUP gU
+PRINT
+PRINT
+INSERT zzmHyd string
+INSERT kQ number
+INSERT pp string
+LOOKUP zzmHyd
+PRINT
+INSERT sUIHu number
+INSERT r string
+INSERT xR number
+LOOKUP r
+INSERT jp7mLb number
+aajw3 qYGj
+INSERT omQ9ax number
+INSERT sm_Lo string
+PRINT
+ASSIGN zzmHyd 'V0rs'
+INSERT ed6ggo string
+INSERT ol number
+END
+sLZ7nK aT

@@ -1,0 +1,14 @@
+INSERT wk1 string
+PRINT
+INSERT jFye string
+INSERT fhc number
+INSERT lA number
+LOOKUP fhc
+INSERT t2pHT string
+PRINT
+PRINT
+INSERT yxGf3 string
+INSERT q3YUro string
+BEGIN
+INSERT q9u_f0 number
+INSERT tmgwz string

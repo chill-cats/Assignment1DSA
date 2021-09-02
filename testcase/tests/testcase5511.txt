@@ -1,0 +1,25 @@
+PRINT
+LOOKUP xi
+w9g y
+INSERT bLXAb string
+p z
+ASSIGN bLXAb 173
+INSERT zOku16 number
+RPRINT
+LOOKUP bLXAb
+INSERT elx string
+INSERT phrw string
+PRINT
+INSERT vrXq0J string
+ASSIGN elx 'TXg'
+INSERT s_xcP number
+INSERT s4tyx string
+INSERT sTa number
+ASSIGN vrXq0J 'IO'
+INSERT cip0 string
+RPRINT
+INSERT eHZxvF number
+END
+INSERT hVctcg number
+INSERT z string
+INSERT dE string

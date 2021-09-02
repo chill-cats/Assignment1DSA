@@ -1,0 +1,10 @@
+INSERT d0EcK number
+LOOKUP d0EcK
+INSERT je1 string
+INSERT uQ number
+BEGIN
+INSERT bkfgx number
+INSERT b4 number
+RPRINT
+INSERT jY1o5 number
+LOOKUP b4

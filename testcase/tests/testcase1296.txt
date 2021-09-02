@@ -1,0 +1,24 @@
+END
+INSERT akXL3 string
+INSERT f number
+INSERT x number
+INSERT hB number
+INSERT qc1i7 number
+INSERT aC2ctI number
+INSERT iK string
+INSERT hZR number
+INSERT fD1 number
+INSERT alt59 string
+PRINT
+ASSIGN hZR 726
+INSERT w number
+RPRINT
+INSERT rl number
+INSERT lbi number
+INSERT uKC number
+INSERT utIQb number
+INSERT nt number
+INSERT qna string
+BEGIN
+INSERT oOAs string
+INSERT ky string

@@ -1,0 +1,36 @@
+END
+INSERT u string
+INSERT gS4 string
+INSERT pQ5Nn string
+INSERT hanN number
+INSERT hk number
+INSERT oB string
+INSERT p string
+END
+INSERT r number
+INSERT gyT string
+BEGIN
+LOOKUP gS4
+BEGIN
+INSERT v string
+INSERT d2cj number
+INSERT w string
+ASSIGN hanN 811
+INSERT a number
+INSERT n5ARb number
+pu2E jLl
+RPRINT
+INSERT r string
+LOOKUP oB
+INSERT pFBSi string
+RPRINT
+INSERT axXkxS string
+INSERT pNM9xC number
+f dL8
+INSERT pjamH number
+BEGIN
+INSERT u number
+LOOKUP gyT
+INSERT zjHB number
+RPRINT
+INSERT vCU0 number

@@ -1,0 +1,26 @@
+INSERT oW number
+INSERT o5C number
+INSERT rItXdK string
+INSERT w string
+INSERT kQp string
+INSERT g1O number
+INSERT nE string
+INSERT z5oA number
+INSERT qg6x6 string
+END
+INSERT nhU number
+INSERT mKV8 string
+RPRINT
+BEGIN
+e oY
+ASSIGN w w
+PRINT
+BEGIN
+RPRINT
+INSERT f8 number
+LOOKUP f8
+INSERT o number
+RPRINT
+RPRINT
+INSERT sSQ string
+INSERT yxj number

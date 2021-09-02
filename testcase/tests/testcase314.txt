@@ -1,0 +1,20 @@
+INSERT dnJx7 string
+INSERT tEsYRz number
+INSERT q6oJy string
+LOOKUP q6oJy
+END
+INSERT cw1O number
+INSERT b number
+INSERT r number
+RPRINT
+INSERT m9n string
+INSERT pG1 number
+END
+INSERT a number
+END
+INSERT qIREg string
+PRINT
+BEGIN
+INSERT k number
+PRINT
+INSERT h5W string

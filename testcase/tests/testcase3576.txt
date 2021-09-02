@@ -1,0 +1,7 @@
+INSERT wi6 number
+END
+INSERT lK3Xsv number
+END
+INSERT sg number
+PRINT
+PRINT

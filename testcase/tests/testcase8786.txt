@@ -1,0 +1,4 @@
+INSERT lQES string
+RPRINT
+INSERT rex number
+RPRINT

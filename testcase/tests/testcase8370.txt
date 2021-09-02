@@ -1,0 +1,17 @@
+LOOKUP c
+INSERT a8_vw number
+PRINT
+INSERT yqMYb string
+INSERT ikL string
+INSERT fXr13 number
+INSERT uc string
+END
+RPRINT
+LOOKUP a8_vw
+INSERT f9AT number
+i b
+END
+PRINT
+LOOKUP fXr13
+PRINT
+INSERT jm string

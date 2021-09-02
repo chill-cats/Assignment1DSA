@@ -1,0 +1,21 @@
+RPRINT
+INSERT ndgJMH number
+ASSIGN ndgJMH 'CM'
+INSERT x number
+INSERT qX string
+INSERT vDpaMg string
+INSERT klz string
+BEGIN
+INSERT t number
+PRINT
+INSERT dV1VK8 number
+INSERT lRj string
+INSERT bhW string
+BEGIN
+INSERT ibX string
+PRINT
+PRINT
+LOOKUP qX
+PRINT
+RPRINT
+PRINT

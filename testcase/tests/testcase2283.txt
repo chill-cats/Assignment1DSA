@@ -1,0 +1,21 @@
+PRINT
+INSERT ji number
+dxpUix z
+INSERT x7 number
+INSERT mL string
+INSERT g8J4xM string
+INSERT b1 string
+INSERT yN number
+RPRINT
+INSERT pwzGJ number
+t4MCsV f
+INSERT n2Ln number
+ASSIGN x7 g8J4xM
+INSERT wn string
+LOOKUP yN
+RPRINT
+RPRINT
+INSERT qjLCtg string
+INSERT aqo number
+END
+INSERT bR6E number

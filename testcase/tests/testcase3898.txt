@@ -1,0 +1,17 @@
+INSERT dh number
+INSERT j4cmpG number
+INSERT f0dj number
+INSERT tpO number
+BEGIN
+INSERT cdRb string
+PRINT
+LOOKUP tpO
+INSERT yJFA number
+BEGIN
+RPRINT
+INSERT oe number
+INSERT eE string
+INSERT w number
+ASSIGN yJFA 145
+INSERT g0fh string
+ASSIGN oe 'HaR'

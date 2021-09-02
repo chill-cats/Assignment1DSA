@@ -1,0 +1,8 @@
+INSERT lW number
+ASSIGN lW 392
+PRINT
+LOOKUP lW
+INSERT j3 number
+INSERT ePHai string
+cMzS9K pu
+INSERT eA6b4 number

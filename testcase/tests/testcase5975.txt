@@ -1,0 +1,9 @@
+INSERT aMKAY string
+RPRINT
+INSERT wf_PF number
+LOOKUP aMKAY
+LOOKUP wf_PF
+INSERT z4 string
+INSERT i number
+INSERT q7f3 string
+INSERT ha5jLr string

@@ -1,0 +1,34 @@
+INSERT rPY2AI string
+INSERT eds string
+INSERT n string
+INSERT yDcSVC number
+INSERT u3 string
+INSERT hJH number
+INSERT xq0 number
+BEGIN
+INSERT dA_2Q number
+LOOKUP hJH
+RPRINT
+INSERT uG76 string
+INSERT r0SGfb number
+RPRINT
+LOOKUP yDcSVC
+ASSIGN uG76 'aJS'
+PRINT
+INSERT u number
+END
+INSERT k string
+ASSIGN xq0 'Xdt'
+INSERT j string
+INSERT dRit string
+INSERT e0 string
+PRINT
+INSERT dncaVO string
+ASSIGN dA_2Q k
+INSERT pnaJa number
+BEGIN
+o y
+INSERT slrPSa number
+INSERT iqM number
+INSERT xPA string
+END

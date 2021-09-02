@@ -1,0 +1,6 @@
+PRINT
+END
+RPRINT
+INSERT g5av number
+INSERT j0QLCL string
+PRINT

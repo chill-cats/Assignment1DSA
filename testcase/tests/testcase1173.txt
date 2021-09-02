@@ -1,0 +1,8 @@
+INSERT uwhn number
+ASSIGN uwhn 'S'
+INSERT osWX5f number
+LOOKUP uwhn
+INSERT f3lbT string
+INSERT wx string
+END
+INSERT z string

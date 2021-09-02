@@ -1,0 +1,29 @@
+INSERT h number
+RPRINT
+INSERT vv number
+INSERT foz50 string
+m n
+ASSIGN foz50 vv
+RPRINT
+INSERT x number
+PRINT
+INSERT rKOddq number
+INSERT lI2 number
+LOOKUP lI2
+INSERT p6luy1 string
+INSERT n string
+LOOKUP n
+INSERT nbe24e number
+INSERT pBSuGP string
+BEGIN
+INSERT h string
+INSERT b string
+BEGIN
+INSERT x string
+INSERT qcXT string
+LOOKUP x
+INSERT lp9O_ string
+INSERT zp string
+INSERT yh808O string
+ASSIGN n x
+oDV f6j8x

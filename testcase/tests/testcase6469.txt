@@ -1,0 +1,7 @@
+INSERT cjR number
+lSAr gg_
+ASSIGN cjR 'Jg'
+INSERT m string
+BEGIN
+LOOKUP cjR
+INSERT vK8p number

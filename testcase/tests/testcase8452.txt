@@ -1,0 +1,27 @@
+INSERT s0Gitj number
+INSERT pSQt number
+INSERT w number
+INSERT qZr string
+BEGIN
+INSERT vGY string
+INSERT wZevax string
+INSERT m5wJW number
+ASSIGN w 'V0vZo'
+INSERT f84ZNA string
+INSERT d number
+END
+INSERT v1Y number
+INSERT x string
+INSERT ku number
+INSERT s1yq string
+INSERT pxQ string
+INSERT hbg string
+kf9 dRpD
+RPRINT
+INSERT zYhmbA number
+INSERT dj number
+INSERT dCre4 string
+END
+LOOKUP s0Gitj
+INSERT d number
+RPRINT

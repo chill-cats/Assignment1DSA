@@ -1,0 +1,8 @@
+INSERT gwkM number
+INSERT e number
+ASSIGN gwkM 'QVuCf'
+END
+INSERT w number
+RPRINT
+INSERT oG number
+INSERT lpT254 string

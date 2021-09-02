@@ -1,0 +1,35 @@
+INSERT jb number
+INSERT qMESZK string
+INSERT j_Ow5H number
+t3t ew7
+INSERT b0 number
+INSERT y1 number
+LOOKUP qMESZK
+bHADz jzO
+INSERT zTa string
+LOOKUP y1
+INSERT kZe number
+INSERT fozg string
+INSERT c5Zt number
+INSERT y number
+RPRINT
+INSERT r3R7 number
+ASSIGN qMESZK 1041
+INSERT vEgO string
+RPRINT
+INSERT zd number
+INSERT lSkj number
+ASSIGN zTa y
+ASSIGN b0 lSkj
+END
+INSERT cgKkY number
+INSERT gYNnN5 string
+INSERT dTEol number
+ASSIGN r3R7 y1
+INSERT gFMF string
+INSERT kj number
+nNJRu donx
+INSERT hc3 string
+INSERT hohi string
+BEGIN
+PRINT

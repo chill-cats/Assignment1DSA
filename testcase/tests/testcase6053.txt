@@ -1,0 +1,4 @@
+INSERT nU number
+INSERT ba string
+LOOKUP nU
+RPRINT

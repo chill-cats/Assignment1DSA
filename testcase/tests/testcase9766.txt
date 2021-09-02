@@ -1,0 +1,15 @@
+INSERT t9 string
+INSERT vKgA string
+LOOKUP vKgA
+INSERT ag string
+mia dH
+PRINT
+INSERT dLRQSC string
+INSERT m2rK number
+INSERT kd string
+ASSIGN kd 'EV4Tj'
+INSERT cwVKW number
+INSERT ctL number
+INSERT a8 number
+INSERT f number
+INSERT d3_Sjb number

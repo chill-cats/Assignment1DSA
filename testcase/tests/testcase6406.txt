@@ -1,0 +1,20 @@
+INSERT y1 number
+INSERT dt number
+INSERT avYgEq number
+ASSIGN dt 'EE'
+INSERT t string
+INSERT j number
+BEGIN
+ASSIGN nhPG9 'mv'
+INSERT vLeSnL string
+INSERT eR number
+grJNxW ncD
+INSERT tE number
+BEGIN
+INSERT jn string
+xlK7L qh
+INSERT a string
+ASSIGN j 'j8'
+BEGIN
+INSERT yRCqA number
+END

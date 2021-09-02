@@ -1,0 +1,10 @@
+INSERT xl number
+LOOKUP xl
+INSERT t number
+INSERT urC number
+LOOKUP xl
+INSERT p number
+BEGIN
+RPRINT
+INSERT hy6 string
+INSERT ySLfr number

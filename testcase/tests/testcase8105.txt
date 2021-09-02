@@ -1,0 +1,18 @@
+INSERT pjJALo string
+INSERT s3qG number
+INSERT rhAAM number
+j6 siIr
+INSERT y6 string
+ASSIGN s3qG 'ejzJ'
+INSERT pQ number
+END
+INSERT tH string
+INSERT fXBE5 number
+INSERT vr string
+PRINT
+INSERT wzOlF string
+END
+RPRINT
+LOOKUP pjJALo
+INSERT v number
+INSERT gYike number

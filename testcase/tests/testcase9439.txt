@@ -1,0 +1,18 @@
+sy q
+INSERT eolG6X number
+INSERT mmx5 string
+INSERT qhl number
+INSERT xROL string
+pv1g sH
+LOOKUP eolG6X
+INSERT o number
+INSERT q number
+INSERT xPPC string
+LOOKUP q
+INSERT cebwra number
+INSERT gT7 number
+ASSIGN awK 'S7Kn'
+INSERT dIxd string
+INSERT znS number
+END
+ASSIGN cebwra eolG6X

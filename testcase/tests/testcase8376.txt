@@ -1,0 +1,37 @@
+INSERT u8FjwL string
+LOOKUP u8FjwL
+INSERT zG string
+bjQ vHli
+INSERT j string
+INSERT y number
+INSERT axw number
+INSERT jT_gQk string
+INSERT abAe6 number
+PRINT
+INSERT zTni string
+BEGIN
+t_BO e4fEC
+END
+INSERT p number
+INSERT m25_oY string
+END
+INSERT vF number
+BEGIN
+iS gf
+LOOKUP abAe6
+INSERT o2 string
+INSERT x_cs string
+BEGIN
+LOOKUP o2
+INSERT z string
+LOOKUP axw
+INSERT x string
+RPRINT
+INSERT keuf number
+RPRINT
+END
+tw e
+INSERT mFdx string
+INSERT l3 number
+END
+INSERT x8euwD string

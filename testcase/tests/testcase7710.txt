@@ -1,0 +1,15 @@
+INSERT qK string
+INSERT aA9 number
+LOOKUP qK
+ASSIGN qK 'an'
+INSERT bn3v number
+ASSIGN qK '4Wvnx'
+LOOKUP qK
+sAO dtZ
+ASSIGN aA9 'OhmYp'
+INSERT f76ig string
+INSERT hxXa string
+INSERT qZm string
+INSERT cKA4AP string
+INSERT kgkGK number
+ASSIGN hxXa hxXa

@@ -1,0 +1,15 @@
+INSERT w string
+INSERT ryt string
+INSERT rm string
+BEGIN
+INSERT yrc string
+ASSIGN ryt ryt
+INSERT qw9rr string
+INSERT kad string
+INSERT z string
+BEGIN
+PRINT
+INSERT p2V1 number
+INSERT f2 string
+RPRINT
+BEGIN

@@ -1,0 +1,10 @@
+INSERT vX string
+INSERT z6wg number
+INSERT g number
+END
+INSERT amKM number
+INSERT sw string
+INSERT qp_s number
+INSERT iWjt9 string
+RPRINT
+INSERT bc string

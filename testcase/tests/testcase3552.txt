@@ -1,0 +1,27 @@
+INSERT k1 string
+RPRINT
+INSERT yZGj number
+END
+jS0n8z qB1QPr
+INSERT h9NCC number
+INSERT u string
+INSERT yB2SK number
+PRINT
+ASSIGN yB2SK 162
+INSERT uzRFrK string
+LOOKUP uzRFrK
+INSERT j8 string
+INSERT bz7SW number
+END
+INSERT y2 string
+INSERT rrg number
+INSERT wOXz number
+INSERT s string
+ASSIGN u yB2SK
+INSERT g0RJ_ number
+END
+LOOKUP sN
+INSERT ftKs number
+INSERT pyGx string
+BEGIN
+INSERT wMawEo string

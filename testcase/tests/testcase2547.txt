@@ -1,0 +1,16 @@
+PRINT
+INSERT rL7h number
+END
+LOOKUP rL7h
+INSERT fD string
+LOOKUP rL7h
+INSERT o84QLn number
+INSERT rp number
+INSERT k2P string
+INSERT m4Kf0 string
+END
+INSERT kCkzQX number
+INSERT d68H string
+LOOKUP fD
+ASSIGN k2P d68H
+INSERT dRb string

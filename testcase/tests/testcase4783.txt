@@ -1,0 +1,6 @@
+ASSIGN gBfK 779
+INSERT xV8i0 number
+ASSIGN xV8i0 'hz'
+INSERT h string
+INSERT rp_ string
+INSERT dbi string

@@ -1,0 +1,36 @@
+INSERT f_r9 number
+INSERT gXlj number
+INSERT f string
+INSERT z1aVFA number
+LOOKUP gXlj
+INSERT nH number
+INSERT lwhR number
+PRINT
+PRINT
+INSERT hB string
+b poWl
+INSERT dR7V string
+PRINT
+INSERT p41U string
+RPRINT
+INSERT p string
+INSERT uW2xc number
+PRINT
+INSERT vt string
+BEGIN
+LOOKUP nH
+INSERT t string
+ASSIGN f_r9 'e0A'
+n6O li
+INSERT y number
+INSERT j3Q string
+RPRINT
+LOOKUP gXlj
+INSERT ojCp string
+INSERT g number
+INSERT jf9Fvx number
+uc79U v
+INSERT yy4U string
+INSERT sNc8wP number
+INSERT n9eD number
+INSERT mI7 string

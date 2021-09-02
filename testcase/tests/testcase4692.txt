@@ -1,0 +1,35 @@
+INSERT aTpN number
+INSERT ak9dd number
+INSERT i0MN string
+LOOKUP ak9dd
+INSERT d7 string
+INSERT hAH string
+INSERT bLE4 string
+BEGIN
+INSERT o string
+INSERT a8xIzD string
+INSERT u7 number
+INSERT k5b_Ut number
+INSERT y3Ipz string
+INSERT bpY number
+INSERT tB5 number
+INSERT iEEa string
+INSERT o string
+INSERT faJQp string
+INSERT eF4 string
+END
+INSERT cM9 number
+RPRINT
+LOOKUP faJQp
+pL xJDk7E
+INSERT dJx number
+LOOKUP hAH
+INSERT b number
+RPRINT
+RPRINT
+INSERT fdLA string
+INSERT r2eeEm string
+RPRINT
+ASSIGN faJQp a8xIzD
+PRINT
+END

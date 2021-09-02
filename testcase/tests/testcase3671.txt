@@ -1,0 +1,15 @@
+INSERT t0d7 number
+INSERT x0l string
+INSERT q number
+INSERT pN5E7 string
+BEGIN
+mimX ns
+PRINT
+END
+INSERT l number
+INSERT y2oZW string
+INSERT qIal_G number
+INSERT z string
+RPRINT
+INSERT iHXF number
+INSERT lPuIhB string

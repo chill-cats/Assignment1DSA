@@ -1,0 +1,25 @@
+INSERT nKR8f string
+INSERT vgVze string
+INSERT oVJSXU string
+END
+INSERT gV0Xyr number
+INSERT iRGM1 string
+INSERT yiG number
+BEGIN
+BEGIN
+LOOKUP vgVze
+INSERT s string
+INSERT xL string
+PRINT
+nL thlj
+INSERT oW string
+PRINT
+INSERT kD4Ysp string
+INSERT gug number
+INSERT mj number
+ASSIGN gV0Xyr 'z'
+RPRINT
+INSERT uoq number
+PRINT
+INSERT eLj_k3 number
+INSERT ksmuh1 number

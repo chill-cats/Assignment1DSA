@@ -1,0 +1,27 @@
+LOOKUP peIDh7
+BEGIN
+PRINT
+END
+INSERT m0vg number
+INSERT zk number
+BEGIN
+INSERT bB number
+INSERT bl string
+ASSIGN bl 1091
+INSERT te string
+INSERT hTi string
+INSERT til number
+INSERT t number
+ASSIGN bB til
+LOOKUP bl
+INSERT w number
+BEGIN
+INSERT aD number
+INSERT lRQ string
+PRINT
+ASSIGN zk 'u'
+g3RW bPX1Y
+INSERT ke0A9 string
+RPRINT
+gtmhY j_Yx
+PRINT

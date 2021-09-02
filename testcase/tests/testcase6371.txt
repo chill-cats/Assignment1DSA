@@ -1,0 +1,5 @@
+RPRINT
+INSERT qsdUFI number
+END
+INSERT j number
+ASSIGN j 'FTR'

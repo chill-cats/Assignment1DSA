@@ -1,0 +1,29 @@
+INSERT bA5Zd string
+LOOKUP bA5Zd
+END
+INSERT y4dl string
+INSERT tRa5F string
+INSERT ao number
+LOOKUP tRa5F
+INSERT pH string
+INSERT tseYB4 number
+INSERT zOc8Qk number
+END
+INSERT sD6e50 string
+END
+RPRINT
+INSERT oZDYQ number
+INSERT z6cCl string
+BEGIN
+INSERT aqMTG number
+INSERT uM0ZO number
+INSERT xo number
+INSERT lG string
+LOOKUP pH
+INSERT nm number
+INSERT lvhA number
+INSERT rR number
+INSERT nV9w number
+INSERT ypS_1 number
+INSERT rSk number
+INSERT tassXa string

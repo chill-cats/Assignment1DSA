@@ -1,0 +1,11 @@
+ASSIGN kI2 512
+END
+INSERT dyh number
+BEGIN
+ASSIGN dyh 721
+INSERT lfp4r2 number
+INSERT u2C string
+INSERT al_ string
+INSERT fz number
+INSERT tytmGn number
+INSERT qBFoa7 number

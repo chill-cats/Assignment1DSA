@@ -1,0 +1,30 @@
+INSERT pJ number
+INSERT g number
+INSERT zF_kK number
+LOOKUP g
+INSERT of number
+r0l p
+ASSIGN g zF_kK
+INSERT gP1rU3 number
+INSERT bYno9 string
+INSERT gp number
+END
+ASSIGN of 1193
+LOOKUP pJ
+INSERT vM string
+INSERT bYHVU string
+INSERT utDU74 number
+INSERT tPZF8m string
+INSERT mwX2 number
+z zlQQ
+a rjBy
+PRINT
+INSERT mOA4 number
+INSERT yH number
+INSERT nG1e string
+RPRINT
+INSERT cwpO number
+INSERT uL string
+INSERT qDP7X string
+INSERT a8Fbv string
+INSERT k9Eo number

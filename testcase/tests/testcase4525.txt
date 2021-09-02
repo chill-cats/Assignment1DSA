@@ -1,0 +1,24 @@
+INSERT xkSz string
+INSERT y number
+INSERT gp string
+INSERT q string
+INSERT fyE number
+INSERT bcVDP number
+INSERT gye number
+INSERT yF0 string
+INSERT o6XOgn string
+LOOKUP gye
+INSERT f number
+ASSIGN q 739
+INSERT dH5nQ string
+PRINT
+PRINT
+INSERT hvBmYB string
+INSERT zj string
+INSERT x number
+INSERT wTZ number
+ASSIGN s xkSz
+ASSIGN fyE 240
+INSERT x54 string
+BEGIN
+INSERT bet0n string

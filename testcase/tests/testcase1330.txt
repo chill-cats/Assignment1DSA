@@ -1,0 +1,9 @@
+INSERT v string
+END
+tqvAG sk
+RPRINT
+INSERT n9fQq number
+INSERT cEtjr string
+INSERT jzW9Wb number
+INSERT rCj3C number
+RPRINT

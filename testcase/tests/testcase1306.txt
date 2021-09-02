@@ -1,0 +1,8 @@
+INSERT uC0t number
+ASSIGN uC0t 'TKCj'
+INSERT d0 number
+LOOKUP yIzewO
+sNzWB madI
+LOOKUP uC0t
+INSERT xNE number
+INSERT xI string

@@ -1,0 +1,11 @@
+INSERT of number
+INSERT g string
+INSERT xl string
+LOOKUP xl
+RPRINT
+INSERT pKj number
+RPRINT
+INSERT uG number
+RPRINT
+INSERT u2oekk string
+INSERT wivrZ number

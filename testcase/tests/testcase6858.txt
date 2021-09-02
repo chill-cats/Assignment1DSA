@@ -1,0 +1,39 @@
+INSERT cxF number
+INSERT fAM number
+INSERT x string
+PRINT
+INSERT vl string
+END
+INSERT j string
+INSERT ds6 string
+INSERT p8 string
+INSERT cH string
+INSERT hPSt number
+INSERT ljml number
+INSERT xDeAq number
+END
+INSERT xB number
+END
+INSERT zfTx number
+INSERT t_2 number
+END
+LOOKUP zfTx
+INSERT gog string
+INSERT a string
+END
+INSERT cg string
+INSERT pX_ string
+LOOKUP p8
+INSERT kBih number
+INSERT nS6j1I string
+INSERT jKR number
+PRINT
+BEGIN
+INSERT mpq number
+INSERT y7FRz string
+LOOKUP p8
+PRINT
+RPRINT
+INSERT oZnUd number
+INSERT mexjN string
+INSERT kR02S string

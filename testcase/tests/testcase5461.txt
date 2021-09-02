@@ -1,0 +1,11 @@
+INSERT r number
+INSERT b number
+INSERT e0Kqr5 number
+INSERT x3k string
+INSERT cl8 number
+INSERT g03 number
+LOOKUP b
+ASSIGN r e0Kqr5
+c o5YPP
+INSERT i7k3 number
+ASSIGN g03 e0Kqr5

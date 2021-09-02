@@ -1,0 +1,9 @@
+INSERT puEo string
+ASSIGN puEo 973
+INSERT vffv string
+LOOKUP puEo
+INSERT ey number
+INSERT eg2 number
+INSERT mFB number
+LOOKUP ey
+INSERT nD number

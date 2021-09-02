@@ -1,0 +1,23 @@
+RPRINT
+INSERT pkE number
+INSERT i string
+LOOKUP pkE
+INSERT iP string
+INSERT q0z number
+LOOKUP pkE
+INSERT lRvwwp string
+INSERT oHP string
+INSERT goIks string
+ASSIGN q0z 966
+RPRINT
+INSERT c4RTq string
+END
+PRINT
+INSERT k81EiO string
+INSERT cGE string
+mPhvy lbHP
+INSERT nLf number
+LOOKUP sF
+INSERT eiIqW8 number
+INSERT cUHIPf string
+RPRINT

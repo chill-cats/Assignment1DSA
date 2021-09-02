@@ -1,0 +1,19 @@
+INSERT i4 number
+INSERT c string
+INSERT sA98o string
+INSERT hahi number
+INSERT kP34B string
+BEGIN
+END
+INSERT wz3E number
+INSERT trf string
+wXe4N pM9u9r
+INSERT w88yX number
+RPRINT
+END
+INSERT g number
+PRINT
+INSERT wUVTzU number
+LOOKUP wUVTzU
+INSERT wgw4P1 number
+INSERT d5O number

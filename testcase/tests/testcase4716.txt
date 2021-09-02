@@ -1,0 +1,22 @@
+INSERT eYLaFO string
+ASSIGN eYLaFO eYLaFO
+ASSIGN eYLaFO 'AM'
+INSERT fG string
+INSERT iZ string
+INSERT wfg number
+INSERT aZZxJG number
+INSERT aHc95 number
+RPRINT
+y ct
+INSERT iNr__v number
+INSERT l string
+INSERT ru7JKN string
+INSERT retD9O number
+RPRINT
+INSERT cD1MfM string
+INSERT oQFHt number
+INSERT gXOk number
+LOOKUP eYLaFO
+INSERT wGX string
+INSERT gr48 string
+RPRINT

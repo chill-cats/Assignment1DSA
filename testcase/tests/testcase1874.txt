@@ -1,0 +1,18 @@
+RPRINT
+INSERT vph number
+INSERT kmTeyP number
+INSERT dJMMYu string
+RPRINT
+INSERT y_lfgP number
+BEGIN
+BEGIN
+INSERT sg string
+END
+PRINT
+INSERT e string
+INSERT r5zf string
+INSERT adL string
+INSERT gw number
+BEGIN
+LOOKUP sg
+BEGIN

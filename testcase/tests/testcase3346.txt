@@ -1,0 +1,8 @@
+INSERT a4k5R string
+INSERT sg number
+INSERT g number
+LOOKUP sg
+PRINT
+INSERT neA string
+INSERT h9 string
+BEGIN

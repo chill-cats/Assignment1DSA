@@ -1,0 +1,28 @@
+INSERT qp6EQ number
+INSERT hlC52P number
+INSERT dnX6N3 string
+INSERT olf2pt string
+INSERT e string
+PRINT
+INSERT du number
+BEGIN
+RPRINT
+INSERT vw string
+INSERT fsMsD0 number
+vMd unk1
+BEGIN
+PRINT
+ASSIGN fsMsD0 200
+INSERT c string
+INSERT w string
+ASSIGN fsMsD0 c
+INSERT dDJ number
+INSERT veP number
+RPRINT
+INSERT fE number
+INSERT ij string
+BEGIN
+END
+INSERT p string
+ty p48
+INSERT feQV string

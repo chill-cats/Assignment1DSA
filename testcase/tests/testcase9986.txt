@@ -1,0 +1,9 @@
+INSERT cx number
+RPRINT
+ASSIGN cx 'nXhnN'
+PRINT
+INSERT r number
+INSERT bad5 number
+RPRINT
+INSERT pP string
+ASSIGN pP 644

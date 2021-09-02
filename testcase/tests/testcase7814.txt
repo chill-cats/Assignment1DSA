@@ -1,0 +1,36 @@
+ASSIGN o3 927
+INSERT op0sOe string
+END
+LOOKUP op0sOe
+INSERT n7 number
+INSERT krBv0 string
+BEGIN
+r jUw0av
+INSERT lWNZot string
+PRINT
+INSERT qwpPS4 string
+INSERT mDaP3 number
+RPRINT
+INSERT jn number
+mIBy xsj6Q
+INSERT n9_ string
+END
+ASSIGN n9_ '4p'
+INSERT t string
+END
+INSERT vrYyLv string
+PRINT
+INSERT h number
+INSERT ljwVr number
+PRINT
+INSERT zxp number
+ASSIGN n7 1203
+INSERT fr string
+INSERT i1Pas string
+INSERT jg7 string
+PRINT
+INSERT yjL number
+END
+INSERT gS string
+ASSIGN n7 gS
+INSERT mz7 string

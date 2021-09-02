@@ -1,0 +1,22 @@
+PRINT
+INSERT yPa0 number
+INSERT rz number
+INSERT cDAw8 string
+INSERT rFxGro number
+INSERT fLnFA string
+INSERT c string
+END
+INSERT giL2Ti number
+ASSIGN giL2Ti 'e83'
+INSERT s4fN string
+INSERT cy7Hb0 number
+INSERT eHpYy number
+PRINT
+INSERT wEG number
+INSERT k number
+END
+PRINT
+ASSIGN giL2Ti s4fN
+PRINT
+LOOKUP rFxGro
+INSERT bDW4 number

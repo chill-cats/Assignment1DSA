@@ -1,0 +1,30 @@
+INSERT k string
+LOOKUP k
+LOOKUP k
+INSERT nqsB string
+ASSIGN nqsB 'n'
+INSERT sqxQn string
+INSERT ac number
+INSERT ck65vO string
+INSERT qU number
+INSERT l number
+INSERT sR string
+INSERT yHR_nG number
+END
+ASSIGN sqxQn 297
+INSERT gB number
+END
+INSERT gw9 number
+LOOKUP ac
+INSERT h6bH string
+INSERT xWlYP string
+INSERT tpt5RB number
+INSERT rOUrXa number
+END
+LOOKUP xWlYP
+INSERT z2DDr number
+INSERT gu1tE string
+INSERT sGFozy string
+INSERT m string
+BEGIN
+PRINT

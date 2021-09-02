@@ -1,0 +1,18 @@
+LOOKUP ga4
+INSERT wm number
+PRINT
+INSERT xPp string
+INSERT tg number
+PRINT
+INSERT oBKrK number
+END
+INSERT t7Ney number
+INSERT f4isLQ number
+INSERT vtH1m string
+ASSIGN vtH1m 0
+INSERT wRu9 number
+INSERT x string
+INSERT bl string
+RPRINT
+INSERT yXExB number
+INSERT qVdSz string

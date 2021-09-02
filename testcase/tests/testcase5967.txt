@@ -1,0 +1,34 @@
+INSERT jtc number
+INSERT nn string
+INSERT zt string
+INSERT gaXFi number
+LOOKUP jtc
+INSERT rZkZa number
+INSERT zwGFcX string
+INSERT mH string
+INSERT aBHm number
+INSERT u0VTm number
+ASSIGN nn 494
+INSERT gz1R string
+RPRINT
+END
+yR3f s2GAd
+INSERT v3NG number
+INSERT szd number
+ASSIGN gz1R 'Ofxo'
+ASSIGN nn jtc
+INSERT jNf string
+INSERT r97gVm string
+INSERT ywzEq string
+INSERT qT number
+INSERT udELio number
+INSERT a number
+PRINT
+INSERT h_ number
+LOOKUP jtc
+INSERT m string
+INSERT tVW string
+BEGIN
+LOOKUP v3NG
+wH pcYm
+INSERT xbS07O number

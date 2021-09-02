@@ -1,0 +1,28 @@
+ASSIGN cEQ6 356
+INSERT xw number
+INSERT byL string
+BEGIN
+ASSIGN xw 340
+INSERT u string
+INSERT mX number
+PRINT
+INSERT sE87_ string
+LOOKUP byL
+INSERT zB5AWR string
+INSERT dTB string
+LOOKUP dTB
+INSERT dP7 number
+INSERT pckSE number
+ASSIGN kD zB5AWR
+INSERT j2te string
+BEGIN
+INSERT zPg number
+INSERT e5sWq string
+INSERT rtnr string
+INSERT bg string
+INSERT n number
+LOOKUP e5sWq
+cgLj7 elF
+INSERT eT string
+RPRINT
+LOOKUP xw

@@ -1,0 +1,6 @@
+INSERT iyiPC string
+INSERT aR number
+RPRINT
+INSERT dPt7 string
+END
+INSERT bIY number

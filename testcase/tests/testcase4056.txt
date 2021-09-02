@@ -1,0 +1,29 @@
+PRINT
+LOOKUP fjNx
+INSERT qxagYL number
+INSERT bAtr string
+INSERT mf0 string
+INSERT a2Ti string
+INSERT p number
+LOOKUP a2Ti
+BEGIN
+RPRINT
+LOOKUP p
+PRINT
+INSERT mYIp2 string
+INSERT kHXrNF string
+BEGIN
+BEGIN
+INSERT sW string
+INSERT cM number
+PRINT
+ASSIGN cM 'b'
+INSERT a8G59j number
+INSERT t4 number
+PRINT
+INSERT e string
+ASSIGN mf0 873
+INSERT k4dsy number
+INSERT teoG8 string
+INSERT z number
+ASSIGN z 'Zcm n'

@@ -1,0 +1,6 @@
+INSERT jIS number
+INSERT yd4O1a string
+LOOKUP yd4O1a
+INSERT fA8DH number
+INSERT w number
+PRINT

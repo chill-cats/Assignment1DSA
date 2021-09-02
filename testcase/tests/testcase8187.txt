@@ -1,0 +1,37 @@
+LOOKUP sYy
+INSERT g1uJTU number
+INSERT jy1 number
+END
+INSERT jj string
+INSERT u9Nr number
+ASSIGN jj 'Zr'
+INSERT fYZ number
+INSERT oyYpP string
+END
+INSERT l0x string
+RPRINT
+INSERT gGW number
+ASSIGN l0x 'f'
+INSERT mdit string
+END
+PRINT
+INSERT hQuMZU string
+INSERT x8Z7X string
+wxnQ_p wA
+RPRINT
+LOOKUP u9Nr
+BEGIN
+INSERT c0NaU string
+ASSIGN c0NaU 882
+ASSIGN jy1 oyYpP
+INSERT whdKBU string
+INSERT rq6Sp string
+PRINT
+INSERT dS9f string
+INSERT yx7754 string
+RPRINT
+INSERT q string
+INSERT ibjF string
+INSERT sEF string
+END
+INSERT qu number

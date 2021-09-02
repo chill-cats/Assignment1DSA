@@ -1,0 +1,19 @@
+INSERT qo7U number
+INSERT ayHUQP number
+END
+INSERT fYZq number
+END
+INSERT ro8ycJ string
+PRINT
+INSERT jvU string
+INSERT ygCPEC string
+RPRINT
+INSERT ek number
+INSERT p8M string
+LOOKUP ro8ycJ
+ASSIGN ayHUQP 'epROj'
+INSERT b40ql number
+INSERT miP string
+PRINT
+INSERT pW number
+INSERT dTe3 string

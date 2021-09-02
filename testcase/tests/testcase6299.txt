@@ -1,0 +1,21 @@
+INSERT dxoy2 string
+END
+ASSIGN dxoy2 49
+BEGIN
+INSERT t number
+INSERT m415 number
+INSERT co6ANQ number
+RPRINT
+INSERT rg9f number
+INSERT dN28xr string
+lEnN0b nXdyMU
+INSERT n number
+iWf8Y q_x
+LOOKUP dxoy2
+RPRINT
+BEGIN
+INSERT nv string
+INSERT f number
+END
+INSERT bOn6_o number
+ASSIGN n f

@@ -1,0 +1,24 @@
+INSERT ejU5C string
+INSERT rAcnW string
+INSERT jc number
+INSERT oP string
+ASSIGN ejU5C 1226
+INSERT uLz98 string
+INSERT y string
+INSERT rYHC number
+ASSIGN ejU5C rYHC
+BEGIN
+LOOKUP jc
+INSERT psR3w number
+BEGIN
+RPRINT
+INSERT bk_ string
+INSERT sM number
+INSERT mlT number
+END
+INSERT t2qAbk string
+INSERT tBsFhk number
+END
+INSERT pceF_ number
+INSERT g2 string
+LOOKUP bk_

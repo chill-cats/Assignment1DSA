@@ -1,0 +1,25 @@
+BEGIN
+INSERT kiY string
+INSERT qYSU6 string
+INSERT rCOwpA string
+INSERT rl string
+INSERT d3_3T8 number
+RPRINT
+PRINT
+INSERT tyI string
+ASSIGN qYSU6 44
+PRINT
+INSERT oR5B number
+INSERT e0Bg number
+INSERT jS number
+INSERT x1 string
+END
+INSERT wBEn number
+INSERT c6pGd string
+INSERT tdI number
+END
+INSERT i_ys string
+END
+INSERT ke0hL string
+INSERT k number
+ASSIGN jS 1205

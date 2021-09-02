@@ -1,0 +1,16 @@
+ASSIGN tzao 1235
+INSERT hQR number
+INSERT k2N4w string
+LOOKUP hQR
+INSERT wikIW8 string
+INSERT ziRlI number
+INSERT fq string
+INSERT a number
+ASSIGN wikIW8 k2N4w
+END
+END
+INSERT fGOi number
+LOOKUP fq
+INSERT vtS string
+INSERT t number
+ASSIGN fq 'NvmNh'

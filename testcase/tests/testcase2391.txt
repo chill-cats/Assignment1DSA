@@ -1,0 +1,21 @@
+INSERT eb7i string
+INSERT yyL string
+BEGIN
+INSERT e number
+LOOKUP e
+INSERT uQ number
+INSERT kP3 string
+INSERT r number
+INSERT zEz2i string
+BEGIN
+BEGIN
+INSERT gWJ string
+LOOKUP e
+INSERT gn string
+RPRINT
+INSERT u number
+INSERT jHQ number
+INSERT zIf number
+INSERT sYY string
+INSERT vqZ number
+INSERT hQORb string

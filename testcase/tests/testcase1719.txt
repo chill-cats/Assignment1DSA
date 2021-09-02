@@ -1,0 +1,33 @@
+INSERT cj string
+END
+END
+INSERT rufQc6 string
+INSERT cVV string
+INSERT i string
+INSERT t1iQlu number
+INSERT v1o number
+INSERT hl string
+INSERT sGW9k number
+INSERT bBpQ number
+PRINT
+BEGIN
+LOOKUP v1o
+INSERT gX7Xy string
+INSERT i28aSQ string
+INSERT qiDhh string
+INSERT gn8U number
+INSERT zr number
+END
+INSERT zVo0u string
+END
+END
+END
+INSERT qg number
+RPRINT
+PRINT
+ASSIGN dUmrk 407
+INSERT jZWYn number
+INSERT g8rYBv number
+END
+END
+LOOKUP g8rYBv

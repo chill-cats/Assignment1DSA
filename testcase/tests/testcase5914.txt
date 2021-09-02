@@ -1,0 +1,25 @@
+ASSIGN fN 'ihV'
+PRINT
+INSERT p0 number
+INSERT fs4L string
+RPRINT
+INSERT uiSjt number
+INSERT ugDv2 string
+INSERT sA5 number
+INSERT tSR1T number
+INSERT oyt string
+ASSIGN oyt 'N3'
+RPRINT
+RPRINT
+RPRINT
+INSERT ihJuFY number
+BEGIN
+RPRINT
+INSERT eYb number
+ASSIGN tSR1T 396
+PRINT
+PRINT
+INSERT yMP number
+INSERT mkG9c string
+INSERT xv string
+INSERT k string

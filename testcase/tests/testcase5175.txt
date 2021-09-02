@@ -1,0 +1,30 @@
+END
+INSERT tLgpu_ number
+RPRINT
+INSERT xQj string
+INSERT va57 string
+INSERT hdv string
+INSERT av number
+INSERT wIY9sB string
+INSERT cWg string
+INSERT k1UAiT string
+INSERT zOH0ca number
+LOOKUP av
+INSERT dJf number
+INSERT xQH number
+INSERT z number
+INSERT dd string
+ASSIGN k1UAiT 'IjfH'
+INSERT h string
+htRBzl kZI
+INSERT nA string
+BEGIN
+BEGIN
+ASSIGN tLgpu_ 725
+INSERT mvE string
+LOOKUP hdv
+INSERT xCJ string
+INSERT bM4nQ number
+INSERT yLO2 number
+BEGIN
+ASSIGN hdv xQj

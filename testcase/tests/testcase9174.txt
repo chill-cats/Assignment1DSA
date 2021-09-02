@@ -1,0 +1,26 @@
+INSERT k number
+PRINT
+LOOKUP k
+RPRINT
+RPRINT
+INSERT z1SM9 string
+BEGIN
+INSERT g string
+INSERT dgIMR string
+INSERT nWRr number
+INSERT wxcM0 string
+INSERT rdy7 string
+INSERT pW_x number
+RPRINT
+RPRINT
+INSERT nu4w string
+INSERT c_yr string
+INSERT iW string
+INSERT wWTXm4 string
+INSERT aoX string
+RPRINT
+INSERT djEUX2 string
+END
+INSERT cQTEq string
+INSERT mI string
+INSERT rpGdxP string

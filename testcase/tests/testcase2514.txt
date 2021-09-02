@@ -1,0 +1,5 @@
+INSERT m17 string
+LOOKUP m17
+INSERT onor string
+ASSIGN onor onor
+LOOKUP m17

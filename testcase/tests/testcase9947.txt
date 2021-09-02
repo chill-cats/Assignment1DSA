@@ -1,0 +1,27 @@
+INSERT mAIV string
+LOOKUP mAIV
+INSERT nq0aV number
+ASSIGN nq0aV nq0aV
+INSERT dHkLf number
+BEGIN
+RPRINT
+RPRINT
+INSERT gP6nb string
+INSERT p4r0 number
+INSERT c5SfVj string
+END
+END
+INSERT zg number
+INSERT n5Q4Ry string
+INSERT i2gn8 number
+PRINT
+INSERT z string
+INSERT gXTOd string
+i vBLeY
+PRINT
+INSERT hiuNEN number
+INSERT p6oCmx number
+ASSIGN zg 250
+INSERT wIx number
+ASSIGN p6oCmx 'yfzs'
+INSERT c string

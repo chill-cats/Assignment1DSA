@@ -1,0 +1,14 @@
+INSERT bv_e3r string
+END
+PRINT
+wQ pp
+INSERT hG number
+INSERT npt string
+INSERT iWrFR number
+INSERT yOd9TB string
+o rA_
+ASSIGN bv_e3r 950
+RPRINT
+rj eUf
+LOOKUP yOd9TB
+INSERT hEvYq string

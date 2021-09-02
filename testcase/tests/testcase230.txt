@@ -1,0 +1,16 @@
+INSERT eeYc0 number
+PRINT
+INSERT u number
+ASSIGN eeYc0 'i'
+BEGIN
+INSERT m3D string
+END
+ASSIGN eeYc0 'Rgi'
+END
+INSERT vq string
+INSERT pX77W number
+INSERT vH number
+INSERT r6N7 number
+RPRINT
+RPRINT
+PRINT

@@ -1,0 +1,35 @@
+bt7pX qz_mqA
+INSERT apLM number
+INSERT cUA number
+INSERT p8 string
+INSERT g7 string
+INSERT gx number
+INSERT o7n number
+INSERT zXVnRa string
+PRINT
+INSERT ey8A number
+INSERT wOoL number
+INSERT vdj string
+END
+INSERT joIpMP number
+INSERT mbBRo number
+INSERT gqu string
+INSERT vt string
+LOOKUP gx
+ASSIGN gx 877
+INSERT cO number
+PRINT
+PRINT
+PRINT
+INSERT ftnOn number
+RPRINT
+INSERT iqkgv number
+INSERT qIEQz number
+ASSIGN iqkgv zXVnRa
+RPRINT
+INSERT wv2cu9 number
+INSERT qF number
+INSERT iYE string
+RPRINT
+END
+INSERT a string

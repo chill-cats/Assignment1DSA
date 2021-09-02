@@ -1,0 +1,15 @@
+INSERT wZ1q52 number
+RPRINT
+INSERT feX5q string
+INSERT yhqGEH number
+INSERT jytq string
+INSERT b8 string
+INSERT f8aV string
+ASSIGN jytq wZ1q52
+INSERT nYvl string
+RPRINT
+ASSIGN b8 470
+END
+kMrtW rMzKRU
+END
+LOOKUP jytq

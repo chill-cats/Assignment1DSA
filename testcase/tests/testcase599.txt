@@ -1,0 +1,7 @@
+INSERT b number
+RPRINT
+INSERT pGJLw string
+dn dm1
+INSERT dp string
+INSERT joJ02 string
+INSERT l string

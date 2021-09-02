@@ -1,0 +1,16 @@
+INSERT rZ string
+INSERT cj number
+INSERT x number
+aBC8nr v_NfsC
+ASSIGN x ' '
+LOOKUP x
+END
+INSERT n string
+ASSIGN cj cj
+INSERT vWH number
+INSERT j string
+INSERT u_p string
+INSERT m number
+INSERT oX string
+INSERT iQ number
+INSERT cn string

@@ -1,0 +1,36 @@
+INSERT kTU23 number
+INSERT r number
+INSERT ti5ev string
+RPRINT
+jLZB bIDI0
+INSERT cfny3 string
+INSERT qnLrXZ string
+INSERT sC7Nrk number
+END
+INSERT myQYl string
+INSERT nY number
+ghHx nlDoM
+RPRINT
+END
+END
+ASSIGN kTU23 'IeTu'
+INSERT r number
+RPRINT
+ASSIGN sC7Nrk '6'
+INSERT pYvFSr string
+INSERT p5 string
+INSERT nc string
+END
+INSERT pBwf string
+INSERT xu number
+INSERT xQp string
+INSERT z1Z0K string
+LOOKUP z1Z0K
+INSERT b number
+BEGIN
+INSERT y08Cu string
+INSERT xQnB string
+INSERT z number
+INSERT u03 number
+INSERT n number
+INSERT j09By0 string

@@ -1,0 +1,30 @@
+PRINT
+INSERT wDmDSW string
+INSERT h5Lu0o number
+INSERT cxa3F string
+RPRINT
+PRINT
+PRINT
+INSERT hV9oR number
+PRINT
+INSERT oj3akR number
+ASSIGN h5Lu0o hV9oR
+ASSIGN oj3akR 'Yrw30'
+INSERT y string
+INSERT vxp number
+INSERT wBH number
+INSERT dh3gG string
+INSERT y9ZR string
+INSERT sp number
+END
+INSERT gTabLI number
+INSERT s7YNnY number
+END
+INSERT gb_N_T string
+BEGIN
+PRINT
+INSERT g string
+INSERT e string
+INSERT eAIeV number
+INSERT qv number
+RPRINT

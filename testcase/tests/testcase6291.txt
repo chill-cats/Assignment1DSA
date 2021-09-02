@@ -1,0 +1,7 @@
+PRINT
+INSERT qYRKWd number
+INSERT yFXiz string
+INSERT nbJ string
+INSERT uCsp number
+INSERT bAoZ number
+LOOKUP uCsp

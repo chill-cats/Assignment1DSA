@@ -1,0 +1,40 @@
+LOOKUP a
+INSERT lJ2zQ string
+INSERT yU number
+INSERT g string
+INSERT ujp number
+INSERT kY4FR string
+INSERT b1dtd number
+INSERT yATdU string
+INSERT zr46Q string
+BEGIN
+ASSIGN g lJ2zQ
+ASSIGN ujp 'RQz'
+RPRINT
+PRINT
+tCL wyw
+INSERT g string
+INSERT l string
+END
+LOOKUP b1dtd
+INSERT hrNOs number
+INSERT wUq_E7 string
+ASSIGN kY4FR 481
+INSERT a string
+INSERT f number
+INSERT kZ number
+BEGIN
+PRINT
+ukl ad
+INSERT eGs number
+ASSIGN yU 'Y5U'
+INSERT s6bURz number
+ASSIGN wUq_E7 ujp
+INSERT m number
+INSERT yj string
+INSERT g string
+INSERT v string
+RPRINT
+INSERT udy number
+INSERT lDFxW string
+INSERT oyl4f string

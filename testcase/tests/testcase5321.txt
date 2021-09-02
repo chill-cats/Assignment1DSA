@@ -1,0 +1,9 @@
+INSERT ej string
+INSERT fja2 number
+BEGIN
+INSERT bettM string
+INSERT mOdP number
+ASSIGN fja2 'oEZT'
+INSERT vo number
+INSERT xEda4 string
+PRINT

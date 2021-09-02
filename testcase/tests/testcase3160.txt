@@ -1,0 +1,21 @@
+PRINT
+INSERT rHk number
+INSERT sV number
+INSERT dNQXGj number
+INSERT q4Uy string
+INSERT qQM8 string
+END
+RPRINT
+INSERT py1 number
+INSERT a number
+RPRINT
+BEGIN
+INSERT qMrxs string
+INSERT e_BWrn string
+INSERT fZxGGN number
+LOOKUP sV
+INSERT oD number
+INSERT ovDT number
+INSERT ynYXl number
+INSERT i number
+INSERT ml string

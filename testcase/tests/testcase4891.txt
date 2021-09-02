@@ -1,0 +1,16 @@
+INSERT xLBLh number
+INSERT v number
+INSERT xo number
+INSERT ypyD number
+INSERT mALfM number
+ASSIGN v xLBLh
+INSERT fJxOc6 string
+INSERT xe string
+INSERT nBI number
+w_ iT
+INSERT tl5C number
+RPRINT
+ASSIGN nBI 233
+INSERT bNK string
+LOOKUP v
+BEGIN

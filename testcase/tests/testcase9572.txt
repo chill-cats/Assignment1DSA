@@ -1,0 +1,4 @@
+INSERT xO number
+ASSIGN xO 608
+INSERT z5 number
+INSERT cVk number

@@ -1,0 +1,8 @@
+INSERT jlA string
+INSERT cY4c0w string
+INSERT pYk number
+INSERT x string
+INSERT x5dh string
+LOOKUP pYk
+INSERT jWE number
+RPRINT

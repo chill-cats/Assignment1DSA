@@ -1,0 +1,8 @@
+LOOKUP wV3
+END
+INSERT wajU5i number
+INSERT fhgP string
+ASSIGN fhgP 824
+INSERT jU string
+nfdjN pI
+INSERT q4 number

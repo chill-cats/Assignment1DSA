@@ -1,0 +1,28 @@
+INSERT aAUjUd string
+BEGIN
+ASSIGN aAUjUd 1216
+END
+INSERT h7zQOw string
+INSERT e9CL5U string
+INSERT v number
+PRINT
+INSERT yrZt2l number
+INSERT deW7kN string
+INSERT y2Xrlg string
+END
+RPRINT
+INSERT o5 number
+INSERT jye number
+BEGIN
+INSERT nl number
+INSERT imXVqV string
+END
+INSERT pE string
+RPRINT
+INSERT k number
+RPRINT
+INSERT owng string
+ASSIGN k 'T'
+INSERT rFx number
+INSERT pj6 number
+RPRINT

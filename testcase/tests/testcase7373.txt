@@ -1,0 +1,6 @@
+INSERT zldMd string
+INSERT y number
+ASSIGN zldMd 'NCx'
+LOOKUP y
+END
+INSERT wSo1 number

@@ -1,0 +1,20 @@
+BEGIN
+INSERT hlqX string
+PRINT
+ASSIGN hlqX hlqX
+INSERT vKm3 number
+INSERT wDijMx string
+INSERT qWU4YF string
+INSERT bdJHn7 string
+RPRINT
+PRINT
+INSERT r string
+INSERT mpI number
+INSERT qPqGR string
+ASSIGN mpI bdJHn7
+INSERT ol_8i string
+RPRINT
+INSERT xvX28u number
+INSERT aGYT number
+INSERT fic number
+INSERT mm number

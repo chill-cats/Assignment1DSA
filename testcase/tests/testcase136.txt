@@ -1,0 +1,30 @@
+END
+RPRINT
+INSERT p number
+INSERT gPol0a number
+ASSIGN gPol0a gPol0a
+RPRINT
+INSERT aHCP number
+INSERT h8POrE string
+RPRINT
+INSERT k string
+INSERT fZ8a number
+PRINT
+ASSIGN h8POrE 'rS'
+INSERT kDus number
+BEGIN
+eQSq1L a1s
+v rLu
+PRINT
+INSERT dPZ number
+INSERT tuX_lC number
+INSERT d0Mcgw number
+LOOKUP d0Mcgw
+INSERT qdz string
+RPRINT
+INSERT x string
+INSERT ePJ string
+INSERT i_Ld string
+INSERT z string
+LOOKUP kDus
+INSERT d3NE number

@@ -1,0 +1,35 @@
+INSERT q1UyqM string
+INSERT vRigjp number
+BEGIN
+INSERT g6 string
+INSERT ghbdvt string
+INSERT mM3w3 string
+LOOKUP g6
+INSERT yO string
+INSERT kifpJk number
+INSERT yRP67_ number
+INSERT u1eZYn string
+INSERT il number
+INSERT fZvxH number
+INSERT eMk string
+INSERT whBL7l string
+INSERT ih string
+PRINT
+LOOKUP kifpJk
+INSERT yZ string
+INSERT b3ylN string
+INSERT djA number
+INSERT sYCo number
+INSERT iOFM5 string
+INSERT v1SN string
+BEGIN
+INSERT wbzVDU number
+RPRINT
+INSERT c0 string
+ASSIGN iOFM5 847
+INSERT xR2Nr6 number
+INSERT wQRrwI number
+INSERT ne_5g string
+INSERT n number
+BEGIN
+PRINT

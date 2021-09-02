@@ -1,0 +1,11 @@
+INSERT s3 number
+ASSIGN s3 'QdB '
+INSERT p string
+INSERT uIO string
+INSERT io string
+INSERT o number
+INSERT c7aB number
+INSERT xkj number
+PRINT
+END
+INSERT dHMng4 number

@@ -1,0 +1,21 @@
+INSERT gb string
+INSERT rm number
+RPRINT
+INSERT e number
+INSERT oGQvNf string
+INSERT fahWrJ string
+END
+INSERT so2iT1 number
+INSERT cijS string
+PRINT
+END
+INSERT t7 number
+INSERT z6k1qb number
+INSERT pN string
+INSERT aZZ6 number
+PRINT
+INSERT f7l string
+INSERT xq number
+INSERT mN string
+INSERT qYMFE string
+END

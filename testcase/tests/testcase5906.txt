@@ -1,0 +1,24 @@
+INSERT k string
+INSERT d9B string
+INSERT qxM number
+INSERT q string
+LOOKUP qxM
+INSERT i number
+INSERT b number
+ASSIGN i 1113
+INSERT kS string
+BEGIN
+INSERT l number
+INSERT utB number
+INSERT tp string
+INSERT wkADbP number
+LOOKUP b
+END
+INSERT u4ur number
+INSERT h number
+RPRINT
+LOOKUP l
+BEGIN
+END
+ASSIGN jsP 674
+INSERT a3 string

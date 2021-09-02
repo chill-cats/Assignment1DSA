@@ -1,0 +1,23 @@
+ttB rFtcb
+RPRINT
+INSERT kQn8Q1 number
+INSERT xYpl number
+RPRINT
+ASSIGN kQn8Q1 kQn8Q1
+INSERT zsGh string
+INSERT lK1Z string
+INSERT zxU number
+INSERT ugsKmj string
+INSERT s6 string
+INSERT u string
+INSERT cL4b number
+INSERT iez6e number
+INSERT sQH1kj string
+END
+INSERT t1 string
+END
+INSERT rOJs string
+INSERT tK3fV8 number
+INSERT cNJNiV number
+PRINT
+INSERT m number

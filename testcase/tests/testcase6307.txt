@@ -1,0 +1,8 @@
+RPRINT
+INSERT bx number
+ASSIGN bx 'jg '
+ASSIGN bx 'AUHZk'
+INSERT ent number
+INSERT d number
+ASSIGN d '5'
+INSERT k9lR number

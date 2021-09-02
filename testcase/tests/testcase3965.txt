@@ -1,0 +1,40 @@
+INSERT s number
+INSERT h number
+INSERT sukI string
+INSERT t string
+INSERT bOOg number
+eWQ0bP n
+INSERT idhStH number
+RPRINT
+ASSIGN bOOg t
+INSERT a4mnp number
+INSERT yKFG5 string
+INSERT teG string
+END
+eYvbxh dDVgl
+BEGIN
+INSERT dJJ0 string
+END
+INSERT dKGcff string
+INSERT aVpy number
+INSERT uri0 number
+INSERT k number
+INSERT ym string
+ASSIGN yKFG5 a4mnp
+RPRINT
+LOOKUP a4mnp
+INSERT s string
+END
+b sRsQ7
+INSERT okOC number
+hv yK5
+INSERT ql string
+INSERT bmG number
+PRINT
+END
+INSERT h67u string
+LOOKUP nhl_IA
+PRINT
+INSERT wM number
+PRINT
+INSERT k number

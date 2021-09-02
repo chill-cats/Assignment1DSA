@@ -1,0 +1,31 @@
+BEGIN
+INSERT rBsrGL string
+INSERT ta9McG number
+INSERT xwWlUi number
+ASSIGN ta9McG 847
+PRINT
+INSERT aZaX number
+INSERT heJ1FH string
+INSERT hir number
+INSERT bL string
+INSERT vfe string
+END
+END
+ASSIGN rBsrGL 223
+INSERT n9 string
+INSERT p string
+LOOKUP n9
+INSERT bc1 string
+INSERT peJ63X string
+nItJlS jQADT
+INSERT eD string
+INSERT hongQ string
+ASSIGN vfe 987
+PRINT
+INSERT kuCmZ string
+BEGIN
+INSERT a string
+INSERT tk string
+END
+RPRINT
+INSERT cF string

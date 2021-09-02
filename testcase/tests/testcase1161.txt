@@ -1,0 +1,35 @@
+g ijh
+PRINT
+INSERT r string
+INSERT p8 string
+PRINT
+BEGIN
+LOOKUP r
+INSERT p43 string
+INSERT v9 number
+kMQ i
+INSERT d90 string
+INSERT fD number
+INSERT kL string
+INSERT c number
+INSERT l number
+INSERT dHV number
+INSERT n number
+INSERT m63Qx string
+RPRINT
+INSERT uzTBA string
+INSERT nF string
+END
+INSERT gZx number
+INSERT k8Fo string
+INSERT wDDv string
+RPRINT
+RPRINT
+END
+INSERT n number
+INSERT dmUUvl string
+INSERT iz number
+INSERT mkbz number
+INSERT gc6T0 number
+INSERT i string
+PRINT

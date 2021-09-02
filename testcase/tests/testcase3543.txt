@@ -1,0 +1,28 @@
+BEGIN
+ASSIGN s 'U'
+INSERT x92 number
+INSERT qpO8 string
+fngaF b
+vKfY cyNIZ
+END
+ASSIGN qpO8 '2sbNS'
+INSERT v string
+PRINT
+ASSIGN qpO8 '0t'
+INSERT rzm number
+BEGIN
+INSERT zI string
+LOOKUP v
+INSERT zE string
+INSERT zq4L number
+PRINT
+BEGIN
+INSERT j number
+END
+INSERT qM string
+INSERT l3i string
+INSERT b0erta number
+PRINT
+INSERT ubRZu number
+INSERT os number
+INSERT pvjB8 string

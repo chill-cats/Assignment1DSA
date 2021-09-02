@@ -1,0 +1,9 @@
+INSERT huK7u string
+INSERT tMm string
+INSERT b5 string
+LOOKUP b5
+INSERT fEbPeS string
+INSERT el6uf number
+ASSIGN el6uf 399
+INSERT lVhdJ string
+ugI hJ

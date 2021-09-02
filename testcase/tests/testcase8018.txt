@@ -1,0 +1,18 @@
+INSERT nMnPO number
+INSERT lTyb string
+LOOKUP lTyb
+END
+ASSIGN lTyb 843
+PRINT
+LOOKUP nMnPO
+BEGIN
+INSERT j number
+INSERT iDQ string
+END
+zoF nIlic
+sw k
+ASSIGN nMnPO '6Ozwo'
+LOOKUP nMnPO
+INSERT sl_ number
+INSERT fgxCmd number
+INSERT iDeZ string

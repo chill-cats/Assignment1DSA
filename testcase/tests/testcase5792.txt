@@ -1,0 +1,20 @@
+INSERT gHft number
+RPRINT
+INSERT rF8DSA number
+INSERT s number
+INSERT lFS number
+INSERT dh number
+BEGIN
+INSERT iK string
+INSERT m string
+INSERT n_ string
+INSERT k string
+INSERT bptH6 string
+INSERT zL2Ar8 number
+ASSIGN iK iK
+INSERT j number
+RPRINT
+INSERT m number
+INSERT kP string
+INSERT m7BA8M number
+ASSIGN dh 'GkQ2n'

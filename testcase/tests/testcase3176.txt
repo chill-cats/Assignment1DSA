@@ -1,0 +1,22 @@
+INSERT a number
+INSERT cc string
+LOOKUP cc
+INSERT x number
+INSERT iQZjl9 number
+INSERT eXqS number
+BEGIN
+INSERT p5z number
+LOOKUP cc
+INSERT ps number
+END
+LOOKUP p5z
+LOOKUP p5z
+INSERT tkk0 number
+BEGIN
+INSERT ckZJj string
+BEGIN
+END
+INSERT xdL9VC string
+PRINT
+INSERT uN6Gye number
+INSERT cpKv4 string

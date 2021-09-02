@@ -1,0 +1,15 @@
+INSERT m number
+END
+BEGIN
+INSERT jR string
+LOOKUP jR
+INSERT h number
+END
+RPRINT
+ASSIGN h 'Pgjx'
+INSERT qz_d string
+f14 b0
+RPRINT
+INSERT kU string
+INSERT c_63Fg string
+PRINT

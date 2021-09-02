@@ -1,0 +1,13 @@
+INSERT b number
+INSERT hS4_4C string
+INSERT c number
+END
+PRINT
+INSERT lBCC number
+ASSIGN c 787
+INSERT yO0Kv string
+PRINT
+INSERT xR string
+INSERT hxs number
+INSERT jZg number
+j1q1 t2DE

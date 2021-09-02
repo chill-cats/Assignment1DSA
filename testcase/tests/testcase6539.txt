@@ -1,0 +1,28 @@
+INSERT svb3 string
+INSERT e4 string
+END
+INSERT f7E2_H number
+ASSIGN e4 svb3
+INSERT r number
+INSERT a0u7 string
+RPRINT
+BEGIN
+END
+PRINT
+INSERT rw string
+mX n
+RPRINT
+INSERT wGWwJ number
+INSERT yZKc6 string
+LOOKUP rw
+INSERT tH1Ads number
+ASSIGN rw 'vN5M'
+INSERT zJHRug number
+yti ewHDu
+tP uL_tqb
+BEGIN
+INSERT cnlOF number
+INSERT oQ6R string
+INSERT ssPK number
+PRINT
+INSERT u2hX string

@@ -1,0 +1,9 @@
+RPRINT
+INSERT x string
+niu jldG
+INSERT lZ number
+PRINT
+LOOKUP lZ
+BEGIN
+INSERT sJ number
+INSERT uQ3jv8 string

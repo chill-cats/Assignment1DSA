@@ -1,0 +1,30 @@
+INSERT m9qd number
+INSERT mGEUh_ number
+ASSIGN mGEUh_ 'Vqs'
+LOOKUP mGEUh_
+BEGIN
+BEGIN
+INSERT oW string
+INSERT h string
+tblN sHmZif
+INSERT s number
+INSERT t7IPe9 number
+INSERT v3Sq string
+END
+INSERT o number
+PRINT
+INSERT q string
+PRINT
+LOOKUP m9qd
+INSERT yg5rRk string
+END
+INSERT ooQ number
+INSERT oGc number
+INSERT iFrL6 number
+ASSIGN s 1149
+INSERT x25 number
+INSERT ucd0H number
+INSERT ueoo2 string
+INSERT lAa string
+INSERT zvx number
+INSERT wW2Iu number

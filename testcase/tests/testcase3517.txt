@@ -1,0 +1,16 @@
+INSERT ui string
+INSERT xFg8sE number
+INSERT y string
+INSERT tRR number
+INSERT lX string
+INSERT k_xDK number
+INSERT sFh number
+INSERT uvFb2 number
+INSERT amkk number
+INSERT ahdLpn string
+INSERT kVraA number
+ASSIGN ahdLpn kVraA
+ASSIGN uvFb2 y
+INSERT a number
+PRINT
+END

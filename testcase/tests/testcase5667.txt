@@ -1,0 +1,28 @@
+INSERT m8FzkG number
+INSERT kNX4 string
+END
+RPRINT
+INSERT gT2iF string
+INSERT ysq string
+INSERT p3b number
+INSERT u number
+INSERT iR8P string
+INSERT t string
+LOOKUP ysq
+INSERT spy string
+INSERT x5mig string
+ASSIGN x5mig 'U6'
+INSERT qtV string
+ilrGMe lX9eL
+INSERT e number
+INSERT u string
+INSERT d9VOlA number
+END
+INSERT bVKrFz number
+INSERT to4W string
+ASSIGN d9VOlA 537
+LOOKUP u
+PRINT
+INSERT swu number
+INSERT pwFyH number
+RPRINT

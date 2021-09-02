@@ -1,0 +1,9 @@
+INSERT j string
+u7CL kn8xFE
+INSERT uj3 string
+INSERT z9Zbn string
+ASSIGN j 'E'
+PRINT
+INSERT lMd number
+INSERT dZb number
+PRINT

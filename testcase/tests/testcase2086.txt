@@ -1,0 +1,23 @@
+INSERT sNcFMT number
+INSERT qrP string
+RPRINT
+INSERT uvAUWh string
+ASSIGN sNcFMT sNcFMT
+INSERT hcY8 number
+INSERT dIy2 string
+INSERT y number
+INSERT oD string
+INSERT g number
+INSERT sg number
+LOOKUP qrP
+INSERT s string
+LOOKUP dIy2
+INSERT w1 string
+INSERT jW2mLr number
+INSERT aq number
+INSERT yLcJ string
+INSERT h_cN number
+RPRINT
+INSERT g2euhr string
+INSERT ckI1x string
+PRINT

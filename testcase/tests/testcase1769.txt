@@ -1,0 +1,11 @@
+END
+INSERT e string
+INSERT n string
+BEGIN
+INSERT m4DF number
+INSERT tb9Z string
+ASSIGN n 418
+INSERT en5PaR number
+INSERT n string
+PRINT
+INSERT v1lG number

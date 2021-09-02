@@ -1,0 +1,19 @@
+PRINT
+INSERT v number
+INSERT n7Kmv number
+RPRINT
+INSERT v number
+INSERT j string
+INSERT iwn number
+RPRINT
+INSERT pZK24 number
+LOOKUP pZK24
+INSERT yjeJz string
+iS2_ig bgt2a
+INSERT l string
+INSERT opZ_6 number
+INSERT mYz number
+INSERT s3 string
+INSERT we number
+ASSIGN s3 1086
+BEGIN

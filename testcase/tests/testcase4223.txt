@@ -1,0 +1,18 @@
+INSERT mxQO string
+INSERT p number
+INSERT ubQ5Y string
+jsYmyQ za
+ASSIGN mxQO ubQ5Y
+INSERT o6 number
+INSERT k0zee number
+PRINT
+INSERT aX7L number
+INSERT lNX number
+LOOKUP lNX
+INSERT n number
+INSERT i number
+INSERT qysxz string
+INSERT wkCIh string
+PRINT
+INSERT sb string
+END

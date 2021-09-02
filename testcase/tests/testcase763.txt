@@ -1,0 +1,29 @@
+INSERT zarL string
+LOOKUP zarL
+END
+RPRINT
+d3 kF
+RPRINT
+gpYu qON
+INSERT i number
+BEGIN
+INSERT vo7nHP string
+INSERT c string
+BEGIN
+INSERT q string
+ASSIGN q 'jr4h'
+INSERT iZ1h57 string
+PRINT
+INSERT lHE1m5 number
+INSERT b_ number
+END
+INSERT q number
+INSERT zOGMY2 number
+INSERT xtcUmU number
+INSERT q_pTM string
+RPRINT
+BEGIN
+INSERT irnVR number
+PRINT
+z xr
+INSERT noPKoY number

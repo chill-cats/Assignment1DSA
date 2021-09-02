@@ -1,0 +1,29 @@
+PRINT
+BEGIN
+LOOKUP h
+INSERT lK number
+INSERT j number
+INSERT srm string
+ASSIGN lK j
+INSERT fbp number
+BEGIN
+INSERT jw3hXU string
+INSERT mUl string
+ASSIGN srm 'l'
+INSERT w5vxbe number
+INSERT gtJIl6 number
+INSERT e15TY string
+PRINT
+INSERT dd0Y46 string
+RPRINT
+INSERT eJ number
+LOOKUP lK
+END
+zE r
+INSERT cCo number
+INSERT r number
+END
+INSERT b3nv number
+INSERT dM string
+RPRINT
+RPRINT

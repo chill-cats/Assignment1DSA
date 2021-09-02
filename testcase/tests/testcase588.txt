@@ -1,0 +1,40 @@
+INSERT xi number
+PRINT
+INSERT loPkb string
+INSERT kEpr1 number
+PRINT
+INSERT qW8w4 string
+INSERT m4yi string
+BEGIN
+ASSIGN qW8w4 kEpr1
+INSERT fQPy string
+ASSIGN fQPy loPkb
+END
+PRINT
+INSERT ah number
+INSERT iEwm string
+INSERT eB number
+PRINT
+END
+PRINT
+INSERT wRm2 string
+INSERT kFN3X0 number
+INSERT y string
+INSERT t_ string
+RPRINT
+INSERT hE45hy string
+INSERT trUB number
+sTxV3 vA
+INSERT vHwL number
+INSERT i string
+INSERT upi0 number
+LOOKUP qW8w4
+INSERT a5n6G number
+INSERT oZSb number
+LOOKUP upi0
+wXQo nocFM
+ASSIGN iEwm ' 4Nj'
+INSERT xXXh0l number
+INSERT wc string
+INSERT so number
+INSERT mio string

@@ -1,0 +1,40 @@
+RPRINT
+INSERT eiiUT2 number
+INSERT vfZ number
+INSERT r_AsYl string
+ASSIGN vfZ 177
+PRINT
+INSERT giq string
+LOOKUP giq
+PRINT
+INSERT urS number
+INSERT er91 number
+INSERT c number
+BEGIN
+END
+INSERT xQPVd string
+END
+END
+INSERT dHYOX number
+LOOKUP c
+INSERT bd string
+LOOKUP eiiUT2
+INSERT id number
+INSERT ev9rCZ number
+END
+INSERT cak number
+LOOKUP eiiUT2
+INSERT hYKMX number
+INSERT x_vUB number
+INSERT vS string
+BEGIN
+INSERT oq number
+INSERT ihZQ string
+LOOKUP oq
+INSERT hy0a number
+INSERT eB6 number
+END
+INSERT sM number
+INSERT m string
+INSERT zw number
+LOOKUP x_vUB

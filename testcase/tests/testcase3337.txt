@@ -1,0 +1,9 @@
+RPRINT
+INSERT j1evY string
+INSERT gD number
+PRINT
+INSERT kxB number
+BEGIN
+INSERT e number
+END
+INSERT fskL string

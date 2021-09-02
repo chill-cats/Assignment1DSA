@@ -1,0 +1,15 @@
+INSERT sN number
+END
+INSERT p number
+LOOKUP sN
+PRINT
+PRINT
+INSERT zchrq string
+INSERT u number
+BEGIN
+BEGIN
+INSERT dV43Jm number
+INSERT so3 number
+RPRINT
+END
+END

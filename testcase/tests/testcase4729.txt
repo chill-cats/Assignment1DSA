@@ -1,0 +1,4 @@
+INSERT kYjOF string
+INSERT zOkg number
+INSERT i0 number
+INSERT eJ string

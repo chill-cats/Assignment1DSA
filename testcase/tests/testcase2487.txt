@@ -1,0 +1,24 @@
+BEGIN
+END
+RPRINT
+INSERT a string
+INSERT aI8m string
+PRINT
+PRINT
+LOOKUP a
+RPRINT
+INSERT t number
+ASSIGN t t
+RPRINT
+INSERT r9 number
+LOOKUP aI8m
+ASSIGN aI8m 'Dofa'
+INSERT yD3B1E string
+g53P d
+INSERT eTPp number
+BEGIN
+INSERT mXX string
+RPRINT
+PRINT
+INSERT dCo_x string
+h tCMH_

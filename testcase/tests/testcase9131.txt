@@ -1,0 +1,24 @@
+INSERT c5sU0j number
+INSERT qY string
+INSERT cgR number
+INSERT yXTPp number
+RPRINT
+LOOKUP cgR
+INSERT mCT string
+LOOKUP qY
+INSERT pTMw string
+INSERT bt1i number
+INSERT e string
+INSERT j number
+LOOKUP yXTPp
+INSERT v number
+INSERT ryJ3 string
+INSERT rI5YG number
+PRINT
+PRINT
+PRINT
+BEGIN
+ASSIGN c5sU0j 703
+INSERT p5M_EI number
+PRINT
+INSERT aEjYZ string

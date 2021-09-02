@@ -1,0 +1,24 @@
+INSERT jE_X5d number
+END
+spPA e
+INSERT zA3GaP number
+INSERT ldT number
+INSERT bLlYM string
+INSERT j string
+INSERT x0ikXu number
+INSERT uqDt number
+LOOKUP jE_X5d
+INSERT yrXag number
+PRINT
+INSERT ezbE string
+LOOKUP yrXag
+LOOKUP ezbE
+ASSIGN yrXag 'Vf'
+INSERT ndv1cu string
+INSERT soH number
+LOOKUP ndv1cu
+LOOKUP ldT
+ASSIGN ezbE 'HfJ2'
+BEGIN
+ASSIGN bLlYM 863
+INSERT h string

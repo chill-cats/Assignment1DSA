@@ -1,0 +1,13 @@
+INSERT w1yNTS string
+INSERT vC string
+RPRINT
+INSERT xa number
+ASSIGN vC 1092
+tXr g
+INSERT ecW number
+INSERT p string
+INSERT i number
+END
+BEGIN
+BEGIN
+LOOKUP vC

@@ -1,0 +1,19 @@
+INSERT s string
+INSERT uDcdUB number
+LOOKUP s
+n3 qC
+ASSIGN s 583
+INSERT wQR string
+PRINT
+INSERT mRK2 number
+LOOKUP uDcdUB
+END
+INSERT n0x number
+INSERT ieAW number
+RPRINT
+INSERT z5jG number
+RPRINT
+INSERT v string
+INSERT j0HR1 number
+BEGIN
+INSERT ei number

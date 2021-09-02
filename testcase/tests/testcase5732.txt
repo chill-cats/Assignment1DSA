@@ -1,0 +1,37 @@
+LOOKUP cnn
+BEGIN
+INSERT jmd number
+INSERT uuZM string
+END
+INSERT t string
+INSERT i3GoU string
+INSERT exrn string
+INSERT ii number
+LOOKUP i3GoU
+INSERT oer string
+INSERT y0xJ8s string
+INSERT p string
+PRINT
+RPRINT
+INSERT x string
+INSERT jSOf number
+INSERT sre6 string
+INSERT zovF string
+INSERT k7 number
+INSERT lw string
+INSERT vG string
+INSERT h5BjI number
+hbzag vFDKON
+RPRINT
+INSERT fQ number
+INSERT lR string
+ASSIGN p 116
+INSERT hfq string
+INSERT hg number
+END
+eKVT czkxMS
+xzBBS dyg5
+LOOKUP t
+INSERT aHU number
+INSERT z number
+INSERT nE string

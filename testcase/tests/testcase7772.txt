@@ -1,0 +1,39 @@
+INSERT q string
+INSERT vpNFkI number
+INSERT r8_T string
+PRINT
+INSERT mk string
+ASSIGN mk 1199
+ASSIGN r8_T 788
+INSERT v string
+RPRINT
+LOOKUP v
+INSERT yCV number
+INSERT z4z6p number
+INSERT pNgGf string
+ASSIGN v mk
+INSERT aPAON number
+INSERT ibl8K string
+INSERT kFh string
+INSERT c number
+INSERT y34T number
+INSERT nbyH5 string
+INSERT vfRgXp number
+INSERT mw number
+INSERT wWyolQ string
+END
+INSERT a string
+LOOKUP pNgGf
+INSERT gA2H string
+INSERT a42 number
+INSERT gzDh_w string
+INSERT qs string
+ASSIGN yCV kFh
+INSERT bq string
+INSERT a8U4l string
+INSERT rJs string
+INSERT yj string
+INSERT i string
+INSERT mc_RgN number
+INSERT hQR string
+BEGIN

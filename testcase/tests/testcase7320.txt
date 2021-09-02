@@ -1,0 +1,10 @@
+LOOKUP usGPf
+END
+RPRINT
+INSERT g number
+s db
+yvdMF mw
+RPRINT
+RPRINT
+END
+END

@@ -1,0 +1,32 @@
+ASSIGN z7B3q 187
+INSERT fcJJeE number
+INSERT l number
+INSERT bQHW string
+j w0N0
+INSERT izo number
+INSERT iYsHl string
+PRINT
+INSERT y0 string
+ASSIGN fcJJeE 715
+INSERT wvkxJY string
+INSERT cR3fOF string
+INSERT nnOAl number
+INSERT tieP string
+INSERT xSB5P number
+LOOKUP tieP
+INSERT sd5hv number
+INSERT lau2TR number
+lzU phI
+INSERT neW string
+INSERT e string
+INSERT g8s string
+INSERT rkb string
+INSERT tcT number
+vZ4vMV px
+INSERT yeP number
+LOOKUP sd5hv
+PRINT
+INSERT c number
+RPRINT
+BEGIN
+INSERT dq3G1 string

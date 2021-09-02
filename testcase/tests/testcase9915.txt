@@ -1,0 +1,8 @@
+INSERT u number
+roPv obOtBv
+BEGIN
+ASSIGN u 444
+PRINT
+dHdxp h_2
+INSERT spb number
+INSERT hmrgB string

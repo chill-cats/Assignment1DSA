@@ -1,0 +1,34 @@
+INSERT wa05ZM string
+INSERT cCK number
+LOOKUP cCK
+INSERT dog number
+INSERT vEEE string
+INSERT u6TUL string
+INSERT oSS3 number
+INSERT a number
+INSERT o number
+INSERT aaGjS number
+PRINT
+q_f vFs2
+INSERT s_c string
+LOOKUP vEEE
+END
+INSERT os_8 string
+INSERT l number
+BEGIN
+hQYd5 dW
+PRINT
+INSERT h9BJ_5 number
+PRINT
+INSERT dLnl number
+INSERT x number
+INSERT lFR_k number
+INSERT q string
+BEGIN
+INSERT e7IwV_ string
+INSERT cJ string
+PRINT
+ASSIGN cCK 'Bs'
+INSERT t string
+ASSIGN dLnl vEEE
+INSERT rJrN3M number

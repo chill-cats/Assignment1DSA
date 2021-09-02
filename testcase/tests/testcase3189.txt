@@ -1,0 +1,24 @@
+BEGIN
+END
+INSERT sEF string
+INSERT lL45G number
+INSERT nI number
+LOOKUP sldV
+RPRINT
+PRINT
+INSERT ti4 number
+INSERT bVu2pP string
+RPRINT
+kEGsYG u
+LOOKUP lL45G
+q7 qflC2
+INSERT ie number
+INSERT b string
+INSERT c string
+INSERT h string
+ASSIGN nI 1163
+INSERT m string
+INSERT cT number
+END
+ASSIGN m 'DCPl'
+INSERT nt number

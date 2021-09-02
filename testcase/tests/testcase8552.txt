@@ -1,0 +1,19 @@
+INSERT n number
+LOOKUP n
+INSERT rmvF string
+INSERT rP string
+INSERT aniu3 number
+INSERT nfpY string
+INSERT ql string
+INSERT vW3 number
+BEGIN
+r8 g
+INSERT vLpI5 string
+INSERT sb string
+INSERT wAR string
+INSERT a string
+BEGIN
+INSERT p8 number
+INSERT lmuVn number
+BEGIN
+INSERT u25Ni string

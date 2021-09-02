@@ -1,0 +1,4 @@
+INSERT ko6kE number
+RPRINT
+INSERT m5 number
+PRINT

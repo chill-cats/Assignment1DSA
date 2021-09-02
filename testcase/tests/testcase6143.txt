@@ -1,0 +1,17 @@
+INSERT kspJFO number
+INSERT d7U string
+INSERT fPwm_m string
+INSERT hPs number
+ASSIGN d7U 562
+PRINT
+INSERT u7T88 string
+INSERT oAW8xf string
+END
+ASSIGN d7U 'AfV'
+ASSIGN kspJFO 'P'
+INSERT e_Vst string
+rYu eI1_
+PRINT
+INSERT l8Ev string
+INSERT u1eW string
+ASSIGN oAW8xf 'r'

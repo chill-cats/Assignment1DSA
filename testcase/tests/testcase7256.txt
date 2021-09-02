@@ -1,0 +1,7 @@
+INSERT c4 string
+INSERT eqaop string
+ASSIGN c4 18
+INSERT d string
+INSERT le string
+INSERT fju string
+INSERT i number

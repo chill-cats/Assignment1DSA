@@ -1,0 +1,20 @@
+LOOKUP pQ
+INSERT i number
+INSERT e71 number
+RPRINT
+INSERT r number
+INSERT hACUKc number
+INSERT kMO number
+INSERT sg0e number
+INSERT m52jcm string
+INSERT v number
+PRINT
+INSERT lkgfS string
+INSERT aNO string
+c gc
+INSERT djb6 string
+INSERT jHFUbH string
+ASSIGN m52jcm 555
+INSERT tR number
+INSERT em2 string
+RPRINT

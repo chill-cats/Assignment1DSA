@@ -1,0 +1,26 @@
+INSERT v string
+INSERT rc string
+RPRINT
+INSERT r4 string
+INSERT vIBFI string
+INSERT dAzXD number
+INSERT hzDVnD string
+INSERT hiJA7I string
+INSERT uI4 string
+INSERT pSIlRg string
+INSERT x number
+RPRINT
+INSERT tLvNU number
+INSERT d9sTTb string
+INSERT mVnW number
+gsu h
+INSERT tHn9W string
+zrgJ qLC_FC
+END
+ASSIGN d9sTTb 1182
+INSERT fFW number
+bcp dc
+BEGIN
+INSERT c string
+i2G7 eV
+INSERT l number

@@ -1,0 +1,32 @@
+INSERT sRACZ number
+ASSIGN sRACZ sRACZ
+RPRINT
+INSERT lTBa number
+INSERT hKeQB number
+ASSIGN lTBa 'P5L6'
+INSERT eoIPl number
+LOOKUP sRACZ
+PRINT
+LOOKUP lTBa
+END
+hOAq9 ttPg
+ASSIGN eoIPl 432
+INSERT ga8e string
+RPRINT
+BEGIN
+INSERT mc number
+PRINT
+INSERT w5_ string
+INSERT dS number
+INSERT zHa number
+INSERT kJuz01 string
+PRINT
+INSERT jn90 number
+END
+INSERT y string
+END
+INSERT iSP number
+INSERT griC string
+INSERT u5k number
+INSERT homkq string
+INSERT zj0YJ number

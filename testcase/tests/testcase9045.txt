@@ -1,0 +1,23 @@
+LOOKUP iqv
+END
+INSERT alNw number
+INSERT cK number
+INSERT jSEy number
+INSERT hr number
+INSERT zitm0 string
+INSERT c6 string
+INSERT f number
+INSERT k number
+INSERT pDbAMY number
+ASSIGN f '2 D'
+INSERT fI number
+INSERT fSedU string
+INSERT olFl number
+LOOKUP k
+PRINT
+INSERT vZQ_6G number
+gNQU k_Dk
+INSERT zCb number
+INSERT teH string
+INSERT x number
+LOOKUP zb7_8n

@@ -1,0 +1,30 @@
+INSERT qsD string
+INSERT lmOM number
+INSERT j1772 string
+INSERT pmHg number
+yu rdZ0x
+INSERT zqDrtI string
+BEGIN
+LOOKUP lmOM
+INSERT ceuv number
+INSERT aQCGD string
+INSERT vBq number
+RPRINT
+INSERT p number
+INSERT mg number
+INSERT c number
+INSERT wPGg3 number
+ASSIGN c 213
+INSERT ygv string
+INSERT cm9C string
+ASSIGN qsD pmHg
+INSERT oy number
+INSERT nA string
+ASSIGN nA zqDrtI
+END
+INSERT zSjqt string
+INSERT pau number
+INSERT vPqb number
+ASSIGN zSjqt mg
+BEGIN
+INSERT kK number

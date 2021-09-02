@@ -1,0 +1,4 @@
+INSERT u_b number
+INSERT w string
+INSERT gPd string
+INSERT wIR number

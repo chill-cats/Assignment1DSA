@@ -1,0 +1,13 @@
+END
+INSERT xoKxty string
+INSERT u string
+LOOKUP i
+PRINT
+INSERT p string
+INSERT h number
+INSERT wDbjE string
+INSERT z string
+END
+INSERT wIeLix string
+RPRINT
+INSERT pr3Av number

@@ -1,0 +1,36 @@
+ASSIGN ainJX 'cbM'
+INSERT lH string
+BEGIN
+INSERT dZ string
+INSERT cmlaF string
+RPRINT
+INSERT aD67 string
+INSERT s number
+BEGIN
+BEGIN
+END
+RPRINT
+BEGIN
+INSERT gX string
+INSERT rD string
+INSERT wb string
+INSERT yng7x string
+INSERT ozg string
+INSERT fNYhG string
+INSERT lCd_t number
+INSERT q1 string
+INSERT stn string
+LOOKUP cmlaF
+LOOKUP gX
+INSERT h7VfS8 string
+INSERT boRPhL string
+END
+INSERT uTPo number
+INSERT sEh number
+INSERT nND number
+LOOKUP boRPhL
+PRINT
+crLY jd
+LOOKUP cmlaF
+PRINT
+INSERT f string

@@ -1,0 +1,37 @@
+INSERT pFG3af number
+INSERT r number
+ASSIGN r r
+LOOKUP r
+PRINT
+INSERT hu string
+INSERT s string
+INSERT mzWTe string
+INSERT o5C7 number
+INSERT aSIc number
+BEGIN
+INSERT rc0zD number
+ASSIGN rc0zD 838
+INSERT jMU_ string
+INSERT uGzG number
+INSERT eBqFmV number
+INSERT r number
+INSERT g number
+INSERT axF string
+END
+INSERT ywX number
+INSERT kcx3ry number
+INSERT fly number
+INSERT mBl number
+INSERT q number
+INSERT g number
+INSERT l5P number
+INSERT iN number
+INSERT wyM string
+PRINT
+rR plIm
+PRINT
+END
+END
+INSERT tXQG string
+INSERT a number
+INSERT gd6ga number

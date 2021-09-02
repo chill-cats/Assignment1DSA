@@ -1,0 +1,27 @@
+INSERT wHA number
+cXASx h
+INSERT oyF number
+INSERT iG string
+BEGIN
+ASSIGN oyF 820
+INSERT ypqR number
+INSERT s8z0t string
+INSERT klNG number
+INSERT o80j number
+INSERT dwlw string
+INSERT ygWO9 number
+INSERT n_kkG number
+PRINT
+INSERT gV string
+INSERT k_fSxk number
+INSERT r6i number
+INSERT fwY string
+INSERT k7CF string
+INSERT hdbwK8 number
+INSERT u1rF string
+BEGIN
+LOOKUP ypqR
+INSERT vjoG9 number
+ASSIGN klNG k7CF
+INSERT doT number
+LOOKUP u1rF

@@ -1,0 +1,25 @@
+END
+INSERT i2 number
+LOOKUP i2
+INSERT y string
+RPRINT
+LOOKUP i2
+c damA
+INSERT xC9 string
+INSERT ra4ty string
+vI dX
+INSERT rm string
+INSERT psvZJ string
+INSERT wuym string
+RPRINT
+INSERT xd string
+INSERT lfZQ string
+INSERT fAuI string
+ASSIGN i2 'Q6'
+INSERT cvpi number
+INSERT umEfD8 string
+ASSIGN i2 xC9
+INSERT vM string
+INSERT sGH number
+INSERT jY string
+INSERT rE string

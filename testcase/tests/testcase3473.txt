@@ -1,0 +1,35 @@
+INSERT x string
+BEGIN
+INSERT bg number
+BEGIN
+INSERT iJfirY string
+INSERT pFFKz number
+END
+INSERT xaBk4 number
+INSERT hhS5A string
+INSERT z0h5H string
+RPRINT
+INSERT q number
+INSERT oTRLC number
+INSERT cHHq string
+INSERT gAfs8F string
+END
+INSERT a1COBo number
+INSERT kA25 string
+LOOKUP cHHq
+INSERT n number
+INSERT g number
+INSERT mM74 number
+INSERT cC606x number
+INSERT fL string
+INSERT exPr string
+BEGIN
+RPRINT
+ASSIGN z0h5H 423
+INSERT oSByt string
+INSERT nPOp number
+INSERT j string
+INSERT d2Xr number
+INSERT p string
+wWz zaTEo
+INSERT k4 string

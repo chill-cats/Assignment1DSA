@@ -1,0 +1,39 @@
+INSERT tHR9 string
+INSERT a string
+LOOKUP tHR9
+ftE0sP f1IFu8
+INSERT bhfLwy number
+INSERT pDpOE string
+END
+INSERT x7W string
+INSERT c6 string
+PRINT
+INSERT lkd8 number
+LOOKUP x7W
+END
+LOOKUP bhfLwy
+LOOKUP lkd8
+RPRINT
+INSERT iHs number
+END
+RPRINT
+INSERT v7W7m1 string
+INSERT o1 string
+ASSIGN pDpOE 'J1j2V'
+LOOKUP a
+END
+d sVi
+INSERT xG number
+INSERT sdWz string
+INSERT cSD string
+INSERT c string
+INSERT nr string
+INSERT ih number
+INSERT qL string
+INSERT k5C number
+RPRINT
+END
+PRINT
+INSERT manK number
+INSERT yCPh2M number
+INSERT k4pJ number

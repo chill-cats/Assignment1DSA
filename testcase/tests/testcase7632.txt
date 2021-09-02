@@ -1,0 +1,23 @@
+INSERT zopLv string
+INSERT hSI number
+INSERT ncpt1 string
+ASSIGN zopLv 'IG'
+INSERT gmnGsM number
+RPRINT
+ASSIGN ncpt1 313
+INSERT l number
+INSERT h number
+INSERT y string
+INSERT kJ number
+INSERT hiqq number
+PRINT
+PRINT
+PRINT
+INSERT koLD number
+INSERT gVahm string
+INSERT jb string
+ASSIGN zopLv 653
+INSERT dK8wx1 string
+INSERT nowWcB string
+BEGIN
+END

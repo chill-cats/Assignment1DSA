@@ -1,0 +1,34 @@
+INSERT p8Ml5 number
+INSERT vAo number
+INSERT hrvJ number
+INSERT bu string
+END
+INSERT bT number
+INSERT u4Gmu string
+INSERT pF_FNP string
+INSERT vklQ string
+INSERT f1iU number
+LOOKUP p8Ml5
+INSERT n3 number
+INSERT v2_vtX string
+RPRINT
+INSERT tGg3bk string
+END
+cfMCfc vQo
+INSERT fBsXG string
+INSERT h number
+PRINT
+INSERT cgLs string
+INSERT keyvc number
+LOOKUP bT
+RPRINT
+INSERT v string
+rf7X ag8Ps
+ASSIGN tGg3bk vAo
+INSERT q6cs9j string
+INSERT q number
+INSERT tDi string
+INSERT b6Wsn number
+RPRINT
+PRINT
+INSERT kZ string

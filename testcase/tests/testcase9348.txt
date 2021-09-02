@@ -1,0 +1,23 @@
+INSERT j number
+LOOKUP j
+INSERT n number
+INSERT gzXb string
+END
+RPRINT
+kC9ii bgFTJ
+INSERT zNJ string
+r849 hh
+INSERT xvZMp number
+INSERT fezv8 string
+INSERT sdJI string
+zhLJg mh3
+INSERT jaK number
+ASSIGN gzXb gzXb
+INSERT l string
+PRINT
+INSERT u number
+INSERT og number
+INSERT jxhwT string
+i dt
+INSERT lRZ number
+INSERT jE number

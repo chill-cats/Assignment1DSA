@@ -1,0 +1,32 @@
+l yE7R
+INSERT dg number
+INSERT hVd string
+INSERT ewAgwp string
+INSERT cV7X string
+INSERT ln string
+PRINT
+RPRINT
+END
+INSERT khI9FW number
+INSERT fiKR number
+PRINT
+INSERT pE string
+INSERT a string
+INSERT gA_52 string
+RPRINT
+INSERT p6 number
+RPRINT
+RPRINT
+ASSIGN hVd fiKR
+INSERT vgc number
+BEGIN
+INSERT iiE string
+INSERT n3cH number
+LOOKUP cV7X
+INSERT glNFw string
+ASSIGN dg 1192
+t8qhHs jd
+INSERT qUQ string
+BEGIN
+ASSIGN qUQ 1151
+RPRINT

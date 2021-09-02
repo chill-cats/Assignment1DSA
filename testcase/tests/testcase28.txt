@@ -1,0 +1,34 @@
+INSERT raG string
+ASSIGN raG raG
+INSERT a07Di number
+LOOKUP a07Di
+ASSIGN raG a07Di
+BEGIN
+BEGIN
+INSERT qpY3zp number
+INSERT ksQTh string
+BEGIN
+INSERT goLt string
+INSERT smTq_D string
+INSERT t3 string
+INSERT xcpV number
+INSERT x string
+INSERT i string
+INSERT vo number
+INSERT yErtj6 string
+INSERT z number
+INSERT n string
+INSERT nf string
+INSERT hj5eGe string
+INSERT lxYg1 number
+INSERT a number
+PRINT
+LOOKUP nf
+BEGIN
+INSERT fS4mwn number
+gnrR go
+INSERT nudZ number
+INSERT fp string
+RPRINT
+RPRINT
+INSERT qRK0z number

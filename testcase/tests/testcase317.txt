@@ -1,0 +1,11 @@
+INSERT s string
+END
+INSERT xugIn6 number
+mkhaI vYh26g
+RPRINT
+RPRINT
+INSERT p2 number
+INSERT xW number
+ASSIGN p2 1115
+RPRINT
+INSERT sFl7N string

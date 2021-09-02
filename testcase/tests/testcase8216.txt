@@ -1,0 +1,37 @@
+INSERT njoZD7 number
+INSERT ua string
+INSERT wvQ string
+INSERT w number
+INSERT q1X string
+INSERT q string
+INSERT pH string
+END
+INSERT kK1 number
+INSERT iqES number
+BEGIN
+INSERT hjus string
+ASSIGN hjus 'WAlcp'
+INSERT a9ei8 string
+END
+INSERT u string
+INSERT zypUA number
+INSERT qwxa3 number
+INSERT pJLF string
+INSERT c5 number
+INSERT k3W9wg string
+LOOKUP njoZD7
+INSERT j0Og number
+PRINT
+END
+RPRINT
+INSERT zhd6 number
+LOOKUP pJLF
+BEGIN
+LOOKUP qwxa3
+PRINT
+ASSIGN k3W9wg 387
+INSERT e42jk8 string
+INSERT nC_f number
+RPRINT
+ASSIGN pH 'LhQz4'
+ASSIGN nC_f nC_f

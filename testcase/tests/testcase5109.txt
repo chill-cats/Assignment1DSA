@@ -1,0 +1,14 @@
+INSERT qmxA string
+RPRINT
+INSERT wRl71 number
+INSERT a3aTU9 number
+INSERT cx string
+INSERT cm0 string
+END
+INSERT tJ number
+ASSIGN wRl71 'ot'
+INSERT u number
+BEGIN
+INSERT iX number
+INSERT uw_xI number
+INSERT yt number

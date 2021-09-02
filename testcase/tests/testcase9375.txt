@@ -1,0 +1,15 @@
+INSERT yTjPy string
+INSERT u number
+BEGIN
+INSERT t string
+LOOKUP t
+INSERT uhmu0 string
+INSERT zTTd string
+RPRINT
+INSERT pnX number
+ASSIGN yTjPy zTTd
+END
+PRINT
+INSERT m number
+BEGIN
+INSERT x number

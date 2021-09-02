@@ -1,0 +1,37 @@
+INSERT waVJ4w string
+BEGIN
+ASSIGN waVJ4w waVJ4w
+ASSIGN waVJ4w 499
+INSERT pHlI string
+INSERT baHE9 string
+INSERT m0QZ string
+INSERT pHu0PG string
+INSERT hjnkwZ number
+INSERT we number
+INSERT ohJ string
+INSERT quy number
+BEGIN
+INSERT r6K6 number
+BEGIN
+INSERT yzFBZ number
+LOOKUP r6K6
+INSERT dUpShI string
+INSERT m string
+INSERT mKAmU number
+ASSIGN m yzFBZ
+ePHX bbcDNy
+END
+BEGIN
+INSERT jBEYK number
+PRINT
+BEGIN
+INSERT sM number
+INSERT f_ string
+ASSIGN pHlI 1006
+INSERT iZ4Qe string
+INSERT gjZ6ys number
+ASSIGN dUpShI 998
+INSERT kuwP number
+BEGIN
+ASSIGN hjnkwZ 1188
+INSERT k7A number

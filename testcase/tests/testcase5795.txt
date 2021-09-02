@@ -1,0 +1,11 @@
+INSERT hWzMl string
+INSERT dcVnz0 string
+LOOKUP hWzMl
+INSERT cN number
+gjC x
+INSERT fP number
+PRINT
+INSERT lJ9J string
+INSERT pts3 string
+INSERT logGM number
+INSERT yWMT number

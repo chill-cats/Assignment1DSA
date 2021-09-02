@@ -1,0 +1,26 @@
+INSERT zan2h string
+END
+RPRINT
+INSERT hsxXfi number
+INSERT oTPe string
+INSERT rU2JrJ string
+INSERT oe0 string
+INSERT u_M4W string
+RPRINT
+LOOKUP zan2h
+INSERT oqC string
+END
+INSERT n number
+INSERT jjqE string
+INSERT vW6Ah0 string
+INSERT p76 number
+INSERT vIQ4 string
+LOOKUP vIQ4
+INSERT npk number
+pcINz x
+INSERT o8A number
+INSERT v0x number
+INSERT n6C string
+INSERT nB0P string
+LOOKUP n6C
+INSERT vkN string

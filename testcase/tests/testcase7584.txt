@@ -1,0 +1,26 @@
+INSERT m string
+ASSIGN m 'eu'
+PRINT
+END
+INSERT zw1Us string
+INSERT u_8x4D number
+INSERT vJh string
+LOOKUP m
+INSERT bZSAw string
+INSERT rO2 number
+INSERT hQLr number
+INSERT uX number
+INSERT guqEW number
+boLY wSxy6
+INSERT i string
+INSERT hgZ number
+INSERT f string
+INSERT hR number
+hx wKGQM
+END
+RPRINT
+INSERT oZ8 number
+ASSIGN rO2 hQLr
+BEGIN
+INSERT oANXX number
+INSERT btNXL number

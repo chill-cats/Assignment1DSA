@@ -1,0 +1,11 @@
+INSERT yVu string
+INSERT r number
+INSERT gWh number
+INSERT qp string
+INSERT t9k3 string
+INSERT df string
+LOOKUP df
+INSERT opxtE string
+INSERT x number
+INSERT sVy string
+INSERT jTGRGN number

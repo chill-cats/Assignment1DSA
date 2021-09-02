@@ -1,0 +1,34 @@
+RPRINT
+ASSIGN e 823
+BEGIN
+INSERT s string
+INSERT x7LP4 string
+INSERT p8 number
+LOOKUP x7LP4
+INSERT q string
+INSERT aa string
+q yJ
+RPRINT
+LOOKUP s
+PRINT
+INSERT o number
+LOOKUP s
+INSERT e56xYw number
+INSERT j48 string
+ASSIGN q 'kg'
+END
+INSERT rtLUj string
+INSERT l number
+INSERT eWgDnr string
+f5oF1T aelrK
+END
+INSERT e number
+RPRINT
+LOOKUP e56xYw
+LOOKUP rtLUj
+INSERT hB3 number
+INSERT ueHgxM number
+RPRINT
+INSERT u number
+INSERT omRND number
+BEGIN

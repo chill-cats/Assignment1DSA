@@ -1,0 +1,23 @@
+INSERT zKR3i6 string
+INSERT dD5c2L number
+INSERT jBU string
+INSERT cm number
+INSERT uAMQfA string
+INSERT i number
+INSERT tcC2P number
+INSERT cmVD9M string
+INSERT omZ number
+INSERT eH string
+xSBpp hal4qS
+INSERT fcmpuh number
+LOOKUP fcmpuh
+INSERT nx62 number
+INSERT hQI string
+INSERT rlmg number
+INSERT r string
+s t
+INSERT ze04zD string
+INSERT cnKxX_ number
+ASSIGN zKR3i6 jBU
+BEGIN
+BEGIN

@@ -1,0 +1,33 @@
+ASSIGN v 961
+PRINT
+BEGIN
+ASSIGN tzbhYc 'sW'
+LOOKUP kUCUIH
+INSERT eC number
+PRINT
+INSERT zcA string
+INSERT rT number
+BEGIN
+END
+LOOKUP eC
+INSERT bJ number
+RPRINT
+ASSIGN rT 'Uv'
+ASSIGN eC '192O'
+INSERT v string
+hMtR c3
+e9kLKx wr
+INSERT k9P number
+INSERT ncRG string
+ASSIGN ncRG 938
+LOOKUP zcA
+INSERT x string
+INSERT hMtMLx string
+ASSIGN nnp_k 570
+END
+INSERT hknM string
+RPRINT
+INSERT dw number
+INSERT gaE72k number
+PRINT
+END

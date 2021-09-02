@@ -1,0 +1,17 @@
+END
+PRINT
+ASSIGN c 421
+INSERT weENP number
+LOOKUP weENP
+INSERT mqO string
+RPRINT
+INSERT m number
+INSERT pctmtD number
+END
+INSERT svgL number
+INSERT znPL number
+INSERT w1P string
+PRINT
+INSERT l82 number
+BEGIN
+LOOKUP m

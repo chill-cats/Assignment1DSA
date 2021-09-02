@@ -1,0 +1,28 @@
+PRINT
+INSERT lUSYA number
+LOOKUP lUSYA
+PRINT
+INSERT k6N string
+INSERT bnmYIa number
+INSERT v0 number
+INSERT p number
+INSERT jK number
+INSERT jlj90 string
+INSERT ene8w string
+RPRINT
+LOOKUP lUSYA
+INSERT dtbDR number
+ASSIGN jlj90 v0
+INSERT a_lV string
+BEGIN
+INSERT ih_NXJ string
+LOOKUP jK
+INSERT j1RU4x string
+RPRINT
+INSERT mjgf1V number
+INSERT czB number
+INSERT lGV string
+INSERT rwjC number
+INSERT qpQDi_ number
+LOOKUP ene8w
+INSERT adIO string

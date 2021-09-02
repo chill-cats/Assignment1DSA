@@ -1,0 +1,35 @@
+BEGIN
+INSERT aB string
+RPRINT
+ASSIGN aB aB
+zRZ urec
+INSERT uzxxYe string
+INSERT krC10 string
+INSERT aGozgu number
+ASSIGN krC10 uzxxYe
+BEGIN
+INSERT m number
+INSERT lO9nhE number
+INSERT mh string
+INSERT gvOnPH number
+yj z3BO
+END
+INSERT rgidnW number
+INSERT eD8 string
+INSERT eVmVNM string
+BEGIN
+INSERT yKA number
+INSERT iFW number
+RPRINT
+LOOKUP m
+INSERT si string
+END
+PRINT
+INSERT wb2loM string
+INSERT q86h string
+INSERT nwXj number
+INSERT ifsZ string
+BEGIN
+ASSIGN gvOnPH 844
+ASSIGN nwXj 1007
+INSERT d number

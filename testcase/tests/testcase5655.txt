@@ -1,0 +1,22 @@
+LOOKUP btF3rX
+INSERT mQ string
+INSERT u number
+INSERT r7kCS string
+RPRINT
+INSERT xS54X string
+PRINT
+ASSIGN r7kCS 'sM2'
+INSERT zjxot string
+INSERT eRn string
+PRINT
+RPRINT
+END
+LOOKUP eRn
+INSERT m number
+INSERT dH number
+INSERT alw9G number
+END
+INSERT uZ number
+INSERT u6r string
+PRINT
+LOOKUP xS54X

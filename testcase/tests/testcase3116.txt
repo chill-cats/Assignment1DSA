@@ -1,0 +1,9 @@
+INSERT ocv string
+INSERT ou6F number
+INSERT qFn2x string
+LOOKUP ocv
+PRINT
+INSERT mj_l string
+INSERT eobkZC number
+INSERT vP3 number
+t1EEo rEpcBg

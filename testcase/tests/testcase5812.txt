@@ -1,0 +1,14 @@
+PRINT
+END
+INSERT ixV number
+INSERT c9Kn number
+INSERT d9V67O number
+INSERT eZ0Z3r string
+LOOKUP o
+END
+INSERT uH string
+ASSIGN c9Kn uH
+LOOKUP d9V67O
+PRINT
+LOOKUP c9Kn
+INSERT mXvBP string

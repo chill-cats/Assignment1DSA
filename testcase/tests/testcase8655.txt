@@ -1,0 +1,20 @@
+PRINT
+INSERT um string
+BEGIN
+LOOKUP um
+END
+INSERT aCafUY number
+INSERT r number
+LOOKUP r
+BEGIN
+END
+INSERT gHemQ_ string
+INSERT c number
+INSERT xXbr number
+INSERT iwhOT string
+INSERT sNgi string
+END
+INSERT j number
+INSERT ifL5C string
+END
+RPRINT

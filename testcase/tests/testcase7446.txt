@@ -1,0 +1,37 @@
+INSERT vcgNy string
+INSERT u string
+INSERT n3eR number
+INSERT isaKav string
+INSERT oJhgp string
+PRINT
+INSERT dW string
+RPRINT
+LOOKUP vcgNy
+INSERT p number
+INSERT w9QS5V string
+INSERT bxBOZ3 number
+INSERT v number
+BEGIN
+INSERT p9gnOj number
+INSERT ule number
+INSERT ku number
+INSERT ghzP string
+INSERT i string
+INSERT nOA string
+INSERT sVbZtU string
+INSERT h_W string
+INSERT s number
+INSERT nrrP number
+END
+INSERT oiaGdF number
+INSERT sWzJ5 string
+INSERT nDNOp_ string
+RPRINT
+RPRINT
+INSERT kGQTO0 string
+INSERT x number
+INSERT dsk1q string
+INSERT yuP string
+INSERT ft number
+INSERT s5Wz string
+INSERT fyNqvA number

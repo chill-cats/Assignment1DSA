@@ -1,0 +1,32 @@
+LOOKUP ew
+INSERT u number
+RPRINT
+LOOKUP gvawqp
+INSERT asa number
+RPRINT
+INSERT jr6M1_ number
+d mVvu
+INSERT j string
+RPRINT
+INSERT nB number
+BEGIN
+INSERT dMLLhw string
+PRINT
+INSERT qVwoD string
+INSERT c9V5 number
+INSERT s7ri string
+INSERT t string
+INSERT lHlr9 number
+PRINT
+INSERT bjw number
+INSERT rAt5 string
+ASSIGN nB asa
+INSERT dkQ string
+BEGIN
+INSERT i5BC number
+INSERT wo string
+INSERT oYG number
+END
+ASSIGN c9V5 dMLLhw
+INSERT poK string
+BEGIN

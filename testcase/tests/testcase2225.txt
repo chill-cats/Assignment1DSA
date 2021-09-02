@@ -1,0 +1,21 @@
+INSERT w1UC string
+INSERT fI number
+INSERT ypQP number
+INSERT srQ string
+END
+INSERT m0 string
+INSERT mPR number
+INSERT wF string
+INSERT var number
+INSERT tT number
+INSERT dmy string
+INSERT ph string
+ASSIGN ph 'a'
+INSERT jJe string
+INSERT xj number
+END
+INSERT b6w42 string
+INSERT llq number
+BEGIN
+PRINT
+INSERT fV8 string

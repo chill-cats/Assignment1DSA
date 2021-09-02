@@ -1,0 +1,35 @@
+INSERT ds string
+INSERT u number
+LOOKUP ds
+INSERT wo number
+RPRINT
+INSERT n9D string
+INSERT h3oZ string
+RPRINT
+INSERT yhq number
+INSERT kf string
+INSERT i string
+INSERT n number
+RPRINT
+INSERT g1Tc string
+INSERT p number
+INSERT cIIZ8 number
+LOOKUP kf
+xc ihj
+BEGIN
+INSERT wa_lz string
+INSERT n4Zc number
+INSERT pB number
+INSERT ybp string
+INSERT go number
+INSERT fzC4y number
+INSERT q5GzN string
+INSERT ohw string
+INSERT wTROyg number
+PRINT
+INSERT k1 number
+INSERT aebbF number
+ASSIGN pB 648
+INSERT bkyDsX string
+INSERT c4Fh string
+INSERT bvtUN string

@@ -1,0 +1,10 @@
+INSERT w_1hw number
+INSERT iU number
+LOOKUP iU
+ASSIGN iU w_1hw
+INSERT nXp4 string
+END
+END
+INSERT fg5 number
+do fNqn
+BEGIN

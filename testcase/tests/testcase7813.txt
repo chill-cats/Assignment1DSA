@@ -1,0 +1,32 @@
+INSERT kP_t number
+INSERT h string
+LOOKUP h
+INSERT hCLc string
+INSERT hivT string
+BEGIN
+INSERT gq3 number
+BEGIN
+w zYyRk
+RPRINT
+END
+END
+INSERT w number
+INSERT qEf number
+BEGIN
+INSERT fZY number
+BEGIN
+RPRINT
+INSERT yY number
+RPRINT
+LOOKUP kP_t
+ASSIGN hCLc 'HvHZU'
+INSERT kOiy number
+LOOKUP h
+PRINT
+INSERT uZmm number
+INSERT tU number
+LOOKUP tU
+w w
+PRINT
+INSERT xxm number
+PRINT

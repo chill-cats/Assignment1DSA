@@ -1,0 +1,19 @@
+INSERT mjn string
+ASSIGN mjn mjn
+INSERT uOEM4A string
+PRINT
+INSERT mpb number
+INSERT nm2WQR number
+INSERT oV number
+END
+INSERT xut string
+INSERT c string
+INSERT rdeRV string
+INSERT ldQMCL number
+BEGIN
+INSERT of_zzZ string
+INSERT o2_8n number
+INSERT ktXTye number
+LOOKUP nm2WQR
+INSERT ny number
+BEGIN

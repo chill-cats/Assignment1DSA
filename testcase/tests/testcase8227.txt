@@ -1,0 +1,20 @@
+BEGIN
+INSERT q number
+INSERT oK string
+INSERT efDVJW number
+INSERT oA string
+INSERT sar3C string
+BEGIN
+INSERT p string
+INSERT r number
+INSERT gC string
+ASSIGN gC q
+INSERT pEHq number
+INSERT z string
+INSERT la string
+INSERT xhbBQC number
+INSERT v string
+INSERT x number
+INSERT kK number
+INSERT g number
+BEGIN

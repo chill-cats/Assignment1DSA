@@ -1,0 +1,28 @@
+INSERT gh number
+INSERT vovOjz number
+LOOKUP gh
+INSERT k number
+BEGIN
+cljpy amuaG
+INSERT x_Mbq3 number
+INSERT vV7 string
+ASSIGN vV7 vovOjz
+LOOKUP vovOjz
+INSERT jK string
+INSERT dPXHl number
+INSERT uzsi number
+INSERT fjF number
+RPRINT
+LOOKUP vovOjz
+INSERT qq number
+u h2C
+PRINT
+INSERT nzE number
+INSERT h8 string
+BEGIN
+INSERT jZs string
+INSERT i string
+ASSIGN h8 285
+ASSIGN dPXHl 'pbICx'
+ASSIGN fjF 112
+INSERT in59O1 string

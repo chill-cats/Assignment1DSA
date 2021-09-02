@@ -1,0 +1,7 @@
+INSERT rCCk number
+INSERT t7Q string
+END
+INSERT pxtc string
+LOOKUP pxtc
+INSERT ok7 string
+INSERT y2Gv string

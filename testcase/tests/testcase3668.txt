@@ -1,0 +1,21 @@
+BEGIN
+INSERT v string
+INSERT ksuFQ number
+ASSIGN ksuFQ 'Cp7'
+BEGIN
+INSERT y4i number
+INSERT g0 number
+INSERT wfEB number
+INSERT r number
+INSERT st0 string
+INSERT ucZJ number
+INSERT rPqj5 number
+INSERT j number
+INSERT gdCo number
+BEGIN
+INSERT hAM0 number
+INSERT f string
+BEGIN
+rHYPxZ s
+INSERT f8 number
+PRINT

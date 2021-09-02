@@ -1,0 +1,8 @@
+INSERT mhq3V string
+INSERT yC number
+INSERT vY number
+INSERT u7nL_t string
+ASSIGN u7nL_t 'y'
+INSERT m7p number
+INSERT sP number
+INSERT uVYuX string

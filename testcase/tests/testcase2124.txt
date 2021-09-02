@@ -1,0 +1,11 @@
+INSERT hNzLMW string
+INSERT piVo3 number
+INSERT dldErB string
+RPRINT
+INSERT uXoX_f number
+INSERT rBJPUo number
+RPRINT
+BEGIN
+RPRINT
+END
+PRINT

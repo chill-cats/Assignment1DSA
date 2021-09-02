@@ -1,0 +1,6 @@
+INSERT cBDU string
+RPRINT
+INSERT ej number
+INSERT rE number
+INSERT mc string
+PRINT

@@ -1,0 +1,5 @@
+zN w
+INSERT cS8NwX string
+PRINT
+INSERT t number
+INSERT n6 number

@@ -1,0 +1,8 @@
+INSERT cikJ number
+INSERT r4g string
+BEGIN
+m27P hUEu
+INSERT phXg string
+RPRINT
+INSERT bRh number
+ASSIGN r4g bRh

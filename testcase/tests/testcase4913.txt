@@ -1,0 +1,30 @@
+INSERT vM_4 string
+INSERT r number
+END
+INSERT vl string
+INSERT r2i1 string
+END
+RPRINT
+INSERT f9uKZ string
+xs3yG fW
+INSERT uzVro3 string
+INSERT nXD string
+END
+RPRINT
+jdYNK axzX
+BEGIN
+BEGIN
+INSERT ow25 number
+LOOKUP r
+PRINT
+INSERT zeY string
+BEGIN
+BEGIN
+INSERT xjUD string
+PRINT
+END
+INSERT f number
+PRINT
+RPRINT
+INSERT o1sey string
+INSERT taQP string

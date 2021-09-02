@@ -1,0 +1,40 @@
+INSERT heSN string
+INSERT gb4G number
+RPRINT
+LOOKUP heSN
+BEGIN
+yhk4 bDq
+END
+INSERT oK number
+INSERT m number
+RPRINT
+INSERT k9GW string
+END
+INSERT lF41t string
+ASSIGN heSN ' SX'
+END
+INSERT t number
+INSERT iiSs9 string
+INSERT o5 number
+INSERT wbnml string
+RPRINT
+INSERT s number
+INSERT dNhupi string
+INSERT sRbAU6 string
+LOOKUP oK
+INSERT zrsQ number
+INSERT uthxx number
+INSERT qUoPb string
+LOOKUP t
+p d
+END
+INSERT qdTzW string
+INSERT h3XGw string
+INSERT fy string
+RPRINT
+INSERT rbCfbc number
+INSERT akn string
+INSERT hxz8df number
+INSERT iPL string
+INSERT wzY string
+PRINT

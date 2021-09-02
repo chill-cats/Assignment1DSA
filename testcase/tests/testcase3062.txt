@@ -1,0 +1,10 @@
+BEGIN
+INSERT om7QY string
+INSERT pQc7_l number
+INSERT fyMkLz string
+INSERT hnKop number
+INSERT gh1pnO string
+INSERT qgm06 string
+INSERT xfceG7 number
+INSERT hxQ number
+ASSIGN fyMkLz om7QY

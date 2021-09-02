@@ -1,0 +1,13 @@
+INSERT pcO84g number
+END
+ASSIGN pcO84g pcO84g
+INSERT qbIC string
+INSERT xR string
+INSERT nu string
+PRINT
+INSERT c number
+ASSIGN xR qbIC
+bPUN rT9y
+RPRINT
+PRINT
+INSERT rOpcy number

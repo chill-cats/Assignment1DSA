@@ -1,0 +1,20 @@
+INSERT goZq string
+INSERT tv string
+INSERT xA number
+INSERT lQ number
+BEGIN
+ASSIGN xA xA
+RPRINT
+RPRINT
+INSERT eK7 number
+INSERT kUZgGM number
+INSERT obt string
+INSERT iPj string
+RPRINT
+BEGIN
+INSERT iYwH number
+RPRINT
+LOOKUP eK7
+INSERT eIhoM string
+INSERT ndB number
+RPRINT

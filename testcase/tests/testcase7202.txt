@@ -1,0 +1,34 @@
+BEGIN
+LOOKUP mXsab
+LOOKUP y
+INSERT r number
+BEGIN
+BEGIN
+LOOKUP r
+INSERT g52s number
+INSERT kV number
+INSERT t string
+PRINT
+INSERT zFtxdG number
+PRINT
+INSERT am2rO string
+INSERT x number
+INSERT xXxvXC number
+END
+INSERT abp string
+RPRINT
+INSERT zzt number
+INSERT vp number
+INSERT yY number
+INSERT x_Gh8 string
+END
+PRINT
+END
+INSERT rF string
+INSERT c number
+INSERT qUIHTu string
+INSERT dYcp string
+INSERT ilSXLc string
+BEGIN
+BEGIN
+END

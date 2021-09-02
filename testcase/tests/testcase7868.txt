@@ -1,0 +1,36 @@
+INSERT ivnN string
+INSERT bHmE string
+ASSIGN ivnN bHmE
+INSERT y number
+INSERT qT0 number
+BEGIN
+INSERT iD_ string
+INSERT bl number
+INSERT vpMh number
+INSERT dvAS string
+INSERT mnYK string
+INSERT ncOIu string
+LOOKUP iD_
+INSERT jhDb number
+INSERT n_UEH string
+PRINT
+BEGIN
+BEGIN
+PRINT
+PRINT
+INSERT qHyXAj string
+INSERT z number
+hPT kU6EmV
+INSERT fAD number
+INSERT wkm number
+INSERT eR string
+INSERT fT number
+INSERT tk string
+BEGIN
+INSERT ikOqW number
+PRINT
+BEGIN
+INSERT vRC4 number
+INSERT dsVpj string
+LOOKUP eR
+INSERT xGsN string

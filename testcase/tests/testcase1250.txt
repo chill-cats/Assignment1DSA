@@ -1,0 +1,39 @@
+ASSIGN pnZl '1mSi'
+INSERT wM_ string
+INSERT mh4 number
+INSERT hZ string
+INSERT eH9sX number
+RPRINT
+INSERT dLV string
+INSERT rmQuq string
+INSERT xmS string
+BEGIN
+INSERT fRSl number
+END
+INSERT vK number
+RPRINT
+INSERT uQ number
+INSERT l number
+PRINT
+INSERT o string
+END
+INSERT cNtL string
+INSERT fhq number
+INSERT oWm string
+INSERT t number
+ASSIGN xmS 750
+INSERT tX4 string
+RPRINT
+LOOKUP mh4
+INSERT pX51b string
+RPRINT
+ccX fe1
+INSERT epPmC string
+INSERT dDYwd string
+ASSIGN epPmC 1077
+END
+INSERT b number
+eJBPX t8js
+INSERT wVRt number
+INSERT eC1 string
+END

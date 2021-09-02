@@ -1,0 +1,14 @@
+INSERT n0zLo9 number
+INSERT x string
+INSERT nMHYB string
+aDk lFyLw
+RPRINT
+LOOKUP nMHYB
+INSERT tOLdzV number
+INSERT ygbVcz string
+INSERT uu7se number
+INSERT opieXp number
+RPRINT
+ASSIGN uu7se 782
+INSERT tk0 string
+INSERT hQ string

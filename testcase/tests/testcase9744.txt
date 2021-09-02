@@ -1,0 +1,37 @@
+INSERT q5UJX string
+INSERT d number
+INSERT p5 number
+INSERT a3 number
+INSERT zYgZef string
+ASSIGN q5UJX 'r'
+ASSIGN p5 a3
+INSERT a string
+INSERT i number
+INSERT iqkQ string
+INSERT e number
+END
+INSERT fW string
+PRINT
+PRINT
+PRINT
+LOOKUP fW
+INSERT dNDz9 string
+INSERT azyM string
+INSERT ykFDy number
+INSERT drK0Cc number
+INSERT b string
+ASSIGN d 681
+INSERT ozc1E string
+INSERT s string
+INSERT izDj6 string
+INSERT k2 number
+INSERT o0Wyl number
+PRINT
+jHj iO_e
+PRINT
+INSERT qM string
+BEGIN
+BEGIN
+BEGIN
+LOOKUP s
+PRINT

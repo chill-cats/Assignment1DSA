@@ -1,0 +1,9 @@
+INSERT wnOi2 number
+ASSIGN wnOi2 256
+INSERT fQSuL string
+END
+INSERT v42Iz string
+PRINT
+INSERT v string
+INSERT u_7apg number
+PRINT

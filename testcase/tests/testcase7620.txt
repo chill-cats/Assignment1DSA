@@ -1,0 +1,11 @@
+INSERT o string
+INSERT akc_ string
+ASSIGN o 33
+INSERT oVyx string
+BEGIN
+INSERT s string
+INSERT o number
+INSERT e number
+RPRINT
+INSERT i2FG number
+INSERT oH6lyk string

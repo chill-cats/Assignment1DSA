@@ -1,0 +1,20 @@
+ASSIGN sSP7sL 'EBt2'
+INSERT pM8 number
+INSERT n74 string
+INSERT hW_ string
+INSERT o number
+INSERT nF7 string
+INSERT fN number
+BEGIN
+INSERT p string
+PRINT
+RPRINT
+ASSIGN p 570
+INSERT kmwYQ number
+INSERT saPgia string
+INSERT iZ8Zc string
+INSERT hkaM number
+INSERT zCZ string
+INSERT iMU number
+INSERT aoEd string
+INSERT yHk string

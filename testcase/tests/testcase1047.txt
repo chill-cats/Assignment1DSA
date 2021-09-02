@@ -1,0 +1,16 @@
+INSERT fslaK string
+END
+INSERT c number
+INSERT rAz6fT number
+INSERT jcmBbr number
+INSERT xgv string
+INSERT ql string
+LOOKUP rAz6fT
+END
+INSERT s9Z number
+LOOKUP c
+INSERT aiB_Fm string
+INSERT xP0W string
+END
+INSERT qQV string
+ASSIGN rAz6fT 'H'

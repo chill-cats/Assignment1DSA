@@ -1,0 +1,21 @@
+PRINT
+ASSIGN yIQf9 'SGEAr'
+INSERT pgt number
+INSERT x number
+LOOKUP x
+INSERT bGhefR string
+INSERT a string
+INSERT v3AnBF number
+BEGIN
+LOOKUP a
+INSERT e8BP string
+LOOKUP v3AnBF
+qi rt
+INSERT uB126n string
+PRINT
+INSERT ul string
+BEGIN
+ASSIGN pgt 881
+INSERT n number
+PRINT
+INSERT mBom number

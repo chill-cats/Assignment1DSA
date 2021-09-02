@@ -1,0 +1,13 @@
+INSERT v7j string
+INSERT wTOV number
+ASSIGN v7j 'o'
+RPRINT
+INSERT m10cH number
+ASSIGN m10cH 'w8'
+INSERT orPQnE string
+PRINT
+INSERT anC string
+INSERT h string
+ASSIGN anC 'ciM'
+INSERT jN string
+INSERT f string

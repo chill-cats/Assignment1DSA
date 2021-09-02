@@ -1,0 +1,11 @@
+ASSIGN rfx 1129
+LOOKUP jP
+INSERT mHK number
+LOOKUP mHK
+PRINT
+INSERT c number
+INSERT q number
+LOOKUP mHK
+INSERT qE number
+LOOKUP qE
+END

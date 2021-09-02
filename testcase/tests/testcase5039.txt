@@ -1,0 +1,14 @@
+INSERT d string
+ASSIGN d 'Ml0'
+qhF3 zPVK8
+INSERT xaO7Pe number
+INSERT h_NfB number
+INSERT m3GTX string
+INSERT r0K string
+LOOKUP m3GTX
+INSERT l7k7Wp string
+INSERT yH_ string
+INSERT x string
+INSERT petr number
+INSERT bqYu number
+INSERT l1hzr string

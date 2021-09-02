@@ -1,0 +1,26 @@
+INSERT hk6 number
+INSERT bU string
+INSERT fJ number
+u tL80
+INSERT wgC number
+INSERT djMe number
+mXNy pEwq
+INSERT xLO9G string
+INSERT s string
+END
+RPRINT
+ASSIGN bU s
+ASSIGN s 'ptV'
+LOOKUP xLO9G
+END
+INSERT v string
+INSERT v2 string
+INSERT sY5 number
+INSERT zg_ string
+INSERT nWfd string
+INSERT bi3 string
+ASSIGN xLO9G 130
+END
+INSERT mN5 number
+INSERT llqjy number
+PRINT

@@ -1,0 +1,23 @@
+INSERT ckJ4 number
+END
+INSERT a0DxV3 number
+ASSIGN a0DxV3 a0DxV3
+INSERT k_ number
+INSERT bQ_adO string
+INSERT eg number
+INSERT v5 string
+END
+ASSIGN a0DxV3 758
+INSERT s number
+INSERT y6dxI6 number
+PRINT
+ASSIGN a0DxV3 k_
+RPRINT
+BEGIN
+INSERT e string
+INSERT rZWNt string
+RPRINT
+INSERT s string
+PRINT
+RPRINT
+INSERT z number

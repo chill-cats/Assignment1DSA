@@ -1,0 +1,31 @@
+INSERT bo string
+BEGIN
+INSERT ty number
+RPRINT
+INSERT mdvo string
+INSERT qjSEX number
+LOOKUP mdvo
+BEGIN
+LOOKUP qjSEX
+INSERT iFO string
+INSERT a string
+END
+RPRINT
+INSERT wm1laU number
+INSERT v9 string
+INSERT vYsQ number
+jWdL6 i
+INSERT fF number
+INSERT jhk string
+INSERT tL8Tk number
+END
+INSERT s number
+INSERT k string
+INSERT r3KVTO string
+INSERT cZlw number
+ASSIGN n7 'Mm7U'
+INSERT uratY number
+INSERT e string
+LOOKUP iFO
+INSERT h_C number
+RPRINT

@@ -1,0 +1,38 @@
+INSERT c7 number
+INSERT pf string
+ASSIGN pf c7
+RPRINT
+INSERT mm7W string
+RPRINT
+BEGIN
+LOOKUP c7
+INSERT lPwd number
+LOOKUP mm7W
+INSERT mnyk string
+END
+PRINT
+ASSIGN mm7W mm7W
+ASSIGN mnyk 279
+INSERT c6 string
+INSERT hQc number
+INSERT nWN number
+INSERT x05Q string
+INSERT tobNG number
+INSERT evy number
+INSERT nPhaG number
+PRINT
+INSERT o5DyF number
+PRINT
+INSERT r number
+INSERT lPrZ string
+INSERT lup string
+ASSIGN o5DyF 'Id'
+INSERT z6h1 string
+INSERT aSsuY string
+ASSIGN c7 'C7B0'
+INSERT n string
+INSERT p488k2 string
+INSERT zAJc string
+ASSIGN lPwd 'cDyC'
+INSERT oqj number
+INSERT ik23J string

@@ -1,0 +1,40 @@
+INSERT e1C string
+INSERT y6D string
+INSERT df5 number
+INSERT rjU string
+PRINT
+ASSIGN df5 'aW2Fq'
+INSERT cRdOU number
+INSERT bOv number
+INSERT gXcFQN number
+LOOKUP cRdOU
+INSERT szT string
+LOOKUP y6D
+LOOKUP df5
+INSERT bxVDg string
+RPRINT
+INSERT fl_ number
+PRINT
+INSERT ghr string
+INSERT f1 number
+INSERT u number
+INSERT vy84vZ string
+INSERT a string
+INSERT ki3U number
+INSERT eQ1 number
+LOOKUP ki3U
+INSERT ala number
+INSERT c number
+INSERT jTYDr string
+INSERT kn string
+INSERT bnf string
+INSERT dsLA string
+ASSIGN gJ3bU 'DTkPD'
+INSERT h9 number
+INSERT ixAc0 string
+RPRINT
+RPRINT
+h2b3Z asqX
+END
+PRINT
+INSERT mZ8DNL number

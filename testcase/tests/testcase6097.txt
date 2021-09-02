@@ -1,0 +1,17 @@
+BEGIN
+PRINT
+BEGIN
+INSERT dDv number
+INSERT tPAb1o string
+INSERT i6pG2 string
+INSERT mLs8n string
+INSERT kcV1 number
+INSERT gxSZ8 string
+INSERT tZtb string
+ASSIGN dDv '0LcZP'
+BEGIN
+INSERT fv number
+INSERT w5 string
+RPRINT
+INSERT o number
+INSERT kzu number

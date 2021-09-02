@@ -1,0 +1,24 @@
+LOOKUP zBZs
+INSERT hSoX string
+INSERT xwF string
+INSERT gHC string
+INSERT xaCW number
+LOOKUP gHC
+npbG1l i5
+PRINT
+INSERT p number
+RPRINT
+ASSIGN xaCW 'V'
+INSERT c string
+INSERT xgm string
+INSERT f_pv number
+INSERT hrV string
+INSERT bcLzx number
+LOOKUP xaCW
+INSERT oL number
+END
+INSERT sU string
+INSERT gap string
+ly uftamj
+INSERT b number
+END

@@ -1,0 +1,26 @@
+INSERT pj5 number
+LOOKUP pj5
+INSERT olfrZ string
+INSERT tHa string
+INSERT mV number
+ASSIGN olfrZ 1000
+RPRINT
+INSERT nOZB string
+LOOKUP mV
+RPRINT
+INSERT t number
+INSERT faX1 number
+INSERT d number
+INSERT sMNuyk string
+ASSIGN faX1 'Z'
+RPRINT
+INSERT g string
+INSERT oS number
+INSERT z number
+INSERT xI9 number
+INSERT y6 string
+INSERT s string
+INSERT o string
+INSERT eegkQ number
+ASSIGN t 728
+INSERT g string

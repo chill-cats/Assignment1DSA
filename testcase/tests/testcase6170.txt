@@ -1,0 +1,22 @@
+END
+INSERT k63i string
+END
+INSERT oBmoH number
+RPRINT
+ASSIGN oBmoH 'u6x'
+INSERT luvAa number
+INSERT c string
+nYv1 x_cZ
+PRINT
+INSERT h string
+INSERT pG number
+INSERT mK3B number
+BEGIN
+INSERT y87rwl number
+RPRINT
+LOOKUP k63i
+BEGIN
+INSERT f number
+INSERT bx number
+INSERT n string
+INSERT mLWUb number

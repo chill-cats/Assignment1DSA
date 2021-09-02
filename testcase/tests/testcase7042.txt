@@ -1,0 +1,35 @@
+INSERT kkd string
+INSERT nAm94 number
+INSERT gX31 string
+INSERT eX3D4 number
+ASSIGN eX3D4 773
+BEGIN
+INSERT z string
+LOOKUP z
+INSERT kC string
+INSERT sc4N number
+INSERT bZQdhS string
+INSERT nD number
+INSERT dkEHl string
+ASSIGN eX3D4 ' BMWH'
+INSERT aq number
+INSERT j string
+LOOKUP aq
+INSERT pkM string
+INSERT vu string
+INSERT urqs string
+RPRINT
+INSERT k0uXG number
+INSERT y string
+INSERT h string
+INSERT wjY string
+INSERT r number
+RPRINT
+INSERT aK string
+RPRINT
+qzk3 amKvS
+RPRINT
+INSERT wTeR6 string
+PRINT
+PRINT
+INSERT y5C string

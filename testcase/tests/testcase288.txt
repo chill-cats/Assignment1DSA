@@ -1,0 +1,14 @@
+INSERT bh number
+INSERT wmA number
+INSERT fbCXUw string
+INSERT kG string
+LOOKUP bh
+ASSIGN kG 'ZU 5'
+BEGIN
+INSERT sMYtKc number
+INSERT sFB number
+INSERT wblp number
+INSERT rQR number
+INSERT lMZTa number
+INSERT dXcvmw number
+LOOKUP rQR

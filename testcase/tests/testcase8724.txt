@@ -1,0 +1,30 @@
+ASSIGN cFD 871
+INSERT hj string
+INSERT uS0DV6 number
+RPRINT
+INSERT dqI number
+ASSIGN uS0DV6 214
+END
+END
+INSERT q string
+BEGIN
+INSERT dG string
+INSERT vKU string
+ASSIGN hj ' UdJ'
+uF rtDt
+ASSIGN q 919
+PRINT
+BEGIN
+INSERT k number
+BEGIN
+INSERT u5nua string
+INSERT dR string
+INSERT ehjz number
+INSERT nKbt9 number
+INSERT mcD string
+INSERT c_D number
+LOOKUP uS0DV6
+INSERT whxsE string
+INSERT ky number
+INSERT u string
+ASSIGN uS0DV6 'yj'

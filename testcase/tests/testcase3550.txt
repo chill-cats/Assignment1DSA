@@ -1,0 +1,38 @@
+END
+INSERT tf string
+END
+INSERT gMJSF string
+ASSIGN gMJSF 719
+INSERT gU2 number
+INSERT jz4Gh string
+ASSIGN jz4Gh gMJSF
+BEGIN
+RPRINT
+END
+INSERT xomGI number
+uD6zh7 ixPsG
+INSERT pZ5kj number
+INSERT vZ string
+INSERT pf string
+INSERT zF string
+INSERT kQ string
+wgOl q
+INSERT gIN7 string
+s4h i0R
+INSERT thaW string
+INSERT y73UAp number
+INSERT onDo number
+INSERT b string
+BEGIN
+BEGIN
+INSERT fi7Geg number
+INSERT k string
+INSERT inj string
+RPRINT
+INSERT uLi string
+INSERT sTkoQk string
+INSERT x2Re_ string
+INSERT dU string
+PRINT
+INSERT b8tj string
+INSERT fQo number

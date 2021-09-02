@@ -1,0 +1,15 @@
+INSERT cvxm string
+BEGIN
+INSERT aMV number
+LOOKUP cvxm
+INSERT adcuC string
+INSERT znM number
+INSERT qVMiym number
+INSERT khkf string
+INSERT t7eH number
+INSERT ySpe string
+INSERT qEL number
+INSERT lfwo string
+INSERT hqNzN number
+INSERT qnLev string
+INSERT tSIIz string

@@ -1,0 +1,23 @@
+INSERT xeGr number
+INSERT vP number
+INSERT wEsAlc string
+INSERT laA1 string
+LOOKUP laA1
+BEGIN
+PRINT
+l n_YB
+INSERT tQxYC string
+INSERT crl number
+PRINT
+END
+INSERT k string
+PRINT
+BEGIN
+INSERT i string
+INSERT gGc string
+INSERT ddF0q string
+LOOKUP xeGr
+END
+INSERT e6Lp number
+RPRINT
+PRINT

@@ -1,0 +1,7 @@
+INSERT zG_z number
+ASSIGN zG_z 558
+END
+INSERT uY string
+PRINT
+INSERT oU5rS number
+RPRINT

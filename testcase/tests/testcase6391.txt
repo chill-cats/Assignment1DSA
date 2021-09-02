@@ -1,0 +1,39 @@
+ASSIGN x0VX0 624
+RPRINT
+INSERT zjQ4 number
+INSERT dNkB0 string
+INSERT btEfLt number
+INSERT s9RC string
+INSERT qGYW number
+INSERT f6gq3J string
+rgkavN cz0B
+PRINT
+INSERT gLG string
+INSERT d8q string
+INSERT oXBT string
+INSERT w string
+INSERT lIrNC string
+LOOKUP btEfLt
+INSERT ymqP3L string
+INSERT x string
+INSERT z29 number
+INSERT w5EZ string
+INSERT u3 number
+INSERT s number
+INSERT k5E number
+RPRINT
+INSERT l number
+jeCExb hC
+BEGIN
+END
+END
+RPRINT
+INSERT xx number
+INSERT v string
+INSERT boe number
+BEGIN
+END
+INSERT aa5ko_ number
+c1 ji
+ASSIGN l w5EZ
+INSERT l9 string

@@ -1,0 +1,13 @@
+INSERT nDM0 number
+INSERT nI string
+INSERT h number
+ASSIGN nI 584
+INSERT wUWugh number
+INSERT q9WGoP number
+INSERT ic3dk number
+INSERT mDGG2S string
+INSERT l string
+END
+END
+END
+END

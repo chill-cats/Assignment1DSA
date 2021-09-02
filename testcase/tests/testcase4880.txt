@@ -1,0 +1,25 @@
+INSERT e2E string
+INSERT dQCHg string
+LOOKUP e2E
+LOOKUP e2E
+INSERT ams number
+INSERT mMY number
+ASSIGN dQCHg 812
+PRINT
+LOOKUP mMY
+ASSIGN ams 'qCtq'
+INSERT o number
+INSERT rPeDYP number
+INSERT iE11 string
+RPRINT
+INSERT bnKg9P string
+BEGIN
+RPRINT
+INSERT y3Q string
+INSERT gffUJJ number
+ASSIGN iE11 'VTJps'
+LOOKUP y3Q
+END
+INSERT uclI1 string
+LOOKUP o
+INSERT sU number

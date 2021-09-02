@@ -1,0 +1,19 @@
+INSERT t string
+RPRINT
+INSERT b string
+INSERT l number
+INSERT n string
+INSERT h string
+INSERT wDl8A number
+INSERT wKg6Q string
+INSERT g string
+LOOKUP b
+INSERT p number
+LOOKUP g
+INSERT gHAJY number
+END
+INSERT g1S string
+INSERT gR string
+INSERT k5O0c number
+ASSIGN gR b
+INSERT b5g string

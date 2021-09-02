@@ -1,0 +1,8 @@
+END
+INSERT wRIMdi number
+ASSIGN wRIMdi wRIMdi
+INSERT vo number
+END
+RPRINT
+INSERT uKT1y number
+BEGIN

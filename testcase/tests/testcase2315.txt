@@ -1,0 +1,18 @@
+LOOKUP lMnup
+ASSIGN t 'C'
+INSERT xP string
+BEGIN
+INSERT h string
+LOOKUP rl
+RPRINT
+INSERT hcU number
+RPRINT
+INSERT tM string
+INSERT za2r string
+END
+INSERT yR string
+END
+INSERT lndtrT number
+INSERT t6I4g number
+INSERT rxmPeQ number
+INSERT vg string

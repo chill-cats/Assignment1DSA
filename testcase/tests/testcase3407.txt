@@ -1,0 +1,36 @@
+RPRINT
+INSERT g3 string
+INSERT d8 string
+INSERT s_rP5 string
+ASSIGN g3 d8
+chmuY1 aH9
+INSERT r string
+INSERT oH string
+BEGIN
+INSERT r string
+RPRINT
+INSERT x string
+INSERT p7zo number
+BEGIN
+INSERT xh number
+LOOKUP zpFnoY
+INSERT yIXW number
+INSERT piKcb string
+INSERT jxu7 number
+INSERT gcR string
+INSERT eqlju number
+INSERT o number
+ASSIGN jxu7 p7zo
+INSERT pVq string
+END
+INSERT q7d string
+RPRINT
+INSERT db string
+BEGIN
+INSERT r string
+INSERT ce number
+INSERT utr string
+INSERT eSIG number
+INSERT oInbZ number
+INSERT g3f number
+INSERT b string

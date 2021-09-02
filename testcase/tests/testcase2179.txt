@@ -1,0 +1,29 @@
+INSERT ubSr string
+RPRINT
+INSERT ehSsf number
+INSERT t number
+INSERT kN number
+INSERT hvf string
+INSERT g_4ZlM number
+INSERT rq number
+INSERT wOte string
+INSERT sx6p number
+INSERT b2b4t string
+PRINT
+BEGIN
+ASSIGN g_4ZlM 819
+INSERT qtj number
+INSERT vZmKjK string
+INSERT sB5iJR number
+ASSIGN ubSr sx6p
+INSERT wkK number
+INSERT evww string
+INSERT k number
+INSERT v string
+INSERT w string
+INSERT z number
+INSERT x4W8Aa number
+RPRINT
+INSERT fdcAv9 string
+INSERT hB number
+INSERT gedV string

@@ -1,0 +1,32 @@
+RPRINT
+BEGIN
+INSERT f6 number
+INSERT hYE number
+INSERT hD3 number
+RPRINT
+INSERT u string
+INSERT wgx string
+INSERT cY18o string
+INSERT lP string
+INSERT rAhLR string
+nnW2E d
+INSERT zqm string
+INSERT x string
+ASSIGN u 5
+BEGIN
+INSERT pf string
+RPRINT
+INSERT m number
+INSERT xW string
+INSERT ah8aWN number
+INSERT tS string
+INSERT s number
+INSERT auc number
+PRINT
+INSERT g number
+INSERT yD number
+ASSIGN wgx 338
+BEGIN
+LOOKUP yD
+INSERT n number
+INSERT mBIoaX string

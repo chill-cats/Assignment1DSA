@@ -1,0 +1,26 @@
+BEGIN
+INSERT kG number
+RPRINT
+ASSIGN kG 'W5'
+INSERT zSTwZ string
+INSERT au string
+INSERT h number
+INSERT x_ok number
+BEGIN
+END
+INSERT y2nB24 string
+BEGIN
+INSERT wP string
+INSERT o string
+INSERT xjw number
+ASSIGN h '4'
+BEGIN
+PRINT
+RPRINT
+e eo
+INSERT ec string
+END
+RPRINT
+INSERT pxGPl7 string
+INSERT bFkd string
+RPRINT

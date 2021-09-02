@@ -1,0 +1,32 @@
+ikRIaC u
+INSERT cG string
+INSERT ir1tR string
+RPRINT
+RPRINT
+END
+INSERT lUB79 number
+RPRINT
+RPRINT
+INSERT pUkT string
+RPRINT
+INSERT kAoV7 string
+INSERT vT string
+INSERT mesP_ number
+ASSIGN vT vT
+ASSIGN kAoV7 1115
+lutEZy wrEo
+INSERT i1Ex number
+INSERT sVl number
+INSERT vM5 string
+INSERT eBm number
+PRINT
+INSERT g6_ string
+INSERT mi string
+ASSIGN lUB79 sVl
+INSERT hH number
+INSERT nM2vF string
+LOOKUP kAoV7
+RPRINT
+INSERT kd0CcR string
+INSERT ygZj number
+BEGIN

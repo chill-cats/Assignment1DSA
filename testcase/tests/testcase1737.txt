@@ -1,0 +1,14 @@
+INSERT yMbr string
+INSERT uQ string
+INSERT lnL4 string
+RPRINT
+PRINT
+INSERT r number
+END
+INSERT y number
+INSERT di number
+PRINT
+RPRINT
+INSERT qxRh string
+LOOKUP lnL4
+INSERT zI0Nh string

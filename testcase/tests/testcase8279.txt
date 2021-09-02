@@ -1,0 +1,6 @@
+ASSIGN p 'Ch'
+LOOKUP emM9mR
+INSERT i_ number
+INSERT iMY string
+ASSIGN i_ 309
+nx ar

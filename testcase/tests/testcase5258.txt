@@ -1,0 +1,30 @@
+INSERT h number
+INSERT iby5xS number
+INSERT eJHBXs string
+BEGIN
+INSERT yksT string
+PRINT
+INSERT t number
+INSERT wr_zx string
+INSERT opwHw_ number
+INSERT j9 string
+INSERT zdtt number
+ASSIGN eJHBXs 496
+INSERT vrAn7 string
+INSERT vIKq number
+ASSIGN eJHBXs 'XwnM7'
+INSERT j number
+BEGIN
+PRINT
+INSERT wcl number
+LOOKUP j9
+INSERT jY string
+INSERT siSP string
+INSERT re9oA number
+INSERT gdkA5 number
+INSERT u_qO number
+PRINT
+INSERT s string
+INSERT fRKKk string
+RPRINT
+BEGIN

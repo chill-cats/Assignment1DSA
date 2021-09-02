@@ -1,0 +1,31 @@
+INSERT zO string
+INSERT oSJndr number
+INSERT ckHHW number
+INSERT t4RPW number
+RPRINT
+END
+INSERT mBg2f8 string
+INSERT f1GwG number
+ASSIGN mBg2f8 'hU'
+INSERT q number
+INSERT xz string
+INSERT cYU6 string
+ASSIGN mBg2f8 551
+END
+INSERT rU number
+PRINT
+INSERT f string
+INSERT bvQF number
+ASSIGN ckHHW mBg2f8
+RPRINT
+LOOKUP f1GwG
+t s
+INSERT hfe number
+INSERT bh number
+INSERT yaHJK number
+mbn3p jy2
+INSERT p number
+INSERT kSN4ji number
+ASSIGN mBg2f8 'SOydp'
+END
+BEGIN

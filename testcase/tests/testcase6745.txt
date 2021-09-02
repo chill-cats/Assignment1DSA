@@ -1,0 +1,5 @@
+RPRINT
+PRINT
+PRINT
+INSERT t string
+x8C osP

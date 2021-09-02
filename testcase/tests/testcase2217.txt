@@ -1,0 +1,36 @@
+INSERT cI string
+RPRINT
+ASSIGN cI 'iw'
+INSERT zZG1C string
+INSERT rLo number
+INSERT n0n string
+INSERT eIIOvs number
+INSERT g5vzL string
+END
+INSERT mme number
+ASSIGN zZG1C 'GLR'
+INSERT q7ay53 string
+INSERT s0O number
+INSERT tqamA number
+INSERT zKaSjm number
+ASSIGN cI n0n
+INSERT hus3 number
+INSERT a number
+LOOKUP hus3
+INSERT x number
+INSERT q number
+RPRINT
+INSERT xiTm number
+PRINT
+ASSIGN hus3 q7ay53
+eM ltrYk
+PRINT
+INSERT u number
+INSERT tLJK_ string
+LOOKUP eIIOvs
+INSERT h number
+INSERT fMS string
+LOOKUP n0n
+INSERT p2VZbi string
+INSERT s003 string
+INSERT lTZ5 string

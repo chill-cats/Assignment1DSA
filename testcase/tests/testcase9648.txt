@@ -1,0 +1,13 @@
+RPRINT
+INSERT n string
+INSERT t0 number
+LOOKUP n
+INSERT swafG number
+ASSIGN t0 swafG
+PRINT
+INSERT bPr string
+RPRINT
+INSERT e6 number
+noI gsyc
+INSERT kFgZ number
+PRINT

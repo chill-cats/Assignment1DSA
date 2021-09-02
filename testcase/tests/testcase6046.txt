@@ -1,0 +1,32 @@
+INSERT rSP5 number
+INSERT iFO string
+s csy0
+LOOKUP iFO
+gm j
+INSERT nt string
+INSERT adIP2 string
+INSERT s number
+INSERT lyUX number
+END
+INSERT qDBpDz string
+INSERT is number
+INSERT v7Pgp number
+jeYqE xc
+INSERT etyX number
+ASSIGN nt 'X'
+INSERT v number
+ASSIGN adIP2 156
+RPRINT
+INSERT f4vH string
+INSERT jNsW3 string
+INSERT kX number
+INSERT m string
+RPRINT
+ASSIGN v7Pgp 'wwFvh'
+INSERT wjiqZH string
+END
+INSERT yih number
+END
+ASSIGN bvcXwy '9bxY'
+END
+ASSIGN lyUX 1015

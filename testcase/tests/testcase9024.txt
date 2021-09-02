@@ -1,0 +1,37 @@
+BEGIN
+ASSIGN mrEB36 'NrA'
+INSERT t0 number
+INSERT fOHUvJ string
+INSERT jeY string
+INSERT zlSc number
+LOOKUP t0
+ASSIGN t0 820
+INSERT d8WM string
+INSERT sF5Vw string
+INSERT d string
+INSERT jgJr3l string
+PRINT
+PRINT
+INSERT cPcR string
+LOOKUP jeY
+INSERT z string
+INSERT eynXE string
+INSERT dkgFC number
+ASSIGN eynXE 991
+INSERT zA_82 number
+BEGIN
+END
+INSERT uhOH string
+END
+ASSIGN t0 '7aAs'
+INSERT cV6O number
+INSERT b string
+ASSIGN jeY 1001
+INSERT v5oU number
+PRINT
+INSERT a0 string
+INSERT lQjn string
+BEGIN
+END
+ASSIGN v5oU sF5Vw
+i ypt

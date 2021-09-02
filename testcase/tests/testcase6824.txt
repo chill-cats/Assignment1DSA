@@ -1,0 +1,25 @@
+INSERT xp03 string
+INSERT zJt3C number
+INSERT avK number
+PRINT
+INSERT gPnOu4 string
+INSERT bU6Mwl number
+INSERT rCz string
+INSERT csr9ME number
+LOOKUP avK
+INSERT pze_VY number
+LOOKUP bU6Mwl
+INSERT dZXKp string
+LOOKUP xp03
+RPRINT
+INSERT sU number
+INSERT aYaE5Z number
+END
+INSERT xu5AnD number
+RPRINT
+PRINT
+LOOKUP xp03
+INSERT jCKlH number
+ASSIGN sU 288
+END
+INSERT yZ number

@@ -1,0 +1,32 @@
+INSERT zuc3 string
+PRINT
+LOOKUP zuc3
+END
+ASSIGN zuc3 636
+END
+INSERT w0N0_5 string
+ASSIGN w0N0_5 zuc3
+INSERT hu number
+LOOKUP zuc3
+END
+lvJ vKon
+INSERT z8QKka string
+fM5y d
+INSERT i2mvC number
+INSERT sqD number
+INSERT h9 number
+INSERT s number
+j c93
+INSERT yFrpE string
+INSERT nf string
+INSERT wg number
+INSERT r3fOY string
+INSERT pro2F number
+INSERT qmkyGi string
+INSERT xll string
+INSERT tPCdol number
+END
+oUcX nt4
+END
+n_X7 hPphB
+INSERT qdhcd number

@@ -1,0 +1,24 @@
+LOOKUP uknRn
+INSERT w number
+ASSIGN w 1200
+INSERT athuM string
+PRINT
+xP9z zT7p
+INSERT sfL3JF number
+INSERT sF6Iv number
+PRINT
+INSERT g1wwD number
+INSERT veZ8z string
+END
+INSERT bh_kfK string
+INSERT lNBsu number
+LOOKUP w
+ASSIGN lNBsu 'Hv'
+INSERT s string
+LOOKUP sF6Iv
+PRINT
+RPRINT
+BEGIN
+BEGIN
+INSERT vpw8yF number
+ASSIGN sF6Iv 'hh7'

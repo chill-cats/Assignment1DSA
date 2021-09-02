@@ -1,0 +1,11 @@
+g uXr6i
+BEGIN
+INSERT oWMA number
+INSERT i7 string
+INSERT huDVx string
+INSERT wm number
+INSERT sDw number
+INSERT cj number
+INSERT dI number
+ASSIGN dI dI
+RPRINT

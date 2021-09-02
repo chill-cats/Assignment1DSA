@@ -1,0 +1,23 @@
+INSERT k number
+INSERT vdt number
+INSERT dKs number
+ASSIGN dKs vdt
+INSERT ix number
+INSERT jWMCvi string
+ASSIGN ix '5wN'
+INSERT b string
+LOOKUP b
+INSERT zfz4jz number
+INSERT bd string
+INSERT oU string
+PRINT
+PRINT
+LOOKUP dKs
+INSERT s string
+INSERT e number
+BEGIN
+END
+INSERT cyqa number
+INSERT a1 number
+INSERT nzE2qu number
+INSERT agkA number

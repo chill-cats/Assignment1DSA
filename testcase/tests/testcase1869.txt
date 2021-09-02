@@ -1,0 +1,7 @@
+INSERT bossq number
+RPRINT
+RPRINT
+INSERT hQ string
+INSERT u6RlTY number
+INSERT eYe4L number
+ASSIGN u6RlTY '2om'

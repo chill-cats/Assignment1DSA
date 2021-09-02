@@ -1,0 +1,21 @@
+INSERT q number
+INSERT goe2HS number
+INSERT xczUT string
+INSERT d number
+INSERT qIf1SB number
+INSERT gyc3 number
+INSERT avN string
+END
+RPRINT
+PRINT
+LOOKUP xczUT
+RPRINT
+INSERT f2glc number
+ASSIGN goe2HS 393
+INSERT sHRrU number
+INSERT mQF0I string
+gIWVE jKXnO
+BEGIN
+INSERT g number
+ASSIGN avN xczUT
+INSERT i string

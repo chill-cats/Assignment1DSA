@@ -1,0 +1,8 @@
+INSERT dbf0 number
+INSERT k string
+INSERT k4texj number
+PRINT
+END
+INSERT s1r9 number
+hFgwN4 v9
+INSERT noGG string

@@ -1,0 +1,25 @@
+INSERT f number
+INSERT tbvz9 string
+BEGIN
+INSERT mt number
+RPRINT
+PRINT
+INSERT uZG number
+INSERT aDnwz5 string
+LOOKUP o
+LOOKUP f
+INSERT hQZ string
+BEGIN
+INSERT n string
+LOOKUP aDnwz5
+INSERT jG string
+INSERT m string
+INSERT k string
+INSERT a6it string
+INSERT mdH number
+RPRINT
+INSERT xej number
+END
+BEGIN
+INSERT vI_Q number
+INSERT sAAm number

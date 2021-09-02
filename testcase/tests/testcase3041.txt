@@ -1,0 +1,14 @@
+INSERT hpjq_ string
+INSERT yfdx_V number
+LOOKUP hpjq_
+INSERT bHUAwq number
+INSERT dnt5K string
+PRINT
+INSERT xjJoB9 number
+INSERT x_viKD number
+s3 xe
+RPRINT
+INSERT zT string
+BEGIN
+INSERT ijUqPh string
+END

@@ -1,0 +1,10 @@
+INSERT tB string
+INSERT ao95 string
+INSERT jF7B number
+INSERT v number
+INSERT tJJU number
+ASSIGN tJJU 195
+INSERT aGXjV number
+vwr97 h15
+BEGIN
+INSERT vOM8M1 string

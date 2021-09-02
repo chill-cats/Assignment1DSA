@@ -1,0 +1,8 @@
+INSERT qcVa number
+ASSIGN qcVa 'cLGj'
+BEGIN
+LOOKUP qcVa
+INSERT pR string
+RPRINT
+INSERT zq string
+INSERT l number

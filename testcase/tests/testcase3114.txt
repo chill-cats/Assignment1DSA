@@ -1,0 +1,5 @@
+RPRINT
+INSERT fCC_ string
+INSERT eIf string
+ASSIGN eIf 242
+aLR f

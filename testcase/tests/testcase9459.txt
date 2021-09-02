@@ -1,0 +1,18 @@
+END
+ASSIGN fV 'Ob'
+BEGIN
+INSERT p1yL number
+LOOKUP p1yL
+INSERT sovEK5 string
+END
+INSERT tT6ZQy string
+INSERT xq43 string
+END
+INSERT aq string
+INSERT ccf number
+INSERT lgs string
+BEGIN
+INSERT uuQI string
+RPRINT
+INSERT oMNntc string
+RPRINT

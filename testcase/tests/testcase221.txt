@@ -1,0 +1,5 @@
+INSERT idvU number
+INSERT ek number
+INSERT gdIHz number
+INSERT tKPfAH string
+END

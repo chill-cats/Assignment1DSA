@@ -1,0 +1,14 @@
+END
+INSERT toqC9 string
+ASSIGN toqC9 923
+INSERT dtJ string
+END
+INSERT v number
+RPRINT
+INSERT bIz07U number
+ASSIGN toqC9 288
+INSERT gRblkj string
+PRINT
+RPRINT
+INSERT h string
+INSERT y8u7 string

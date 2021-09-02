@@ -1,0 +1,28 @@
+BEGIN
+INSERT u number
+INSERT pocpF string
+INSERT as number
+ASSIGN pocpF 'tEb4w'
+INSERT m5n9rr string
+BEGIN
+INSERT gZhp string
+INSERT r number
+INSERT sbbRA string
+INSERT i string
+LOOKUP gZhp
+BEGIN
+ASSIGN pocpF 440
+INSERT xBu number
+INSERT s number
+INSERT gU number
+INSERT swL string
+INSERT t10i string
+ASSIGN m5n9rr 526
+INSERT oJ number
+LOOKUP oJ
+RPRINT
+INSERT kJVfW number
+INSERT y string
+INSERT fW string
+PRINT
+INSERT zkp number

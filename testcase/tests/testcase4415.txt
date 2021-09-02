@@ -1,0 +1,11 @@
+INSERT g1Vj string
+INSERT rE number
+BEGIN
+INSERT k string
+RPRINT
+INSERT ei string
+INSERT a4 string
+m tTZhNm
+INSERT ve number
+ASSIGN ei 'b'
+INSERT qAY string

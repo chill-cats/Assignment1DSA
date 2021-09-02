@@ -1,0 +1,38 @@
+INSERT p string
+ASSIGN p p
+INSERT vdqf_j string
+INSERT l number
+INSERT rW number
+LOOKUP vdqf_j
+INSERT pODh string
+ua58N nxzr
+RPRINT
+PRINT
+BEGIN
+ASSIGN rW pODh
+INSERT vg5iJ9 string
+INSERT lhwW string
+INSERT x number
+ASSIGN pODh 762
+f x1S
+INSERT k number
+INSERT yE7 string
+INSERT m string
+BEGIN
+ASSIGN rW k
+INSERT fMD string
+INSERT lvJT number
+LOOKUP lhwW
+INSERT il6PMj string
+INSERT u string
+INSERT mgWDiy string
+INSERT hb number
+END
+PRINT
+BEGIN
+INSERT oj0 string
+INSERT g_X8 string
+INSERT f string
+INSERT qn number
+INSERT bZTS string
+LOOKUP il6PMj

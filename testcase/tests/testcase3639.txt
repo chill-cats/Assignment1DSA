@@ -1,0 +1,11 @@
+LOOKUP y
+END
+BEGIN
+INSERT ucC number
+ASSIGN ucC 621
+INSERT h string
+RPRINT
+INSERT xKsZ string
+INSERT tGN number
+END
+wa2q p4B

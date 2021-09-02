@@ -1,0 +1,10 @@
+INSERT yRp7_n string
+INSERT e3c7cR number
+INSERT tV4n number
+ASSIGN tV4n tV4n
+BEGIN
+INSERT byXY9 string
+INSERT n number
+INSERT v string
+INSERT w number
+INSERT i string

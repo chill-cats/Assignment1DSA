@@ -1,0 +1,20 @@
+LOOKUP aF
+INSERT t2M1n string
+INSERT g1KKDd number
+INSERT gb8_Rv string
+INSERT zbhPE number
+INSERT iQOYo number
+INSERT t5Nikl number
+RPRINT
+INSERT vtA3SN string
+INSERT rJh string
+INSERT u number
+INSERT xOuMbi number
+PRINT
+RPRINT
+INSERT dL2 number
+ASSIGN t5Nikl u
+LOOKUP iQOYo
+INSERT c number
+INSERT u string
+RPRINT

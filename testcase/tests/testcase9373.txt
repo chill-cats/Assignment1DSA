@@ -1,0 +1,22 @@
+ASSIGN z2e8 880
+INSERT wy3a string
+INSERT l number
+RPRINT
+INSERT xT string
+INSERT h number
+INSERT ij number
+RPRINT
+PRINT
+INSERT y number
+INSERT o string
+INSERT dMuEU number
+INSERT claD string
+INSERT ti number
+INSERT oB number
+INSERT oks number
+LOOKUP l
+BEGIN
+INSERT agV number
+RPRINT
+LOOKUP y
+INSERT pl string

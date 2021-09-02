@@ -1,0 +1,19 @@
+INSERT nFx0EV number
+ASSIGN nFx0EV nFx0EV
+INSERT m number
+INSERT fa9 string
+BEGIN
+INSERT c number
+RPRINT
+INSERT fHK string
+RPRINT
+INSERT sq8oYM string
+INSERT qu0Q3J string
+BEGIN
+END
+END
+INSERT gT number
+PRINT
+INSERT noYCTt number
+INSERT nwzEJO string
+INSERT wTA string

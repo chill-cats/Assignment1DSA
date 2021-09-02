@@ -1,0 +1,31 @@
+BEGIN
+END
+INSERT sxQHSd string
+INSERT n number
+LOOKUP sxQHSd
+PRINT
+INSERT kWj number
+INSERT ejeNpd number
+INSERT wzc number
+INSERT m number
+ASSIGN m n
+ASSIGN wzc sxQHSd
+INSERT a number
+END
+INSERT p8fm4F string
+INSERT tm number
+INSERT c number
+ASSIGN p8fm4F 468
+RPRINT
+LOOKUP sxQHSd
+INSERT nR5QUd string
+INSERT ax string
+INSERT lE5ZVt number
+END
+INSERT nHT4 string
+INSERT kMslrM number
+ASSIGN wzc tm
+RPRINT
+BEGIN
+INSERT o string
+abuuq p2vS

@@ -1,0 +1,28 @@
+INSERT cnrUU string
+INSERT x_23 string
+ASSIGN cnrUU x_23
+INSERT c2SY string
+BEGIN
+z ogI
+e z2jPq
+PRINT
+INSERT s number
+INSERT w number
+y qr
+INSERT d number
+INSERT s2 number
+iM7SI b
+END
+INSERT kyvzO string
+LOOKUP x_23
+INSERT cfgb53 number
+INSERT aUF8 string
+INSERT ox string
+INSERT vOB string
+ASSIGN cfgb53 341
+INSERT jnZ6 string
+RPRINT
+BEGIN
+nb zyp
+LOOKUP aUF8
+INSERT vS7i string

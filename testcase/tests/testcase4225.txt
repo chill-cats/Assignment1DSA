@@ -1,0 +1,12 @@
+ASSIGN ad 'TIoiQ'
+INSERT a_lupU string
+INSERT g_sR string
+INSERT pxpx number
+INSERT b7bdZb number
+BEGIN
+INSERT jjtAL3 string
+INSERT sc_C string
+PRINT
+LOOKUP a_lupU
+ASSIGN pxpx '2f'
+END

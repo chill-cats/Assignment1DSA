@@ -1,0 +1,23 @@
+INSERT nCauos number
+ASSIGN wDckxi 453
+INSERT wx number
+LOOKUP nCauos
+LOOKUP wx
+ASSIGN nCauos nCauos
+INSERT sw string
+LOOKUP wx
+INSERT a number
+INSERT qW string
+INSERT mjQ8E number
+INSERT aUAr number
+BEGIN
+BEGIN
+RPRINT
+BEGIN
+INSERT ca7Z8b number
+INSERT iN number
+INSERT w string
+LOOKUP nCauos
+INSERT qf number
+INSERT jqmK string
+END

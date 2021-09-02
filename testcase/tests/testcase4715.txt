@@ -1,0 +1,16 @@
+INSERT leAB string
+INSERT y_ncv string
+INSERT itIaJ9 string
+INSERT qx string
+INSERT h0 string
+INSERT t number
+ASSIGN qx y_ncv
+INSERT f string
+INSERT c string
+RPRINT
+LOOKUP qx
+INSERT oFAXM string
+LOOKUP f
+PRINT
+INSERT qq9Yo string
+INSERT eL number

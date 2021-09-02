@@ -1,0 +1,27 @@
+INSERT qi string
+END
+PRINT
+INSERT cngY string
+INSERT oCfx_d string
+INSERT s number
+RPRINT
+LOOKUP s
+ASSIGN oCfx_d 359
+RPRINT
+INSERT kj string
+ASSIGN qi 155
+BEGIN
+RPRINT
+RPRINT
+INSERT r number
+INSERT h0P8 string
+INSERT r string
+q xbV
+INSERT lHKb number
+INSERT l6 string
+INSERT rV number
+INSERT qf24 number
+INSERT niK string
+b gwC
+END
+BEGIN

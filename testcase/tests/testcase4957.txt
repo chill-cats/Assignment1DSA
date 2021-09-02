@@ -1,0 +1,20 @@
+INSERT pRMb string
+INSERT b6 string
+INSERT m4 number
+RPRINT
+q6vhF fBq
+INSERT m string
+INSERT ndbv number
+ASSIGN ndbv 'P'
+INSERT e9X number
+END
+BEGIN
+INSERT i string
+RPRINT
+INSERT lScY number
+INSERT hhL string
+INSERT fPT number
+INSERT i number
+INSERT muoBIh string
+END
+RPRINT

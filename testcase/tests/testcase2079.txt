@@ -1,0 +1,35 @@
+INSERT lyb number
+INSERT wH string
+BEGIN
+PRINT
+INSERT xy number
+ASSIGN xy wH
+BEGIN
+PRINT
+END
+mSftK6 hFkAyf
+INSERT rF number
+BEGIN
+INSERT n1vv string
+RPRINT
+INSERT fkCj number
+INSERT le6n number
+INSERT vxk60 string
+INSERT b number
+INSERT lr84R string
+INSERT afv7 number
+INSERT i number
+PRINT
+ASSIGN vxk60 i
+END
+INSERT l string
+INSERT iIbr string
+INSERT tXa string
+INSERT xBj string
+END
+PRINT
+INSERT cR2 number
+LOOKUP xBj
+END
+INSERT eKfD3 number
+END

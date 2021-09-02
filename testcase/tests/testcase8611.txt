@@ -1,0 +1,29 @@
+RPRINT
+INSERT s005k0 string
+INSERT bCNOx2 string
+INSERT oajbh number
+PRINT
+ASSIGN oajbh oajbh
+RPRINT
+u hwo
+INSERT rNO string
+PRINT
+INSERT ng string
+ASSIGN s005k0 rNO
+INSERT y8 number
+INSERT rIjRY number
+LOOKUP rNO
+INSERT o7d number
+BEGIN
+BEGIN
+INSERT o number
+INSERT q1 number
+INSERT m string
+INSERT l_pJcy number
+ASSIGN l_pJcy 768
+INSERT mVW string
+INSERT mUVC9 number
+INSERT mQ7 number
+INSERT pi string
+BEGIN
+PRINT

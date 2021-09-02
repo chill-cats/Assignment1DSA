@@ -1,0 +1,31 @@
+END
+INSERT dVtE string
+INSERT h number
+END
+RPRINT
+ASSIGN h '6b'
+END
+INSERT ts number
+INSERT u5Sq number
+INSERT d number
+INSERT pIZ5 string
+INSERT hWi6G string
+INSERT r string
+INSERT aX string
+END
+BEGIN
+PRINT
+END
+PRINT
+INSERT ltE8g string
+LOOKUP r
+INSERT m string
+ASSIGN pIZ5 108
+LOOKUP m
+PRINT
+INSERT q7x17 string
+BEGIN
+BEGIN
+INSERT np string
+END
+INSERT vIuZx9 number

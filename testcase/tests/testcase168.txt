@@ -1,0 +1,37 @@
+RPRINT
+INSERT idTr string
+BEGIN
+END
+INSERT x string
+INSERT hg string
+INSERT imD number
+INSERT w number
+INSERT he string
+INSERT tK57Yo string
+INSERT y string
+INSERT ye string
+BEGIN
+INSERT hIn_Bo string
+INSERT uwUf string
+BEGIN
+BEGIN
+INSERT q string
+BEGIN
+INSERT mma0 string
+INSERT o string
+INSERT r number
+RPRINT
+INSERT arnX string
+PRINT
+INSERT v number
+INSERT njjhcX string
+END
+INSERT nqEMhC number
+LOOKUP v
+LOOKUP hg
+PRINT
+INSERT oNc1 number
+INSERT bSE number
+INSERT xNRxP number
+INSERT neR string
+LOOKUP r

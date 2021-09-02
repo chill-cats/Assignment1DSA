@@ -1,0 +1,31 @@
+BEGIN
+INSERT g0 number
+LOOKUP g0
+INSERT ezwPdn number
+PRINT
+RPRINT
+INSERT zYCf8q number
+INSERT noFM9u string
+INSERT h5 number
+INSERT ezXY6P number
+END
+INSERT d number
+INSERT vwJVO number
+INSERT zocV number
+INSERT anFnw string
+ASSIGN g0 vwJVO
+INSERT jFvh number
+LOOKUP noFM9u
+BEGIN
+INSERT y number
+ASSIGN h5 'PkYT'
+BEGIN
+INSERT lsK number
+INSERT kX2vn0 number
+uC9o s
+INSERT fria string
+RPRINT
+INSERT w4E1 string
+INSERT ydTKgx number
+INSERT qN1 string
+RPRINT

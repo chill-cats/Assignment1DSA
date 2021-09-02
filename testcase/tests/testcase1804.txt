@@ -1,0 +1,26 @@
+ibQV jr1WoC
+INSERT sn number
+LOOKUP sn
+RPRINT
+INSERT g number
+INSERT h number
+END
+t2 tbkFQ
+END
+INSERT nc number
+BEGIN
+INSERT l number
+INSERT cL string
+INSERT rt string
+LOOKUP cL
+INSERT s string
+ASSIGN h 'q'
+INSERT sXK string
+INSERT jEb string
+INSERT gN3Fl number
+r yp
+END
+i3 bMUZ
+INSERT vs9 number
+INSERT hhxlwr number
+INSERT za number

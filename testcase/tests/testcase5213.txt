@@ -1,0 +1,39 @@
+INSERT ecYl1 string
+END
+INSERT bL number
+INSERT tv string
+BEGIN
+LOOKUP bL
+INSERT guhIa string
+INSERT oWp8W string
+ASSIGN tv 696
+INSERT xyfbl number
+LOOKUP guhIa
+INSERT rAH string
+INSERT hdtD string
+LOOKUP oWp8W
+INSERT fxsBNp string
+LOOKUP guhIa
+LOOKUP xyfbl
+INSERT m6y string
+INSERT w string
+INSERT kw4C number
+INSERT x string
+INSERT p string
+nBj tU
+INSERT mK number
+INSERT bKK string
+INSERT ams number
+ASSIGN kw4C bKK
+INSERT jRW string
+RPRINT
+INSERT tm8M string
+INSERT zo7e string
+RPRINT
+INSERT c8 string
+RPRINT
+LOOKUP rAH
+INSERT c4 string
+ASSIGN tm8M c4
+INSERT tPQNY number
+PRINT

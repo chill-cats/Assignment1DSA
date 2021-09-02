@@ -1,0 +1,25 @@
+INSERT bZ0 string
+ASSIGN bZ0 1052
+INSERT cKpH6 number
+INSERT gXwdE string
+INSERT sBAPP number
+RPRINT
+INSERT bYH string
+PRINT
+END
+INSERT sb number
+INSERT b5s string
+INSERT zL string
+INSERT x7Zms number
+END
+END
+END
+INSERT c string
+PRINT
+INSERT iEUIt string
+bIWHq oA2
+INSERT br number
+INSERT hl string
+INSERT uqre string
+INSERT bdvW3D number
+RPRINT

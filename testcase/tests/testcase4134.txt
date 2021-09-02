@@ -1,0 +1,20 @@
+BEGIN
+INSERT gEh7D string
+INSERT rC number
+LOOKUP gEh7D
+INSERT pU string
+BEGIN
+END
+INSERT ed number
+INSERT uz string
+RPRINT
+PRINT
+RPRINT
+INSERT yXOH string
+INSERT bJh number
+BEGIN
+PRINT
+RPRINT
+INSERT rU number
+PRINT
+INSERT pxJ number

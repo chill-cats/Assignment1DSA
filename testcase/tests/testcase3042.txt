@@ -1,0 +1,4 @@
+BEGIN
+INSERT qOIQ1 string
+INSERT g number
+RPRINT

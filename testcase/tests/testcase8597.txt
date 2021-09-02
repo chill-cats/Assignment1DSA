@@ -1,0 +1,9 @@
+RPRINT
+INSERT sABk4n string
+ASSIGN sABk4n sABk4n
+INSERT yO number
+INSERT vu string
+RPRINT
+INSERT fCSN4 number
+INSERT nDun string
+xH bzBn

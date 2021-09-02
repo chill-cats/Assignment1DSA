@@ -1,0 +1,15 @@
+INSERT m_qm9 string
+ASSIGN m_qm9 'y'
+LOOKUP m_qm9
+END
+LOOKUP m_qm9
+INSERT whs number
+LOOKUP m_qm9
+INSERT v string
+INSERT kB1f1Q string
+INSERT d string
+INSERT ptFH4 string
+LOOKUP v
+INSERT dstq number
+INSERT lp2 number
+END

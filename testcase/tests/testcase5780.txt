@@ -1,0 +1,32 @@
+INSERT eELG number
+LOOKUP eELG
+INSERT ddNW string
+PRINT
+INSERT koOZ string
+LOOKUP ddNW
+LOOKUP koOZ
+skmrBh pqGpUL
+INSERT oEmn0 string
+LOOKUP oEmn0
+BEGIN
+INSERT v2lorj string
+INSERT u1g number
+INSERT ut8q number
+PRINT
+RPRINT
+PRINT
+PRINT
+ASSIGN eELG 'JXj'
+PRINT
+BEGIN
+INSERT q number
+LOOKUP ut8q
+INSERT lZba9 number
+mG k
+INSERT tqR number
+END
+INSERT y_ number
+ASSIGN koOZ 428
+INSERT lt7 string
+RPRINT
+kRQG n

@@ -1,0 +1,27 @@
+INSERT uyEd string
+INSERT qC5kY string
+INSERT wcEJyf string
+ASSIGN uyEd wcEJyf
+ASSIGN qC5kY 457
+INSERT lqfUhC number
+INSERT u string
+RPRINT
+INSERT vtFeO number
+INSERT b3 string
+INSERT tRLg number
+ASSIGN qC5kY 787
+INSERT obPNL string
+ASSIGN u vtFeO
+INSERT zE number
+INSERT sEFmAF number
+END
+us5 c
+rLZOv vx
+INSERT t number
+s2jQ wb0D
+ASSIGN t uyEd
+INSERT eLam string
+LOOKUP uyEd
+INSERT c2lYMb string
+INSERT md95i string
+PRINT

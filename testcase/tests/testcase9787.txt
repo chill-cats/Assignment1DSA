@@ -1,0 +1,23 @@
+INSERT ocSq string
+RPRINT
+END
+PRINT
+INSERT gW5Cm_ number
+INSERT qMRw5 string
+INSERT lk number
+INSERT tCB number
+INSERT ba2mV number
+LOOKUP lk
+INSERT zjj string
+INSERT pwEmc9 number
+INSERT pV9j1 number
+BEGIN
+INSERT cNZS1y string
+BEGIN
+ASSIGN cNZS1y 'W6'
+LOOKUP qMRw5
+INSERT oHIi string
+INSERT sE number
+ASSIGN gW5Cm_ zjj
+PRINT
+INSERT y number

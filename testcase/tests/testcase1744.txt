@@ -1,0 +1,15 @@
+LOOKUP s1
+INSERT w string
+INSERT mipgE7 number
+INSERT iOz number
+LOOKUP h2
+INSERT k string
+INSERT lt number
+INSERT wa number
+INSERT wY string
+INSERT o number
+INSERT ivtmc4 string
+INSERT qDKVt number
+INSERT m number
+LOOKUP k
+INSERT ikH string

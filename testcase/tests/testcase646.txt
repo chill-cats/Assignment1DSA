@@ -1,0 +1,31 @@
+INSERT cH string
+INSERT i number
+INSERT cQ6 number
+INSERT sZhcCj string
+INSERT e8pM_ string
+INSERT tL string
+INSERT f string
+LOOKUP cH
+INSERT p string
+INSERT nNUGr number
+INSERT l string
+INSERT r7_0Jx string
+INSERT bEk3AP number
+RPRINT
+ASSIGN tL 'wT'
+BEGIN
+INSERT qM05 string
+INSERT v string
+INSERT eB string
+o hsF
+INSERT cDcQGC string
+INSERT t number
+INSERT htWVZ number
+END
+ASSIGN sZhcCj 'N5xv'
+INSERT qCmlkJ number
+ASSIGN l i
+LOOKUP eB
+BEGIN
+INSERT aDh83R number
+BEGIN

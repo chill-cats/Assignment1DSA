@@ -1,0 +1,7 @@
+PRINT
+qZi dR2
+LOOKUP vcDf
+INSERT k7 number
+RPRINT
+INSERT oryiH number
+INSERT cNo3d string

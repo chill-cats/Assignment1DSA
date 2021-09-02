@@ -1,0 +1,18 @@
+INSERT yguTt number
+INSERT w5d string
+LOOKUP yguTt
+RPRINT
+INSERT l_67X string
+ASSIGN yguTt 'jQp'
+LOOKUP yguTt
+INSERT x string
+INSERT eoL number
+ASSIGN l_67X 'nqLJ'
+INSERT koM string
+BEGIN
+INSERT hL number
+END
+BEGIN
+INSERT o2xJb string
+END
+RPRINT

@@ -1,0 +1,29 @@
+INSERT xnP number
+ASSIGN xnP 475
+END
+END
+PRINT
+PRINT
+INSERT kZC9 string
+INSERT q number
+INSERT x string
+INSERT tWioH7 string
+LOOKUP tWioH7
+BEGIN
+RPRINT
+INSERT nX number
+INSERT xuq9 string
+INSERT mIj string
+ASSIGN xnP 525
+PRINT
+END
+INSERT o9Iw string
+PRINT
+INSERT l number
+INSERT n number
+RPRINT
+PRINT
+INSERT r0mq2 number
+RPRINT
+INSERT v string
+e_SfG ypd

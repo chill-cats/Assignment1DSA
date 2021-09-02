@@ -1,0 +1,24 @@
+INSERT k number
+LOOKUP k
+INSERT tJ string
+PRINT
+vfy hRZNUG
+LOOKUP k
+INSERT lJo0Qm string
+INSERT zOyw number
+PRINT
+BEGIN
+oKe5rk lVdF12
+END
+INSERT wsd string
+INSERT u3a string
+BEGIN
+BEGIN
+ASSIGN zOyw 'I'
+INSERT ymV string
+INSERT p string
+END
+RPRINT
+INSERT mVIki string
+LOOKUP zOyw
+END

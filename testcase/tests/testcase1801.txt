@@ -1,0 +1,20 @@
+INSERT q9OdZZ number
+INSERT fl string
+INSERT nXOP string
+INSERT bnrbEc string
+INSERT kTo7 number
+LOOKUP bnrbEc
+INSERT dsp number
+INSERT me6N number
+INSERT xKb8e number
+INSERT z number
+LOOKUP q9OdZZ
+INSERT nWgC4 string
+BEGIN
+INSERT xNrQ string
+LOOKUP q9OdZZ
+INSERT s_t string
+ASSIGN kTo7 717
+INSERT mjhR0H string
+RPRINT
+INSERT w5BLe number

@@ -1,0 +1,32 @@
+END
+INSERT o string
+INSERT h0 string
+INSERT z6N2Z number
+LOOKUP z6N2Z
+LOOKUP z6N2Z
+INSERT fVYK number
+BEGIN
+ASSIGN fVYK 'zCU'
+INSERT xyKCIF string
+INSERT iYhhN number
+INSERT ay0mxa string
+jc xbZ1u
+END
+k y
+INSERT cfW string
+INSERT qfL6 number
+INSERT lHv number
+INSERT ecR number
+INSERT c number
+ASSIGN ay0mxa 'vqUL'
+INSERT pR number
+LOOKUP qfL6
+INSERT qo string
+INSERT bMVGYG number
+RPRINT
+INSERT kx7 number
+INSERT me string
+INSERT qLw number
+INSERT dH string
+INSERT vhnoom string
+BEGIN

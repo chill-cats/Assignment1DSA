@@ -1,0 +1,8 @@
+INSERT om5NU string
+INSERT oIy string
+INSERT z2j string
+INSERT e number
+INSERT s number
+INSERT et string
+INSERT jPVIh string
+LOOKUP s

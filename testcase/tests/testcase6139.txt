@@ -1,0 +1,13 @@
+INSERT j number
+INSERT f4zAhk string
+ASSIGN f4zAhk j
+INSERT ih5 number
+INSERT a number
+INSERT wSQ9FB string
+INSERT v string
+INSERT s number
+INSERT y string
+PRINT
+END
+BEGIN
+INSERT j6EN number

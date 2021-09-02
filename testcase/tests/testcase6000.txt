@@ -1,0 +1,21 @@
+PRINT
+INSERT rFk string
+END
+INSERT v number
+INSERT w string
+RPRINT
+INSERT jEIXj string
+END
+BEGIN
+LOOKUP w
+INSERT hT number
+INSERT qnmOU string
+INSERT isYt number
+ASSIGN jEIXj 'g'
+INSERT rr number
+INSERT yhk6 string
+LOOKUP jEIXj
+INSERT ytV1N number
+INSERT mpLE2 string
+BEGIN
+INSERT iZ string

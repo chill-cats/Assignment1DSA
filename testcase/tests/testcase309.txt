@@ -1,0 +1,23 @@
+LOOKUP aek
+INSERT yNVL string
+INSERT rGl string
+INSERT vZ string
+INSERT fvt8 string
+INSERT bZ7a number
+INSERT uYh8SQ number
+INSERT j string
+INSERT bdN string
+LOOKUP vZ
+INSERT nU number
+INSERT rJ string
+LOOKUP nU
+BEGIN
+ASSIGN nU 'I8xn'
+INSERT qRt number
+RPRINT
+INSERT bXzsZ number
+dshc ia
+RPRINT
+RPRINT
+BEGIN
+om_q s

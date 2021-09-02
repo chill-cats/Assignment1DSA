@@ -1,0 +1,35 @@
+INSERT oz string
+INSERT p string
+INSERT gXkZg string
+INSERT hvkQn6 string
+LOOKUP oz
+INSERT s string
+INSERT dJ2 number
+INSERT l5yBcq number
+jbzh7 qGslnw
+puG mNJ
+INSERT xETk string
+LOOKUP xETk
+INSERT kcnrz number
+INSERT oB7 number
+INSERT nK number
+INSERT c string
+INSERT aP2x number
+PRINT
+INSERT jFB number
+INSERT vVO string
+INSERT sW2C number
+BEGIN
+INSERT r string
+INSERT otF string
+RPRINT
+INSERT l number
+LOOKUP gXkZg
+INSERT j4R number
+INSERT kepV number
+INSERT ex53M number
+LOOKUP oB7
+INSERT b4mA string
+PRINT
+INSERT zJW string
+INSERT r string

@@ -1,0 +1,38 @@
+ASSIGN eMytb 1036
+INSERT ty string
+LOOKUP ty
+INSERT iIsgbk string
+INSERT mamJV number
+ASSIGN mamJV iIsgbk
+INSERT rr number
+INSERT cBT number
+tKZLQ wVg4
+INSERT brBUak string
+INSERT vtRh string
+INSERT l0v3l number
+INSERT kfc1z number
+gg u7d0VN
+LOOKUP ty
+INSERT niuM number
+RPRINT
+INSERT helbc number
+PRINT
+INSERT hY4H7_ string
+INSERT hxMn6 string
+INSERT i string
+BEGIN
+ASSIGN brBUak 'uhFb'
+INSERT w number
+INSERT uoZkG string
+INSERT wq_ string
+RPRINT
+ASSIGN i 'tGx'
+INSERT du8 string
+RPRINT
+RPRINT
+ASSIGN ty 227
+RPRINT
+INSERT lOJize number
+PRINT
+RPRINT
+INSERT aqlFR string

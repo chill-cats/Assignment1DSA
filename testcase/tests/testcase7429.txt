@@ -1,0 +1,24 @@
+LOOKUP tTwUpM
+INSERT aFG number
+INSERT dDG number
+INSERT xksuIy string
+ASSIGN dDG 'dvC6'
+INSERT i number
+RPRINT
+INSERT xJ string
+INSERT oZQoX number
+INSERT dQmq_ number
+END
+BEGIN
+INSERT nH number
+INSERT ylrx string
+INSERT aQ string
+END
+INSERT o number
+INSERT iBE string
+PRINT
+RPRINT
+INSERT jxH0 string
+INSERT k0m8UD number
+ASSIGN psv0 iBE
+INSERT qqt number

@@ -1,0 +1,22 @@
+PRINT
+END
+END
+BEGIN
+INSERT ufF number
+INSERT w number
+ASSIGN ufF 'J'
+INSERT zI string
+INSERT vmtX9 string
+httLM gXW
+INSERT l1kXu string
+INSERT vXkwqv number
+PRINT
+INSERT lW string
+INSERT te7w string
+INSERT b string
+RPRINT
+BEGIN
+INSERT aRUsj number
+INSERT m string
+LOOKUP vXkwqv
+INSERT c string

@@ -1,0 +1,33 @@
+INSERT pzr8Z5 number
+END
+BEGIN
+INSERT bvdZ number
+INSERT tH8i string
+LOOKUP bvdZ
+LOOKUP bvdZ
+nbzX3F htY
+INSERT vs93 number
+INSERT qGyU number
+PRINT
+INSERT n82 number
+PRINT
+PRINT
+INSERT bgv string
+INSERT qj string
+PRINT
+INSERT tS4 number
+INSERT bGz string
+INSERT lqh string
+INSERT s number
+muQ pqI9b
+INSERT kAa string
+INSERT sX9n string
+INSERT mYRk string
+INSERT uR number
+INSERT akrCj number
+INSERT qZzxKc string
+PRINT
+INSERT db string
+INSERT el string
+PRINT
+RPRINT

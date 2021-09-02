@@ -1,0 +1,37 @@
+INSERT sBVkkz number
+ASSIGN sBVkkz sBVkkz
+ASSIGN sBVkkz sBVkkz
+INSERT f5aQ string
+END
+INSERT m string
+INSERT c number
+INSERT ioP8f string
+n d
+INSERT uFs number
+INSERT a7XxGt number
+PRINT
+RPRINT
+INSERT vve number
+INSERT x string
+INSERT c0AG number
+INSERT f6Ye14 number
+INSERT wGYspT string
+ASSIGN f5aQ ioP8f
+BEGIN
+INSERT a string
+END
+INSERT j5o6 number
+INSERT rP5qKD number
+END
+INSERT g number
+RPRINT
+INSERT umOfK number
+RPRINT
+INSERT nJ2Mx string
+END
+LOOKUP sBVkkz
+INSERT pxw string
+INSERT szWn string
+INSERT oqYCgq number
+INSERT dIjV6 number
+LOOKUP szWn

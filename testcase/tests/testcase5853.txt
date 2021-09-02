@@ -1,0 +1,7 @@
+BEGIN
+END
+INSERT fA string
+INSERT eFe number
+INSERT i string
+INSERT dW_Do number
+INSERT ouHm number

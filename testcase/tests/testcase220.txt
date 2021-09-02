@@ -1,0 +1,26 @@
+INSERT ez1Zy number
+END
+INSERT kN string
+BEGIN
+INSERT rLSG number
+LOOKUP ez1Zy
+PRINT
+INSERT t string
+p_X v4pP
+INSERT rZxDyB string
+INSERT aC7gE string
+INSERT p string
+LOOKUP ez1Zy
+INSERT j36 number
+RPRINT
+INSERT yT string
+INSERT fX number
+INSERT iBqMm number
+RPRINT
+INSERT aZ_ number
+ASSIGN aZ_ fX
+LOOKUP rZxDyB
+INSERT zeD number
+INSERT nRMI number
+INSERT fypHDP string
+LOOKUP aZ_

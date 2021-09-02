@@ -1,0 +1,29 @@
+LOOKUP qS
+INSERT xh string
+INSERT f number
+INSERT kii6F number
+INSERT hrin3I string
+INSERT tJ string
+LOOKUP hrin3I
+END
+END
+INSERT kbhSW string
+INSERT nc91 number
+INSERT l9E number
+INSERT s number
+INSERT iQig string
+INSERT z_ number
+INSERT bVhdA string
+INSERT e string
+INSERT a number
+INSERT vN2 string
+INSERT mxm string
+LOOKUP vN2
+INSERT mS1Uh number
+INSERT hCGsA string
+PRINT
+RPRINT
+INSERT l number
+INSERT a number
+INSERT emSb number
+sY ybl

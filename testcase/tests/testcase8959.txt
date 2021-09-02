@@ -1,0 +1,26 @@
+t p
+RPRINT
+BEGIN
+ASSIGN uSDBs 'enTg'
+eS9s6 ls9H1
+INSERT ekA2y string
+INSERT vgM string
+INSERT c5Vb number
+INSERT uRo number
+BEGIN
+INSERT nY9lrK string
+INSERT mLP number
+INSERT qgt string
+INSERT nI number
+INSERT ejy147 string
+INSERT qdeeI string
+RPRINT
+INSERT uIBkU number
+END
+INSERT hVTB34 number
+LOOKUP qdeeI
+INSERT ayOU number
+INSERT eLWuSf string
+INSERT aKRWo string
+ASSIGN mLP 'x'
+INSERT zkoRo5 string

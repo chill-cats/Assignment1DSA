@@ -1,0 +1,25 @@
+INSERT kP number
+INSERT c number
+INSERT mBjX string
+INSERT w7bm string
+PRINT
+w1P rT5x
+PRINT
+INSERT peSR string
+PRINT
+INSERT h number
+gw diWJ
+INSERT oQO4 string
+INSERT d82 number
+INSERT hil6I string
+INSERT qg6 number
+INSERT jryac2 string
+INSERT fW9 number
+INSERT bV string
+INSERT z_JL string
+BEGIN
+INSERT jzI number
+INSERT rb number
+ASSIGN qg6 rb
+END
+INSERT r7UI_ string

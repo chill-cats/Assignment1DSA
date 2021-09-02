@@ -1,0 +1,30 @@
+INSERT rpRul string
+ASSIGN rpRul 362
+INSERT fm string
+INSERT i8YR number
+RPRINT
+INSERT lg string
+RPRINT
+BEGIN
+INSERT csc31X number
+RPRINT
+PRINT
+INSERT y string
+INSERT wN6D string
+RPRINT
+INSERT cI number
+INSERT uEAlZ string
+PRINT
+END
+INSERT u6gtAf string
+INSERT gUbbyU string
+mjkhD ng6K
+INSERT q0 string
+INSERT dasjg7 number
+INSERT aMk string
+PRINT
+INSERT juRSYs number
+INSERT omsY8J string
+INSERT x string
+ASSIGN y lg
+END

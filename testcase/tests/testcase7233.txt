@@ -1,0 +1,5 @@
+INSERT oyCLJ string
+tYR uXv
+LOOKUP oyCLJ
+ASSIGN oyCLJ 'v'
+ASSIGN oyCLJ 'fWFPK'

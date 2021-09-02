@@ -1,0 +1,25 @@
+INSERT bbgjgb number
+INSERT xj number
+INSERT yW number
+ASSIGN xj 'l'
+INSERT zEI4Hb number
+INSERT yzob number
+INSERT cFz string
+INSERT y number
+ASSIGN cFz zEI4Hb
+INSERT a3kj string
+LOOKUP at
+INSERT dlW string
+LOOKUP dlW
+RPRINT
+END
+INSERT qiu8R string
+d sKtlM
+INSERT yXil5 string
+END
+INSERT r string
+ASSIGN yM9Zb zEI4Hb
+INSERT mEUk number
+BEGIN
+LOOKUP cFz
+INSERT vPzSF2 number

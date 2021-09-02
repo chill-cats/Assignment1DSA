@@ -1,0 +1,12 @@
+INSERT wGB number
+PRINT
+INSERT p2 number
+INSERT qV number
+INSERT d52 string
+INSERT q2q6N7 string
+RPRINT
+INSERT asF number
+INSERT mJg4z string
+RPRINT
+RPRINT
+INSERT k number

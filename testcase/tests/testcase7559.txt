@@ -1,0 +1,21 @@
+INSERT kk1JF number
+INSERT n number
+INSERT nlk77 number
+LOOKUP n
+INSERT phVu number
+INSERT sQaCwt number
+INSERT u string
+PRINT
+RPRINT
+INSERT i string
+INSERT lI string
+RPRINT
+INSERT nyuuCH string
+INSERT w8w string
+END
+LOOKUP n
+INSERT kb string
+ju x
+INSERT wDvQ string
+END
+INSERT rXPmrL number

@@ -1,0 +1,32 @@
+INSERT f string
+LOOKUP f
+INSERT qzacv string
+INSERT oWHQn string
+LOOKUP qzacv
+INSERT jipAe number
+klVXG xB7n7
+ASSIGN jipAe 'weOnp'
+PRINT
+LOOKUP oWHQn
+PRINT
+LOOKUP qzacv
+ASSIGN f 'V'
+BEGIN
+INSERT f string
+INSERT aunI number
+LOOKUP f
+INSERT px number
+ASSIGN qzacv jipAe
+INSERT f number
+INSERT qilNRb number
+INSERT qL number
+INSERT mi7be string
+INSERT rCTe string
+LOOKUP oWHQn
+PRINT
+ASSIGN rCTe 127
+INSERT yq number
+INSERT v number
+INSERT dOIJEF string
+RPRINT
+INSERT e9 number

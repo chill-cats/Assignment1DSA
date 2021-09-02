@@ -1,0 +1,23 @@
+PRINT
+INSERT kWpp string
+INSERT mV number
+INSERT oKBW number
+INSERT t number
+INSERT m string
+ASSIGN m '007Y'
+INSERT i string
+ASSIGN m 'Fajl'
+INSERT qjj string
+END
+INSERT sBJV string
+PRINT
+u7BC4R p
+INSERT sM string
+INSERT z string
+ASSIGN oKBW 'Ihz'
+INSERT o string
+INSERT q string
+INSERT b2h number
+INSERT txtr string
+INSERT gt string
+ASSIGN kWpp m

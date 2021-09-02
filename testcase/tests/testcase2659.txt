@@ -1,0 +1,37 @@
+INSERT y9 number
+INSERT de5B number
+x rEmo
+ASSIGN de5B y9
+INSERT fy28 number
+LOOKUP de5B
+INSERT y string
+INSERT ps string
+INSERT zkoj number
+cnC qfhs
+INSERT oQkCu string
+PRINT
+INSERT zfZAG9 string
+INSERT tP2a string
+PRINT
+fEeD wvOuai
+cTg8 mycur
+INSERT xQ string
+BEGIN
+ASSIGN oQkCu fy28
+INSERT o1W number
+ASSIGN xQ 64
+RPRINT
+RPRINT
+INSERT w4 number
+INSERT izrpz number
+INSERT a string
+INSERT yiNRD string
+zxXyB x1L4G9
+INSERT cIo string
+LOOKUP y
+END
+RPRINT
+INSERT fS5F2 string
+BEGIN
+INSERT jW7Aw number
+LOOKUP cIo

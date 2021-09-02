@@ -1,0 +1,37 @@
+ASSIGN b89Vo 'DIvRf'
+INSERT ctt3 number
+INSERT lH string
+INSERT rw string
+INSERT k4xI string
+INSERT iz18M number
+RPRINT
+INSERT hVC6 string
+INSERT h9Hzl1 string
+ASSIGN h9Hzl1 'z'
+PRINT
+INSERT pKApP8 string
+INSERT tKwqq string
+BEGIN
+LOOKUP rw
+INSERT n_Y string
+INSERT mJ string
+INSERT gZz3aI string
+END
+INSERT auSn1 string
+PRINT
+INSERT oYaU string
+mMlDw uw5V
+INSERT fZ string
+LOOKUP tKwqq
+INSERT nI number
+INSERT oC9w number
+INSERT kwQL string
+BEGIN
+INSERT wJ string
+INSERT h84_ number
+RPRINT
+INSERT w number
+INSERT tE04s string
+INSERT r_Jiu string
+INSERT ffG8a number
+INSERT bD string

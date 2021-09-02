@@ -1,0 +1,26 @@
+INSERT i6j5 string
+INSERT eR number
+INSERT zgv number
+INSERT vj string
+INSERT ejE number
+INSERT wg7oS number
+INSERT b2R0jI number
+LOOKUP i6j5
+INSERT xsiTQZ number
+ASSIGN ejE 485
+INSERT w string
+INSERT dEcn string
+INSERT na string
+INSERT p number
+INSERT z65f string
+PRINT
+INSERT j string
+e ek
+INSERT o string
+INSERT p number
+INSERT r7qGRt number
+INSERT tGtwl string
+INSERT k string
+RPRINT
+LOOKUP p
+INSERT vNZD string

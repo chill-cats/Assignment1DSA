@@ -1,0 +1,24 @@
+INSERT jvxv2 number
+INSERT paHR8Q string
+RPRINT
+ASSIGN jvxv2 'P'
+LOOKUP jvxv2
+INSERT qVC7nr number
+BEGIN
+INSERT d5m string
+LOOKUP jvxv2
+LOOKUP jvxv2
+LOOKUP qVC7nr
+INSERT cyqcGn number
+INSERT fF7y string
+cbM6C ty
+INSERT butaQK number
+PRINT
+INSERT wksWck number
+INSERT fC string
+INSERT r string
+INSERT rk string
+INSERT tMA5gW string
+INSERT wxjV string
+INSERT wmPiAQ number
+PRINT

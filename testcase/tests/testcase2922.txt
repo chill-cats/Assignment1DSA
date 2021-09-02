@@ -1,0 +1,3 @@
+INSERT ko_8U string
+LOOKUP ko_8U
+zk wP2SC

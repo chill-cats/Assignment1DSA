@@ -1,0 +1,37 @@
+ASSIGN u5O 851
+INSERT zmr89 number
+INSERT q60 number
+ASSIGN q60 'qtO7'
+INSERT ygLx number
+INSERT dqI_y number
+LOOKUP dqI_y
+INSERT xZ number
+INSERT r number
+INSERT p number
+INSERT pLL string
+ASSIGN ygLx 415
+INSERT n6 number
+INSERT zO number
+INSERT ov0 number
+INSERT t number
+PRINT
+INSERT l number
+ASSIGN zmr89 xZ
+END
+BEGIN
+RPRINT
+INSERT plUvI string
+INSERT zAJh string
+INSERT wP number
+END
+INSERT xx number
+LOOKUP n6
+INSERT aE string
+PRINT
+INSERT iHxq7X string
+INSERT m_7 number
+INSERT cBudwP number
+INSERT rzzRR number
+dS bwf
+INSERT oQFIeZ number
+INSERT lf string

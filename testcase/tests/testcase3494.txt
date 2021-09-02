@@ -1,0 +1,18 @@
+INSERT c number
+ASSIGN c 594
+INSERT mmQ0H number
+LOOKUP mmQ0H
+END
+INSERT h3E number
+INSERT o2wBy number
+INSERT oS string
+INSERT fqp number
+INSERT r number
+hrLGh p6i3
+INSERT ub_m number
+INSERT m3 number
+INSERT dg2Mv number
+INSERT iLf number
+PRINT
+INSERT uxrP8 string
+PRINT

@@ -1,0 +1,31 @@
+INSERT y_ number
+INSERT evHTd string
+INSERT kX number
+INSERT lnIuJ number
+END
+BEGIN
+LOOKUP y_
+INSERT tgX number
+INSERT kTNeK_ number
+PRINT
+RPRINT
+END
+INSERT okH number
+dHMwt w
+INSERT zB_N string
+INSERT m string
+INSERT s7eW_ string
+INSERT aE8xcr number
+INSERT qOAsP string
+END
+ASSIGN y_ kX
+BEGIN
+s wA_3H
+PRINT
+INSERT jm_rf number
+INSERT zx6E string
+PRINT
+INSERT hj number
+ASSIGN y_ qOAsP
+ASSIGN okH m
+INSERT xKLb3m string

@@ -1,0 +1,30 @@
+BEGIN
+END
+PRINT
+INSERT htwzV number
+INSERT jiOYT number
+INSERT lI string
+INSERT lWDO3W number
+INSERT cI5R string
+INSERT ju0Ims string
+LOOKUP ju0Ims
+INSERT t_ number
+BEGIN
+INSERT nlEsj string
+INSERT rxr number
+kI zB04
+INSERT zn number
+INSERT zqtsT number
+BEGIN
+BEGIN
+INSERT i string
+END
+INSERT tEMOO number
+END
+INSERT pDHW number
+INSERT go string
+PRINT
+INSERT wmiv number
+ASSIGN pDHW 'gj'
+RPRINT
+END

@@ -1,0 +1,34 @@
+INSERT xw number
+LOOKUP xw
+INSERT fA string
+INSERT qnWZ number
+INSERT kbTxu2 number
+RPRINT
+PRINT
+INSERT z number
+INSERT jLU number
+fD g
+s8neL7 vPF_qL
+gt d
+INSERT tro7kx number
+INSERT kB string
+INSERT bDUIIu number
+INSERT hS7DhY string
+INSERT awGeC number
+INSERT r string
+INSERT c1aa number
+INSERT jG string
+PRINT
+END
+PRINT
+INSERT msIM number
+INSERT l number
+ASSIGN r jG
+INSERT evtfE string
+LOOKUP l
+INSERT h2 string
+INSERT hPN string
+ASSIGN xw 1094
+p gJpM0
+LOOKUP kB
+ASSIGN h2 xw

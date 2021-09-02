@@ -1,0 +1,4 @@
+INSERT fA string
+INSERT e number
+RPRINT
+BEGIN

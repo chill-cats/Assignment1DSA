@@ -1,0 +1,24 @@
+INSERT qSi string
+INSERT y5 number
+LOOKUP qSi
+LOOKUP y5
+BEGIN
+INSERT j_FxI number
+RPRINT
+INSERT wBu5 string
+tHQ7VI o
+ASSIGN wBu5 wBu5
+INSERT gA string
+INSERT w number
+INSERT aEF number
+PRINT
+LOOKUP qSi
+INSERT yS number
+RPRINT
+PRINT
+INSERT lUj2 string
+INSERT vuA string
+PRINT
+INSERT h number
+BEGIN
+mKL w

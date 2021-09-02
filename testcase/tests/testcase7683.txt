@@ -1,0 +1,7 @@
+RPRINT
+INSERT mtq number
+LOOKUP mtq
+INSERT z2KN3 number
+ASSIGN z2KN3 857
+RPRINT
+INSERT id string

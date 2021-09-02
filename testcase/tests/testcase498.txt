@@ -1,0 +1,37 @@
+BEGIN
+INSERT vX string
+INSERT h number
+PRINT
+INSERT c number
+INSERT bmg string
+INSERT n string
+INSERT ipu string
+INSERT g number
+END
+INSERT p number
+INSERT x2BI string
+RPRINT
+INSERT uEjhX6 number
+LOOKUP c
+INSERT obncN number
+INSERT qCejJ number
+LOOKUP qCejJ
+LOOKUP bmg
+INSERT qdM_ number
+INSERT f8F number
+PRINT
+ASSIGN qCejJ '7 eCw'
+INSERT oYUn30 string
+INSERT nS number
+INSERT pz number
+ASSIGN p obncN
+ASSIGN f8F 'oeNJ'
+INSERT j53 string
+INSERT sJp2 number
+BEGIN
+INSERT gpN0Y string
+INSERT hW string
+INSERT w3l0PD number
+RPRINT
+INSERT aB1JK number
+INSERT tow number

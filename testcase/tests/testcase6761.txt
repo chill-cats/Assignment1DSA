@@ -1,0 +1,16 @@
+INSERT kOGK string
+RPRINT
+INSERT kGJl number
+INSERT nkU7GR string
+INSERT mW7U number
+END
+INSERT r2nh number
+PRINT
+ASSIGN kOGK mW7U
+PRINT
+END
+INSERT wOD3um string
+END
+INSERT bJxPdK number
+ASSIGN kGJl 596
+INSERT zWLIW number

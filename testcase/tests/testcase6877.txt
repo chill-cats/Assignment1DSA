@@ -1,0 +1,20 @@
+INSERT wB number
+PRINT
+INSERT dc number
+END
+INSERT c string
+RPRINT
+END
+END
+INSERT aglpks number
+ASSIGN c c
+BEGIN
+BEGIN
+INSERT d string
+RPRINT
+RPRINT
+INSERT yMcg string
+INSERT q string
+PRINT
+oAaOY sdh
+PRINT

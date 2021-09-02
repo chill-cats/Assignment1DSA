@@ -1,0 +1,38 @@
+INSERT ksi9 string
+INSERT b number
+INSERT xj string
+INSERT m7 string
+INSERT p8U number
+INSERT vB string
+INSERT aiF4 string
+INSERT j number
+mznAN c
+RPRINT
+RPRINT
+ASSIGN b 'p'
+INSERT u number
+INSERT xO8d52 number
+INSERT iX number
+INSERT in number
+BEGIN
+BEGIN
+ASSIGN j ksi9
+END
+INSERT bsQE number
+BEGIN
+INSERT y8a string
+INSERT b string
+INSERT a string
+INSERT n_4 number
+END
+INSERT o number
+INSERT jvwD6C number
+INSERT k3dMy string
+INSERT sXJh string
+INSERT uvXEl number
+INSERT qwt number
+RPRINT
+ASSIGN xO8d52 xj
+INSERT k7fxEM string
+INSERT ia1RS number
+PRINT

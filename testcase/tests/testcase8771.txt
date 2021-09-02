@@ -1,0 +1,25 @@
+RPRINT
+INSERT v00V4 number
+INSERT tZyC string
+INSERT ht number
+RPRINT
+LOOKUP v00V4
+RPRINT
+INSERT kE number
+ASSIGN kE 453
+LOOKUP v00V4
+INSERT mIAk number
+INSERT zhUQp string
+BEGIN
+BEGIN
+INSERT wHo number
+INSERT fUa string
+RPRINT
+ASSIGN zhUQp fUa
+INSERT s string
+INSERT d string
+ASSIGN wHo zhUQp
+j0v g
+INSERT kJ3tEm string
+BEGIN
+PRINT

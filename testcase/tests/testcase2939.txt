@@ -1,0 +1,34 @@
+INSERT tik string
+BEGIN
+INSERT n string
+INSERT qCzNDD string
+LOOKUP qCzNDD
+ASSIGN qCzNDD 954
+INSERT r string
+INSERT u string
+INSERT c string
+RPRINT
+INSERT dcQ number
+INSERT i string
+BEGIN
+INSERT oC number
+INSERT e number
+INSERT fOih number
+INSERT sN number
+INSERT zYOjm number
+PRINT
+INSERT s string
+bGhrud f26t
+mTbTdl dqrdz4
+INSERT g3zc string
+INSERT wLGa number
+BEGIN
+INSERT ou number
+INSERT eW number
+INSERT tt7UZV string
+PRINT
+INSERT dh string
+INSERT y2 string
+INSERT mY number
+INSERT rBE string
+INSERT c string

@@ -1,0 +1,37 @@
+INSERT vkYVd6 number
+INSERT kXeMo string
+INSERT plc string
+INSERT dZv91 number
+INSERT n string
+INSERT u4 number
+INSERT fSV number
+INSERT tvC8z0 number
+RPRINT
+INSERT zgg0Y string
+INSERT i number
+ehiW bzVRoH
+INSERT tp2_ number
+INSERT t string
+INSERT kBHVi string
+PRINT
+RPRINT
+INSERT t_GPnJ number
+INSERT hGUD number
+END
+RPRINT
+INSERT dj9 number
+INSERT cBoXDy number
+PRINT
+INSERT sM4a number
+INSERT p string
+INSERT rr number
+ASSIGN sM4a 'xF'
+INSERT d string
+END
+INSERT r number
+INSERT kCE number
+INSERT gLIN1 string
+INSERT l string
+INSERT kcqo9q string
+INSERT vvm0r number
+END

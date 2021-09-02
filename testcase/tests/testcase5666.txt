@@ -1,0 +1,30 @@
+PRINT
+r l8
+PRINT
+ASSIGN nkG20 362
+INSERT wJnrm string
+INSERT pK0 string
+INSERT cbRn1C number
+ASSIGN wJnrm '8zoE'
+INSERT p number
+END
+INSERT gSQB9 number
+BEGIN
+RPRINT
+INSERT u string
+RPRINT
+INSERT c string
+INSERT rrIR number
+INSERT eL0 string
+INSERT d number
+INSERT p1UsD number
+ASSIGN wJnrm 'wk'
+INSERT ywD3 string
+PRINT
+RPRINT
+LOOKUP pK0
+INSERT el string
+INSERT dW number
+INSERT aYOhko string
+INSERT tj string
+INSERT mn4xLV string

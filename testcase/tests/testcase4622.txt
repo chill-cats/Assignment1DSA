@@ -1,0 +1,31 @@
+INSERT r string
+INSERT x9V_Ut number
+RPRINT
+INSERT zFBWxN number
+INSERT jug number
+LOOKUP r
+INSERT tcC6WV string
+END
+eCk8 lt
+INSERT ksQk0 string
+ASSIGN tcC6WV tcC6WV
+PRINT
+INSERT hsA string
+INSERT jHVt8 string
+INSERT b string
+PRINT
+END
+INSERT oqzmD3 number
+nZcGbE pIU2d9
+BEGIN
+RPRINT
+INSERT g number
+LOOKUP jug
+PRINT
+INSERT p string
+INSERT uY1bV string
+INSERT uGR string
+RPRINT
+INSERT r8 number
+PRINT
+RPRINT

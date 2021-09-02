@@ -1,0 +1,19 @@
+PRINT
+ASSIGN xR 'Pvq'
+INSERT gLSE number
+INSERT e0Jgi number
+INSERT x string
+jsL57 gJ7NL
+INSERT dUcT string
+PRINT
+END
+RPRINT
+INSERT led number
+INSERT f5HE number
+INSERT xj number
+INSERT vG number
+RPRINT
+INSERT q number
+INSERT sdad8 string
+LOOKUP vG
+ASSIGN x xj

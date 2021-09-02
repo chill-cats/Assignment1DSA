@@ -1,0 +1,24 @@
+INSERT sqlk number
+INSERT yHNGK number
+l yS__B
+LOOKUP yHNGK
+INSERT cb number
+RPRINT
+LOOKUP sqlk
+INSERT s number
+INSERT d number
+INSERT oZ string
+ASSIGN cb 698
+LOOKUP s
+INSERT bQi_l string
+INSERT wlzj number
+INSERT wvg number
+PRINT
+LOOKUP wvg
+INSERT f5Dr1 string
+INSERT tpU9X number
+INSERT cPS number
+INSERT lG string
+INSERT xBBwmy number
+PRINT
+INSERT ob string

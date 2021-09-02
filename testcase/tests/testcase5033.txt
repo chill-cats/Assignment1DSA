@@ -1,0 +1,36 @@
+RPRINT
+INSERT j57tf string
+RPRINT
+LOOKUP j57tf
+INSERT dUK_Cs number
+LOOKUP j57tf
+END
+INSERT tQ8 string
+BEGIN
+INSERT u_oU number
+INSERT zU number
+INSERT eo string
+INSERT sMPx number
+INSERT cdU number
+END
+INSERT s string
+PRINT
+INSERT wXJsYd number
+INSERT lq9m number
+END
+PRINT
+INSERT z_To string
+LOOKUP z_To
+INSERT b number
+RPRINT
+INSERT xDSBb number
+INSERT t string
+LOOKUP b
+INSERT pzkASi string
+RPRINT
+ASSIGN sMPx 'uK6'
+INSERT w number
+INSERT bJm string
+INSERT v string
+INSERT wUq number
+ASSIGN pzkASi 'l'

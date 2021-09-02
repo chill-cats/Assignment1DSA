@@ -1,0 +1,12 @@
+INSERT zqHz string
+INSERT hx string
+INSERT rOoEV string
+END
+BEGIN
+RPRINT
+LOOKUP rOoEV
+INSERT v9tTRq string
+INSERT aOv number
+INSERT oOwFv number
+INSERT aPM string
+END

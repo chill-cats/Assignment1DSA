@@ -1,0 +1,27 @@
+INSERT kvN string
+RPRINT
+INSERT vSF9 number
+INSERT r8g string
+INSERT fJw2yl string
+INSERT kSyV string
+INSERT vwO7 string
+RPRINT
+END
+PRINT
+INSERT k2Km number
+RPRINT
+INSERT jTF string
+INSERT kdMGI number
+INSERT xrv0Yw number
+PRINT
+INSERT qfFbX number
+INSERT b1FrG string
+INSERT cycmjZ string
+BEGIN
+t2a s8
+INSERT j2id string
+INSERT tVK number
+LOOKUP fJw2yl
+INSERT lXNIF string
+BEGIN
+INSERT c number

@@ -1,0 +1,18 @@
+INSERT mkIp number
+INSERT t string
+INSERT p8 number
+INSERT yWx number
+INSERT uHi number
+BEGIN
+RPRINT
+INSERT rzV number
+INSERT bUH number
+INSERT bqlC number
+INSERT vli number
+INSERT o9b string
+LOOKUP t
+INSERT lMN number
+INSERT n8 string
+INSERT cY number
+INSERT kRVqk string
+ASSIGN o9b 1030

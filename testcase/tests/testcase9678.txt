@@ -1,0 +1,33 @@
+END
+INSERT k number
+INSERT ad string
+INSERT mul number
+END
+INSERT vr string
+ASSIGN mul 'Ya6l'
+INSERT pFcF string
+PRINT
+INSERT aRDR string
+INSERT gylT number
+INSERT ysGU string
+END
+END
+PRINT
+INSERT lA number
+ASSIGN gylT 'NZr'
+INSERT bFt2R number
+INSERT qUiLy number
+RPRINT
+INSERT tBW number
+INSERT d68C number
+INSERT vF number
+PRINT
+INSERT m_ number
+END
+INSERT nyt number
+RPRINT
+INSERT br string
+ASSIGN k ysGU
+INSERT n9J string
+LOOKUP pFcF
+INSERT zgVu string

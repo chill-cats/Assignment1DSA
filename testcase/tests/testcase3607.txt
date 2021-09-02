@@ -1,0 +1,9 @@
+INSERT o number
+END
+RPRINT
+INSERT eIkAL5 number
+n35 i
+INSERT f number
+INSERT eE_N string
+INSERT f number
+PRINT

@@ -1,0 +1,18 @@
+INSERT m8J175 number
+INSERT aPRYu string
+BEGIN
+INSERT jt6U string
+INSERT tTG_ number
+INSERT jRbo string
+INSERT h number
+LOOKUP jt6U
+INSERT wYN string
+BEGIN
+INSERT kN_ string
+LOOKUP jRbo
+END
+ASSIGN wYN 't n'
+INSERT hObB number
+INSERT qt number
+INSERT j number
+PRINT

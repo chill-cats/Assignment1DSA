@@ -1,0 +1,25 @@
+END
+INSERT d5 number
+END
+RPRINT
+INSERT aGF7 string
+ASSIGN aGF7 aGF7
+INSERT ix7G number
+PRINT
+INSERT dRHk15 string
+END
+LOOKUP aGF7
+RPRINT
+INSERT bVkCW number
+INSERT nt number
+INSERT xvuXUX number
+PRINT
+END
+BEGIN
+INSERT hq0A string
+INSERT yko string
+INSERT zu1Rq6 number
+INSERT p number
+INSERT pLhK string
+ASSIGN p 680
+INSERT d string

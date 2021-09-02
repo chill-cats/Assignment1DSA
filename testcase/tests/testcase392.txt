@@ -1,0 +1,35 @@
+RPRINT
+INSERT hd number
+RPRINT
+INSERT c50c9 number
+INSERT za number
+INSERT bv4 number
+INSERT kM string
+END
+LOOKUP bv4
+LOOKUP hd
+INSERT pMIgt string
+y v
+INSERT e number
+INSERT lNpL number
+INSERT pkg string
+INSERT ehO string
+INSERT fAxn number
+INSERT wGrGe number
+BEGIN
+INSERT aVGWl number
+INSERT onyQ string
+END
+PRINT
+INSERT sQlMy string
+END
+INSERT ymxi string
+INSERT e7m_S string
+iNtShv kZAy_N
+INSERT km number
+RPRINT
+INSERT nf4D string
+PRINT
+INSERT iGoZr number
+INSERT uH number
+INSERT pF8M2 number

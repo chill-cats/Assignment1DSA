@@ -1,0 +1,25 @@
+INSERT h6p6 number
+INSERT u3 number
+RPRINT
+RPRINT
+INSERT x string
+INSERT deuc string
+ASSIGN x 'z3'
+INSERT w number
+INSERT sfh number
+PRINT
+INSERT jMrHLA number
+INSERT kB number
+PRINT
+ASSIGN x 'OY'
+x93wx f96
+INSERT l number
+BEGIN
+ASSIGN u3 'w6g'
+INSERT plW number
+LOOKUP plW
+INSERT wlb4QG string
+ASSIGN u3 'MP'
+INSERT sl string
+RPRINT
+INSERT v1j number

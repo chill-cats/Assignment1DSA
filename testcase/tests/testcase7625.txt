@@ -1,0 +1,19 @@
+INSERT a number
+PRINT
+INSERT e9IbFV number
+INSERT fclD7A string
+PRINT
+BEGIN
+INSERT yxm4 string
+INSERT fCqe string
+INSERT ljW number
+ASSIGN fclD7A 833
+ASSIGN yxm4 866
+INSERT e number
+PRINT
+LOOKUP fclD7A
+INSERT l2r6rE number
+INSERT aXQV number
+INSERT dU number
+BEGIN
+LOOKUP e9IbFV

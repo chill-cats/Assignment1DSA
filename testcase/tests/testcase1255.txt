@@ -1,0 +1,30 @@
+END
+uh3aP f9
+INSERT s83 string
+INSERT pibB number
+t e7G
+INSERT an8AW string
+INSERT wq string
+INSERT ukV string
+jO5XiM v
+INSERT wvVJT number
+INSERT uUH8qQ string
+END
+BEGIN
+bCXKA l2XT3Z
+END
+RPRINT
+END
+INSERT qy1SHW number
+ASSIGN an8AW '0'
+ASSIGN pibB wvVJT
+LOOKUP ukV
+END
+INSERT bt string
+INSERT o24LeD string
+BEGIN
+LOOKUP uUH8qQ
+INSERT zpbG number
+ASSIGN ukV ukV
+RPRINT
+INSERT fwXF number

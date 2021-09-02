@@ -1,0 +1,28 @@
+RPRINT
+INSERT tp string
+INSERT k4 number
+LOOKUP tp
+BEGIN
+BEGIN
+INSERT liK number
+LOOKUP tp
+RPRINT
+INSERT l string
+INSERT hMs string
+INSERT qh string
+d k
+RPRINT
+LOOKUP k4
+INSERT z45tU string
+INSERT tyBHXh number
+BEGIN
+INSERT fAS number
+INSERT ihh1Yb string
+PRINT
+INSERT wp number
+END
+END
+INSERT yX string
+INSERT mwBmM number
+LOOKUP ihh1Yb
+INSERT mFl2 number

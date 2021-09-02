@@ -1,0 +1,7 @@
+INSERT uAn number
+INSERT g35yuR number
+RPRINT
+INSERT d number
+neR m_Xc
+k eV
+ASSIGN g35yuR 'je39'

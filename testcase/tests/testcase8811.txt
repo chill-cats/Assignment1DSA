@@ -1,0 +1,20 @@
+INSERT yLa string
+LOOKUP yLa
+INSERT kZ number
+INSERT at_XS5 number
+INSERT eDtg0M string
+INSERT bb number
+LOOKUP at_XS5
+INSERT kw6 number
+INSERT ovwIW number
+RPRINT
+INSERT vWM number
+PRINT
+INSERT g string
+INSERT g5ra number
+PRINT
+INSERT nDx number
+ja2 cMtW4
+INSERT cYph7H string
+ASSIGN g 'QxZg'
+RPRINT

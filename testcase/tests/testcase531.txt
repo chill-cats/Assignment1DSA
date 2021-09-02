@@ -1,0 +1,22 @@
+RPRINT
+INSERT keyQo string
+PRINT
+INSERT sw0HXa string
+INSERT cQ number
+INSERT laReq number
+INSERT zPX0 number
+BEGIN
+INSERT asmy number
+BEGIN
+RPRINT
+INSERT aI number
+INSERT kuW8 string
+INSERT zK863 number
+INSERT oFlo number
+INSERT etsYE string
+INSERT cF number
+INSERT m number
+INSERT txQc string
+RPRINT
+INSERT fgiLE string
+INSERT qSlSSc string

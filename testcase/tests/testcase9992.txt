@@ -1,0 +1,40 @@
+INSERT re0 string
+INSERT sWY string
+INSERT aiYA3m string
+g v
+INSERT s1pA string
+INSERT kWhy number
+RPRINT
+END
+INSERT rC4za number
+INSERT hhU string
+INSERT r number
+INSERT ygIesO number
+INSERT rK6wuq string
+INSERT uHYRn number
+INSERT uhz number
+INSERT zWr2 string
+RPRINT
+INSERT h_P9Y4 string
+RPRINT
+INSERT jym8 number
+INSERT mRAW string
+RPRINT
+xppIB1 w
+INSERT nnD string
+PRINT
+INSERT gYK4ID number
+INSERT d0e string
+INSERT hXJXK string
+LOOKUP jym8
+INSERT dQ44f string
+INSERT dd string
+INSERT fEcz string
+INSERT uX number
+BEGIN
+ASSIGN h_P9Y4 '3SJg'
+END
+PRINT
+INSERT utw5_ number
+INSERT boK number
+INSERT nL72hZ string

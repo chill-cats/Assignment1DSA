@@ -1,0 +1,11 @@
+INSERT sc6K number
+END
+END
+INSERT v string
+RPRINT
+INSERT gU number
+ASSIGN sc6K 881
+INSERT gzXPcO number
+INSERT c number
+END
+BEGIN

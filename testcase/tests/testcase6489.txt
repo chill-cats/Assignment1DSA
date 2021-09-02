@@ -1,0 +1,15 @@
+INSERT ew string
+RPRINT
+ASSIGN ew 'e'
+INSERT mhrfx number
+INSERT cs95K number
+RPRINT
+RPRINT
+INSERT zsaLE string
+INSERT npGuO string
+INSERT jhFf number
+END
+PRINT
+fkB k
+BEGIN
+RPRINT

@@ -1,0 +1,13 @@
+LOOKUP hzNR
+INSERT qF1 string
+INSERT u number
+LOOKUP u
+INSERT rqYj string
+RPRINT
+INSERT z string
+LOOKUP qF1
+INSERT jam number
+PRINT
+LOOKUP jam
+INSERT z5Pj string
+INSERT reoxR number

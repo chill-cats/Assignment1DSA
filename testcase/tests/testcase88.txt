@@ -1,0 +1,27 @@
+ASSIGN gv 'XpM'
+INSERT bplm number
+INSERT bV number
+INSERT vy number
+INSERT a string
+INSERT j8gU string
+PRINT
+BEGIN
+INSERT s number
+INSERT o5w4X number
+INSERT fj string
+INSERT sXgiOs number
+INSERT hq0t string
+PRINT
+INSERT kBv string
+BEGIN
+PRINT
+INSERT jy5 string
+INSERT n3_i number
+BEGIN
+INSERT wd9 number
+INSERT mnfV string
+INSERT l8qz number
+BEGIN
+END
+ASSIGN l8qz 'OeDn'
+INSERT eOZ3H number

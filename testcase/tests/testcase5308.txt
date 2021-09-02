@@ -1,0 +1,34 @@
+INSERT ck1j number
+END
+INSERT mt string
+u8 zk
+INSERT dkRo string
+BEGIN
+LOOKUP mt
+INSERT e0 number
+INSERT nHT9 number
+gbbG pnKde
+INSERT kLyUJ number
+INSERT t8 number
+INSERT lUBA2N number
+RPRINT
+INSERT jJXCz number
+INSERT uVt string
+INSERT kY number
+INSERT t string
+INSERT j_ string
+INSERT y number
+ASSIGN t8 t8
+INSERT i_vx number
+INSERT tNNJB string
+aF9 l
+INSERT yEcQgv number
+INSERT d6oU number
+INSERT sHHqG number
+INSERT sIXvV3 number
+PRINT
+INSERT j1 number
+INSERT nDJy number
+INSERT q number
+INSERT bJ string
+INSERT z string

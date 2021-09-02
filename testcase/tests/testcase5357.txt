@@ -1,0 +1,39 @@
+INSERT jf number
+INSERT br number
+ASSIGN jf 'Rnr'
+BEGIN
+INSERT fm7x string
+RPRINT
+ASSIGN br br
+END
+INSERT ytq string
+INSERT sLt number
+PRINT
+INSERT m8c string
+INSERT pwgij number
+INSERT tWrNhG number
+INSERT hovof string
+INSERT sZDz string
+LOOKUP prOp4
+ASSIGN hovof 956
+INSERT qT number
+INSERT iOJ1 string
+INSERT eL string
+INSERT y string
+INSERT ppT3 number
+ASSIGN eL 63
+kFBiXc tz
+INSERT p7OmWD string
+INSERT qk number
+INSERT x number
+INSERT svk number
+LOOKUP qT
+INSERT h number
+INSERT f string
+LOOKUP h
+INSERT pEvP string
+INSERT eeS string
+INSERT xqCT string
+END
+INSERT v number
+INSERT lQWF string

@@ -1,0 +1,40 @@
+END
+ASSIGN xR 165
+INSERT oCJcj number
+INSERT bY3b number
+INSERT cW number
+LOOKUP cW
+LOOKUP oCJcj
+LOOKUP bY3b
+INSERT wWG8nc number
+INSERT wow4 number
+RPRINT
+xcQ5a9 ffNX8f
+BEGIN
+LOOKUP cW
+ASSIGN oCJcj 149
+BEGIN
+INSERT pfV number
+INSERT v5jVo number
+END
+INSERT o number
+INSERT iBUDO number
+INSERT oZ5Mx number
+INSERT hV string
+ASSIGN oCJcj 355
+INSERT dBwE3 string
+kXA thmn6m
+ASSIGN cW 1082
+INSERT xVD4eC string
+PRINT
+ASSIGN oZ5Mx xVD4eC
+INSERT a number
+ASSIGN dBwE3 'e'
+INSERT rt number
+INSERT gr5Bz number
+LOOKUP wWG8nc
+INSERT coqOol number
+INSERT tPwue number
+LOOKUP v5jVo
+INSERT bPm string
+INSERT itwIB number

@@ -1,0 +1,16 @@
+END
+INSERT hR number
+INSERT rYv0dD string
+INSERT nQ number
+INSERT zy4 number
+INSERT f string
+INSERT nA9 string
+LOOKUP f
+BEGIN
+INSERT t number
+INSERT j34 string
+LOOKUP nA9
+PRINT
+END
+INSERT ov number
+END

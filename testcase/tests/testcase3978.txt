@@ -1,0 +1,15 @@
+BEGIN
+INSERT mg number
+INSERT a number
+INSERT rlMG number
+a m
+INSERT yub number
+INSERT vkhz number
+INSERT vV string
+INSERT qoUtU number
+INSERT wWbf0K number
+END
+LOOKUP qoUtU
+PRINT
+INSERT bzZg5 number
+INSERT d number

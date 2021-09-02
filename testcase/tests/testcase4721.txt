@@ -1,0 +1,35 @@
+INSERT aK42t string
+PRINT
+END
+INSERT zbx string
+LOOKUP aK42t
+INSERT yApFqt string
+INSERT eMJ number
+INSERT k0Sib number
+p hb
+LOOKUP cRiqC
+INSERT wZp1Nk number
+INSERT yN string
+INSERT s97Ip string
+RPRINT
+LOOKUP wZp1Nk
+INSERT l string
+INSERT p0i number
+INSERT aA6z string
+INSERT sZ string
+INSERT sT number
+INSERT nictX number
+INSERT iG3 string
+INSERT gba0DK number
+INSERT u string
+INSERT lceYRP string
+INSERT i string
+PRINT
+INSERT as number
+INSERT kLc string
+LOOKUP l
+INSERT sk string
+RPRINT
+sfimY ukx
+INSERT dgnMIf number
+ASSIGN zbx 421

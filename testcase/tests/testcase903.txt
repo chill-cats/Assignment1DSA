@@ -1,0 +1,8 @@
+PRINT
+INSERT vINg string
+PRINT
+INSERT wMHy string
+BEGIN
+INSERT ae6Z number
+PRINT
+INSERT eMy string

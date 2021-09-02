@@ -1,0 +1,5 @@
+INSERT e number
+INSERT sOrB number
+INSERT jsN string
+PRINT
+INSERT blL string

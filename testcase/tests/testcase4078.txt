@@ -1,0 +1,5 @@
+ASSIGN zavRH 'AW'
+INSERT omCh number
+BEGIN
+INSERT wQQ_ number
+RPRINT

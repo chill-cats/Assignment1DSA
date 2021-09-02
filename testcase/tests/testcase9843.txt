@@ -1,0 +1,5 @@
+RPRINT
+BEGIN
+INSERT a2k string
+ASSIGN a2k 'i '
+BEGIN

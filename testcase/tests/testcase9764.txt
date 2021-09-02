@@ -1,0 +1,25 @@
+INSERT jQ8MCg number
+hn zt1
+INSERT dlK_Q5 string
+INSERT lY7 string
+PRINT
+INSERT itTqB number
+INSERT bfimvE number
+INSERT n9 string
+LOOKUP lY7
+INSERT tq number
+INSERT guSy string
+INSERT gtnbX number
+INSERT xtzvd string
+INSERT fWIVfk string
+INSERT tsZs number
+RPRINT
+INSERT p number
+RPRINT
+LOOKUP n9
+INSERT d number
+RPRINT
+INSERT khcpX string
+RPRINT
+INSERT x6OU number
+INSERT ufiwRG number

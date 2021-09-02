@@ -1,0 +1,31 @@
+INSERT z string
+INSERT cS6i number
+PRINT
+INSERT m string
+INSERT z8 string
+INSERT nBxCm string
+INSERT tg string
+ASSIGN nBxCm 'ltmhi'
+INSERT nF string
+INSERT e string
+INSERT mw number
+INSERT fjn number
+PRINT
+INSERT axbnYJ string
+PRINT
+INSERT p number
+INSERT b8A string
+INSERT nx number
+INSERT lR string
+INSERT ugelWc string
+INSERT qPQL6 string
+RPRINT
+INSERT zOXZL string
+BEGIN
+RPRINT
+INSERT kbw1 string
+INSERT c string
+LOOKUP axbnYJ
+INSERT r number
+PRINT
+INSERT p9cf3 number

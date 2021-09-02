@@ -1,0 +1,15 @@
+INSERT v string
+INSERT y8W number
+INSERT aorMnZ number
+END
+INSERT s number
+LOOKUP s
+INSERT nACm number
+END
+INSERT sgb string
+BEGIN
+INSERT p number
+RPRINT
+INSERT hE3e number
+PRINT
+INSERT dvUg string

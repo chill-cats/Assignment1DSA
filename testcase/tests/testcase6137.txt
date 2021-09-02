@@ -1,0 +1,13 @@
+BEGIN
+ASSIGN pL 50
+BEGIN
+INSERT eRX number
+INSERT fc string
+INSERT cCvL number
+PRINT
+INSERT s1qc number
+INSERT aRAMKX number
+INSERT f number
+smJY9 qQT
+RPRINT
+INSERT txJB number

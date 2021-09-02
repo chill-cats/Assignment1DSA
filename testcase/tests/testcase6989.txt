@@ -1,0 +1,33 @@
+INSERT ib5 number
+INSERT v_ number
+LOOKUP v_
+INSERT a8u15N string
+a9_1 v
+INSERT y number
+INSERT xpvsbM number
+INSERT bOefS number
+INSERT ln4 string
+INSERT p number
+INSERT hwYw string
+INSERT y number
+INSERT ruZ number
+INSERT cPee0_ number
+INSERT anCdFH string
+LOOKUP v_
+INSERT jFo number
+END
+INSERT o number
+INSERT aHU string
+LOOKUP xpvsbM
+INSERT g3Bxxi string
+PRINT
+END
+INSERT j9E number
+INSERT ef number
+INSERT v number
+LOOKUP ef
+INSERT jYVfz number
+INSERT w number
+ASSIGN v_ 899
+INSERT aFL string
+BEGIN

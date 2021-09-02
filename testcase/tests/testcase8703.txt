@@ -1,0 +1,16 @@
+INSERT lLC string
+INSERT d9 number
+INSERT mzD6 number
+INSERT q number
+INSERT h number
+INSERT ePvqh string
+PRINT
+INSERT avUo string
+PRINT
+INSERT kH0v string
+END
+END
+INSERT inpe0e string
+END
+BEGIN
+PRINT

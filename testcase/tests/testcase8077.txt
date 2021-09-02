@@ -1,0 +1,39 @@
+INSERT g4x string
+INSERT iH32aD string
+END
+fC w
+INSERT fjTW6X number
+INSERT eR string
+INSERT ntV9o0 number
+INSERT oGp string
+INSERT o1Cd number
+INSERT oE string
+LOOKUP o1Cd
+PRINT
+INSERT qjPPG number
+ASSIGN g4x '0nKS7'
+INSERT h number
+PRINT
+BEGIN
+PRINT
+LOOKUP ntV9o0
+INSERT lbU string
+INSERT hD string
+INSERT nmi string
+RPRINT
+s xD
+INSERT mu string
+mm yTW
+INSERT wOe4q string
+INSERT cIh_Y string
+INSERT xu0 string
+INSERT dri string
+ASSIGN wOe4q oGp
+INSERT xeMj4z number
+PRINT
+INSERT k0__Y number
+PRINT
+zVwpMz nCc4_K
+INSERT sEp number
+INSERT g string
+INSERT hRqs number

@@ -1,0 +1,26 @@
+BEGIN
+INSERT kh16 string
+RPRINT
+INSERT yE6 string
+LOOKUP kh16
+LOOKUP yE6
+LOOKUP yE6
+INSERT xxUrh number
+INSERT gg number
+INSERT cNg number
+RPRINT
+INSERT m number
+INSERT m string
+INSERT vEOLX number
+INSERT a number
+RPRINT
+INSERT d number
+ASSIGN m cNg
+INSERT iiotlV number
+INSERT aT string
+INSERT s7n1 string
+PRINT
+RPRINT
+INSERT k8gPVs string
+RPRINT
+ASSIGN m a

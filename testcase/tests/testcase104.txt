@@ -1,0 +1,14 @@
+INSERT eOFC number
+RPRINT
+END
+LOOKUP eOFC
+INSERT b number
+INSERT hRblL string
+INSERT zu451G number
+PRINT
+INSERT hbG string
+INSERT iS number
+INSERT vv1vn string
+INSERT q6 number
+INSERT d string
+ASSIGN b 'dOB'

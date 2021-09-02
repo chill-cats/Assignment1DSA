@@ -1,0 +1,26 @@
+INSERT rBJ9B string
+ASSIGN rBJ9B 'M'
+INSERT bfay number
+INSERT yE6 number
+LOOKUP rBJ9B
+INSERT ud_Uo string
+LOOKUP bfay
+w lW5
+INSERT lRrh0 string
+ASSIGN vW 'R2'
+INSERT vady number
+LOOKUP rBJ9B
+INSERT wheW9 string
+LOOKUP lRrh0
+INSERT l0M number
+INSERT wi_V number
+INSERT yq number
+INSERT pkl number
+INSERT fIJQ string
+INSERT rH8oDk string
+INSERT sS string
+d8DAU wWktux
+BEGIN
+RPRINT
+BEGIN
+INSERT hHY1 number

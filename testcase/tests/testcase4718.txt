@@ -1,0 +1,17 @@
+PRINT
+INSERT n number
+INSERT pYM7sn string
+ASSIGN pYM7sn 615
+INSERT g5 number
+END
+aRb cMp
+INSERT eU8 number
+INSERT dt number
+END
+e8neo sP
+INSERT j string
+INSERT uLju number
+END
+INSERT u number
+INSERT sAJDi number
+INSERT th number

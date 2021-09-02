@@ -1,0 +1,15 @@
+END
+END
+INSERT tAp string
+ASSIGN tAp '0cH6e'
+INSERT h31VyK string
+INSERT y string
+ASSIGN h31VyK tAp
+INSERT i number
+INSERT d4Bz7n string
+INSERT ja number
+ASSIGN y 1067
+LOOKUP i
+INSERT u0U number
+INSERT oFAVh number
+INSERT xlWI number

@@ -1,0 +1,25 @@
+PRINT
+LOOKUP z
+INSERT hq0nD8 number
+INSERT bOEF7u number
+INSERT adwLH string
+INSERT wq string
+ASSIGN wq 1227
+BEGIN
+INSERT wZPC number
+INSERT zBCGH number
+INSERT qBdSl string
+BEGIN
+INSERT itx_q number
+INSERT e number
+INSERT sZAkbZ number
+INSERT c2y number
+INSERT zpe number
+INSERT x number
+INSERT u string
+INSERT g4 number
+INSERT al string
+INSERT z string
+INSERT oZc0ws string
+ASSIGN oZc0ws 'CN'
+ASSIGN hq0nD8 al

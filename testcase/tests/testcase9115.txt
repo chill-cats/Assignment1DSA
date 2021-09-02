@@ -1,0 +1,12 @@
+INSERT e number
+LOOKUP e
+INSERT iZMosW number
+BEGIN
+INSERT e0CcAm string
+INSERT kjD4 string
+PRINT
+INSERT iMsYKh string
+INSERT bT number
+END
+INSERT tBz string
+INSERT g string

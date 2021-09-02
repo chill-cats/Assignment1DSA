@@ -1,0 +1,6 @@
+INSERT hlpG number
+INSERT rV number
+INSERT be number
+RPRINT
+INSERT a_oLq string
+INSERT r6 string

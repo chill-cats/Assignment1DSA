@@ -1,0 +1,28 @@
+INSERT q number
+PRINT
+INSERT h string
+ASSIGN q 63
+RPRINT
+INSERT r86Ni number
+INSERT n2 string
+INSERT g string
+INSERT wmvC number
+dB kiXOcL
+INSERT he string
+ASSIGN n2 1158
+INSERT c5k number
+INSERT iJY number
+PRINT
+RPRINT
+INSERT qq number
+RPRINT
+INSERT jmIX97 string
+INSERT aZAT number
+LOOKUP aZAT
+INSERT oquG5 number
+INSERT jS string
+RPRINT
+END
+INSERT w string
+RPRINT
+END

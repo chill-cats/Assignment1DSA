@@ -1,0 +1,33 @@
+INSERT j5 string
+INSERT cuYeH number
+LOOKUP j5
+INSERT q55N6 string
+INSERT vO_s_n number
+j0_c1h vEA1
+INSERT jB string
+INSERT ynYpGv number
+RPRINT
+INSERT c3iG string
+INSERT rp7Y string
+INSERT r number
+RPRINT
+INSERT cf number
+END
+INSERT iJ string
+INSERT pCfixG string
+LOOKUP cf
+LOOKUP r
+INSERT hUdTT string
+LOOKUP j5
+INSERT bNDok string
+INSERT v string
+INSERT vXhw string
+d2eAGP a
+INSERT b87ow string
+INSERT i9F number
+INSERT a string
+INSERT tw string
+INSERT mtlx string
+INSERT egb string
+INSERT hV3wZ number
+INSERT wftnCG number

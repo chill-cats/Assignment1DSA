@@ -1,0 +1,3 @@
+PRINT
+INSERT kcmhm string
+INSERT j5C string

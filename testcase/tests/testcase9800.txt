@@ -1,0 +1,25 @@
+INSERT vUHY number
+PRINT
+BEGIN
+ASSIGN vUHY 574
+ASSIGN vUHY 'g'
+tQA4IK f
+INSERT iCoc4v number
+INSERT y2iDn number
+INSERT yTin0l string
+INSERT ds_XrC number
+ASSIGN ds_XrC '2OC3'
+INSERT pxD2v string
+PRINT
+INSERT pb number
+ASSIGN pb 650
+INSERT e string
+INSERT uPJh5 string
+INSERT of number
+INSERT a string
+RPRINT
+BEGIN
+ASSIGN e 433
+INSERT h65A4 string
+INSERT wIlhCe string
+PRINT

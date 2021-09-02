@@ -1,0 +1,8 @@
+END
+END
+PRINT
+INSERT q7b_Bc number
+INSERT qCKFH string
+INSERT qGolWN number
+ASSIGN qGolWN '39'
+INSERT w string

@@ -1,0 +1,36 @@
+INSERT qOlq string
+INSERT o string
+INSERT akiG number
+BEGIN
+PRINT
+PRINT
+INSERT g6QOu number
+LOOKUP akiG
+END
+PRINT
+INSERT vg string
+INSERT f string
+LOOKUP akiG
+PRINT
+INSERT m string
+INSERT wsIGn number
+PRINT
+END
+INSERT m string
+PRINT
+INSERT lawJNV number
+INSERT g_e number
+ASSIGN vg 'CA'
+INSERT n string
+ASSIGN g6QOu 725
+INSERT koH string
+INSERT sC string
+INSERT ih9 string
+PRINT
+LOOKUP koH
+INSERT aPYU string
+LOOKUP vg
+INSERT u_ string
+INSERT b number
+BEGIN
+INSERT fB string

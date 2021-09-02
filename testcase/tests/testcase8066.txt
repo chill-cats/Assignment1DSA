@@ -1,0 +1,40 @@
+oc y
+INSERT rjap number
+INSERT g number
+INSERT p0zdg string
+ASSIGN p0zdg g
+aB9oX rVL
+BEGIN
+INSERT lCcmM string
+INSERT dWIw number
+INSERT o9su number
+INSERT viwQ number
+INSERT sbue string
+INSERT lfY string
+INSERT eaAbNs number
+INSERT umIzrr string
+INSERT fv6M number
+INSERT vd number
+INSERT ddynr number
+INSERT yjFAzf string
+ASSIGN g yjFAzf
+END
+BEGIN
+BEGIN
+INSERT iblTgU number
+END
+INSERT vc8A number
+BEGIN
+INSERT xc88H string
+INSERT rxfg5r number
+INSERT pY number
+me oROx
+RPRINT
+PRINT
+BEGIN
+INSERT ca string
+ASSIGN ddynr 'En'
+INSERT i string
+ASSIGN pY fv6M
+RPRINT
+bQ zb

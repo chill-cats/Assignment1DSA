@@ -1,0 +1,8 @@
+INSERT j string
+INSERT vbdLS7 string
+INSERT rucXb3 string
+ASSIGN rucXb3 803
+RPRINT
+BEGIN
+PRINT
+INSERT s number

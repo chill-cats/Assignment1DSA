@@ -1,0 +1,18 @@
+LOOKUP h
+END
+INSERT mfso2 string
+INSERT th97 number
+INSERT vaMO string
+INSERT kV89 string
+INSERT vES4Sf string
+INSERT xOd0u string
+INSERT iUUG number
+INSERT mH5 string
+BEGIN
+INSERT lQP4VO number
+RPRINT
+INSERT wcEyK string
+PRINT
+INSERT gRM4 number
+INSERT nGb00 string
+PRINT

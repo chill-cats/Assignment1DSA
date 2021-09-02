@@ -1,0 +1,34 @@
+kGF9KI pztK
+INSERT fQ number
+INSERT kOH string
+INSERT ebhCqV number
+INSERT ljijT string
+INSERT i8Xg number
+LOOKUP fQ
+INSERT y string
+INSERT oP3Kj string
+ASSIGN oP3Kj kOH
+k6o s
+LOOKUP i8Xg
+BEGIN
+INSERT g6Jn number
+INSERT kjN number
+INSERT xK number
+INSERT oaz number
+INSERT qn8O string
+INSERT x9W string
+END
+LOOKUP ljijT
+INSERT g0SL number
+INSERT puQ number
+INSERT tO number
+INSERT ytc_9U string
+LOOKUP oaz
+LOOKUP oP3Kj
+f y
+INSERT yC number
+INSERT dX string
+INSERT bqdhp string
+INSERT eRV string
+INSERT mY number
+PRINT

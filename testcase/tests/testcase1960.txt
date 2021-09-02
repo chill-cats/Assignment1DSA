@@ -1,0 +1,10 @@
+END
+INSERT o number
+INSERT a0yy string
+INSERT wfUB1 string
+LOOKUP wfUB1
+INSERT wJaC number
+INSERT rz number
+LOOKUP rz
+INSERT z8fT number
+INSERT oFf number

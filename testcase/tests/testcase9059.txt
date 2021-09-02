@@ -1,0 +1,17 @@
+INSERT c_PKTN number
+INSERT y1s number
+INSERT k2H6Mc string
+INSERT x number
+INSERT nmQy number
+ASSIGN c_PKTN c_PKTN
+INSERT npPEJ number
+LOOKUP npPEJ
+INSERT yjS number
+INSERT maR string
+BEGIN
+ASSIGN npPEJ k2H6Mc
+INSERT yrP6 number
+END
+INSERT vM5O number
+INSERT e8 string
+INSERT m string

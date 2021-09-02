@@ -1,0 +1,2 @@
+INSERT bZn string
+BEGIN

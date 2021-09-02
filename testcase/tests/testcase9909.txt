@@ -1,0 +1,35 @@
+INSERT kY string
+INSERT an3p7F number
+INSERT xOYU string
+BEGIN
+INSERT cHlhtc number
+INSERT oLBD number
+INSERT qMOH number
+RPRINT
+ASSIGN qMOH xOYU
+BEGIN
+INSERT y8 number
+INSERT yKAa string
+INSERT rk number
+INSERT o string
+INSERT eklf string
+PRINT
+INSERT sl7 string
+END
+INSERT e1G number
+END
+PRINT
+INSERT o number
+INSERT mgF5Wj string
+INSERT u number
+INSERT cAGJ string
+ASSIGN cAGJ 'SGbe'
+INSERT iDgaU string
+END
+INSERT r string
+INSERT x number
+PRINT
+INSERT s number
+INSERT w number
+INSERT wm number
+INSERT pz6B number

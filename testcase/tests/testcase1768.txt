@@ -1,0 +1,14 @@
+INSERT bdh6D9 string
+INSERT ce number
+INSERT mn string
+INSERT m5 string
+o6g qn
+BEGIN
+INSERT r2l6 number
+INSERT e string
+END
+ASSIGN mn ce
+PRINT
+INSERT n number
+INSERT znQ string
+INSERT hHjEPl string

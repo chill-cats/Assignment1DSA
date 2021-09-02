@@ -1,0 +1,26 @@
+END
+INSERT eHfuZ number
+INSERT iRit string
+RPRINT
+INSERT ypZw string
+END
+BEGIN
+INSERT n5di number
+BEGIN
+LOOKUP iRit
+tdPv5 n2LV
+nlLVLv eF1
+INSERT gPp number
+ASSIGN gPp 1153
+INSERT uX string
+RPRINT
+PRINT
+END
+BEGIN
+BEGIN
+LOOKUP iRit
+INSERT eUhI number
+INSERT wOreU number
+END
+INSERT dbe_c number
+LOOKUP dbe_c

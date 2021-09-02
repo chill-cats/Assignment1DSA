@@ -1,0 +1,36 @@
+PRINT
+BEGIN
+INSERT mPIV string
+INSERT zu7gW string
+PRINT
+BEGIN
+ASSIGN zu7gW zu7gW
+INSERT wMy number
+LOOKUP mPIV
+INSERT g4v number
+INSERT npcL number
+INSERT pKHv3C number
+INSERT p5osvR string
+RPRINT
+INSERT n number
+INSERT o3 number
+INSERT bSUKl number
+ASSIGN mPIV 'qwjPI'
+INSERT sD5xZ number
+INSERT f string
+sizP aO
+INSERT i string
+INSERT ftvK number
+INSERT x7 number
+w ibkZ3
+INSERT rmdI string
+END
+INSERT x number
+INSERT en8 number
+LOOKUP rmdI
+INSERT if string
+LOOKUP p5osvR
+INSERT ij number
+INSERT l number
+INSERT bkprC string
+ASSIGN ij 511

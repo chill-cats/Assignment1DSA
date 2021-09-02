@@ -1,0 +1,11 @@
+INSERT vRDc4 number
+LOOKUP vRDc4
+INSERT wQZRd number
+PRINT
+INSERT exG string
+yi9X i
+INSERT cAP0vf string
+INSERT aO string
+ASSIGN wQZRd 'B'
+INSERT f string
+INSERT n1gpo string

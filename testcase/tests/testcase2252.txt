@@ -1,0 +1,38 @@
+INSERT dQaN_ number
+INSERT y string
+LOOKUP dQaN_
+INSERT eFCZ string
+BEGIN
+INSERT jtn string
+RPRINT
+INSERT js string
+PRINT
+INSERT cBXqTl string
+ASSIGN jtn 'HR'
+INSERT q4BbmW string
+INSERT pP string
+END
+INSERT f string
+INSERT kLF number
+INSERT w1Iyek number
+INSERT wmHBa string
+BEGIN
+INSERT wr string
+INSERT pML number
+INSERT gkXE number
+INSERT mBJr string
+INSERT s string
+ASSIGN dQaN_ gkXE
+PRINT
+INSERT s5 string
+INSERT i string
+LOOKUP dQaN_
+INSERT xkUKm number
+INSERT r7ITk string
+INSERT nL5GA string
+INSERT y4bM1O string
+INSERT vGekGH string
+BEGIN
+ASSIGN xkUKm 1189
+INSERT uoxg string
+INSERT b string

@@ -1,0 +1,34 @@
+BEGIN
+INSERT e_s string
+ASSIGN e_s e_s
+INSERT z9SN number
+INSERT wDVHQ string
+INSERT s string
+END
+INSERT yoT number
+LOOKUP yoT
+PRINT
+RPRINT
+INSERT v number
+h pPaFp
+INSERT um5 number
+BEGIN
+INSERT a2gH number
+END
+PRINT
+INSERT fewrv number
+ASSIGN wDVHQ 'lQ'
+LOOKUP a2gH
+zG9j i
+INSERT cx number
+LOOKUP um5
+INSERT ny string
+INSERT qTco2 number
+INSERT mA string
+INSERT jzvNFJ number
+RPRINT
+INSERT oPbDr string
+INSERT cyq9IN number
+LOOKUP cyq9IN
+INSERT fX string
+INSERT ce52 string

@@ -1,0 +1,39 @@
+END
+INSERT goNS0Q string
+LOOKUP goNS0Q
+INSERT cioNTS string
+bSw gn
+INSERT r9J string
+LOOKUP r9J
+wv dW5VD
+INSERT oMy number
+LOOKUP goNS0Q
+RPRINT
+RPRINT
+INSERT knXX number
+LOOKUP oMy
+INSERT l8 string
+INSERT gK9 number
+INSERT iQPpvc string
+LOOKUP goNS0Q
+BEGIN
+INSERT xv string
+END
+INSERT lK string
+INSERT j string
+RPRINT
+INSERT k number
+LOOKUP cioNTS
+INSERT dB number
+INSERT bC number
+INSERT nr8Io number
+INSERT f0Tu8G number
+LOOKUP xv
+INSERT l_pN6F number
+LOOKUP l_pN6F
+END
+ASSIGN f0Tu8G '8'
+ASSIGN xv nr8Io
+INSERT orxG5v string
+RPRINT
+ASSIGN goNS0Q 388

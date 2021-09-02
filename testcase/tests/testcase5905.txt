@@ -1,0 +1,7 @@
+INSERT oo string
+ASSIGN oo oo
+INSERT afjCM string
+INSERT dR number
+INSERT cdlgHV number
+RPRINT
+vcAqS uqL

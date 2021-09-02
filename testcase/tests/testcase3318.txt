@@ -1,0 +1,10 @@
+END
+LOOKUP kdE
+INSERT djdZ0 string
+END
+INSERT a string
+ASSIGN ev 604
+INSERT y_e number
+INSERT gJ0H2C string
+INSERT lX string
+RPRINT

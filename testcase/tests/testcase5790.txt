@@ -1,0 +1,14 @@
+BEGIN
+INSERT gCX number
+INSERT zPzQ number
+INSERT zDJ number
+INSERT y number
+INSERT yw number
+INSERT k7j number
+INSERT nt8 string
+ta1Z0 nd
+BEGIN
+INSERT xlk1 number
+INSERT u string
+LOOKUP k7j
+END

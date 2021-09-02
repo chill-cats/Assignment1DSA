@@ -1,0 +1,3 @@
+INSERT h string
+INSERT cl2i number
+INSERT iQs number

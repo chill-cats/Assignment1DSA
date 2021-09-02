@@ -1,0 +1,30 @@
+INSERT zP number
+END
+INSERT kP string
+INSERT u3 number
+INSERT uUROx number
+INSERT b3HezY number
+INSERT abnt95 string
+ASSIGN b3HezY b3HezY
+INSERT ddpj8 string
+INSERT zzxD string
+LOOKUP kP
+INSERT kvI2 number
+INSERT tF08G string
+INSERT rNA number
+INSERT k4 string
+wA fbHK
+RPRINT
+INSERT l9vopJ number
+INSERT s string
+INSERT vUEb number
+INSERT dl number
+INSERT d9Z string
+PRINT
+INSERT go number
+INSERT oeMTo6 string
+INSERT hLUU number
+LOOKUP dl
+INSERT va_sjk string
+INSERT dsY string
+END

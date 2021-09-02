@@ -1,0 +1,24 @@
+PRINT
+gomwvm u1_j6j
+INSERT kk7LE number
+PRINT
+BEGIN
+LOOKUP kk7LE
+INSERT peo string
+INSERT aFWHk number
+END
+PRINT
+INSERT jCS number
+INSERT eLh number
+INSERT o3e number
+INSERT p string
+INSERT wyeWN string
+INSERT xsjm10 string
+INSERT csGiB0 number
+LOOKUP kk7LE
+INSERT vR2z string
+INSERT bhvNIr string
+PRINT
+INSERT wNjy string
+ASSIGN kk7LE 'QGb'
+INSERT z number

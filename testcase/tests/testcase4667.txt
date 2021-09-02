@@ -1,0 +1,12 @@
+BEGIN
+INSERT x5 number
+INSERT he number
+INSERT p3T4 number
+ASSIGN x5 'Yl71N'
+LOOKUP he
+END
+BEGIN
+INSERT z5 number
+pA e7
+b xo5
+INSERT v2mU string

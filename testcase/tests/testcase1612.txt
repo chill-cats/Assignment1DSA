@@ -1,0 +1,11 @@
+INSERT c8OC6v number
+END
+INSERT xp2l number
+INSERT l4OH string
+INSERT v2mR string
+BEGIN
+END
+INSERT kzFftp number
+INSERT j string
+ASSIGN c8OC6v 'JI0mX'
+INSERT k_X number

@@ -1,0 +1,21 @@
+wg mdzk
+LOOKUP s
+INSERT bHK number
+INSERT xjQXeH string
+PRINT
+LOOKUP xjQXeH
+LOOKUP xjQXeH
+PRINT
+INSERT o46m string
+RPRINT
+INSERT ptmGow number
+INSERT iBccp number
+INSERT pMcD number
+END
+INSERT i4Di string
+o2d4U qiD
+ASSIGN o46m bHK
+INSERT k number
+INSERT cBUEss string
+RPRINT
+RPRINT

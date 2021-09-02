@@ -1,0 +1,32 @@
+vp c
+INSERT v3l number
+INSERT cHM_hp number
+INSERT bsx5E number
+INSERT i9Bk string
+INSERT y6Y string
+INSERT nIiFg string
+END
+INSERT oX string
+PRINT
+ASSIGN y6Y i9Bk
+BEGIN
+BEGIN
+INSERT ctj6 string
+ASSIGN aZyVm 900
+INSERT cghyM number
+INSERT apAUb2 string
+INSERT bnx5 number
+INSERT jMhEfE number
+INSERT hhiDzK string
+RPRINT
+INSERT f_GS9U string
+RPRINT
+INSERT wCaoPN number
+INSERT qti string
+ASSIGN nIiFg apAUb2
+INSERT ncS6k string
+INSERT cVMC3 string
+sJ yPijA
+INSERT xwAI number
+INSERT jk string
+INSERT c string

@@ -1,0 +1,23 @@
+PRINT
+INSERT g4x4G string
+INSERT rku1S number
+PRINT
+END
+INSERT m_C_4K string
+BEGIN
+LOOKUP rku1S
+ASSIGN bF 'Huokg'
+INSERT dfE number
+INSERT o number
+PRINT
+INSERT wo number
+INSERT kY number
+ASSIGN o 250
+aWW3 eP
+INSERT wPf4j3 string
+f8V t
+INSERT xq0k5 string
+END
+INSERT aBXxp number
+INSERT j8Y number
+RPRINT

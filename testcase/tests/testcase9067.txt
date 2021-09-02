@@ -1,0 +1,31 @@
+INSERT jlxXU string
+END
+INSERT sjo string
+INSERT f6HIW number
+INSERT r7J number
+END
+ASSIGN r7J 765
+LOOKUP sjo
+BEGIN
+INSERT go string
+PRINT
+INSERT s string
+INSERT oFI string
+INSERT j_bp number
+INSERT tlt string
+INSERT gcTcn7 number
+k_3D3Z fB1
+INSERT x47Ck string
+END
+INSERT uUyr5 string
+INSERT b number
+INSERT z string
+INSERT diXB number
+PRINT
+INSERT tOy number
+INSERT igu number
+rs qZD
+LOOKUP x47Ck
+RPRINT
+INSERT bE_h number
+INSERT ltVR number

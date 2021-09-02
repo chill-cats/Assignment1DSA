@@ -1,0 +1,18 @@
+BEGIN
+INSERT acnk number
+INSERT fs0 string
+RPRINT
+END
+INSERT vgf number
+RPRINT
+LOOKUP fs0
+INSERT r string
+INSERT azaUq number
+INSERT rDU string
+INSERT vwBDa string
+BEGIN
+INSERT liNMH4 number
+INSERT smdN string
+INSERT g number
+INSERT ve1 number
+INSERT dl472Q number

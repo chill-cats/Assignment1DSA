@@ -1,0 +1,36 @@
+INSERT m string
+INSERT k number
+INSERT i9oO string
+INSERT jh string
+INSERT l8dtPT number
+INSERT xnibY string
+INSERT jIzX string
+ASSIGN i9oO k
+INSERT k1N string
+INSERT js8 string
+RPRINT
+BEGIN
+RPRINT
+BEGIN
+INSERT bdxIY6 number
+INSERT f number
+mV3rCb ee
+INSERT q number
+INSERT fNhP number
+END
+INSERT f3 string
+RPRINT
+INSERT j3ihTA number
+INSERT haoBx string
+LOOKUP k
+PRINT
+PRINT
+LOOKUP hs
+PRINT
+RPRINT
+BEGIN
+RPRINT
+INSERT h string
+INSERT z string
+INSERT z1A8S number
+INSERT iUiIS number

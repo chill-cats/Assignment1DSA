@@ -1,0 +1,27 @@
+INSERT rYD number
+INSERT b7os number
+ASSIGN b7os '0d6'
+INSERT rzV string
+INSERT j1 number
+INSERT vfsIs string
+LOOKUP vfsIs
+ASSIGN b7os 1016
+ASSIGN n_5hg 'pB'
+INSERT hC string
+INSERT wWebk string
+END
+INSERT ky number
+INSERT n7xt6 string
+INSERT aUChuU string
+RPRINT
+BEGIN
+INSERT mu number
+INSERT cT number
+ASSIGN mu 'E'
+RPRINT
+PRINT
+INSERT t9z string
+INSERT tKGR string
+ASSIGN lnkTg 664
+INSERT bCLh number
+INSERT dw number

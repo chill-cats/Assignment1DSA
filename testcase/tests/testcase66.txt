@@ -1,0 +1,31 @@
+INSERT h string
+INSERT d string
+RPRINT
+INSERT mS number
+RPRINT
+INSERT iR string
+INSERT b string
+INSERT oFET number
+RPRINT
+INSERT f number
+INSERT qp string
+INSERT d number
+LOOKUP iR
+INSERT hhqi number
+ASSIGN b 'W5'
+ASSIGN h44cEr iR
+RPRINT
+INSERT y0sJd string
+INSERT kzSzyE number
+LOOKUP qp
+RPRINT
+x6odxV x
+INSERT kSR string
+ASSIGN y0sJd 'J'
+INSERT o number
+INSERT gS3r number
+INSERT tVJ_ string
+INSERT m0qQW string
+END
+INSERT nE4f0 string
+INSERT k string

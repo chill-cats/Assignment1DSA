@@ -1,0 +1,10 @@
+END
+INSERT rCdFBZ number
+kulNl ms7x
+INSERT qLIMAZ string
+ASSIGN rCdFBZ 'hAImk'
+INSERT tRo number
+ASSIGN tRo 'L34'
+BEGIN
+INSERT e string
+LOOKUP qLIMAZ

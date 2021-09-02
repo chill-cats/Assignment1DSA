@@ -1,0 +1,18 @@
+INSERT iu7Aa number
+INSERT eBr string
+BEGIN
+LOOKUP eBr
+RPRINT
+lB fQ
+INSERT mWNw5S number
+INSERT ajsPY string
+INSERT bbi number
+INSERT skE58 number
+INSERT uuPZ number
+INSERT lp10TX number
+ASSIGN mWNw5S 742
+INSERT pdeaFA number
+INSERT x0VL string
+INSERT v9kpf number
+BEGIN
+BEGIN

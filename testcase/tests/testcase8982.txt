@@ -1,0 +1,5 @@
+INSERT q4 string
+INSERT mo string
+BEGIN
+INSERT hrmJ5 number
+INSERT orn string

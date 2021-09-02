@@ -1,0 +1,9 @@
+INSERT hN string
+RPRINT
+RPRINT
+INSERT hg string
+INSERT tA2Wj string
+INSERT z number
+RPRINT
+INSERT j4hR string
+INSERT oGSyQV string

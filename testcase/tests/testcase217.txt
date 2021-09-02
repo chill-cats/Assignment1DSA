@@ -1,0 +1,23 @@
+INSERT u0M_ string
+INSERT r number
+RPRINT
+LOOKUP r
+INSERT uG number
+LOOKUP u0M_
+RPRINT
+INSERT d string
+LOOKUP d
+ASSIGN r 798
+INSERT yJ string
+INSERT lQX7 string
+END
+INSERT x number
+INSERT eVjb0p string
+INSERT ulPaN string
+ASSIGN ulPaN lQX7
+INSERT gj string
+INSERT xfh number
+RPRINT
+INSERT pmmz3N string
+INSERT t23 string
+INSERT i string

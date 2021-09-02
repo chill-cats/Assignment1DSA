@@ -1,0 +1,22 @@
+BEGIN
+INSERT xP7E string
+INSERT yXE number
+ASSIGN xP7E 458
+INSERT jXO number
+LOOKUP jXO
+INSERT cQ string
+PRINT
+INSERT loSp6 number
+INSERT tl36 number
+INSERT f number
+INSERT wDZ string
+INSERT fN number
+INSERT nVltKm number
+INSERT wLwv number
+BEGIN
+ASSIGN tl36 yXE
+INSERT xWwhO_ number
+RPRINT
+INSERT qDFfE number
+INSERT vav number
+INSERT p1 string

@@ -1,0 +1,32 @@
+INSERT y string
+INSERT yRlb string
+INSERT uEVmyo number
+INSERT rSI string
+INSERT hVvrMi string
+BEGIN
+INSERT sKeZh_ string
+END
+ASSIGN yRlb 527
+INSERT s9MQIM number
+INSERT u string
+INSERT sxw string
+INSERT fjH5k string
+INSERT vzl number
+INSERT b5eI4 number
+INSERT klZ6 string
+INSERT p7Fy number
+END
+LOOKUP hVvrMi
+LOOKUP sKeZh_
+INSERT mIP7T number
+ASSIGN vzl y
+ASSIGN fjH5k 1013
+b hI
+END
+INSERT hO number
+INSERT tVsC number
+RPRINT
+INSERT qJ number
+INSERT x3 number
+INSERT e number
+INSERT tI string

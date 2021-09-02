@@ -1,0 +1,28 @@
+INSERT lL_a string
+INSERT eio string
+INSERT y6sL number
+INSERT m number
+INSERT cWDu5 number
+INSERT tYLiX number
+ASSIGN cWDu5 m
+INSERT eqB8U number
+ASSIGN lL_a 'x'
+INSERT c string
+BEGIN
+END
+RPRINT
+aZ3Cp4 rsKV
+BEGIN
+INSERT kPo0 number
+RPRINT
+RPRINT
+ASSIGN lL_a eqB8U
+INSERT r string
+INSERT vKXp_ string
+INSERT ws string
+ASSIGN tYLiX 20
+INSERT giA1 number
+INSERT btnTc string
+INSERT njUeF string
+drWN6 bFD
+INSERT bz number

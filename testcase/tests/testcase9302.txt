@@ -1,0 +1,28 @@
+INSERT y string
+INSERT s5C number
+INSERT hzw number
+END
+INSERT qSFbD string
+PRINT
+BEGIN
+END
+INSERT eGr string
+INSERT i number
+INSERT okxYl number
+INSERT mRmj number
+INSERT gG0Q7 string
+INSERT uWznb string
+INSERT hr4tg string
+LOOKUP uWznb
+ASSIGN gG0Q7 'tzD'
+END
+x v
+INSERT rs0FB number
+BEGIN
+LOOKUP eGr
+INSERT hc string
+INSERT b_ number
+INSERT c7pnk number
+LOOKUP b_
+INSERT sjf string
+PRINT

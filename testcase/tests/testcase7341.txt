@@ -1,0 +1,36 @@
+INSERT wTv7fW string
+INSERT f1D string
+LOOKUP f1D
+INSERT yWEB6 number
+INSERT f02FI string
+LOOKUP f1D
+INSERT egT number
+INSERT th3 number
+LOOKUP f02FI
+ASSIGN f02FI 479
+bL k
+ASSIGN fO 'r0'
+LOOKUP wTv7fW
+END
+INSERT fAxf string
+v mZ
+INSERT gI3Oc number
+INSERT snxz0 number
+BEGIN
+INSERT pgk4Q number
+INSERT w string
+PRINT
+END
+END
+RPRINT
+INSERT dHlVP number
+INSERT lF string
+INSERT z number
+INSERT qOzGwD string
+INSERT jyz number
+INSERT n number
+INSERT odF4 number
+INSERT bL87UP string
+PRINT
+INSERT kmsNw string
+fKe3 a7oUFa

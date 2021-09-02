@@ -1,0 +1,29 @@
+LOOKUP ohzQ
+INSERT hju6GA number
+INSERT xya number
+INSERT g_ number
+INSERT ujbi string
+ASSIGN g_ hju6GA
+INSERT aYD number
+INSERT qyRr number
+LOOKUP g_
+INSERT kNwbpM number
+INSERT oCDmyi number
+LOOKUP xya
+RPRINT
+LOOKUP aYD
+BEGIN
+INSERT sjmt string
+BEGIN
+INSERT zXL number
+INSERT i number
+INSERT f92 string
+INSERT bRQ number
+INSERT s number
+END
+INSERT hMQz string
+RPRINT
+ASSIGN bRQ 'GBwkA'
+INSERT zIqf string
+INSERT tNM string
+INSERT nmiqnt string

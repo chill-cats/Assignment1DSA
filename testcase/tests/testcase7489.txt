@@ -1,0 +1,16 @@
+INSERT cF string
+INSERT wi number
+PRINT
+INSERT y string
+PRINT
+INSERT c number
+INSERT ngM number
+END
+INSERT u string
+INSERT dLknFj number
+INSERT pj number
+ASSIGN dLknFj u
+o8Kd k32
+BEGIN
+INSERT vwB number
+INSERT rWB string

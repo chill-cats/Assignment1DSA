@@ -1,0 +1,39 @@
+INSERT dYMA number
+ASSIGN dYMA dYMA
+INSERT bebj string
+INSERT fZho string
+PRINT
+INSERT cXZLY number
+BEGIN
+RPRINT
+INSERT ebrnXO number
+ASSIGN bebj bebj
+INSERT fPJKK number
+INSERT p number
+INSERT atNYrz number
+INSERT iFYeH2 string
+INSERT gc9J number
+LOOKUP gc9J
+INSERT q7rr string
+PRINT
+INSERT lRZm string
+ASSIGN lRZm 'g0Cer'
+ASSIGN bebj 258
+LOOKUP cXZLY
+INSERT wd7b number
+LOOKUP fPJKK
+PRINT
+RPRINT
+INSERT v number
+INSERT nVXL number
+g wEP0Q5
+INSERT uAx number
+INSERT qRq string
+BEGIN
+INSERT f string
+INSERT xpdHra number
+END
+INSERT gyvw string
+INSERT zrCC4A string
+INSERT vB number
+INSERT w number

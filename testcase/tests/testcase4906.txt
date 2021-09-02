@@ -1,0 +1,24 @@
+END
+INSERT iKcuQf number
+INSERT n6 string
+LOOKUP iKcuQf
+PRINT
+BEGIN
+ASSIGN iKcuQf 17
+INSERT m string
+swt mTCfV
+END
+INSERT vnYD9l number
+INSERT mLvmw number
+INSERT fu4H number
+ASSIGN vnYD9l 811
+INSERT sDVw string
+INSERT vZ string
+INSERT y0t string
+INSERT sULj string
+LOOKUP m
+INSERT sLAvS number
+BEGIN
+RPRINT
+INSERT mW1LWs number
+INSERT qdt3 number

@@ -1,0 +1,16 @@
+INSERT nL number
+PRINT
+INSERT i_xig number
+INSERT w6rid string
+PRINT
+INSERT qb number
+INSERT xZ7 string
+INSERT s number
+INSERT uwp2 string
+INSERT z string
+RPRINT
+PRINT
+RPRINT
+INSERT kXL string
+INSERT i8 string
+ASSIGN s 'RVS'

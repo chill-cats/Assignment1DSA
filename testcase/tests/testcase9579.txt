@@ -1,0 +1,40 @@
+INSERT p string
+INSERT s5HK number
+BEGIN
+INSERT h1 number
+END
+INSERT dLZ0k4 number
+PRINT
+END
+INSERT hgB number
+INSERT wJEZe number
+INSERT qm0 string
+LOOKUP p
+RPRINT
+INSERT iDPyHK string
+INSERT oniYi string
+LOOKUP s5HK
+ASSIGN dLZ0k4 420
+PRINT
+RPRINT
+vYn22 t
+INSERT aaLW6z string
+INSERT qfV number
+INSERT mGv number
+PRINT
+INSERT j6STe string
+INSERT ahw12 number
+RPRINT
+INSERT ymfi number
+INSERT p number
+INSERT tQNim number
+INSERT fe42qO number
+LOOKUP qfV
+INSERT fHM number
+INSERT vzr number
+ASSIGN j6STe iDPyHK
+INSERT c8pCbQ number
+BEGIN
+wh1Ys uEEj
+INSERT b number
+END

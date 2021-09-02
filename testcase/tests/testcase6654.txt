@@ -1,0 +1,18 @@
+INSERT uE0 string
+BEGIN
+INSERT w string
+PRINT
+ASSIGN w 'Xr'
+INSERT pk5tA number
+INSERT ykg number
+INSERT l string
+INSERT epe0A number
+INSERT lPeu number
+INSERT w number
+INSERT gdR number
+INSERT a string
+INSERT ar string
+LOOKUP l
+INSERT oNfPVt string
+INSERT e string
+PRINT

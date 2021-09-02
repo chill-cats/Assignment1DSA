@@ -1,0 +1,18 @@
+INSERT h1lBZ string
+INSERT k string
+RPRINT
+INSERT j number
+INSERT m string
+ASSIGN h1lBZ 615
+RPRINT
+INSERT j number
+INSERT d_EOSU number
+RPRINT
+BEGIN
+INSERT xFu string
+INSERT j9nT string
+INSERT mPfA string
+INSERT hJO string
+INSERT c string
+INSERT qZ4 number
+INSERT d number

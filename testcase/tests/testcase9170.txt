@@ -1,0 +1,13 @@
+RPRINT
+INSERT vaXR5o string
+BEGIN
+LOOKUP vaXR5o
+INSERT xKlJp string
+INSERT uML number
+INSERT faywhF number
+PRINT
+ASSIGN uML ' '
+INSERT mrK8 number
+BEGIN
+INSERT q284xP string
+INSERT wAhJP6 string

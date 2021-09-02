@@ -1,0 +1,12 @@
+LOOKUP dhPA
+END
+INSERT rj5 number
+INSERT zB string
+RPRINT
+INSERT w4Jn number
+INSERT i string
+INSERT kS number
+INSERT cQ number
+INSERT vm1 number
+BEGIN
+PRINT

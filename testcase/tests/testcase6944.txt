@@ -1,0 +1,37 @@
+iq rj
+RPRINT
+END
+END
+INSERT ifo number
+INSERT afh9 number
+BEGIN
+ASSIGN ifo afh9
+INSERT aqv string
+INSERT ki number
+INSERT ouEXBw number
+BEGIN
+e amBfG
+RPRINT
+RPRINT
+LOOKUP ouEXBw
+INSERT xW string
+INSERT c1IuPo string
+INSERT nwvSdo string
+INSERT j string
+INSERT uP6T number
+PRINT
+INSERT iE string
+INSERT uW84a4 number
+INSERT jDSK number
+INSERT cZ7 string
+INSERT jp1 number
+INSERT yAIV number
+INSERT vw9 string
+INSERT scYt41 string
+INSERT hmCM number
+INSERT lV8MI number
+INSERT wvo number
+END
+INSERT m9dS7 number
+INSERT q5 string
+LOOKUP cZ7

@@ -1,0 +1,16 @@
+LOOKUP kyaQD
+INSERT cd number
+END
+INSERT tkbn number
+INSERT uz number
+INSERT x number
+PRINT
+LOOKUP tkbn
+BEGIN
+INSERT g63q number
+hhjq sbT4
+ASSIGN cd 11
+BEGIN
+INSERT nD number
+PRINT
+INSERT wEpNR string

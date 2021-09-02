@@ -1,0 +1,10 @@
+INSERT tuI5 number
+INSERT hCjL string
+BEGIN
+ASSIGN hCjL hCjL
+gMogE e
+INSERT jyHt number
+LOOKUP jyHt
+BEGIN
+oS1 b1L
+END

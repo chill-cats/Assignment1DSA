@@ -1,0 +1,31 @@
+INSERT i string
+INSERT g9vLfB number
+BEGIN
+ASSIGN g9vLfB g9vLfB
+INSERT qW5fV string
+PRINT
+INSERT vPPl6 number
+ASSIGN vPPl6 867
+INSERT x number
+INSERT ccTs string
+INSERT eq number
+INSERT cx number
+PRINT
+INSERT t4G number
+INSERT cZ string
+INSERT j number
+ASSIGN cx 'de9J'
+RPRINT
+INSERT l3r2dC string
+ASSIGN eq 'Cw4'
+BEGIN
+INSERT b2nN number
+BEGIN
+END
+INSERT toGpd string
+RPRINT
+RPRINT
+INSERT bmG7p string
+INSERT ydKggB number
+INSERT i6r number
+INSERT xKSQl number

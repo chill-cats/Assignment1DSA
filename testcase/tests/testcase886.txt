@@ -1,0 +1,7 @@
+INSERT w string
+INSERT e6WU9 number
+INSERT vj number
+PRINT
+INSERT l9 string
+INSERT dZe8 string
+ASSIGN w 'cPK'

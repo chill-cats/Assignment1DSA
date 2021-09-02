@@ -1,0 +1,5 @@
+INSERT vh5_r_ number
+ASSIGN vh5_r_ vh5_r_
+INSERT hIY string
+mqL e
+ASSIGN hIY 'ygbZE'

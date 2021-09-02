@@ -1,0 +1,14 @@
+INSERT t0w string
+ASSIGN t0w t0w
+INSERT xzcL string
+INSERT j6K string
+INSERT drAe6a number
+INSERT uyR number
+INSERT dtsBh number
+END
+INSERT j6LI string
+INSERT au number
+BEGIN
+RPRINT
+INSERT i4Ko string
+INSERT zNqKX number

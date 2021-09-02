@@ -1,0 +1,24 @@
+END
+INSERT fnk5 number
+LOOKUP fnk5
+RPRINT
+INSERT sYte1 number
+INSERT iCoL number
+INSERT tl number
+INSERT f string
+RPRINT
+INSERT cMjB_y number
+INSERT ux string
+END
+END
+INSERT d1 number
+INSERT trJy number
+INSERT z2Bnd8 number
+PRINT
+BEGIN
+INSERT zSCEL string
+INSERT lk1H number
+INSERT noIm number
+INSERT zvtsq number
+INSERT nl number
+INSERT bc number

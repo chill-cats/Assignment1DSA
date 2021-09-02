@@ -1,0 +1,37 @@
+INSERT mp number
+INSERT yXn number
+INSERT jPUN number
+INSERT p20QH string
+INSERT g10V7N number
+END
+INSERT tS6Ii string
+INSERT i string
+PRINT
+END
+INSERT f string
+END
+INSERT vp7_5w number
+INSERT n2 string
+INSERT z8 string
+INSERT nVK5 number
+INSERT u string
+INSERT bGzXB string
+INSERT y6 number
+INSERT qMA string
+END
+PRINT
+RPRINT
+INSERT rFABsN number
+INSERT e string
+INSERT b_p9y number
+INSERT z number
+ASSIGN g10V7N 1191
+ASSIGN rFABsN 476
+INSERT r number
+INSERT gZfia number
+INSERT s number
+fsNWR l1
+LOOKUP jPUN
+LOOKUP y6
+BEGIN
+INSERT p74 string

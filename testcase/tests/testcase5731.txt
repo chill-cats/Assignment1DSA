@@ -1,0 +1,39 @@
+INSERT yI number
+INSERT zCu number
+INSERT qqFOLp string
+INSERT kVAqL number
+INSERT m string
+LOOKUP m
+END
+INSERT h string
+LOOKUP kVAqL
+INSERT n number
+BEGIN
+END
+prm21b w2K
+ASSIGN n m
+INSERT qzCY number
+INSERT wUc string
+INSERT kIp4AI string
+INSERT u7dJ6 number
+INSERT d90Jk number
+RPRINT
+PRINT
+END
+ASSIGN kVAqL n
+INSERT cx number
+PRINT
+nKf77 ps
+END
+BEGIN
+INSERT nU number
+END
+INSERT bgGI string
+yW8Wx3 s7a
+LOOKUP yI
+INSERT rn4x number
+INSERT kbgS string
+INSERT xtc6kt string
+INSERT ioslv string
+ASSIGN u7dJ6 'DUU'
+INSERT hPI string

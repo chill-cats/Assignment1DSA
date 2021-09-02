@@ -1,0 +1,6 @@
+RPRINT
+RPRINT
+INSERT kd string
+INSERT j6r8 number
+LOOKUP j6r8
+INSERT ros string

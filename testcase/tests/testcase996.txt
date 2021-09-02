@@ -1,0 +1,31 @@
+INSERT n string
+INSERT hfjBiQ string
+ASSIGN hfjBiQ n
+INSERT jU number
+INSERT bcZ_c string
+INSERT q string
+INSERT eDE64 string
+INSERT x string
+INSERT vL number
+INSERT iheBvk string
+RPRINT
+INSERT b1m string
+INSERT uvSH number
+INSERT vi string
+INSERT l string
+INSERT rJ3y3U string
+INSERT woy1 string
+INSERT ikzg0 string
+INSERT wYYNyf string
+INSERT psj number
+INSERT z number
+RPRINT
+INSERT jV_t number
+INSERT zHPUK string
+INSERT pIv number
+INSERT gfp2in string
+INSERT k number
+INSERT hMsJO number
+INSERT h3lsZ string
+INSERT a string
+INSERT v number

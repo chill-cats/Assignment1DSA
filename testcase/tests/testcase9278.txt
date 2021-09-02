@@ -1,0 +1,12 @@
+INSERT a number
+INSERT lUM_ string
+ASSIGN lUM_ 183
+PRINT
+PRINT
+INSERT rSri9 string
+ASSIGN a 396
+INSERT jl number
+INSERT wW string
+INSERT sKT2i string
+END
+INSERT l number

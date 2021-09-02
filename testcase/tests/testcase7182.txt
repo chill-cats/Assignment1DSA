@@ -1,0 +1,26 @@
+INSERT n6ivuH string
+END
+INSERT l number
+RPRINT
+INSERT k1 number
+END
+INSERT ns9 number
+LOOKUP n6ivuH
+PRINT
+INSERT h4tbTG number
+PRINT
+INSERT rp4f number
+INSERT cP2 string
+LOOKUP h4tbTG
+INSERT oH string
+LOOKUP cP2
+INSERT ifi number
+RPRINT
+END
+INSERT y7uR number
+INSERT l string
+BEGIN
+INSERT dqeZUq string
+INSERT kg string
+INSERT xjobeg string
+INSERT kbI string

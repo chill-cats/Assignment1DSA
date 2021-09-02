@@ -1,0 +1,13 @@
+INSERT gb string
+INSERT zN string
+BEGIN
+END
+INSERT wLekow string
+INSERT wRWVxk number
+LOOKUP wLekow
+csfll mDsf7
+INSERT ohvR string
+INSERT ijk string
+ASSIGN zN wRWVxk
+INSERT hARF number
+INSERT vOks number

@@ -1,0 +1,37 @@
+ASSIGN k '9IF'
+dyF8HZ mKlC
+ioI bO
+rgm isP9
+PRINT
+INSERT l number
+INSERT qmToTl number
+LOOKUP l
+vJi rupJ
+INSERT rVkq95 number
+ASSIGN qmToTl 996
+INSERT lkbW string
+ASSIGN rVkq95 873
+ASSIGN lkbW 222
+LOOKUP lkbW
+INSERT hsup string
+RPRINT
+INSERT n string
+yMF otWHA4
+INSERT mO1K3d string
+INSERT jND8_ string
+INSERT zP string
+INSERT yb3 string
+INSERT e7 string
+INSERT qy6A number
+INSERT gN string
+INSERT e string
+INSERT rfatW number
+INSERT wQAh string
+INSERT qv06 string
+INSERT jD number
+INSERT hm9yJ string
+INSERT yO_7P number
+BEGIN
+RPRINT
+END
+LOOKUP rfatW

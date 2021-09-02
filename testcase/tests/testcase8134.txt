@@ -1,0 +1,37 @@
+PRINT
+END
+INSERT so3om number
+INSERT z string
+INSERT lfXy string
+INSERT agE2 string
+BEGIN
+INSERT l number
+INSERT s string
+INSERT b number
+LOOKUP cP6OS
+END
+INSERT b string
+INSERT hyd string
+INSERT ctzY number
+INSERT rMxHo number
+INSERT evHsv string
+ASSIGN b b
+INSERT tM string
+INSERT x number
+INSERT yOMM string
+INSERT aZwHl string
+INSERT l string
+INSERT bFfsrC string
+INSERT vGsDx string
+END
+ASSIGN yOMM 'Ix'
+INSERT oGzVO number
+INSERT n3882 string
+INSERT bNZ number
+INSERT kX4drb string
+INSERT ge number
+INSERT kfE string
+RPRINT
+END
+INSERT l2MRZ number
+BEGIN

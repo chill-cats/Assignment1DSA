@@ -1,0 +1,33 @@
+INSERT rdLnv string
+INSERT m string
+INSERT wVnMBb string
+INSERT o6 string
+INSERT eV number
+INSERT nh string
+PRINT
+INSERT ipZa number
+INSERT yyZJ string
+INSERT v4QPJ number
+INSERT aHVs string
+PRINT
+INSERT sCTD string
+INSERT s47mU number
+RPRINT
+INSERT b string
+LOOKUP m
+INSERT szg number
+INSERT xn string
+INSERT sBmD string
+INSERT p5Sv2 string
+INSERT kLQxUI string
+INSERT aWDr2 string
+PRINT
+INSERT c string
+END
+INSERT x0vIop string
+ASSIGN rdLnv 382
+INSERT v9Jg number
+o1hjS cFaQE
+INSERT u2TMRX number
+INSERT l string
+INSERT qP number

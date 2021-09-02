@@ -1,0 +1,36 @@
+BEGIN
+INSERT f string
+BEGIN
+END
+INSERT f0R number
+INSERT k_ number
+ASSIGN f0R f0R
+INSERT t2 number
+BEGIN
+INSERT l string
+INSERT lc83 string
+INSERT hd number
+INSERT jpd1Y3 string
+LOOKUP l
+pf rVjC
+INSERT z9UJYu number
+INSERT k7hg string
+ASSIGN f 738
+INSERT aj08 number
+INSERT wLVmH number
+ASSIGN f0R hd
+INSERT iS9q number
+INSERT kup string
+INSERT eeS number
+INSERT jrL string
+INSERT u string
+BEGIN
+INSERT oZIS number
+LOOKUP aj08
+INSERT aD number
+INSERT aY number
+INSERT zu8 string
+PRINT
+INSERT qfQ number
+gmO6Ar k5xA
+INSERT kwct number

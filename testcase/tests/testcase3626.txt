@@ -1,0 +1,35 @@
+LOOKUP uG3TuQ
+INSERT gx3 number
+LOOKUP gx3
+INSERT jQ string
+INSERT b string
+INSERT uGDIE number
+PRINT
+ASSIGN gx3 jQ
+END
+INSERT k number
+INSERT m number
+END
+PRINT
+INSERT pU3 number
+LOOKUP uGDIE
+INSERT vO01b string
+LOOKUP vO01b
+INSERT u string
+INSERT bh76k number
+INSERT aZ string
+INSERT u string
+INSERT i0Pdb number
+INSERT ejN string
+INSERT zr string
+RPRINT
+INSERT yF string
+BEGIN
+INSERT z1Mtb1 string
+LOOKUP jQ
+END
+INSERT cQio string
+INSERT oaggmz number
+INSERT rVH number
+INSERT eZ5 string
+INSERT swa0 number

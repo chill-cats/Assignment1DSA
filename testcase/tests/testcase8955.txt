@@ -1,0 +1,19 @@
+LOOKUP eKmrO3
+INSERT sPVU number
+END
+INSERT h7DcVi string
+LOOKUP h7DcVi
+INSERT lJ9EB number
+INSERT eQ string
+INSERT vzq_x number
+RPRINT
+INSERT mXwKca string
+INSERT aiLiv string
+INSERT hWy1Kq string
+INSERT w string
+LOOKUP aiLiv
+INSERT mUmOI string
+INSERT yUDdxS number
+INSERT wx145h number
+INSERT xKj number
+INSERT g7f string

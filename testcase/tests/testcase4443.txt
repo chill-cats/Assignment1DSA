@@ -1,0 +1,16 @@
+INSERT q8P string
+INSERT n2hso7 number
+INSERT k string
+ASSIGN n2hso7 970
+PRINT
+INSERT o16hRS string
+INSERT ahm3Bq string
+INSERT gpqV number
+PRINT
+uJDaIz yeKf
+END
+INSERT fCv string
+INSERT zuLmV number
+RPRINT
+INSERT eUVSfc string
+INSERT gaL number

@@ -1,0 +1,18 @@
+BEGIN
+ASSIGN nZDDI 148
+ASSIGN w_fU_i 1028
+PRINT
+ASSIGN dj 5
+INSERT pENUZ number
+END
+INSERT t number
+INSERT kM string
+RPRINT
+RPRINT
+INSERT tS1_2W number
+INSERT i6X number
+INSERT c39x string
+sfhU uwxov_
+INSERT s string
+INSERT gfpwoK number
+INSERT n number

@@ -1,0 +1,8 @@
+INSERT u6V string
+LOOKUP u6V
+BEGIN
+INSERT t_c number
+RPRINT
+INSERT h number
+lvMD u
+INSERT bXGY2 string

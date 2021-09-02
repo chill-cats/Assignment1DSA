@@ -1,0 +1,30 @@
+PRINT
+INSERT cbR30N number
+LOOKUP cbR30N
+INSERT u string
+LOOKUP u
+BEGIN
+END
+INSERT b number
+ASSIGN b 'Trm'
+INSERT mYC70A string
+INSERT y1B number
+INSERT idI string
+LOOKUP mYC70A
+INSERT p2lc string
+INSERT lOpOm string
+LOOKUP mYC70A
+INSERT x string
+INSERT citF8 string
+INSERT i number
+INSERT i9o7EU number
+INSERT tLQ number
+INSERT wvcYj number
+INSERT seR2c string
+INSERT kP number
+PRINT
+INSERT vHh8 string
+INSERT nu0K6 string
+INSERT vnVwQC string
+INSERT r0 number
+PRINT

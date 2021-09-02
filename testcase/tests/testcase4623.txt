@@ -1,0 +1,19 @@
+INSERT aL8 string
+INSERT tfljM9 number
+INSERT o8TKa number
+INSERT l1 number
+INSERT b3s1a8 number
+BEGIN
+INSERT bD string
+INSERT aJkT string
+INSERT rfuIKv string
+END
+INSERT ekgbQc string
+INSERT bMi number
+INSERT zNYz9k number
+INSERT hQUF number
+ASSIGN zNYz9k 704
+INSERT eIO number
+INSERT t string
+INSERT hh2h string
+BEGIN

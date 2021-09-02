@@ -1,0 +1,6 @@
+INSERT rV9f string
+INSERT yyjHPy number
+ASSIGN yyjHPy 'I3'
+INSERT yY9qE string
+INSERT gFK number
+INSERT e9 string

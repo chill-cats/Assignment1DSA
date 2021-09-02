@@ -1,0 +1,25 @@
+LOOKUP hw
+BEGIN
+RPRINT
+INSERT zaBN5 string
+RPRINT
+rL nQ2
+INSERT b string
+END
+INSERT kVHX number
+INSERT tA8H string
+INSERT ocvp number
+ASSIGN zaBN5 zaBN5
+BEGIN
+INSERT p string
+ASSIGN tA8H 515
+PRINT
+INSERT viA5D string
+END
+LOOKUP tA8H
+INSERT fHw string
+INSERT i8c string
+INSERT ePNP string
+BEGIN
+ASSIGN tA8H tA8H
+INSERT kBTh string

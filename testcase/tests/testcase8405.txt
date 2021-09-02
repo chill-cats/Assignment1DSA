@@ -1,0 +1,20 @@
+RPRINT
+PRINT
+INSERT r string
+INSERT lhA9X8 string
+INSERT tlRqD string
+RPRINT
+PRINT
+INSERT sA number
+BEGIN
+END
+INSERT srutCy string
+INSERT wY number
+INSERT bgSi string
+ASSIGN lhA9X8 246
+INSERT wwSH number
+INSERT fZZDTM number
+INSERT yE number
+INSERT k2IJmn number
+ASSIGN bgSi 'wywK'
+INSERT p054Z string

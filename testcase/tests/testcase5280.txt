@@ -1,0 +1,13 @@
+INSERT j_TdFd number
+INSERT x string
+LOOKUP j_TdFd
+INSERT uU3Fc number
+INSERT kdVD string
+INSERT w4 string
+INSERT iY_eF number
+LOOKUP w4
+ASSIGN w4 iY_eF
+LOOKUP j_TdFd
+PRINT
+INSERT lwIFtN string
+INSERT mB string

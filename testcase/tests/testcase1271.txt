@@ -1,0 +1,16 @@
+INSERT ka string
+INSERT nPJl1 number
+LOOKUP nPJl1
+PRINT
+RPRINT
+INSERT hR number
+INSERT lPoK number
+END
+INSERT gfu number
+INSERT w string
+END
+PRINT
+INSERT fU number
+kjm cz
+END
+INSERT xw0 number

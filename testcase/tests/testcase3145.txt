@@ -1,0 +1,19 @@
+ASSIGN z36 512
+END
+RPRINT
+INSERT vSF number
+INSERT lE string
+INSERT oPtdaw string
+LOOKUP vSF
+RPRINT
+RPRINT
+INSERT uMeZ string
+RPRINT
+gP ysuOE
+BEGIN
+LOOKUP vSF
+ASSIGN vSF 'HByo9'
+INSERT ezs number
+BEGIN
+INSERT pkd_cT number
+END

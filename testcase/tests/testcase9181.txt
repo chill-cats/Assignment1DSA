@@ -1,0 +1,7 @@
+RPRINT
+INSERT vuoced number
+INSERT bdZW string
+INSERT j5aZ number
+INSERT bE number
+LOOKUP j5aZ
+INSERT q3 string

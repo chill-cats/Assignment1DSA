@@ -1,0 +1,11 @@
+dV bR
+INSERT rgZ number
+LOOKUP rgZ
+INSERT zcke string
+PRINT
+BEGIN
+hy fjaD
+INSERT gc7p1 string
+INSERT a number
+INSERT iso number
+END

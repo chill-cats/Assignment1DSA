@@ -1,0 +1,35 @@
+PRINT
+INSERT m string
+INSERT f string
+BEGIN
+INSERT iOp number
+gQ zA1
+ASSIGN iOp f
+PRINT
+INSERT bOEJ string
+LOOKUP f
+INSERT cAbjUi string
+INSERT gfXJoL string
+INSERT hRt8er string
+PRINT
+END
+ASSIGN x7B 'Y5D'
+INSERT oxh string
+BEGIN
+LOOKUP wGtoe3
+INSERT tS8n3 string
+INSERT a number
+INSERT l5ti number
+INSERT ed string
+ASSIGN cAbjUi 'I'
+INSERT nAwN string
+INSERT bD8LU number
+INSERT myX number
+RPRINT
+INSERT iJf string
+INSERT fOF number
+BEGIN
+LOOKUP fOF
+END
+INSERT oe1RMc string
+ASSIGN iJf nAwN

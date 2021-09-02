@@ -1,0 +1,33 @@
+INSERT wf0QxI number
+INSERT y9Kp string
+ASSIGN y9Kp wf0QxI
+INSERT xopZ2u number
+kHi o
+INSERT x string
+sR5m u9kIh
+INSERT lWXRm string
+INSERT qi string
+INSERT sVMN string
+ASSIGN xopZ2u 412
+PRINT
+INSERT wMpU6q number
+INSERT lfdL string
+LOOKUP qi
+INSERT iaJ number
+BEGIN
+END
+RPRINT
+INSERT tjRrI string
+INSERT wCM3u5 number
+INSERT s2Vwg string
+ASSIGN sVMN 'tZR'
+INSERT bW string
+ASSIGN tTappn 711
+LOOKUP y9Kp
+END
+RPRINT
+INSERT ogp_6 string
+INSERT yhZ number
+ASSIGN yhZ 'Lukg'
+INSERT xzde number
+END

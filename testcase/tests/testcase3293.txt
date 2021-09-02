@@ -1,0 +1,12 @@
+INSERT xy number
+INSERT a71LN number
+INSERT akqA7t number
+INSERT p06AT number
+INSERT qQ string
+LOOKUP akqA7t
+INSERT kU8 number
+BEGIN
+INSERT fLEF7 string
+BEGIN
+INSERT xPaN string
+BEGIN

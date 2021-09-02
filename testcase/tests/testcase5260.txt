@@ -1,0 +1,14 @@
+INSERT xm string
+INSERT jwng number
+INSERT k number
+ASSIGN xm jwng
+kyqOR mn
+INSERT zTcA number
+INSERT nid8 number
+INSERT fKkPnH string
+PRINT
+BEGIN
+tWG dpgjHb
+INSERT qSyUCl number
+INSERT kvM9q number
+RPRINT

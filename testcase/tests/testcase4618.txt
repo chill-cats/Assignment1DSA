@@ -1,0 +1,16 @@
+INSERT vnRAt string
+INSERT rSm string
+INSERT eZCZms number
+INSERT zX number
+INSERT h6 string
+ASSIGN eZCZms 725
+INSERT wAv string
+INSERT yDRbO6 string
+END
+PRINT
+LOOKUP yDRbO6
+RPRINT
+INSERT y string
+INSERT vwM string
+RPRINT
+INSERT n2IbJ6 string

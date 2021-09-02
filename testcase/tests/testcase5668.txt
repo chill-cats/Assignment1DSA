@@ -1,0 +1,20 @@
+INSERT gMCNo number
+LOOKUP gMCNo
+INSERT c2_MXA number
+ASSIGN gMCNo 1153
+INSERT tF_t7 number
+INSERT xg0 string
+INSERT kJes string
+INSERT qplYq string
+INSERT xYCZ number
+INSERT cG number
+INSERT qNQM string
+INSERT jEIyMU number
+BEGIN
+INSERT jk4_ia number
+INSERT wQEN string
+LOOKUP jk4_ia
+INSERT ck number
+INSERT e number
+INSERT qKa string
+INSERT n4 string

@@ -1,0 +1,11 @@
+INSERT v number
+k2qQBC uyrhjb
+RPRINT
+INSERT mnfWk string
+INSERT ro number
+INSERT rdY2 number
+INSERT ftxML string
+INSERT d string
+LOOKUP ro
+PRINT
+BEGIN

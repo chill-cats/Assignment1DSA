@@ -1,0 +1,9 @@
+INSERT xomZ number
+INSERT mB06X string
+ASSIGN mB06X 'CxM7'
+INSERT pJlSAf number
+INSERT rDDK string
+INSERT oK string
+INSERT tWNS string
+PRINT
+zdc3 oBRN4_

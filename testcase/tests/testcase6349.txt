@@ -1,0 +1,37 @@
+INSERT j_ number
+INSERT tpnE string
+INSERT kiX46 number
+INSERT lp4 number
+INSERT z5Z0 string
+INSERT v4oEH number
+RPRINT
+INSERT q2oSl number
+PRINT
+INSERT px string
+INSERT a string
+INSERT jWcO string
+INSERT l2knDO string
+ASSIGN q2oSl lp4
+ASSIGN kiX46 'pOJG'
+INSERT rGeI string
+LOOKUP jWcO
+INSERT u8sn string
+INSERT koDMG string
+INSERT oDSPF number
+INSERT uHXSZ string
+BEGIN
+INSERT cYtBmv number
+INSERT b2 string
+INSERT jCUzpG string
+ASSIGN kiX46 'FI'
+BEGIN
+INSERT v string
+INSERT wKw string
+INSERT h string
+INSERT fbRJ3 number
+END
+INSERT yBoB1 string
+INSERT sr string
+INSERT gY58ru number
+lVpr1C aW
+PRINT

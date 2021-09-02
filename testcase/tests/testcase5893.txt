@@ -1,0 +1,29 @@
+INSERT z8 string
+ASSIGN z8 449
+f5N7c rtR8Np
+INSERT t_t string
+INSERT rrMyXA string
+INSERT pGe9 number
+ASSIGN t_t z8
+INSERT iPNyC number
+INSERT vsUe string
+RPRINT
+INSERT lO09Bl string
+LOOKUP t_t
+INSERT rqjmM number
+INSERT ql string
+INSERT mOj_gR string
+END
+INSERT kNX string
+INSERT goGTu string
+INSERT n number
+INSERT pia string
+END
+INSERT cJU number
+INSERT fao string
+INSERT lpVY number
+INSERT j1lu3m string
+INSERT dev7Ji number
+INSERT aer string
+ASSIGN n fao
+INSERT fG1eY string

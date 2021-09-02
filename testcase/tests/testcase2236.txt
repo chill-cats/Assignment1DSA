@@ -1,0 +1,9 @@
+LOOKUP oWIW
+mffRNy roII
+INSERT g string
+INSERT o string
+INSERT o4ivs string
+RPRINT
+INSERT oXNc number
+INSERT w number
+INSERT m string

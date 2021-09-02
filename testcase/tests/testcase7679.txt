@@ -1,0 +1,9 @@
+INSERT e8K1 number
+INSERT qM string
+INSERT yfRL number
+RPRINT
+INSERT czg4T number
+INSERT o number
+END
+INSERT lBf string
+LOOKUP e8K1

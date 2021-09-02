@@ -1,0 +1,9 @@
+INSERT k3buZ number
+INSERT zF number
+INSERT gcmD number
+ASSIGN gcmD 'l'
+INSERT mi string
+INSERT g4wRZ number
+ASSIGN mi 'qiyB'
+INSERT zV number
+ASSIGN k3buZ 1047

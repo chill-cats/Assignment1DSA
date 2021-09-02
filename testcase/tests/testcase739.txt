@@ -1,0 +1,18 @@
+INSERT e4jH number
+INSERT h2 string
+INSERT nj string
+INSERT vSv9 number
+INSERT x number
+PRINT
+ASSIGN nj vSv9
+INSERT nGJBH string
+INSERT kAG string
+INSERT t6 string
+PRINT
+mvbOx lAD
+INSERT c_ string
+ASSIGN h2 x
+LOOKUP e4jH
+INSERT etr number
+xmlv0U ap
+INSERT qU string

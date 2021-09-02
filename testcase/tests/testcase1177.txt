@@ -1,0 +1,33 @@
+LOOKUP jc
+g q9QOw7
+PRINT
+BEGIN
+END
+INSERT qM2nH string
+INSERT lQ393O string
+INSERT oG9gd number
+INSERT g_V number
+INSERT d_4 number
+PRINT
+LOOKUP oG9gd
+END
+INSERT mA string
+INSERT zNpOwO number
+ASSIGN d_4 'iDk'
+RPRINT
+INSERT u5Bp number
+INSERT mUg number
+INSERT gl5b5r number
+INSERT hHQeO number
+INSERT mohr8N string
+ASSIGN mUg qM2nH
+INSERT qJ number
+INSERT isMIJK number
+INSERT oU string
+INSERT mZCh string
+INSERT zfPdW string
+END
+PRINT
+RPRINT
+BEGIN
+INSERT zT3 number

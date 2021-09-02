@@ -1,0 +1,7 @@
+INSERT lp string
+BEGIN
+INSERT zI3 string
+INSERT mv number
+INSERT zMYF number
+INSERT tqAJ number
+INSERT tj number

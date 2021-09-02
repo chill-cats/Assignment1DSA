@@ -1,0 +1,14 @@
+INSERT qh number
+PRINT
+INSERT jBaaf1 number
+INSERT zAh number
+BEGIN
+LOOKUP zAh
+INSERT d number
+INSERT mYc1MA number
+LOOKUP qh
+END
+RPRINT
+INSERT mDudHi string
+INSERT lQ number
+LOOKUP jBaaf1

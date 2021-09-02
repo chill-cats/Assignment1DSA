@@ -1,0 +1,25 @@
+INSERT bM0Uly number
+INSERT rZML number
+ruO eTux
+INSERT djHiBi number
+INSERT e number
+INSERT v5i number
+INSERT pYB number
+INSERT omdZ0 number
+INSERT nm number
+INSERT jk string
+INSERT rh number
+BEGIN
+INSERT qDV8 number
+LOOKUP jk
+umeEJs mGDZE
+INSERT t string
+LOOKUP rh
+BEGIN
+RPRINT
+LOOKUP omdZ0
+RPRINT
+ASSIGN omdZ0 263
+LOOKUP rh
+ASSIGN rh 'Id '
+INSERT yji3P string

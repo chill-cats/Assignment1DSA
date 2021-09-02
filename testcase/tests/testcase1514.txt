@@ -1,0 +1,33 @@
+END
+INSERT g number
+yi u9JIPI
+INSERT lGke string
+INSERT po number
+PRINT
+LOOKUP g
+LOOKUP po
+RPRINT
+ASSIGN po 'CZ'
+INSERT cxe0eO number
+INSERT hJ8TJG string
+INSERT p6zL number
+INSERT rNj2R string
+RPRINT
+INSERT ek string
+END
+RPRINT
+eB pJs
+RPRINT
+INSERT nRF_gG string
+END
+END
+INSERT nv number
+INSERT qqAi number
+LOOKUP g
+INSERT ja12 number
+pSz lfJUb
+INSERT rXNJHl string
+INSERT i8 string
+INSERT qU9OaX number
+INSERT nO_Cn string
+LOOKUP cxe0eO

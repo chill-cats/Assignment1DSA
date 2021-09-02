@@ -1,0 +1,19 @@
+INSERT zrSc string
+INSERT e number
+INSERT t string
+INSERT ruJl1D string
+ASSIGN e 'Psvd'
+lrKxe sIPa
+INSERT mzSSu3 number
+INSERT lOJUv number
+INSERT nnR46 number
+ASSIGN mzSSu3 678
+INSERT j number
+PRINT
+INSERT oY string
+INSERT c_I string
+LOOKUP e
+BEGIN
+BEGIN
+BEGIN
+jQZE kyfKk

@@ -1,0 +1,8 @@
+INSERT wEa string
+INSERT axTn4 number
+END
+INSERT aDSg string
+INSERT rzj string
+INSERT jkJ number
+END
+INSERT t string

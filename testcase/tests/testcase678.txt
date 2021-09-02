@@ -1,0 +1,34 @@
+INSERT gBW6d0 number
+LOOKUP gBW6d0
+END
+INSERT i53k42 number
+INSERT lcgT3 number
+INSERT mKC5 number
+INSERT y string
+BEGIN
+BEGIN
+ASSIGN gBW6d0 gBW6d0
+INSERT wQz string
+ptl q
+e52 mHxc
+INSERT spBc string
+ASSIGN mKC5 518
+INSERT lnj6_F number
+INSERT vYY9 string
+PRINT
+ASSIGN lcgT3 'm'
+BEGIN
+INSERT f string
+INSERT yyY number
+INSERT yw number
+INSERT id0Rgz string
+RPRINT
+INSERT oq number
+INSERT d4e number
+INSERT o7y string
+ASSIGN o7y gBW6d0
+INSERT cdKRup string
+INSERT sm0C string
+INSERT tcUW string
+INSERT foGAv string
+INSERT op5p number

@@ -1,0 +1,10 @@
+BEGIN
+INSERT snP5 string
+INSERT n5YhMz number
+INSERT n7rjj string
+INSERT sL string
+INSERT mv number
+RPRINT
+INSERT kH string
+INSERT iG number
+RPRINT

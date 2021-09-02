@@ -1,0 +1,7 @@
+PRINT
+INSERT mhI number
+INSERT mW0PO number
+END
+INSERT vrBmf number
+INSERT hygbk string
+BEGIN

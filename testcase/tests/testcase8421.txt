@@ -1,0 +1,31 @@
+INSERT s string
+INSERT dT string
+BEGIN
+INSERT koLNM string
+INSERT mQc number
+INSERT iKV15 string
+ASSIGN dT s
+INSERT i9v number
+INSERT v number
+PRINT
+INSERT sW8ZPG string
+BEGIN
+LOOKUP mQc
+j7KE_s sR4FSZ
+INSERT uO string
+vX_pnh glYuiC
+INSERT oJ number
+INSERT j number
+INSERT uY2eB6 number
+PRINT
+INSERT eA4JW number
+INSERT rGElN number
+INSERT gHu4y number
+INSERT vWTj4 number
+INSERT qa string
+INSERT nLk34 number
+INSERT nM0mu string
+INSERT ba number
+BEGIN
+INSERT j6XWq string
+INSERT xyI5 number

@@ -1,0 +1,34 @@
+LOOKUP j
+ASSIGN xS 'Voi'
+INSERT gJ string
+INSERT akhyA string
+INSERT ut string
+INSERT f95NJ_ string
+INSERT roHL3S string
+END
+ASSIGN akhyA akhyA
+INSERT cJ string
+INSERT k string
+END
+INSERT n string
+INSERT kF_8q number
+INSERT uH string
+INSERT smBR number
+INSERT xQS_rm number
+INSERT ak string
+INSERT eCGm9 string
+INSERT wixCx number
+INSERT x number
+INSERT u4cyen string
+INSERT s number
+END
+INSERT clzJ string
+RPRINT
+INSERT wTtDm number
+INSERT vQPGv number
+INSERT qh string
+e eiqAT
+INSERT uq number
+INSERT bonsj string
+INSERT zYW number
+LOOKUP ut

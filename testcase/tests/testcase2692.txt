@@ -1,0 +1,40 @@
+INSERT sgP number
+END
+INSERT bqy string
+RPRINT
+INSERT uG number
+PRINT
+INSERT yn string
+ASSIGN uG bqy
+INSERT ee string
+RPRINT
+INSERT mJ0s number
+INSERT v8K string
+INSERT nk_ number
+PRINT
+INSERT uwxLU6 string
+LOOKUP uwxLU6
+INSERT xwY string
+INSERT f0dX string
+INSERT heLps number
+INSERT fNH7_x number
+ASSIGN uG uwxLU6
+ia zism
+BEGIN
+INSERT u_t3 number
+RPRINT
+RPRINT
+INSERT fkxh string
+INSERT jFWR4 string
+INSERT mN1 number
+INSERT fK1r number
+INSERT y string
+INSERT l string
+INSERT k8 string
+INSERT q number
+END
+INSERT bcRF01 string
+INSERT ngh number
+INSERT brH number
+INSERT o string
+ASSIGN brH l

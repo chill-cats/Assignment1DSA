@@ -1,0 +1,28 @@
+INSERT ds8 number
+INSERT rdIr number
+INSERT h string
+PRINT
+LOOKUP rdIr
+BEGIN
+LOOKUP ds8
+INSERT kfn68 number
+INSERT xkR number
+RPRINT
+INSERT rXhd2 number
+buV sXr
+INSERT oMCSS0 number
+nBwVi n4KJ5
+INSERT auP_H number
+INSERT q string
+vpZl fPS
+INSERT jAPsu number
+hbPxv na
+PRINT
+INSERT t number
+INSERT p4p7 number
+END
+INSERT bsuYJ string
+RPRINT
+LOOKUP t
+END
+LOOKUP h

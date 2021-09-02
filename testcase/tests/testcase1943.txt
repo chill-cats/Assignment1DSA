@@ -1,0 +1,34 @@
+INSERT n5Q string
+LOOKUP n5Q
+INSERT yVnG10 string
+ASSIGN n5Q 318
+INSERT kzH number
+INSERT zUq5 number
+INSERT bg03Ut number
+INSERT z8pqI string
+BEGIN
+INSERT iWdHy number
+INSERT pvj3T number
+INSERT mCou9 string
+INSERT a string
+INSERT l string
+INSERT bSEbQ number
+INSERT z3n string
+INSERT lNZ number
+INSERT aKz string
+uK aivNF
+PRINT
+INSERT sg string
+END
+LOOKUP a
+RPRINT
+RPRINT
+ASSIGN a z3n
+INSERT eWQ string
+INSERT p string
+INSERT hYc_tx string
+END
+INSERT t number
+LOOKUP a
+w bh_
+RPRINT

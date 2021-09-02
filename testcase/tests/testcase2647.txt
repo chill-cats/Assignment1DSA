@@ -1,0 +1,33 @@
+END
+RPRINT
+END
+INSERT wW4p number
+INSERT ijoXDM string
+INSERT d number
+INSERT uO6 string
+LOOKUP wW4p
+LOOKUP d
+INSERT l string
+BEGIN
+LOOKUP uO6
+INSERT vIM3ah number
+END
+INSERT diI string
+INSERT gd string
+RPRINT
+LOOKUP vIM3ah
+INSERT e number
+INSERT wNs number
+RPRINT
+INSERT jTmz number
+ASSIGN l diI
+INSERT v8u string
+INSERT rspH number
+INSERT pCJY number
+LOOKUP d
+INSERT iQK89 number
+END
+INSERT w number
+PRINT
+INSERT a string
+INSERT yN number

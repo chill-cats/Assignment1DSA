@@ -1,0 +1,20 @@
+INSERT efl97k number
+INSERT sFlB string
+INSERT l number
+RPRINT
+INSERT r number
+INSERT q string
+INSERT u6 number
+RPRINT
+END
+INSERT g number
+INSERT snHsWf number
+RPRINT
+INSERT t string
+INSERT bx20h number
+INSERT v6z number
+INSERT nD number
+RPRINT
+INSERT z number
+g7ub6 h
+INSERT vg number

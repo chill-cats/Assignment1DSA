@@ -1,0 +1,31 @@
+INSERT qqN number
+INSERT jMx string
+INSERT sbWWk3 number
+INSERT zAJfrP string
+p8 qZrBV
+PRINT
+ASSIGN sbWWk3 217
+INSERT t7Qziy number
+INSERT uC string
+LOOKUP sbWWk3
+a6rC e
+INSERT n string
+INSERT hT9slP number
+INSERT aHj string
+v0CA t
+INSERT k3l number
+INSERT gUZc string
+END
+INSERT hm number
+INSERT y1 number
+INSERT r number
+INSERT apndF6 number
+INSERT a string
+INSERT efJOY number
+INSERT yI string
+INSERT lqeAJ string
+INSERT pXdQnT string
+INSERT mlr1W string
+END
+RPRINT
+LOOKUP lqeAJ

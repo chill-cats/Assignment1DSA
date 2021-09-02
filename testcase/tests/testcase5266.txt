@@ -1,0 +1,32 @@
+PRINT
+ASSIGN vGFf 48
+INSERT sYq string
+RPRINT
+RPRINT
+INSERT ml number
+ASSIGN ml sYq
+INSERT uf number
+RPRINT
+INSERT yD number
+LOOKUP yD
+INSERT x string
+INSERT cRR string
+INSERT gPS24U number
+END
+END
+RPRINT
+INSERT gNJqM number
+PRINT
+INSERT fUcj string
+INSERT a4MKy string
+INSERT oIkUO number
+INSERT a string
+INSERT tiDj8 number
+INSERT x string
+END
+PRINT
+END
+PRINT
+RPRINT
+ASSIGN uf oIkUO
+RPRINT

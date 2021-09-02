@@ -1,0 +1,31 @@
+INSERT waEDG number
+BEGIN
+BEGIN
+iDHqAE p1L
+INSERT x string
+ASSIGN x 590
+INSERT so2c string
+w iOf
+INSERT b number
+LOOKUP x
+ASSIGN so2c '6e4OQ'
+INSERT db string
+INSERT fM string
+clu6 pC
+INSERT cOO number
+LOOKUP cOO
+ASSIGN so2c 'jg'
+INSERT y string
+INSERT it number
+INSERT p string
+INSERT sm number
+INSERT s number
+INSERT yhmW string
+INSERT xkKn number
+INSERT ndlar string
+RPRINT
+INSERT p number
+PRINT
+INSERT rrdc string
+END
+END

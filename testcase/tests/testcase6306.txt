@@ -1,0 +1,31 @@
+RPRINT
+INSERT dnpmUn number
+BEGIN
+r4BC7l r
+INSERT uTAZS number
+INSERT sa4na string
+END
+INSERT lr5 number
+INSERT j string
+BEGIN
+INSERT yueZ string
+INSERT fN2LU number
+INSERT iqefr0 string
+RPRINT
+INSERT wMz5 number
+INSERT eqJjy string
+INSERT m number
+END
+ASSIGN dnpmUn 785
+INSERT q7fX number
+INSERT fARad number
+INSERT bswoXz number
+LOOKUP iqefr0
+END
+BEGIN
+PRINT
+INSERT y string
+RPRINT
+INSERT tC string
+INSERT b string
+INSERT zZDC number

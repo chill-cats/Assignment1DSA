@@ -1,0 +1,28 @@
+g1x qi
+INSERT xUsSd number
+INSERT z5oEPG string
+INSERT gXrMd string
+INSERT wvv3o string
+ASSIGN xUsSd 981
+INSERT kuH number
+INSERT nTMwwZ number
+j0 kjD
+INSERT hIdMl string
+INSERT sWH number
+INSERT ggt8I number
+INSERT zG string
+END
+INSERT sxB4 number
+INSERT jsKf string
+INSERT hg string
+INSERT j number
+ASSIGN wvv3o 'q6yH'
+INSERT u6 number
+INSERT l number
+INSERT qjCYCZ string
+ASSIGN z5oEPG '0MJwa'
+INSERT pxsZ string
+INSERT oa string
+PRINT
+END
+END

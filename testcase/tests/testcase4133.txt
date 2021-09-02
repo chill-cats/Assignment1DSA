@@ -1,0 +1,20 @@
+BEGIN
+INSERT ghr number
+INSERT k string
+END
+INSERT m2Io string
+RPRINT
+INSERT kSesQ string
+INSERT sI string
+BEGIN
+INSERT b number
+INSERT fNC0Z number
+INSERT y string
+INSERT ysgE number
+INSERT k2 string
+ASSIGN kSesQ 623
+ASSIGN ghr 742
+INSERT h6xIW6 string
+INSERT c number
+INSERT eUPUyZ string
+INSERT w4h8J string

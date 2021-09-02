@@ -1,0 +1,17 @@
+BEGIN
+INSERT csC string
+RPRINT
+INSERT eKkW5 number
+INSERT r83EJ number
+INSERT eQN string
+PRINT
+INSERT g4 number
+LOOKUP g4
+ASSIGN r83EJ 'WsNn'
+INSERT uM number
+INSERT zHsdcn string
+INSERT cr number
+INSERT i string
+INSERT mk string
+INSERT b7JX number
+INSERT lLOyq number

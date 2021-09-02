@@ -1,0 +1,24 @@
+qKAA eQRQSW
+END
+INSERT hYYU string
+INSERT sn string
+INSERT f7nrs number
+END
+INSERT sp string
+INSERT t string
+INSERT n91 number
+INSERT c string
+INSERT nwZv string
+LOOKUP sp
+ASSIGN n91 510
+LOOKUP sn
+END
+END
+LOOKUP c
+nDrXXS e
+y0 bcp
+ASSIGN hYYU sp
+INSERT aE string
+PRINT
+BEGIN
+INSERT d number

@@ -1,0 +1,3 @@
+INSERT idK6 string
+END
+INSERT zqizn number

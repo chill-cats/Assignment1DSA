@@ -1,0 +1,17 @@
+INSERT rS string
+INSERT b8vWr0 string
+RPRINT
+INSERT eOcd string
+INSERT ywCI string
+END
+INSERT xZjQ string
+INSERT eAz number
+RPRINT
+END
+BEGIN
+LOOKUP eAz
+PRINT
+INSERT pymu number
+INSERT v number
+INSERT s2 string
+ASSIGN v 677

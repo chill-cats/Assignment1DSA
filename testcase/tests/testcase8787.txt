@@ -1,0 +1,13 @@
+INSERT rY number
+END
+BEGIN
+INSERT n9q string
+INSERT t string
+INSERT jxSfIg string
+INSERT rZ string
+RPRINT
+RPRINT
+INSERT qsRvn number
+ASSIGN rZ 1188
+ASSIGN t 'JA'
+INSERT y string

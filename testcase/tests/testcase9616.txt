@@ -1,0 +1,39 @@
+INSERT glf6j number
+INSERT s3iehD number
+INSERT hVv number
+INSERT ivJF number
+INSERT rew string
+RPRINT
+INSERT qiCDZb string
+INSERT eSA5U number
+PRINT
+INSERT qm number
+INSERT th number
+INSERT j string
+INSERT a number
+INSERT jmmU50 string
+INSERT ngG string
+INSERT qC number
+INSERT xG7KX1 string
+INSERT f6uM string
+END
+BEGIN
+INSERT z22 string
+INSERT o number
+INSERT rLt number
+PRINT
+INSERT zAH string
+END
+INSERT jmMin string
+INSERT iL0 number
+INSERT agK string
+INSERT tFT_AE string
+INSERT hN8GG number
+INSERT n number
+INSERT eVdWz string
+BEGIN
+INSERT cdS3lS string
+LOOKUP hVv
+PRINT
+INSERT nfz number
+INSERT fJpS string

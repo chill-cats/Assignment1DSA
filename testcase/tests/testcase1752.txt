@@ -1,0 +1,33 @@
+END
+owp fd
+INSERT wb number
+BEGIN
+INSERT l7F number
+BEGIN
+END
+INSERT nOlVc_ number
+PRINT
+BEGIN
+INSERT vrO string
+INSERT dpCCFa string
+ASSIGN l7F wb
+INSERT j string
+INSERT lYKSw string
+INSERT dHn38 number
+RPRINT
+INSERT lKbBt number
+INSERT qDwjQ8 string
+INSERT eoU number
+ASSIGN j 278
+INSERT k number
+LOOKUP j
+BEGIN
+LOOKUP lKbBt
+INSERT y string
+INSERT a string
+LOOKUP lYKSw
+BEGIN
+b7oE mX6C3d
+END
+INSERT si number
+INSERT j string

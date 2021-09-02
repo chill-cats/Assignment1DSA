@@ -1,0 +1,24 @@
+INSERT lS string
+LOOKUP lS
+PRINT
+fN oRemd
+END
+ASSIGN lS lS
+END
+INSERT y number
+INSERT yobT string
+PRINT
+LOOKUP lS
+LOOKUP lS
+END
+INSERT haSobl string
+PRINT
+ASSIGN lS '9nq'
+INSERT mj string
+INSERT sPe string
+RPRINT
+INSERT gs2 string
+INSERT lEU number
+LOOKUP sPe
+INSERT poDMk number
+INSERT vPdC5 number

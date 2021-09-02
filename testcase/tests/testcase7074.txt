@@ -1,0 +1,5 @@
+INSERT aOI_v string
+INSERT qSF string
+ASSIGN cQtO qSF
+INSERT duWQ number
+RPRINT

@@ -1,0 +1,16 @@
+INSERT j number
+INSERT h string
+INSERT a7csyE string
+INSERT w string
+BEGIN
+RPRINT
+END
+INSERT p1X91 string
+INSERT nE3G string
+PRINT
+INSERT hZz6g string
+RPRINT
+INSERT wV23Vi string
+INSERT tl7Y string
+INSERT dp number
+INSERT jl4c79 number

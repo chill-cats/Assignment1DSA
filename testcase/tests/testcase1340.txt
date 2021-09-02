@@ -1,0 +1,28 @@
+INSERT qTY number
+INSERT p number
+INSERT vBke number
+LOOKUP qTY
+INSERT fyi number
+ASSIGN p fyi
+INSERT xv string
+INSERT uAhFc string
+INSERT nS string
+BEGIN
+INSERT h number
+INSERT a5w5Ef string
+BEGIN
+INSERT m number
+nypSWU j
+INSERT gdP string
+INSERT tmY_jO string
+INSERT pEMEQ number
+INSERT mmv number
+INSERT l string
+LOOKUP p
+END
+INSERT tj string
+INSERT l number
+i7nv m4xxq
+PRINT
+INSERT cmV7V string
+LOOKUP nuBve

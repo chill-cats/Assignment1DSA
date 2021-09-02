@@ -1,0 +1,9 @@
+INSERT x3hQR number
+INSERT p string
+INSERT xqYab number
+RPRINT
+INSERT fMCj string
+ASSIGN xqYab fMCj
+INSERT oZ number
+ASSIGN xqYab 'd'
+INSERT fPVth string

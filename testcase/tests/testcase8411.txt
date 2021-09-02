@@ -1,0 +1,31 @@
+RPRINT
+ASSIGN bwcIjX 504
+LOOKUP u
+ASSIGN kte 'mF3Y'
+INSERT u8151B number
+INSERT vPj2Y string
+INSERT ibCTOq number
+INSERT s9H number
+RPRINT
+PRINT
+INSERT w number
+INSERT o9k6S string
+ASSIGN ibCTOq 'IUUEW'
+INSERT w number
+INSERT dr0 number
+INSERT jlm_ string
+INSERT um4A_S string
+INSERT nw number
+INSERT naaWBe string
+INSERT pp9l number
+LOOKUP um4A_S
+INSERT rE string
+c1r flbWT
+LOOKUP w
+ASSIGN vPj2Y 32
+INSERT u number
+END
+INSERT szrtK string
+INSERT g string
+a vRI
+INSERT gs number

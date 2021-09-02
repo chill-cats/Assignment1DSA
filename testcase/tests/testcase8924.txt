@@ -1,0 +1,26 @@
+ASSIGN vGP 11
+INSERT zjS number
+PRINT
+jce w
+PRINT
+INSERT cFBBP number
+BEGIN
+BEGIN
+INSERT hXBF number
+INSERT qH1J number
+LOOKUP cFBBP
+INSERT l number
+INSERT j string
+INSERT vtSvE string
+INSERT xQwxE string
+ASSIGN qH1J j
+LOOKUP zjS
+INSERT lWs number
+INSERT sTN number
+INSERT ar number
+INSERT yq string
+BEGIN
+INSERT dIAf0 string
+INSERT kh number
+INSERT wf5 number
+ASSIGN hXBF 296

@@ -1,0 +1,30 @@
+INSERT fEMjLk number
+INSERT a number
+INSERT lK3Gm number
+END
+LOOKUP c4JnC
+INSERT bCjx string
+LOOKUP a
+ASSIGN a 'Fd'
+ASSIGN fEMjLk 'kv8'
+LOOKUP a
+INSERT hvm number
+LOOKUP hvm
+INSERT hrX number
+INSERT n number
+INSERT keEw2 number
+INSERT kHouD number
+RPRINT
+INSERT vhLy number
+LOOKUP vhLy
+INSERT x string
+INSERT gr string
+INSERT oX8cif number
+END
+INSERT d number
+INSERT v string
+ASSIGN d v
+INSERT l string
+INSERT ug5xa number
+INSERT xx number
+hD0w b_uXE

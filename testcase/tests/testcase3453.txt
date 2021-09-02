@@ -1,0 +1,39 @@
+RPRINT
+BEGIN
+ASSIGN tpX4X 192
+INSERT xw string
+INSERT uai number
+INSERT w number
+INSERT eXIp string
+INSERT fE number
+v sbWz
+INSERT jaa string
+INSERT qKPvg string
+INSERT u number
+INSERT ykK5Y string
+INSERT uVl number
+INSERT nKhsD number
+PRINT
+INSERT b number
+PRINT
+LOOKUP b
+ASSIGN fE 'u5'
+INSERT rJ string
+ASSIGN nKhsD eXIp
+INSERT p string
+INSERT pFq string
+RPRINT
+INSERT xdf5 number
+INSERT l string
+INSERT i number
+ASSIGN p uai
+INSERT e number
+INSERT pwUY96 string
+RPRINT
+INSERT ohNwZz number
+LOOKUP l
+INSERT bo number
+PRINT
+INSERT w string
+INSERT uZ3q5 string
+INSERT t80 string

@@ -1,0 +1,35 @@
+INSERT o string
+LOOKUP o
+INSERT k1J4 number
+INSERT bx_r number
+ASSIGN bx_r 'g'
+RPRINT
+END
+INSERT yiW_ number
+INSERT e8t2 number
+INSERT s number
+INSERT fnktR number
+INSERT pWKY string
+ASSIGN k1J4 1101
+INSERT uPQU number
+ASSIGN uPQU pWKY
+INSERT mb number
+PRINT
+INSERT jk number
+INSERT gHwA string
+RPRINT
+tm mBpQO
+END
+INSERT jX string
+RPRINT
+PRINT
+INSERT kZp number
+INSERT dEVd string
+INSERT bAc number
+INSERT ip number
+INSERT f0vd string
+INSERT s8_JzU string
+INSERT lHlk string
+INSERT kyyv string
+INSERT f string
+INSERT ax9Rb string

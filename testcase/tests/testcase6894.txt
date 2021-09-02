@@ -1,0 +1,12 @@
+INSERT qB2can string
+INSERT gJmDh number
+RPRINT
+END
+INSERT gc7D string
+INSERT w number
+INSERT ws_GPz string
+INSERT lMleeA string
+END
+INSERT t string
+LOOKUP gc7D
+INSERT vA_ string

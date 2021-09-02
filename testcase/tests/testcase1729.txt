@@ -1,0 +1,9 @@
+ASSIGN lgpi8y 'ON'
+BEGIN
+ASSIGN hGk 'xN'
+END
+BEGIN
+LOOKUP w6_
+BEGIN
+INSERT z number
+RPRINT

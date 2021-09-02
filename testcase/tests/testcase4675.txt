@@ -1,0 +1,9 @@
+INSERT g string
+INSERT aQkWq string
+INSERT c number
+INSERT dwKJ number
+RPRINT
+PRINT
+INSERT e string
+LOOKUP e
+INSERT bHN string

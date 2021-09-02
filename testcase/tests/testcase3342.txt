@@ -1,0 +1,36 @@
+INSERT ja3uhV number
+PRINT
+INSERT xT8nmb string
+INSERT gj string
+ASSIGN gj 'zilSm'
+INSERT r string
+INSERT wjNm string
+INSERT ixh string
+ASSIGN gj 1148
+INSERT b string
+xweQA jx_
+INSERT rDH string
+LOOKUP gj
+INSERT y number
+PRINT
+RPRINT
+INSERT lgnaaU string
+INSERT wv7esD string
+INSERT wCAqr number
+xA dvG
+INSERT bRk number
+INSERT dtyMw_ string
+INSERT rAb string
+INSERT t9j number
+INSERT rA0fQ number
+PRINT
+INSERT bd6h string
+INSERT v5jltw string
+BEGIN
+ASSIGN t9j ixh
+ASSIGN t9j bRk
+INSERT ou8 number
+RPRINT
+PRINT
+BEGIN
+RPRINT

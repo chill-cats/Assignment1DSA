@@ -1,0 +1,9 @@
+INSERT ghGna number
+RPRINT
+INSERT eIV0g9 number
+BEGIN
+ASSIGN ghGna 'bp'
+RPRINT
+INSERT oXxmd8 number
+BEGIN
+INSERT r string

@@ -1,0 +1,30 @@
+INSERT dRYD4n number
+INSERT bkMod string
+INSERT o string
+INSERT pM number
+INSERT af string
+INSERT tl string
+BEGIN
+INSERT gSsPT string
+BEGIN
+INSERT qH_T number
+END
+ASSIGN af gSsPT
+g6 tF
+INSERT vrxCA number
+INSERT i string
+INSERT kVbc1c number
+INSERT vdilS number
+INSERT dEoK string
+INSERT vASQ8n number
+PRINT
+ASSIGN gSsPT 351
+INSERT m string
+INSERT i3MlnR number
+INSERT dY string
+INSERT ylay number
+INSERT z number
+INSERT qcW string
+INSERT l3IK2u string
+ASSIGN i3MlnR 'a'
+INSERT qdsE string

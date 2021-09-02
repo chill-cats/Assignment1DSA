@@ -1,0 +1,23 @@
+r b6baPR
+INSERT k string
+INSERT v string
+INSERT b string
+INSERT hxp number
+INSERT fdd string
+INSERT n string
+INSERT v4ba string
+BEGIN
+INSERT qMd2Hx string
+INSERT kts number
+ASSIGN fdd 486
+INSERT j number
+END
+BEGIN
+ASSIGN v4ba v
+INSERT lQUJhn string
+PRINT
+INSERT if0 number
+INSERT cN string
+INSERT eaC number
+ASSIGN qMd2Hx 'ZqU'
+INSERT l9MJdC string

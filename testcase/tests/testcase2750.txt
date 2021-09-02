@@ -1,0 +1,32 @@
+INSERT ulTb3 number
+LOOKUP ulTb3
+INSERT w string
+END
+INSERT tzfb number
+INSERT p string
+INSERT it string
+INSERT v string
+INSERT sh number
+ASSIGN it '0'
+INSERT j number
+INSERT ajS number
+bUWqM0 yk6c
+INSERT r2tf number
+ASSIGN it 22
+INSERT aeEyf number
+ASSIGN ajS p
+INSERT ib6 string
+INSERT dkdE number
+INSERT bYomf number
+INSERT az string
+INSERT u string
+INSERT hX0Sn7 string
+INSERT eV string
+s9K i
+INSERT kM9XdU string
+END
+LOOKUP dkdE
+INSERT pYQ9Dn number
+INSERT o4C string
+ASSIGN p kM9XdU
+PRINT

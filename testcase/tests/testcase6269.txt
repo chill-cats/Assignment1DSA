@@ -1,0 +1,6 @@
+INSERT l string
+ASSIGN l 312
+INSERT gQ number
+INSERT nK40 string
+INSERT i8S string
+INSERT s number

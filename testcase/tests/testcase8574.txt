@@ -1,0 +1,9 @@
+INSERT du number
+INSERT z number
+dWC q
+INSERT tFAe string
+PRINT
+END
+ASSIGN z tFAe
+INSERT h4vEx number
+INSERT ip number

@@ -1,0 +1,40 @@
+INSERT l5Kwr string
+INSERT cY number
+INSERT t number
+ASSIGN cY l5Kwr
+INSERT oAXA52 number
+INSERT elo string
+BEGIN
+PRINT
+INSERT c64o number
+ASSIGN l5Kwr elo
+INSERT ge00 number
+PRINT
+END
+aSHz o6EV_W
+INSERT igl string
+INSERT x0nxMt number
+INSERT ij number
+INSERT cFoJx8 string
+BEGIN
+INSERT tEWn string
+INSERT jGldCK string
+INSERT y1fH number
+INSERT kWftI string
+PRINT
+pATo v
+LOOKUP ij
+INSERT zCPFrF string
+ASSIGN x0nxMt 157
+RPRINT
+PRINT
+INSERT aPRKqC string
+ASSIGN ij 283
+INSERT xZAG number
+INSERT kZ string
+ASSIGN elo 'qu'
+INSERT g string
+INSERT n9L3 string
+LOOKUP y1fH
+INSERT j number
+BEGIN

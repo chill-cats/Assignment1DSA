@@ -1,0 +1,24 @@
+LOOKUP pUpSq
+BEGIN
+INSERT v string
+INSERT zTzHKd string
+INSERT m string
+INSERT pU string
+INSERT cm string
+BEGIN
+LOOKUP cm
+INSERT x string
+PRINT
+INSERT u string
+INSERT sfoH number
+INSERT fCcj string
+LOOKUP u
+END
+INSERT x string
+INSERT bEcnTW number
+PRINT
+PRINT
+INSERT q string
+INSERT i7x7 number
+INSERT zE6 number
+PRINT

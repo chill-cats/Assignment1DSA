@@ -1,0 +1,37 @@
+INSERT q number
+RPRINT
+END
+eLQ ve
+INSERT vSODk string
+INSERT n string
+BEGIN
+RPRINT
+INSERT vp number
+ASSIGN vp q
+INSERT nQ9 string
+INSERT y2 string
+INSERT xX string
+INSERT fL string
+INSERT qY5SU4 number
+INSERT tj5T number
+INSERT uy string
+INSERT q5v_ string
+INSERT lygS string
+INSERT vQV number
+INSERT bQ7hWZ number
+PRINT
+LOOKUP vp
+INSERT vGU2K number
+INSERT yT number
+LOOKUP q
+LOOKUP uy
+INSERT ckq string
+INSERT l_ string
+INSERT i57LtG number
+INSERT kUL number
+INSERT aqyG string
+INSERT pmj8 string
+LOOKUP vQV
+ASSIGN y2 321
+INSERT dLBC0 string
+INSERT hgCLv string

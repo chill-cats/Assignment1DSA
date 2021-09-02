@@ -1,0 +1,11 @@
+INSERT ck number
+INSERT h5v string
+INSERT phGuC_ number
+INSERT zT string
+INSERT ozzb2 number
+ASSIGN ozzb2 h5v
+RPRINT
+INSERT p string
+INSERT pm string
+PRINT
+INSERT sYu number

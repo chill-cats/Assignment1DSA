@@ -1,0 +1,40 @@
+INSERT f string
+BEGIN
+idAp k3
+ASSIGN f f
+END
+INSERT l number
+INSERT tW1 string
+END
+INSERT d4 number
+BEGIN
+INSERT aMOay number
+LOOKUP aMOay
+BEGIN
+INSERT n number
+BEGIN
+INSERT i_ number
+INSERT c string
+INSERT j5c number
+LOOKUP tW1
+INSERT dX3ZG number
+INSERT jG number
+INSERT ihMCrs string
+tq tO6
+PRINT
+END
+INSERT cI number
+INSERT oaMTQL number
+INSERT rr string
+RPRINT
+LOOKUP rr
+PRINT
+RPRINT
+ASSIGN aMOay 'eURy'
+INSERT ibr3 number
+INSERT tmnYr7 number
+INSERT hTwFX0 number
+PRINT
+INSERT h number
+INSERT yc72D number
+INSERT rUQ number

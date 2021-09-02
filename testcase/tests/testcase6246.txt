@@ -1,0 +1,20 @@
+INSERT q55 number
+INSERT c5U string
+RPRINT
+INSERT zF number
+INSERT rv67 number
+INSERT dOq number
+RPRINT
+LOOKUP dOq
+INSERT nGH90 string
+INSERT s8u number
+INSERT axfk number
+BEGIN
+INSERT p9XcM number
+INSERT lWBv_9 string
+PRINT
+END
+LOOKUP q55
+INSERT nyf number
+INSERT j number
+END

@@ -1,0 +1,18 @@
+INSERT b3ul number
+INSERT z string
+INSERT n7uU number
+RPRINT
+BEGIN
+BEGIN
+INSERT eLvYsf number
+INSERT miN string
+INSERT s number
+INSERT fzTLEZ string
+INSERT fcEO string
+END
+INSERT c number
+END
+INSERT plsPF number
+PRINT
+LOOKUP fzTLEZ
+INSERT ilT1 string

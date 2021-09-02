@@ -1,0 +1,4 @@
+LOOKUP b
+INSERT wRyA number
+INSERT h number
+RPRINT

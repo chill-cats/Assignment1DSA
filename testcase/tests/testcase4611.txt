@@ -1,0 +1,17 @@
+PRINT
+INSERT rVP number
+INSERT uPrx string
+RPRINT
+INSERT aiZPDh string
+INSERT nFR5h string
+INSERT uw1Hq string
+INSERT xT string
+INSERT nQSb number
+LOOKUP xT
+LOOKUP nQSb
+ASSIGN fQnXd xT
+INSERT jAiX string
+INSERT cKL5U string
+r dZTI
+INSERT clXd number
+INSERT n number

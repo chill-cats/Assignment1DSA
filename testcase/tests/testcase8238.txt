@@ -1,0 +1,21 @@
+INSERT pmUNi5 string
+INSERT mg string
+INSERT lHT8sz number
+LOOKUP lHT8sz
+INSERT uM number
+RPRINT
+LOOKUP mg
+INSERT undkX string
+ASSIGN pmUNi5 undkX
+INSERT vV26E6 number
+INSERT h2B number
+LOOKUP vV26E6
+INSERT vW number
+INSERT xDzCba number
+INSERT biK number
+INSERT rH number
+PRINT
+ASSIGN xDzCba 220
+INSERT bjH string
+INSERT x string
+INSERT w_ string

@@ -1,0 +1,29 @@
+INSERT f number
+PRINT
+INSERT idP string
+RPRINT
+INSERT x9niu string
+INSERT mY string
+INSERT vZy number
+RPRINT
+ASSIGN x9niu f
+m q06f
+INSERT rB number
+INSERT bPOtet number
+INSERT i number
+END
+END
+INSERT nRg number
+INSERT lPZUmp string
+INSERT uQ string
+BEGIN
+INSERT ph number
+INSERT o number
+RPRINT
+INSERT pAY string
+INSERT dAL number
+jfiybF lH
+INSERT uHDQ string
+INSERT bL number
+INSERT s_cYUg number
+INSERT c string

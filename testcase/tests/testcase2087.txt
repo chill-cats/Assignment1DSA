@@ -1,0 +1,29 @@
+PRINT
+INSERT k0 number
+INSERT a string
+INSERT xJ2 string
+PRINT
+LOOKUP a
+BEGIN
+INSERT z23A string
+gok xE
+INSERT k_2kQJ string
+INSERT qUOvF1 number
+INSERT lwd number
+RPRINT
+INSERT e string
+INSERT g string
+INSERT bXr1b number
+END
+INSERT vZTvBD string
+END
+RPRINT
+INSERT apZG number
+PRINT
+INSERT e_itx string
+INSERT jV number
+INSERT fC string
+END
+orb_x i
+ASSIGN e_itx k_2kQJ
+INSERT f8 number

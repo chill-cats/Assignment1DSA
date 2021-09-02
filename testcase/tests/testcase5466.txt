@@ -1,0 +1,33 @@
+END
+INSERT kN number
+INSERT izQt number
+INSERT oL string
+INSERT skB string
+INSERT cp number
+INSERT tK string
+INSERT jad string
+INSERT y5P string
+INSERT ldk string
+INSERT diloIc number
+INSERT bFKr string
+INSERT b number
+BEGIN
+INSERT e9t7GR number
+INSERT kDT string
+INSERT bedpRM string
+PRINT
+ASSIGN diloIc 873
+ASSIGN oL bedpRM
+INSERT b0YE number
+INSERT t number
+RPRINT
+END
+LOOKUP e9t7GR
+INSERT xS string
+PRINT
+ASSIGN bedpRM 61
+END
+INSERT gg string
+BEGIN
+INSERT j string
+LOOKUP xS

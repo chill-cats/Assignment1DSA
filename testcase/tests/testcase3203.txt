@@ -1,0 +1,7 @@
+ASSIGN g 430
+END
+INSERT oup string
+ASSIGN oup '7'
+INSERT jL string
+BEGIN
+INSERT h53iEB number

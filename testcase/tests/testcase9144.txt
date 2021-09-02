@@ -1,0 +1,22 @@
+LOOKUP cZMW
+RPRINT
+INSERT tVHoi string
+INSERT a7LJT1 string
+INSERT k1Z number
+RPRINT
+PRINT
+LOOKUP a7LJT1
+INSERT s string
+INSERT zDGE string
+RPRINT
+wyV bUtA7X
+LOOKUP bN2
+INSERT b string
+INSERT br4L string
+INSERT f9TT number
+INSERT caK string
+INSERT b8ayIs number
+INSERT zovT string
+BEGIN
+END
+INSERT i4 number

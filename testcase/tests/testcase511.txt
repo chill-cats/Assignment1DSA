@@ -1,0 +1,30 @@
+INSERT mJKUXO number
+INSERT kI number
+INSERT p string
+INSERT bsay0b number
+INSERT x6m9N number
+INSERT cE4r string
+ASSIGN bsay0b mJKUXO
+INSERT kYs number
+RPRINT
+INSERT kr number
+LOOKUP x6m9N
+END
+ASSIGN cE4r 'jA8'
+INSERT dxU6L string
+INSERT puHN number
+RPRINT
+INSERT rP09p string
+INSERT ze2Cjc number
+INSERT r3 number
+RPRINT
+INSERT rL number
+INSERT xZyzg string
+LOOKUP puHN
+PRINT
+INSERT aX number
+INSERT fdIP6 number
+INSERT c1oWU3 number
+LOOKUP bsay0b
+PRINT
+INSERT i_ string

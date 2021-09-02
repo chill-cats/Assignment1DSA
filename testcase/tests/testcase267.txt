@@ -1,0 +1,9 @@
+INSERT tn string
+INSERT l string
+INSERT js9 string
+INSERT r number
+PRINT
+INSERT hS number
+INSERT vVR6y string
+INSERT hlbkzu number
+ASSIGN hS l

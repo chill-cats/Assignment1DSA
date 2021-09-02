@@ -1,0 +1,14 @@
+INSERT xMmn string
+BEGIN
+INSERT a number
+INSERT e string
+INSERT emf string
+INSERT nZk string
+INSERT h number
+INSERT k string
+ASSIGN a 337
+RPRINT
+RPRINT
+ASSIGN a 427
+INSERT dg string
+RPRINT

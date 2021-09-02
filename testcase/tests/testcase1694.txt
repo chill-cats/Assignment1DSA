@@ -1,0 +1,28 @@
+END
+BEGIN
+INSERT iX number
+INSERT a4WEH string
+LOOKUP iX
+END
+END
+INSERT nhtD1 string
+END
+INSERT nrYdoZ number
+BEGIN
+INSERT x7 string
+INSERT bqHWb string
+INSERT nOgX4 number
+INSERT xAOh number
+INSERT lpydl2 number
+INSERT k5K2I string
+LOOKUP nrYdoZ
+INSERT qrAf number
+END
+PRINT
+nPDB slzJ
+INSERT n string
+INSERT va7 number
+ASSIGN x7 x7
+INSERT kZdQAq number
+INSERT k_nH number
+INSERT mar string

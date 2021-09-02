@@ -1,0 +1,40 @@
+INSERT rZu8H number
+INSERT f string
+INSERT fhu number
+INSERT en4w string
+RPRINT
+INSERT iVcY number
+BEGIN
+RPRINT
+INSERT yqm string
+LOOKUP yqm
+INSERT sKQcg string
+RPRINT
+INSERT diW string
+INSERT i0 number
+INSERT fu number
+INSERT f5X string
+INSERT xu30 number
+INSERT dfnZa number
+INSERT gsGiY string
+INSERT r string
+INSERT b number
+INSERT bwx9EF number
+ASSIGN f5X xu30
+INSERT bZ string
+INSERT a number
+INSERT hQq number
+INSERT r1MFL string
+sYZv e
+BEGIN
+INSERT e string
+END
+INSERT oq string
+LOOKUP yqm
+INSERT v number
+INSERT id string
+LOOKUP a
+LOOKUP dfnZa
+INSERT q6 string
+INSERT dMA_Nj number
+LOOKUP f

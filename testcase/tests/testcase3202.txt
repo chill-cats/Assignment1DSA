@@ -1,0 +1,32 @@
+INSERT eg number
+LOOKUP eg
+INSERT b6 number
+LOOKUP b6
+INSERT x number
+PRINT
+INSERT kz string
+RPRINT
+xQeTLb wm3e1
+ASSIGN kz 653
+RPRINT
+INSERT e_9Oxd string
+LOOKUP kz
+INSERT nWzmeG string
+INSERT l string
+BEGIN
+yWo vpa
+INSERT aGLv number
+INSERT w8Ai3H string
+INSERT l9VlOH number
+INSERT uCoUyt string
+INSERT so string
+INSERT fa7md string
+ASSIGN fa7md nWzmeG
+INSERT o number
+INSERT j string
+PRINT
+INSERT kvO number
+INSERT gX number
+ASSIGN nWzmeG 'C'
+PRINT
+INSERT vp number

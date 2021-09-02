@@ -1,0 +1,6 @@
+LOOKUP mRpGJe
+INSERT kMG number
+INSERT q0jqGv number
+INSERT gK number
+INSERT e number
+BEGIN

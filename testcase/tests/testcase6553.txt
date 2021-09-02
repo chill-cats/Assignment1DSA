@@ -1,0 +1,8 @@
+RPRINT
+INSERT s1sbPU number
+INSERT pEh string
+PRINT
+LOOKUP pEh
+INSERT uMz string
+INSERT d6RSC_ number
+PRINT

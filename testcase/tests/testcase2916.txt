@@ -1,0 +1,9 @@
+INSERT qXHX string
+INSERT j string
+INSERT e number
+LOOKUP qXHX
+INSERT pj8V string
+INSERT k6ftKR string
+INSERT t string
+BEGIN
+ASSIGN k6ftKR '5'

@@ -1,0 +1,37 @@
+tjHE iVwO5x
+INSERT bvH3 number
+LOOKUP bvH3
+BEGIN
+jz_026 zPuSBr
+INSERT lAi string
+INSERT yMg string
+gnMD dT
+END
+INSERT iYOEpT string
+INSERT e number
+INSERT l2aQ7 number
+INSERT nQ7sJ string
+BEGIN
+INSERT owlnQd string
+INSERT qoPd string
+INSERT yuXUMf string
+END
+INSERT kAo string
+INSERT m number
+RPRINT
+INSERT z number
+ASSIGN kAo 'EHHbv'
+INSERT rcxJt string
+INSERT a number
+INSERT svaSnD number
+PRINT
+INSERT k0 string
+BEGIN
+BEGIN
+INSERT d string
+INSERT f4OpEc string
+ASSIGN a rcxJt
+RPRINT
+LOOKUP nQ7sJ
+INSERT l number
+INSERT ho number

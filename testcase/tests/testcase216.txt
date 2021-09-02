@@ -1,0 +1,19 @@
+INSERT p number
+INSERT q3Yv string
+INSERT yH string
+END
+LOOKUP q3Yv
+RPRINT
+INSERT rZ number
+INSERT cexXHU number
+PRINT
+INSERT j__ number
+RPRINT
+INSERT whv5 number
+INSERT hm4n string
+END
+LOOKUP rZ
+INSERT h5s string
+INSERT lmT number
+INSERT i number
+INSERT pgVkeU number

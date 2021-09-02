@@ -1,0 +1,37 @@
+LOOKUP b
+INSERT rZK number
+INSERT dI number
+PRINT
+INSERT acRv7 number
+PRINT
+INSERT v2j number
+END
+ASSIGN dI 'L'
+INSERT ysXGT number
+INSERT hsApO number
+INSERT vJMd number
+BEGIN
+INSERT ffF6Zy number
+LOOKUP rZK
+INSERT dLFR number
+END
+INSERT lz string
+INSERT sBdmN number
+ASSIGN rZK 'p'
+INSERT y3Jxp1 number
+INSERT pDUs number
+INSERT gHdL number
+PRINT
+INSERT fl number
+INSERT ow string
+INSERT dXr string
+LOOKUP fl
+INSERT s9 string
+PRINT
+INSERT h string
+INSERT k3339 string
+END
+INSERT xfnJty number
+INSERT oE7JF number
+INSERT a number
+INSERT x number

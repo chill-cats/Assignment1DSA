@@ -1,0 +1,16 @@
+INSERT x_BH string
+ASSIGN x_BH x_BH
+LOOKUP x_BH
+BEGIN
+INSERT aFD8 string
+ct0 l
+INSERT dLa number
+INSERT oS number
+INSERT l2 string
+rZ5mC mg
+LOOKUP l2
+RPRINT
+INSERT fN number
+INSERT opxE0 number
+INSERT fs number
+RPRINT

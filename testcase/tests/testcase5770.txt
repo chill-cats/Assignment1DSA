@@ -1,0 +1,22 @@
+INSERT yHn2r string
+INSERT g number
+LOOKUP yHn2r
+END
+BEGIN
+END
+END
+END
+INSERT n4 number
+INSERT ekC number
+INSERT uzG string
+PRINT
+PRINT
+INSERT a number
+INSERT w number
+END
+INSERT bUHHoT string
+INSERT in string
+ASSIGN g 'Az0'
+INSERT khD string
+INSERT yLto string
+INSERT yt string

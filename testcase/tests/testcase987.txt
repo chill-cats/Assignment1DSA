@@ -1,0 +1,9 @@
+ASSIGN sZou 'iF'
+INSERT fi number
+INSERT eExm string
+xS unpz
+INSERT t4IO number
+RPRINT
+INSERT qx number
+INSERT yOhO number
+INSERT pw number

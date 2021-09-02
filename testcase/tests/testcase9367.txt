@@ -1,0 +1,38 @@
+INSERT o number
+dw9 nd0
+INSERT w number
+PRINT
+INSERT fJqSN number
+INSERT fM96 string
+INSERT xiTxXW string
+ASSIGN fM96 162
+INSERT cndpsC number
+INSERT ovSB string
+iif vctk
+INSERT jMv4 string
+LOOKUP cndpsC
+LOOKUP xiTxXW
+LOOKUP fM96
+INSERT wcH string
+INSERT gV4 string
+INSERT hISjI string
+PRINT
+INSERT s9 string
+INSERT wd number
+PRINT
+BEGIN
+ASSIGN fM96 jMv4
+INSERT gNs string
+INSERT tfZnAt string
+END
+INSERT lHcw string
+INSERT uZIUcg string
+INSERT mXuQ number
+PRINT
+RPRINT
+INSERT dEn number
+INSERT pId7 number
+ASSIGN ovSB 'OY'
+INSERT fIc string
+INSERT iS number
+INSERT kt number

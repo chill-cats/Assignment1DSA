@@ -1,0 +1,6 @@
+INSERT g number
+f9hn c4db_F
+END
+INSERT vhy_J string
+RPRINT
+LOOKUP vhy_J

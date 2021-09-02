@@ -1,0 +1,22 @@
+wt d3_Cm
+INSERT uax number
+INSERT lvJ string
+INSERT vctuA string
+PRINT
+PRINT
+ASSIGN lvJ 165
+INSERT a5Dv1 number
+BEGIN
+PRINT
+INSERT hl string
+INSERT x string
+BEGIN
+INSERT i0Yh number
+INSERT zcIEB string
+INSERT z number
+INSERT eU424 string
+INSERT d string
+INSERT t5R_a string
+INSERT qxd string
+INSERT g string
+END

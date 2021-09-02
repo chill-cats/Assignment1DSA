@@ -1,0 +1,7 @@
+PRINT
+INSERT gbZ number
+vi3CHt s9mD
+END
+LOOKUP gbZ
+LOOKUP gbZ
+INSERT dD0 string

@@ -1,0 +1,14 @@
+PRINT
+INSERT u number
+INSERT v string
+g xh0Iy
+LOOKUP v
+cam_ xzMa
+RPRINT
+INSERT ljSr string
+END
+INSERT k_7 string
+INSERT abj number
+INSERT oEq number
+LOOKUP k_7
+PRINT

@@ -1,0 +1,24 @@
+INSERT l string
+INSERT ok number
+INSERT p4Z string
+END
+INSERT cX number
+INSERT lM7Cqn string
+END
+INSERT eqIUA string
+INSERT eFNhuR number
+INSERT x8rS number
+INSERT aE0Y7 string
+oFU aTsGN
+INSERT nPKZ number
+INSERT ctm5ji string
+INSERT r68 number
+INSERT gBQQ number
+INSERT azqA string
+RPRINT
+INSERT hu9 number
+BEGIN
+ASSIGN gBQQ gBQQ
+INSERT u string
+END
+END

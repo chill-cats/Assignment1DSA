@@ -1,0 +1,28 @@
+INSERT dHIb string
+ASSIGN dHIb 'tg8cd'
+INSERT m number
+INSERT fvu9 string
+LOOKUP rrW
+INSERT e number
+INSERT dJk4K number
+INSERT nBsuC6 number
+INSERT cn string
+pB_fA uXen
+INSERT li number
+BEGIN
+LOOKUP m
+ASSIGN dJk4K 681
+ASSIGN fvu9 dHIb
+RPRINT
+INSERT d string
+INSERT lb string
+INSERT pBPgd string
+INSERT c string
+ASSIGN cn 418
+INSERT gD number
+INSERT k5oNs8 string
+PRINT
+ASSIGN d 379
+INSERT wLtESz string
+INSERT kgQ13U number
+ASSIGN kgQ13U k5oNs8

@@ -1,0 +1,23 @@
+END
+INSERT r number
+INSERT v number
+BEGIN
+INSERT fZOx number
+ASSIGN r 891
+INSERT c number
+INSERT aMIfv string
+BEGIN
+INSERT kN string
+INSERT hPR string
+INSERT vg_Gx number
+LOOKUP fZOx
+INSERT th string
+INSERT sb string
+INSERT l number
+INSERT lK6X7 number
+INSERT mI_yoo string
+INSERT jygkB number
+INSERT a1sMQ number
+INSERT j string
+INSERT b7PW7 number
+INSERT nOubho number

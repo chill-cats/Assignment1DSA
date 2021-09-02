@@ -1,0 +1,32 @@
+INSERT yq string
+INSERT kf number
+LOOKUP kf
+INSERT vyhS_ number
+INSERT qX string
+RPRINT
+INSERT aK4kwA number
+INSERT ttdDVO number
+RPRINT
+INSERT wmE6 string
+BEGIN
+INSERT s6GIF string
+INSERT ptgmpM number
+INSERT aU0Av string
+s6_wU sfW
+INSERT am number
+BEGIN
+INSERT sf string
+INSERT c string
+INSERT mnE4f string
+cYiz pxxt
+INSERT um3rGy string
+INSERT f1C string
+INSERT qVyKyx number
+INSERT qKFX string
+INSERT qMO4PP number
+INSERT x string
+INSERT tNi_4 number
+ASSIGN x f1C
+INSERT ojm088 string
+BEGIN
+INSERT fL string

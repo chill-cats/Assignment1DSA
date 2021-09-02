@@ -1,0 +1,33 @@
+END
+INSERT lu number
+BEGIN
+INSERT tKzl number
+END
+nHk0L i7nL
+BEGIN
+INSERT vKxKne string
+INSERT a2Uz string
+INSERT lhBe string
+INSERT e string
+INSERT hX number
+END
+RPRINT
+INSERT x number
+INSERT tHoVAF number
+INSERT svWzk string
+INSERT o_a string
+INSERT oREbk string
+ASSIGN oREbk tKzl
+INSERT n16LMF string
+INSERT tS6 number
+ASSIGN tKzl 915
+INSERT hH6 number
+ASSIGN tKzl 'kNTTg'
+INSERT mvy9 number
+INSERT dp4XY number
+RPRINT
+INSERT p0vjAk number
+INSERT uZcY number
+END
+RPRINT
+INSERT iVv23N string

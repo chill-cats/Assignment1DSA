@@ -1,0 +1,30 @@
+BEGIN
+INSERT hVzD string
+INSERT e4QhV number
+INSERT n number
+BEGIN
+LOOKUP hVzD
+ASSIGN e4QhV 136
+c3 w5
+INSERT tuUY number
+INSERT qkD number
+END
+INSERT b8j number
+INSERT sy string
+INSERT l7F number
+INSERT kFo string
+INSERT m number
+INSERT wJJV4 string
+RPRINT
+RPRINT
+INSERT babt string
+LOOKUP tuUY
+INSERT p string
+INSERT mtknZZ number
+INSERT mVGJ string
+INSERT luw string
+END
+LOOKUP babt
+END
+INSERT fI4ih string
+INSERT o number

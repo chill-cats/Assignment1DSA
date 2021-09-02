@@ -1,0 +1,6 @@
+INSERT dLE string
+PRINT
+INSERT x number
+INSERT xAwFsz number
+ASSIGN xAwFsz 'HK'
+PRINT

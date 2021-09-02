@@ -1,0 +1,35 @@
+PRINT
+INSERT ez string
+ASSIGN ez 'R3'
+INSERT ke string
+BEGIN
+INSERT fXAt number
+LOOKUP ke
+INSERT l number
+INSERT d2jb string
+INSERT a0l__A number
+r l
+RPRINT
+uzLWJx m0zFiA
+BEGIN
+ncsr o3
+INSERT sDV1 string
+INSERT ml72 string
+jDksBk a
+INSERT iV string
+END
+INSERT iNo string
+INSERT g_ string
+INSERT zUs6H number
+INSERT zJZb number
+ASSIGN l 'p3b'
+PRINT
+INSERT z2c string
+END
+ASSIGN iNo z2c
+BEGIN
+INSERT oaxLv string
+pI k
+w vh2
+INSERT x number
+PRINT

@@ -1,0 +1,28 @@
+INSERT tI number
+INSERT qxqwm string
+INSERT qUkZ string
+INSERT b number
+INSERT wKAFxm number
+INSERT otvK string
+INSERT eshYA string
+ASSIGN wKAFxm 'POdg'
+INSERT dl3Nh string
+INSERT q number
+LOOKUP tI
+INSERT oINXT number
+LOOKUP qxqwm
+INSERT gt number
+RPRINT
+PRINT
+INSERT pshwa string
+INSERT aBAK0 number
+INSERT eEkY2y string
+ASSIGN oINXT gt
+INSERT tyzu string
+PRINT
+LOOKUP qxqwm
+END
+INSERT kIv number
+PRINT
+oBVZ hBbYu
+BEGIN

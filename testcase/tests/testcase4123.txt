@@ -1,0 +1,36 @@
+INSERT s string
+INSERT hsddOC string
+INSERT b number
+INSERT tPsfQ string
+RPRINT
+INSERT d1 number
+PRINT
+INSERT ct number
+INSERT k number
+INSERT o9qlMD number
+PRINT
+RPRINT
+BEGIN
+INSERT fjls number
+END
+INSERT w string
+LOOKUP tPsfQ
+INSERT qxED string
+INSERT xYfn string
+INSERT uPzbYt number
+INSERT bXBc number
+LOOKUP d1
+BEGIN
+RPRINT
+INSERT ty5 number
+INSERT qhhinr number
+INSERT paeVR string
+INSERT szXcb number
+END
+INSERT s8T number
+INSERT mppGK1 string
+ASSIGN qxED xYfn
+INSERT euj string
+INSERT iT number
+BEGIN
+INSERT xF string

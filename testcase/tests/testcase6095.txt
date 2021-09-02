@@ -1,0 +1,13 @@
+INSERT z number
+ASSIGN z 'fY'
+INSERT ghZ string
+END
+ASSIGN ghZ '4z7d'
+INSERT hks61 number
+INSERT kucxW string
+END
+INSERT oBlc number
+INSERT z string
+INSERT acUG string
+INSERT pBA string
+END

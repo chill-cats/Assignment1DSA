@@ -1,0 +1,31 @@
+END
+PRINT
+INSERT ySrX3 string
+END
+END
+LOOKUP ySrX3
+RPRINT
+BEGIN
+END
+INSERT la number
+INSERT kwP number
+INSERT iwSH string
+INSERT dKeqC number
+ASSIGN kwP 783
+INSERT eqp3 number
+RPRINT
+INSERT qdQZs string
+INSERT uf string
+INSERT t string
+INSERT kQLu number
+INSERT zzTl number
+BEGIN
+xG57tV ww
+INSERT ok number
+INSERT z number
+INSERT rm number
+INSERT meS string
+INSERT e string
+INSERT oL9 string
+INSERT sLNY9 string
+INSERT jjwvNT number

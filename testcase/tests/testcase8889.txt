@@ -1,0 +1,22 @@
+INSERT s number
+RPRINT
+INSERT ji1pE number
+INSERT f5W string
+INSERT qX1r string
+RPRINT
+INSERT mWfxuB number
+INSERT cG2 number
+INSERT xIfDS number
+INSERT mc8hB number
+INSERT f number
+RPRINT
+INSERT sVt1x string
+END
+INSERT w string
+INSERT i string
+PRINT
+INSERT jyw string
+ASSIGN s 'Y'
+BEGIN
+LOOKUP f5W
+INSERT juwgo2 string

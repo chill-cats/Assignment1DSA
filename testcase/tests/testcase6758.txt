@@ -1,0 +1,34 @@
+ASSIGN tV8eIB 1207
+INSERT s4oN string
+eZw a
+ASSIGN s4oN 1068
+INSERT hE string
+INSERT mKLpH string
+INSERT p number
+LOOKUP hE
+PRINT
+INSERT lA number
+INSERT mZR number
+BEGIN
+LOOKUP hE
+PRINT
+INSERT b string
+b p4
+INSERT cYsK string
+INSERT fb string
+zS oJBu
+END
+ASSIGN cYsK 'Eej'
+ASSIGN fb 'm'
+INSERT jCdm string
+INSERT nPyWWa number
+INSERT pzPNG string
+INSERT utk number
+INSERT q number
+PRINT
+BEGIN
+INSERT j number
+LOOKUP b
+INSERT kPpDx string
+INSERT vJ number
+END

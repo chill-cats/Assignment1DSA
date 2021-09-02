@@ -1,0 +1,7 @@
+INSERT dprF7 string
+INSERT jxZmB number
+RPRINT
+INSERT pUnQfE number
+INSERT j string
+INSERT h1C number
+END

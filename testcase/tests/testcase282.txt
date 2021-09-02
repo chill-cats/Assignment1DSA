@@ -1,0 +1,9 @@
+INSERT nS4 string
+INSERT xM number
+RPRINT
+INSERT oZpuX string
+INSERT kGgM number
+INSERT g667 number
+INSERT u4FEA number
+INSERT z43 string
+INSERT uYRgGE number

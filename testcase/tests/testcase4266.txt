@@ -1,0 +1,30 @@
+INSERT rlJp string
+BEGIN
+INSERT ei number
+ASSIGN ei rlJp
+INSERT pwSw5 number
+BEGIN
+RPRINT
+INSERT hXFvzV string
+zb0XW dpwHt_
+INSERT itORvA number
+INSERT s3 number
+INSERT tW string
+LOOKUP s3
+INSERT bLrIk number
+LOOKUP s3
+INSERT czLMG string
+PRINT
+INSERT cX number
+INSERT q3S string
+PRINT
+INSERT e string
+PRINT
+INSERT w string
+RPRINT
+INSERT zfS string
+RPRINT
+PRINT
+PRINT
+INSERT ifdMIW number
+INSERT sgwL string

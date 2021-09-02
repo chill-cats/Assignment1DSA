@@ -1,0 +1,17 @@
+INSERT erUI string
+ASSIGN erUI 'oG'
+ASSIGN erUI '8'
+END
+INSERT y number
+PRINT
+qubl a5Aih
+INSERT yrZ number
+LOOKUP y
+INSERT d4nsb number
+INSERT ih string
+END
+LOOKUP d4nsb
+ASSIGN y 'F'
+END
+ASSIGN ih 'dHaAH'
+INSERT gQUELG string

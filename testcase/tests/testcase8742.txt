@@ -1,0 +1,28 @@
+INSERT hrHO number
+ASSIGN hrHO '9AglA'
+INSERT oYNir number
+INSERT kR string
+ASSIGN oYNir 1064
+BEGIN
+INSERT npEKo string
+INSERT fo84 number
+INSERT cmGCJB number
+INSERT cKvfhA string
+INSERT b4CV number
+INSERT xt string
+INSERT sU3H number
+INSERT zFx number
+BEGIN
+INSERT ut75Z number
+RPRINT
+INSERT mak7 string
+INSERT m string
+INSERT li string
+PRINT
+INSERT mwRB number
+INSERT znjv string
+INSERT o number
+PRINT
+END
+INSERT wm string
+INSERT yINdk number

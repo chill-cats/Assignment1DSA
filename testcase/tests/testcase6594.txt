@@ -1,0 +1,16 @@
+LOOKUP ua6TS
+INSERT vm_c string
+INSERT dL1 string
+INSERT qnQ number
+ASSIGN dL1 'K'
+INSERT vXK string
+PRINT
+INSERT haDjXr string
+INSERT qVOjH string
+END
+BEGIN
+RPRINT
+PRINT
+RPRINT
+RPRINT
+BEGIN

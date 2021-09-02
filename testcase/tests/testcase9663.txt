@@ -1,0 +1,28 @@
+PRINT
+INSERT oV number
+INSERT m5EA number
+INSERT bQSK2 string
+INSERT xgq number
+INSERT zvPA8 string
+INSERT zUfMf9 number
+INSERT cn string
+INSERT zmkXVl string
+INSERT vQDUB number
+END
+BEGIN
+INSERT ro string
+END
+PRINT
+INSERT maW number
+PRINT
+INSERT dU string
+INSERT r string
+INSERT ch87 string
+INSERT oSaJ number
+INSERT eYsY_ string
+ASSIGN xgq '6sKn'
+INSERT o string
+END
+LOOKUP ch87
+INSERT asgxAV number
+INSERT h string

@@ -1,0 +1,40 @@
+LOOKUP uLES0
+zGT sw
+INSERT sA number
+INSERT alhO string
+u c
+INSERT mg number
+INSERT r6S string
+LOOKUP mg
+INSERT xQ string
+INSERT mmW number
+PRINT
+ASSIGN xQ 229
+RPRINT
+INSERT owQpU string
+ASSIGN mmW sA
+e jN
+INSERT ue string
+wTzxB tHJ
+INSERT ooGv number
+PRINT
+INSERT ccAx string
+INSERT qMQ_ number
+INSERT qt8o string
+PRINT
+END
+INSERT fG string
+INSERT xxt number
+xm3d a
+INSERT uIse number
+INSERT b string
+INSERT f string
+END
+INSERT igH1w string
+LOOKUP sA
+RPRINT
+END
+INSERT lrqTG number
+INSERT sgX number
+LOOKUP owQpU
+LOOKUP vfl_

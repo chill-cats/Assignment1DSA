@@ -1,0 +1,3 @@
+INSERT sw8Sy number
+INSERT r number
+INSERT k string

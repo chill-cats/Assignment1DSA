@@ -1,0 +1,25 @@
+PRINT
+END
+INSERT pE number
+INSERT j7 string
+INSERT s9a number
+END
+INSERT vD number
+INSERT h9Dn string
+LOOKUP s9a
+INSERT bp3 string
+INSERT zaQ9Nq number
+INSERT s string
+INSERT e6OR string
+INSERT rHjKY number
+INSERT z2 string
+uNEL7G s0H
+INSERT kZGpMT string
+INSERT b9lqqF number
+INSERT qP string
+INSERT jcJd number
+ASSIGN b9lqqF z2
+INSERT g_KmBN string
+INSERT g string
+INSERT cJ string
+INSERT n0PNs number

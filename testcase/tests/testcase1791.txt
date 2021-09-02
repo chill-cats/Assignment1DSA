@@ -1,0 +1,7 @@
+LOOKUP a
+INSERT kXId string
+RPRINT
+INSERT zn number
+INSERT hCmHn string
+END
+RPRINT

@@ -1,0 +1,7 @@
+INSERT r number
+PRINT
+INSERT y number
+RPRINT
+INSERT zkN9 number
+BEGIN
+INSERT qR string

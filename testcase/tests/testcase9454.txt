@@ -1,0 +1,10 @@
+INSERT gX_ string
+END
+INSERT p number
+INSERT yW7g number
+INSERT jbZ number
+INSERT i string
+INSERT j7v number
+INSERT cR_n number
+INSERT cl number
+PRINT

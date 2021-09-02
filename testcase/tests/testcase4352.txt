@@ -1,0 +1,14 @@
+BEGIN
+BEGIN
+INSERT z string
+INSERT s00CT number
+PRINT
+INSERT xrA number
+INSERT kcY2e string
+INSERT g string
+INSERT zt number
+RPRINT
+END
+q4 olxpy
+RPRINT
+INSERT f string

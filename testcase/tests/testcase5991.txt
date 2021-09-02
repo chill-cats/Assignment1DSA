@@ -1,0 +1,10 @@
+BEGIN
+INSERT guZy number
+RPRINT
+INSERT mFe string
+END
+INSERT iuf number
+RPRINT
+ASSIGN guZy 'iAC'
+INSERT vV number
+INSERT yUrB8 number

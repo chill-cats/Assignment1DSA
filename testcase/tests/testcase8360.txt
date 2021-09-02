@@ -1,0 +1,39 @@
+INSERT mEPK number
+INSERT tShA number
+INSERT ah string
+END
+LOOKUP ah
+INSERT isCq string
+INSERT iDJv string
+INSERT bya string
+LOOKUP mEPK
+INSERT j string
+INSERT p number
+RPRINT
+INSERT yHQ number
+END
+INSERT mCOHB string
+INSERT a string
+BEGIN
+INSERT to number
+INSERT l1O string
+PRINT
+nZro s
+ASSIGN mCOHB 914
+INSERT n number
+dYZ iV6X3f
+INSERT vUSB1n string
+INSERT g string
+INSERT lduLd number
+INSERT fHb string
+nZ4 cNclY0
+INSERT ekQe85 number
+INSERT r4n number
+ASSIGN iDJv n
+LOOKUP l1O
+RPRINT
+INSERT yZrjp number
+INSERT lhTjvl number
+BEGIN
+BEGIN
+END

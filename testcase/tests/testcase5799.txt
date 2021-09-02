@@ -1,0 +1,20 @@
+INSERT wH string
+INSERT k number
+INSERT nMhlO_ string
+INSERT th number
+INSERT wsE1W string
+END
+INSERT vc number
+END
+INSERT wfe number
+RPRINT
+END
+INSERT p4Tm string
+LOOKUP wfe
+INSERT r number
+INSERT mEb number
+INSERT lMEdw_ number
+INSERT rsz string
+INSERT wi number
+END
+INSERT lTeD string

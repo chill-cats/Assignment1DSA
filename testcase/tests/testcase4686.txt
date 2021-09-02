@@ -1,0 +1,37 @@
+INSERT ws string
+PRINT
+INSERT p_Tj string
+INSERT m string
+INSERT xN7 number
+pEaQgj iHff7s
+BEGIN
+INSERT iFh number
+INSERT iVtp number
+INSERT x number
+INSERT dbgS string
+LOOKUP xN7
+RPRINT
+INSERT z number
+BEGIN
+INSERT u number
+BEGIN
+INSERT pVrQ string
+INSERT m5z string
+INSERT sW6 string
+INSERT ehUED number
+INSERT u string
+INSERT mq number
+INSERT l2XO number
+INSERT nWo number
+INSERT fcFZR string
+INSERT uJPjM number
+INSERT wN number
+INSERT nu4Eh string
+INSERT qTOan number
+PRINT
+INSERT e number
+INSERT t7_M number
+RPRINT
+INSERT kIq3B number
+INSERT hv number
+INSERT jCO string

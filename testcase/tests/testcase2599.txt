@@ -1,0 +1,20 @@
+INSERT h number
+PRINT
+INSERT w string
+RPRINT
+INSERT o number
+INSERT g8jB7 string
+LOOKUP w
+gOvtj zW
+BEGIN
+INSERT na5Avf string
+LOOKUP w
+END
+INSERT o2km0 string
+INSERT ac number
+BEGIN
+INSERT o string
+uRm miE
+LOOKUP o2km0
+ASSIGN o2km0 'hQwuu'
+END

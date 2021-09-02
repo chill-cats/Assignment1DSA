@@ -1,0 +1,15 @@
+PRINT
+INSERT guc string
+BEGIN
+INSERT vom number
+ASSIGN vom 'roi'
+b_sb6C iQh
+INSERT uv number
+INSERT z4ROZ number
+INSERT f number
+PRINT
+BEGIN
+INSERT e string
+INSERT j5c number
+INSERT s string
+ASSIGN nFvVk3 f

@@ -1,0 +1,5 @@
+INSERT b9t977 string
+INSERT bLvpL number
+fv2N vdq
+BEGIN
+PRINT

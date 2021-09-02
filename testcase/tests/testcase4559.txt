@@ -1,0 +1,27 @@
+INSERT t789Z string
+INSERT v string
+INSERT g3_ string
+INSERT m6bm0 number
+INSERT kgZUgK string
+INSERT iEw number
+ASSIGN g3_ v
+RPRINT
+INSERT cbRszx number
+ASSIGN m6bm0 'H7N'
+PRINT
+ASSIGN t789Z ' 7d'
+END
+INSERT lr number
+INSERT uy string
+PRINT
+INSERT h number
+BEGIN
+INSERT s number
+INSERT gtYC2O number
+PRINT
+INSERT id number
+INSERT pI string
+INSERT j2HQ number
+END
+LOOKUP id
+INSERT ocm string

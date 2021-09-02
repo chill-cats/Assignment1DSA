@@ -1,0 +1,25 @@
+INSERT atWtsg string
+INSERT fH string
+PRINT
+INSERT x61E string
+RPRINT
+INSERT v string
+INSERT d number
+INSERT u string
+RPRINT
+INSERT oDm number
+PRINT
+INSERT lKNtek number
+INSERT zZ8VFt number
+INSERT eWVAF number
+RPRINT
+INSERT tVuE number
+RPRINT
+PRINT
+PRINT
+END
+INSERT gRec string
+END
+INSERT yVYo number
+INSERT fe5N string
+INSERT mdlnH string

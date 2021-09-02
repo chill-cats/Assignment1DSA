@@ -1,0 +1,34 @@
+RPRINT
+PRINT
+PRINT
+INSERT s string
+xdmQY vMo6
+ASSIGN s '45'
+RPRINT
+END
+LOOKUP s
+INSERT eGhiM number
+INSERT z string
+INSERT shUeb string
+INSERT v number
+INSERT z number
+INSERT f string
+INSERT anqQ number
+INSERT zRYz string
+INSERT qp number
+n rqax
+ASSIGN v 'FaVGN'
+ASSIGN z s
+INSERT ntMAK number
+INSERT vZi3N number
+END
+ASSIGN shUeb 419
+LOOKUP f
+BEGIN
+INSERT rWf0u string
+RPRINT
+INSERT zaCBr number
+INSERT aULt8N number
+INSERT v6hnbq number
+INSERT omyH number
+RPRINT

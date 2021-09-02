@@ -1,0 +1,38 @@
+INSERT kGdkM string
+INSERT mKah number
+INSERT aQnv string
+BEGIN
+LOOKUP vvP
+LOOKUP mKah
+INSERT qysn number
+BEGIN
+INSERT m8 string
+INSERT g3 number
+LOOKUP aQnv
+INSERT iWS string
+INSERT m6F number
+BEGIN
+INSERT b string
+ASSIGN b 'BL'
+END
+LOOKUP aQnv
+BEGIN
+INSERT ufAV number
+INSERT bXfs number
+PRINT
+INSERT mzzSAJ number
+jAMq0 a
+INSERT dZ string
+INSERT zRdLkI string
+PRINT
+INSERT j string
+INSERT kmxe string
+PRINT
+PRINT
+INSERT abT61O number
+h5qY lFO7m
+INSERT x string
+INSERT mF2aJE number
+ASSIGN mzzSAJ x
+RPRINT
+INSERT n number

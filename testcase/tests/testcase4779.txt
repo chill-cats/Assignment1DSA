@@ -1,0 +1,21 @@
+INSERT o string
+BEGIN
+ASSIGN o 'D'
+INSERT j number
+RPRINT
+INSERT kex number
+INSERT w number
+END
+BEGIN
+i rvEa
+bgrWO kHZ1
+INSERT kae9f string
+INSERT epGXT string
+y_ w
+INSERT plL number
+PRINT
+ASSIGN w 277
+INSERT cX string
+INSERT xMBy string
+INSERT jeFXE number
+END

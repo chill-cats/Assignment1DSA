@@ -1,0 +1,37 @@
+INSERT o string
+ASSIGN o 'TPOe'
+INSERT uef string
+INSERT jLPz string
+INSERT z string
+INSERT u string
+INSERT tb string
+ASSIGN u tb
+INSERT w number
+ASSIGN o 665
+INSERT jxFZVy number
+ASSIGN w '8'
+BEGIN
+INSERT f2wL1 string
+INSERT b string
+INSERT yklMzn string
+INSERT r1eD number
+INSERT kqwQ number
+INSERT e number
+INSERT oD string
+ky9Eul iqAxhg
+ASSIGN oD 689
+INSERT mXj string
+LOOKUP jLPz
+ASSIGN o '5BPZ'
+INSERT cB string
+INSERT sa_Y number
+ASSIGN r1eD cB
+ASSIGN w 'i'
+LOOKUP oD
+RPRINT
+RPRINT
+PRINT
+BEGIN
+jtXYXV iYKb
+INSERT et string
+INSERT j number

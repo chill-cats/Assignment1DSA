@@ -1,0 +1,18 @@
+INSERT k6RS02 string
+END
+ASSIGN k6RS02 'PJ'
+RPRINT
+INSERT nnIK1R string
+mPpacL man5Ls
+RPRINT
+INSERT kLbj string
+PRINT
+END
+INSERT nsncQP number
+RPRINT
+LOOKUP nsncQP
+BEGIN
+INSERT x8 number
+ASSIGN k6RS02 'G'
+INSERT sPAxo0 string
+INSERT a string

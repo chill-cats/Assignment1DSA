@@ -1,0 +1,15 @@
+l tJ
+RPRINT
+INSERT c1 number
+INSERT cXRQ number
+PRINT
+INSERT p8 string
+INSERT wxnf number
+INSERT ke number
+BEGIN
+INSERT c string
+LOOKUP c1
+INSERT j string
+INSERT ypBqEl number
+INSERT vwjMYV string
+gCGsk x7TyBc

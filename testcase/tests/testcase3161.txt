@@ -1,0 +1,4 @@
+INSERT w3 number
+ASSIGN w3 w3
+BEGIN
+RPRINT

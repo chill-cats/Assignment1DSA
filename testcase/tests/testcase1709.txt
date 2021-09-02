@@ -1,0 +1,36 @@
+INSERT r4okN number
+INSERT nancW number
+INSERT qr string
+INSERT r3RwM string
+INSERT hi string
+INSERT jTJPGf string
+PRINT
+INSERT elEyM number
+LOOKUP y4y
+INSERT qDnPi string
+INSERT ncTU3 number
+RPRINT
+INSERT sx8P string
+INSERT byM string
+INSERT dUFv number
+INSERT rf string
+ASSIGN sx8P 879
+PRINT
+INSERT pQ number
+oD yX_B
+INSERT wGOL string
+ASSIGN byM 518
+INSERT kb84 number
+INSERT tyVfQ number
+INSERT jmR string
+BEGIN
+END
+INSERT gwiWH number
+INSERT sqs string
+INSERT y string
+PRINT
+INSERT ob string
+INSERT hvUe string
+PRINT
+INSERT dVYU number
+BEGIN

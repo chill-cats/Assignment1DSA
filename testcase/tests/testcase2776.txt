@@ -1,0 +1,15 @@
+RPRINT
+INSERT mET string
+RPRINT
+LOOKUP mET
+INSERT xW03 number
+RPRINT
+ASSIGN xW03 'Q3'
+INSERT jqm string
+INSERT l number
+INSERT kxg number
+BEGIN
+INSERT dQ string
+LOOKUP xW03
+END
+INSERT hvx5Ik string

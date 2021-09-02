@@ -1,0 +1,38 @@
+INSERT g8H string
+INSERT kD string
+ASSIGN kD 'bEi7'
+INSERT zVK23Y string
+INSERT gNk number
+INSERT soSu string
+INSERT m number
+INSERT hz8 number
+LOOKUP g8H
+PRINT
+ASSIGN hz8 g8H
+INSERT t11BT number
+tZi qkk
+INSERT aI string
+INSERT rbMggh number
+INSERT y3VjHC string
+RPRINT
+INSERT ps string
+INSERT oqow0Y number
+END
+INSERT fvLj number
+INSERT vKljJ string
+INSERT v string
+INSERT tbKfls string
+INSERT rNt string
+INSERT hD string
+BEGIN
+ASSIGN m 682
+INSERT r24xWq string
+INSERT iT2KRJ number
+PRINT
+INSERT z number
+END
+BEGIN
+RPRINT
+INSERT csO string
+INSERT w number
+LOOKUP hz8

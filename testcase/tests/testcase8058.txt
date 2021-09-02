@@ -1,0 +1,11 @@
+INSERT ugZXe8 string
+INSERT yU string
+INSERT e number
+INSERT aQFN number
+INSERT co number
+ASSIGN e 'm2'
+INSERT kuR string
+ASSIGN e 'S'
+INSERT lGUw8 number
+INSERT xWWd number
+INSERT mm string

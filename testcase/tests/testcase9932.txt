@@ -1,0 +1,29 @@
+INSERT y string
+INSERT h8bTS0 string
+ASSIGN y 606
+INSERT lJfG string
+LOOKUP h8bTS0
+INSERT xsq3B1 number
+ASSIGN xsq3B1 641
+INSERT b7 string
+INSERT zi3r number
+INSERT o string
+INSERT pAr6 string
+INSERT k number
+INSERT eXDUE string
+INSERT uc number
+INSERT f9 string
+INSERT hQ number
+INSERT jPyj8 number
+INSERT y string
+END
+INSERT fwhT number
+ASSIGN fwhT lJfG
+INSERT jgZfJ string
+INSERT m6p number
+INSERT jM2tE number
+na pz8
+INSERT msJKRm number
+END
+INSERT qi string
+INSERT v string

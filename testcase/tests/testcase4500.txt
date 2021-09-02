@@ -1,0 +1,28 @@
+INSERT l number
+RPRINT
+INSERT z8_AYA string
+END
+INSERT r number
+INSERT kFPUV string
+LOOKUP z8_AYA
+INSERT g9_ string
+END
+RPRINT
+RPRINT
+ASSIGN kFPUV 'Pc'
+ASSIGN l kFPUV
+INSERT xlGI number
+ASSIGN g9_ g9_
+INSERT iSmc number
+INSERT oY number
+INSERT wcw5 number
+INSERT wy4 string
+INSERT ig1M number
+INSERT dQ string
+INSERT n number
+INSERT po number
+PRINT
+LOOKUP wy4
+INSERT ox number
+INSERT siQKhm number
+INSERT cP string

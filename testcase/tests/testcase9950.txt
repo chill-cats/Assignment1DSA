@@ -1,0 +1,19 @@
+INSERT r number
+INSERT j number
+INSERT wZ number
+BEGIN
+INSERT tx number
+INSERT m string
+RPRINT
+INSERT es6B number
+END
+INSERT oI string
+INSERT ihr number
+INSERT f string
+INSERT dK0Wp string
+LOOKUP f
+INSERT h0JjTF number
+END
+INSERT iR0P string
+INSERT iUyY number
+END

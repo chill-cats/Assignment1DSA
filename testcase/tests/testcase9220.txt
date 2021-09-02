@@ -1,0 +1,21 @@
+LOOKUP pKUK
+INSERT frPVtB string
+INSERT mH number
+INSERT tLV string
+INSERT l number
+INSERT j string
+INSERT o8T number
+LOOKUP frPVtB
+INSERT azTIJe string
+BEGIN
+INSERT ko string
+INSERT rGEc string
+PRINT
+ASSIGN frPVtB 1101
+INSERT z2 string
+INSERT vJ number
+INSERT zekpG number
+qvoM_D ppx1j
+LOOKUP frPVtB
+INSERT h1VsDY number
+RPRINT

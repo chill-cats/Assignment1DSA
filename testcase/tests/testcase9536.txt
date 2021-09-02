@@ -1,0 +1,19 @@
+INSERT mpuO number
+e dk
+jM z2M
+LOOKUP mpuO
+INSERT x string
+INSERT oC number
+INSERT lyO number
+LOOKUP x
+INSERT vJlz number
+INSERT lMlaS number
+INSERT xef number
+INSERT zdel string
+LOOKUP lMlaS
+INSERT r string
+INSERT t_ number
+INSERT vlT string
+INSERT p2y string
+RPRINT
+ASSIGN mpuO 'YVpVT'

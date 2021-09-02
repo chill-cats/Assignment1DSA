@@ -1,0 +1,15 @@
+INSERT cq string
+INSERT nkKx string
+INSERT rDKEMt number
+INSERT w6 number
+RPRINT
+LOOKUP cq
+RPRINT
+lL y
+e fQYS2d
+ASSIGN w6 247
+END
+ASSIGN nkKx '73gju'
+INSERT vbyq string
+ASSIGN rDKEMt 289
+BEGIN

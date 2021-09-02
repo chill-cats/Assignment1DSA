@@ -1,0 +1,35 @@
+INSERT fJ string
+hS6T cL
+ASSIGN fJ fJ
+INSERT vJ9W string
+INSERT eY9Y number
+INSERT pIO string
+INSERT meJ5bk number
+INSERT waVlFL number
+INSERT jf_PBW string
+BEGIN
+INSERT jGZkB string
+INSERT zbxnm number
+INSERT zCg string
+INSERT idTBaA number
+BEGIN
+INSERT fhO number
+RPRINT
+INSERT hQ string
+ASSIGN idTBaA 'H'
+RPRINT
+END
+INSERT rwHo number
+INSERT p7QZS string
+INSERT dQEHu string
+PRINT
+INSERT eoVq string
+LOOKUP eoVq
+INSERT snrGY number
+LOOKUP zbxnm
+ASSIGN p7QZS 'rO'
+BEGIN
+INSERT w string
+LOOKUP f7NXr
+RPRINT
+e qOo3

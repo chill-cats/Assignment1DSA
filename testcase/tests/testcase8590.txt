@@ -1,0 +1,36 @@
+fPf dp
+ASSIGN hRmWmO 692
+INSERT pr88 number
+RPRINT
+INSERT uhlYn2 number
+END
+ASSIGN pr88 '70'
+END
+INSERT ixqDJU string
+INSERT qy number
+INSERT ejYw number
+INSERT mhp number
+BEGIN
+INSERT nUN3Qi string
+INSERT mF string
+INSERT j number
+ASSIGN nUN3Qi qy
+INSERT khOzq string
+BEGIN
+INSERT a number
+INSERT g number
+INSERT nC string
+LOOKUP ejYw
+LOOKUP mF
+INSERT b1Wb5q number
+LOOKUP a
+END
+RPRINT
+INSERT xfmC string
+INSERT kimYaf string
+INSERT y4RN number
+RPRINT
+LOOKUP pr88
+RPRINT
+INSERT u5yj number
+INSERT ju2o_ number

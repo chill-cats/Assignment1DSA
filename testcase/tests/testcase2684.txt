@@ -1,0 +1,10 @@
+INSERT nVt string
+INSERT xB55Eb number
+INSERT f1a number
+END
+INSERT m6z3X2 number
+RPRINT
+INSERT pW number
+INSERT qMr5a number
+END
+bLBL t

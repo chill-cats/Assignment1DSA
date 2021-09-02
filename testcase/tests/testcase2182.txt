@@ -1,0 +1,26 @@
+LOOKUP f3EUsY
+INSERT ryxjgj string
+INSERT z number
+INSERT uO9pkG string
+LOOKUP ryxjgj
+INSERT mENu string
+PRINT
+END
+INSERT v string
+RPRINT
+ASSIGN v ryxjgj
+PRINT
+BEGIN
+ASSIGN z 'tl'
+INSERT oC string
+PRINT
+RPRINT
+BEGIN
+LOOKUP ryxjgj
+BEGIN
+INSERT mNOlHy string
+ASSIGN mNOlHy 989
+INSERT aL3IG number
+INSERT cEtSf4 number
+eU yu
+ASSIGN v 477

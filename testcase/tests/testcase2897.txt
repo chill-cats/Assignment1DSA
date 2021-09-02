@@ -1,0 +1,11 @@
+INSERT sA4L number
+PRINT
+INSERT o00you number
+END
+INSERT eiFQ string
+INSERT qyG number
+INSERT bIEP string
+RPRINT
+ASSIGN o00you 186
+uir4rI o_cI
+ASSIGN o00you 'D'

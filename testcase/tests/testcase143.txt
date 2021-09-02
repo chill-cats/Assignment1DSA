@@ -1,0 +1,14 @@
+INSERT aKjIB number
+RPRINT
+END
+INSERT r25N number
+PRINT
+INSERT q5ZyY8 string
+LOOKUP q5ZyY8
+RPRINT
+INSERT cLOrP string
+PRINT
+INSERT hxgK number
+INSERT fuw string
+INSERT rj1 number
+INSERT f string

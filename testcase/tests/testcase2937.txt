@@ -1,0 +1,35 @@
+INSERT mdCT number
+INSERT rQ number
+INSERT j0Qpx string
+ASSIGN j0Qpx 'iPK'
+LOOKUP mdCT
+INSERT z string
+BEGIN
+INSERT p9EAt9 number
+INSERT shC3 number
+INSERT gd number
+INSERT xYP string
+END
+ASSIGN p9EAt9 rQ
+BEGIN
+INSERT p33m number
+INSERT x number
+INSERT q number
+LOOKUP q
+LOOKUP rQ
+INSERT jGCcgZ string
+INSERT yItf number
+INSERT bq number
+INSERT sY number
+LOOKUP xYP
+INSERT j7N number
+k xBpx
+pr iJ
+INSERT t2 string
+ASSIGN t2 293
+INSERT kFLN number
+INSERT d number
+LOOKUP jGCcgZ
+INSERT tB string
+BEGIN
+INSERT mwflpc number

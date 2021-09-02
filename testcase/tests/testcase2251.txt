@@ -1,0 +1,39 @@
+INSERT lgkXDV number
+END
+bt iB
+INSERT z22h string
+LOOKUP lgkXDV
+END
+INSERT vWgQyU string
+PRINT
+INSERT g5xa_w number
+INSERT qVy0t string
+RPRINT
+INSERT oB2v8 string
+INSERT fN9t string
+INSERT vMF number
+INSERT wVsAv string
+INSERT rnp3 number
+INSERT md7W number
+INSERT nD string
+END
+INSERT kusB number
+INSERT jN number
+INSERT sQ number
+END
+INSERT kMz1 string
+INSERT e2AmIn number
+INSERT f8rFW0 number
+INSERT sg string
+RPRINT
+INSERT bRI8B number
+BEGIN
+INSERT twP5 number
+ASSIGN g5xa_w '1k'
+INSERT o1Vf number
+ASSIGN vMF 'pT6'
+INSERT pyj string
+INSERT s9 number
+INSERT tan number
+INSERT eI_ string
+INSERT ii3tnc string

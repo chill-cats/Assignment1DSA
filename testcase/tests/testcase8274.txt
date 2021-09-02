@@ -1,0 +1,19 @@
+PRINT
+bdn rmur1u
+INSERT zTo string
+RPRINT
+INSERT u3M string
+RPRINT
+INSERT vcvx number
+INSERT eyCS number
+INSERT a string
+INSERT jGX number
+RPRINT
+LOOKUP eyCS
+INSERT uq83et string
+INSERT ilQ number
+INSERT eh string
+INSERT qc string
+END
+INSERT mSWsLn string
+INSERT pl string

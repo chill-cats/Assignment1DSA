@@ -1,0 +1,7 @@
+INSERT fX3i1B number
+PRINT
+INSERT mNEj0h number
+INSERT gEC string
+PRINT
+ASSIGN fX3i1B 244
+INSERT a string

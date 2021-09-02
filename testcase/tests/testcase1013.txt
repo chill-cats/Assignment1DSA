@@ -1,0 +1,37 @@
+ASSIGN hEn 1043
+INSERT hQLiv string
+RPRINT
+INSERT kv number
+END
+INSERT piD number
+RPRINT
+INSERT v_0h3G string
+BEGIN
+END
+INSERT qbXrN number
+RPRINT
+INSERT sVZCoX string
+INSERT c number
+RPRINT
+INSERT gEZeR string
+INSERT y string
+INSERT hBEj7o number
+BEGIN
+INSERT s number
+vLHz pzj
+INSERT b number
+INSERT mn string
+INSERT dt number
+sKR e6GBh
+ASSIGN c 589
+INSERT iEs number
+INSERT hZsd string
+INSERT lcw string
+INSERT e number
+LOOKUP mn
+INSERT bsfa5 string
+INSERT a_Jy string
+ASSIGN iEs '85ZD'
+INSERT icJ string
+INSERT brCH_r string
+INSERT di number

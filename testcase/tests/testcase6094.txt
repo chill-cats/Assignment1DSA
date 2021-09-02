@@ -1,0 +1,36 @@
+INSERT b number
+INSERT f_Ox string
+ASSIGN f_Ox 'hkSY'
+INSERT a number
+INSERT g_ string
+kF v45M
+PRINT
+INSERT aPORk2 string
+INSERT z number
+INSERT wy3 number
+INSERT pEn9FR number
+BEGIN
+RPRINT
+INSERT a0WNT9 string
+INSERT aBF string
+INSERT c8qcG number
+PRINT
+INSERT cHA number
+LOOKUP aBF
+INSERT nam number
+INSERT dD string
+INSERT nA string
+PRINT
+INSERT w string
+INSERT hH3 number
+RPRINT
+INSERT itC number
+INSERT txC9C string
+INSERT u number
+INSERT nEw3 number
+INSERT fcoA string
+INSERT gGNrAC number
+BEGIN
+INSERT h string
+hhl x
+ASSIGN dD 896

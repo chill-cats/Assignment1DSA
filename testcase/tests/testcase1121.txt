@@ -1,0 +1,13 @@
+PRINT
+INSERT tl number
+INSERT yago string
+END
+INSERT pegkA string
+INSERT wN number
+RPRINT
+INSERT cteUq string
+INSERT p47 number
+INSERT y number
+RPRINT
+RPRINT
+ASSIGN pegkA 957

@@ -1,0 +1,16 @@
+INSERT rtbu string
+INSERT pZ string
+INSERT vMNphh number
+LOOKUP pZ
+INSERT sMos string
+INSERT j_y number
+INSERT sMt_A string
+INSERT aY string
+INSERT tG number
+INSERT g string
+INSERT j0 number
+zm15Z9 vO
+BEGIN
+INSERT pQo number
+INSERT q9 number
+PRINT

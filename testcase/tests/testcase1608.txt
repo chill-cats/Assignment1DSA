@@ -1,0 +1,24 @@
+INSERT sI string
+INSERT fM number
+INSERT mpr number
+PRINT
+INSERT yak5vA string
+LOOKUP sI
+INSERT em number
+INSERT ohi number
+INSERT hi number
+INSERT sPW2L number
+INSERT j8xY number
+INSERT bh3l string
+INSERT v number
+INSERT hB0rp string
+RPRINT
+INSERT hZ number
+INSERT pMPJx number
+BEGIN
+INSERT kf79S string
+INSERT eG string
+LOOKUP hZ
+BEGIN
+INSERT sH3 number
+INSERT ve string

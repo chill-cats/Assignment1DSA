@@ -1,0 +1,4 @@
+INSERT cadB string
+INSERT y string
+u wN
+INSERT basKG number

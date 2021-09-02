@@ -1,0 +1,40 @@
+RPRINT
+INSERT e string
+INSERT fkZe number
+INSERT b string
+INSERT jAu number
+INSERT xBi1s number
+INSERT mD string
+END
+LOOKUP fkZe
+INSERT mYkErs number
+BEGIN
+INSERT fEk number
+INSERT vNcaI number
+INSERT g number
+END
+LOOKUP mD
+LOOKUP vNcaI
+INSERT mX number
+BEGIN
+INSERT dig5Nx number
+INSERT rZ string
+ASSIGN dig5Nx 273
+INSERT h string
+INSERT tn number
+PRINT
+INSERT va number
+INSERT vMhLG number
+INSERT t7yPY7 number
+INSERT cgF string
+INSERT vS number
+ASSIGN cgF 'i'
+INSERT oqxUl_ string
+INSERT zuI_ number
+INSERT v0Qb8B number
+INSERT b number
+INSERT hV string
+INSERT gFD8 string
+INSERT z number
+LOOKUP g
+ASSIGN b t7yPY7

@@ -1,0 +1,29 @@
+INSERT t70 string
+LOOKUP t70
+INSERT gIY string
+ah g1IhA_
+INSERT y8_ string
+RPRINT
+INSERT x string
+INSERT m2w2 string
+INSERT vKPD number
+INSERT hHmMM_ number
+END
+INSERT a string
+INSERT wHs string
+INSERT kbY number
+INSERT oA number
+INSERT r_Y1Z string
+INSERT uMXwe string
+INSERT xa8 number
+PRINT
+INSERT ux string
+RPRINT
+INSERT ruc string
+PRINT
+INSERT gab number
+LOOKUP gIY
+INSERT lkFsVx number
+RPRINT
+INSERT xvr6 number
+END

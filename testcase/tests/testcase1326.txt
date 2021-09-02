@@ -1,0 +1,6 @@
+BEGIN
+INSERT q08Hg number
+ASSIGN q08Hg 544
+INSERT puvjO string
+INSERT e string
+INSERT wW83E number

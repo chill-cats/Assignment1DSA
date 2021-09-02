@@ -1,0 +1,7 @@
+INSERT uyV string
+LOOKUP uyV
+LOOKUP uyV
+END
+INSERT cI string
+RPRINT
+PRINT

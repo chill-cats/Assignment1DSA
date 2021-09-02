@@ -1,0 +1,8 @@
+PRINT
+INSERT ibXM number
+LOOKUP ibXM
+INSERT y number
+INSERT pZ8Qg number
+PRINT
+BEGIN
+END

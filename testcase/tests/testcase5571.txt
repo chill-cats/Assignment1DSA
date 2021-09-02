@@ -1,0 +1,17 @@
+ASSIGN x3kpA7 1203
+PRINT
+INSERT bv0xlZ string
+INSERT hdNDxF string
+INSERT ykAmmW string
+INSERT i1FZ string
+LOOKUP i1FZ
+INSERT oOfv number
+INSERT d number
+LOOKUP hdNDxF
+INSERT k number
+PRINT
+PRINT
+INSERT tb number
+af ulvB41
+INSERT h string
+BEGIN

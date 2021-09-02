@@ -1,0 +1,31 @@
+LOOKUP wRvKqg
+RPRINT
+INSERT jqa number
+RPRINT
+INSERT cUrhA number
+INSERT cd number
+LOOKUP cd
+BEGIN
+LOOKUP jqa
+INSERT jpQZ string
+RPRINT
+INSERT j number
+INSERT fV number
+INSERT q5h7w number
+INSERT y string
+INSERT ay string
+INSERT auIou3 string
+LOOKUP y
+INSERT okpJG number
+INSERT hLOd number
+LOOKUP auIou3
+RPRINT
+LOOKUP fV
+INSERT dg string
+INSERT pCo4 number
+INSERT sFPha number
+END
+INSERT bvrMia string
+INSERT q string
+INSERT nj string
+END

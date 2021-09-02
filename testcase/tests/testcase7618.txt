@@ -1,0 +1,10 @@
+INSERT v4gx number
+INSERT xmhR string
+INSERT aA number
+PRINT
+RPRINT
+INSERT kiw string
+PRINT
+fzL4 bWzr
+INSERT n string
+END

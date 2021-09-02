@@ -1,0 +1,16 @@
+PRINT
+INSERT gl string
+INSERT o string
+BEGIN
+INSERT gM5j string
+INSERT gMD6 number
+INSERT qhMD number
+INSERT lrk9 string
+INSERT vvCn string
+INSERT p8z string
+LOOKUP lrk9
+INSERT lwGGu9 number
+BEGIN
+INSERT qKG number
+BEGIN
+RPRINT

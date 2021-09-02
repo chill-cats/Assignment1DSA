@@ -1,0 +1,4 @@
+ASSIGN aa6Ad 1198
+INSERT gj number
+PRINT
+INSERT iXAUs0 number

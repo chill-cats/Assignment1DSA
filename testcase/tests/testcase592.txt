@@ -1,0 +1,14 @@
+LOOKUP ezZAy
+INSERT j7M number
+INSERT j84r number
+ASSIGN j84r '8gszJ'
+RPRINT
+INSERT onl string
+INSERT n1 string
+INSERT t5U number
+INSERT khB string
+RPRINT
+BEGIN
+INSERT r5 number
+BEGIN
+ASSIGN nF 'lh'

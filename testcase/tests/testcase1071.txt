@@ -1,0 +1,24 @@
+RPRINT
+INSERT aDD number
+INSERT bdhl_1 number
+BEGIN
+INSERT f4 number
+ASSIGN aDD bdhl_1
+INSERT l number
+INSERT htW7l string
+INSERT dXK string
+INSERT lKKu string
+INSERT nk string
+INSERT bm string
+INSERT gWt0Vt number
+INSERT fvy42W string
+INSERT fQgKr number
+INSERT y9eSp7 number
+PRINT
+INSERT uAs86o string
+LOOKUP uAs86o
+INSERT eGyHH string
+BEGIN
+BEGIN
+INSERT fTH string
+INSERT u2Ih number

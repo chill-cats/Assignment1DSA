@@ -1,0 +1,19 @@
+INSERT by8V number
+BEGIN
+LOOKUP by8V
+INSERT dzmh4d number
+BEGIN
+INSERT l7 number
+LOOKUP dzmh4d
+INSERT lTg string
+INSERT fIttU string
+ASSIGN l7 395
+INSERT w number
+INSERT y_r8 string
+BEGIN
+RPRINT
+PRINT
+bPMZP a
+BEGIN
+INSERT tdL9Hz number
+ASSIGN l7 964

@@ -1,0 +1,32 @@
+ASSIGN hfQH16 906
+INSERT nVx string
+INSERT dRtB84 number
+INSERT bB string
+INSERT v string
+INSERT n number
+PRINT
+INSERT yG_ string
+PRINT
+vISy_g p
+BEGIN
+LOOKUP v
+ASSIGN yG_ 'tN2'
+INSERT u3gbpo string
+INSERT i number
+INSERT fj_y string
+INSERT m string
+INSERT w number
+ASSIGN bB 1060
+INSERT vBfS_ string
+INSERT fXSXN number
+INSERT fth string
+INSERT qxeM string
+INSERT a_qM string
+INSERT ffFmtk number
+BEGIN
+INSERT iwWO number
+RPRINT
+LOOKUP n
+ASSIGN a_qM 419
+INSERT psn5vZ number
+INSERT t number

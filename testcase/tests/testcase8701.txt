@@ -1,0 +1,19 @@
+INSERT bnoMl1 string
+INSERT pq9 number
+RPRINT
+INSERT auE number
+LOOKUP auE
+INSERT zcy number
+RPRINT
+INSERT l1Q string
+INSERT fzflsn number
+INSERT p number
+END
+LOOKUP pq9
+INSERT f string
+INSERT wW number
+INSERT f number
+INSERT bvy9 string
+INSERT yb string
+INSERT svF number
+INSERT h number

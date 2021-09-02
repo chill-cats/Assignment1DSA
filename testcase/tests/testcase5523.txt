@@ -1,0 +1,40 @@
+BEGIN
+INSERT p number
+INSERT g7BmC string
+INSERT z number
+INSERT pg number
+INSERT x number
+LOOKUP x
+END
+ASSIGN g7BmC x
+INSERT v9pBS number
+INSERT qoTAk string
+INSERT gKwA string
+INSERT aUGS number
+ASSIGN pg 967
+INSERT ttwX number
+INSERT wz string
+INSERT r string
+ccrOQ4 hL9tF6
+INSERT rme number
+INSERT ded1 string
+LOOKUP gKwA
+INSERT w6 string
+RPRINT
+INSERT g string
+y hy
+INSERT rt4cX number
+INSERT gQ5P number
+INSERT uS number
+PRINT
+PRINT
+INSERT zwn string
+END
+INSERT e2D2 string
+END
+RPRINT
+s xZ
+LOOKUP uS
+INSERT p number
+INSERT sgUhF number
+PRINT

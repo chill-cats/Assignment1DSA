@@ -1,0 +1,18 @@
+oP_1 rOrk
+INSERT jBrzk string
+INSERT oZ1t string
+LOOKUP jBrzk
+INSERT oIA number
+INSERT jkiI string
+LOOKUP jBrzk
+ASSIGN jkiI jkiI
+INSERT t string
+PRINT
+INSERT fE6S number
+INSERT uTB0f string
+INSERT xeqTs number
+END
+lTk5 z6
+INSERT tM9L number
+INSERT vna string
+END

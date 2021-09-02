@@ -1,0 +1,37 @@
+PRINT
+ASSIGN yhi1I 1022
+INSERT sUyJw number
+PRINT
+INSERT lRPV number
+INSERT dk0MG number
+END
+RPRINT
+INSERT s string
+PRINT
+INSERT bez2Il number
+END
+PRINT
+INSERT wT6 string
+INSERT wwQ number
+BEGIN
+INSERT aofs string
+INSERT a number
+INSERT m number
+INSERT hwFfAS number
+PRINT
+BEGIN
+INSERT a string
+LOOKUP sUyJw
+INSERT p9aT number
+INSERT jtIn string
+INSERT sJGvR number
+q8os bd
+RPRINT
+END
+INSERT r1Ne8G number
+BEGIN
+INSERT w1IsZs string
+RPRINT
+ASSIGN bez2Il '6P0J'
+PRINT
+INSERT hU string

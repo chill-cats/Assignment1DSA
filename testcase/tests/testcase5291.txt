@@ -1,0 +1,9 @@
+INSERT fglq string
+INSERT b string
+INSERT r string
+INSERT n string
+RPRINT
+INSERT dlrjvG string
+INSERT t number
+INSERT sSvl4 number
+BEGIN

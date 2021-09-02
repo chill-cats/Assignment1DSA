@@ -1,0 +1,28 @@
+ASSIGN p6lG0 1111
+LOOKUP w
+ASSIGN nKS 'Wwl7e'
+INSERT ri string
+PRINT
+INSERT xWUwLK number
+INSERT sSL string
+RPRINT
+END
+INSERT duWcG number
+END
+INSERT izV number
+ASSIGN sSL xWUwLK
+INSERT cvn string
+RPRINT
+INSERT t string
+INSERT az number
+RPRINT
+INSERT zuy number
+INSERT wtl string
+END
+PRINT
+INSERT myA9L number
+INSERT tDlBmd string
+INSERT in string
+INSERT fr string
+BEGIN
+INSERT pAGIC number

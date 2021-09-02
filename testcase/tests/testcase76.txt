@@ -1,0 +1,38 @@
+ASSIGN dkzmoR 'lNm'
+BEGIN
+INSERT ikbD string
+INSERT aBlY0W number
+INSERT ciNVdH number
+BEGIN
+INSERT vEjUuI string
+INSERT b7m0 string
+PRINT
+INSERT gTYcSU number
+INSERT fUz6P string
+ASSIGN ikbD 957
+INSERT cZQrCv number
+LOOKUP gTYcSU
+INSERT kUq number
+INSERT k number
+LOOKUP gTYcSU
+RPRINT
+PRINT
+INSERT e7N0q string
+INSERT rn number
+INSERT mK string
+INSERT eqxm3 string
+INSERT v0 number
+INSERT jU number
+INSERT u6uclj number
+LOOKUP u6uclj
+INSERT nDLQqj number
+INSERT kZV string
+INSERT v number
+END
+INSERT mC string
+INSERT hb number
+INSERT foP number
+PRINT
+LOOKUP foP
+BEGIN
+INSERT gKNr string

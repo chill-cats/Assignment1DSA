@@ -1,0 +1,10 @@
+INSERT oTK string
+INSERT msbJ string
+INSERT rF number
+INSERT q number
+PRINT
+INSERT xDib number
+PRINT
+RPRINT
+RPRINT
+INSERT g number

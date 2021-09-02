@@ -1,0 +1,28 @@
+LOOKUP eitOCe
+INSERT c string
+INSERT dHj number
+LOOKUP dHj
+INSERT lBUMa string
+INSERT jP string
+PRINT
+INSERT o number
+INSERT t number
+INSERT raj3t string
+INSERT yw string
+INSERT atIxHz number
+INSERT aK9 string
+INSERT l string
+y7w4M x4erS
+INSERT cYsyVD string
+INSERT dH number
+LOOKUP l
+PRINT
+INSERT o string
+LOOKUP o
+INSERT pycdQ number
+INSERT npC string
+INSERT jV number
+END
+INSERT lXA number
+PRINT
+RPRINT

@@ -1,0 +1,13 @@
+LOOKUP amEm
+ASSIGN uR5 'J'
+INSERT nCyyC string
+INSERT l4Z string
+INSERT jot1 string
+INSERT rilQfS number
+END
+INSERT d_Eg number
+INSERT vsS string
+INSERT lnU6 string
+LOOKUP nCyyC
+INSERT pwJn number
+INSERT tp number

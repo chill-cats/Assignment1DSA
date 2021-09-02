@@ -1,0 +1,5 @@
+INSERT iRKCG3 number
+l zHDz1i
+INSERT bdKUJ string
+LOOKUP iRKCG3
+PRINT

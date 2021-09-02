@@ -1,0 +1,10 @@
+INSERT k1n_Ef string
+INSERT ggK6q string
+RPRINT
+INSERT aSz string
+ASSIGN ggK6q 'ncoik'
+ASSIGN k1n_Ef 'ZJ'
+LOOKUP k1n_Ef
+INSERT mA9Xch string
+INSERT a number
+INSERT iTN string

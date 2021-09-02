@@ -1,0 +1,7 @@
+BEGIN
+LOOKUP wf
+INSERT z0 number
+INSERT i string
+INSERT uP number
+PRINT
+INSERT gZfD string

@@ -1,0 +1,13 @@
+INSERT yRX number
+INSERT vvq5mE number
+k pc
+INSERT a string
+INSERT r number
+j dhzCHn
+INSERT d string
+INSERT k string
+RPRINT
+LOOKUP vvq5mE
+INSERT vtiW number
+INSERT s string
+ASSIGN yRX a

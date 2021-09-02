@@ -1,0 +1,18 @@
+INSERT xdKcn0 string
+END
+ASSIGN xdKcn0 xdKcn0
+PRINT
+BEGIN
+PRINT
+END
+LOOKUP xdKcn0
+RPRINT
+INSERT wBe number
+END
+INSERT u57Hb string
+INSERT g_SRai number
+INSERT keUCkI string
+PRINT
+INSERT y number
+INSERT ryseG4 number
+RPRINT

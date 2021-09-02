@@ -1,0 +1,22 @@
+ASSIGN r3 465
+PRINT
+INSERT u0a number
+rCJ4LQ a
+PRINT
+INSERT v0a3 number
+INSERT y string
+INSERT eAZt string
+LOOKUP y
+BEGIN
+ASSIGN y 'ZXrBx'
+END
+INSERT k number
+INSERT kScK string
+ASSIGN kScK 'zez'
+INSERT l number
+INSERT tN4_N number
+END
+INSERT bDUp string
+INSERT ox number
+LOOKUP v0a3
+k tK

@@ -1,0 +1,27 @@
+PRINT
+INSERT n number
+ASSIGN n '5m2'
+PRINT
+ASSIGN n 'VQ'
+INSERT cY number
+INSERT flfIk string
+LOOKUP flfIk
+INSERT lCNg number
+END
+INSERT yzeG1 number
+INSERT iPdpFe string
+INSERT fQ number
+INSERT bngw number
+INSERT dA string
+fZ4 aN
+INSERT c string
+INSERT nL5 number
+LOOKUP lCNg
+PRINT
+INSERT jQn6j number
+INSERT sM number
+INSERT oVxz2R string
+INSERT z string
+INSERT hVlu string
+INSERT sgizm string
+INSERT s number

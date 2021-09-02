@@ -1,0 +1,29 @@
+INSERT p36 number
+INSERT sg string
+RPRINT
+INSERT oYKkYH number
+LOOKUP p36
+INSERT izHju string
+INSERT a1 number
+INSERT ntZq string
+INSERT l number
+INSERT hFxX string
+RPRINT
+INSERT m number
+INSERT oPshJI string
+INSERT dW string
+RPRINT
+PRINT
+INSERT w7 number
+LOOKUP p36
+INSERT jSlI6x number
+RPRINT
+INSERT gTc number
+LOOKUP ntZq
+INSERT jvG3 string
+INSERT zDWJ string
+eahmFN dMTl
+RPRINT
+INSERT mwRje number
+INSERT qHVC number
+INSERT y6CI number

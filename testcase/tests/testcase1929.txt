@@ -1,0 +1,31 @@
+INSERT s number
+INSERT eJpN number
+BEGIN
+INSERT r59r string
+INSERT bf string
+ASSIGN bf 143
+BEGIN
+INSERT p2CKq number
+INSERT fA5MP string
+INSERT g4BB string
+LOOKUP p2CKq
+INSERT hQ1r number
+INSERT wW34HR number
+INSERT mAy number
+INSERT ei number
+LOOKUP ei
+INSERT w string
+INSERT kymvx number
+INSERT yo4 string
+ASSIGN b 1016
+BEGIN
+INSERT vW string
+LOOKUP hQ1r
+INSERT kV1aZs number
+INSERT dld string
+INSERT oSq3oo string
+INSERT b string
+INSERT m24V number
+END
+INSERT x66i string
+RPRINT

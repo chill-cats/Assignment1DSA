@@ -1,0 +1,10 @@
+END
+INSERT s38 string
+INSERT uDy8 number
+INSERT g number
+PRINT
+INSERT cPW5y string
+END
+INSERT unRbG8 string
+INSERT k8C number
+INSERT tdJ8S number

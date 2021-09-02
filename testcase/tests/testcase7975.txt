@@ -1,0 +1,40 @@
+INSERT vdUKe string
+INSERT em number
+RPRINT
+INSERT qT number
+INSERT i8 number
+eUyk nX
+RPRINT
+ASSIGN i8 't'
+INSERT y number
+INSERT eqA number
+INSERT koKh number
+END
+BEGIN
+INSERT nhC3c string
+INSERT hE string
+INSERT oj number
+ASSIGN eqA 1036
+RPRINT
+INSERT ubMiv number
+INSERT j4WXJV string
+INSERT l8kJ string
+RPRINT
+INSERT cPE number
+PRINT
+INSERT kU string
+INSERT w0h number
+INSERT n string
+END
+INSERT t number
+RPRINT
+INSERT odr string
+INSERT u92 string
+BEGIN
+INSERT m number
+INSERT dI number
+INSERT n string
+INSERT nba number
+INSERT x4 number
+INSERT oO1IZ string
+ASSIGN kU 398

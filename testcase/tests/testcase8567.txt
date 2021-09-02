@@ -1,0 +1,14 @@
+INSERT aIv number
+RPRINT
+LOOKUP aIv
+BEGIN
+INSERT btkzY string
+LOOKUP aIv
+INSERT jII string
+INSERT a4E6js number
+LOOKUP jII
+INSERT geVe string
+ASSIGN geVe 'I9kfQ'
+END
+END
+INSERT db number

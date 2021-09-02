@@ -1,0 +1,38 @@
+INSERT pH2PD number
+INSERT ykT string
+INSERT f9WSBV string
+INSERT nwQfUB string
+INSERT hO5KVi string
+ASSIGN nwQfUB 759
+LOOKUP hO5KVi
+LOOKUP ykT
+RPRINT
+INSERT mbjxw string
+BEGIN
+INSERT rb74np string
+LOOKUP f9WSBV
+INSERT wIF6zb number
+BEGIN
+END
+INSERT uCubB string
+INSERT n number
+INSERT sJD_ number
+INSERT rG6 string
+INSERT a6qjlG number
+PRINT
+wRJ qzadz
+INSERT y7 string
+INSERT dFifei number
+INSERT c number
+INSERT ytc_ number
+RPRINT
+INSERT o string
+INSERT dm8Bl number
+PRINT
+END
+BEGIN
+INSERT uV string
+INSERT c number
+INSERT bbh number
+INSERT qjbGEr number
+INSERT fwd string

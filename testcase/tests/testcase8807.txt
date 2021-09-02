@@ -1,0 +1,10 @@
+INSERT vW number
+INSERT x string
+ASSIGN vW 193
+INSERT cbKITU number
+PRINT
+INSERT biZ number
+END
+RPRINT
+PRINT
+t9UUR qJ

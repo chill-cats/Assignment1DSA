@@ -1,0 +1,40 @@
+INSERT c string
+BEGIN
+END
+END
+END
+INSERT dg number
+INSERT qw number
+INSERT aA6BC number
+ASSIGN qw '7n'
+LOOKUP c
+INSERT l number
+INSERT e string
+INSERT sFvV number
+INSERT ukWb string
+INSERT oQa string
+INSERT g string
+INSERT nh string
+RPRINT
+ASSIGN c 'V'
+ASSIGN aA6BC 376
+ASSIGN ukWb 421
+ASSIGN aA6BC 203
+INSERT r string
+INSERT j string
+PRINT
+INSERT jH3HL number
+INSERT yCL string
+PRINT
+INSERT p string
+INSERT x2FBeD number
+INSERT woAIG string
+INSERT vSNGu string
+INSERT jo7 number
+INSERT oWGfE number
+PRINT
+PRINT
+INSERT nJj number
+RPRINT
+INSERT buz number
+xyDRD wUl0IA

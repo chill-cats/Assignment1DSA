@@ -1,0 +1,34 @@
+LOOKUP g5evDf
+narr pA
+INSERT iM0 number
+INSERT rYk string
+ASSIGN iM0 iM0
+INSERT zI4 number
+INSERT m number
+BEGIN
+INSERT wQZaEr number
+RPRINT
+INSERT tId66 string
+INSERT a_VkG number
+INSERT iu1 number
+INSERT n number
+INSERT feyKez number
+INSERT dv4 number
+BEGIN
+LOOKUP dv4
+LOOKUP iM0
+END
+INSERT d string
+PRINT
+INSERT o string
+INSERT zxHLZ string
+INSERT pO number
+INSERT iEpQ string
+BEGIN
+INSERT eapvs number
+BEGIN
+INSERT cg string
+BEGIN
+PRINT
+INSERT lEcSr string
+INSERT gnyD8A string

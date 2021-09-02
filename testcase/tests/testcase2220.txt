@@ -1,0 +1,22 @@
+INSERT wG1 string
+LOOKUP wG1
+INSERT grg8q3 string
+INSERT jroNC string
+INSERT zsZUQ number
+INSERT yyKol number
+INSERT fdrlev string
+INSERT hdXV number
+INSERT w string
+END
+INSERT v number
+RPRINT
+INSERT pF_ string
+INSERT arpPfP number
+iWXpNd eLMEs
+INSERT gloW number
+INSERT lxVImf number
+INSERT h number
+INSERT kbG7N string
+INSERT i number
+LOOKUP jroNC
+INSERT x5 string

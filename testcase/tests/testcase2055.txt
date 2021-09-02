@@ -1,0 +1,4 @@
+INSERT r number
+INSERT o string
+PRINT
+INSERT wGGRn9 string

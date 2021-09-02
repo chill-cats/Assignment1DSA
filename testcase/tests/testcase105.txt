@@ -1,0 +1,36 @@
+RPRINT
+INSERT jn string
+INSERT j71eA number
+RPRINT
+INSERT t string
+PRINT
+INSERT e07 string
+INSERT x number
+INSERT mNp8 number
+INSERT yPXc string
+INSERT sc0YQd string
+INSERT f string
+INSERT obo number
+INSERT dyz string
+INSERT ayJ8Ph string
+INSERT fiy number
+INSERT qqf number
+INSERT n number
+INSERT dVMG string
+BEGIN
+ASSIGN f dVMG
+BEGIN
+uG mKO
+sQ iRpkAM
+INSERT nggz9O string
+RPRINT
+INSERT xTY5z string
+RPRINT
+INSERT c7_ number
+RPRINT
+END
+RPRINT
+INSERT v8Arc4 number
+INSERT fhp string
+INSERT m9y3 number
+INSERT iaFi string

@@ -1,0 +1,6 @@
+INSERT lpPu number
+INSERT htKem string
+ASSIGN htKem '8X'
+INSERT xlgZA number
+INSERT j number
+INSERT z string

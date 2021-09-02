@@ -1,0 +1,27 @@
+LOOKUP nb
+INSERT n number
+PRINT
+PRINT
+INSERT xpYYG1 string
+ASSIGN n 'hu'
+n5gD6L b1
+INSERT l_Sz1g string
+ASSIGN n 297
+INSERT z number
+INSERT mdId string
+INSERT og string
+INSERT umT number
+PRINT
+INSERT nVTh string
+kK u4wJ3W
+INSERT i number
+BEGIN
+aOvi f8YJ
+INSERT zoFdXd string
+INSERT t number
+LOOKUP n
+END
+ASSIGN n '539d1'
+INSERT fG1r string
+INSERT q1LxZ string
+ASSIGN fG1r 'K'

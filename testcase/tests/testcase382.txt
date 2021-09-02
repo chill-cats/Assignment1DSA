@@ -1,0 +1,29 @@
+INSERT n3d0 string
+INSERT pKbP08 string
+INSERT scPNoE string
+INSERT kSZLV number
+LOOKUP n3d0
+h8F e2
+INSERT irvXh string
+c jlHu
+INSERT iJIgo number
+END
+INSERT fh_ string
+END
+END
+PRINT
+INSERT sOTHL_ number
+PRINT
+END
+INSERT hczk string
+RPRINT
+hE qVC
+INSERT zK number
+INSERT pti string
+INSERT gF8g_ string
+PRINT
+INSERT wm string
+INSERT b number
+ASSIGN hczk '3K'
+RPRINT
+hDl qCrkUa

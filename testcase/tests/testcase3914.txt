@@ -1,0 +1,8 @@
+INSERT d7 number
+INSERT a string
+ASSIGN d7 a
+INSERT zt string
+LOOKUP a
+m ckJ
+INSERT mFlH8H string
+INSERT f string

@@ -1,0 +1,37 @@
+INSERT zh9pR number
+INSERT m8D2 number
+INSERT k number
+INSERT qhJbTk number
+INSERT l467hW number
+BEGIN
+INSERT eoSKpp number
+BEGIN
+INSERT a0hB string
+INSERT mvQT number
+INSERT lS1 string
+INSERT zJzUn string
+END
+BEGIN
+INSERT dk6wuz number
+INSERT uwn string
+INSERT gq0 string
+INSERT xLNjti number
+INSERT sP string
+INSERT absS number
+RPRINT
+INSERT oU string
+ASSIGN absS 'K0'
+ASSIGN gq0 ' kdY'
+INSERT t_iX number
+BEGIN
+RPRINT
+INSERT dj1E number
+INSERT d string
+INSERT bsBBVj string
+INSERT yhV string
+BEGIN
+END
+INSERT uOHya string
+INSERT i string
+INSERT p9QKnZ string
+INSERT gQ1 string

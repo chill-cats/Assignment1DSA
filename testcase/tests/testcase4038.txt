@@ -1,0 +1,21 @@
+INSERT wS1xaU string
+INSERT p string
+RPRINT
+INSERT yWJyZx number
+PRINT
+INSERT pVe string
+INSERT wbFz number
+PRINT
+END
+INSERT iJk number
+LOOKUP yWJyZx
+ASSIGN p pVe
+INSERT n string
+INSERT z string
+kWaJ0 jq
+INSERT tsZsc string
+INSERT rvFE string
+INSERT n number
+INSERT xWOBb number
+INSERT e_QJoh number
+INSERT mW number

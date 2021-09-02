@@ -1,0 +1,36 @@
+INSERT e number
+LOOKUP e
+INSERT xBfV number
+ASSIGN e e
+END
+LOOKUP e
+INSERT y string
+INSERT trUqm number
+INSERT jF number
+INSERT k2 string
+LOOKUP trUqm
+INSERT kO number
+INSERT lv number
+INSERT ljGK string
+INSERT kn0 string
+LOOKUP e
+INSERT iSwne string
+e8 pz9
+INSERT eV0 number
+INSERT dVf0 number
+END
+INSERT klv1d6 string
+END
+INSERT x4br string
+RPRINT
+RPRINT
+q9 xxpq
+PRINT
+BEGIN
+ASSIGN klv1d6 'lwz'
+BEGIN
+INSERT ca string
+INSERT bL number
+INSERT eHKio0 string
+INSERT b number
+RPRINT

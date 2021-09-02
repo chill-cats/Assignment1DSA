@@ -1,0 +1,21 @@
+INSERT w string
+INSERT m3Hr number
+END
+INSERT jZ string
+ASSIGN w 1189
+LOOKUP w
+INSERT qtc number
+LOOKUP qtc
+INSERT y string
+LOOKUP y
+BEGIN
+INSERT bonAVr string
+LOOKUP y
+INSERT w number
+INSERT o1C8 number
+RPRINT
+INSERT p number
+BEGIN
+INSERT jdor string
+INSERT xQ7iy string
+cPlXKt gA8mAL

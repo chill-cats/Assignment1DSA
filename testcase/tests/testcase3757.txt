@@ -1,0 +1,7 @@
+INSERT kA3NS string
+END
+INSERT rK number
+INSERT q342Xu string
+INSERT nrOWM number
+INSERT gI9K string
+RPRINT

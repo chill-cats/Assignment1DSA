@@ -1,0 +1,20 @@
+RPRINT
+INSERT bw2Deu string
+INSERT bqKw string
+INSERT otB2 string
+ASSIGN bw2Deu otB2
+INSERT mzmt number
+INSERT jlZ string
+PRINT
+ASSIGN jlZ bqKw
+INSERT wXw number
+INSERT n0r number
+INSERT bRL6h string
+INSERT ro number
+INSERT pLz4X string
+INSERT cas number
+END
+LOOKUP jlZ
+INSERT z_dM number
+INSERT nsTR7A string
+INSERT ll number

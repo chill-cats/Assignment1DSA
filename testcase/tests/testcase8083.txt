@@ -1,0 +1,13 @@
+INSERT smq string
+INSERT hM string
+BEGIN
+INSERT i number
+RPRINT
+LOOKUP i
+INSERT zh_n7e string
+INSERT rQjU number
+END
+END
+INSERT q5dPLc string
+xxtKTy vpH6qC
+INSERT c2srD2 string

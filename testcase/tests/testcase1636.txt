@@ -1,0 +1,19 @@
+INSERT d number
+ASSIGN d d
+END
+INSERT uR number
+INSERT lmK string
+END
+INSERT xMB9 number
+END
+INSERT lEN8 number
+INSERT nkYoKN number
+BEGIN
+RPRINT
+PRINT
+BEGIN
+INSERT cJ6 string
+RPRINT
+PRINT
+RPRINT
+PRINT

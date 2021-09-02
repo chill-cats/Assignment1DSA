@@ -1,0 +1,21 @@
+BEGIN
+INSERT fPH4 string
+ASSIGN fPH4 fPH4
+INSERT h5la7 number
+RPRINT
+INSERT xyUC string
+RPRINT
+sZ5eLv fTGj
+wnV zEM0j
+INSERT g string
+INSERT gXC6L string
+INSERT dfRIR6 number
+INSERT xrUP string
+INSERT uIl8Nd string
+LOOKUP xyUC
+INSERT eq3X0 number
+BEGIN
+BEGIN
+INSERT ivxP string
+ASSIGN h5la7 'Y'
+INSERT w4 number

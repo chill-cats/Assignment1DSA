@@ -1,0 +1,15 @@
+INSERT qw8F number
+INSERT v475 number
+PRINT
+INSERT vUzZWN string
+INSERT zJ number
+INSERT rG6D number
+INSERT zIK8 number
+INSERT l number
+RPRINT
+INSERT zF number
+INSERT fDGNbz string
+BEGIN
+INSERT rszDB string
+END
+PRINT

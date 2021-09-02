@@ -1,0 +1,28 @@
+ASSIGN i8G 687
+INSERT r4Xh string
+bN oB
+RPRINT
+INSERT oBYo number
+ASSIGN r4Xh r4Xh
+ASSIGN r4Xh 'T8O'
+INSERT p number
+BEGIN
+PRINT
+INSERT w2L number
+INSERT pe6 number
+INSERT y number
+RPRINT
+LOOKUP y
+INSERT t509RK number
+INSERT m number
+LOOKUP p
+BEGIN
+INSERT qM1s string
+INSERT ix number
+INSERT xPlCW string
+INSERT wyQjy number
+INSERT mNhA string
+PRINT
+RPRINT
+PRINT
+PRINT

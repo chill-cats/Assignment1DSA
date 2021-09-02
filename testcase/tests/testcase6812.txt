@@ -1,0 +1,40 @@
+INSERT i string
+INSERT tg number
+INSERT ik number
+INSERT kvD string
+INSERT c5Si string
+PRINT
+t xmwR
+zJO xlBOI
+LOOKUP ik
+ASSIGN ik 709
+PRINT
+BEGIN
+INSERT s4 number
+dB92BO y27x1
+INSERT gTIXVo string
+oC vHh
+yi3 l
+INSERT cfgc string
+INSERT f5JwG string
+INSERT iq string
+INSERT v number
+INSERT qH0 number
+INSERT qM number
+INSERT p number
+INSERT bJ_O string
+PRINT
+INSERT z_rUXg number
+INSERT vAV string
+INSERT v string
+INSERT o number
+INSERT hF2ZCl number
+BEGIN
+ASSIGN v 'ZWN'
+INSERT uYRyzm number
+INSERT sqFb string
+ASSIGN f5JwG qM
+INSERT pTJI6 number
+END
+INSERT fe number
+INSERT mI4P string

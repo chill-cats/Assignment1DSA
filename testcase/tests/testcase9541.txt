@@ -1,0 +1,27 @@
+INSERT f string
+INSERT z string
+INSERT mz string
+INSERT z0 string
+INSERT n string
+INSERT p number
+LOOKUP mz
+INSERT c string
+INSERT sl number
+END
+RPRINT
+INSERT a8 string
+INSERT yuN7U7 number
+INSERT no string
+BEGIN
+INSERT y4O number
+PRINT
+INSERT gIv5jE number
+RPRINT
+BEGIN
+INSERT qvH0Ok number
+BEGIN
+RPRINT
+INSERT xie string
+INSERT iXB string
+INSERT dW number
+INSERT tQ string

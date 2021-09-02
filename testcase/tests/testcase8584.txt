@@ -1,0 +1,36 @@
+INSERT eJBw string
+LOOKUP eJBw
+INSERT i number
+INSERT aXX number
+INSERT yfPj9 string
+INSERT x number
+INSERT mbqaoR number
+INSERT t string
+INSERT mxdx8 number
+INSERT mo76fG string
+INSERT o6x string
+ASSIGN yfPj9 eJBw
+BEGIN
+END
+LOOKUP mbqaoR
+LOOKUP mbqaoR
+END
+INSERT xE1SW8 string
+d4 k
+ASSIGN ci 'NFY'
+END
+INSERT wx9y number
+RPRINT
+INSERT q25j string
+LOOKUP mbqaoR
+INSERT g string
+INSERT lAV0ka number
+INSERT r number
+INSERT eVkGz number
+INSERT mHf string
+INSERT iSn string
+INSERT w number
+INSERT kviXAP string
+INSERT okumV string
+RPRINT
+INSERT tCZ string

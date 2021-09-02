@@ -1,0 +1,31 @@
+INSERT hO number
+INSERT q number
+LOOKUP hO
+INSERT vy string
+INSERT no9F3S string
+INSERT yCC number
+INSERT g3BkpH number
+INSERT hT string
+PRINT
+LOOKUP hT
+INSERT wJGowM string
+INSERT g string
+ASSIGN vy 1155
+END
+INSERT tZs number
+END
+INSERT uDgQ0S string
+INSERT qBEx string
+INSERT gTMW string
+INSERT r number
+INSERT mIE number
+INSERT i number
+INSERT j string
+INSERT bb5 string
+PRINT
+INSERT oI_Ilo string
+RPRINT
+INSERT x number
+RPRINT
+INSERT oMO number
+ASSIGN no9F3S 's'

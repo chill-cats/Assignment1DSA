@@ -1,0 +1,15 @@
+INSERT veljk1 string
+ASSIGN veljk1 1095
+INSERT aus string
+PRINT
+INSERT v string
+INSERT ksw number
+INSERT fx number
+RPRINT
+INSERT cMQ number
+PRINT
+END
+BEGIN
+INSERT lSmGQw number
+INSERT m9F number
+gGkTad rgopmw

@@ -1,0 +1,33 @@
+INSERT l string
+RPRINT
+INSERT z1o string
+BEGIN
+INSERT dHT48 number
+INSERT b1sN number
+INSERT iIHK string
+PRINT
+INSERT x number
+INSERT vSz7 string
+INSERT nQelip string
+sD mP8
+INSERT xrOdpL number
+ASSIGN vSz7 xrOdpL
+INSERT qrTy string
+INSERT d0d5u number
+INSERT k0A string
+INSERT yr number
+END
+INSERT mxzrl string
+INSERT wQE string
+BEGIN
+RPRINT
+ASSIGN wQE 85
+INSERT xSFWWm string
+INSERT fqo6 number
+ASSIGN nQelip 'w'
+INSERT h5vDq6 number
+INSERT o number
+PRINT
+ASSIGN xSFWWm 448
+INSERT eRN string
+INSERT mxdY5t number

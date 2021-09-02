@@ -1,0 +1,33 @@
+INSERT oZ1 number
+END
+ASSIGN oZ1 736
+INSERT l0 number
+INSERT ye57 number
+INSERT w7I number
+INSERT vdNP number
+ASSIGN ye57 'wQP4'
+nfmY z
+xaBgu byfAG
+INSERT lOmQoE number
+INSERT wt number
+INSERT dv string
+LOOKUP lOmQoE
+PRINT
+INSERT dS number
+PRINT
+INSERT iYM1b string
+INSERT qGlpZ number
+INSERT oP number
+INSERT rkNid string
+BEGIN
+INSERT fCXDF number
+INSERT m string
+omegBX efP3tZ
+END
+LOOKUP ye57
+BEGIN
+INSERT id string
+INSERT uXlQY4 string
+RPRINT
+PRINT
+INSERT b string

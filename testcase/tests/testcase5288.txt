@@ -1,0 +1,31 @@
+INSERT vOncA4 string
+BEGIN
+INSERT fHx number
+RPRINT
+LOOKUP fHx
+INSERT ucPs number
+INSERT rKTwy string
+INSERT l_d number
+INSERT i string
+INSERT z string
+RPRINT
+INSERT t number
+RPRINT
+INSERT qZfBV string
+RPRINT
+INSERT nyakX string
+LOOKUP rKTwy
+RPRINT
+END
+LOOKUP t
+END
+INSERT vryA number
+INSERT cF number
+PRINT
+INSERT jJYX number
+INSERT tiQh string
+INSERT nNAwBM string
+INSERT c9hqT string
+INSERT hJTTGH string
+INSERT iDz2 string
+END

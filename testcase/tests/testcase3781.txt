@@ -1,0 +1,8 @@
+BEGIN
+INSERT pqz_2L number
+INSERT tbH number
+INSERT q5 string
+END
+INSERT i8qVPk string
+BEGIN
+INSERT aaYd number

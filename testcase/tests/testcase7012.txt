@@ -1,0 +1,16 @@
+INSERT g56 string
+INSERT q4S7sl number
+INSERT zez string
+INSERT yPmi string
+n bL2
+INSERT ipZvC number
+INSERT q string
+INSERT uVpR number
+INSERT gh number
+RPRINT
+BEGIN
+LOOKUP ipZvC
+INSERT l string
+INSERT pvYU8 string
+END
+LOOKUP pvYU8

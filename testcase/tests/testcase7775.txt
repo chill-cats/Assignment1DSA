@@ -1,0 +1,17 @@
+INSERT btk5 number
+END
+INSERT g4Z5t string
+INSERT bHUaeD string
+LOOKUP btk5
+END
+BEGIN
+zZpBS4 lh
+INSERT v7ebU string
+INSERT dH string
+INSERT q number
+ASSIGN v7ebU 'Sj'
+ASSIGN g4Z5t q
+END
+INSERT k7hZl number
+ASSIGN rnw 'J7n6'
+INSERT i string

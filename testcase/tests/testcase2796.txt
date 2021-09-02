@@ -1,0 +1,37 @@
+INSERT w5jKrf number
+INSERT w number
+INSERT qLXo7 string
+INSERT xxa string
+RPRINT
+RPRINT
+RPRINT
+BEGIN
+PRINT
+INSERT w string
+INSERT jy number
+INSERT hJi number
+INSERT eB3EVU string
+PRINT
+INSERT huOP string
+INSERT kIM number
+INSERT b98P number
+INSERT aF string
+INSERT wD3x2 number
+INSERT s6Is number
+INSERT i string
+INSERT cP9 number
+PRINT
+PRINT
+INSERT nu2 number
+PRINT
+LOOKUP nu2
+INSERT c9w number
+INSERT l number
+INSERT rufJ number
+INSERT tY5Gz6 string
+END
+INSERT q3Twu number
+END
+INSERT qvip string
+INSERT tnYQX7 string
+INSERT vBXY number

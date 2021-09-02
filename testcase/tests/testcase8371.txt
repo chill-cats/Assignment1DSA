@@ -1,0 +1,18 @@
+INSERT f9GqC0 number
+INSERT q string
+INSERT fSyC number
+INSERT ob4 string
+LOOKUP fSyC
+END
+INSERT xgkt string
+INSERT naH number
+END
+LOOKUP xgkt
+INSERT h string
+PRINT
+INSERT u7qV number
+INSERT j4W string
+INSERT bwHBF number
+INSERT iMPv1o number
+INSERT zPF number
+INSERT g1vQOG string

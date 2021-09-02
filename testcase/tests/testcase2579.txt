@@ -1,0 +1,34 @@
+INSERT iQz3xd string
+INSERT h_ number
+INSERT v string
+g p_Ua
+INSERT g number
+INSERT qXY string
+RPRINT
+INSERT asZrhw string
+INSERT tLsk number
+INSERT p__E number
+LOOKUP tLsk
+erT jIsh
+ASSIGN tLsk 716
+INSERT f string
+INSERT p string
+INSERT vQb number
+INSERT t number
+RPRINT
+INSERT j number
+LOOKUP g
+PRINT
+INSERT f number
+RPRINT
+INSERT m number
+INSERT ui6 number
+RPRINT
+INSERT uZbfvh string
+INSERT veP string
+INSERT iZvg string
+INSERT dY string
+INSERT lu string
+INSERT bO string
+INSERT mCsCxD string
+INSERT bJEV number

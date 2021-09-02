@@ -1,0 +1,5 @@
+INSERT tCR13j string
+INSERT vJOtEQ number
+BEGIN
+ASSIGN vJOtEQ vJOtEQ
+PRINT

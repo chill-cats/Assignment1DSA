@@ -1,0 +1,28 @@
+INSERT w_ number
+END
+INSERT e number
+INSERT rfJ9 number
+INSERT iC number
+INSERT hu number
+INSERT gK string
+LOOKUP z
+ASSIGN hu 'hGs9c'
+INSERT qP9 string
+INSERT laEV number
+INSERT ut1cJP number
+INSERT w6XNcr number
+INSERT uXl8v number
+INSERT tlBn4W number
+PRINT
+INSERT eBNzik string
+INSERT mblBw number
+INSERT j string
+INSERT e4PSs string
+INSERT ch1G string
+INSERT ywvZZ string
+END
+RPRINT
+LOOKUP w_
+INSERT iE string
+tdC f
+ASSIGN tlBn4W 'yJ'

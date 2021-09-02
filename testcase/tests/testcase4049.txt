@@ -1,0 +1,6 @@
+s4EO7o xR2Kp
+RPRINT
+BEGIN
+INSERT rV number
+ASSIGN rV 927
+INSERT y_ji string

@@ -1,0 +1,26 @@
+INSERT fVy string
+INSERT ynzD number
+INSERT d_Kh number
+RPRINT
+INSERT pizx string
+LOOKUP ynzD
+INSERT s number
+INSERT j string
+INSERT ho number
+RPRINT
+INSERT n string
+INSERT yT string
+INSERT wa1y_ number
+INSERT u string
+END
+END
+INSERT kvBIB string
+LOOKUP pizx
+INSERT x1Z9ri number
+BEGIN
+RPRINT
+INSERT kiG number
+BEGIN
+INSERT z6B8 number
+PRINT
+INSERT n_ number

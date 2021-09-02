@@ -1,0 +1,9 @@
+INSERT sdkN_I number
+INSERT u string
+RPRINT
+INSERT nZb number
+INSERT aJwR4 string
+BEGIN
+INSERT mlpa string
+INSERT zvG string
+LOOKUP u

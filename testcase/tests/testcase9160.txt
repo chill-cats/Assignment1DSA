@@ -1,0 +1,29 @@
+INSERT uDxUCx string
+INSERT unggcW string
+INSERT m0 string
+RPRINT
+INSERT e string
+INSERT kSw9 string
+RPRINT
+INSERT mUB9i number
+ASSIGN m0 399
+INSERT hTD7 string
+o mF3q
+INSERT q8j number
+END
+BEGIN
+BEGIN
+ASSIGN unggcW 'wKLdn'
+LOOKUP unggcW
+END
+INSERT m9hv6D string
+INSERT xWPegl number
+END
+INSERT mZs number
+END
+RPRINT
+INSERT k5 string
+ASSIGN e 'Ufdeh'
+LOOKUP e
+INSERT jXnEU number
+INSERT oxB number

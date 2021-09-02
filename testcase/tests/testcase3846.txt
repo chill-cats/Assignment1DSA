@@ -1,0 +1,40 @@
+INSERT u5YIK8 number
+INSERT gN string
+LOOKUP u5YIK8
+INSERT jB0bc number
+INSERT jW number
+INSERT zrlcW number
+INSERT ips6U string
+INSERT aAH string
+PRINT
+INSERT ul7kWH number
+INSERT jGb number
+LOOKUP ul7kWH
+END
+INSERT pEj number
+INSERT nF number
+INSERT hDp number
+END
+BEGIN
+ASSIGN pEj 226
+END
+INSERT d number
+INSERT je4Wh1 string
+INSERT cu number
+INSERT w1 number
+ASSIGN je4Wh1 '2rGN'
+INSERT jGq string
+INSERT ka string
+INSERT m string
+INSERT p7 string
+LOOKUP d
+INSERT pgc6W number
+PRINT
+INSERT nTTdh string
+BEGIN
+INSERT d number
+INSERT u number
+INSERT bfdOZ string
+PRINT
+INSERT vUiN string
+INSERT h string

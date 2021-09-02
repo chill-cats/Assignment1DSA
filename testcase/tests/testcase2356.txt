@@ -1,0 +1,36 @@
+INSERT ts string
+RPRINT
+INSERT dK4lVa number
+ASSIGN ts dK4lVa
+RPRINT
+INSERT kTpVSY number
+LOOKUP dK4lVa
+rsiy1 l0fN
+INSERT h string
+qeibM hzbFi
+INSERT fw string
+INSERT izzC number
+INSERT fj6uFG string
+INSERT mI number
+LOOKUP kTpVSY
+INSERT kq string
+INSERT sUIw string
+BEGIN
+BEGIN
+INSERT t string
+vxy q4PY
+END
+LOOKUP izzC
+vzuB_H pv
+INSERT x number
+INSERT lHUk number
+INSERT h number
+INSERT tOn string
+PRINT
+BEGIN
+INSERT hzwh4_ string
+RPRINT
+INSERT z number
+END
+dHLna oR
+INSERT sL string

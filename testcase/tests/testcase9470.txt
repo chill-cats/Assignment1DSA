@@ -1,0 +1,11 @@
+wcO m
+ASSIGN e 107
+INSERT rT number
+LOOKUP rT
+RPRINT
+INSERT pbjRbb number
+INSERT urD string
+END
+INSERT eZDMtf string
+BEGIN
+pH6xW t3QKvL

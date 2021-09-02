@@ -1,0 +1,24 @@
+RPRINT
+END
+ASSIGN qM 'x0R'
+END
+BEGIN
+INSERT vSE string
+INSERT du number
+INSERT mP string
+END
+INSERT h17uG number
+INSERT xu4 string
+END
+INSERT d number
+INSERT tf number
+INSERT s number
+INSERT s string
+ASSIGN d s
+rPI m
+k70tB6 u0v
+INSERT p number
+BEGIN
+INSERT m number
+INSERT pmgi string
+INSERT yH number

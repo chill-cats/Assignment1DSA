@@ -1,0 +1,11 @@
+INSERT byD number
+INSERT zm number
+s i2c4
+INSERT fFt2W string
+END
+INSERT xyL string
+INSERT fs1N string
+PRINT
+INSERT lXB string
+jHKb b1
+INSERT kNDp string

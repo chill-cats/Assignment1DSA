@@ -1,0 +1,12 @@
+LOOKUP pC
+INSERT m5vVr number
+ASSIGN m5vVr 846
+INSERT zr string
+BEGIN
+INSERT xr6 string
+INSERT c number
+LOOKUP xr6
+INSERT fYRAl number
+INSERT txt string
+INSERT t number
+INSERT u string

@@ -1,0 +1,10 @@
+RPRINT
+INSERT xj number
+INSERT aHBLy string
+ASSIGN xj aHBLy
+INSERT e0l number
+INSERT mc string
+LOOKUP e0l
+INSERT zg string
+INSERT ph48 number
+INSERT ieU string

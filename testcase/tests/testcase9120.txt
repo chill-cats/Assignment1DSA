@@ -1,0 +1,33 @@
+INSERT nDM string
+RPRINT
+INSERT i string
+INSERT pWrOU string
+INSERT gffhR number
+INSERT uvQDq string
+END
+RPRINT
+INSERT a string
+INSERT o number
+INSERT ibyQO string
+ASSIGN nDM 'MIiz'
+INSERT be number
+RPRINT
+RPRINT
+INSERT a0 number
+INSERT s string
+END
+INSERT gwQ_tE string
+INSERT lwZETM number
+END
+pTR3 ttY
+INSERT zl string
+INSERT u string
+INSERT jk number
+ASSIGN pWrOU 'pmDFr'
+LOOKUP u
+INSERT k string
+LOOKUP ibyQO
+LOOKUP a
+INSERT t string
+BEGIN
+ASSIGN a u

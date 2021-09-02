@@ -1,0 +1,32 @@
+BEGIN
+LOOKUP fydEL
+RPRINT
+PRINT
+RPRINT
+RPRINT
+INSERT ccb number
+INSERT fdr number
+INSERT xPnLCK string
+u9 qaurR
+INSERT vgF number
+INSERT hvyk number
+RPRINT
+INSERT eL6cm number
+LOOKUP fdr
+INSERT nE88j string
+LOOKUP eL6cm
+INSERT mkTWw string
+INSERT h string
+PRINT
+INSERT lH string
+INSERT hOMWR0 string
+PRINT
+INSERT wbmE number
+INSERT dVzT number
+INSERT k string
+INSERT t number
+INSERT n number
+INSERT zpdb6H number
+INSERT aba35x number
+LOOKUP n
+INSERT pTw number

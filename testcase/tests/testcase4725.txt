@@ -1,0 +1,14 @@
+INSERT kE0T number
+PRINT
+INSERT yr string
+INSERT d string
+INSERT pQ9mp number
+PRINT
+INSERT u string
+INSERT yB2W string
+iI4f vKVjn
+ASSIGN pQ9mp yr
+ASSIGN pQ9mp 643
+BEGIN
+INSERT c number
+PRINT

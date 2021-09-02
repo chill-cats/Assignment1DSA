@@ -1,0 +1,18 @@
+INSERT cJB string
+END
+INSERT lXw1 number
+PRINT
+INSERT z4yIp number
+INSERT uRSUz number
+LOOKUP uRSUz
+BEGIN
+INSERT yAVNrK string
+INSERT f9dlAU string
+PRINT
+INSERT h6yi number
+RPRINT
+RPRINT
+INSERT y8 string
+INSERT fRGoF number
+BEGIN
+INSERT tM string

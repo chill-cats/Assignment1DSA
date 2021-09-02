@@ -1,0 +1,28 @@
+INSERT yltTN number
+INSERT sPu string
+END
+PRINT
+INSERT p number
+BEGIN
+INSERT peJI string
+PRINT
+INSERT sLtFB number
+LOOKUP yltTN
+INSERT dt string
+INSERT dzm6m string
+INSERT xc number
+RPRINT
+INSERT x number
+ASSIGN sLtFB dt
+ASSIGN p 1089
+INSERT g number
+INSERT x6 string
+INSERT csVph string
+LOOKUP sPu
+INSERT fPl number
+INSERT n string
+INSERT vFIS2E number
+INSERT zOiURf string
+BEGIN
+PRINT
+INSERT sycRA string

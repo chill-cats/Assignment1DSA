@@ -1,0 +1,32 @@
+INSERT qHW string
+INSERT y string
+INSERT isXc string
+RPRINT
+INSERT o26yA8 string
+INSERT liD string
+INSERT pZMP string
+INSERT bc string
+INSERT pfJ string
+INSERT h0q string
+INSERT ksJau string
+RPRINT
+INSERT wH number
+INSERT hN string
+PRINT
+ASSIGN y '6kV'
+INSERT mEKs2 number
+INSERT ksDvC0 number
+p qz
+INSERT f18Odk string
+ASSIGN wH 113
+INSERT m string
+INSERT g9b string
+LOOKUP ksDvC0
+INSERT b number
+INSERT vV number
+INSERT s number
+s0FN il5x
+INSERT zJgqZ string
+INSERT i1 number
+INSERT qP number
+LOOKUP qHW

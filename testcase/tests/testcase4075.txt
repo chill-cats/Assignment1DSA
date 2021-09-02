@@ -1,0 +1,16 @@
+INSERT wbT string
+ASSIGN wbT 848
+INSERT vkVGWx string
+BEGIN
+INSERT oSM string
+RPRINT
+PRINT
+ASSIGN wbT oSM
+LOOKUP oSM
+BEGIN
+INSERT wv string
+LOOKUP vkVGWx
+END
+INSERT eju3 string
+INSERT wY067g number
+INSERT iqw string

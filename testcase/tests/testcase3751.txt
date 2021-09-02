@@ -1,0 +1,29 @@
+INSERT yyCpvz string
+BEGIN
+INSERT k string
+INSERT lm number
+INSERT o string
+INSERT h4eHfs string
+INSERT z string
+INSERT z1Tq string
+INSERT c string
+INSERT nRU9 number
+INSERT tbpMCB number
+LOOKUP nRU9
+END
+INSERT qNhrQ number
+INSERT oCn number
+INSERT jvwGIa number
+INSERT h number
+INSERT w string
+RPRINT
+LOOKUP z1Tq
+INSERT eF4 string
+BEGIN
+END
+RPRINT
+INSERT swTq string
+INSERT d string
+LOOKUP d
+INSERT q string
+BEGIN

@@ -1,0 +1,11 @@
+PRINT
+RPRINT
+INSERT q2nd number
+END
+END
+INSERT pFnj number
+PRINT
+INSERT lL_hL string
+PRINT
+INSERT h number
+ASSIGN lL_hL 'B'

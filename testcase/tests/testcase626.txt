@@ -1,0 +1,17 @@
+RPRINT
+INSERT k number
+ASSIGN k k
+BEGIN
+LOOKUP k
+INSERT wln7 number
+INSERT t number
+INSERT h string
+PRINT
+RPRINT
+INSERT stP number
+ASSIGN rPoA '7d'
+INSERT lBTjS number
+INSERT ceXS_H number
+a1 dLS5h
+INSERT g0eS2 string
+INSERT jU3nA string

@@ -1,0 +1,40 @@
+PRINT
+END
+PRINT
+INSERT efXm number
+PRINT
+END
+LOOKUP efXm
+INSERT ayrFu string
+INSERT nXL96 number
+INSERT v4q number
+INSERT hF number
+INSERT v number
+ibp oTYh
+mFTe jQi
+INSERT ptBCld string
+sZln ixcek
+INSERT pO string
+ASSIGN efXm pO
+PRINT
+w5cm0 f0
+INSERT bE number
+RPRINT
+LOOKUP ptBCld
+INSERT dqVKdk number
+INSERT fK1 number
+RPRINT
+INSERT rKfNMY string
+INSERT mma string
+INSERT aIFBv number
+INSERT rqA string
+xIm t7bcB
+INSERT k number
+INSERT eh number
+BEGIN
+PRINT
+INSERT qNe number
+BEGIN
+INSERT xOi6x number
+PRINT
+INSERT e2V string

@@ -1,0 +1,16 @@
+INSERT gWmeJ number
+INSERT f number
+LOOKUP gWmeJ
+INSERT q string
+PRINT
+INSERT x_CSD number
+INSERT tQ number
+INSERT looarx string
+LOOKUP looarx
+END
+INSERT p9 number
+LOOKUP looarx
+END
+BEGIN
+PRINT
+INSERT yUC number

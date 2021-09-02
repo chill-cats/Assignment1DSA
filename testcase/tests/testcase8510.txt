@@ -1,0 +1,34 @@
+INSERT nPV number
+PRINT
+INSERT s5cC5 string
+BEGIN
+RPRINT
+INSERT v string
+INSERT wRbytk number
+ASSIGN nPV s5cC5
+BEGIN
+END
+INSERT ce8jx number
+LOOKUP s5cC5
+INSERT h number
+INSERT pCG_ string
+INSERT nqLRf0 number
+END
+RPRINT
+LOOKUP h
+LOOKUP nPV
+INSERT r string
+BEGIN
+INSERT vDLXi number
+PRINT
+fs2V tFT
+INSERT iKe4X number
+INSERT f6WWU number
+l1G7v g6gawB
+LOOKUP v
+INSERT sz6n string
+INSERT vx number
+INSERT t0 number
+INSERT kG string
+RPRINT
+INSERT bb number

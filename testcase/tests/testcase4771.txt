@@ -1,0 +1,6 @@
+INSERT lr number
+INSERT kN number
+BEGIN
+xg1B a
+INSERT nO448 number
+RPRINT

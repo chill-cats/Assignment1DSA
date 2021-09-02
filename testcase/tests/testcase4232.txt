@@ -1,0 +1,26 @@
+END
+INSERT jRH string
+LOOKUP jRH
+INSERT ny string
+LOOKUP jRH
+INSERT gIN number
+INSERT hTNO string
+INSERT p number
+LOOKUP hTNO
+END
+BEGIN
+INSERT zOm string
+RPRINT
+ucGK eOcx
+o ghq
+BEGIN
+INSERT q1 number
+e_Q sEF
+INSERT xxvAR5 string
+INSERT h94h string
+INSERT oU5mLj number
+RPRINT
+INSERT pa3 string
+INSERT p number
+RPRINT
+INSERT eHwc number

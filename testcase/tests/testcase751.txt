@@ -1,0 +1,20 @@
+INSERT oUf number
+LOOKUP oUf
+PRINT
+BEGIN
+INSERT fhDBJ string
+BEGIN
+INSERT v2 number
+INSERT oxX number
+INSERT cB_ud string
+END
+INSERT taDv number
+INSERT r number
+INSERT jE number
+INSERT ny number
+INSERT fX string
+PRINT
+ASSIGN oxX taDv
+PRINT
+BEGIN
+INSERT dckkR string

@@ -1,0 +1,19 @@
+INSERT f string
+LOOKUP f
+INSERT b string
+INSERT b number
+RPRINT
+RPRINT
+BEGIN
+RPRINT
+INSERT wLk string
+INSERT hE8I9M number
+END
+INSERT yuMt number
+INSERT j number
+RPRINT
+INSERT xw number
+INSERT lzxhI number
+INSERT aWTP7 string
+cW eBr
+INSERT lI number

@@ -1,0 +1,28 @@
+BEGIN
+INSERT hI7j string
+END
+INSERT p9 number
+END
+ASSIGN hI7j 35
+INSERT px string
+BEGIN
+INSERT f9 number
+INSERT oGx number
+l7d beTV4d
+END
+INSERT o5N string
+INSERT tvIC3f string
+INSERT p71Hkg string
+INSERT e number
+INSERT xiPOr number
+INSERT tC string
+INSERT yrn number
+INSERT g3ka string
+INSERT ga string
+INSERT lHYm string
+INSERT o0 number
+BEGIN
+ASSIGN tC 'L0i '
+RPRINT
+ASSIGN g3ka oGx
+LOOKUP f9

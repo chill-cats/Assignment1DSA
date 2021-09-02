@@ -1,0 +1,36 @@
+PRINT
+ASSIGN c 'xnnLP'
+INSERT q string
+INSERT j number
+INSERT fq number
+INSERT qxDg string
+INSERT bv number
+INSERT sW string
+INSERT sjn string
+INSERT ha string
+RPRINT
+RPRINT
+INSERT kv string
+BEGIN
+INSERT gJY string
+ASSIGN kv ha
+END
+RPRINT
+INSERT lR number
+INSERT i number
+RPRINT
+PRINT
+PRINT
+PRINT
+ASSIGN gJY '0B'
+INSERT j string
+BEGIN
+INSERT aENv string
+INSERT jB string
+ASSIGN gJY 128
+END
+END
+END
+INSERT spiC2 string
+INSERT tI_zWp number
+INSERT w number

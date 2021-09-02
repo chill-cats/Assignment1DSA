@@ -1,0 +1,6 @@
+INSERT n string
+INSERT cAqy string
+INSERT xbp string
+PRINT
+PRINT
+ASSIGN cAqy 'ei'

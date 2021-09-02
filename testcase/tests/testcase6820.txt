@@ -1,0 +1,14 @@
+INSERT kNb70 string
+INSERT zQ2T string
+INSERT vnzdAU string
+INSERT ifj7 string
+LOOKUP ifj7
+INSERT k1qY5a number
+RPRINT
+INSERT in string
+INSERT m46 number
+INSERT nEHodl string
+INSERT r number
+ASSIGN vnzdAU 506
+INSERT a number
+INSERT sA number

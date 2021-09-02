@@ -1,0 +1,9 @@
+INSERT sS6YL string
+INSERT sky number
+LOOKUP sS6YL
+INSERT tHsh number
+PRINT
+INSERT r93SLL string
+RPRINT
+ASSIGN sS6YL '79Eq'
+RPRINT

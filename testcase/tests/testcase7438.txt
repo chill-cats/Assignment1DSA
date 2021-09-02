@@ -1,0 +1,8 @@
+ce iqd
+LOOKUP gJRJ
+RPRINT
+BEGIN
+INSERT fq string
+RPRINT
+LOOKUP fq
+RPRINT

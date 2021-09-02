@@ -1,0 +1,6 @@
+INSERT k5 string
+ASSIGN k5 99
+END
+INSERT bB0 string
+INSERT qD number
+RPRINT

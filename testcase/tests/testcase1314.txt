@@ -1,0 +1,26 @@
+INSERT mE7 number
+ASSIGN mE7 mE7
+INSERT pwy string
+INSERT oV3 string
+INSERT lf number
+PRINT
+INSERT dn number
+INSERT sYO string
+ASSIGN pwy 1201
+INSERT lT number
+ASSIGN lf oV3
+RPRINT
+INSERT om number
+INSERT aN_ string
+INSERT msq string
+BEGIN
+INSERT wPX string
+LOOKUP dn
+INSERT g string
+INSERT qMLB number
+INSERT b6e8r1 string
+END
+BEGIN
+INSERT jM number
+RPRINT
+INSERT yGuSXe string

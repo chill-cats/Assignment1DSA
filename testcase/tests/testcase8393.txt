@@ -1,0 +1,19 @@
+INSERT qdv3 string
+INSERT xriA number
+BEGIN
+b sJH
+LOOKUP qdv3
+INSERT odk number
+INSERT aR3 string
+INSERT cKSWF number
+ASSIGN qdv3 673
+INSERT gLP number
+xk_ cUuK
+INSERT oz string
+INSERT id number
+INSERT ptP number
+LOOKUP odk
+ASSIGN qdv3 2
+INSERT ltw string
+ASSIGN aR3 'Pnu'
+INSERT aHY number

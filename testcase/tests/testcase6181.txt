@@ -1,0 +1,3 @@
+INSERT bFgv number
+END
+LOOKUP bFgv

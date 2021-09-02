@@ -1,0 +1,26 @@
+d7M d4M9
+INSERT sC string
+INSERT sx number
+INSERT kRhZHr string
+INSERT hoWQ number
+LOOKUP kRhZHr
+RPRINT
+pJ j
+ASSIGN sx kRhZHr
+INSERT ls string
+INSERT m string
+jm06M d
+BEGIN
+INSERT cc string
+INSERT fLwJ number
+INSERT ffD2 string
+INSERT w5 string
+u q
+INSERT iI string
+PRINT
+LOOKUP ls
+LOOKUP ls
+ASSIGN cc 423
+INSERT roj number
+INSERT rwp string
+INSERT aNWqP string

@@ -1,0 +1,34 @@
+INSERT t_669 number
+INSERT vQR2b string
+INSERT r number
+bEUp1m q
+INSERT vFoWi string
+INSERT bE string
+INSERT aLsQ_c string
+INSERT d string
+kX byKK
+INSERT t number
+BEGIN
+INSERT fW number
+INSERT lvwSA string
+INSERT yFlK number
+INSERT cOyo string
+INSERT lK string
+INSERT dDkX number
+INSERT uc18t number
+ASSIGN uc18t 'RSp'
+INSERT b string
+INSERT eNFC6 string
+INSERT dYMN string
+INSERT q number
+INSERT spmt number
+END
+INSERT tTwbWZ string
+PRINT
+INSERT t number
+END
+END
+INSERT eOCefW string
+BEGIN
+INSERT sTd2R number
+BEGIN

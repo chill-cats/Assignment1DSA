@@ -1,0 +1,30 @@
+RPRINT
+INSERT c4gu string
+INSERT rYJV number
+INSERT jjsL8X string
+BEGIN
+INSERT ji0QNh string
+INSERT f03Ufl number
+BEGIN
+INSERT zIu1jJ number
+LOOKUP ji0QNh
+ASSIGN c4gu jjsL8X
+INSERT ixKCil string
+ASSIGN f03Ufl rYJV
+INSERT k string
+INSERT qFKUm_ string
+INSERT uT number
+INSERT jXlmy string
+INSERT wgaPrx string
+INSERT v string
+INSERT xS5dY number
+INSERT mQSQ6 string
+INSERT kO number
+INSERT wcbg1 number
+END
+BEGIN
+INSERT qcbI string
+INSERT eAqRk number
+INSERT zMBm number
+wS3ff o
+INSERT feBrl string

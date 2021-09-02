@@ -1,0 +1,29 @@
+ASSIGN u 's1e4'
+INSERT f4CMgR number
+INSERT bQ string
+INSERT dpR number
+INSERT hX4 string
+LOOKUP f4CMgR
+PRINT
+INSERT f5r number
+INSERT yle number
+ASSIGN f5r hX4
+ASSIGN f4CMgR 'h'
+INSERT p number
+INSERT h8bCh string
+PRINT
+INSERT oaS number
+END
+INSERT l7K string
+INSERT o string
+RPRINT
+RPRINT
+INSERT mtm4_ string
+RPRINT
+INSERT wa7M number
+INSERT jyRqc number
+INSERT o2c number
+INSERT pCrA6 number
+LOOKUP pCrA6
+BEGIN
+LOOKUP wa7M

@@ -1,0 +1,40 @@
+INSERT jStoC string
+INSERT jIr number
+BEGIN
+INSERT t3_aA string
+INSERT naobz_ number
+INSERT luHTrS string
+RPRINT
+INSERT o6o number
+INSERT i number
+INSERT f string
+INSERT sTUae number
+INSERT dISBE string
+INSERT yPtQLR string
+RPRINT
+PRINT
+INSERT cA_UYC number
+INSERT aXp number
+INSERT e string
+END
+INSERT xGfy number
+BEGIN
+INSERT o number
+INSERT mC string
+INSERT hNqJ_ number
+ASSIGN yPtQLR 'k'
+INSERT x number
+INSERT w5w string
+INSERT xb number
+INSERT cP number
+INSERT ofFYG string
+PRINT
+RPRINT
+END
+INSERT b string
+RPRINT
+INSERT pMZPY number
+PRINT
+INSERT l7cL number
+INSERT tbg number
+INSERT f1_aOv string

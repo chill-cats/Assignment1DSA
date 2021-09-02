@@ -1,0 +1,31 @@
+INSERT bS44Rr number
+RPRINT
+INSERT hXb9 string
+INSERT r string
+INSERT rOk9 string
+LOOKUP r
+INSERT t7OkA string
+RPRINT
+END
+ASSIGN hXb9 363
+INSERT j7 string
+LOOKUP j7
+INSERT qW number
+cCnXLx gN2a
+INSERT w string
+INSERT fJC number
+INSERT cv number
+END
+INSERT b number
+ASSIGN w cv
+INSERT d string
+INSERT isC0 string
+INSERT h string
+INSERT g9LCZ string
+INSERT inrvdd number
+END
+INSERT sIw number
+INSERT d6Prz number
+BEGIN
+RPRINT
+INSERT wS string

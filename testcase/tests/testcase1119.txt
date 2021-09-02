@@ -1,0 +1,25 @@
+INSERT u string
+INSERT qwyD number
+RPRINT
+INSERT yhe string
+INSERT uD string
+RPRINT
+PRINT
+RPRINT
+INSERT r number
+INSERT m_ number
+INSERT a number
+INSERT lG_8 string
+END
+LOOKUP lG_8
+INSERT a44i string
+INSERT s4 string
+PRINT
+END
+PRINT
+ASSIGN a44i 'yRW'
+INSERT cbBy string
+ASSIGN lG_8 s4
+INSERT q number
+INSERT o string
+INSERT ac string

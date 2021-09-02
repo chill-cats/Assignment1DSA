@@ -1,0 +1,35 @@
+INSERT c8 number
+INSERT e string
+LOOKUP g_llC
+INSERT txr string
+INSERT l number
+INSERT z_GRD number
+INSERT qOnn number
+xkG0BK l2JrA
+INSERT so string
+INSERT mZr1T3 number
+INSERT k number
+BEGIN
+INSERT mDz9s number
+LOOKUP mDz9s
+INSERT y number
+INSERT p7nAZC number
+LOOKUP z_GRD
+INSERT z3vfH string
+INSERT qoM number
+k2BuR z3
+INSERT e string
+BEGIN
+INSERT qJ number
+INSERT rLSdpz string
+INSERT bEpmw number
+INSERT tPSnG number
+END
+INSERT m5TW string
+INSERT kFb string
+INSERT sU0Ql4 string
+LOOKUP qJ
+INSERT aUBPu string
+INSERT fP number
+INSERT uR string
+INSERT q string

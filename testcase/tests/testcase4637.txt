@@ -1,0 +1,28 @@
+INSERT mmNGj number
+LOOKUP mmNGj
+LOOKUP mmNGj
+INSERT e number
+INSERT n1_ number
+INSERT a number
+RPRINT
+INSERT s_fVu number
+INSERT lmg3 string
+INSERT pdM5lC string
+INSERT ij string
+END
+INSERT w number
+PRINT
+ASSIGN pdM5lC '8E'
+INSERT dYbMs string
+RPRINT
+INSERT b string
+INSERT k6YQ number
+INSERT s number
+INSERT o string
+BEGIN
+uBz zXU
+BEGIN
+INSERT nLih3 number
+INSERT lhO number
+END
+INSERT t2 number

@@ -1,0 +1,6 @@
+INSERT v number
+PRINT
+BEGIN
+INSERT c number
+INSERT fg7uD string
+INSERT ggqG9 number

@@ -1,0 +1,10 @@
+INSERT nQW number
+INSERT aLPkPf string
+INSERT yt number
+INSERT i0g8 string
+PRINT
+INSERT xkP3l number
+RPRINT
+INSERT j string
+BEGIN
+BEGIN

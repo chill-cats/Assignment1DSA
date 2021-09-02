@@ -1,0 +1,19 @@
+LOOKUP fZGf4
+vCp bGNC
+PRINT
+INSERT r number
+INSERT x0 string
+INSERT oz number
+RPRINT
+LOOKUP oz
+INSERT ae number
+INSERT e string
+INSERT c7sfm number
+INSERT z number
+INSERT iBV string
+INSERT cgA number
+INSERT gp string
+LOOKUP e
+INSERT oIa string
+ASSIGN c7sfm 413
+ASSIGN iBV 700

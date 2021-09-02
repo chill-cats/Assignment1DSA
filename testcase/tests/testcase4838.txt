@@ -1,0 +1,29 @@
+BEGIN
+INSERT kCKWfp number
+INSERT o string
+ASSIGN o kCKWfp
+INSERT h0 number
+INSERT w number
+INSERT lBJ number
+INSERT vYV string
+INSERT vbpRov string
+INSERT xs1gzV number
+INSERT vcb number
+INSERT gwlkrQ string
+INSERT bQb number
+INSERT cbv string
+INSERT gYX string
+LOOKUP kCKWfp
+INSERT k1T number
+PRINT
+END
+INSERT q_TG1 string
+BEGIN
+INSERT hBwnAG number
+INSERT vbe2 number
+PRINT
+INSERT l number
+INSERT wu string
+INSERT l3_J string
+INSERT n string
+INSERT eot2M string

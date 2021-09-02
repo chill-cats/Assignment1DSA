@@ -1,0 +1,34 @@
+RPRINT
+bLLAo jV
+INSERT d number
+INSERT sIF string
+INSERT c number
+m l
+PRINT
+BEGIN
+LOOKUP sIF
+INSERT kskv number
+INSERT m8gY string
+LOOKUP m8gY
+END
+INSERT xyTY_ number
+END
+INSERT jw8 string
+INSERT tgD number
+INSERT y8n6xT number
+INSERT yC5q number
+INSERT uyz string
+nvjf v
+LOOKUP m8gY
+RPRINT
+INSERT rdnrW number
+RPRINT
+END
+INSERT i46c string
+ASSIGN i46c 1234
+INSERT wsP string
+INSERT dr number
+INSERT k number
+INSERT y string
+INSERT ua string
+INSERT ieKx string

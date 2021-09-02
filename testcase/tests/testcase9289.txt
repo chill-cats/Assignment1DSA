@@ -1,0 +1,18 @@
+END
+INSERT rZp4cd number
+RPRINT
+END
+INSERT b937c string
+INSERT x number
+INSERT hcR string
+INSERT ce number
+INSERT v4 string
+INSERT fAAR number
+ASSIGN v4 464
+ASSIGN v4 1201
+INSERT pev number
+INSERT kR1 number
+INSERT vS7 number
+INSERT qIBa number
+INSERT rA string
+LOOKUP rA

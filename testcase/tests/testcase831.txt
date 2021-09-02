@@ -1,0 +1,38 @@
+INSERT aOA8BB string
+INSERT q1 number
+INSERT qzR string
+PRINT
+INSERT vdm_JR string
+PRINT
+INSERT cJbbS string
+INSERT dANK number
+RPRINT
+INSERT bNur number
+INSERT r8 string
+INSERT qNtC string
+LOOKUP qNtC
+END
+END
+PRINT
+INSERT hNx_ string
+ASSIGN aOA8BB dANK
+ASSIGN qzR 19
+INSERT mnyLOu string
+LOOKUP q1
+ASSIGN q1 hNx_
+BEGIN
+INSERT bU number
+BEGIN
+INSERT mhJctO string
+INSERT a string
+INSERT mNeIi number
+PRINT
+INSERT dWdHz string
+lB8Gqq q
+INSERT meL string
+INSERT p string
+INSERT dygwL string
+ASSIGN cJbbS qNtC
+INSERT bSB string
+INSERT jdJbb number
+INSERT yNSP string

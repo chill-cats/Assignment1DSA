@@ -1,0 +1,4 @@
+INSERT cSIvvo number
+ASSIGN cSIvvo 522
+INSERT p4h31 string
+PRINT

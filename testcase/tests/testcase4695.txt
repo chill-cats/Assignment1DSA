@@ -1,0 +1,8 @@
+PRINT
+INSERT prDNiC number
+INSERT lPTo number
+INSERT wy string
+PRINT
+END
+INSERT dslLck string
+END

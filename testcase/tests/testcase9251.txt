@@ -1,0 +1,17 @@
+INSERT iee string
+BEGIN
+INSERT l number
+INSERT i number
+INSERT e number
+INSERT l06nW number
+PRINT
+ASSIGN e 'M7rZ'
+INSERT i number
+INSERT rhxY string
+INSERT r1GK string
+INSERT r5UgK string
+BEGIN
+ASSIGN rhxY 'iAb'
+INSERT gLTVW number
+INSERT c7jJTP string
+INSERT nTGK_ string

@@ -1,0 +1,11 @@
+INSERT tC3 number
+INSERT dJs6gm number
+ASSIGN tC3 'XI'
+LOOKUP o
+INSERT x string
+INSERT uN number
+INSERT pf string
+LOOKUP tC3
+INSERT vD828 number
+INSERT oU5 string
+INSERT c string

@@ -1,0 +1,18 @@
+BEGIN
+INSERT kkcgL string
+INSERT i0nM4C string
+BEGIN
+PRINT
+INSERT t string
+INSERT nIu number
+BEGIN
+LOOKUP i0nM4C
+INSERT j number
+INSERT i3Bp number
+INSERT zA number
+PRINT
+INSERT vsh string
+INSERT g number
+ASSIGN j 1097
+INSERT vWpyr5 string
+INSERT lKNnQ string

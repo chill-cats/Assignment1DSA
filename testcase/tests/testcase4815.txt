@@ -1,0 +1,28 @@
+INSERT ahtl21 number
+RPRINT
+INSERT jiAq string
+INSERT hCYvs number
+INSERT bg number
+INSERT rZahE string
+ASSIGN jiAq 163
+ASSIGN rZahE 368
+PRINT
+BEGIN
+INSERT w number
+INSERT pN number
+ASSIGN bg 1196
+INSERT i number
+INSERT sjSM string
+END
+ASSIGN rZahE 'cwP'
+INSERT xR_5 number
+INSERT u string
+RPRINT
+INSERT d string
+INSERT lDDvYg string
+INSERT bL48KZ string
+PRINT
+INSERT t string
+INSERT tUzYc number
+INSERT xo_ number
+INSERT j6Xt string

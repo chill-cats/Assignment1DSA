@@ -1,0 +1,22 @@
+LOOKUP v
+PRINT
+LOOKUP pOy3r
+INSERT hgJC number
+INSERT v string
+INSERT j number
+INSERT zjc number
+RPRINT
+INSERT yinIr number
+INSERT ddD number
+PRINT
+BEGIN
+RPRINT
+INSERT pmo number
+PRINT
+INSERT d4U string
+i5 bbCth
+LOOKUP hgJC
+INSERT n5 string
+INSERT d string
+INSERT q number
+PRINT

@@ -1,0 +1,40 @@
+INSERT oN9cR string
+INSERT r number
+INSERT hq_B number
+INSERT nrGi1 number
+ASSIGN nrGi1 r
+INSERT qi2FZJ string
+INSERT tb2 number
+PRINT
+ASSIGN r tb2
+INSERT us4 string
+INSERT hh string
+INSERT j3G number
+INSERT iE1wnb string
+PRINT
+INSERT fjyC_0 number
+INSERT nBg2hM number
+PRINT
+INSERT xsle number
+END
+INSERT t string
+BEGIN
+LOOKUP ft
+INSERT jCHr string
+bjX76 oeSs0O
+LOOKUP nBg2hM
+INSERT mwLbPF string
+INSERT vul number
+BEGIN
+INSERT v string
+INSERT ogymW string
+INSERT u1rc0 number
+LOOKUP nBg2hM
+INSERT y0MAXs string
+dKG93 uJcJG6
+INSERT rtiE string
+RPRINT
+INSERT b0yCd number
+PRINT
+INSERT g string
+INSERT dEHQv number

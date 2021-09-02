@@ -1,0 +1,5 @@
+ASSIGN l 584
+INSERT vAhn4 number
+INSERT gy5 string
+BEGIN
+INSERT vnPNMY number

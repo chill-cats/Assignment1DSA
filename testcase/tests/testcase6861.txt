@@ -1,0 +1,6 @@
+END
+INSERT va2 string
+INSERT flgnmE number
+INSERT wr string
+RPRINT
+INSERT m number

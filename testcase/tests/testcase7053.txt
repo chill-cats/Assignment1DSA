@@ -1,0 +1,10 @@
+INSERT a8yr string
+INSERT djk number
+LOOKUP djk
+INSERT nvV number
+INSERT gaO number
+PRINT
+nSQN2 rT7
+INSERT yEP7S string
+INSERT tNzcpT number
+INSERT yEN string

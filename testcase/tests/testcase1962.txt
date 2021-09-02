@@ -1,0 +1,6 @@
+INSERT z number
+INSERT d2hpc number
+INSERT iGvjD string
+INSERT n string
+RPRINT
+INSERT zt3 number

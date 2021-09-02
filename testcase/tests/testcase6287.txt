@@ -1,0 +1,34 @@
+BEGIN
+INSERT b8tc number
+ASSIGN b8tc b8tc
+END
+ASSIGN b8tc 299
+INSERT v string
+BEGIN
+n bOt
+ry6L iL_9z
+INSERT bm string
+INSERT dgs number
+PRINT
+INSERT j string
+BEGIN
+END
+INSERT bJkKP string
+INSERT tB string
+INSERT rA0b string
+INSERT vV1cC string
+INSERT wiqeXA number
+INSERT g number
+END
+INSERT dTZUC number
+INSERT dfqI3c string
+INSERT lkg number
+INSERT sn51W string
+END
+INSERT dZljTY string
+RPRINT
+LOOKUP rA0b
+INSERT y3gX string
+INSERT uZ string
+INSERT k string
+INSERT wkkn string

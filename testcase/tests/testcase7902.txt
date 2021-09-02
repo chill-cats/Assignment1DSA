@@ -1,0 +1,38 @@
+INSERT gr7 number
+ASSIGN gr7 'tsom'
+RPRINT
+INSERT zBr number
+INSERT yFWFRQ number
+INSERT lA number
+INSERT ickkGv string
+INSERT q string
+END
+LOOKUP ickkGv
+INSERT unC string
+INSERT ozQ_y string
+INSERT g string
+INSERT zoCAV string
+INSERT chvrn string
+INSERT mo number
+INSERT vC string
+INSERT zofi string
+BEGIN
+INSERT wCQ string
+INSERT e5ZE1 string
+BEGIN
+PRINT
+INSERT w string
+INSERT vm string
+LOOKUP chvrn
+BEGIN
+INSERT uM string
+INSERT m55RpQ string
+INSERT kzLDgc number
+INSERT wFz number
+RPRINT
+INSERT wC number
+INSERT d string
+INSERT a4H string
+INSERT lzM4 number
+RPRINT
+INSERT nwtu27 number

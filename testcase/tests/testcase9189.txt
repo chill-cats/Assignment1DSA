@@ -1,0 +1,16 @@
+LOOKUP k
+END
+BEGIN
+INSERT qWvtl number
+INSERT sj2 string
+INSERT pKAyjO string
+INSERT wA number
+xcE a
+INSERT z string
+RPRINT
+LOOKUP pKAyjO
+LOOKUP mo4
+INSERT ky string
+rR y
+LOOKUP ky
+INSERT qE string

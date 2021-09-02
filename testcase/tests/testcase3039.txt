@@ -1,0 +1,30 @@
+q o
+INSERT rTFOo7 string
+LOOKUP rTFOo7
+INSERT gd5eR string
+END
+INSERT qMKR number
+LOOKUP gd5eR
+INSERT xzPRC string
+INSERT dPYDJ string
+INSERT v string
+INSERT mS8 string
+INSERT x_ string
+LOOKUP mS8
+INSERT wTd string
+INSERT nXxv string
+INSERT ttC string
+INSERT p00 number
+ASSIGN wTd 456
+BEGIN
+INSERT vJutg number
+INSERT y_J number
+INSERT bAW number
+RPRINT
+BEGIN
+INSERT mbb number
+bUx b9Oeq
+INSERT rVmQ string
+INSERT aOVJt number
+RPRINT
+INSERT h2H9Gi string

@@ -1,0 +1,20 @@
+INSERT k string
+ASSIGN k 1211
+INSERT w string
+PRINT
+INSERT q9Seaw number
+INSERT xyhoMQ string
+INSERT n string
+INSERT vgsg string
+PRINT
+INSERT e string
+BEGIN
+INSERT w string
+RPRINT
+ASSIGN k 439
+END
+INSERT t string
+RPRINT
+INSERT giV number
+INSERT y string
+INSERT kM string

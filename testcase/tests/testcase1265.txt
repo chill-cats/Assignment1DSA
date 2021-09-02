@@ -1,0 +1,19 @@
+INSERT i string
+INSERT e string
+INSERT lSXz number
+INSERT bvD number
+INSERT v number
+INSERT fMFXsJ number
+LOOKUP fMFXsJ
+eRCF_1 zx
+INSERT e string
+LOOKUP i
+RPRINT
+END
+INSERT uok string
+INSERT m8eJ string
+INSERT nkzt5 number
+INSERT t1Ai8i number
+INSERT sR string
+INSERT oI49 string
+LOOKUP vx

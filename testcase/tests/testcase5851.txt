@@ -1,0 +1,25 @@
+INSERT eO number
+ASSIGN eO eO
+PRINT
+INSERT rlSk number
+PRINT
+INSERT d number
+INSERT qOE string
+INSERT fVvP number
+INSERT rUA9M string
+END
+ASSIGN fVvP 'hcFu'
+INSERT gOo string
+INSERT jLBns number
+LOOKUP rlSk
+INSERT y8Vw number
+LOOKUP gOo
+INSERT iG7d string
+INSERT u string
+ASSIGN d jLBns
+INSERT guaQr number
+INSERT r52d4W number
+INSERT sF string
+INSERT onZqQ string
+INSERT q8AImt number
+LOOKUP qOE

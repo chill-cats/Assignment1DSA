@@ -1,0 +1,32 @@
+INSERT qYlDVj string
+INSERT uy4zk string
+INSERT yoEN1 number
+LOOKUP qYlDVj
+INSERT ktJDb string
+INSERT fphX number
+ASSIGN ktJDb 1133
+INSERT jcz number
+INSERT scU88 number
+INSERT z1 string
+INSERT qiIVd number
+INSERT dhRx number
+INSERT y string
+INSERT dszGl2 string
+el5__ c9J6r
+INSERT sO string
+INSERT a number
+INSERT cP string
+INSERT oBu_oC string
+INSERT xI8 number
+INSERT nM number
+INSERT v number
+ASSIGN fh07 'nHNV'
+INSERT mSakDB string
+RPRINT
+INSERT fq0M number
+INSERT xeR number
+INSERT v number
+hd k
+END
+PRINT
+END

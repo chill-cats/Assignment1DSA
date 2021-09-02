@@ -1,0 +1,11 @@
+INSERT g34f string
+INSERT di number
+ASSIGN g34f di
+LOOKUP di
+RPRINT
+INSERT d number
+INSERT v1H8A number
+RPRINT
+INSERT r number
+INSERT bQVt5I number
+INSERT g4s23 number

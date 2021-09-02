@@ -1,0 +1,10 @@
+INSERT n string
+INSERT s2k4Go number
+RPRINT
+INSERT xp94Z number
+INSERT rKDIe string
+BEGIN
+ASSIGN n 'm1'
+RPRINT
+INSERT xgswy number
+ASSIGN xgswy 604

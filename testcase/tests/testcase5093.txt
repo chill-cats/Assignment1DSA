@@ -1,0 +1,25 @@
+BEGIN
+INSERT okIF string
+ASSIGN okIF '5H1'
+LOOKUP okIF
+INSERT i6Q number
+INSERT lh number
+RPRINT
+BEGIN
+INSERT lw number
+BEGIN
+LOOKUP lh
+INSERT a8uoL number
+INSERT b_6k number
+INSERT vycXA string
+INSERT cK string
+INSERT zI string
+INSERT xVl string
+INSERT qgHn string
+RPRINT
+ASSIGN i6Q 494
+PRINT
+INSERT o string
+END
+INSERT d number
+LOOKUP b_6k

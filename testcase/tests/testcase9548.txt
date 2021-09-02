@@ -1,0 +1,6 @@
+INSERT fmS string
+INSERT yg4Av string
+INSERT bcR string
+ASSIGN yg4Av 't7u'
+END
+ASSIGN fmS bcR

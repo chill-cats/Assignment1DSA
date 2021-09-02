@@ -1,0 +1,6 @@
+INSERT wD string
+RPRINT
+INSERT r number
+INSERT o6H string
+uD r
+INSERT mVl number

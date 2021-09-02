@@ -1,0 +1,4 @@
+INSERT itGl string
+INSERT qpQr string
+RPRINT
+PRINT

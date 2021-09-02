@@ -1,0 +1,32 @@
+RPRINT
+INSERT gQGa string
+INSERT uxkWyM number
+INSERT d number
+z9WW n
+INSERT bMTE5 number
+INSERT v string
+INSERT aj_B number
+cAOB dA
+END
+PRINT
+END
+INSERT b8_JL7 string
+INSERT h4DF number
+edhQ stDB
+INSERT qwcO string
+INSERT ujury number
+INSERT e string
+INSERT w string
+INSERT qcvn number
+END
+END
+BEGIN
+INSERT hdNt number
+LOOKUP gQGa
+ASSIGN bMTE5 bMTE5
+END
+INSERT o6DuEt string
+BEGIN
+INSERT k5r number
+INSERT ui_Tc string
+LOOKUP qwcO

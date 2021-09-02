@@ -1,0 +1,14 @@
+INSERT p1clv string
+PRINT
+INSERT dF string
+INSERT pZN string
+INSERT i string
+ASSIGN pZN 1085
+INSERT yBVE string
+END
+INSERT sNfVk number
+INSERT bXn string
+INSERT pKF9 number
+LOOKUP sNfVk
+ASSIGN sNfVk yBVE
+INSERT aB string

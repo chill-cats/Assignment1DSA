@@ -1,0 +1,7 @@
+INSERT lUbj string
+INSERT kD number
+BEGIN
+LOOKUP kD
+uM jLRf
+INSERT fk string
+INSERT jU string

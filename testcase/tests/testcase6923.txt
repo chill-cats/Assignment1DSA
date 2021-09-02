@@ -1,0 +1,23 @@
+bZbm f
+INSERT khBUo number
+INSERT xp number
+INSERT wd number
+INSERT hDto number
+LOOKUP khBUo
+INSERT edj string
+INSERT fwVeY7 number
+INSERT xV number
+INSERT v_Vg string
+ASSIGN edj 804
+END
+LOOKUP wd
+PRINT
+INSERT ot8J string
+ASSIGN ot8J 1168
+INSERT wxpKk string
+INSERT xc2 number
+fNRP b
+BEGIN
+LOOKUP wxpKk
+INSERT cs number
+END

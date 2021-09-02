@@ -1,0 +1,22 @@
+INSERT cZDbyo number
+BEGIN
+INSERT g string
+LOOKUP g
+INSERT hBb1 number
+INSERT d number
+BEGIN
+INSERT ielEEw number
+INSERT wcwj string
+INSERT bS9H9 number
+INSERT c string
+INSERT m7 number
+INSERT lQ number
+INSERT wXuo string
+PRINT
+BEGIN
+INSERT dM1 number
+INSERT j string
+RPRINT
+INSERT nVii number
+INSERT dv number
+INSERT z_ string

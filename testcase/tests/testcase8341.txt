@@ -1,0 +1,21 @@
+INSERT mYM6E string
+INSERT e5gNM number
+INSERT bX number
+INSERT t number
+END
+INSERT z55 string
+INSERT eSHJw number
+INSERT gMPYf number
+ASSIGN mYM6E z55
+INSERT eyGyo string
+INSERT h number
+INSERT boSpON string
+INSERT rXIIF number
+RPRINT
+INSERT lSY5 string
+BEGIN
+INSERT aNeG43 string
+BEGIN
+INSERT e2 string
+INSERT n string
+END

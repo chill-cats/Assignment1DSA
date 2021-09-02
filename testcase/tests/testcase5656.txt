@@ -1,0 +1,23 @@
+BEGIN
+LOOKUP aakoVR
+END
+PRINT
+INSERT gmwdX string
+RPRINT
+INSERT wM4 string
+ASSIGN gmwdX wM4
+INSERT p number
+INSERT dKQo number
+ASSIGN dKQo gmwdX
+END
+INSERT d string
+LOOKUP qk
+d v64
+kZ jC3Y
+INSERT zJeA8q number
+INSERT rBM number
+ASSIGN dKQo '4MYOw'
+INSERT vu89P string
+INSERT n7y5 number
+RPRINT
+LOOKUP d

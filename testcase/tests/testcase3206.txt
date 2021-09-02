@@ -1,0 +1,39 @@
+INSERT h number
+INSERT jI number
+ASSIGN h 'iho'
+LOOKUP jI
+ASSIGN h h
+INSERT sg number
+RPRINT
+BEGIN
+RPRINT
+h90 lcN9u
+INSERT qDuJ string
+INSERT u1mwRt string
+INSERT m7UJXa number
+INSERT bI5hx0 number
+PRINT
+INSERT pJh number
+INSERT iUyRn number
+INSERT s7q5U5 string
+INSERT fKNke number
+INSERT bqGK3R string
+INSERT n5grw number
+INSERT w string
+INSERT p65 string
+INSERT yw string
+INSERT uT01CH string
+RPRINT
+RPRINT
+END
+INSERT tBQL string
+INSERT a_ number
+ASSIGN s7q5U5 'j4'
+END
+zV kK
+ASSIGN u1mwRt w
+INSERT zhdc number
+END
+INSERT ocKvP3 number
+BEGIN
+END

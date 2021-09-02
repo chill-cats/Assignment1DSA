@@ -1,0 +1,22 @@
+INSERT ebI number
+INSERT qAOfT string
+INSERT cgUU6Y number
+END
+END
+INSERT n7i number
+END
+LOOKUP qAOfT
+INSERT ckGkm string
+PRINT
+END
+INSERT e number
+LOOKUP qAOfT
+INSERT j1x number
+INSERT dnDlp number
+ASSIGN qAOfT qAOfT
+INSERT t_F5H number
+BEGIN
+PRINT
+INSERT spx string
+INSERT pKb number
+INSERT xnrCbn string

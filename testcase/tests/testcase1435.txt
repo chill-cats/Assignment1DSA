@@ -1,0 +1,40 @@
+INSERT qyhnP number
+RPRINT
+INSERT oph number
+BEGIN
+INSERT j string
+PRINT
+INSERT r1NP string
+INSERT rt_hm number
+INSERT h string
+INSERT q string
+LOOKUP qyhnP
+INSERT sUL5Y string
+INSERT lty number
+ASSIGN qyhnP 1042
+INSERT o9 string
+INSERT p4C number
+feVA f
+LOOKUP rt_hm
+INSERT teuJNl string
+INSERT stQr string
+PRINT
+INSERT kpg number
+RPRINT
+INSERT kx4hKx string
+INSERT d number
+INSERT sH string
+INSERT gKa string
+INSERT fd string
+INSERT vM9tV number
+ASSIGN kpg kx4hKx
+INSERT u number
+f sDE
+END
+LOOKUP o9
+INSERT c7hbB number
+INSERT j number
+INSERT wyGqvJ string
+ASSIGN qyhnP 610
+END
+INSERT ttoIZg string

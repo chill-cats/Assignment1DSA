@@ -1,0 +1,28 @@
+ASSIGN iGK 'l'
+BEGIN
+LOOKUP xO
+INSERT i string
+LOOKUP i
+INSERT n7AzPo number
+END
+INSERT d_ number
+BEGIN
+INSERT l string
+INSERT y number
+INSERT zZvWqN string
+INSERT o number
+BEGIN
+INSERT x number
+PRINT
+INSERT iV8x number
+LOOKUP l
+INSERT xrSd number
+INSERT lob480 number
+LOOKUP i
+RPRINT
+INSERT u string
+END
+INSERT fH8mbU number
+INSERT aA string
+END
+ASSIGN y d_

@@ -1,0 +1,35 @@
+INSERT x07 number
+PRINT
+INSERT xs number
+INSERT wBYB string
+ASSIGN x07 635
+END
+LOOKUP wBYB
+BEGIN
+LOOKUP xs
+INSERT cdm5N string
+RPRINT
+INSERT wZSc string
+RPRINT
+INSERT kC string
+LOOKUP xs
+INSERT yvC number
+PRINT
+INSERT mkaq_ string
+ASSIGN yvC 31
+BEGIN
+INSERT vMUyg string
+RPRINT
+INSERT tGkab string
+RPRINT
+INSERT ll number
+INSERT yMSdbr number
+INSERT vWXg19 string
+INSERT k_SIbE string
+INSERT amgcq number
+INSERT fn0I number
+RPRINT
+INSERT xD number
+LOOKUP tGkab
+INSERT eYFk number
+INSERT tMGN string

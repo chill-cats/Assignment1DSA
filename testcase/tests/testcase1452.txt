@@ -1,0 +1,33 @@
+BEGIN
+PRINT
+INSERT h_7VrW number
+INSERT d5 number
+PRINT
+RPRINT
+INSERT mvGm string
+END
+ASSIGN mvGm 550
+INSERT paPJdL number
+INSERT tpu6h4 string
+INSERT i3UUa string
+INSERT wrNiG string
+LOOKUP l
+kbx7 pD0a
+INSERT uWpPoG string
+ASSIGN tpu6h4 d5
+INSERT t number
+LOOKUP uWpPoG
+INSERT qHaw number
+INSERT ir0yi string
+PRINT
+INSERT cPB number
+INSERT m5 string
+END
+END
+ASSIGN cPB 1025
+INSERT oV number
+INSERT wXW string
+INSERT m number
+INSERT kOAPz number
+INSERT zv number
+END

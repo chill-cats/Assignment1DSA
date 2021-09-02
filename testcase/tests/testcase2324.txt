@@ -1,0 +1,28 @@
+END
+INSERT lisQ9a number
+INSERT xqb number
+BEGIN
+END
+INSERT lnM string
+INSERT rjY string
+INSERT n string
+ASSIGN xqb 'cMj'
+INSERT sbnSK7 number
+END
+INSERT mom_qI number
+INSERT v number
+INSERT vcSwW string
+LOOKUP v
+END
+RPRINT
+BEGIN
+END
+END
+LOOKUP sbnSK7
+INSERT bOFt75 string
+INSERT b3 number
+INSERT pf string
+RPRINT
+aV r
+END
+INSERT nLWHc number

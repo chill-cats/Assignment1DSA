@@ -1,0 +1,27 @@
+RPRINT
+PRINT
+PRINT
+PRINT
+LOOKUP sxa
+INSERT vMVKMl number
+BEGIN
+BEGIN
+INSERT nMtyy number
+ASSIGN vMVKMl 354
+INSERT sq string
+RPRINT
+RPRINT
+dUmQe d1
+INSERT t0Djs number
+INSERT lg5X number
+RPRINT
+INSERT wHy6 string
+INSERT yEu number
+RPRINT
+INSERT fE number
+INSERT qEO number
+INSERT dz number
+INSERT uHItSN number
+END
+ASSIGN sq 'XV'
+BEGIN

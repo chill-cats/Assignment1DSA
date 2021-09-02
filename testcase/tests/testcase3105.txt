@@ -1,0 +1,26 @@
+END
+INSERT fp string
+ASSIGN x07 fp
+INSERT ky number
+INSERT gYK string
+END
+ASSIGN fp gYK
+INSERT dkU number
+PRINT
+ulb lA
+INSERT dLhY number
+END
+x x2Eq
+INSERT pNp number
+PRINT
+BEGIN
+INSERT eX number
+RPRINT
+ASSIGN fp ky
+LOOKUP dkU
+hrlH p4y
+INSERT uf49 string
+INSERT n0g number
+INSERT w string
+INSERT y1TQSe string
+INSERT tmG string

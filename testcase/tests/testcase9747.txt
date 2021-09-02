@@ -1,0 +1,11 @@
+LOOKUP u0nE
+INSERT fKaPT string
+INSERT s3JrmT number
+INSERT eEHkf string
+u oTS63
+INSERT tj_ number
+INSERT yxGQiE string
+INSERT thZ2U number
+INSERT q79vv string
+ASSIGN yxGQiE 'RDN'
+BEGIN

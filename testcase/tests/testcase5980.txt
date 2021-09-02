@@ -1,0 +1,25 @@
+INSERT w2 string
+RPRINT
+INSERT hq string
+BEGIN
+INSERT p number
+BEGIN
+END
+BEGIN
+INSERT qr number
+INSERT lSZ string
+RPRINT
+INSERT mBv string
+INSERT d58brJ number
+BEGIN
+INSERT rtRbD number
+LOOKUP rtRbD
+INSERT c number
+INSERT wY string
+INSERT wS4J number
+INSERT pGFRe number
+INSERT zaoF number
+LOOKUP wY
+INSERT gDhw number
+INSERT txCu number
+rtWyi_ g0sNQ7

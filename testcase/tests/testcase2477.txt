@@ -1,0 +1,32 @@
+END
+INSERT tx6 number
+INSERT ye string
+INSERT nfQti string
+INSERT yB number
+INSERT nc string
+u fTFJP
+INSERT o89 number
+ASSIGN tx6 'kl'
+INSERT h5w string
+BEGIN
+ASSIGN h5w 'bS'
+INSERT oBsL string
+INSERT ofn number
+ASSIGN h5w o89
+END
+INSERT uT number
+INSERT qrE number
+INSERT h8hD1J number
+INSERT cHP string
+ASSIGN cHP h5w
+INSERT opV number
+m tfwC
+INSERT w0 string
+q0sGj f
+INSERT t9lM number
+INSERT usgmh_ string
+INSERT eJT1 number
+INSERT ocsK string
+BEGIN
+INSERT hyh1 number
+RPRINT

@@ -1,0 +1,6 @@
+INSERT sY number
+PRINT
+INSERT wV number
+INSERT sirj_l number
+RPRINT
+w1 ros3

@@ -1,0 +1,11 @@
+LOOKUP gFTq2
+INSERT e_FbIJ string
+INSERT x9bGQ number
+INSERT yk string
+RPRINT
+INSERT cLgDCp number
+ASSIGN cLgDCp x9bGQ
+INSERT kqzDf number
+INSERT yUI_xv number
+INSERT d7Gk5X string
+PRINT

@@ -1,0 +1,14 @@
+END
+INSERT mI4rx6 string
+INSERT gw string
+ASSIGN gw 'CdaWE'
+PRINT
+INSERT bG8 string
+INSERT thUF number
+PRINT
+INSERT mEtc string
+RPRINT
+ASSIGN thUF 57
+INSERT l9i string
+LOOKUP thUF
+INSERT cW number

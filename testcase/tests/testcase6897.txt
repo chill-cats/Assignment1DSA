@@ -1,0 +1,19 @@
+INSERT cM number
+INSERT zMI string
+INSERT lyW28 string
+INSERT exz number
+INSERT u1rRVi number
+INSERT pWSAjV string
+INSERT liS string
+INSERT jC9hi string
+el n04cSZ
+ASSIGN pWSAjV 'EgRj'
+RPRINT
+INSERT wD string
+INSERT cca number
+ASSIGN cca exz
+INSERT s number
+INSERT xA string
+PRINT
+BEGIN
+END

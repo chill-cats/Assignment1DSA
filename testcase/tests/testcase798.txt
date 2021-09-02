@@ -1,0 +1,39 @@
+INSERT y3 string
+LOOKUP y3
+RPRINT
+INSERT lzGN_O string
+INSERT q string
+INSERT koS string
+INSERT cclR number
+RPRINT
+BEGIN
+BEGIN
+BEGIN
+INSERT yegC8j string
+PRINT
+BEGIN
+yG7_ r
+INSERT zE number
+ASSIGN koS 1112
+INSERT zx number
+dwJ uuIn
+RPRINT
+LOOKUP yegC8j
+ASSIGN zE koS
+INSERT zbL string
+END
+INSERT zyES string
+INSERT ean1lO string
+BEGIN
+BEGIN
+RPRINT
+n xvhSOz
+RPRINT
+tmsG fpuH
+INSERT uuR string
+INSERT j_ string
+INSERT eTxEgm string
+RPRINT
+PRINT
+INSERT hFbSP number
+RPRINT

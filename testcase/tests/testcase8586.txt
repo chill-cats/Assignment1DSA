@@ -1,0 +1,9 @@
+INSERT e number
+INSERT efCH3 number
+INSERT gEnJ number
+INSERT pAiGz string
+INSERT y number
+ASSIGN e y
+RPRINT
+BEGIN
+ASSIGN y 'ej4I'

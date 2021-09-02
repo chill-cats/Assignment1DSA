@@ -1,0 +1,11 @@
+INSERT ePzu number
+LOOKUP ePzu
+INSERT kajPsq number
+INSERT ijXDtd string
+INSERT v21Ge string
+INSERT flMN string
+ASSIGN ePzu 1103
+INSERT jRsvbm string
+BEGIN
+hE sVG
+INSERT iRl string

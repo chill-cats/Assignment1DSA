@@ -1,0 +1,28 @@
+INSERT cQ4EC number
+BEGIN
+INSERT iB_ string
+RPRINT
+INSERT f number
+INSERT v number
+INSERT cc string
+END
+INSERT sEs string
+INSERT xwWz number
+RPRINT
+ASSIGN f '5'
+PRINT
+RPRINT
+BEGIN
+INSERT tws8bx string
+ASSIGN sEs 'shi'
+LOOKUP cQ4EC
+INSERT yg9Wg number
+BEGIN
+INSERT geD string
+RPRINT
+BEGIN
+INSERT y string
+LOOKUP xwWz
+LOOKUP geD
+INSERT iS number
+u16jf gvs

@@ -1,0 +1,32 @@
+INSERT xNG number
+INSERT roLW string
+INSERT jun number
+zQ xagSb
+INSERT i6407 string
+INSERT va1 string
+INSERT tShGh6 number
+INSERT eMq string
+INSERT soRPh string
+INSERT ig number
+INSERT h string
+y uq
+INSERT eSj3 string
+INSERT g7eBn4 string
+INSERT y52J number
+INSERT bqf string
+INSERT vJ3 string
+INSERT xc number
+k uX2D
+INSERT kxlb9 number
+LOOKUP va1
+INSERT czST string
+INSERT um string
+INSERT kTJ number
+INSERT q number
+END
+INSERT dsio number
+RPRINT
+INSERT xX string
+ASSIGN i6407 'yTUfu'
+INSERT bak_nI number
+PRINT

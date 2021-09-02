@@ -1,0 +1,34 @@
+PRINT
+RPRINT
+BEGIN
+ASSIGN vw 401
+INSERT qDd number
+INSERT oTu string
+INSERT bHIhy string
+vV c8B
+RPRINT
+INSERT xn number
+RPRINT
+INSERT iBb8K8 string
+INSERT q_gWy number
+INSERT lvyMfp number
+END
+INSERT qe number
+INSERT isDlS string
+INSERT wA number
+INSERT xc string
+RPRINT
+INSERT vP8uYO number
+END
+INSERT sY6G string
+y sv
+PRINT
+INSERT y70YP number
+RPRINT
+LOOKUP isDlS
+INSERT nR number
+eOTYc qgIog9
+RPRINT
+INSERT kW number
+END
+INSERT j string

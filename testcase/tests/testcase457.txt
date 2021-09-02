@@ -1,0 +1,34 @@
+INSERT rcul string
+LOOKUP rcul
+INSERT oKa5d string
+INSERT mSkshn number
+INSERT vR6x number
+INSERT l number
+INSERT gS number
+INSERT khA string
+END
+BEGIN
+END
+BEGIN
+INSERT y2Pvtv string
+INSERT fy_s number
+INSERT c9wLVe number
+INSERT odkn number
+END
+INSERT ozdlZ number
+RPRINT
+INSERT v9 number
+vY_P xM
+INSERT bk28 string
+PRINT
+INSERT zz number
+INSERT hi08 number
+INSERT wMW string
+INSERT bN string
+INSERT r8ISE1 string
+INSERT jP number
+LOOKUP fy_s
+INSERT e9KQ number
+INSERT bktL8 number
+END
+g yaO

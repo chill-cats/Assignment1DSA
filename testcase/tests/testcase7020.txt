@@ -1,0 +1,16 @@
+INSERT x string
+BEGIN
+ASSIGN x 634
+INSERT h5z9Z string
+PRINT
+INSERT yyiE1Z string
+ASSIGN yyiE1Z h5z9Z
+RPRINT
+LOOKUP yyiE1Z
+INSERT wuaF number
+PRINT
+zZpSe lr9qQ
+INSERT k8F number
+RPRINT
+INSERT e6Z0Q string
+b tMn

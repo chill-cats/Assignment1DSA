@@ -1,0 +1,27 @@
+INSERT i3J4t string
+ASSIGN i3J4t 845
+INSERT d string
+RPRINT
+INSERT yCIDTr string
+LOOKUP d
+RPRINT
+INSERT oDQd string
+INSERT t number
+INSERT zIkQk5 number
+LOOKUP yCIDTr
+END
+INSERT e number
+INSERT tIv1 number
+INSERT s string
+INSERT poY2n number
+INSERT j number
+BEGIN
+BEGIN
+INSERT z3A number
+INSERT xkR string
+PRINT
+INSERT w string
+ASSIGN d 419
+INSERT hv7 number
+BEGIN
+INSERT tt2nj string

@@ -1,0 +1,16 @@
+INSERT hMvb string
+INSERT iVxEU string
+LOOKUP iVxEU
+INSERT u number
+INSERT x83BiG number
+INSERT z4e string
+LOOKUP x83BiG
+INSERT c2eeYT string
+INSERT mh7mDN string
+INSERT cL string
+xVzX b
+RPRINT
+BEGIN
+INSERT rl number
+INSERT c5k string
+INSERT qe number

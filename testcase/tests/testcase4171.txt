@@ -1,0 +1,16 @@
+INSERT yi number
+INSERT e number
+INSERT aq2Gbg string
+END
+INSERT f string
+INSERT wV number
+PRINT
+tZ peR
+BEGIN
+INSERT hoAuQ number
+INSERT j number
+INSERT xTGdn string
+INSERT ojeU string
+LOOKUP j
+PRINT
+INSERT b string

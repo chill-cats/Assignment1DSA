@@ -1,0 +1,21 @@
+INSERT sN_9P string
+RPRINT
+INSERT m string
+INSERT lukpj number
+LOOKUP m
+INSERT qqu number
+INSERT l string
+INSERT g9_Lm number
+INSERT t number
+ASSIGN t 1060
+jayU befDwZ
+LOOKUP t
+INSERT s number
+INSERT yMu number
+END
+BEGIN
+INSERT zl4 string
+INSERT zFWBV number
+PRINT
+RPRINT
+INSERT aS1yT string

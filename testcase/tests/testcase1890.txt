@@ -1,0 +1,9 @@
+INSERT qJ__6 number
+PRINT
+INSERT s3UpEZ number
+INSERT eP_MJ string
+INSERT bA0 number
+INSERT j string
+INSERT qf43L number
+INSERT k3UxR number
+INSERT dFG number

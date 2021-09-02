@@ -1,0 +1,19 @@
+BEGIN
+INSERT jFQ8 number
+INSERT j string
+RPRINT
+PRINT
+LOOKUP jFQ8
+ASSIGN j '6T'
+PRINT
+INSERT kV9jSa string
+INSERT zQAja string
+INSERT mqhN string
+INSERT pXSJN number
+cZ plf
+RPRINT
+END
+LOOKUP jFQ8
+INSERT ad string
+INSERT j number
+INSERT rHGv number

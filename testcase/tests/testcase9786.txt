@@ -1,0 +1,27 @@
+RPRINT
+PRINT
+INSERT a string
+l rYRhr
+RPRINT
+INSERT zE2zjh number
+BEGIN
+BEGIN
+INSERT iC1 number
+INSERT t string
+RPRINT
+INSERT s string
+INSERT a string
+END
+BEGIN
+LOOKUP a
+oce c
+INSERT sBnL number
+RPRINT
+ASSIGN a sBnL
+INSERT kZ string
+INSERT nuCSo5 string
+INSERT sgSq number
+INSERT vfpNn number
+INSERT cFTU number
+LOOKUP a
+INSERT zCT number

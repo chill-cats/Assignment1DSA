@@ -1,0 +1,10 @@
+INSERT c2Q number
+RPRINT
+INSERT mhl8d string
+BEGIN
+INSERT q number
+INSERT xl string
+INSERT g58sLH string
+INSERT wNr string
+INSERT py string
+LOOKUP xl

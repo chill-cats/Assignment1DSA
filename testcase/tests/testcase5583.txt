@@ -1,0 +1,6 @@
+INSERT jQJpDc string
+LOOKUP jQJpDc
+RPRINT
+INSERT eqTX_E string
+ASSIGN eqTX_E 743
+INSERT h string

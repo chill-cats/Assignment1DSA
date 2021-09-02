@@ -1,0 +1,4 @@
+INSERT bmTS string
+INSERT q string
+END
+LOOKUP q

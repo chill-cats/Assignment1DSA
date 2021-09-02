@@ -1,0 +1,38 @@
+INSERT lnUs66 number
+INSERT a number
+INSERT wo1 number
+INSERT tLn number
+END
+INSERT cpuH_t number
+ASSIGN a 211
+BEGIN
+PRINT
+INSERT s_q6 string
+nGVv3q aV
+INSERT c91l string
+INSERT f number
+INSERT aBz string
+INSERT q4N95 string
+PRINT
+BEGIN
+LOOKUP f
+ASSIGN a 910
+INSERT tqjW5E number
+gVh0d ob
+qrtmJ th
+INSERT p_2W string
+INSERT efC number
+INSERT v5Kx number
+INSERT iweak number
+BEGIN
+INSERT v string
+END
+LOOKUP q4N95
+wEA f
+INSERT rGgaK number
+LOOKUP a
+INSERT kN string
+ASSIGN aBz tqjW5E
+INSERT s number
+INSERT hJH string
+BEGIN

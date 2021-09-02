@@ -1,0 +1,28 @@
+INSERT wb number
+END
+INSERT lHatXE number
+INSERT g string
+LOOKUP g
+INSERT jDU9t8 number
+y fJsHgg
+owm cw1O_
+INSERT bY6M9M number
+INSERT wfFTH number
+INSERT p30L9u string
+INSERT jSI string
+LOOKUP g
+INSERT dU0i5A number
+INSERT ejKWd string
+lsPMB nOMrV
+LOOKUP p30L9u
+INSERT uM string
+BEGIN
+ASSIGN wfFTH bY6M9M
+INSERT owNEkD number
+ASSIGN p30L9u 28
+PRINT
+END
+INSERT pH string
+RPRINT
+PRINT
+INSERT ie1F string

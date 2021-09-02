@@ -1,0 +1,33 @@
+INSERT v number
+INSERT lFR number
+INSERT sX string
+ASSIGN sX sX
+INSERT td string
+RPRINT
+INSERT z13T6 string
+INSERT l9L number
+BEGIN
+RPRINT
+INSERT qY5 string
+END
+INSERT a64 string
+END
+INSERT iYgdY number
+INSERT rkg5_V number
+INSERT tWH_RQ number
+INSERT nMwX string
+INSERT ruh number
+INSERT mGj number
+INSERT ifHR5 string
+ASSIGN ifHR5 tWH_RQ
+INSERT inR string
+INSERT jvzNr string
+INSERT niz83G number
+INSERT vaCaNR number
+INSERT dv8G8 string
+INSERT iL number
+INSERT zBW number
+INSERT mVP0 number
+o01yi g6ba
+INSERT z number
+INSERT hvPg string

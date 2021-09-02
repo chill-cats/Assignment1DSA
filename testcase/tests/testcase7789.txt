@@ -1,0 +1,25 @@
+INSERT fFO string
+PRINT
+INSERT gghUr9 string
+INSERT k63Pb string
+INSERT wC number
+END
+INSERT rWJqk string
+INSERT d string
+INSERT ufYq string
+INSERT iW6 number
+LOOKUP g
+PRINT
+INSERT h string
+INSERT orC string
+INSERT eXbIu string
+END
+INSERT oDRe28 string
+LOOKUP rWJqk
+INSERT hO1Z number
+ASSIGN gghUr9 iW6
+INSERT r string
+INSERT m string
+INSERT ufF3s number
+INSERT iSG3 string
+LOOKUP fFO

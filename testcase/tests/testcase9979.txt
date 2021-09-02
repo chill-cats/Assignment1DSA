@@ -1,0 +1,28 @@
+INSERT uTCN string
+INSERT sR5x number
+LOOKUP uTCN
+INSERT xK6 number
+x7PA3M x7
+BEGIN
+INSERT hlUe number
+LOOKUP hlUe
+PRINT
+INSERT dGCexK number
+ASSIGN sR5x 209
+INSERT vL number
+LOOKUP sR5x
+INSERT c number
+LOOKUP dGCexK
+LOOKUP c
+ojc kLH
+INSERT suRfo string
+PRINT
+INSERT y number
+INSERT w1m0 number
+INSERT cfkDGL string
+INSERT f string
+INSERT ydw string
+RPRINT
+INSERT nh8 string
+LOOKUP dGCexK
+INSERT jSr5gK string

@@ -1,0 +1,29 @@
+PRINT
+LOOKUP c
+INSERT h5 number
+ASSIGN h5 'rMigE'
+INSERT e string
+INSERT lTyjZe number
+INSERT edN number
+LOOKUP lTyjZe
+LOOKUP lTyjZe
+INSERT sF number
+INSERT t number
+INSERT tNA4z4 number
+BEGIN
+INSERT g number
+INSERT yuutD_ number
+INSERT azj string
+INSERT viB string
+INSERT cK9I number
+INSERT mbZ number
+INSERT rtB string
+INSERT yxWZAE string
+INSERT dLcce4 string
+PRINT
+INSERT iB string
+PRINT
+RPRINT
+RPRINT
+RPRINT
+RPRINT

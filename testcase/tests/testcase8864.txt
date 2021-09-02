@@ -1,0 +1,13 @@
+LOOKUP m
+INSERT vTjKYn string
+RPRINT
+INSERT t string
+INSERT v0IY string
+INSERT g6RUj number
+END
+RPRINT
+INSERT r6 number
+INSERT dvVQPz number
+INSERT evsvw string
+INSERT pmH7p string
+INSERT k3N string

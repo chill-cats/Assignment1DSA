@@ -1,0 +1,32 @@
+INSERT o19N6Z string
+LOOKUP o19N6Z
+ASSIGN o19N6Z 607
+END
+INSERT d string
+BEGIN
+INSERT q string
+RPRINT
+INSERT h number
+br2kpD i
+INSERT sW string
+INSERT kl string
+INSERT zh5 string
+INSERT z5O string
+END
+INSERT hnFms string
+INSERT vT number
+INSERT qHI4TC string
+INSERT iu number
+ASSIGN qHI4TC 830
+p0QB9 rvZ5NH
+RPRINT
+INSERT c5 number
+LOOKUP o19N6Z
+INSERT vhOw number
+INSERT s number
+BEGIN
+INSERT f string
+LOOKUP d
+INSERT w43o string
+INSERT r3sj number
+yj o8f

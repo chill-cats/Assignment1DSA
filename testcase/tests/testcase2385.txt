@@ -1,0 +1,7 @@
+PRINT
+RPRINT
+INSERT x1oxEQ string
+INSERT ai_5 number
+LOOKUP ai_5
+INSERT n4ADKS number
+INSERT bqBv string

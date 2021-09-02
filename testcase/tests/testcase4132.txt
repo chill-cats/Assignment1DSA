@@ -1,0 +1,17 @@
+LOOKUP v6
+INSERT wTy string
+INSERT fnu string
+PRINT
+RPRINT
+INSERT we2 string
+INSERT dlQ number
+LOOKUP fnu
+RPRINT
+END
+INSERT gRBqv_ number
+INSERT lUPJm string
+INSERT myhM string
+LOOKUP dlQ
+END
+INSERT yS string
+BEGIN

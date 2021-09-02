@@ -1,0 +1,4 @@
+LOOKUP gJ
+LOOKUP u
+INSERT i6Aa string
+INSERT cr string

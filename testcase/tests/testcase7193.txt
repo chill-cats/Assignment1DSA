@@ -1,0 +1,24 @@
+PRINT
+BEGIN
+INSERT gL string
+PRINT
+LOOKUP gL
+INSERT anG number
+INSERT d number
+INSERT e string
+INSERT vZc4 number
+INSERT jQ811H number
+INSERT ehXD_ number
+RPRINT
+INSERT hxZ9 number
+INSERT c0cgMg string
+INSERT tFBw5l number
+INSERT yJ string
+INSERT otDW number
+INSERT sb string
+INSERT lIilTE string
+INSERT buw number
+INSERT cJ number
+END
+INSERT t number
+INSERT xPVo string

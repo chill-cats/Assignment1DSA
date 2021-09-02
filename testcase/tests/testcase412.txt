@@ -1,0 +1,16 @@
+INSERT h number
+INSERT xGKk number
+INSERT pukwOd number
+LOOKUP pukwOd
+LOOKUP xGKk
+INSERT x1sBz string
+INSERT rOHCF number
+INSERT e string
+INSERT bW9 string
+INSERT wkSV number
+INSERT x string
+INSERT fYm number
+END
+LOOKUP pukwOd
+INSERT f0asX number
+INSERT k7Aj string

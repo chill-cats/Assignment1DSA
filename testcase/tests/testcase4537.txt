@@ -1,0 +1,6 @@
+INSERT pok number
+INSERT q1Kw string
+END
+INSERT n1 number
+INSERT a_F string
+END

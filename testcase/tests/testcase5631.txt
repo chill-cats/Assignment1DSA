@@ -1,0 +1,26 @@
+INSERT mxWsrf string
+INSERT q number
+INSERT gjV string
+INSERT hNrK number
+INSERT mJ number
+ASSIGN mxWsrf 493
+LOOKUP mJ
+INSERT bJNZmp string
+INSERT ybdOuz string
+INSERT tg2 string
+INSERT pZmZx0 number
+RPRINT
+PRINT
+LOOKUP otHgnv
+RPRINT
+RPRINT
+ASSIGN gjV 'J3VMJ'
+INSERT iQ string
+INSERT sI string
+INSERT gI1URy string
+INSERT wV string
+INSERT q number
+INSERT ifw number
+INSERT y7 string
+LOOKUP gjV
+BEGIN

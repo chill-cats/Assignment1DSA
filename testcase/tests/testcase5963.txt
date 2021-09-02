@@ -1,0 +1,7 @@
+END
+INSERT iTqyG number
+RPRINT
+ASSIGN iTqyG 655
+INSERT b7Gl string
+INSERT eHmL number
+INSERT x16 string

@@ -1,0 +1,7 @@
+INSERT d number
+ASSIGN d d
+END
+ASSIGN d d
+INSERT yJ number
+INSERT c0d string
+PRINT

@@ -1,0 +1,38 @@
+INSERT mJviL4 number
+RPRINT
+INSERT zVF number
+INSERT nSN_ number
+INSERT mW2ZGI number
+INSERT i8q string
+PRINT
+INSERT u number
+INSERT nW number
+INSERT aNxNf number
+INSERT kF0f number
+RPRINT
+INSERT tjpT string
+INSERT fCE0y string
+INSERT cq string
+BEGIN
+INSERT ywWcC number
+LOOKUP zVF
+INSERT zWuF number
+INSERT shIl string
+INSERT rNHT number
+BEGIN
+LOOKUP rNHT
+INSERT t1yk number
+BEGIN
+RPRINT
+ASSIGN i8q '8H6'
+END
+INSERT mA string
+INSERT jjmHi number
+INSERT m string
+avpPO w
+INSERT u number
+INSERT hVwo number
+RPRINT
+BEGIN
+glj r9Yr
+END

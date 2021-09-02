@@ -1,0 +1,2 @@
+INSERT olSb7 number
+INSERT x string

@@ -1,0 +1,28 @@
+INSERT seKQRI number
+INSERT fC number
+INSERT ah6 string
+LOOKUP fC
+END
+ASSIGN ah6 ah6
+INSERT qpFi number
+INSERT h number
+INSERT sPo number
+INSERT bCVOc number
+INSERT nKh number
+INSERT rXbT string
+INSERT p1D68w number
+INSERT kQ2Y string
+RPRINT
+INSERT rF number
+INSERT yjf9b string
+INSERT lJA number
+INSERT rY number
+END
+INSERT kBxmU string
+LOOKUP nKh
+INSERT ai number
+BEGIN
+f_V quDxl
+c8vF3i ke1c
+PRINT
+INSERT oNwV number

@@ -1,0 +1,7 @@
+INSERT qK number
+INSERT wVSz8 string
+INSERT dVxFH string
+RPRINT
+INSERT vc number
+INSERT b string
+INSERT f1uOFR number

@@ -1,0 +1,4 @@
+LOOKUP vF9WsG
+INSERT x number
+INSERT srBZM number
+LOOKUP e

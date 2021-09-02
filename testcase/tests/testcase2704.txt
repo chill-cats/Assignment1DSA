@@ -1,0 +1,28 @@
+INSERT cfsvqu number
+INSERT hQ string
+RPRINT
+INSERT a string
+END
+INSERT hX_DmL string
+INSERT k number
+RPRINT
+INSERT v number
+BEGIN
+tRIq iLzWrt
+ASSIGN hQ 332
+INSERT iaSu string
+INSERT i86zB number
+INSERT wA0 number
+LOOKUP hQ
+LOOKUP a
+INSERT iJ7y string
+ASSIGN hQ 122
+INSERT a number
+INSERT yJiN6 number
+RPRINT
+uMyn lU
+INSERT nl number
+INSERT ezX string
+INSERT n string
+BEGIN
+INSERT eh string

@@ -1,0 +1,31 @@
+eP uNmW6
+INSERT gSvtta string
+LOOKUP gSvtta
+INSERT y string
+ASSIGN y '9BG9'
+RPRINT
+INSERT nPln string
+INSERT uQd number
+INSERT hWw0WL number
+INSERT lyjPy number
+INSERT iGv string
+PRINT
+INSERT z number
+INSERT kk number
+INSERT cXQc78 number
+LOOKUP gSvtta
+BEGIN
+PRINT
+ASSIGN z 814
+ASSIGN lyjPy 1169
+PRINT
+INSERT xW_z string
+PRINT
+INSERT c17 string
+l aSauA
+INSERT s71N string
+INSERT hBg number
+LOOKUP y
+BEGIN
+BEGIN
+ASSIGN y y

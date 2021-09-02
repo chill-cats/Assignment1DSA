@@ -1,0 +1,20 @@
+INSERT d38 string
+END
+RPRINT
+INSERT yLU1 number
+INSERT ex number
+PRINT
+INSERT hsstBU number
+ASSIGN d38 hsstBU
+ASSIGN hsstBU d38
+INSERT i string
+INSERT hqiFHQ string
+vI zQ8
+BEGIN
+INSERT yqPz string
+INSERT yd4wcu number
+INSERT gQeLku string
+INSERT r string
+BEGIN
+PRINT
+INSERT pA number

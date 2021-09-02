@@ -1,0 +1,20 @@
+INSERT j63 string
+INSERT jIL number
+INSERT xFA string
+INSERT pn7i string
+RPRINT
+INSERT sJh string
+INSERT ntS8 number
+ASSIGN jIL sJh
+RPRINT
+INSERT ye number
+INSERT iohXY number
+ASSIGN ntS8 xFA
+RPRINT
+BEGIN
+INSERT nDG8l number
+INSERT u string
+LOOKUP iohXY
+INSERT edcZ number
+LOOKUP u
+kDiBt sC

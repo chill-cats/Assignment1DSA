@@ -1,0 +1,30 @@
+ASSIGN e 'tmo1'
+INSERT dvO8O number
+INSERT mXCs string
+LOOKUP mXCs
+INSERT ysn7g number
+INSERT rTo number
+PRINT
+END
+INSERT i string
+INSERT lWMxV string
+LOOKUP i
+INSERT eIxfz number
+INSERT yB49_X string
+oj5 kRN
+INSERT udK3v7 number
+INSERT fGcB number
+INSERT t_ string
+INSERT tqG string
+INSERT eWNgtA number
+PRINT
+LOOKUP eWNgtA
+INSERT uKv6Cu string
+INSERT q number
+INSERT yXRAlA number
+INSERT y_ number
+INSERT bpE string
+BEGIN
+ASSIGN eWNgtA '44'
+INSERT lJJf0f string
+INSERT noIJPR string

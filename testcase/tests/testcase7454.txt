@@ -1,0 +1,17 @@
+INSERT n3_us string
+INSERT cpbDdX number
+INSERT ga6Rtt number
+INSERT mNW number
+INSERT qz8X string
+INSERT oRGGe1 string
+INSERT sB string
+BEGIN
+INSERT g7BSZh string
+LOOKUP cpbDdX
+iBIU avPZ
+END
+INSERT s7dS number
+INSERT oY string
+RPRINT
+d9Vk rT8l
+INSERT xWu string

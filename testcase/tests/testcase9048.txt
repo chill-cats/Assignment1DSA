@@ -1,0 +1,35 @@
+LOOKUP ax
+INSERT lV9 string
+INSERT rQzQ string
+INSERT le number
+RPRINT
+RPRINT
+LOOKUP lV9
+LOOKUP lV9
+INSERT r36 number
+INSERT gX3lC string
+RPRINT
+ASSIGN le '9'
+INSERT kMxOwD string
+BEGIN
+INSERT hdl number
+INSERT kY number
+INSERT hW4 number
+INSERT aAIa0 number
+INSERT fXf_ number
+INSERT fbWJ32 number
+LOOKUP aAIa0
+END
+eEK mNKVV
+INSERT dR7Jc number
+INSERT vcogtj number
+RPRINT
+INSERT aty number
+INSERT ezQ number
+INSERT eXa number
+INSERT v7 string
+INSERT jdvh string
+INSERT aC string
+INSERT cwmeAH string
+INSERT yju7j number
+INSERT kEp2 number

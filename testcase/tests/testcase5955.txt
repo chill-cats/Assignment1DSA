@@ -1,0 +1,24 @@
+INSERT l number
+PRINT
+INSERT e3sJ9 string
+INSERT qeo number
+INSERT pf number
+INSERT k number
+INSERT cgPbV number
+INSERT nWwJ string
+INSERT lS40 string
+INSERT rTf string
+INSERT wjXS0 string
+INSERT yAeY2M string
+ASSIGN nWwJ 'CR'
+LOOKUP lS40
+INSERT n73g number
+BEGIN
+INSERT m string
+INSERT pduj4 string
+END
+INSERT jJp number
+LOOKUP nWwJ
+INSERT czp number
+END
+RPRINT

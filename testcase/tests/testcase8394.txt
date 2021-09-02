@@ -1,0 +1,33 @@
+INSERT pyaUR string
+INSERT o9 string
+INSERT dSLsGB string
+END
+END
+INSERT k number
+INSERT nlI6 string
+ASSIGN dSLsGB 1151
+INSERT gZCm number
+LOOKUP dSLsGB
+INSERT kX_q number
+hvB7Fe q0u1
+END
+LOOKUP pyaUR
+INSERT bk12i number
+INSERT fw5XCg string
+ASSIGN dSLsGB 562
+BEGIN
+PRINT
+INSERT bLT string
+INSERT q16F8 number
+ASSIGN kX_q 'F'
+INSERT mI6ke string
+INSERT r number
+BEGIN
+INSERT hxAYA number
+LOOKUP dSLsGB
+INSERT x2pVg number
+PRINT
+INSERT e8O string
+gdL4 cA8m
+INSERT u04 string
+INSERT pK7JQ number

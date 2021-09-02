@@ -1,0 +1,17 @@
+END
+BEGIN
+BEGIN
+INSERT r number
+RPRINT
+INSERT egbC8g string
+LOOKUP r
+INSERT lUC1 string
+INSERT b number
+INSERT zU string
+INSERT wYwlFc number
+ASSIGN b 'a T'
+INSERT b6mQ string
+INSERT p6 string
+BEGIN
+ASSIGN lUC1 'C'
+INSERT b number

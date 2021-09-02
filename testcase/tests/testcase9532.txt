@@ -1,0 +1,4 @@
+INSERT qx string
+ASSIGN qx qx
+INSERT yV number
+INSERT x2GY number

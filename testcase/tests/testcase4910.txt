@@ -1,0 +1,23 @@
+BEGIN
+END
+INSERT l0o9TW string
+ASSIGN l0o9TW 'uoUl'
+INSERT fAYm number
+BEGIN
+INSERT s0KTz number
+RPRINT
+PRINT
+INSERT eY number
+INSERT fB0U number
+END
+ASSIGN fAYm 'ml'
+INSERT vA string
+INSERT zY number
+INSERT e number
+INSERT d_ string
+INSERT eaIl6 number
+INSERT aC number
+INSERT lBJ__ string
+INSERT x number
+LOOKUP aC
+INSERT csCd string

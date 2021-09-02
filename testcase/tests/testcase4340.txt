@@ -1,0 +1,13 @@
+INSERT h4gMBH string
+RPRINT
+INSERT bU number
+INSERT cdvr number
+PRINT
+INSERT n8KR0 string
+BEGIN
+RPRINT
+RPRINT
+INSERT jm string
+LOOKUP n8KR0
+PRINT
+END

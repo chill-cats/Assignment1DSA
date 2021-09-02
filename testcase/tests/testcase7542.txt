@@ -1,0 +1,25 @@
+INSERT bVEv8L string
+INSERT zoQG number
+INSERT nBw string
+INSERT v string
+ASSIGN bVEv8L 1111
+INSERT xm string
+PRINT
+INSERT f number
+PRINT
+END
+RPRINT
+INSERT vJx number
+q q0E_
+LOOKUP zoQG
+INSERT vQ4ALb string
+PRINT
+INSERT x string
+INSERT rtg string
+INSERT iu string
+INSERT m string
+INSERT uZVAXX number
+PRINT
+INSERT aNdr number
+INSERT gady9D number
+INSERT qPCa number

@@ -1,0 +1,28 @@
+RPRINT
+RPRINT
+INSERT f82 number
+END
+INSERT oC_j string
+INSERT x6BkS string
+INSERT jRt string
+ASSIGN f82 1104
+LOOKUP oC_j
+INSERT mO number
+ASSIGN mO '8YR'
+RPRINT
+END
+PRINT
+INSERT e3Xf6F number
+INSERT qlGkg number
+ASSIGN jRt oC_j
+LOOKUP qlGkg
+INSERT s string
+INSERT hbQA number
+INSERT uMY number
+BEGIN
+LOOKUP uMY
+INSERT mlOP string
+PRINT
+LOOKUP f82
+INSERT z3 string
+INSERT ywMc string

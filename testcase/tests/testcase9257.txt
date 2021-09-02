@@ -1,0 +1,5 @@
+INSERT bvCR number
+ASSIGN bvCR bvCR
+INSERT jfhZ number
+ASSIGN jfhZ 186
+LOOKUP bvCR

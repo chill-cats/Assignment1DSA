@@ -1,0 +1,16 @@
+INSERT cUd string
+INSERT iZT9j number
+RPRINT
+RPRINT
+xUY sGYA
+INSERT b number
+LOOKUP b
+INSERT mnO4U number
+INSERT pBr5 string
+INSERT cx_hK6 number
+LOOKUP mnO4U
+PRINT
+INSERT nJGf number
+INSERT kngV number
+INSERT ovrdQA number
+INSERT xZv number

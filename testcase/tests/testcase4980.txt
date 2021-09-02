@@ -1,0 +1,16 @@
+INSERT vj string
+INSERT vO number
+ASSIGN vj vO
+INSERT y30s number
+INSERT dc number
+END
+INSERT y string
+sDz sqfX4n
+INSERT hmV number
+INSERT uoCC string
+INSERT u4c string
+INSERT l number
+INSERT zhwGRy number
+INSERT obZ3b number
+LOOKUP hmV
+INSERT s0E7OQ number

@@ -1,0 +1,11 @@
+INSERT b_ number
+INSERT a5 string
+INSERT gR_ number
+INSERT lK number
+LOOKUP lK
+INSERT kRQxLO number
+ASSIGN kRQxLO 964
+INSERT wLoVXA number
+INSERT slfh0u number
+INSERT y number
+INSERT s2pco string

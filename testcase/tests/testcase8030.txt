@@ -1,0 +1,32 @@
+INSERT uAo string
+ASSIGN uAo '6C'
+INSERT r_P number
+INSERT hav string
+INSERT cz string
+LOOKUP hav
+BEGIN
+INSERT l04GXj string
+q ezrLj
+END
+INSERT fGjeHT number
+INSERT svyLJ string
+INSERT u string
+END
+INSERT oH59Wg string
+END
+END
+INSERT khQTO number
+LOOKUP uAo
+ASSIGN r_P 'LGiz'
+BEGIN
+INSERT d number
+INSERT fbNye1 number
+INSERT xi9eBQ number
+INSERT gu number
+INSERT iD number
+d tTp
+INSERT z2W number
+PRINT
+END
+INSERT vhLYJ string
+wLGlti o

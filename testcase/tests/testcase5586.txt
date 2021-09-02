@@ -1,0 +1,17 @@
+RPRINT
+BEGIN
+INSERT pD3 string
+INSERT w number
+INSERT nG number
+END
+INSERT iO9 number
+INSERT g string
+INSERT u2b string
+INSERT t3 number
+zQWq0t gyw
+INSERT e number
+END
+RPRINT
+INSERT o1WIuY number
+INSERT a string
+INSERT zhwMD3 string

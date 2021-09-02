@@ -1,0 +1,14 @@
+END
+PRINT
+RPRINT
+INSERT z string
+INSERT zmjf0 string
+INSERT t string
+INSERT yvUd number
+INSERT h number
+ASSIGN t 1063
+INSERT mhJrK string
+PRINT
+ASSIGN h 1042
+INSERT w6nLq string
+RPRINT

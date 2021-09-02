@@ -1,0 +1,15 @@
+ASSIGN rlR88 674
+PRINT
+INSERT j string
+INSERT zh0 string
+INSERT lqhE6 string
+END
+INSERT m string
+ASSIGN m j
+INSERT j string
+t4X ujXR
+INSERT u_Zu string
+INSERT w5O string
+INSERT wYj6i string
+INSERT s number
+LOOKUP m

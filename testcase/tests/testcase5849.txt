@@ -1,0 +1,14 @@
+INSERT mplAL number
+INSERT fsN8 number
+BEGIN
+LOOKUP mplAL
+INSERT oMNxcp string
+PRINT
+INSERT pbARZ3 number
+INSERT l number
+BEGIN
+INSERT iNDtt number
+RPRINT
+INSERT doqRr string
+INSERT so8OIU string
+INSERT d_V string

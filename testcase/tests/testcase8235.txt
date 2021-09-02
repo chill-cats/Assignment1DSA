@@ -1,0 +1,18 @@
+BEGIN
+PRINT
+INSERT cHn_X number
+INSERT j15xN string
+INSERT mkN string
+INSERT x number
+BEGIN
+ah xz
+INSERT sqxU string
+INSERT jC number
+RPRINT
+ps i23
+ASSIGN sqxU 'i'
+BEGIN
+LOOKUP mkN
+INSERT n_ string
+INSERT lO6 string
+RPRINT

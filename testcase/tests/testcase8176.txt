@@ -1,0 +1,2 @@
+INSERT ohZlYZ string
+PRINT

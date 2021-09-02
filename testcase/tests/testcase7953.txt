@@ -1,0 +1,35 @@
+INSERT bCiLP string
+INSERT eVo number
+INSERT f string
+BEGIN
+t9aKK cxG
+BEGIN
+INSERT hg0 number
+INSERT jr8Vg string
+INSERT e string
+INSERT wm23 string
+LOOKUP jr8Vg
+INSERT n string
+BEGIN
+INSERT mzU string
+INSERT hGLU5 number
+INSERT hYrxfr string
+ASSIGN mzU 'H'
+INSERT qJrGs string
+INSERT n number
+LOOKUP bCiLP
+INSERT xOJXi number
+BEGIN
+INSERT m number
+INSERT r number
+INSERT d number
+INSERT ydI6 number
+INSERT xn number
+PRINT
+INSERT bsnJP5 number
+LOOKUP bsnJP5
+INSERT qK number
+INSERT xi1jL string
+m bjqs
+PRINT
+INSERT klZZ number

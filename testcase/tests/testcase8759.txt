@@ -1,0 +1,33 @@
+RPRINT
+INSERT d number
+ASSIGN d 'GlW'
+INSERT nY string
+RPRINT
+INSERT bmwMW number
+INSERT yD number
+END
+INSERT wj string
+INSERT wNkdy number
+INSERT pBgGs number
+INSERT hqV string
+END
+RPRINT
+INSERT k9djM number
+PRINT
+PRINT
+RPRINT
+INSERT n string
+ASSIGN n 'b1d1'
+INSERT kH3 string
+INSERT ig number
+RPRINT
+ASSIGN bmwMW 642
+BEGIN
+INSERT o string
+PRINT
+ASSIGN wNkdy pBgGs
+INSERT dmUqkd number
+LOOKUP yD
+PRINT
+PRINT
+ASSIGN wNkdy 'H'

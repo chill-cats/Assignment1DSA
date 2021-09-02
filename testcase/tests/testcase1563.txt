@@ -1,0 +1,22 @@
+END
+INSERT jvAd string
+INSERT hH string
+END
+INSERT t string
+BEGIN
+LOOKUP t
+INSERT sDhX string
+INSERT b number
+dfe qJtQj_
+INSERT y string
+INSERT ay9m number
+RPRINT
+BEGIN
+ASSIGN y jvAd
+INSERT kM string
+h k1pshQ
+INSERT ibbN number
+RPRINT
+INSERT nwid number
+INSERT tc number
+INSERT uL5UVT number

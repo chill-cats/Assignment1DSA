@@ -1,0 +1,21 @@
+INSERT ja string
+INSERT q string
+RPRINT
+INSERT exw number
+INSERT wQ string
+INSERT liW9jL string
+PRINT
+INSERT ccZ number
+INSERT h5 string
+INSERT d string
+INSERT i2m number
+ASSIGN exw 556
+INSERT wRO string
+END
+LOOKUP ccZ
+INSERT wsWT string
+ASSIGN wQ q
+INSERT clVUQN number
+LOOKUP exw
+PRINT
+LOOKUP clVUQN

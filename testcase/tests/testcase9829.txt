@@ -1,0 +1,28 @@
+RPRINT
+INSERT ajo string
+PRINT
+INSERT r5k9 number
+INSERT iDMB string
+LOOKUP ajo
+INSERT fRV number
+BEGIN
+PRINT
+PRINT
+RPRINT
+INSERT nVonF number
+RPRINT
+INSERT xeI2 string
+INSERT qMB string
+ASSIGN fRV 1190
+INSERT ed7p9 number
+BEGIN
+INSERT dF string
+INSERT ztSlXF number
+INSERT aVg1Tj string
+END
+INSERT cM string
+RPRINT
+INSERT un number
+INSERT nE string
+sbm wI
+INSERT rQD number

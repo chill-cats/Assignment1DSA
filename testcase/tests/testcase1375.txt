@@ -1,0 +1,35 @@
+INSERT hWW string
+INSERT ilt number
+INSERT vSe number
+LOOKUP hWW
+INSERT z4J number
+RPRINT
+INSERT u string
+RPRINT
+INSERT lQprN string
+INSERT f5Q number
+END
+RPRINT
+BEGIN
+INSERT z string
+INSERT k string
+INSERT v2LfNS number
+INSERT fo0 string
+ASSIGN z 'nh'
+INSERT pt string
+INSERT kOzaL string
+INSERT hkYM8 string
+INSERT uNzYFq string
+LOOKUP kOzaL
+ASSIGN k z
+INSERT wvMrh number
+INSERT u number
+INSERT y number
+INSERT lDhR number
+INSERT a string
+INSERT g8b number
+BEGIN
+INSERT xhE6HY string
+BEGIN
+vwG m
+BEGIN

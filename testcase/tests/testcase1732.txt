@@ -1,0 +1,7 @@
+END
+INSERT ll number
+RPRINT
+INSERT cY string
+ASSIGN cY 'Kmi'
+jq9m w7O_m
+INSERT vnizL string

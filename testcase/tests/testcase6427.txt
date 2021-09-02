@@ -1,0 +1,32 @@
+INSERT eZKkjv string
+RPRINT
+INSERT rWL string
+INSERT tue number
+ASSIGN rWL 'kOK'
+INSERT pA string
+INSERT c_Z8c number
+INSERT fTrX number
+INSERT qvN_y6 string
+INSERT tnhBPU number
+INSERT xjC string
+LOOKUP pA
+RPRINT
+INSERT zoj string
+INSERT rbeu number
+INSERT bS number
+INSERT k number
+ASSIGN fTrX rbeu
+INSERT nL2Lw string
+INSERT llqr number
+INSERT crqq string
+INSERT vsK string
+PRINT
+RPRINT
+RPRINT
+END
+INSERT tQN number
+INSERT ofWK string
+INSERT yK2PO number
+ASSIGN rbeu tnhBPU
+RPRINT
+ASSIGN tue 'n'

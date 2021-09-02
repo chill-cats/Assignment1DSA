@@ -1,0 +1,36 @@
+ASSIGN sja 'T'
+INSERT rz string
+INSERT p number
+INSERT gyBk8 number
+INSERT vM339 string
+INSERT lG string
+ASSIGN p 'TM'
+PRINT
+INSERT i_pJjB string
+INSERT z_0L string
+BEGIN
+INSERT yQf string
+INSERT nJtkUD number
+INSERT lp_ number
+INSERT nvLLi string
+INSERT tkI number
+INSERT r number
+INSERT qwBB string
+END
+INSERT ef string
+RPRINT
+BEGIN
+INSERT m number
+INSERT oyrdYu number
+LOOKUP qG
+LOOKUP rz
+ASSIGN rz 1152
+INSERT jaM0 string
+INSERT wwb number
+INSERT u number
+INSERT pfXdB string
+INSERT wirq9R string
+BEGIN
+INSERT wf9d string
+INSERT uf_P number
+INSERT uZTI number

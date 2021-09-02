@@ -1,0 +1,24 @@
+INSERT e number
+PRINT
+INSERT g string
+LOOKUP e
+INSERT w number
+INSERT cCi8ZH number
+INSERT oI1JGv string
+k bU8D
+INSERT cX number
+ASSIGN cCi8ZH cX
+INSERT qQvBql string
+END
+LOOKUP w
+INSERT q number
+INSERT vAfZO0 string
+END
+INSERT u number
+INSERT ili number
+INSERT jga string
+o r
+INSERT aYi3 string
+INSERT iFrrt string
+INSERT cn string
+INSERT nCCo_m number

@@ -1,0 +1,5 @@
+eo15 tE
+INSERT qcq string
+INSERT uv number
+ASSIGN uv 'g8W0'
+INSERT ekV number

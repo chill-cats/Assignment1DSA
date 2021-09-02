@@ -1,0 +1,10 @@
+INSERT mBI number
+END
+INSERT ygBhgK string
+LOOKUP ygBhgK
+INSERT g4MY string
+INSERT kk string
+INSERT nTKR1x number
+ASSIGN g4MY 'umi5'
+INSERT k string
+INSERT kmM6R8 number

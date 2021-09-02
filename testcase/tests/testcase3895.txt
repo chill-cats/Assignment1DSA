@@ -1,0 +1,7 @@
+INSERT d2CAT8 number
+END
+INSERT sbzl string
+INSERT i2Q number
+INSERT vehly number
+INSERT x5 string
+ASSIGN x5 sbzl

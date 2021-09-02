@@ -1,0 +1,22 @@
+LOOKUP e3v
+INSERT aPp7ZD string
+LOOKUP aPp7ZD
+INSERT zDA_d number
+INSERT nynHhq string
+b6FeE uM5t
+INSERT m number
+INSERT btNf1 number
+ASSIGN btNf1 1056
+BEGIN
+LOOKUP nynHhq
+INSERT p string
+INSERT t string
+RPRINT
+sn wtQoA
+INSERT n5FaD string
+INSERT jOW number
+INSERT hUwJ9 string
+INSERT e82B number
+PRINT
+BEGIN
+INSERT qx string

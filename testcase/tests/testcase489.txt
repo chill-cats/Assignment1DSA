@@ -1,0 +1,14 @@
+INSERT e number
+INSERT zVF string
+INSERT mBOia string
+PRINT
+RPRINT
+INSERT rd string
+INSERT mkw2Gr string
+END
+INSERT b string
+ASSIGN b 'ppAg'
+INSERT llvhW number
+LOOKUP mkw2Gr
+END
+INSERT lWvY5 number

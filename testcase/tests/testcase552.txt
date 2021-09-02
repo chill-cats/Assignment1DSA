@@ -1,0 +1,35 @@
+ASSIGN v7 745
+INSERT hDCfI string
+PRINT
+INSERT nimWN string
+PRINT
+INSERT bh number
+INSERT f number
+INSERT w7B82a string
+INSERT v string
+INSERT hev string
+INSERT dQ number
+LOOKUP hDCfI
+rUofWM xfC
+INSERT u3 string
+PRINT
+BEGIN
+BEGIN
+ASSIGN hev 1181
+LOOKUP bh
+INSERT f3 string
+INSERT uvimg number
+ASSIGN uvimg 573
+END
+PRINT
+LOOKUP v
+INSERT wZqJ1M number
+INSERT fkckCb number
+ASSIGN nimWN 'WJ'
+INSERT glz number
+RPRINT
+INSERT syHWo number
+INSERT z number
+END
+ASSIGN uvimg '2lnLR'
+END

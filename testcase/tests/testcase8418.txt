@@ -1,0 +1,7 @@
+INSERT szAm number
+INSERT nFh number
+END
+INSERT h5Aea string
+RPRINT
+k97 eAwH
+INSERT qzdx string

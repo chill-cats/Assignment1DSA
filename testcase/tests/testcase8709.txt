@@ -1,0 +1,25 @@
+INSERT fra number
+INSERT kWZ9E string
+INSERT bY string
+INSERT wam number
+INSERT omGwq number
+INSERT rMxP string
+INSERT irWalT number
+INSERT un string
+INSERT g string
+ASSIGN omGwq 1051
+BEGIN
+INSERT yn number
+PRINT
+INSERT o number
+INSERT u string
+END
+INSERT vu5 string
+INSERT v5_tvJ number
+INSERT r string
+LOOKUP irWalT
+INSERT vaGgh string
+INSERT pAg number
+INSERT wTBfBS string
+INSERT rdLb number
+END

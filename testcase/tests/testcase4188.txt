@@ -1,0 +1,5 @@
+RPRINT
+RPRINT
+INSERT t string
+INSERT xdP string
+INSERT eg number

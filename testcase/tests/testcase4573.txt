@@ -1,0 +1,27 @@
+ASSIGN uXh 944
+INSERT uD4 number
+LOOKUP uD4
+INSERT z number
+ASSIGN z 311
+INSERT lQ8 number
+INSERT c5f number
+INSERT vFCujX string
+INSERT zF string
+BEGIN
+PRINT
+INSERT j number
+PRINT
+END
+BEGIN
+INSERT yi number
+INSERT vSZa string
+LOOKUP vFCujX
+jH lQELx
+INSERT rJp string
+INSERT v number
+RPRINT
+INSERT hGL string
+INSERT wzy number
+RPRINT
+INSERT ue_F string
+INSERT vq2Dnv number

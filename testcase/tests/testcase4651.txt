@@ -1,0 +1,36 @@
+BEGIN
+pIHmHz mOxJxa
+vvTTm fJNFaf
+ASSIGN ar8J 277
+INSERT oZcOb0 string
+INSERT p number
+INSERT z number
+PRINT
+INSERT ya0 number
+INSERT cnz number
+INSERT mowz number
+INSERT qh8wN number
+INSERT l2CeX string
+INSERT cUvE number
+INSERT mSE string
+LOOKUP oZcOb0
+PRINT
+INSERT jGcu number
+INSERT arCED string
+INSERT fbT number
+INSERT buqFV number
+LOOKUP jGcu
+ASSIGN buqFV 48
+INSERT ybUvUU string
+LOOKUP oZcOb0
+ASSIGN arCED 850
+INSERT b3 number
+ASSIGN qh8wN l2CeX
+INSERT r string
+INSERT rt number
+INSERT a1 string
+INSERT pJ number
+INSERT f number
+INSERT rO number
+ASSIGN cUvE r
+RPRINT

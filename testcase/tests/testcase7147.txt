@@ -1,0 +1,5 @@
+INSERT wV number
+LOOKUP wV
+LOOKUP wV
+INSERT j number
+INSERT bUTyx string

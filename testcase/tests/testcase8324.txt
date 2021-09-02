@@ -1,0 +1,8 @@
+INSERT exa5h string
+INSERT t number
+RPRINT
+ASSIGN exa5h exa5h
+INSERT u1H string
+INSERT so4 number
+INSERT aT9XDD number
+INSERT b6cFAN number

@@ -1,0 +1,39 @@
+RPRINT
+RPRINT
+ASSIGN i 'aIV'
+INSERT rXeR string
+INSERT b string
+PRINT
+INSERT o string
+INSERT kxJB number
+INSERT g string
+INSERT z2fe string
+INSERT e string
+INSERT f80_Jx string
+INSERT t number
+INSERT f2pf string
+INSERT qW0o string
+INSERT wyiu number
+INSERT eSGbJ number
+ASSIGN g '5oi'
+INSERT pc number
+END
+INSERT h0U1Q string
+INSERT pQ number
+INSERT odAL93 string
+LOOKUP kxJB
+INSERT a string
+BEGIN
+PRINT
+INSERT wOtm string
+INSERT h string
+INSERT pGqt string
+INSERT r7h string
+INSERT kzLL number
+INSERT m number
+INSERT f3Ua number
+INSERT uR1 number
+INSERT uMgB number
+LOOKUP kzLL
+INSERT d4Qy string
+LOOKUP d4Qy

@@ -1,0 +1,22 @@
+INSERT zZl8C string
+INSERT z3Xne string
+ASSIGN zZl8C z3Xne
+INSERT nJfD number
+INSERT r number
+END
+INSERT vqwD string
+INSERT zk_ string
+INSERT yaUV9_ number
+INSERT jiQt1p string
+BEGIN
+INSERT vOHx7k number
+INSERT j4 number
+RPRINT
+INSERT n number
+INSERT eGMzM string
+INSERT tXCo1n string
+INSERT dmbYuu string
+INSERT vJV string
+INSERT o number
+END
+INSERT w number

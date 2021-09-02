@@ -1,0 +1,4 @@
+INSERT eBA string
+LOOKUP eBA
+RPRINT
+INSERT uB1CKx string

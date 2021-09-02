@@ -1,0 +1,7 @@
+INSERT vCr4 string
+RPRINT
+END
+INSERT uq string
+ASSIGN uq 667
+INSERT tcV3vK number
+INSERT ph2PC number

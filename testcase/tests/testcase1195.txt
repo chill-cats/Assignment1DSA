@@ -1,0 +1,29 @@
+INSERT iOI5w number
+INSERT fCPH string
+INSERT yg number
+INSERT sOBSA string
+INSERT td number
+ad f1Cy
+INSERT qDO5 number
+ASSIGN qDO5 'hDs'
+INSERT iT string
+INSERT nwbw string
+INSERT dV number
+INSERT b78 string
+INSERT wdLs string
+INSERT e0VuJr string
+ASSIGN fCPH 'TZu'
+INSERT p4 string
+INSERT aYT number
+LOOKUP sOBSA
+RPRINT
+ASSIGN td 287
+INSERT g_ string
+INSERT bF5gc number
+RPRINT
+INSERT r number
+INSERT oIJMW9 string
+INSERT oi5an0 number
+INSERT u9F number
+END
+INSERT dT87P2 number

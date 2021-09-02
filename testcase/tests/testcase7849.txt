@@ -1,0 +1,24 @@
+RPRINT
+INSERT yvJ string
+LOOKUP yvJ
+INSERT ectON string
+INSERT r number
+INSERT t number
+BEGIN
+INSERT g string
+RPRINT
+PRINT
+INSERT hfJ7 number
+INSERT cO number
+INSERT yO string
+INSERT liLw0 number
+INSERT a string
+RPRINT
+INSERT vt number
+INSERT u string
+INSERT lL number
+INSERT nH string
+INSERT sdh number
+INSERT m number
+INSERT b string
+INSERT nhh number

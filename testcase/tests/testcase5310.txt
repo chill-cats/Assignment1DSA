@@ -1,0 +1,15 @@
+INSERT v3 string
+INSERT sprE number
+END
+INSERT sWeqFi string
+INSERT fEdpgM string
+INSERT vIWH65 number
+LOOKUP sWeqFi
+END
+BEGIN
+INSERT zdAD number
+INSERT n0eYc string
+INSERT dOtHvh string
+ASSIGN n0eYc 'G'
+LOOKUP sWeqFi
+INSERT m string

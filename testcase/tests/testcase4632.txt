@@ -1,0 +1,12 @@
+INSERT a7wKax number
+INSERT tc string
+INSERT bg5FVN string
+INSERT hLtH string
+PRINT
+INSERT xk46 number
+INSERT va2ovY number
+INSERT uJpPDV string
+INSERT f string
+PRINT
+INSERT k2Ir number
+END

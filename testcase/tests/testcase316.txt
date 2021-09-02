@@ -1,0 +1,19 @@
+INSERT pZ88c number
+RPRINT
+INSERT mW number
+LOOKUP pZ88c
+PRINT
+INSERT w string
+INSERT vE string
+INSERT s string
+LOOKUP rejb
+INSERT p string
+RPRINT
+BEGIN
+INSERT hbh4F4 number
+BEGIN
+xbYN uPNNk
+INSERT c string
+INSERT yOBEhM number
+INSERT op string
+PRINT

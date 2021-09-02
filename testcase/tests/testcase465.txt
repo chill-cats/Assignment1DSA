@@ -1,0 +1,7 @@
+END
+INSERT gb47A number
+PRINT
+RPRINT
+INSERT tLMA number
+INSERT tS4MKj number
+PRINT

@@ -1,0 +1,22 @@
+INSERT kmTH string
+INSERT b90Z string
+LOOKUP kmTH
+INSERT iE string
+INSERT jURgG number
+INSERT vd number
+INSERT j3U string
+INSERT diQN string
+RPRINT
+ASSIGN j3U kmTH
+INSERT cqJS6J number
+INSERT qJ number
+INSERT li61 number
+INSERT hLp number
+INSERT v number
+END
+ASSIGN vd 1106
+INSERT ln number
+INSERT tgQTXh number
+ik0 k3C
+INSERT grv3 number
+BEGIN

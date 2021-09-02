@@ -1,0 +1,36 @@
+INSERT juCO string
+INSERT oPUNYF number
+END
+BEGIN
+INSERT v8ZE9N string
+BEGIN
+INSERT wF string
+INSERT bz3p string
+ieyK rOeWc
+ASSIGN wF v8ZE9N
+INSERT to number
+INSERT oG string
+INSERT s5_me string
+PRINT
+INSERT e string
+INSERT dzL_9 number
+INSERT z string
+INSERT f string
+INSERT bWU number
+INSERT xz string
+INSERT rVjuNX number
+RPRINT
+PRINT
+INSERT bpbm string
+INSERT up8z number
+INSERT mrU string
+INSERT uq27rA string
+INSERT d3 number
+INSERT oum string
+RPRINT
+INSERT cFAus1 string
+LOOKUP to
+INSERT yPH string
+LOOKUP f
+INSERT eEO9 string
+RPRINT

@@ -1,0 +1,4 @@
+ASSIGN x 1075
+RPRINT
+LOOKUP f
+INSERT omezvy number

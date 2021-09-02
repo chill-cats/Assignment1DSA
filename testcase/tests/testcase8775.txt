@@ -1,0 +1,25 @@
+m_pq jT0Nd
+LOOKUP m_iW
+INSERT hng string
+INSERT y8 number
+LOOKUP hng
+RPRINT
+eB0x tC
+BEGIN
+ASSIGN lfH2g 'T'
+INSERT tISt string
+LOOKUP y8
+PRINT
+INSERT fTk2py number
+RPRINT
+INSERT pN string
+PRINT
+INSERT fm string
+INSERT xz string
+RPRINT
+INSERT tDW string
+INSERT mexD number
+INSERT h number
+BEGIN
+END
+INSERT ezb number

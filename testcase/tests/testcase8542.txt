@@ -1,0 +1,40 @@
+INSERT i string
+pGP mH38QC
+INSERT kXVEmH number
+END
+INSERT zJin number
+INSERT o8HNFm number
+INSERT nZ_j2Z string
+BEGIN
+INSERT xz string
+INSERT m2701 string
+INSERT d number
+yYqRz j
+BEGIN
+INSERT i8X number
+END
+RPRINT
+INSERT waYT string
+iLiE pS
+INSERT o number
+INSERT cnQJa string
+INSERT fjn number
+INSERT cVk7 string
+INSERT mk string
+INSERT vQT string
+INSERT bv number
+INSERT kg number
+INSERT rap77f number
+INSERT ac string
+INSERT bcwri string
+INSERT hJZ string
+ASSIGN rap77f 169
+RPRINT
+LOOKUP hJZ
+PRINT
+INSERT c string
+INSERT b_ string
+BEGIN
+INSERT tK number
+LOOKUP i8X
+INSERT o51 string

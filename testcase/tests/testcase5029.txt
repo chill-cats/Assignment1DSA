@@ -1,0 +1,19 @@
+END
+RPRINT
+BEGIN
+INSERT tTy2 number
+ASSIGN pPVdc tTy2
+INSERT hp1P0 string
+LOOKUP tTy2
+LOOKUP tTy2
+INSERT ow30G string
+PRINT
+INSERT btEL string
+j p
+INSERT nZX2e2 number
+INSERT g5l number
+INSERT tFIoj string
+INSERT r string
+INSERT oc_qA number
+INSERT ts number
+ASSIGN hp1P0 'L0'

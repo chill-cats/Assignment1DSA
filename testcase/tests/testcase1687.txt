@@ -1,0 +1,14 @@
+RPRINT
+LOOKUP c0tlH
+LOOKUP pDq
+INSERT mpDoUP string
+LOOKUP mpDoUP
+ASSIGN mpDoUP 'Gt'
+INSERT tQJl number
+INSERT k string
+INSERT xREX number
+INSERT hr9z2 number
+INSERT amv number
+INSERT v number
+INSERT yR number
+INSERT u number

@@ -1,0 +1,38 @@
+INSERT s string
+INSERT i6wAFa string
+INSERT eoXDM number
+BEGIN
+INSERT p number
+INSERT xG0V string
+INSERT ek string
+INSERT qCnB2K string
+END
+laHI5 oOYvOp
+INSERT zr5M5 string
+RPRINT
+LOOKUP zr5M5
+INSERT ybL6DQ string
+INSERT pfuKp number
+PRINT
+INSERT hd number
+ASSIGN ybL6DQ 'p1'
+INSERT r string
+INSERT cWr4m string
+INSERT djHk3 string
+INSERT vRiy number
+INSERT scECFD string
+RPRINT
+INSERT p number
+INSERT g_B number
+ASSIGN s pfuKp
+INSERT mK string
+BEGIN
+INSERT fcx number
+INSERT dVaAF1 number
+INSERT wmgjul string
+INSERT hWsm73 number
+INSERT pBpi number
+END
+BEGIN
+INSERT mQ number
+LOOKUP pfuKp

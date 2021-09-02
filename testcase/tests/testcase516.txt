@@ -1,0 +1,13 @@
+LOOKUP xDdibk
+INSERT hFt number
+j2A_ jK
+INSERT lbdP5 string
+INSERT jnDX number
+ASSIGN jnDX 131
+INSERT yKl string
+INSERT kJJ0 number
+INSERT q_I8j number
+RPRINT
+INSERT kLsQ5p number
+INSERT hylJ string
+LOOKUP hFt

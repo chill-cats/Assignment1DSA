@@ -1,0 +1,38 @@
+INSERT c string
+RPRINT
+PRINT
+INSERT jNVK string
+INSERT rCZ number
+INSERT m string
+LOOKUP rCZ
+RPRINT
+wW kT3S
+INSERT dmi0 number
+END
+END
+INSERT pEtPry number
+INSERT zkE19T string
+LOOKUP c
+INSERT eSB number
+INSERT uISg string
+INSERT gz string
+BEGIN
+INSERT aBAD7h string
+END
+LOOKUP eSB
+v9H oF
+LOOKUP zkE19T
+INSERT x3W string
+BEGIN
+LOOKUP uISg
+INSERT iF number
+INSERT dupURd string
+ASSIGN c '5 qV'
+BEGIN
+BEGIN
+INSERT v75 number
+INSERT lR76w string
+INSERT key string
+INSERT c8 string
+INSERT f number
+BEGIN

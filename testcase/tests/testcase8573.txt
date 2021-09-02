@@ -1,0 +1,5 @@
+INSERT w number
+PRINT
+LOOKUP w
+INSERT c string
+ASSIGN w 452

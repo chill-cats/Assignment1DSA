@@ -1,0 +1,12 @@
+INSERT u number
+INSERT p number
+BEGIN
+BEGIN
+RPRINT
+INSERT d string
+PRINT
+INSERT t4GhE string
+INSERT cPA string
+INSERT erYkIT string
+INSERT lchwil string
+PRINT

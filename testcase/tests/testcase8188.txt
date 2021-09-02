@@ -1,0 +1,21 @@
+INSERT g2g2n string
+INSERT cgvT number
+LOOKUP cgvT
+INSERT yML number
+PRINT
+INSERT a number
+INSERT iMJVY2 number
+INSERT ya number
+INSERT q string
+LOOKUP ya
+INSERT lJw number
+LOOKUP a
+LOOKUP iMJVY2
+INSERT vT number
+INSERT aw0 number
+cD qq4
+INSERT fnqKPB string
+INSERT sAPmb string
+INSERT h79IML number
+INSERT c7L string
+INSERT bJ number

@@ -1,0 +1,29 @@
+INSERT iF9 string
+PRINT
+RPRINT
+as0j m13Vq
+INSERT v string
+INSERT jWEdU3 number
+ASSIGN v 'xZ'
+PRINT
+LOOKUP iF9
+INSERT i string
+INSERT aQsvwG number
+ASSIGN iF9 jWEdU3
+INSERT poT3Ue number
+INSERT sCg string
+ASSIGN poT3Ue 'tBbbm'
+INSERT tNkAWn string
+RPRINT
+ASSIGN iF9 'HuZ3x'
+INSERT aoVM6 number
+PRINT
+INSERT gm string
+BEGIN
+INSERT p string
+kHxXT bDrVXo
+PRINT
+PRINT
+INSERT h number
+END
+INSERT j number

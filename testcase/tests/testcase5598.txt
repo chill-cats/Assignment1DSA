@@ -1,0 +1,30 @@
+INSERT d5eOgK number
+INSERT nODZ4K string
+q fEsR
+INSERT uo2 string
+INSERT x number
+INSERT kg string
+INSERT sZDRZ number
+PRINT
+INSERT f string
+INSERT mbxBWO number
+INSERT q number
+LOOKUP sZDRZ
+PRINT
+INSERT n number
+ASSIGN sZDRZ 'Rm8'
+INSERT nl5 string
+RPRINT
+PRINT
+INSERT h number
+INSERT n9gu number
+INSERT wBfntx number
+ASSIGN h uo2
+END
+INSERT zD string
+INSERT oRi string
+INSERT wp number
+INSERT bS number
+INSERT xl number
+INSERT fzLq string
+INSERT az string

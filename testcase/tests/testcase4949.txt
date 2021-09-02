@@ -1,0 +1,18 @@
+PRINT
+INSERT t2BpXA string
+END
+LOOKUP t2BpXA
+INSERT c string
+INSERT w number
+INSERT o number
+INSERT pM0xq string
+BEGIN
+INSERT ke3x string
+BEGIN
+INSERT gs_tS number
+INSERT eQNM number
+INSERT yx string
+LOOKUP pM0xq
+INSERT wQWO number
+INSERT e_L number
+RPRINT

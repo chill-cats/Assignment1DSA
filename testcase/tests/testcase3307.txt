@@ -1,0 +1,22 @@
+INSERT l number
+PRINT
+LOOKUP l
+LOOKUP l
+INSERT jAzW0O number
+RPRINT
+INSERT g number
+INSERT xPGba number
+INSERT j4W string
+INSERT ho0mJq string
+INSERT rjdCxw number
+INSERT s9ji number
+INSERT sIgJ string
+INSERT kV number
+INSERT l33bd3 string
+LOOKUP ho0mJq
+RPRINT
+lf cGXD3
+INSERT kQPvQ string
+INSERT wg3hr number
+ASSIGN rjdCxw kV
+c mii

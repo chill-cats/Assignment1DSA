@@ -1,0 +1,11 @@
+INSERT i string
+PRINT
+PRINT
+INSERT vim string
+INSERT xvJQVi number
+END
+INSERT m5 number
+INSERT j number
+INSERT b string
+LOOKUP vim
+INSERT tt string

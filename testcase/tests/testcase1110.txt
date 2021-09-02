@@ -1,0 +1,20 @@
+INSERT ou number
+LOOKUP ou
+INSERT fvZQr string
+INSERT yx string
+ASSIGN yx 942
+INSERT x9s1f string
+INSERT b4 number
+INSERT cZfBp string
+BEGIN
+LOOKUP fvZQr
+INSERT cgzA number
+LOOKUP fvZQr
+INSERT jbJh number
+BEGIN
+PRINT
+INSERT lTBqd0 string
+INSERT ji0dg number
+INSERT y4QzZ number
+INSERT u number
+LOOKUP fvZQr

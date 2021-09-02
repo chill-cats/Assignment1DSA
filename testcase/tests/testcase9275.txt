@@ -1,0 +1,7 @@
+INSERT mf string
+INSERT d string
+INSERT b7jJe number
+d2_ l
+INSERT kO string
+END
+INSERT seJB number

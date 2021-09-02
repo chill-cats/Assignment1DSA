@@ -1,0 +1,10 @@
+INSERT jB number
+BEGIN
+INSERT jnnCka string
+INSERT zl string
+PRINT
+PRINT
+INSERT yE7 string
+LOOKUP jB
+INSERT hdNE8 string
+INSERT selVlM string

@@ -1,0 +1,10 @@
+PRINT
+LOOKUP kKwr
+INSERT wX number
+INSERT eRd4zB string
+PRINT
+INSERT me number
+INSERT qQZynL string
+END
+RPRINT
+INSERT tmw string

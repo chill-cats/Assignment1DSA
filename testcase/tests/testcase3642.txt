@@ -1,0 +1,31 @@
+INSERT f number
+INSERT uOhZ string
+INSERT tgi9Z string
+INSERT iHs8 string
+LOOKUP iHs8
+INSERT eNnsza number
+INSERT lpAq string
+INSERT ue number
+INSERT yZxdKO number
+INSERT ukaaFz number
+INSERT zhly number
+INSERT kWzmM number
+INSERT owc string
+INSERT j3U number
+ASSIGN j3U 'EXQQx'
+INSERT jGLK7C string
+RPRINT
+INSERT gI5 string
+INSERT xg9Pw number
+INSERT qzEFRz string
+PRINT
+LOOKUP tgi9Z
+INSERT eST string
+INSERT kvUpr string
+BEGIN
+LOOKUP kvUpr
+INSERT i string
+INSERT enKT number
+INSERT g8WJnx string
+INSERT hrUa0 number
+INSERT dfXS number

@@ -1,0 +1,35 @@
+LOOKUP tT0dCZ
+INSERT fY number
+INSERT t number
+INSERT srY1I number
+END
+ASSIGN fY t
+PRINT
+INSERT cj string
+LOOKUP fY
+INSERT jxL string
+INSERT cWM_ number
+INSERT v number
+INSERT w3431m string
+RPRINT
+INSERT qko number
+ASSIGN srY1I 'l'
+LOOKUP cWM_
+INSERT wLoR string
+INSERT y1Ef5s string
+RPRINT
+INSERT y string
+END
+RPRINT
+INSERT fg6Nx5 number
+INSERT p number
+INSERT vJ number
+INSERT oO3ZPu number
+RPRINT
+INSERT x string
+PRINT
+INSERT suaXT number
+RPRINT
+INSERT qhKU7 number
+ASSIGN pmb w3431m
+INSERT lZ string

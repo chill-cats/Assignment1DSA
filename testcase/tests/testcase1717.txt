@@ -1,0 +1,11 @@
+INSERT d number
+RPRINT
+INSERT m8F1k number
+INSERT c4Pm string
+END
+INSERT uvV number
+BEGIN
+LOOKUP c4Pm
+aiTmag n5_
+END
+INSERT tKN number

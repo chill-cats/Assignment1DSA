@@ -1,0 +1,33 @@
+INSERT fLH string
+ASSIGN fLH '1Dvq'
+PRINT
+INSERT rtes8 string
+INSERT yAfA number
+INSERT vlM19 string
+INSERT as string
+END
+RPRINT
+INSERT i number
+LOOKUP yAfA
+END
+INSERT yTfG number
+ASSIGN fLH vlM19
+INSERT x7VIR number
+INSERT h0Qt string
+INSERT u number
+INSERT vq number
+BEGIN
+INSERT jwbV string
+PRINT
+INSERT z string
+INSERT ef4lwD string
+LOOKUP i
+INSERT gJjwS number
+INSERT oF string
+INSERT cu string
+INSERT uR string
+INSERT cimD number
+INSERT yzpWU number
+INSERT ruA2Ns number
+INSERT hEWoeb number
+INSERT uGCi string

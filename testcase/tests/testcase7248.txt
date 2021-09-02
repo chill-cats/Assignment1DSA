@@ -1,0 +1,21 @@
+INSERT xq7 string
+INSERT a number
+INSERT zi string
+INSERT n4 number
+INSERT ifd4P number
+INSERT zaxJI string
+RPRINT
+INSERT bpOqU number
+INSERT mZ number
+RPRINT
+INSERT svE2F string
+INSERT iDy1Zv number
+END
+INSERT ydNG2 number
+ASSIGN n4 zaxJI
+INSERT bI number
+INSERT aV string
+RPRINT
+INSERT r9Rf string
+ASSIGN n4 1130
+RPRINT

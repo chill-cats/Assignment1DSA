@@ -1,0 +1,20 @@
+INSERT x8 string
+INSERT e string
+PRINT
+INSERT rA number
+BEGIN
+ASSIGN rA 863
+INSERT ur string
+INSERT iZpsD string
+INSERT j58a string
+BEGIN
+INSERT xQ string
+INSERT i number
+END
+INSERT yVG3 string
+LOOKUP x8
+INSERT ly string
+fM eQylE6
+ASSIGN ly 370
+INSERT nE number
+LOOKUP e

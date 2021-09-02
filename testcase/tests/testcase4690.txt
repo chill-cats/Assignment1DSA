@@ -1,0 +1,39 @@
+RPRINT
+INSERT retdfG string
+krmLF tOJg
+INSERT mlV number
+INSERT slvr string
+RPRINT
+INSERT tin string
+INSERT j1S5r number
+INSERT f13zYB string
+INSERT xcA number
+INSERT wxZMb number
+INSERT uCf string
+INSERT g string
+BEGIN
+RPRINT
+INSERT cq string
+INSERT qhnm string
+INSERT ehKB2 number
+INSERT l string
+INSERT v number
+vhGaV jk
+INSERT g number
+END
+BEGIN
+RPRINT
+INSERT x string
+ASSIGN f13zYB j1S5r
+INSERT rg number
+INSERT o_ string
+INSERT n string
+INSERT rIbMjJ string
+INSERT u1qop number
+INSERT imL88 number
+INSERT xe6zu string
+INSERT hdXtl string
+INSERT jUXa number
+ASSIGN jUXa 'Bd'
+PRINT
+INSERT kn string

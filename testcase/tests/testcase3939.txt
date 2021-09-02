@@ -1,0 +1,16 @@
+INSERT j number
+INSERT a_D string
+INSERT m string
+INSERT lrM8tQ number
+INSERT f string
+INSERT b6 number
+RPRINT
+INSERT yZn_r number
+INSERT sXc string
+END
+RPRINT
+INSERT ux1oa string
+yjMo1 u
+INSERT pU number
+INSERT zzH30_ string
+INSERT kykH string

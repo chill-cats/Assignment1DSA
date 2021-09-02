@@ -1,0 +1,38 @@
+INSERT zIMl3P string
+INSERT zACW string
+INSERT xbN8 number
+INSERT o6l string
+ASSIGN xbN8 'tlQzQ'
+ASSIGN xbN8 zACW
+INSERT h string
+INSERT ib number
+ASSIGN ib 'l2'
+INSERT kV6zF4 string
+INSERT mu string
+INSERT bB string
+BEGIN
+LOOKUP kV6zF4
+INSERT hYMB string
+RPRINT
+INSERT lrsk number
+jHUqLV z0O
+INSERT k6W95N number
+INSERT smUeqU number
+INSERT aMn number
+PRINT
+INSERT q number
+END
+INSERT flAJPe string
+INSERT kOBH number
+INSERT ipXxa number
+END
+END
+INSERT cTa number
+INSERT cwAF number
+INSERT bo number
+INSERT sCwhh3 string
+INSERT rCjGz string
+ASSIGN kV6zF4 273
+PRINT
+INSERT u1Enn number
+rudgZO ab

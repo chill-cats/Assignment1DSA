@@ -1,0 +1,16 @@
+INSERT zKAD string
+INSERT g4 string
+INSERT bP number
+INSERT mN16l number
+RPRINT
+PRINT
+h w
+INSERT dLznC number
+INSERT cHK9u string
+PRINT
+INSERT d number
+INSERT x0H number
+LOOKUP mN16l
+INSERT p_uP string
+INSERT uAJX1Y number
+INSERT tLSZ string

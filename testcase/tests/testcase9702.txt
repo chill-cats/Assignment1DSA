@@ -1,0 +1,38 @@
+INSERT mbj string
+LOOKUP mbj
+o_ pmc32
+ASSIGN mbj 266
+INSERT rPbilR string
+PRINT
+INSERT jUs0y string
+INSERT cQm_ number
+INSERT v5v string
+INSERT o6gOTU number
+INSERT fL string
+INSERT iESWZ string
+PRINT
+INSERT u number
+INSERT nmY number
+INSERT v3 number
+pc n
+INSERT y_Hu number
+INSERT cG string
+INSERT u5x number
+LOOKUP cG
+INSERT ksPS0G string
+INSERT uGIShq string
+INSERT gjhZ2R number
+INSERT z number
+INSERT uxYb2 number
+BEGIN
+INSERT l8w1R string
+INSERT bKl1 number
+INSERT sC number
+INSERT z string
+END
+h iz
+c jJLKJq
+INSERT hFxo3f string
+ASSIGN z '2'
+RPRINT
+INSERT g number

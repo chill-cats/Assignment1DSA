@@ -1,0 +1,33 @@
+END
+INSERT nmE number
+INSERT j37 string
+RPRINT
+END
+INSERT cVV3R string
+INSERT sFZ string
+INSERT aQYkJQ number
+INSERT koMNG number
+ASSIGN koMNG 'avT'
+INSERT c number
+INSERT hx0I number
+RPRINT
+END
+RPRINT
+INSERT cp0 string
+END
+INSERT et string
+INSERT tp9a4E number
+LOOKUP c
+INSERT weX number
+INSERT m number
+INSERT ypmtI number
+INSERT xxQR number
+RPRINT
+RPRINT
+INSERT d9A9 string
+v aZEd
+INSERT ltU number
+INSERT pON4NJ string
+INSERT d9Bk2 number
+LOOKUP c
+RPRINT

@@ -1,0 +1,9 @@
+BEGIN
+INSERT jB number
+RPRINT
+INSERT yawdbZ string
+INSERT vhKE string
+LOOKUP vhKE
+INSERT kkFk_r number
+INSERT aQcAa string
+PRINT

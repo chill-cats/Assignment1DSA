@@ -1,0 +1,25 @@
+PRINT
+PRINT
+INSERT tqrB string
+INSERT nRkj number
+o_ wfUt6
+LOOKUP nRkj
+INSERT i4GiD number
+INSERT wG number
+INSERT o string
+INSERT or number
+INSERT oOm number
+INSERT m string
+RPRINT
+END
+PRINT
+PRINT
+INSERT h1Zb6 string
+INSERT nJEQbt number
+LOOKUP o
+ASSIGN oOm 'h'
+INSERT r string
+ASSIGN wG 782
+INSERT wRPWr6 string
+INSERT cN_oFg number
+INSERT mxA string

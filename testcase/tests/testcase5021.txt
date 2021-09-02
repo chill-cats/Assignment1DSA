@@ -1,0 +1,9 @@
+INSERT w7EkD string
+INSERT q number
+INSERT yf string
+INSERT pV string
+INSERT y string
+INSERT uyQSMk number
+RPRINT
+INSERT fg number
+RPRINT

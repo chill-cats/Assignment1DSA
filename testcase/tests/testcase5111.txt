@@ -1,0 +1,29 @@
+INSERT cDe string
+INSERT u string
+INSERT imNnXv number
+INSERT cwXgBN string
+INSERT eGHgy number
+INSERT s8gm number
+END
+END
+INSERT ph string
+END
+INSERT yqp5mE string
+PRINT
+RPRINT
+INSERT fpRo number
+ASSIGN imNnXv 303
+BEGIN
+LOOKUP cwXgBN
+ASSIGN yqp5mE 538
+INSERT pPd5 string
+INSERT h number
+INSERT jx2Cy string
+PRINT
+INSERT f number
+BEGIN
+INSERT n number
+INSERT f7 number
+ASSIGN yqp5mE 569
+INSERT wHkRO6 string
+INSERT bN6M2t string

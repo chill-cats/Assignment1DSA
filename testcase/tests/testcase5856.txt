@@ -1,0 +1,18 @@
+INSERT sJN string
+INSERT l07jK string
+PRINT
+LOOKUP l07jK
+RPRINT
+PRINT
+INSERT s5B4 string
+vf lEoPmJ
+RPRINT
+INSERT pR number
+BEGIN
+RPRINT
+INSERT eQp string
+INSERT n string
+PRINT
+LOOKUP sJN
+INSERT lU string
+INSERT dsUD0G string

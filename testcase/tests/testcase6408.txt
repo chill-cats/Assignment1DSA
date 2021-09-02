@@ -1,0 +1,15 @@
+INSERT p number
+INSERT cY0 number
+INSERT t8ut_I number
+ASSIGN cY0 863
+ASSIGN p 'kT6O'
+INSERT kCU number
+INSERT m1wR1 string
+INSERT tm8hQz number
+INSERT vArL string
+PRINT
+LOOKUP t8ut_I
+INSERT wO7H string
+LOOKUP p
+INSERT wBzK string
+INSERT lPN string

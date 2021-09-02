@@ -1,0 +1,21 @@
+RPRINT
+INSERT h string
+INSERT sLI number
+INSERT tniE5W number
+INSERT cyQd0y number
+INSERT aOmNM number
+INSERT kzj string
+ASSIGN aOmNM 'TdbO'
+ASSIGN kzj 'gJpL'
+ASSIGN sLI 906
+INSERT gsuOj string
+RPRINT
+INSERT qP2 string
+INSERT cyvZ string
+PRINT
+INSERT z9a number
+INSERT n number
+PRINT
+BEGIN
+ASSIGN aOmNM h
+INSERT aGlKLB number

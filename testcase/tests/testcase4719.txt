@@ -1,0 +1,33 @@
+RPRINT
+INSERT pjLa8 string
+INSERT ed number
+LOOKUP pjLa8
+PRINT
+INSERT k number
+INSERT h_f number
+INSERT w number
+bP u0Rk4
+BEGIN
+END
+INSERT zwPN0I string
+vAt k
+g m0
+INSERT zUf string
+q cxRGbv
+INSERT fk9bN string
+INSERT x string
+eh3Ax j8rs
+INSERT o7GUeU number
+INSERT wyJgOC string
+INSERT u4_PS string
+ASSIGN o7GUeU o7GUeU
+INSERT yV number
+LOOKUP w
+BEGIN
+INSERT tQ number
+INSERT ubq number
+INSERT aOItMj string
+mQbjS8 aU5B
+INSERT a number
+INSERT h number
+INSERT n number

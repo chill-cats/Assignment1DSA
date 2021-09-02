@@ -1,0 +1,19 @@
+INSERT qNip string
+INSERT v string
+BEGIN
+RPRINT
+RPRINT
+INSERT jJ3xH number
+INSERT kUmks string
+gw4 en2Cr
+LOOKUP jJ3xH
+ASSIGN v 880
+INSERT fTMNN string
+INSERT i number
+ASSIGN qNip 'Ode'
+LOOKUP jJ3xH
+INSERT uxQjr string
+INSERT vI string
+INSERT aV string
+PRINT
+RPRINT

@@ -1,0 +1,28 @@
+INSERT jsKV string
+INSERT h9 string
+INSERT mq number
+INSERT gsoRiI number
+INSERT dR string
+INSERT gFhvp number
+INSERT r9JH number
+a8V q
+INSERT u_iOr string
+BEGIN
+LOOKUP u_iOr
+LOOKUP gsoRiI
+END
+v sUa
+mlu w
+INSERT bZwgP string
+INSERT wjc9F string
+PRINT
+INSERT wPkk number
+ASSIGN u_iOr 'mpLgf'
+INSERT kC string
+tT rzsEX
+INSERT n7ptWH string
+INSERT isw number
+END
+RPRINT
+INSERT a string
+BEGIN

@@ -1,0 +1,9 @@
+BEGIN
+e990g syOfa
+b iqDEnT
+INSERT gf number
+INSERT oI string
+END
+BEGIN
+INSERT y number
+RPRINT

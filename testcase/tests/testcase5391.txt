@@ -1,0 +1,9 @@
+RPRINT
+INSERT py string
+RPRINT
+t pVmDA
+BEGIN
+INSERT cTQP string
+INSERT ktpC0H number
+BEGIN
+INSERT uJibmi string

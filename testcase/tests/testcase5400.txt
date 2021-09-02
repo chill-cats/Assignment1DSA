@@ -1,0 +1,26 @@
+ASSIGN b4dF 182
+INSERT qYd string
+INSERT mjxJO number
+END
+END
+INSERT pS6Nz number
+LOOKUP pS6Nz
+INSERT a number
+BEGIN
+INSERT azZ string
+LOOKUP a
+INSERT jnHV60 string
+INSERT zN8 number
+END
+INSERT i_ string
+INSERT a number
+INSERT vcgF string
+INSERT yX string
+ASSIGN e9o 'BdFy'
+INSERT zJx6EW number
+INSERT o string
+u5BP oylQ
+INSERT qcC1 string
+END
+RPRINT
+LOOKUP vcgF

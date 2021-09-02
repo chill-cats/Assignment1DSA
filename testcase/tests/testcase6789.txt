@@ -1,0 +1,4 @@
+INSERT kGwL number
+LOOKUP kGwL
+INSERT jK number
+INSERT r string

@@ -1,0 +1,8 @@
+INSERT g number
+INSERT yKN_ string
+END
+END
+INSERT yJAX number
+LOOKUP yJAX
+INSERT g5vwoT number
+cz d

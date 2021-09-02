@@ -1,0 +1,38 @@
+BEGIN
+INSERT b6miDw number
+INSERT eFWM8 string
+INSERT jPeq9 string
+PRINT
+LOOKUP b6miDw
+INSERT mVrNnW string
+INSERT yt number
+INSERT pOS string
+INSERT fj string
+RPRINT
+INSERT l2H0Sl string
+INSERT woe number
+LOOKUP yt
+END
+INSERT jl_ number
+INSERT w9NF string
+RPRINT
+INSERT k2Zu number
+INSERT lSW number
+END
+INSERT s6lwv string
+INSERT l string
+INSERT ch string
+LOOKUP k2Zu
+INSERT s90r number
+INSERT xEeVmr number
+INSERT eP string
+LOOKUP eFWM8
+INSERT d string
+INSERT d5 number
+ASSIGN lSW 581
+INSERT d number
+RPRINT
+LOOKUP l
+INSERT zzW1m string
+INSERT uqQ string
+LOOKUP phy

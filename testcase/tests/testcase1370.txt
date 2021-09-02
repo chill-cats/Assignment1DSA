@@ -1,0 +1,11 @@
+ASSIGN gQEu0y 1213
+INSERT fm0bL number
+INSERT diKfT7 number
+ASSIGN diKfT7 'z'
+INSERT qvf string
+INSERT wxs0 number
+INSERT w number
+eVdBf f_AMw
+LOOKUP wxs0
+INSERT eupt number
+LOOKUP diKfT7

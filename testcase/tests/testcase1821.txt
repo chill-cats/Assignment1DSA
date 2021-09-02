@@ -1,0 +1,40 @@
+PRINT
+INSERT vjLOH number
+ASSIGN vjLOH 904
+INSERT c string
+INSERT g number
+o9Nyz gnqlN
+LOOKUP vjLOH
+INSERT pzqlJC string
+INSERT i string
+INSERT gOSD_Q string
+INSERT i number
+ASSIGN gOSD_Q c
+INSERT yyNh string
+fRw m82
+INSERT cE2B number
+INSERT rv7fvy string
+cqMo t3TFV
+INSERT i string
+INSERT iOYt number
+INSERT j number
+INSERT pGAmm6 number
+INSERT qbrDD number
+INSERT grfdhu string
+PRINT
+INSERT pP28A string
+bVm t
+or3en w2
+INSERT xmgfu3 number
+INSERT rKlv string
+INSERT e0HFW number
+INSERT ulCul number
+INSERT iS string
+ASSIGN yyNh '47'
+INSERT lXILb number
+INSERT kl string
+wmT4nZ q0ODS
+BEGIN
+INSERT kSklKw string
+INSERT x number
+RPRINT

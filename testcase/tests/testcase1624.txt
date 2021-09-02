@@ -1,0 +1,17 @@
+RPRINT
+aYo9DL kO
+INSERT tFhf number
+RPRINT
+INSERT dQhV7x number
+INSERT c string
+BEGIN
+LOOKUP c
+INSERT dXzV string
+INSERT fcYrd string
+INSERT aVxuM number
+RPRINT
+INSERT rQX string
+INSERT g string
+INSERT e string
+BEGIN
+END

@@ -1,0 +1,29 @@
+INSERT z7g number
+LOOKUP z7g
+INSERT sfQb5 number
+INSERT ji number
+INSERT c2XCI string
+END
+PRINT
+INSERT l number
+BEGIN
+INSERT fOZFgz string
+ASSIGN c2XCI z7g
+INSERT sfamU number
+INSERT luX string
+INSERT ss900 string
+INSERT lzJ string
+PRINT
+INSERT a number
+PRINT
+PRINT
+INSERT xaYq number
+LOOKUP sfamU
+INSERT uj_Y2 string
+LOOKUP luX
+PRINT
+fiy j
+INSERT acT string
+INSERT kYLmE number
+ASSIGN kYLmE 'g'
+END

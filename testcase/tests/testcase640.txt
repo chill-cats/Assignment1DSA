@@ -1,0 +1,5 @@
+INSERT gTtfY number
+INSERT t0uSL3 number
+BEGIN
+PRINT
+INSERT tZ8 string

@@ -1,0 +1,24 @@
+INSERT w1aF string
+sKj eSvs
+LOOKUP w1aF
+ASSIGN w1aF 60
+ASSIGN w1aF w1aF
+i0FaiX uUcHVf
+BEGIN
+END
+INSERT u string
+PRINT
+LOOKUP w1aF
+INSERT sXt string
+INSERT ji string
+INSERT yEVkt7 number
+INSERT xn string
+INSERT i number
+INSERT k number
+RPRINT
+INSERT aNJs string
+INSERT fXP number
+END
+INSERT d string
+INSERT jcbW string
+INSERT afB9S string

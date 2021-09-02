@@ -1,0 +1,27 @@
+BEGIN
+INSERT eI number
+ASSIGN eI eI
+INSERT bq string
+INSERT y4 string
+INSERT odF number
+BEGIN
+INSERT n5 string
+INSERT m number
+INSERT iZ number
+INSERT ii string
+INSERT i7zU6b string
+INSERT piF string
+INSERT gmxhj number
+BEGIN
+INSERT ujJ string
+INSERT kn4 string
+BEGIN
+INSERT euwl8U number
+INSERT wZW string
+INSERT k14m number
+ASSIGN ii 1011
+PRINT
+PRINT
+INSERT fPgi string
+INSERT l8 number
+INSERT zf0 string

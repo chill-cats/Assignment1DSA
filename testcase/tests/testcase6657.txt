@@ -1,0 +1,7 @@
+LOOKUP bbMAg
+INSERT jwg number
+LOOKUP jwg
+INSERT b_ string
+INSERT j number
+END
+END

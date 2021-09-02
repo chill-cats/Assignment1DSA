@@ -1,0 +1,25 @@
+PRINT
+INSERT uojIz string
+BEGIN
+INSERT wz1k number
+INSERT i string
+INSERT y5gvH number
+INSERT cPRET number
+INSERT c7yilM number
+LOOKUP i
+INSERT aErw number
+INSERT c string
+END
+LOOKUP uojIz
+INSERT ttxF number
+RPRINT
+INSERT afS string
+INSERT e string
+RPRINT
+INSERT sK4_ number
+INSERT ja number
+ASSIGN e e
+LOOKUP c7yilM
+END
+INSERT qrpiDO string
+ASSIGN wz1k qrpiDO

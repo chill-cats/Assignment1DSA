@@ -1,0 +1,37 @@
+INSERT uaV8CD string
+ASSIGN uaV8CD 1158
+INSERT kTfJ number
+INSERT q9eE string
+INSERT yxDu6 number
+PRINT
+RPRINT
+INSERT r_4 string
+INSERT uXzs string
+INSERT vhBY string
+RPRINT
+END
+INSERT yM9 number
+PRINT
+INSERT lP string
+INSERT tkbAPz string
+INSERT du number
+RPRINT
+END
+BEGIN
+INSERT jS string
+i b1uE
+LOOKUP jS
+INSERT c string
+PRINT
+BEGIN
+INSERT n string
+INSERT qGHRR number
+END
+INSERT o string
+aNGZ7l a
+INSERT qrcW2 number
+INSERT qrGV string
+INSERT fH number
+INSERT u4o number
+INSERT qD string
+INSERT d number

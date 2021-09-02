@@ -1,0 +1,14 @@
+INSERT oL string
+ASSIGN oL 'toLce'
+INSERT n string
+hGE e
+INSERT lS2h2 string
+PRINT
+INSERT xb9MS string
+RPRINT
+INSERT sQrNdP number
+INSERT eAQS number
+kb hBnbS1
+END
+INSERT m3b number
+BEGIN

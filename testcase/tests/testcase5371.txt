@@ -1,0 +1,30 @@
+RPRINT
+INSERT svU number
+INSERT bgwQxm string
+INSERT l0Km number
+INSERT xG number
+INSERT l string
+INSERT yjsS number
+END
+INSERT j string
+RPRINT
+INSERT vf number
+INSERT t0l string
+PRINT
+INSERT a9 string
+INSERT tkf string
+END
+INSERT jZv string
+INSERT yu number
+BEGIN
+INSERT wHdDD number
+BEGIN
+INSERT ezhqfA string
+INSERT hZysc number
+LOOKUP l
+INSERT umMFy number
+INSERT xlSyc number
+INSERT n string
+PRINT
+PRINT
+INSERT l number

@@ -1,0 +1,8 @@
+INSERT d4e string
+l fj
+INSERT i string
+LOOKUP i
+ASSIGN i 65
+END
+LOOKUP i
+v ehh

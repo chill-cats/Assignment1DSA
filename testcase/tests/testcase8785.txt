@@ -1,0 +1,10 @@
+INSERT a5 number
+INSERT k3c number
+INSERT cmbA string
+p aj3o
+END
+INSERT a string
+LOOKUP q
+INSERT h1 string
+LOOKUP cmbA
+INSERT xaBn string

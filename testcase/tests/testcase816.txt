@@ -1,0 +1,24 @@
+INSERT rNXZoa number
+INSERT iXU4iX string
+INSERT y4 string
+INSERT j8 number
+LOOKUP rNXZoa
+INSERT a number
+PRINT
+INSERT ixYCW number
+INSERT fs string
+PRINT
+INSERT zHqI number
+INSERT fCeC1 number
+o mVUXJ
+INSERT a6c number
+ASSIGN j8 'ows4z'
+INSERT c string
+INSERT a string
+INSERT cp string
+INSERT xn string
+PRINT
+ASSIGN fCeC1 xn
+INSERT g number
+LOOKUP a
+INSERT us number

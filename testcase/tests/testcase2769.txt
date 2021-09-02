@@ -1,0 +1,32 @@
+INSERT xu0VS string
+END
+INSERT z_2 string
+INSERT eC number
+PRINT
+INSERT eFg string
+INSERT yIKg string
+INSERT zwbK8 string
+INSERT vED string
+aW8 j
+INSERT m number
+INSERT q number
+INSERT lF0z9X string
+INSERT dn number
+INSERT wdE number
+INSERT vGX4 number
+INSERT ts string
+RPRINT
+INSERT z5_ string
+INSERT msR6R number
+INSERT oAxH number
+END
+END
+BEGIN
+INSERT fGuv6 string
+INSERT gjC number
+LOOKUP gjC
+INSERT oJnC number
+INSERT bQxHF string
+INSERT jv string
+INSERT g_qkF4 number
+INSERT dXa9k number

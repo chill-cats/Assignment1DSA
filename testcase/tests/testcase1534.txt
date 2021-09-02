@@ -1,0 +1,22 @@
+LOOKUP dyrb
+LOOKUP pe
+END
+ASSIGN y 713
+INSERT r string
+INSERT u2 number
+INSERT qA string
+INSERT l string
+INSERT uhv7 number
+BEGIN
+RPRINT
+LOOKUP uhv7
+INSERT i number
+INSERT dsfo string
+INSERT d3 string
+INSERT aC number
+INSERT sT0D string
+INSERT gzE number
+PRINT
+INSERT dRyk number
+INSERT ltM string
+INSERT gqRFC0 number

@@ -1,0 +1,6 @@
+PRINT
+INSERT n number
+INSERT r1 number
+INSERT x number
+INSERT nO3 number
+LOOKUP r1

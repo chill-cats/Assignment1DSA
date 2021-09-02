@@ -1,0 +1,14 @@
+PRINT
+INSERT emO9 string
+INSERT npx_T number
+uMD0u o
+INSERT njoUJ0 string
+ASSIGN npx_T 'rMGx1'
+LOOKUP emO9
+END
+INSERT ulG string
+ASSIGN kkApn3 'oCAZf'
+INSERT u0AR7 string
+bZK zRl
+INSERT d8 number
+PRINT

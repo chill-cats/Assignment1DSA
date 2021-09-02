@@ -1,0 +1,11 @@
+ASSIGN jT 722
+l bJuU
+INSERT aMiZ number
+INSERT kep string
+e4 tIYT
+BEGIN
+INSERT a58 number
+INSERT r1 number
+LOOKUP aMiZ
+RPRINT
+INSERT s_hO number

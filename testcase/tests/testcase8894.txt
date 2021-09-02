@@ -1,0 +1,10 @@
+LOOKUP g12
+PRINT
+INSERT ixjB number
+INSERT lv9 number
+INSERT ry_n6E number
+INSERT p number
+INSERT oPq83Z number
+INSERT uDzP number
+ASSIGN lv9 919
+RPRINT

@@ -1,0 +1,14 @@
+INSERT dGlkL6 string
+BEGIN
+INSERT hNb03H string
+INSERT l8Y07 string
+END
+INSERT ni number
+PRINT
+ASSIGN l8Y07 dGlkL6
+END
+INSERT v number
+LOOKUP hNb03H
+INSERT x string
+PRINT
+INSERT n_8Z string

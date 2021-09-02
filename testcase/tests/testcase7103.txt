@@ -1,0 +1,32 @@
+INSERT otgnh string
+INSERT nZ58 string
+INSERT iSEq number
+INSERT uV0s2 string
+RPRINT
+INSERT nRU8 number
+PRINT
+BEGIN
+INSERT gL string
+LOOKUP otgnh
+END
+RPRINT
+c1CnJ zxeA
+aknJ zZg
+INSERT m323 string
+INSERT p4zWV number
+PRINT
+PRINT
+INSERT qmsslt string
+INSERT tGF string
+INSERT kcbJ7p string
+INSERT fljndM string
+INSERT nMyB string
+END
+INSERT zI string
+ASSIGN uV0s2 iSEq
+INSERT qEBwp number
+BEGIN
+INSERT zAI string
+RPRINT
+PRINT
+ASSIGN kcbJ7p 'PgGAa'

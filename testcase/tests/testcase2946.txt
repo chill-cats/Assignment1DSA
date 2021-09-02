@@ -1,0 +1,34 @@
+INSERT h number
+RPRINT
+LOOKUP h
+INSERT cpV string
+INSERT hM0W6B string
+BEGIN
+INSERT iwAFMu number
+PRINT
+INSERT pL0L string
+INSERT z8MdqH string
+INSERT r number
+END
+INSERT y48 string
+LOOKUP cpV
+BEGIN
+INSERT cngJx number
+BEGIN
+BEGIN
+INSERT gI4_ string
+INSERT qgQ number
+INSERT h string
+LOOKUP qgQ
+INSERT a18P string
+INSERT ycRA string
+RPRINT
+INSERT pCxStA number
+INSERT rX string
+BEGIN
+INSERT vzw number
+INSERT gRQe string
+INSERT sw6J number
+INSERT zx number
+INSERT heP26J number
+LOOKUP pL0L

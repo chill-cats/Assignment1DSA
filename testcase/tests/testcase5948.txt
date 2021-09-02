@@ -1,0 +1,26 @@
+INSERT d6Zcu string
+ASSIGN d6Zcu 'Y'
+LOOKUP d6Zcu
+ASSIGN d6Zcu d6Zcu
+m re
+INSERT y4sG string
+gI8 d
+END
+INSERT mSu number
+INSERT rLYn string
+INSERT j string
+INSERT frL number
+INSERT zoybl number
+BEGIN
+PRINT
+INSERT okUIPJ number
+INSERT c5_ number
+INSERT gzsy number
+INSERT a91x5 string
+fBP jWpfpL
+RPRINT
+INSERT c number
+INSERT f string
+INSERT dX string
+INSERT h3npU2 string
+rcux hzXI

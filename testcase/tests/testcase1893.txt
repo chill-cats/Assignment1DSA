@@ -1,0 +1,8 @@
+INSERT lb number
+INSERT m8kN5 number
+RPRINT
+BEGIN
+INSERT k number
+INSERT vx_Bc number
+INSERT dbX number
+END

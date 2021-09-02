@@ -1,0 +1,28 @@
+LOOKUP ld_
+RPRINT
+PRINT
+INSERT yuMe7 number
+INSERT tWac number
+INSERT d3In string
+INSERT l1 string
+INSERT z0ZzN string
+INSERT kMVd number
+END
+INSERT s string
+urkmbZ g
+END
+INSERT zSgL number
+INSERT pODo string
+INSERT jvyJdb string
+INSERT f number
+INSERT rfj number
+BEGIN
+INSERT zkr85 number
+RPRINT
+INSERT lu string
+PRINT
+INSERT lQVKm string
+LOOKUP zkr85
+INSERT q3QqC string
+INSERT weE number
+INSERT pWa number

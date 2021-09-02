@@ -1,0 +1,30 @@
+PRINT
+INSERT rmmRo string
+imFdw xxv35R
+sP5 l9Ax
+LOOKUP rmmRo
+END
+INSERT aK number
+INSERT pe number
+INSERT m9L number
+INSERT c number
+END
+INSERT oaco string
+LOOKUP m9L
+INSERT j number
+LOOKUP rmmRo
+PRINT
+RPRINT
+INSERT njF1Y number
+INSERT qR2 string
+INSERT cNSww string
+LOOKUP pe
+INSERT h string
+INSERT jDq number
+INSERT xTXY string
+INSERT gIan string
+END
+RPRINT
+INSERT mmSJW string
+END
+INSERT tgyRo number

@@ -1,0 +1,32 @@
+INSERT b number
+ASSIGN b 353
+INSERT h string
+ASSIGN b b
+LOOKUP h
+INSERT n number
+INSERT cs313 number
+INSERT skx number
+INSERT nEyy string
+INSERT pB number
+END
+INSERT jLx number
+INSERT lKDlbg number
+INSERT bK_y number
+RPRINT
+INSERT gpldi number
+INSERT g6F number
+uUsKM t8IARL
+INSERT jXehS string
+INSERT xy8fQ string
+INSERT x string
+INSERT oYqWqd number
+INSERT ios string
+PRINT
+INSERT wI8Hw string
+RPRINT
+INSERT adi number
+INSERT bGUluq string
+INSERT cn string
+INSERT dm_SW string
+ASSIGN jXehS jLx
+aoAGQ_ hx6qpl

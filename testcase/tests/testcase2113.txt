@@ -1,0 +1,26 @@
+RPRINT
+LOOKUP oz4Soe
+PRINT
+INSERT u number
+INSERT f5 string
+INSERT h8wt string
+BEGIN
+INSERT m8XzC number
+INSERT jLan9C string
+LOOKUP u
+INSERT w string
+INSERT eVdc string
+INSERT xM9Lx number
+INSERT v number
+RPRINT
+INSERT nj5S number
+INSERT yK number
+INSERT o9 number
+INSERT vOwl4 number
+INSERT vGEMs string
+INSERT r string
+INSERT m1MZPF number
+INSERT fv number
+INSERT r number
+INSERT vp number
+BEGIN

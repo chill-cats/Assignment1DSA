@@ -1,0 +1,6 @@
+INSERT zh string
+PRINT
+INSERT gPx number
+INSERT p number
+INSERT ugoz8T string
+a wq

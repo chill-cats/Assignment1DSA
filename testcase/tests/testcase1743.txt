@@ -1,0 +1,25 @@
+INSERT lHda string
+cP d7nVdA
+INSERT s_6NRG string
+INSERT sb number
+INSERT kFcp string
+INSERT lWw number
+scaj mR
+INSERT y8C_j number
+INSERT aI9uUF number
+END
+INSERT nDj_ number
+INSERT xuI string
+INSERT fN number
+PRINT
+LOOKUP sb
+END
+PRINT
+INSERT ta number
+INSERT nw string
+ASSIGN y8C_j 70
+INSERT uEn1d7 string
+bS do2Z
+INSERT masAKc string
+PRINT
+RPRINT

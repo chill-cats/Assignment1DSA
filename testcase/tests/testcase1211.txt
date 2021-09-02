@@ -1,0 +1,10 @@
+INSERT o1 number
+INSERT dDpWQ string
+BEGIN
+RPRINT
+INSERT ku8 number
+INSERT ag number
+PRINT
+INSERT hu_sVF number
+END
+END

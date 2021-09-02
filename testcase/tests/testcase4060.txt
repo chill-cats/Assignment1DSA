@@ -1,0 +1,29 @@
+INSERT hto3 number
+END
+INSERT n1LyuV number
+INSERT zt string
+LOOKUP hto3
+rhKSE y
+INSERT nlLr string
+INSERT gG0Yl number
+LOOKUP n1LyuV
+INSERT jm number
+ASSIGN gG0Yl 'O'
+INSERT jQ string
+kkS_6Y tE83
+INSERT t4vwf6 number
+LOOKUP gG0Yl
+BEGIN
+g3 aZwvxn
+RPRINT
+INSERT w6TRl number
+PRINT
+INSERT stLEa number
+INSERT mZn string
+PRINT
+INSERT xgfMmV number
+PRINT
+PRINT
+RPRINT
+INSERT xgy5 number
+INSERT h string

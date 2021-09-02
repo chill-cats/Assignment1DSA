@@ -1,0 +1,25 @@
+INSERT q5 string
+INSERT gYktM number
+END
+ASSIGN q5 q5
+ASSIGN mE3GF gYktM
+INSERT hYQT2w string
+INSERT d string
+p7K7 z
+ASSIGN jpv 637
+INSERT xoqoO number
+INSERT u number
+PRINT
+INSERT jPkWX number
+INSERT x string
+INSERT dCt number
+INSERT km number
+LOOKUP q5
+INSERT hbc2h string
+BEGIN
+END
+INSERT aVS string
+INSERT x1Hrlb string
+INSERT a5nt number
+INSERT nr number
+INSERT jNM number

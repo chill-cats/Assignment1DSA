@@ -1,0 +1,38 @@
+END
+INSERT aof string
+BEGIN
+LOOKUP aof
+INSERT o6iSV string
+INSERT vrtn string
+RPRINT
+INSERT v number
+INSERT moS number
+LOOKUP v
+PRINT
+u3HA7K ktLU3J
+INSERT c69K string
+qf98 oVi
+INSERT uO string
+INSERT slK number
+ASSIGN slK 'kS'
+INSERT ttha number
+RPRINT
+poJ8 b0xy4
+INSERT s number
+se_iD xob
+INSERT j string
+INSERT km5A number
+INSERT seJw string
+INSERT x number
+INSERT jfK string
+PRINT
+INSERT jxb number
+RPRINT
+INSERT aO string
+INSERT hf9dv number
+INSERT p string
+ASSIGN j 'Zfxb'
+BEGIN
+INSERT ll3o8 string
+INSERT bbeAQ string
+RPRINT

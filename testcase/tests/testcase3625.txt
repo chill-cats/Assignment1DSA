@@ -1,0 +1,26 @@
+INSERT dezhn string
+INSERT cvJj number
+INSERT r7zew number
+INSERT t0g string
+INSERT z9 number
+END
+PRINT
+LOOKUP cvJj
+eV wEFW
+END
+BEGIN
+BEGIN
+RPRINT
+BEGIN
+INSERT rMU number
+RPRINT
+INSERT d number
+INSERT fw4l number
+INSERT xk2TM number
+INSERT dUAHaa string
+ASSIGN fw4l 'By'
+BEGIN
+PRINT
+INSERT mM number
+ASSIGN dUAHaa '3'
+BEGIN

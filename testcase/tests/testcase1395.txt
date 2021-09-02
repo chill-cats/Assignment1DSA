@@ -1,0 +1,31 @@
+ASSIGN tZ1 490
+INSERT q number
+LOOKUP q
+INSERT tA_pJ string
+INSERT bVcn string
+y5rBJe x
+INSERT atY string
+INSERT i string
+END
+INSERT vfsZ string
+INSERT l number
+INSERT m3h string
+INSERT l number
+LOOKUP bVcn
+RPRINT
+INSERT xFgu string
+INSERT ePmt0m string
+INSERT g string
+INSERT qc005u number
+PRINT
+INSERT a6Nc number
+INSERT zqFY string
+INSERT jxTe number
+j yC2sur
+END
+LOOKUP o
+BEGIN
+INSERT lvM92e string
+INSERT i string
+INSERT uS2am string
+RPRINT

@@ -1,0 +1,26 @@
+END
+INSERT u8dpNh string
+ASSIGN u8dpNh u8dpNh
+INSERT tkju8v string
+INSERT c string
+INSERT mNc3g number
+INSERT m4M0i number
+PRINT
+END
+jT oND
+INSERT g number
+INSERT qB number
+INSERT oxUV string
+LOOKUP u8dpNh
+ASSIGN u8dpNh g
+END
+INSERT deCNM number
+PRINT
+INSERT d string
+INSERT tV string
+INSERT sDG97 string
+INSERT uNZXxz string
+LOOKUP sDG97
+INSERT dOO4 number
+INSERT gYQwS string
+BEGIN

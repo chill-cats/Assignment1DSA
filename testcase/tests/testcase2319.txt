@@ -1,0 +1,36 @@
+INSERT wjKe04 number
+INSERT lA string
+RPRINT
+INSERT nVk number
+INSERT lnZ number
+INSERT v number
+INSERT gz string
+INSERT rZ string
+PRINT
+b9e q
+INSERT de number
+INSERT dbhk string
+RPRINT
+PRINT
+LOOKUP rZ
+aGA84 wM1
+INSERT wWE string
+PRINT
+END
+RPRINT
+INSERT xhCt3 string
+INSERT uEcvj number
+LOOKUP uEcvj
+r z
+END
+PRINT
+INSERT jF string
+LOOKUP dbhk
+INSERT q3hanR number
+INSERT l string
+INSERT rZAp string
+ASSIGN wjKe04 330
+INSERT c number
+LOOKUP xhCt3
+INSERT puSjL string
+INSERT obh3 string

@@ -1,0 +1,29 @@
+INSERT nqJ number
+PRINT
+PRINT
+INSERT x0MaWq number
+LOOKUP x0MaWq
+PRINT
+RPRINT
+END
+RPRINT
+INSERT tehp string
+INSERT a4FDr8 string
+ASSIGN tehp 65
+INSERT d1uFwI number
+INSERT o4Jd string
+BEGIN
+END
+gl zmI
+ASSIGN a4FDr8 nqJ
+LOOKUP o4Jd
+ASSIGN o4Jd 802
+BEGIN
+LOOKUP d1uFwI
+LOOKUP d1uFwI
+INSERT vsx1k string
+INSERT u6USS number
+INSERT mbT97 string
+INSERT a string
+END
+INSERT bcfAeo string

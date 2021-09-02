@@ -1,0 +1,28 @@
+ASSIGN o_ 'B'
+PRINT
+INSERT jg625 number
+INSERT hr string
+INSERT wUsCD number
+INSERT d string
+RPRINT
+INSERT g4cH number
+PRINT
+INSERT z string
+INSERT cZB number
+INSERT w string
+INSERT x4 number
+ASSIGN jg625 64
+cl n9G
+INSERT epo number
+INSERT i number
+INSERT fnQ6t string
+LOOKUP i
+INSERT t2 string
+INSERT uxLZ string
+INSERT t string
+INSERT wGC number
+INSERT hio string
+INSERT c string
+INSERT y string
+INSERT oN0J string
+INSERT my string

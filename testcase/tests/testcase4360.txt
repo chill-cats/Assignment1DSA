@@ -1,0 +1,33 @@
+INSERT xKsz string
+INSERT cS number
+INSERT wg number
+LOOKUP wg
+INSERT vN7Dk number
+INSERT eIe__ string
+INSERT s string
+ASSIGN wg 711
+INSERT jo number
+INSERT sZ_ string
+LOOKUP eIe__
+PRINT
+INSERT v string
+INSERT neYn number
+INSERT o number
+INSERT i0 number
+INSERT nc string
+END
+END
+LOOKUP vN7Dk
+BEGIN
+END
+INSERT xQXr number
+INSERT tMUf8E string
+INSERT bf2T number
+PRINT
+INSERT twG number
+INSERT vp string
+END
+nzHibR lh0iUf
+txGhuS gMEU
+LOOKUP i0
+RPRINT

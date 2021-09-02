@@ -1,0 +1,14 @@
+aBKtz aQSG
+LOOKUP tir94
+INSERT qp6u number
+RPRINT
+RPRINT
+LOOKUP qp6u
+INSERT ievt number
+INSERT w7bD string
+INSERT rh number
+INSERT o string
+BEGIN
+INSERT yN string
+INSERT dhFXI string
+END

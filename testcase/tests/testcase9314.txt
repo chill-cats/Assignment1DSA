@@ -1,0 +1,12 @@
+INSERT uT6YO string
+INSERT e number
+END
+INSERT f string
+INSERT jrcsLD string
+INSERT c string
+END
+END
+INSERT ut number
+INSERT r number
+PRINT
+e leTp

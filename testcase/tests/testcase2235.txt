@@ -1,0 +1,39 @@
+INSERT e string
+PRINT
+INSERT paI6tW string
+RPRINT
+INSERT g5ml number
+RPRINT
+END
+PRINT
+INSERT o string
+INSERT z8 string
+INSERT cG59Y number
+INSERT avQ string
+ASSIGN z8 1127
+LOOKUP avQ
+INSERT cC string
+LOOKUP o
+INSERT ew string
+INSERT dNQ_0 number
+INSERT w_ number
+INSERT fn6iu string
+INSERT wQDVm string
+INSERT m7cpnS string
+INSERT cAWT0R string
+INSERT hwX string
+INSERT pEjC string
+INSERT gbvOI string
+INSERT rEJL string
+a szx4
+dnad ss3
+INSERT obP number
+RPRINT
+ASSIGN pEjC o
+INSERT uDq1CI number
+INSERT yte number
+INSERT s2 number
+END
+INSERT t string
+INSERT tBQm9 string
+PRINT

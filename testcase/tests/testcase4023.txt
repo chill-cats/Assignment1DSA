@@ -1,0 +1,28 @@
+l5 nkprx4
+INSERT mbSc number
+INSERT f number
+ASSIGN f mbSc
+INSERT u number
+INSERT yDXBhJ string
+INSERT bAWIOo string
+END
+END
+INSERT cbU number
+INSERT qxHc string
+INSERT uZuvC string
+INSERT z string
+END
+INSERT vjwaX0 string
+INSERT j number
+INSERT y string
+INSERT jhVw6 number
+INSERT ePPi string
+INSERT h number
+INSERT dJc string
+INSERT e55 string
+INSERT res string
+INSERT dDoyg string
+BEGIN
+PRINT
+LOOKUP dJc
+INSERT w number

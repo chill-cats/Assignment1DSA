@@ -1,0 +1,20 @@
+INSERT itxkbG string
+ASSIGN itxkbG 'j0Ayg'
+INSERT cY string
+ASSIGN itxkbG itxkbG
+LOOKUP itxkbG
+LOOKUP cY
+LOOKUP itxkbG
+PRINT
+INSERT q number
+INSERT hZ5KL number
+INSERT a4 number
+INSERT ksqJ5 number
+INSERT sVp number
+PRINT
+END
+RPRINT
+INSERT fp6lW number
+INSERT bSyyKn string
+INSERT ep number
+INSERT z0Z number

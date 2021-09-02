@@ -1,0 +1,14 @@
+INSERT n2hR string
+ASSIGN n2hR 703
+INSERT kt3i number
+INSERT g1e number
+INSERT qIwc3P string
+INSERT vd string
+INSERT v number
+BEGIN
+INSERT pC string
+INSERT e4Rw string
+INSERT vvg number
+PRINT
+END
+ASSIGN qIwc3P 'vbU'

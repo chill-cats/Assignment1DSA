@@ -1,0 +1,30 @@
+INSERT yh number
+INSERT p string
+INSERT s string
+INSERT pbvxc8 string
+INSERT yDoVF9 number
+INSERT tUj1H string
+INSERT kM string
+ASSIGN yDoVF9 'i'
+END
+BEGIN
+INSERT gnDmBc string
+INSERT n number
+END
+INSERT f22V string
+PRINT
+INSERT xm2He number
+f rq
+INSERT yofN9J number
+PRINT
+RPRINT
+ASSIGN s 'asVa'
+INSERT n number
+INSERT gN0 number
+INSERT bMjPVy number
+INSERT j string
+RPRINT
+INSERT sHn7K string
+ASSIGN gN0 1175
+INSERT kjCO number
+INSERT rM string

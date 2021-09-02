@@ -1,0 +1,39 @@
+INSERT w number
+INSERT gkNphm number
+END
+INSERT sUzB number
+INSERT wmvF0 string
+BEGIN
+INSERT vUw7Y number
+PRINT
+INSERT iWSo string
+PRINT
+INSERT rJ1BKl number
+ASSIGN w 'p'
+INSERT hN string
+END
+INSERT dqz6H number
+INSERT suWh number
+RPRINT
+LOOKUP iWSo
+INSERT k22 string
+END
+END
+BEGIN
+INSERT iuuGFe string
+INSERT gF number
+LOOKUP sUzB
+BEGIN
+BEGIN
+ASSIGN w 'm7'
+INSERT ee7 string
+INSERT hZT number
+BEGIN
+INSERT efxig number
+INSERT i6Na85 number
+RPRINT
+INSERT vHnlb string
+END
+INSERT i number
+INSERT msm string
+PRINT

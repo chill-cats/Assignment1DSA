@@ -1,0 +1,23 @@
+INSERT lo string
+iSpR mGB
+INSERT xu7DR number
+RPRINT
+END
+INSERT sNy string
+INSERT ucqG number
+INSERT lCgPMf string
+INSERT mo09v number
+LOOKUP lCgPMf
+INSERT t string
+INSERT olzeMh number
+INSERT s number
+INSERT txiWHs number
+INSERT xuR string
+LOOKUP txiWHs
+INSERT xvFw number
+INSERT hLs string
+INSERT piqcG string
+INSERT l number
+INSERT ruoE0 string
+LOOKUP mo09v
+ASSIGN l 'huw'

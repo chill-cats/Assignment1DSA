@@ -1,0 +1,21 @@
+INSERT l2BU string
+INSERT tbw5 number
+INSERT gdU number
+edOO b7fRcH
+LOOKUP gdU
+INSERT b8i string
+INSERT ee string
+INSERT aT number
+RPRINT
+LOOKUP tbw5
+ASSIGN tbw5 l2BU
+INSERT oKIZo string
+INSERT aVSres string
+RPRINT
+RPRINT
+INSERT ds number
+INSERT hdCZ5X string
+INSERT cEX6nV string
+INSERT uYqeF number
+LOOKUP ee
+INSERT zbLd8v number

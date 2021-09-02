@@ -1,0 +1,22 @@
+INSERT tu string
+ASSIGN tu 'KZ5 X'
+PRINT
+ASSIGN tu 'r'
+BEGIN
+INSERT rEFR5C number
+INSERT kf string
+INSERT r number
+INSERT g string
+INSERT biZ string
+INSERT ubtJF string
+INSERT yeOWd string
+INSERT m string
+END
+INSERT aoNog string
+LOOKUP m
+INSERT sj8ag string
+INSERT g string
+INSERT ovkSoz string
+INSERT ppya number
+INSERT ce number
+BEGIN

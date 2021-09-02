@@ -1,0 +1,40 @@
+INSERT zL82 string
+INSERT a1fqGr number
+ASSIGN zL82 1164
+INSERT bdojW string
+RPRINT
+LOOKUP zL82
+duAz sTWh
+PRINT
+RPRINT
+INSERT j number
+LOOKUP zL82
+INSERT j6cG string
+INSERT n8emGa string
+LOOKUP a1fqGr
+INSERT f9atHU string
+INSERT z9B0v string
+INSERT ebafq string
+INSERT uJA string
+ASSIGN uJA 585
+INSERT ndUSIu number
+PRINT
+BEGIN
+INSERT sR492 string
+END
+INSERT dh_2dd number
+ASSIGN ebafq 963
+RPRINT
+INSERT yH string
+LOOKUP uJA
+INSERT w number
+INSERT bq5G8 number
+INSERT fxKwY string
+INSERT qB number
+INSERT bGP string
+RPRINT
+END
+INSERT wEh number
+INSERT vNl string
+INSERT q7CY number
+INSERT yXWgF number

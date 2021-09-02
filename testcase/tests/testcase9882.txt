@@ -1,0 +1,32 @@
+BEGIN
+LOOKUP v
+END
+INSERT tbw string
+INSERT xPdd string
+BEGIN
+INSERT c3hFi string
+LOOKUP c3hFi
+INSERT w number
+INSERT yv number
+INSERT zLmu number
+LOOKUP tbw
+INSERT asFB8o number
+INSERT afCi number
+INSERT k6s number
+BEGIN
+RPRINT
+INSERT ah string
+fOwaKZ g7geIS
+INSERT nJPk string
+INSERT bncUC number
+INSERT fi string
+RPRINT
+INSERT hKvZ number
+INSERT u number
+PRINT
+INSERT hAzhsn number
+BEGIN
+u jaFi
+INSERT j42yB string
+INSERT y2OC6 string
+INSERT dsu number

@@ -1,0 +1,8 @@
+INSERT eg string
+INSERT w string
+LOOKUP eg
+INSERT csr number
+BEGIN
+cn7ep qR9
+INSERT v9c14 number
+INSERT bh string

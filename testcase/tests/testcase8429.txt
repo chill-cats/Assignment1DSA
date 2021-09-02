@@ -1,0 +1,33 @@
+PRINT
+INSERT uCc number
+INSERT q4d44l string
+PRINT
+INSERT sMpj4g number
+INSERT j string
+INSERT y1cbtN string
+PRINT
+e9 r
+INSERT lFf1_ number
+INSERT ekz number
+END
+INSERT jBYu number
+INSERT vgJ string
+INSERT m string
+LOOKUP q4d44l
+INSERT jg5 string
+INSERT dXXmS number
+ASSIGN y1cbtN dXXmS
+INSERT sR number
+INSERT fCls string
+END
+LOOKUP jg5
+ASSIGN fCls jBYu
+INSERT x7CjPD number
+INSERT tiDxI3 string
+INSERT n5pF string
+PRINT
+INSERT pIIGf string
+INSERT wnaarV number
+INSERT r3O string
+END
+INSERT rgbk_z string

@@ -1,0 +1,17 @@
+LOOKUP ae9Mq
+p dw
+INSERT w number
+INSERT n2 string
+INSERT l5 string
+LOOKUP n2
+INSERT jj number
+BEGIN
+INSERT mvbHLm number
+ASSIGN w 'Rm'
+INSERT x number
+INSERT v5 number
+INSERT y3fW string
+INSERT q4NUko number
+LOOKUP x
+ASSIGN jj 838
+LOOKUP mvbHLm

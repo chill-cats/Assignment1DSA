@@ -1,0 +1,31 @@
+PRINT
+INSERT y string
+ASSIGN y 391
+INSERT y_BLbl string
+PRINT
+INSERT uf number
+BEGIN
+INSERT o string
+INSERT f7Bb number
+END
+PRINT
+INSERT wu number
+INSERT w3zM1 string
+INSERT jRjT number
+BEGIN
+RPRINT
+LOOKUP y
+INSERT gv8D string
+INSERT aJO number
+PRINT
+INSERT kDGsQo string
+INSERT kI6XnV string
+cXS dJ5M9Z
+PRINT
+INSERT pv6h string
+tZbc b
+INSERT w73AtT number
+INSERT cGM string
+INSERT oK string
+INSERT vqE number
+END

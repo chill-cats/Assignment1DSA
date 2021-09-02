@@ -1,0 +1,20 @@
+INSERT ev string
+INSERT xsY string
+LOOKUP ev
+INSERT v string
+RPRINT
+INSERT wb_P string
+INSERT zB string
+RPRINT
+ASSIGN xsY 204
+PRINT
+INSERT yq number
+RPRINT
+INSERT t0H2 string
+INSERT np36f string
+INSERT kgvR string
+INSERT rXh number
+INSERT krqA number
+INSERT n string
+m iBc
+INSERT v number

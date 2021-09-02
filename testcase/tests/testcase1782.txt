@@ -1,0 +1,38 @@
+INSERT jj number
+BEGIN
+INSERT l5IzaI number
+INSERT s string
+INSERT qZkHS number
+INSERT ahZ string
+LOOKUP s
+INSERT e string
+INSERT m8H number
+INSERT k string
+INSERT snn string
+INSERT l1axaz number
+RPRINT
+INSERT zK string
+INSERT qR4x8 number
+ASSIGN zK 379
+INSERT ul0 string
+RPRINT
+INSERT wZU string
+INSERT iO string
+INSERT el string
+INSERT hRvSk string
+INSERT wAEV9 number
+INSERT oq4lSJ number
+INSERT i5uQfJ number
+INSERT wJdw number
+z_P f
+INSERT y number
+LOOKUP hRvSk
+END
+BEGIN
+tD dM
+INSERT u number
+INSERT ejHd string
+INSERT o string
+PRINT
+INSERT gfD8 string
+t lq6

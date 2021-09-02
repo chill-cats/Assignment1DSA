@@ -1,0 +1,40 @@
+INSERT qq string
+INSERT j79J number
+INSERT l number
+INSERT lj8yb string
+INSERT rRHE number
+INSERT btZ number
+INSERT np string
+INSERT aUo23 string
+INSERT kx3UV string
+PRINT
+ASSIGN lj8yb qq
+INSERT j string
+INSERT h94KbJ string
+INSERT mWg string
+INSERT zIb number
+INSERT hAx4X string
+INSERT qe string
+RPRINT
+INSERT eNMR string
+INSERT oItjs number
+sboJ_ dOBUB
+INSERT j string
+INSERT cO string
+INSERT kbiyX string
+INSERT v72V string
+INSERT cl string
+INSERT e7jus string
+INSERT a4 string
+INSERT yqWrf number
+INSERT oin96 number
+ASSIGN btZ 'Kwp7g'
+INSERT jhMR string
+INSERT opTpoL string
+INSERT kV number
+INSERT j string
+INSERT iv string
+INSERT c number
+RPRINT
+INSERT ujv number
+BEGIN

@@ -1,0 +1,9 @@
+INSERT cy number
+BEGIN
+END
+PRINT
+PRINT
+INSERT oY string
+INSERT oW1U number
+INSERT oreW string
+zU s

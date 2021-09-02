@@ -1,0 +1,12 @@
+BEGIN
+INSERT k1X number
+LOOKUP k1X
+END
+BEGIN
+INSERT cAI number
+INSERT i3Z string
+END
+BEGIN
+INSERT l3ymp string
+INSERT wD_ number
+INSERT th string

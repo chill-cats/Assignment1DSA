@@ -1,0 +1,22 @@
+INSERT ywP7xA string
+PRINT
+INSERT v3oHW string
+INSERT x63 string
+LOOKUP x63
+INSERT geL string
+INSERT s86Ri string
+BEGIN
+INSERT hSrwc number
+INSERT hM3rA number
+INSERT g string
+END
+RPRINT
+RPRINT
+INSERT ha number
+LOOKUP x63
+INSERT c string
+ASSIGN qGG geL
+INSERT zizkc number
+INSERT wAS3n string
+INSERT wJ6iPn number
+INSERT rG4675 string

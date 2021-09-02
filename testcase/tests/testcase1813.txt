@@ -1,0 +1,3 @@
+RPRINT
+LOOKUP qa4Iav
+LOOKUP ymXEz

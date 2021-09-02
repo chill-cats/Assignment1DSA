@@ -1,0 +1,37 @@
+INSERT onu8 string
+zXv fmzWaB
+INSERT f7xy number
+INSERT i string
+INSERT a string
+INSERT fQn number
+PRINT
+INSERT n8 number
+INSERT tDuSyr string
+ASSIGN onu8 1047
+INSERT eWKl1 number
+INSERT f number
+RPRINT
+INSERT yuQ9 string
+ude4x9 v73
+INSERT qp string
+RPRINT
+INSERT p string
+dXZ rIe_wC
+INSERT xpU number
+ASSIGN f7xy 'u'
+RPRINT
+PRINT
+INSERT izOpt string
+LOOKUP yuQ9
+INSERT gebnt string
+PRINT
+INSERT rT string
+INSERT p0zp string
+INSERT qS4yR number
+INSERT iD string
+INSERT and string
+INSERT gJ number
+END
+INSERT hx string
+END
+BEGIN

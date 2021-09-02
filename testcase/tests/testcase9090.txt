@@ -1,0 +1,32 @@
+BEGIN
+END
+INSERT sH number
+INSERT bxUJ string
+INSERT g number
+INSERT e7 string
+BEGIN
+INSERT uGR string
+END
+LOOKUP sH
+INSERT hwZk string
+RPRINT
+zaR qPX
+INSERT h number
+INSERT gc string
+INSERT e string
+INSERT d number
+ASSIGN e 'S'
+BEGIN
+RPRINT
+RPRINT
+LOOKUP h
+INSERT arx string
+ahN q19X3
+bl d
+INSERT g string
+INSERT ajZ number
+INSERT gRaC string
+BEGIN
+INSERT cB73c string
+INSERT m9yy number
+INSERT ucABo8 string

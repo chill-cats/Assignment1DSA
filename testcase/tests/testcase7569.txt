@@ -1,0 +1,36 @@
+INSERT ciZR string
+INSERT wq string
+INSERT ralpi number
+INSERT eayV string
+INSERT c7FUi string
+INSERT d number
+INSERT yyEj number
+END
+INSERT tD number
+INSERT cURk string
+INSERT f string
+INSERT dm7IHw number
+INSERT f number
+INSERT f number
+g5bph psd
+LOOKUP ciZR
+ASSIGN cURk 'NxQa'
+INSERT dfY8z number
+BEGIN
+ASSIGN ciZR 'fkc'
+INSERT j6DsZ number
+INSERT n number
+INSERT y number
+RPRINT
+INSERT lu4vU string
+INSERT ew0M string
+INSERT c3D number
+LOOKUP wq
+INSERT rxaIrx string
+ASSIGN rxaIrx 997
+INSERT rAHS2 string
+INSERT n67o number
+INSERT me8aNe number
+RPRINT
+INSERT s number
+INSERT nseU8Z number

@@ -1,0 +1,5 @@
+INSERT cj number
+BEGIN
+END
+INSERT ye string
+RPRINT

@@ -1,0 +1,34 @@
+INSERT s string
+END
+INSERT hSwCm string
+RPRINT
+INSERT xzX number
+END
+INSERT y0 number
+ASSIGN y0 '5V1q'
+LOOKUP xzX
+PRINT
+INSERT uc1 string
+INSERT kIM string
+f ahLUf
+INSERT b0Nn string
+INSERT ugx string
+uQI7i odGGwp
+RPRINT
+INSERT fam number
+PRINT
+LOOKUP ugx
+INSERT iVcsl string
+INSERT n7ERu string
+INSERT qeb3i string
+INSERT mKsz string
+INSERT kn string
+RPRINT
+BEGIN
+PRINT
+INSERT cLd number
+INSERT xau string
+INSERT dmE86 string
+INSERT hX number
+INSERT g8sM9 string
+INSERT m208 number

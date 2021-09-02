@@ -1,0 +1,8 @@
+INSERT l1 string
+ASSIGN l1 l1
+INSERT um number
+INSERT d9 string
+RPRINT
+INSERT kDRuc number
+INSERT yt6_Qq string
+INSERT t string

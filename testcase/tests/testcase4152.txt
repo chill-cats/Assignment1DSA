@@ -1,0 +1,31 @@
+RPRINT
+dDcCf a3b
+INSERT jux string
+INSERT xI number
+INSERT pK number
+BEGIN
+INSERT z4J string
+INSERT w3XY string
+INSERT x string
+INSERT o1BS number
+INSERT aAh number
+LOOKUP xI
+INSERT c string
+INSERT e string
+INSERT doo3C string
+LOOKUP w3XY
+INSERT yuLX string
+INSERT fC number
+INSERT iQ string
+INSERT so string
+INSERT f number
+INSERT n5 string
+END
+INSERT ktj7wF string
+INSERT g4CbiL number
+RPRINT
+INSERT iRHMdF number
+END
+INSERT q6 string
+aE b
+ASSIGN f c

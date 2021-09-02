@@ -1,0 +1,10 @@
+INSERT as2M string
+INSERT dtO number
+iu7eI sZ
+INSERT aoQY number
+INSERT y number
+LOOKUP as2M
+END
+INSERT kgd string
+INSERT xrlU number
+INSERT leC number

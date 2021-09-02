@@ -1,0 +1,14 @@
+PRINT
+INSERT cx4TU6 string
+INSERT fM7hk number
+INSERT zy string
+INSERT cgM_7 number
+INSERT zBp number
+ASSIGN zy 'w'
+END
+INSERT jnGzl6 string
+INSERT iK number
+BEGIN
+RPRINT
+b hV
+INSERT r3 number

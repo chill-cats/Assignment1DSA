@@ -1,0 +1,11 @@
+RPRINT
+INSERT shSQLI string
+INSERT gWtSz number
+INSERT fmVoz number
+INSERT necgFp string
+INSERT v1eU number
+INSERT uiDnTW string
+END
+ASSIGN v1eU 'otz'
+p2PQ8E c
+w tRoN

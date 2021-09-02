@@ -1,0 +1,31 @@
+ASSIGN f_w 'S'
+INSERT aV string
+LOOKUP aV
+INSERT vpU string
+INSERT x number
+END
+INSERT t number
+INSERT i0h4X string
+nM2GrB h31
+INSERT l number
+INSERT f1M string
+INSERT a string
+INSERT t0 string
+PRINT
+INSERT se98 number
+INSERT fMRMXt number
+INSERT h number
+INSERT vnte string
+INSERT nVKp5 number
+INSERT umJg string
+gTz io9pd
+INSERT p669Z number
+INSERT vK5lN number
+ASSIGN eIKE vnte
+INSERT hsE number
+INSERT ilTk0 number
+LOOKUP x
+INSERT iXb0_z number
+INSERT oU string
+PRINT
+INSERT p number

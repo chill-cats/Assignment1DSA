@@ -1,0 +1,23 @@
+INSERT cn00F number
+BEGIN
+INSERT xi7 number
+INSERT zq string
+INSERT eG string
+LOOKUP xi7
+INSERT t4L string
+INSERT a number
+ASSIGN cn00F 'NE9'
+INSERT qKSD5 string
+INSERT wIIWx string
+END
+INSERT omfbL number
+jq3T xX
+END
+INSERT ij string
+INSERT fCE2El string
+INSERT trnm string
+INSERT eNAtd string
+BEGIN
+ASSIGN a 'Hs'
+RPRINT
+END

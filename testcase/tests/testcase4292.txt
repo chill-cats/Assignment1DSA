@@ -1,0 +1,26 @@
+INSERT sMJxto number
+INSERT jt string
+INSERT n string
+INSERT jES string
+PRINT
+ASSIGN jt jt
+ASSIGN jt 'yRW'
+RPRINT
+INSERT hlVkiW number
+INSERT s5 number
+RPRINT
+o6o vgQBn
+INSERT o6z string
+RPRINT
+INSERT q string
+INSERT gXzhls number
+INSERT v4mn string
+ASSIGN q 820
+INSERT bnL string
+INSERT rF string
+INSERT bc string
+INSERT hxd number
+RPRINT
+INSERT xz23 number
+INSERT r9S number
+INSERT dS1Tn string

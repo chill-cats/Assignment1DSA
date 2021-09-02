@@ -1,0 +1,27 @@
+INSERT c65TT string
+INSERT s_ number
+INSERT s number
+END
+ASSIGN s 811
+b rR
+ASSIGN c65TT s
+BEGIN
+INSERT rp9 string
+INSERT pm string
+INSERT aj string
+INSERT mZWW string
+BEGIN
+INSERT got string
+INSERT jqNULf number
+RPRINT
+INSERT z8P number
+INSERT xsq number
+PRINT
+INSERT w7 number
+INSERT mtTUl3 string
+lBxE5R dKTM2
+INSERT w4 string
+i z
+INSERT xmYmq string
+END
+INSERT xwiJX6 string

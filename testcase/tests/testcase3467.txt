@@ -1,0 +1,28 @@
+INSERT m string
+mYUUUw bW1U
+INSERT wl string
+INSERT vOo string
+END
+INSERT s2F9SD number
+ASSIGN vOo 'Diz'
+INSERT cVof number
+INSERT bbFj number
+RPRINT
+LOOKUP m
+BEGIN
+BEGIN
+INSERT pxLge_ string
+END
+INSERT rHf number
+LOOKUP pxLge_
+RPRINT
+BEGIN
+INSERT f number
+INSERT e string
+INSERT k6 number
+INSERT hltk number
+INSERT y string
+INSERT vA8Ah number
+ASSIGN pxLge_ '4B'
+INSERT besDnB number
+INSERT q string

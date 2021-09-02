@@ -1,0 +1,9 @@
+INSERT wW9XJ number
+INSERT crJ9M string
+INSERT n8rV6 number
+END
+ASSIGN wW9XJ wW9XJ
+INSERT u string
+INSERT gVH number
+PRINT
+m pA4e

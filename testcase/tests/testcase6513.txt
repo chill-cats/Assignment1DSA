@@ -1,0 +1,20 @@
+BEGIN
+INSERT kK43Bx string
+END
+INSERT vDQ number
+INSERT obqmG string
+INSERT lx number
+INSERT nkred3 number
+ASSIGN kK43Bx 'b22'
+INSERT eJpJbv number
+RPRINT
+INSERT lOewvx number
+INSERT eRLse4 number
+BEGIN
+i u6zi
+LOOKUP eJpJbv
+INSERT p string
+INSERT asC number
+BEGIN
+LOOKUP kK43Bx
+PRINT

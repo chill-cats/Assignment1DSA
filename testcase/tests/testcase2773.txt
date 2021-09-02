@@ -1,0 +1,19 @@
+INSERT nY string
+BEGIN
+LOOKUP nY
+INSERT wKxE string
+INSERT wMm2g number
+LOOKUP wKxE
+PRINT
+END
+INSERT b number
+BEGIN
+INSERT vj string
+PRINT
+INSERT xQWH number
+INSERT cNvj7 number
+INSERT h0a6KL string
+INSERT p8 number
+INSERT dG5y1 string
+INSERT q6e2 string
+INSERT v8aeB string

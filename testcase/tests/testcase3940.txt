@@ -1,0 +1,25 @@
+INSERT vRt number
+PRINT
+INSERT ip6 string
+INSERT pWd string
+PRINT
+INSERT j string
+INSERT z5JN0F string
+PRINT
+RPRINT
+RPRINT
+LOOKUP pWd
+INSERT oBhCbb string
+END
+INSERT uaz3FX string
+BEGIN
+LOOKUP oBhCbb
+xE xEr
+RPRINT
+INSERT p8_ number
+ASSIGN j 520
+INSERT ionxF number
+INSERT t5nQR number
+END
+INSERT iR number
+INSERT rse number

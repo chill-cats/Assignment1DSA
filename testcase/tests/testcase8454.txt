@@ -1,0 +1,8 @@
+INSERT guQW string
+INSERT hN string
+END
+INSERT jB number
+PRINT
+INSERT b_Mnm number
+INSERT yz number
+INSERT bZ number

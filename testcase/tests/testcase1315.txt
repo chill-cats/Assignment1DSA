@@ -1,0 +1,33 @@
+INSERT xkhzG number
+LOOKUP xkhzG
+INSERT di number
+BEGIN
+END
+INSERT cl number
+ASSIGN cl '5s'
+END
+PRINT
+RPRINT
+RPRINT
+INSERT jXF string
+INSERT fcrB1 string
+PRINT
+INSERT bifLxU number
+INSERT bugzXE string
+BEGIN
+BEGIN
+INSERT vC4 string
+INSERT e string
+INSERT o4x8 number
+PRINT
+INSERT m8n6W string
+INSERT eN string
+LOOKUP cl
+ASSIGN vC4 679
+ASSIGN xkhzG eN
+INSERT zL string
+ASSIGN m8n6W bugzXE
+INSERT o string
+LOOKUP eN
+INSERT gQltSS string
+LOOKUP jXF

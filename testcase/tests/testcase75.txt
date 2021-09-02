@@ -1,0 +1,9 @@
+LOOKUP s
+ASSIGN kJU_ 695
+ASSIGN wVO4f 'QJhR'
+LOOKUP m5
+END
+END
+INSERT pag3a number
+INSERT a6 number
+PRINT

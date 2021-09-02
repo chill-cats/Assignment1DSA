@@ -1,0 +1,20 @@
+ziPuZY zk7
+INSERT esTA number
+INSERT b string
+RPRINT
+LOOKUP b
+INSERT btNgIS string
+END
+RPRINT
+PRINT
+INSERT rF8Co string
+INSERT nY7FzV number
+ASSIGN nY7FzV 279
+RPRINT
+INSERT ftgOQ1 number
+LOOKUP btNgIS
+INSERT wDNr number
+END
+LOOKUP b
+INSERT ho number
+INSERT iEYR0 number

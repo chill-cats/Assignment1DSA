@@ -1,0 +1,32 @@
+INSERT ve string
+PRINT
+INSERT nDf string
+INSERT mMAR string
+INSERT oG string
+INSERT oJnFPF string
+LOOKUP ve
+ASSIGN ve oJnFPF
+RPRINT
+INSERT mTY number
+INSERT zB string
+BEGIN
+INSERT i73Sli number
+INSERT wNSA number
+INSERT hxv string
+INSERT kp number
+RPRINT
+PRINT
+ASSIGN mMAR 'ZUB'
+PRINT
+PRINT
+INSERT tnxV string
+LOOKUP i73Sli
+ASSIGN oG hxv
+INSERT wtz number
+INSERT ioth string
+INSERT iV8e number
+INSERT ort string
+INSERT pqEUo string
+INSERT qYdtV number
+m739 syZghX
+INSERT qt37Ks number

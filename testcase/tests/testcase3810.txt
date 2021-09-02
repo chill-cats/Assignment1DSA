@@ -1,0 +1,10 @@
+PRINT
+ASSIGN bh 972
+dWboT cojFO
+BEGIN
+END
+ASSIGN rte 963
+INSERT cJX number
+PRINT
+END
+INSERT fi string

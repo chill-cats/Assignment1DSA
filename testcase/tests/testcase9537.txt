@@ -1,0 +1,34 @@
+INSERT z1paCa string
+INSERT a3 string
+INSERT t string
+INSERT s string
+RPRINT
+INSERT iAio string
+INSERT jsz number
+PRINT
+INSERT o8kAY7 string
+BEGIN
+LOOKUP iAio
+INSERT aRdSqr string
+END
+INSERT r3DC string
+ASSIGN aRdSqr 33
+INSERT uL number
+ASSIGN r3DC 'Kx'
+INSERT q string
+INSERT ufE string
+LOOKUP s
+INSERT mF number
+LOOKUP ufE
+INSERT s8dl string
+INSERT cg string
+INSERT olF number
+INSERT bgbOA string
+INSERT r string
+ASSIGN aRdSqr 672
+END
+INSERT q5J number
+LOOKUP ufE
+END
+INSERT gF65K string
+RPRINT

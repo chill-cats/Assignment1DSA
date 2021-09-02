@@ -1,0 +1,19 @@
+INSERT x8IVTW string
+INSERT f number
+INSERT mYfsDn string
+INSERT d3rp6O string
+END
+INSERT tWFLn number
+INSERT oxTP72 number
+INSERT dp string
+INSERT n string
+INSERT is number
+INSERT evt string
+INSERT u number
+INSERT sBt8V string
+LOOKUP dp
+INSERT iJz4BT number
+INSERT v number
+BEGIN
+END
+INSERT u5GUK number

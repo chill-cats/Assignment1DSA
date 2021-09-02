@@ -1,0 +1,35 @@
+INSERT hp string
+INSERT fLj number
+RPRINT
+RPRINT
+LOOKUP fLj
+INSERT m8pdj string
+INSERT n1c string
+INSERT plo9 number
+INSERT cajPL number
+INSERT wKlfu number
+INSERT mGetyI number
+INSERT a0 string
+LOOKUP plo9
+INSERT cPK9 string
+INSERT lve3V number
+INSERT w number
+ASSIGN fLj cajPL
+END
+INSERT yPpDE number
+ASSIGN plo9 'XyEu'
+INSERT wK7cQ string
+INSERT r number
+INSERT l number
+pQuzaX v7Vt
+ASSIGN ya8_ 'swm'
+INSERT bw string
+ASSIGN plo9 1071
+INSERT zfe number
+INSERT u string
+INSERT ulqB string
+PRINT
+INSERT ixM3 number
+INSERT vHz2 string
+ASSIGN cajPL r
+INSERT e string

@@ -1,0 +1,5 @@
+INSERT cf2j string
+LOOKUP cf2j
+RPRINT
+INSERT yikAv number
+INSERT olYs5 number

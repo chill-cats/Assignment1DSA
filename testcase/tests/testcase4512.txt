@@ -1,0 +1,5 @@
+ASSIGN ybOVC 1229
+INSERT b0CceM number
+INSERT yy string
+RPRINT
+END

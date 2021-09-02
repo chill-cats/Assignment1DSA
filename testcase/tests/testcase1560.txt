@@ -1,0 +1,22 @@
+ASSIGN jl5m5 'eA'
+INSERT lpgb number
+END
+INSERT m number
+PRINT
+END
+LOOKUP m
+INSERT kK number
+INSERT aUU string
+INSERT g number
+INSERT yhyId string
+INSERT a string
+INSERT s number
+INSERT iydR number
+INSERT tP number
+LOOKUP iydR
+INSERT wvX1W number
+PRINT
+BEGIN
+INSERT p9 string
+ASSIGN tP p9
+PRINT

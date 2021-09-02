@@ -1,0 +1,6 @@
+LOOKUP ngY9S
+INSERT zWSPc number
+RPRINT
+END
+INSERT j78sqG number
+INSERT wtqV string

@@ -1,0 +1,22 @@
+LOOKUP zQcb
+INSERT hmAH7N number
+INSERT dimoO number
+INSERT cMee number
+INSERT hlA number
+INSERT kQGESD number
+ASSIGN hmAH7N kQGESD
+INSERT ql number
+PRINT
+INSERT fum string
+RPRINT
+INSERT b number
+RPRINT
+INSERT t string
+BEGIN
+INSERT l string
+BEGIN
+INSERT kt5UI number
+PRINT
+END
+INSERT mNP6kH number
+ASSIGN l 'K'

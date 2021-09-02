@@ -1,0 +1,4 @@
+INSERT h6sD number
+INSERT nGjE string
+ASSIGN h6sD 'hRf5c'
+ASSIGN h6sD 512

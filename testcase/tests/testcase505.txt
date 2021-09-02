@@ -1,0 +1,17 @@
+INSERT jK number
+INSERT jCH string
+PRINT
+ASSIGN jCH '1uVP'
+INSERT qMErMA string
+ASSIGN jK jCH
+END
+INSERT y string
+INSERT fA5 number
+INSERT oU1ge number
+INSERT y4KLa number
+INSERT rAh number
+INSERT uJI number
+END
+INSERT e number
+INSERT r number
+INSERT t number

@@ -1,0 +1,10 @@
+INSERT gLUki number
+INSERT neI5gQ string
+INSERT mc5cdI string
+ASSIGN neI5gQ 'XZL'
+INSERT fgA string
+PRINT
+INSERT qG7I string
+ASSIGN gLUki '78P3'
+INSERT jQ4o number
+INSERT iXGbp string

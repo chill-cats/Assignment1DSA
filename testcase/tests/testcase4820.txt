@@ -1,0 +1,34 @@
+INSERT cqb9T string
+RPRINT
+INSERT y4 number
+INSERT q number
+RPRINT
+INSERT fLLYZ string
+INSERT jho number
+BEGIN
+INSERT nIK_ string
+LOOKUP fO
+INSERT soKdB number
+INSERT cP string
+INSERT zmVA number
+INSERT s number
+INSERT n73K9 number
+INSERT m42 string
+END
+RPRINT
+END
+LOOKUP g
+INSERT cHHJXB string
+INSERT w number
+INSERT kv number
+INSERT yYY number
+PRINT
+INSERT zjNF string
+INSERT v_9z number
+PRINT
+INSERT v string
+INSERT vH string
+LOOKUP kv
+INSERT hb4 string
+INSERT k5 string
+LOOKUP mLY

@@ -1,0 +1,6 @@
+INSERT aPL0 string
+INSERT xBE3 string
+t oivW3x
+INSERT v string
+ASSIGN v v
+INSERT kv number

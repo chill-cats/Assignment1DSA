@@ -1,0 +1,37 @@
+RPRINT
+BEGIN
+INSERT oF number
+END
+INSERT n string
+INSERT xQs number
+END
+RPRINT
+ASSIGN xQs 840
+BEGIN
+INSERT v5_zRL number
+END
+INSERT q string
+END
+LOOKUP n
+BEGIN
+LOOKUP q
+LOOKUP oF
+PRINT
+INSERT e number
+INSERT jQlcyG number
+INSERT m string
+INSERT fsuZ_E string
+LOOKUP jQlcyG
+INSERT fzPj string
+INSERT tFh number
+RPRINT
+INSERT yL2 number
+INSERT ffBP number
+LOOKUP ffBP
+ASSIGN tFh 'Li'
+INSERT b6 string
+INSERT y_Pe string
+INSERT kGz9 string
+INSERT wUk number
+INSERT p number
+INSERT t_Ne0 number

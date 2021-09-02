@@ -1,0 +1,30 @@
+r8WYt7 ht0KZ
+INSERT ve6bz number
+INSERT dZ string
+INSERT kKNcZ string
+INSERT qy9VF number
+BEGIN
+INSERT vh number
+ASSIGN ve6bz ve6bz
+INSERT zxA88y number
+ASSIGN dZ 605
+INSERT zYzKva number
+INSERT g39h string
+INSERT gCzpTe string
+INSERT e8 number
+ASSIGN dZ 't0'
+INSERT xgK8m number
+INSERT rI_ string
+INSERT weKIJJ number
+LOOKUP weKIJJ
+INSERT eFV string
+PRINT
+INSERT hpHNYr number
+LOOKUP weKIJJ
+INSERT tU string
+LOOKUP xgK8m
+INSERT qlRXPe number
+ASSIGN xgK8m 'v4Uv0'
+INSERT a9hX7 number
+qQB xfKC
+RPRINT

@@ -1,0 +1,17 @@
+INSERT g string
+RPRINT
+ASSIGN g 787
+INSERT zIKdg string
+PRINT
+END
+BEGIN
+BEGIN
+INSERT i7 number
+PRINT
+INSERT lnbbUK number
+INSERT ugb number
+PRINT
+INSERT ajTl string
+ASSIGN ugb 'rFIs'
+INSERT sb number
+RPRINT

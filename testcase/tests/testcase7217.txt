@@ -1,0 +1,16 @@
+INSERT up5FiD number
+INSERT qD string
+INSERT yk number
+INSERT l34WVb string
+INSERT eWxC string
+LOOKUP l34WVb
+INSERT dNO string
+LOOKUP qD
+RPRINT
+END
+RPRINT
+INSERT zGYn number
+INSERT xKv string
+RPRINT
+INSERT t string
+INSERT wTOGbi string

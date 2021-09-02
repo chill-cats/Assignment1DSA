@@ -1,0 +1,30 @@
+INSERT y string
+LOOKUP y
+LOOKUP y
+ASSIGN y ' F'
+RPRINT
+ASSIGN y 381
+END
+RPRINT
+INSERT lHQbH number
+INSERT l5 string
+INSERT u string
+ASSIGN u 1070
+BEGIN
+ASSIGN y '58Bdd'
+LOOKUP lHQbH
+ASSIGN y 688
+BEGIN
+INSERT wJbCZ number
+INSERT veC string
+RPRINT
+INSERT aHK string
+INSERT vz string
+INSERT i8uzG string
+INSERT syFNrG number
+INSERT oJ string
+LOOKUP u
+INSERT yV number
+INSERT aY string
+INSERT t string
+INSERT fHbvL string

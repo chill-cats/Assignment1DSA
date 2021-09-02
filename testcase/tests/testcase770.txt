@@ -1,0 +1,9 @@
+END
+INSERT mCJxi string
+INSERT hqew string
+INSERT b string
+INSERT tJ80 number
+PRINT
+INSERT l number
+LOOKUP mCJxi
+INSERT jTdm number

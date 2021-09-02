@@ -1,0 +1,10 @@
+END
+INSERT zD3iQb string
+INSERT g number
+RPRINT
+END
+RPRINT
+PRINT
+INSERT cP string
+END
+INSERT k number

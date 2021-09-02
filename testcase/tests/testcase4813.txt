@@ -1,0 +1,12 @@
+INSERT j number
+BEGIN
+INSERT bfTxF number
+PRINT
+END
+PRINT
+END
+LOOKUP bfTxF
+e uCe
+INSERT lb string
+o1W sIde
+INSERT cU string

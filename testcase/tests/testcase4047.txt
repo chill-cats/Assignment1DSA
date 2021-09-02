@@ -1,0 +1,10 @@
+INSERT wNOno string
+PRINT
+LOOKUP wNOno
+INSERT nefPiT number
+INSERT oCqDEn number
+INSERT lyRC string
+RPRINT
+LOOKUP nefPiT
+BEGIN
+INSERT l string

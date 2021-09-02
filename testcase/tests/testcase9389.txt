@@ -1,0 +1,38 @@
+BEGIN
+INSERT m number
+ASSIGN m 'E'
+INSERT reXmeN number
+INSERT n number
+INSERT sJGAWX string
+INSERT lNV8 number
+INSERT owC number
+ASSIGN n 'Aaw'
+INSERT k string
+RPRINT
+RPRINT
+INSERT h string
+g8A sEqNg
+ASSIGN k reXmeN
+efV nfPo
+wi0 w4tu
+INSERT iy0gXo number
+INSERT tZ number
+INSERT zl5 number
+INSERT uG3e string
+LOOKUP tZ
+PRINT
+INSERT fov string
+INSERT aLx8 number
+INSERT y string
+INSERT t number
+INSERT n2rA number
+INSERT kJk1g1 number
+RPRINT
+INSERT yVP string
+INSERT gVJ string
+LOOKUP sJGAWX
+ASSIGN kJk1g1 n
+INSERT a6 string
+INSERT hgZ number
+INSERT t string
+RPRINT

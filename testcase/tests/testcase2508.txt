@@ -1,0 +1,26 @@
+BEGIN
+INSERT rh number
+END
+INSERT i number
+BEGIN
+INSERT qv string
+LOOKUP i
+RPRINT
+INSERT t0 number
+BEGIN
+INSERT x string
+INSERT q string
+INSERT qbW number
+RPRINT
+INSERT ndl number
+INSERT m number
+INSERT i0L0J number
+INSERT yAp number
+INSERT j number
+PRINT
+INSERT ks string
+INSERT l4 number
+ASSIGN kO0vV 'UGHzy'
+INSERT kv number
+INSERT g2lk string
+ASSIGN ks g2lk

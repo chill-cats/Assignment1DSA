@@ -1,0 +1,11 @@
+LOOKUP x8X
+INSERT uB string
+INSERT nteDnq number
+INSERT uS number
+INSERT uT number
+BEGIN
+INSERT uGCRU string
+PRINT
+INSERT ioYm string
+PRINT
+PRINT

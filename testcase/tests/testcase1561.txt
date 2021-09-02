@@ -1,0 +1,14 @@
+INSERT y9hFA number
+PRINT
+INSERT aDHq5 number
+INSERT vqqquL string
+PRINT
+ASSIGN aDHq5 787
+PRINT
+END
+INSERT e string
+INSERT dGtGuV number
+RPRINT
+INSERT g5L3 string
+ASSIGN dGtGuV 353
+INSERT f3h6 number

@@ -1,0 +1,29 @@
+END
+INSERT vZ number
+INSERT poBV string
+INSERT n number
+INSERT vEBs string
+INSERT cHt number
+INSERT sMTSZ string
+INSERT hT26J number
+INSERT dAbF string
+INSERT mM9 number
+BEGIN
+dlY vzlY
+oKRN qxy
+LOOKUP cHt
+s0Hd21 yT
+INSERT q string
+INSERT gcG number
+INSERT svcNn string
+INSERT a9ije number
+INSERT lM string
+END
+INSERT psj string
+ASSIGN svcNn '6AH'
+INSERT fwhg number
+INSERT e44o string
+eq_lQ zZ
+RPRINT
+INSERT qt6Nx number
+INSERT x string

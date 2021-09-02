@@ -1,0 +1,12 @@
+INSERT k number
+INSERT bW7oS string
+INSERT aM number
+INSERT pS_9F number
+y gvO
+LOOKUP aM
+INSERT gKJj number
+INSERT cq1 number
+PRINT
+INSERT gr6k string
+END
+INSERT vV string

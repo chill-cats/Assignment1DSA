@@ -1,0 +1,5 @@
+INSERT gaWxj string
+INSERT hbtjWy string
+b3TwHq i
+INSERT t number
+RPRINT

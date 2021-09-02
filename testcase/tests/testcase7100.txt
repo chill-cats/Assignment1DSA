@@ -1,0 +1,17 @@
+INSERT cnMl string
+INSERT jaK string
+LOOKUP cnMl
+INSERT bZ string
+INSERT ct484 number
+INSERT v1F string
+INSERT tkFu number
+l tDTd
+RPRINT
+INSERT b3 string
+INSERT k_Cd number
+INSERT m4h9wH string
+INSERT h6wL string
+INSERT wXd string
+INSERT u string
+INSERT q5nEGq string
+END

@@ -1,0 +1,33 @@
+INSERT nIP string
+INSERT b4 number
+INSERT x string
+INSERT it number
+INSERT z7w number
+INSERT q4ev number
+INSERT vLoarZ string
+PRINT
+INSERT a48 string
+INSERT fq number
+END
+INSERT jg number
+END
+INSERT oG2g5 number
+END
+INSERT e19iIF string
+END
+INSERT av number
+INSERT l8U string
+INSERT jkgy number
+INSERT trTNy number
+INSERT uikm string
+ASSIGN e19iIF 798
+INSERT swj string
+t qH
+RPRINT
+INSERT ya number
+INSERT nIzY1A number
+INSERT rmdurS number
+PRINT
+INSERT xKZtx string
+BEGIN
+INSERT c_k number

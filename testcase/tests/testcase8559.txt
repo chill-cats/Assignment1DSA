@@ -1,0 +1,17 @@
+INSERT aeDK number
+INSERT bhu string
+INSERT jYwvw number
+INSERT eR7Sk string
+INSERT hF string
+INSERT trkIfE string
+END
+END
+INSERT wTSz number
+INSERT hlH number
+ASSIGN aeDK 'wcKQV'
+INSERT yg6I6 string
+INSERT eO3pG string
+BEGIN
+PRINT
+INSERT h number
+RPRINT

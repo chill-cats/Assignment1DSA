@@ -1,0 +1,21 @@
+INSERT rKPt string
+PRINT
+INSERT e3 number
+INSERT yNodAu number
+RPRINT
+BEGIN
+END
+INSERT pJv string
+BEGIN
+INSERT eJ7 string
+PRINT
+BEGIN
+INSERT jU number
+INSERT o275Fm string
+ASSIGN e3 1014
+BEGIN
+END
+INSERT guKpO string
+INSERT yTzr8r number
+INSERT l number
+END

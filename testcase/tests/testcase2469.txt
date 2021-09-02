@@ -1,0 +1,39 @@
+END
+INSERT m string
+INSERT juiv string
+LOOKUP juiv
+END
+INSERT pdGk6z number
+INSERT xSJ number
+INSERT cIWd number
+INSERT ehjJ7m number
+INSERT ledd number
+ASSIGN xSJ xSJ
+INSERT nU6 number
+INSERT r string
+BEGIN
+RPRINT
+END
+INSERT omU4 string
+INSERT qE number
+LOOKUP nU6
+INSERT hU number
+RPRINT
+INSERT r0HWu6 number
+INSERT y number
+INSERT m23 number
+INSERT q77j string
+INSERT t3H8tJ string
+INSERT cq number
+ftkEg5 jH
+INSERT klOWS number
+INSERT mms string
+BEGIN
+LOOKUP xSJ
+INSERT pus4 string
+INSERT uJ9weK number
+INSERT zIx0g1 number
+LOOKUP y
+BEGIN
+RPRINT
+INSERT lsO string

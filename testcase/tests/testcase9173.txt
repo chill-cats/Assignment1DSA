@@ -1,0 +1,17 @@
+INSERT wMzpb number
+INSERT iU string
+LOOKUP iU
+INSERT aQP string
+INSERT c4vXZ string
+INSERT xon number
+PRINT
+sVK9IZ fe
+INSERT pONwc number
+INSERT r string
+ASSIGN xon aQP
+PRINT
+INSERT fKChA string
+BEGIN
+INSERT qo68P string
+INSERT bOt5kf number
+INSERT fD9Y string

@@ -1,0 +1,29 @@
+PRINT
+INSERT kuM string
+INSERT mqB0Iw string
+LOOKUP kuM
+PRINT
+ASSIGN kuM 186
+INSERT cw number
+INSERT kb number
+PRINT
+INSERT mD string
+INSERT kjIH string
+END
+PRINT
+INSERT pOM number
+BEGIN
+INSERT aDmdA number
+INSERT bVvTEj string
+INSERT gUhy number
+INSERT gN2q number
+END
+b9lTL_ w
+INSERT iBa number
+INSERT qqCQAy string
+PRINT
+INSERT t5 string
+INSERT aL number
+RPRINT
+INSERT nzN string
+INSERT zNAG string

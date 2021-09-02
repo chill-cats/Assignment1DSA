@@ -1,0 +1,15 @@
+INSERT qN number
+INSERT ku number
+INSERT sX number
+INSERT g9 string
+INSERT g7MOpC string
+ASSIGN sX 'vwd'
+ilyns i
+END
+INSERT gVr5E number
+INSERT v string
+INSERT fGIShD number
+INSERT s string
+INSERT n number
+INSERT p string
+INSERT d string

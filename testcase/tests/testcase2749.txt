@@ -1,0 +1,36 @@
+LOOKUP t4CVZS
+INSERT a number
+INSERT dj string
+PRINT
+INSERT zUl0v string
+LOOKUP mW
+INSERT h7P8 string
+INSERT vzO string
+INSERT u4_nnX string
+INSERT d3AB number
+INSERT f0e0 string
+INSERT aZ string
+INSERT y02 number
+INSERT iq string
+INSERT j string
+END
+BEGIN
+PRINT
+BEGIN
+INSERT jL string
+INSERT oq5ok number
+INSERT mHU string
+INSERT jT number
+INSERT uP8EqG number
+RPRINT
+INSERT ipM number
+INSERT b_5I string
+INSERT bh3d number
+INSERT kXJct string
+BEGIN
+INSERT giln number
+INSERT zR number
+INSERT nruh number
+INSERT i0eO9U string
+INSERT ubK string
+BEGIN

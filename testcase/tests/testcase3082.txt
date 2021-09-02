@@ -1,0 +1,10 @@
+INSERT v string
+INSERT p2Jo string
+END
+END
+BEGIN
+RPRINT
+LOOKUP v
+LOOKUP v
+INSERT mts49b number
+INSERT aqJ number

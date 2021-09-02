@@ -1,0 +1,13 @@
+INSERT vrUc number
+LOOKUP vrUc
+INSERT fp string
+INSERT w string
+RPRINT
+INSERT n9Gion string
+INSERT q string
+INSERT oFpD number
+pErMl dnr2
+INSERT dgI number
+PRINT
+INSERT tPB number
+PRINT

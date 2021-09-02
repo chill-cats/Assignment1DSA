@@ -1,0 +1,24 @@
+INSERT gVks1r number
+LOOKUP gVks1r
+kI xx
+RPRINT
+INSERT m3dniI number
+BEGIN
+INSERT ccY string
+INSERT ow string
+RPRINT
+INSERT jG string
+INSERT ddRZn string
+izk8 vEm
+PRINT
+LOOKUP ow
+INSERT xf number
+INSERT ks number
+BEGIN
+INSERT deAdX number
+PRINT
+INSERT cqiP1 number
+INSERT n2wcm string
+ASSIGN n2wcm 429
+INSERT l05Qm string
+INSERT y3W string

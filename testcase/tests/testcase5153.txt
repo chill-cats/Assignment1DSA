@@ -1,0 +1,21 @@
+END
+INSERT wEdm number
+PRINT
+END
+wctL tXME
+PRINT
+INSERT mw number
+BEGIN
+INSERT g string
+INSERT tB8j1 number
+INSERT grptCM number
+INSERT keKln number
+ASSIGN grptCM 'c3KZ'
+INSERT hC number
+INSERT vFS string
+ASSIGN keKln 1142
+INSERT wxz string
+ASSIGN mw 495
+INSERT yOr2 number
+j pkcHl
+RPRINT

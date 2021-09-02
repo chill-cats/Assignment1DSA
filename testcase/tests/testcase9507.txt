@@ -1,0 +1,10 @@
+INSERT fC number
+INSERT cyX3 number
+INSERT dLm number
+LOOKUP fC
+nP8MD hE5nWJ
+BEGIN
+BEGIN
+INSERT nw07n string
+PRINT
+INSERT e string

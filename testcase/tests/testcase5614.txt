@@ -1,0 +1,14 @@
+INSERT fNa string
+ASSIGN fNa 'bV'
+INSERT st string
+INSERT e number
+INSERT y_ke1 string
+INSERT n string
+INSERT fan8EC number
+INSERT sii string
+INSERT a6QD string
+INSERT o number
+ASSIGN sii 899
+INSERT t number
+INSERT uU string
+INSERT zk string

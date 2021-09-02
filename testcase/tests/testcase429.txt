@@ -1,0 +1,15 @@
+INSERT yd number
+BEGIN
+INSERT w number
+INSERT bkYd5w number
+INSERT sNDp1 string
+PRINT
+INSERT s string
+BEGIN
+LOOKUP w
+END
+RPRINT
+INSERT u2LM string
+INSERT yJBTQ string
+RPRINT
+INSERT iwm string

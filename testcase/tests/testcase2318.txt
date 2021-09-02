@@ -1,0 +1,22 @@
+rt nYZx
+PRINT
+PRINT
+PRINT
+INSERT eqehcD string
+ASSIGN eqehcD 827
+PRINT
+INSERT dIzs string
+END
+PRINT
+INSERT w8vAFx string
+INSERT sqkr number
+RPRINT
+INSERT pf string
+INSERT x3SdI number
+INSERT bsT number
+PRINT
+LOOKUP dIzs
+INSERT lq2V number
+RPRINT
+ASSIGN sqkr 'y'
+END

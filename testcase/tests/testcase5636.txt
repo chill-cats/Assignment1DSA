@@ -1,0 +1,21 @@
+LOOKUP mUv
+PRINT
+END
+ASSIGN p 134
+INSERT qepg string
+RPRINT
+INSERT gfeIJ number
+BEGIN
+INSERT d4pz0 number
+INSERT m number
+INSERT hWo string
+RPRINT
+INSERT b542 string
+LOOKUP qepg
+ASSIGN gfeIJ 57
+INSERT gG number
+RPRINT
+INSERT yd4 number
+INSERT nYy number
+INSERT yramJa number
+INSERT sWskZ string

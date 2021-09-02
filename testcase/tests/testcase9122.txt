@@ -1,0 +1,9 @@
+INSERT uir number
+ASSIGN uir 'Eul'
+LOOKUP uir
+INSERT vggOZ string
+INSERT a5 number
+INSERT cy number
+INSERT k1 string
+oC58F l7pvxX
+iPYw ltgtl0

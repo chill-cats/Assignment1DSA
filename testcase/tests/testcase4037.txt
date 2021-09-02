@@ -1,0 +1,18 @@
+INSERT uln_y number
+INSERT gXIc string
+INSERT rks1 number
+INSERT t6g570 number
+RPRINT
+END
+INSERT pR number
+INSERT sTrf8O number
+INSERT bCzv0 string
+INSERT ki string
+INSERT xAw string
+INSERT dSy4 string
+INSERT uU number
+RPRINT
+INSERT iK number
+PRINT
+INSERT vklr string
+s dA3

@@ -1,0 +1,29 @@
+INSERT tI string
+LOOKUP tI
+INSERT nO number
+INSERT s number
+ASSIGN nO 708
+BEGIN
+INSERT w6 string
+INSERT f2 number
+hY5uI tk1Nyq
+INSERT sodg string
+INSERT e string
+c hFkaF
+LOOKUP f2
+PRINT
+INSERT nAIPq string
+END
+INSERT paDF string
+INSERT sKa string
+INSERT g string
+RPRINT
+INSERT q3mN string
+sHhl3g g9eBOL
+INSERT rLXCfi number
+END
+RPRINT
+INSERT z number
+INSERT q string
+END
+INSERT uMq9LV string

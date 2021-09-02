@@ -1,0 +1,28 @@
+INSERT zv string
+BEGIN
+lia ay
+INSERT sPJp string
+ASSIGN sPJp 705
+INSERT w7LrT number
+INSERT knN0e string
+INSERT cv7xE string
+PRINT
+BEGIN
+INSERT dI number
+INSERT q number
+ASSIGN cv7xE 'AA'
+LOOKUP dI
+ASSIGN knN0e zv
+INSERT rM string
+INSERT tCqT string
+INSERT zz number
+ASSIGN knN0e '4U0'
+INSERT zJf number
+PRINT
+INSERT mukOy string
+INSERT f7 string
+RPRINT
+BEGIN
+el kWl9
+INSERT iEa number
+INSERT pnNwo number

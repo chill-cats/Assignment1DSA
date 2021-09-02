@@ -1,0 +1,18 @@
+ASSIGN x ' '
+LOOKUP vZlb
+ASSIGN r1iAf 'Y'
+INSERT us5V1 string
+END
+END
+INSERT gOTc string
+INSERT olodH number
+INSERT e string
+RPRINT
+INSERT a4vVN string
+LOOKUP gOTc
+INSERT yBsdH number
+INSERT kYlS string
+BEGIN
+ASSIGN kYlS 1024
+RPRINT
+ASSIGN gOTc gOTc

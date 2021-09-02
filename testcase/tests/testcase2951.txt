@@ -1,0 +1,32 @@
+RPRINT
+BEGIN
+END
+INSERT vqB string
+LOOKUP vqB
+INSERT ch string
+BEGIN
+INSERT c7SZX string
+PRINT
+INSERT rIpbZP number
+f_AN0d u183Ex
+ASSIGN rIpbZP 628
+RPRINT
+INSERT qFWra number
+INSERT raLnf number
+INSERT oA741V string
+INSERT bXl string
+PRINT
+BEGIN
+INSERT uQGgY string
+BEGIN
+BEGIN
+RPRINT
+INSERT mFl string
+LOOKUP rIpbZP
+INSERT aNU number
+INSERT tiNBN string
+INSERT rXXKC7 string
+LOOKUP pKMBD
+INSERT hnOE number
+INSERT eEXC string
+LOOKUP mFl

@@ -1,0 +1,39 @@
+ASSIGN s7 1174
+RPRINT
+INSERT sl number
+INSERT rf0pH string
+ASSIGN rf0pH sl
+INSERT oz30x number
+INSERT qTW3Df string
+j g
+INSERT wgEm number
+RPRINT
+INSERT xq3iy string
+RPRINT
+INSERT x string
+INSERT aI9mNi number
+INSERT r1Ag number
+INSERT yR3MrA string
+INSERT m string
+m nY
+RPRINT
+LOOKUP qTW3Df
+ASSIGN rf0pH 355
+INSERT b7YXDp number
+INSERT oEv_I number
+INSERT m_ number
+INSERT r string
+INSERT jc9gFM string
+INSERT qh number
+ASSIGN aI9mNi aI9mNi
+INSERT rFPp number
+INSERT eEw3 string
+INSERT yNn4nG number
+INSERT yA string
+INSERT rJciXf number
+INSERT snnV string
+INSERT qDoZ number
+xD b8DPQQ
+INSERT st number
+END
+INSERT vaL98 string

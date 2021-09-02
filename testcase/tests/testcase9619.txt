@@ -1,0 +1,16 @@
+INSERT eFMLqh string
+INSERT sSuYa string
+ASSIGN sSuYa 'R2'
+END
+RPRINT
+INSERT tFlEo string
+INSERT csrMH string
+INSERT n3E1U string
+INSERT hf number
+INSERT yRseL number
+INSERT cZ number
+END
+PRINT
+INSERT aLBO0 number
+ASSIGN hf n3E1U
+INSERT a4 number

@@ -1,0 +1,31 @@
+INSERT iE2 string
+ASSIGN iE2 iE2
+RPRINT
+INSERT pc number
+INSERT a00Uv7 string
+INSERT uM1OLO string
+INSERT x string
+INSERT gw4E string
+END
+INSERT cdN2bn number
+LOOKUP uM1OLO
+END
+INSERT bS4GjI string
+END
+BEGIN
+INSERT vxKd number
+sgunap qy
+END
+INSERT sVj string
+INSERT iR string
+INSERT wn number
+h9V95R rIFfMN
+ASSIGN bS4GjI 'lERD'
+x91 a4rrd
+ASSIGN a00Uv7 pc
+INSERT wl number
+BEGIN
+r hVJJil
+LOOKUP pc
+INSERT g string
+ASSIGN uM1OLO 906

@@ -1,0 +1,26 @@
+d xRJ
+sW jdK6
+INSERT uN69 number
+INSERT c number
+END
+INSERT lfdM number
+LOOKUP uN69
+INSERT ahUKnE string
+INSERT mz number
+INSERT uxn number
+INSERT byF7 number
+ASSIGN mz 'JIX'
+INSERT yLMV string
+LOOKUP c
+BEGIN
+LOOKUP mz
+INSERT fC string
+PRINT
+INSERT c string
+INSERT en string
+INSERT aiR string
+INSERT kX_hQY string
+END
+BEGIN
+END
+INSERT cKAd string

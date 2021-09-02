@@ -1,0 +1,13 @@
+LOOKUP h1R
+INSERT pYA number
+INSERT r number
+RPRINT
+INSERT nCc3 number
+INSERT nN9 string
+LOOKUP pYA
+INSERT xhl12z number
+INSERT t number
+END
+INSERT h_ string
+INSERT bCyVA string
+INSERT e2n1f number

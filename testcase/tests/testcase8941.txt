@@ -1,0 +1,15 @@
+rhkUlI vN3D
+BEGIN
+INSERT iL8 string
+INSERT dsN string
+INSERT g_Yc string
+INSERT y5pYR number
+ASSIGN g_Yc 'kUi2M'
+ASSIGN g_Yc '2w7JQ'
+ASSIGN dsN iL8
+INSERT n9 string
+INSERT f1ur5 number
+PRINT
+ASSIGN f1ur5 'pC5F'
+BEGIN
+INSERT gHy number

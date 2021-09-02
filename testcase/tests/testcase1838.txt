@@ -1,0 +1,32 @@
+INSERT wP number
+RPRINT
+INSERT pKiib3 string
+INSERT p7cH4 number
+INSERT dJzcPC number
+INSERT sRg4 string
+LOOKUP dJzcPC
+RPRINT
+BEGIN
+INSERT k7 number
+INSERT stV number
+RPRINT
+INSERT gX string
+INSERT b8EFpG number
+INSERT ak number
+INSERT jUya69 number
+INSERT b6wk number
+INSERT t5_LU number
+INSERT zBa number
+INSERT m4L string
+INSERT zlHBi number
+RPRINT
+LOOKUP p7cH4
+INSERT ik string
+INSERT uf0 number
+RPRINT
+INSERT biIkZ number
+ASSIGN stV '2'
+ASSIGN pKiib3 727
+INSERT r7J string
+LOOKUP jUya69
+mPV24V mo5

@@ -1,0 +1,10 @@
+INSERT n4INv number
+BEGIN
+INSERT i0xn1 number
+INSERT i number
+END
+INSERT wAACzh string
+INSERT mPTrJ string
+INSERT y number
+INSERT v string
+END

@@ -1,0 +1,36 @@
+INSERT j number
+INSERT x number
+gksd dyG
+INSERT rwE string
+INSERT p7 string
+INSERT uqN number
+INSERT j_1yV string
+END
+INSERT z number
+INSERT emH number
+ASSIGN p7 z
+BEGIN
+INSERT ieJj number
+INSERT otKWSV string
+INSERT aQ4N number
+INSERT dWlLp string
+INSERT k number
+INSERT xu3I string
+BEGIN
+LOOKUP j_1yV
+INSERT fGyeXO string
+END
+INSERT zPN number
+LOOKUP aQ4N
+INSERT mn number
+INSERT sAKVVb string
+RPRINT
+zZRN kT
+sIrUs iw
+PRINT
+INSERT d number
+INSERT cGgDWa string
+INSERT bZo6 string
+INSERT txKcY5 string
+ASSIGN xu3I 1106
+INSERT mCQ8LZ number

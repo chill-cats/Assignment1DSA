@@ -1,0 +1,9 @@
+INSERT c3 string
+LOOKUP c3
+BEGIN
+INSERT ka string
+INSERT zIF number
+LOOKUP ka
+INSERT g number
+INSERT n string
+v v

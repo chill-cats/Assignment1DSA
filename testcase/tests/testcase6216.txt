@@ -1,0 +1,26 @@
+INSERT d4V number
+INSERT ce8 number
+INSERT n3Yg0C string
+INSERT mMa string
+BEGIN
+INSERT v78U_ string
+ASSIGN mMa 'pZ'
+LOOKUP v78U_
+INSERT aF number
+BEGIN
+END
+RPRINT
+INSERT iPm2G number
+ASSIGN aF 'fn0Ja'
+INSERT s string
+BEGIN
+INSERT rw number
+INSERT rL number
+INSERT j9 string
+ASSIGN aF ce8
+INSERT a string
+BEGIN
+INSERT gaA_6 string
+INSERT mtdoTg number
+END
+END

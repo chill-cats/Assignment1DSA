@@ -1,0 +1,11 @@
+INSERT qM string
+INSERT xB number
+RPRINT
+INSERT yj number
+PRINT
+INSERT mGd string
+PRINT
+INSERT zo2 number
+INSERT kz8Avp string
+ASSIGN xB 811
+LOOKUP mGd

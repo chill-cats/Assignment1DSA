@@ -1,0 +1,22 @@
+LOOKUP fjO
+INSERT gcW_Dt string
+RPRINT
+INSERT hp string
+BEGIN
+LOOKUP gcW_Dt
+INSERT tp_W number
+INSERT dV7o4 number
+INSERT giPU9 number
+INSERT sseOE number
+RPRINT
+INSERT sMRw string
+INSERT rXZkk string
+INSERT sWl1Il number
+END
+INSERT hn string
+qFUk saKE
+INSERT fbfY string
+INSERT tf string
+LOOKUP rXZkk
+INSERT jZD number
+INSERT zXY string

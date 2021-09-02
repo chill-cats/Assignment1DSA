@@ -1,0 +1,11 @@
+INSERT en number
+END
+INSERT a4w string
+INSERT c string
+INSERT nbysSX string
+INSERT h8B string
+ASSIGN en a4w
+INSERT wd_oRO number
+INSERT e string
+INSERT oA string
+INSERT zu string

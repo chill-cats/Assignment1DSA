@@ -1,0 +1,14 @@
+INSERT krtD number
+ASSIGN krtD 'VDnX'
+INSERT w3y string
+INSERT s8x string
+INSERT nVD number
+BEGIN
+ASSIGN s8x 'sbRp'
+weu xnL9
+INSERT v string
+RPRINT
+BEGIN
+INSERT d number
+INSERT g number
+LOOKUP v

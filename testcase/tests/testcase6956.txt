@@ -1,0 +1,7 @@
+INSERT q string
+INSERT g8qP number
+INSERT wtq string
+PRINT
+INSERT l string
+ASSIGN wtq 309
+INSERT g8Bj string

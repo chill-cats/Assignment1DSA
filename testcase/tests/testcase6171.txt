@@ -1,0 +1,34 @@
+LOOKUP fK
+BEGIN
+INSERT lrLT number
+PRINT
+INSERT bM number
+INSERT g8TUe string
+INSERT iFH number
+INSERT n string
+INSERT iZrtit string
+LOOKUP iZrtit
+INSERT i number
+INSERT idJ35o string
+END
+INSERT wU number
+INSERT gF2A9 string
+INSERT xw3zu number
+INSERT qXYwu string
+INSERT y11 string
+END
+RPRINT
+INSERT pSqO3 number
+INSERT bwz string
+INSERT xWInF4 string
+INSERT w number
+ASSIGN iZrtit ' 9z'
+PRINT
+INSERT y number
+END
+INSERT dPDqo string
+INSERT xD9N string
+INSERT slrqEu number
+ASSIGN qXYwu 'owK'
+INSERT cNF1e string
+END

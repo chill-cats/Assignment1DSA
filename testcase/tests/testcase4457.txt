@@ -1,0 +1,4 @@
+INSERT gq6Xz string
+PRINT
+INSERT m number
+INSERT u0G string

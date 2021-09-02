@@ -1,0 +1,17 @@
+INSERT jNwv string
+LOOKUP jNwv
+END
+INSERT mJ number
+BEGIN
+INSERT hYvtm number
+BEGIN
+INSERT aQwPu number
+INSERT k8 number
+PRINT
+INSERT cnaL number
+INSERT nfA5b number
+INSERT bhSedN number
+INSERT abnI string
+END
+END
+INSERT uryTp number

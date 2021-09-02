@@ -1,0 +1,22 @@
+INSERT g0 string
+END
+INSERT r string
+INSERT wVmN8Y number
+END
+RPRINT
+INSERT rMD number
+INSERT mHbXs number
+INSERT tvD string
+INSERT pk number
+INSERT p string
+ASSIGN wVmN8Y 'VDTl'
+INSERT h number
+PRINT
+ASSIGN p 'Qpc'
+INSERT zl number
+INSERT m266 number
+RPRINT
+BEGIN
+INSERT fKg string
+ASSIGN h 'uIH'
+INSERT hVtW57 string

@@ -1,0 +1,5 @@
+INSERT r5cX5B string
+INSERT akR string
+ASSIGN r5cX5B akR
+ASSIGN r5cX5B 'wN'
+fSt y

@@ -1,0 +1,12 @@
+INSERT o8_Z4f number
+LOOKUP o8_Z4f
+ASSIGN o8_Z4f o8_Z4f
+INSERT oO21s number
+INSERT qPU7uh number
+ASSIGN o8_Z4f qPU7uh
+ASSIGN o8_Z4f 'asxD'
+INSERT qK number
+INSERT ta number
+INSERT c number
+INSERT pnqoi number
+ASSIGN oO21s oO21s

@@ -1,0 +1,6 @@
+INSERT kvng9X number
+RPRINT
+INSERT kWX66 number
+RPRINT
+ASSIGN kvng9X 'u'
+RPRINT

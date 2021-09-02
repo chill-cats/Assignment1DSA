@@ -1,0 +1,5 @@
+PRINT
+RPRINT
+BEGIN
+LOOKUP yP4a
+INSERT c string

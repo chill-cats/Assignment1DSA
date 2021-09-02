@@ -1,0 +1,24 @@
+INSERT iU558K string
+LOOKUP iU558K
+RPRINT
+END
+BEGIN
+INSERT a string
+INSERT ffIY4 string
+INSERT sI string
+BEGIN
+INSERT nl number
+INSERT ac86 string
+INSERT lM8k number
+INSERT bAS2_r string
+INSERT tyehXO string
+INSERT elI string
+END
+INSERT fm string
+INSERT uY4x number
+PRINT
+INSERT doh1 string
+ASSIGN tyehXO 1154
+INSERT zzP string
+INSERT um string
+INSERT f number

@@ -1,0 +1,27 @@
+INSERT mMU string
+ASSIGN mMU 804
+INSERT a5ea2D number
+INSERT bKDigY string
+ASSIGN mMU 'wyc2'
+INSERT vAq string
+INSERT tL_Fn number
+INSERT n6B number
+PRINT
+END
+INSERT w number
+INSERT qT number
+INSERT sJ0QL number
+INSERT p string
+INSERT tYhT number
+INSERT cvFM string
+ASSIGN p 1223
+lIa z
+INSERT w5BMGh string
+INSERT vqE number
+INSERT wFU9 string
+INSERT i6G number
+INSERT fe number
+END
+BEGIN
+END
+INSERT con5K number

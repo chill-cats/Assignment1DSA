@@ -1,0 +1,27 @@
+INSERT bP string
+LOOKUP bP
+BEGIN
+LOOKUP bP
+RPRINT
+RPRINT
+INSERT p3tBz string
+INSERT oxO number
+INSERT lU7r4v string
+INSERT rE string
+PRINT
+INSERT efy number
+INSERT cG number
+PRINT
+INSERT e3bE number
+INSERT aC7fT string
+END
+INSERT zeJ9_ string
+BEGIN
+INSERT jBGcSO string
+PRINT
+ASSIGN cG rE
+INSERT zy string
+INSERT gIGS number
+BEGIN
+INSERT rqeMZ string
+BEGIN

@@ -1,0 +1,15 @@
+INSERT jAJL number
+INSERT j4XbHB string
+INSERT rOlL number
+LOOKUP rOlL
+INSERT k2 number
+INSERT a number
+RPRINT
+INSERT isK6NK number
+INSERT pESpc string
+PRINT
+INSERT yx7M number
+INSERT jPRvAQ number
+ASSIGN pESpc pESpc
+INSERT mi string
+PRINT

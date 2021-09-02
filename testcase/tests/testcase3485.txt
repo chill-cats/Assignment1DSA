@@ -1,0 +1,36 @@
+RPRINT
+PRINT
+INSERT sz number
+INSERT x6A number
+PRINT
+BEGIN
+INSERT snaK string
+INSERT tYoZ0o number
+INSERT bn string
+INSERT avZ number
+LOOKUP avZ
+INSERT xR number
+INSERT bn string
+INSERT a number
+INSERT wMX30Y number
+INSERT mSIdR8 number
+INSERT v2QgN number
+INSERT opRrv number
+LOOKUP sz
+INSERT jRF74 number
+INSERT e9g_M string
+INSERT x74E string
+INSERT awkXa number
+END
+END
+PRINT
+ASSIGN x74E x74E
+INSERT d2 number
+INSERT bBbf string
+PRINT
+INSERT l number
+INSERT lLpm string
+INSERT toQFsF number
+BEGIN
+INSERT pMUas string
+END

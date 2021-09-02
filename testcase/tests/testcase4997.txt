@@ -1,0 +1,25 @@
+INSERT ic number
+BEGIN
+INSERT rQF1 number
+END
+INSERT tu4j string
+ASSIGN tu4j tu4j
+INSERT l string
+INSERT hoF5U number
+PRINT
+INSERT nvNJ string
+END
+BEGIN
+END
+INSERT x7S8 number
+END
+INSERT wQAP number
+BEGIN
+END
+END
+INSERT g number
+ASSIGN wQAP 'd'
+END
+INSERT d number
+INSERT u0cJY string
+INSERT xOGx7 number

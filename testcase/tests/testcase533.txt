@@ -1,0 +1,16 @@
+ASSIGN x 260
+INSERT l number
+INSERT nHMkRR number
+INSERT nuH string
+INSERT wT number
+INSERT rzuhWH string
+INSERT sw number
+INSERT zYC string
+INSERT o86F number
+PRINT
+INSERT l2 number
+ASSIGN nuH wT
+INSERT gdGt_ number
+INSERT njC string
+ASSIGN sw 'uqhh'
+INSERT c7yEC number

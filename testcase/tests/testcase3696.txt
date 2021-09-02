@@ -1,0 +1,31 @@
+kgCE g
+INSERT qVfev9 string
+BEGIN
+INSERT h_4L number
+LOOKUP qVfev9
+INSERT p string
+END
+ASSIGN p h_4L
+RPRINT
+INSERT q string
+INSERT o_Ucvi number
+INSERT y number
+RPRINT
+INSERT uJy string
+BEGIN
+dsR f
+INSERT mhC4Ym string
+INSERT nYx4ET number
+BEGIN
+ASSIGN q 's'
+ASSIGN h_4L 983
+END
+INSERT n string
+INSERT fK number
+BEGIN
+INSERT eIp48A string
+INSERT w4qJh number
+ASSIGN p 166
+PRINT
+ASSIGN mhC4Ym qVfev9
+INSERT erx number

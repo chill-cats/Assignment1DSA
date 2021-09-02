@@ -1,0 +1,7 @@
+INSERT o8 number
+RPRINT
+ASSIGN o8 o8
+INSERT hE67 string
+INSERT z5f string
+ASSIGN z5f 'u'
+INSERT il number

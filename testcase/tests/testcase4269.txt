@@ -1,0 +1,7 @@
+INSERT nbvl string
+ASSIGN nbvl 784
+INSERT k number
+INSERT j06 number
+INSERT kpa number
+INSERT l string
+INSERT t9a string

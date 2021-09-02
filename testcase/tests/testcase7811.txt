@@ -1,0 +1,39 @@
+INSERT s number
+gc j
+PRINT
+INSERT n89 string
+INSERT vX_p number
+INSERT eaa number
+INSERT u8o string
+iIz tW9_
+LOOKUP u8o
+RPRINT
+INSERT l string
+BEGIN
+INSERT sA3 number
+LOOKUP l
+ASSIGN eaa 935
+oZF9 e
+END
+INSERT vJ9jfb number
+mx1S bm5
+INSERT rxA number
+INSERT rYf string
+RPRINT
+INSERT xi6 number
+INSERT lrJjT string
+INSERT sjR number
+END
+RPRINT
+RPRINT
+LOOKUP xi6
+INSERT s number
+INSERT bfzVJ string
+PRINT
+INSERT us number
+INSERT h string
+INSERT a number
+INSERT xuXKC string
+INSERT ywdu string
+INSERT u number
+INSERT z5HkE string

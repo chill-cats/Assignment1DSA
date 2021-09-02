@@ -1,0 +1,10 @@
+BEGIN
+INSERT i80lX string
+INSERT qM8Fch number
+RPRINT
+LOOKUP i80lX
+INSERT vw4 number
+RPRINT
+INSERT ib number
+BEGIN
+INSERT q number

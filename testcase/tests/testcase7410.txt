@@ -1,0 +1,25 @@
+INSERT iLzJ number
+LOOKUP iLzJ
+INSERT aQ string
+ASSIGN iLzJ iLzJ
+RPRINT
+BEGIN
+INSERT w number
+RPRINT
+INSERT qs8I7 string
+END
+RPRINT
+INSERT dS number
+INSERT pSu number
+RPRINT
+INSERT qT620 string
+BEGIN
+INSERT dTtOa number
+INSERT oS number
+LOOKUP aQ
+INSERT x string
+LOOKUP qs8I7
+END
+INSERT k string
+INSERT zTq string
+INSERT hwQEAZ number

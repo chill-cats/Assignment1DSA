@@ -1,0 +1,7 @@
+INSERT ipRT8L string
+INSERT n6xEQ5 number
+INSERT qP5BqR number
+LOOKUP qP5BqR
+INSERT jxSIeB string
+INSERT mj number
+INSERT tBWvq string

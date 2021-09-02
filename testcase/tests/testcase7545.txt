@@ -1,0 +1,23 @@
+INSERT oky string
+ASSIGN sy 'Gg2X3'
+RPRINT
+INSERT qo4z number
+END
+INSERT aur number
+ASSIGN aur 756
+INSERT n string
+INSERT jaPzAo number
+INSERT biJ8 number
+INSERT tCJA string
+BEGIN
+INSERT kWdz number
+INSERT mDof number
+INSERT w string
+INSERT kh number
+INSERT xiSH number
+BEGIN
+INSERT pgLi number
+INSERT rg4 number
+RPRINT
+INSERT b7j number
+LOOKUP qo4z

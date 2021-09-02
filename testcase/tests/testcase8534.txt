@@ -1,0 +1,33 @@
+ASSIGN s 244
+LOOKUP xHUnL
+INSERT flD0T string
+INSERT ri5wz string
+ok szjI
+LOOKUP ri5wz
+nagOcc bhXl
+BEGIN
+ASSIGN flD0T 'Y'
+RPRINT
+LOOKUP flD0T
+edg4xD js9
+RPRINT
+INSERT lj8 string
+ASSIGN ri5wz '5'
+LOOKUP ri5wz
+INSERT m number
+RPRINT
+INSERT s4lIb string
+INSERT tvKtcC string
+p u5
+LOOKUP m
+INSERT t string
+INSERT t1 number
+INSERT xNzx string
+INSERT yErGj string
+INSERT gRLB0 number
+INSERT cMiNwm string
+INSERT pV string
+INSERT hPa number
+LOOKUP lRQJt
+INSERT d75D9R string
+LOOKUP lj8

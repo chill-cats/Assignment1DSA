@@ -1,0 +1,17 @@
+INSERT e0nOa number
+RPRINT
+LOOKUP e0nOa
+INSERT m string
+INSERT g5KUKo string
+LOOKUP e0nOa
+BEGIN
+INSERT lVSe6 number
+INSERT hbe string
+INSERT vSXe number
+END
+INSERT beYY number
+BEGIN
+INSERT b number
+INSERT tNfi string
+INSERT c3i6H number
+ASSIGN vSXe hbe

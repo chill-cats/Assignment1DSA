@@ -1,0 +1,35 @@
+LOOKUP xbZq
+INSERT hRZrVZ string
+BEGIN
+RPRINT
+BEGIN
+INSERT iqdQ string
+PRINT
+INSERT b string
+INSERT g number
+INSERT kSy7LY string
+INSERT v string
+INSERT n number
+ASSIGN v 'GHupR'
+INSERT xrz string
+BEGIN
+INSERT oH0Mc string
+RPRINT
+PRINT
+INSERT bJS string
+ASSIGN iqdQ oH0Mc
+INSERT fZ0CE2 number
+END
+INSERT dp string
+INSERT dDjc string
+INSERT aCM number
+INSERT kJ number
+INSERT jG0RvK string
+INSERT k68Li number
+INSERT aDA2 number
+PRINT
+BEGIN
+INSERT ivKcB string
+INSERT rQEV number
+BEGIN
+END

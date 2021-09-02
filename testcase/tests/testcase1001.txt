@@ -1,0 +1,7 @@
+INSERT lOhlO string
+INSERT rbn number
+INSERT k string
+INSERT il string
+INSERT m string
+INSERT d string
+INSERT xt76ha string

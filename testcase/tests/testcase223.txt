@@ -1,0 +1,17 @@
+INSERT t string
+BEGIN
+BEGIN
+INSERT i string
+INSERT twE number
+LOOKUP t
+INSERT c number
+INSERT kD2s5 number
+END
+kZ ac1IFU
+PRINT
+INSERT fb string
+INSERT uzs string
+INSERT lGxho number
+INSERT gG string
+BEGIN
+INSERT dBN string

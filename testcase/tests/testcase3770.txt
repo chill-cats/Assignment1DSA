@@ -1,0 +1,30 @@
+INSERT tF5 string
+INSERT tT string
+INSERT bhF95h string
+INSERT hWtoM number
+INSERT un number
+INSERT jO string
+INSERT v number
+INSERT yOfHb number
+wQ9N2y v
+INSERT w8 string
+INSERT tou0 number
+ASSIGN tou0 'qpi'
+INSERT wcIyH number
+INSERT qVe string
+INSERT ph number
+BEGIN
+INSERT dJO6w string
+INSERT gEoN string
+INSERT o number
+END
+PRINT
+INSERT ots number
+ASSIGN un 'TZ'
+INSERT e5plb string
+PRINT
+END
+INSERT zC string
+INSERT jb2n string
+RPRINT
+ASSIGN ph 1140

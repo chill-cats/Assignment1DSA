@@ -1,0 +1,15 @@
+INSERT z string
+INSERT ptMjG number
+INSERT tdH number
+BEGIN
+RPRINT
+INSERT p0BiW string
+INSERT sssH number
+RPRINT
+INSERT hYH number
+PRINT
+BEGIN
+INSERT h4 string
+INSERT v2 number
+RPRINT
+LOOKUP tdH

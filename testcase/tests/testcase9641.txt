@@ -1,0 +1,24 @@
+ASSIGN kZa 1137
+PRINT
+INSERT cj08 number
+ASSIGN cj08 257
+PRINT
+INSERT y string
+INSERT vGpI string
+ASSIGN vGpI cj08
+INSERT pO1 string
+INSERT eZHxi number
+INSERT zkyCPA string
+dDtJz ohDq
+INSERT d98 number
+INSERT kBR5n string
+INSERT rieG string
+INSERT w2Da_ number
+INSERT fhpfl string
+INSERT y number
+INSERT w number
+RPRINT
+INSERT cX09ZY number
+LOOKUP fhpfl
+ASSIGN w2Da_ 169
+INSERT u number

@@ -1,0 +1,9 @@
+RPRINT
+INSERT mJ8A number
+BEGIN
+INSERT c string
+INSERT gG number
+LOOKUP c
+INSERT vEme string
+END
+BEGIN

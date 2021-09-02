@@ -1,0 +1,36 @@
+INSERT mfG number
+INSERT gQA number
+ASSIGN gQA 349
+ASSIGN mfG 'el'
+PRINT
+INSERT pG string
+BEGIN
+INSERT wQZW string
+INSERT q9BiN string
+INSERT zm81j number
+INSERT aF string
+ASSIGN zm81j gQA
+INSERT bNvM string
+LOOKUP mfG
+INSERT tT string
+LOOKUP aF
+INSERT xRxpT string
+INSERT wNHplI number
+INSERT j_a number
+PRINT
+INSERT p string
+INSERT zMmU number
+INSERT q string
+ASSIGN wNHplI 224
+INSERT p number
+ASSIGN bNvM 938
+INSERT seiS5 string
+END
+INSERT m7b number
+INSERT rVN number
+RPRINT
+RPRINT
+INSERT rvsrAb string
+END
+INSERT l string
+INSERT x5RPT0 string

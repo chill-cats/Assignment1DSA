@@ -1,0 +1,29 @@
+BEGIN
+LOOKUP e
+INSERT pV string
+ASSIGN pV 106
+INSERT hWcp number
+INSERT b number
+PRINT
+PRINT
+PRINT
+INSERT bT4 number
+BEGIN
+i0TC li5S
+w k2
+oqowH do
+BEGIN
+INSERT okc string
+INSERT c number
+RPRINT
+ASSIGN b okc
+INSERT kMsm string
+INSERT s string
+INSERT toS5Gi string
+INSERT w1hH number
+INSERT guZw string
+INSERT yn7 string
+INSERT tpB number
+ASSIGN s tpB
+PRINT
+RPRINT

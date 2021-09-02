@@ -1,0 +1,24 @@
+INSERT a number
+ASSIGN a '3'
+INSERT p_l9 string
+INSERT sMMQ number
+END
+LOOKUP sMMQ
+INSERT rXz38t string
+ASSIGN a a
+INSERT t string
+LOOKUP rXz38t
+INSERT nBlc string
+END
+INSERT nl number
+INSERT fZAuS string
+BEGIN
+INSERT m8BzW5 string
+INSERT qbqyiN number
+BEGIN
+END
+INSERT diZ string
+INSERT m string
+RPRINT
+LOOKUP t
+INSERT s6 number

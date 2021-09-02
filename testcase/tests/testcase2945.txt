@@ -1,0 +1,17 @@
+INSERT z_ string
+BEGIN
+INSERT p string
+PRINT
+END
+PRINT
+ASSIGN p p
+LOOKUP p
+RPRINT
+INSERT b number
+BEGIN
+INSERT n number
+z eIm
+pITC q
+RPRINT
+INSERT bPMg number
+pCFNmI u

@@ -1,0 +1,5 @@
+INSERT ik string
+BEGIN
+INSERT e string
+INSERT h number
+PRINT

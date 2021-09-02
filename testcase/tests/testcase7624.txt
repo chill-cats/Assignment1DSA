@@ -1,0 +1,21 @@
+INSERT x number
+PRINT
+INSERT liRaU string
+PRINT
+LOOKUP liRaU
+INSERT u string
+INSERT kAr number
+LOOKUP liRaU
+rhsQC zm9
+foZ ond
+ASSIGN liRaU '52'
+END
+INSERT i39cQ string
+INSERT y3D4q string
+INSERT ab number
+djq5j qO
+INSERT jX string
+INSERT zQshx number
+INSERT vyy string
+INSERT ai number
+RPRINT

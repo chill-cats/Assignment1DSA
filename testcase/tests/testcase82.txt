@@ -1,0 +1,15 @@
+INSERT pT number
+INSERT tTnO08 string
+PRINT
+cwY j8XJU7
+LOOKUP tTnO08
+INSERT e number
+INSERT dlBzHM string
+ASSIGN e 433
+RPRINT
+ASSIGN dlBzHM 'Z6w'
+INSERT xF0b string
+END
+INSERT yQn7 string
+INSERT eMMMd number
+v20 h_

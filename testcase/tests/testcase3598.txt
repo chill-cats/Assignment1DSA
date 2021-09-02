@@ -1,0 +1,30 @@
+INSERT yvvC number
+INSERT wrGJh number
+INSERT w number
+INSERT v3o number
+INSERT yvtOc string
+INSERT weFo string
+INSERT wnx string
+INSERT zdhTFe number
+INSERT mWu number
+END
+LOOKUP wrGJh
+ASSIGN yvtOc mWu
+INSERT qWMZ number
+ASSIGN qWMZ yvvC
+LOOKUP wrGJh
+INSERT r number
+INSERT aUxZ string
+vdN8bW e
+INSERT xE9e string
+PRINT
+LOOKUP r
+INSERT t string
+RPRINT
+mS7 aWtdhv
+INSERT l number
+ASSIGN yvtOc mWu
+ASSIGN l 223
+INSERT cyr string
+INSERT h number
+PRINT

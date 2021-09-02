@@ -1,0 +1,21 @@
+RPRINT
+BEGIN
+INSERT fDrRZT number
+INSERT jd number
+ASSIGN fDrRZT 'yex'
+INSERT fw number
+INSERT uC48iB string
+ASSIGN fDrRZT 'n'
+INSERT aWgA number
+RPRINT
+INSERT d3z string
+INSERT zc string
+INSERT gTT0 string
+RPRINT
+INSERT jkb number
+INSERT e2 string
+INSERT jAYRd number
+ASSIGN zc 'Y1x'
+PRINT
+BEGIN
+INSERT jXWS number

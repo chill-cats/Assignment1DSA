@@ -1,0 +1,10 @@
+LOOKUP yK
+PRINT
+INSERT l0sl string
+INSERT pi4O string
+INSERT oUy9hs number
+PRINT
+END
+RPRINT
+END
+LOOKUP l0sl

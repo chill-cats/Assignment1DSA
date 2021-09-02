@@ -1,0 +1,16 @@
+LOOKUP wN7
+iWg8 f
+INSERT mo string
+INSERT kQu number
+LOOKUP mo
+LOOKUP mo
+INSERT cOt number
+INSERT w string
+RPRINT
+LOOKUP kQu
+INSERT m number
+INSERT iCak8U number
+PRINT
+BEGIN
+INSERT hFd number
+INSERT cntE number

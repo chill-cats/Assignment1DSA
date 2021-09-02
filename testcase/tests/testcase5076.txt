@@ -1,0 +1,19 @@
+INSERT iPDHBi string
+INSERT xq6cPw number
+INSERT fMzmne number
+BEGIN
+ASSIGN fMzmne 'Ue7WU'
+LOOKUP fMzmne
+LOOKUP iPDHBi
+INSERT a string
+INSERT z string
+INSERT xRviBF string
+PRINT
+END
+INSERT nRxd2r string
+END
+INSERT wm string
+INSERT vg string
+INSERT fUbJmG number
+PRINT
+INSERT e number

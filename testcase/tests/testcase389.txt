@@ -1,0 +1,39 @@
+INSERT pSS number
+RPRINT
+RPRINT
+LOOKUP pSS
+INSERT tuAZa number
+INSERT x6Rh string
+INSERT eHe94w number
+RPRINT
+INSERT yMNit number
+RPRINT
+g0HEK bMNzb
+INSERT u8f7 number
+INSERT lkVxtz string
+INSERT on5 number
+INSERT oIL number
+RPRINT
+LOOKUP pSS
+INSERT ghyYj number
+INSERT sq3 number
+INSERT j number
+INSERT qUfXLU string
+INSERT h number
+BEGIN
+RPRINT
+RPRINT
+INSERT yhlxV number
+INSERT lCZa string
+LOOKUP j
+INSERT p number
+ASSIGN qUfXLU 663
+INSERT plA7o2 number
+INSERT n string
+INSERT z string
+PRINT
+INSERT wgv0B number
+PRINT
+INSERT y29Ek string
+INSERT tX number
+LOOKUP on5

@@ -1,0 +1,20 @@
+INSERT b2 string
+INSERT iHYZo4 string
+INSERT ePl4 number
+INSERT oZBPW string
+INSERT ha9G number
+END
+RPRINT
+LOOKUP b2
+INSERT uO3fsR number
+END
+INSERT hYV0lu string
+INSERT x string
+INSERT wJFwXb string
+END
+INSERT ee string
+BEGIN
+RPRINT
+INSERT h87 number
+PRINT
+ASSIGN iHYZo4 35

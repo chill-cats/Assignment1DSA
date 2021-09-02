@@ -1,0 +1,40 @@
+PRINT
+INSERT c string
+INSERT vsHDI number
+INSERT rDZv string
+INSERT y number
+INSERT rYOi6 string
+INSERT xO string
+END
+BEGIN
+INSERT uadX number
+INSERT cA5WiM string
+INSERT eA2fSm number
+END
+INSERT fZDHY number
+INSERT yiLHS string
+RPRINT
+LOOKUP c
+INSERT aHt0 string
+INSERT nZepC number
+RPRINT
+LOOKUP fZDHY
+INSERT k number
+INSERT o_wKK number
+INSERT gn string
+BEGIN
+BEGIN
+BEGIN
+INSERT tiF number
+BEGIN
+INSERT qw6ze string
+INSERT ztbF2F number
+INSERT d string
+INSERT tvnW string
+INSERT qBRS string
+INSERT yt string
+INSERT bd number
+h_2 zEYs
+INSERT i34 string
+INSERT zK string
+INSERT t00 string

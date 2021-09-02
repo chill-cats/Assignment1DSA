@@ -1,0 +1,40 @@
+RPRINT
+END
+INSERT t string
+BEGIN
+INSERT aoOJ_q number
+INSERT o number
+INSERT kkRNtW number
+INSERT p7E number
+END
+INSERT dJyt0 number
+INSERT gEfgy number
+INSERT zI number
+LOOKUP zI
+INSERT mzG number
+BEGIN
+INSERT q0HQHn number
+INSERT odv number
+ASSIGN mzG 'XsZ'
+INSERT xay string
+INSERT kAFffI string
+INSERT x string
+INSERT vd string
+RPRINT
+INSERT oCj number
+INSERT mw2 string
+INSERT rl string
+RPRINT
+INSERT pM number
+INSERT kmI number
+RPRINT
+ASSIGN t 203
+nPP vMTNmn
+INSERT xRBi string
+yl7MUQ m_
+INSERT cQmO8m number
+PRINT
+INSERT xN string
+INSERT w string
+INSERT sx string
+END

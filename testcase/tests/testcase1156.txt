@@ -1,0 +1,37 @@
+PRINT
+RPRINT
+INSERT l number
+ASSIGN l 'cuVoP'
+END
+INSERT tQ string
+INSERT wiQ number
+LOOKUP tQ
+v0WM gb3lF
+RPRINT
+INSERT xhdE3 number
+INSERT c number
+INSERT fYig number
+BEGIN
+LOOKUP wiQ
+RPRINT
+RPRINT
+INSERT ub number
+INSERT cfQWj number
+INSERT fhXm7 string
+PRINT
+INSERT iw string
+INSERT rALv string
+INSERT v3CKp string
+n qRSZ
+END
+ASSIGN wiQ rALv
+END
+PRINT
+LOOKUP xhdE3
+ASSIGN v3CKp 801
+ah w4
+RPRINT
+RPRINT
+hm8 o
+INSERT jeGb_ number
+ASSIGN xhdE3 524

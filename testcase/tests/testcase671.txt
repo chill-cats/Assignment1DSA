@@ -1,0 +1,13 @@
+LOOKUP gcEh
+PRINT
+INSERT gyS string
+gR tf
+RPRINT
+RPRINT
+INSERT lcm_ko string
+INSERT pWAh number
+INSERT kWB number
+END
+ASSIGN lcm_ko 'w7iog'
+INSERT jpnF number
+ASSIGN pWAh 'l'

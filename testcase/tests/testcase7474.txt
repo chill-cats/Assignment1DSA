@@ -1,0 +1,35 @@
+INSERT tss9D string
+ASSIGN tss9D tss9D
+BEGIN
+RPRINT
+INSERT tzGw4D string
+BEGIN
+INSERT cyp_XN number
+INSERT kf2Qj number
+INSERT dRv number
+INSERT y2LB2M number
+PRINT
+INSERT efQ string
+INSERT s number
+PRINT
+BEGIN
+INSERT s_86 string
+INSERT ao string
+INSERT v9 string
+END
+BEGIN
+INSERT jXq string
+INSERT g number
+ASSIGN s_86 jXq
+LOOKUP g
+INSERT iAnAqV number
+INSERT h number
+LOOKUP tzGw4D
+INSERT lYkc1e number
+INSERT m3LzZ string
+RPRINT
+INSERT rf9hNl number
+BEGIN
+PRINT
+INSERT oQoeq number
+INSERT sD0df number

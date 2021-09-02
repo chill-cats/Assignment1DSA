@@ -1,0 +1,38 @@
+INSERT svr0 string
+INSERT cmVE number
+INSERT yJe_ number
+ASSIGN svr0 yJe_
+BEGIN
+END
+INSERT j2BWRp number
+INSERT wWnfu5 string
+PRINT
+RPRINT
+INSERT yOQb number
+iWJDh bKLb
+INSERT y5 number
+INSERT tQ number
+ijKLfZ u_DnIE
+END
+INSERT qbIc6 string
+INSERT h93DT number
+LOOKUP qbIc6
+RPRINT
+BEGIN
+INSERT l0U string
+END
+RPRINT
+BEGIN
+INSERT rbUxo string
+INSERT iiL number
+PRINT
+INSERT k4 number
+INSERT g9jQuo string
+INSERT xNCQ number
+INSERT mOHz string
+INSERT blvE number
+END
+INSERT j string
+INSERT qAR8tP number
+INSERT i string
+INSERT gVPSV string

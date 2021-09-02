@@ -1,0 +1,12 @@
+INSERT ijf string
+INSERT mq number
+BEGIN
+INSERT aeH number
+INSERT l9PL string
+BEGIN
+LOOKUP aeH
+INSERT a number
+INSERT uQw9C string
+RPRINT
+INSERT fNlsn number
+INSERT fIE number

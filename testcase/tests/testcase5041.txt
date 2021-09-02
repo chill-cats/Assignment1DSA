@@ -1,0 +1,16 @@
+INSERT tV2UX string
+INSERT fiV6c string
+INSERT dK number
+INSERT g string
+INSERT uVm_ number
+END
+INSERT w8 number
+INSERT eLg number
+INSERT m2 string
+INSERT cRYz number
+INSERT zjcV number
+INSERT lPLsSR string
+BEGIN
+INSERT r number
+BEGIN
+INSERT hok number

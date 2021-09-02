@@ -1,0 +1,8 @@
+INSERT h_ string
+PRINT
+INSERT g number
+LOOKUP g
+INSERT y7 number
+PRINT
+INSERT qwy number
+INSERT yfGY string

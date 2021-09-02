@@ -1,0 +1,18 @@
+INSERT hXZQ2 number
+INSERT v2iV string
+INSERT pMh1I string
+RPRINT
+INSERT g string
+INSERT m7j number
+ASSIGN hXZQ2 'iF'
+INSERT iHYhAb string
+INSERT aFLq string
+INSERT v7 number
+ASSIGN iHYhAb 'M'
+INSERT chN2 string
+INSERT jc number
+ASSIGN chN2 664
+LOOKUP jc
+RPRINT
+INSERT tbqjQ1 string
+INSERT s number

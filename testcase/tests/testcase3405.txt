@@ -1,0 +1,5 @@
+ASSIGN nH 959
+PRINT
+INSERT cOs number
+INSERT auK7Lc number
+INSERT yeVv8 string

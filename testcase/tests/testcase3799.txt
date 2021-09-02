@@ -1,0 +1,19 @@
+END
+INSERT bb string
+ASSIGN bb bb
+INSERT ffmyS number
+INSERT ny4j number
+INSERT u string
+INSERT kGxE7 number
+INSERT wT94qZ number
+rCNQ8r t
+INSERT yN string
+INSERT uQnL number
+LOOKUP ny4j
+INSERT bO2r number
+INSERT aX6yCr number
+INSERT xWl number
+ASSIGN yN ffmyS
+INSERT vvL9JN string
+BEGIN
+LOOKUP yN

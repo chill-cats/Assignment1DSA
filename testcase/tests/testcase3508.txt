@@ -1,0 +1,9 @@
+INSERT m string
+BEGIN
+RPRINT
+INSERT wsjey string
+INSERT ovbMD number
+INSERT e0i string
+RPRINT
+INSERT u0CDG number
+INSERT chX6 string

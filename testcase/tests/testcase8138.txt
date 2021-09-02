@@ -1,0 +1,32 @@
+INSERT m number
+INSERT eWuc5s string
+INSERT b string
+PRINT
+ASSIGN d_j 404
+ASSIGN eWuc5s 'T7I'
+INSERT g5 number
+INSERT wE0 number
+BEGIN
+INSERT j7jysZ number
+INSERT cY number
+INSERT iD string
+INSERT mPpJuP number
+RPRINT
+LOOKUP eWuc5s
+INSERT rg7lB number
+LOOKUP cY
+ASSIGN rg7lB j7jysZ
+LOOKUP eWuc5s
+in90 jwr_GL
+INSERT exU1dk string
+END
+INSERT euF number
+LOOKUP wE0
+BEGIN
+PRINT
+INSERT gOe number
+END
+BEGIN
+INSERT oGwdK number
+PRINT
+n bOb

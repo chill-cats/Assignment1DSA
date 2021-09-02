@@ -1,0 +1,19 @@
+INSERT vX string
+INSERT ePzP number
+INSERT kBe9hh number
+LOOKUP ePzP
+INSERT ob number
+INSERT tHySB string
+INSERT yIsB number
+LOOKUP ob
+INSERT myFz string
+INSERT nGGbM number
+INSERT ad number
+INSERT w9 string
+PRINT
+INSERT k string
+INSERT y string
+INSERT ax6a number
+INSERT ix1t0 string
+LOOKUP w9
+INSERT ve number

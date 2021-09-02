@@ -1,0 +1,37 @@
+ASSIGN zh 360
+INSERT se number
+INSERT a9vHXP number
+INSERT cDiy00 string
+INSERT oJkpu string
+INSERT pFas string
+INSERT nmJ_n number
+INSERT aIlny number
+INSERT u6K string
+ASSIGN se 'U'
+INSERT p number
+INSERT ksa number
+INSERT uS string
+INSERT m9s2E string
+RPRINT
+INSERT yIa string
+INSERT nRqf number
+PRINT
+BEGIN
+INSERT ftT number
+INSERT jtv string
+LOOKUP uS
+INSERT tYMF string
+INSERT hiuIk number
+INSERT oi number
+INSERT s80T string
+ASSIGN jtv 748
+INSERT b string
+RPRINT
+END
+INSERT b number
+INSERT phh string
+RPRINT
+INSERT iVZ number
+INSERT i8gtM number
+INSERT gE string
+INSERT l1D string

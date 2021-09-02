@@ -1,0 +1,18 @@
+LOOKUP z
+INSERT u number
+INSERT fuRXHb string
+LOOKUP fuRXHb
+INSERT j9IRp6 number
+RPRINT
+INSERT l52Ykr number
+INSERT b42X string
+ASSIGN j9IRp6 214
+END
+INSERT rv0a_p string
+BEGIN
+END
+INSERT yvuQH string
+INSERT xK number
+INSERT kQO9 number
+END
+BEGIN

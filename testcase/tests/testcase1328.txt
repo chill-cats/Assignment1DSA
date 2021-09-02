@@ -1,0 +1,26 @@
+INSERT sKF number
+INSERT fx5 string
+RPRINT
+INSERT xKvQU string
+fDzcBH kAoS
+INSERT z1riM number
+INSERT kQRyV string
+INSERT hry1rG string
+INSERT y number
+INSERT pzVx number
+INSERT dC7LG string
+LOOKUP xKvQU
+ASSIGN z1riM pzVx
+INSERT uRu number
+INSERT bZ string
+INSERT hx9 string
+INSERT xO string
+PRINT
+BEGIN
+INSERT qKR8 string
+RPRINT
+LOOKUP qKR8
+INSERT r66_6_ string
+INSERT sE number
+INSERT w number
+INSERT h number

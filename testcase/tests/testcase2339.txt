@@ -1,0 +1,6 @@
+INSERT rDgz string
+INSERT lvIoQN number
+ue shJCYl
+ASSIGN lvIoQN rDgz
+LOOKUP rDgz
+INSERT xE string

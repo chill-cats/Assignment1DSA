@@ -1,0 +1,20 @@
+ASSIGN dx69 '3wK'
+INSERT rQ4ui string
+INSERT jByX3Y string
+INSERT m0iy string
+INSERT aLi number
+BEGIN
+INSERT sTcp26 number
+END
+LOOKUP jByX3Y
+se x
+INSERT uhud number
+INSERT tq5mkZ string
+INSERT wh9K number
+INSERT deT string
+INSERT pxxg string
+INSERT lG number
+INSERT bjU string
+PRINT
+RPRINT
+INSERT w number

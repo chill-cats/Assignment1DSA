@@ -1,0 +1,11 @@
+BEGIN
+INSERT p598 string
+INSERT gAEh string
+INSERT pB number
+BEGIN
+INSERT gg number
+INSERT dcA string
+INSERT sBoZ string
+INSERT gVcEW number
+LOOKUP gAEh
+END

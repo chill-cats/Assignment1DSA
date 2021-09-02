@@ -1,0 +1,9 @@
+RPRINT
+INSERT ksOGd number
+INSERT nHhP string
+INSERT afF_M number
+LOOKUP ksOGd
+INSERT ikUMRC number
+PRINT
+RPRINT
+INSERT hPp string

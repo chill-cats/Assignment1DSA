@@ -1,0 +1,40 @@
+INSERT zR string
+RPRINT
+INSERT kD string
+INSERT luBQCj number
+ASSIGN zR 'D'
+LOOKUP luBQCj
+INSERT dILw string
+INSERT ka string
+LOOKUP luBQCj
+BEGIN
+END
+zUXIo1 c
+INSERT t string
+LOOKUP dILw
+PRINT
+INSERT s1 number
+ASSIGN t 678
+INSERT vPp1 string
+END
+END
+ASSIGN t 674
+PRINT
+INSERT q number
+PRINT
+END
+END
+INSERT lKxJ3H number
+INSERT mP string
+INSERT p1Rs_ number
+INSERT l5 number
+INSERT pH number
+INSERT fukT7M string
+PRINT
+INSERT mbsR string
+INSERT uXHX number
+RPRINT
+INSERT yLu string
+INSERT i4U string
+INSERT a string
+INSERT w number

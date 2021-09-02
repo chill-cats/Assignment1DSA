@@ -1,0 +1,20 @@
+INSERT qNwnwW string
+INSERT x number
+INSERT d string
+INSERT rlR number
+INSERT rj1 string
+INSERT aAoG string
+PRINT
+INSERT ld9 number
+ASSIGN aAoG 858
+PRINT
+INSERT q2 string
+LOOKUP e_96G
+INSERT p1p number
+INSERT ac7287 string
+ASSIGN q2 1149
+INSERT vu7e number
+INSERT tB number
+RPRINT
+PRINT
+INSERT xnIT string

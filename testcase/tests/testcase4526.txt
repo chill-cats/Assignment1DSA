@@ -1,0 +1,16 @@
+INSERT btiWS string
+INSERT c3 string
+INSERT v2r_b string
+INSERT kJWNF number
+INSERT w8s string
+z zse
+INSERT b0gix string
+RPRINT
+INSERT tO8peS number
+LOOKUP btiWS
+PRINT
+INSERT l string
+INSERT nE number
+RPRINT
+INSERT lP number
+INSERT e number

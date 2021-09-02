@@ -1,0 +1,32 @@
+INSERT rkd string
+END
+BEGIN
+INSERT gT string
+END
+ASSIGN gT gT
+INSERT neu string
+LOOKUP rkd
+INSERT tmY string
+INSERT e1X_N string
+PRINT
+INSERT dkWR number
+INSERT fZa4 number
+u6 uRS
+lhfE8 zZ1B
+INSERT fO string
+INSERT qLZr number
+INSERT sAdyP string
+INSERT kf number
+ASSIGN kf '4j CW'
+ASSIGN e1X_N 984
+PRINT
+INSERT wEgkXH number
+LOOKUP sAdyP
+INSERT u number
+INSERT tUlfF string
+ASSIGN kf 'keTS2'
+PRINT
+INSERT n7rEN string
+INSERT b6Wo number
+INSERT jtiog number
+INSERT t number

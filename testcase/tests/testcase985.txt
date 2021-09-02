@@ -1,0 +1,21 @@
+INSERT gX4h string
+INSERT wT4MT number
+INSERT dsQq number
+END
+LOOKUP dsQq
+INSERT z8t number
+LOOKUP z8t
+RPRINT
+END
+INSERT wjP number
+LOOKUP gX4h
+BEGIN
+INSERT jSprj2 string
+ASSIGN z8t 1101
+INSERT e string
+sbkGRV aBPJd
+PRINT
+END
+LOOKUP dsQq
+ASSIGN dsQq wjP
+INSERT nv number

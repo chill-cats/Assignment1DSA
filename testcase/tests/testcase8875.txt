@@ -1,0 +1,37 @@
+LOOKUP zaO3D
+INSERT eFH string
+END
+INSERT hy4W number
+INSERT w number
+INSERT wYQTc number
+INSERT jj number
+INSERT voFFo number
+LOOKUP voFFo
+INSERT m6LU4 number
+INSERT aQEz string
+INSERT opDl string
+INSERT rJlYA string
+END
+INSERT imKQ string
+PRINT
+PRINT
+INSERT ug string
+mC vVM
+INSERT ievb number
+INSERT g9Af string
+PRINT
+INSERT x string
+ASSIGN hy4W 968
+INSERT piHf_ string
+INSERT iCC string
+RPRINT
+INSERT aDwL8 string
+INSERT w4pp string
+INSERT vEUTrC number
+trZOgl t4
+RPRINT
+INSERT ftKM0r number
+LOOKUP aQEz
+INSERT p string
+RPRINT
+INSERT xFk string

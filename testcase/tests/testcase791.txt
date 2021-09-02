@@ -1,0 +1,13 @@
+cBP9 cv
+RPRINT
+INSERT wrb number
+INSERT uY68 string
+LOOKUP wrb
+LOOKUP wrb
+BEGIN
+INSERT tKCXhO number
+INSERT b string
+INSERT t55lZ number
+INSERT nj number
+END
+bK57 v

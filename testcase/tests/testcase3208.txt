@@ -1,0 +1,27 @@
+INSERT nWJ number
+INSERT ak number
+LOOKUP ak
+INSERT gkTuJm string
+BEGIN
+INSERT s5lP number
+INSERT oQrO number
+LOOKUP ak
+INSERT cShv number
+INSERT w0flu number
+INSERT h9tO05 string
+INSERT s number
+INSERT fvof string
+INSERT gEL1v number
+INSERT u string
+INSERT eO string
+RPRINT
+INSERT iTmsyv number
+ASSIGN s '3dad'
+INSERT ckth string
+INSERT nu6l number
+INSERT ca5FS string
+LOOKUP nu6l
+INSERT pM9sq number
+RPRINT
+INSERT sQ string
+INSERT r string

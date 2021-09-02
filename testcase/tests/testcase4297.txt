@@ -1,0 +1,24 @@
+INSERT nsLsvg number
+INSERT o1 number
+BEGIN
+ASSIGN o1 nsLsvg
+INSERT csU string
+INSERT smKgjs number
+INSERT v number
+END
+INSERT dxjw number
+INSERT lx number
+INSERT ybfBRM string
+BEGIN
+LOOKUP nsLsvg
+INSERT ealCM string
+bAZJ ze8
+ASSIGN v 'KG'
+BEGIN
+INSERT uLB string
+INSERT kGadea number
+INSERT oSG string
+BEGIN
+INSERT l_T string
+INSERT yC string
+INSERT queIcn number

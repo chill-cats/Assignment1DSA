@@ -1,0 +1,20 @@
+PRINT
+INSERT qA21 number
+INSERT yNDSF string
+INSERT fLsIZ string
+INSERT afLcs string
+INSERT kU number
+INSERT nLfq number
+INSERT kc number
+BEGIN
+RPRINT
+INSERT fODoO9 number
+INSERT i15 string
+ASSIGN yNDSF 949
+INSERT lW string
+INSERT oRll string
+RPRINT
+RPRINT
+RPRINT
+INSERT q2dNq number
+LOOKUP yNDSF

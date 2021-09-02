@@ -1,0 +1,26 @@
+pNe gUF
+INSERT x string
+INSERT xGoEug number
+RPRINT
+END
+INSERT oV6v number
+RPRINT
+LOOKUP x
+PRINT
+INSERT e0G string
+INSERT rxp number
+PRINT
+INSERT gTgp string
+INSERT s5x9Su string
+INSERT w7 number
+INSERT zAJP8 string
+RPRINT
+INSERT p string
+ASSIGN oV6v 1157
+INSERT nUi4sC number
+INSERT eec number
+INSERT uINn string
+BEGIN
+INSERT o string
+INSERT t number
+INSERT z9gQS8 string

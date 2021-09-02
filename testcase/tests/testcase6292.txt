@@ -1,0 +1,17 @@
+LOOKUP ahn
+INSERT wRB string
+INSERT gsP_ number
+INSERT tOXtd number
+INSERT lQrGf string
+INSERT w48 number
+INSERT pDNuE3 number
+INSERT rl number
+INSERT kFVEc number
+RPRINT
+INSERT gln number
+INSERT bhZzdT string
+PRINT
+RPRINT
+BEGIN
+PRINT
+INSERT wLZZn string

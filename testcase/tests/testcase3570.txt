@@ -1,0 +1,19 @@
+INSERT i1U4 number
+INSERT aup0 number
+INSERT lBI6XS string
+INSERT r0qY string
+INSERT uNrpc number
+END
+INSERT u string
+END
+END
+INSERT af number
+INSERT c9NKF number
+INSERT a4ICg1 string
+INSERT j number
+BEGIN
+INSERT jCz string
+INSERT o number
+INSERT m7T string
+ASSIGN lBI6XS '8IE46'
+BEGIN

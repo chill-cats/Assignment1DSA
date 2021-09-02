@@ -1,0 +1,30 @@
+ASSIGN sBE 497
+LOOKUP t
+INSERT v string
+LOOKUP v
+INSERT wJmF string
+INSERT zQMP string
+PRINT
+INSERT aJVN number
+INSERT vWOl number
+ASSIGN aJVN v
+INSERT jNLRv string
+INSERT caCa7z string
+INSERT pu string
+INSERT c_ number
+INSERT zqOu string
+END
+INSERT k_OfZO number
+INSERT iq7BOO number
+ASSIGN zqOu 242
+v7fnDc x8Vw
+INSERT nW number
+iX f
+jeT ws
+INSERT pp0OS_ number
+RPRINT
+PRINT
+INSERT tl number
+INSERT ohktUc string
+PRINT
+INSERT qu_GX string

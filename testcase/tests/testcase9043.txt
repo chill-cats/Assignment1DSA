@@ -1,0 +1,14 @@
+LOOKUP vZ
+INSERT gBdTz number
+INSERT ovP string
+INSERT eX string
+RPRINT
+INSERT c14N string
+INSERT inRv string
+INSERT x string
+INSERT oRQ5 string
+INSERT mZ number
+INSERT s string
+BEGIN
+INSERT jmE number
+INSERT h_Kt string

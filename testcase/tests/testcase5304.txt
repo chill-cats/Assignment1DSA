@@ -1,0 +1,11 @@
+INSERT w number
+PRINT
+ASSIGN w w
+BEGIN
+INSERT l3xHfp string
+PRINT
+INSERT pszrO number
+INSERT j string
+INSERT zQIu string
+INSERT h number
+n_ o2J9

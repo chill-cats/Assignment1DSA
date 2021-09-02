@@ -1,0 +1,28 @@
+INSERT gERSs string
+PRINT
+INSERT t string
+LOOKUP gERSs
+INSERT l1 number
+BEGIN
+INSERT ixHs5 string
+INSERT b number
+ASSIGN gERSs 648
+INSERT e string
+INSERT q0_AU string
+END
+INSERT eBX string
+INSERT vV number
+INSERT jKT0e string
+PRINT
+END
+INSERT rX number
+INSERT f string
+LOOKUP j
+INSERT nON number
+INSERT sY number
+INSERT pqMV string
+INSERT i8hu number
+INSERT h4As_ number
+INSERT jPGlm number
+w iZO
+END

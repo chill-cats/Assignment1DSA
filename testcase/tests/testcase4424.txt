@@ -1,0 +1,11 @@
+INSERT w1 string
+ASSIGN w1 '0'
+LOOKUP w1
+INSERT wTuHO number
+INSERT tYI4p string
+INSERT dK string
+INSERT fYb77 number
+ASSIGN w1 795
+INSERT pOQ number
+INSERT rY string
+INSERT cxrN number

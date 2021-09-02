@@ -1,0 +1,11 @@
+INSERT lYo5PN string
+LOOKUP lYo5PN
+RPRINT
+INSERT vu2bc number
+ASSIGN vu2bc 's5soy'
+RPRINT
+PRINT
+INSERT jzvs string
+BEGIN
+INSERT nDT number
+INSERT eRG number

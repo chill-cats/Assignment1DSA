@@ -1,0 +1,28 @@
+INSERT yiYO string
+END
+INSERT d4 string
+BEGIN
+RPRINT
+LOOKUP d4
+INSERT crqf string
+LOOKUP crqf
+INSERT nLiIW number
+BEGIN
+INSERT xi4 string
+INSERT e string
+INSERT tJaNT number
+END
+INSERT a7Gi string
+INSERT kmLR string
+INSERT n8fFhr string
+PRINT
+INSERT gJM string
+INSERT uVKC string
+INSERT uiR9C number
+INSERT hba string
+INSERT tjw number
+LOOKUP e
+INSERT qKJuys number
+INSERT fYv number
+INSERT m0Bs string
+INSERT l2t number

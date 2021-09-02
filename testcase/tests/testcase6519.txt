@@ -1,0 +1,5 @@
+INSERT mrC number
+ASSIGN mrC 'uJ'
+RPRINT
+INSERT eZe string
+INSERT nVnw number

@@ -1,0 +1,24 @@
+ASSIGN h '13 bQ'
+INSERT g4K0OL number
+INSERT lqB number
+RPRINT
+LOOKUP lqB
+INSERT d number
+i jfim7K
+BEGIN
+INSERT spskqZ string
+INSERT fF number
+ASSIGN lqB 637
+ASSIGN g4K0OL lqB
+INSERT fkm string
+INSERT v3 string
+INSERT lDz number
+LOOKUP v3
+INSERT fPez number
+INSERT tLwJBV number
+INSERT wNAT number
+INSERT p string
+eJ q
+END
+INSERT iQC57B string
+RPRINT

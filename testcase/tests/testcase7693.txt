@@ -1,0 +1,17 @@
+PRINT
+INSERT tBnpOk number
+INSERT amYJrI number
+INSERT gEFn number
+INSERT z number
+INSERT m number
+LOOKUP tBnpOk
+INSERT n65YL number
+d7imf0 qCR3jO
+INSERT atD6r string
+END
+no0 zlg6c
+INSERT xrLX number
+BEGIN
+INSERT ej2 number
+LOOKUP tBnpOk
+ASSIGN m '8yjd1'

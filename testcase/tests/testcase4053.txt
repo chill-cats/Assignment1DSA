@@ -1,0 +1,30 @@
+BEGIN
+LOOKUP zj_
+INSERT lo number
+INSERT d8CHw2 string
+INSERT dhV1t number
+BEGIN
+ASSIGN dhV1t 'ILb'
+INSERT vb number
+RPRINT
+INSERT lUEZ2 string
+END
+INSERT o4ts number
+INSERT jqv string
+INSERT ltwk0k number
+RPRINT
+INSERT aMMMlg string
+tj nY96
+RPRINT
+INSERT xPgiwg string
+LOOKUP aMMMlg
+INSERT bFW number
+INSERT kZsv7 string
+INSERT tK number
+INSERT lmN6W string
+ASSIGN jqv tK
+INSERT tn string
+INSERT nyJ44 string
+INSERT wy string
+INSERT oF number
+INSERT u6D number

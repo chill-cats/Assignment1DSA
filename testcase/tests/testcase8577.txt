@@ -1,0 +1,40 @@
+BEGIN
+LOOKUP uq
+PRINT
+INSERT jH string
+INSERT kFT31 number
+INSERT g string
+INSERT o number
+INSERT qa number
+ASSIGN jH 350
+INSERT g9kb number
+BEGIN
+BEGIN
+INSERT rKXfM2 string
+BEGIN
+INSERT puxBol number
+INSERT pBJfEl number
+INSERT c string
+INSERT c5ORH number
+INSERT jWrLKm number
+RPRINT
+INSERT pPhrE string
+INSERT f string
+LOOKUP puxBol
+LOOKUP rKXfM2
+INSERT sa number
+INSERT eA number
+INSERT oR number
+raj2 gOae
+ASSIGN jH 152
+INSERT iTCfdQ number
+LOOKUP o
+RPRINT
+INSERT deAKep number
+INSERT r string
+LOOKUP f
+INSERT jp string
+INSERT q string
+INSERT xA4 number
+END
+BEGIN

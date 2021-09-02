@@ -1,0 +1,3 @@
+INSERT l4 number
+INSERT sv string
+PRINT

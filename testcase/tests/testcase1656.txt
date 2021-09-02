@@ -1,0 +1,18 @@
+INSERT b6A string
+INSERT t4 string
+INSERT j5K7b string
+INSERT vWD string
+INSERT sjg number
+INSERT dH string
+INSERT dyr_p number
+qr qQ9g
+INSERT enWn string
+ASSIGN dyr_p b6A
+INSERT pkjUUV string
+INSERT cUp6E string
+RPRINT
+INSERT xHi3MJ number
+INSERT cxZeyN string
+INSERT kJO number
+INSERT aWzSCa number
+LOOKUP cxZeyN

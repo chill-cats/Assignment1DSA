@@ -1,0 +1,3 @@
+ASSIGN tAiA '1f'
+INSERT s7CWR string
+INSERT z string

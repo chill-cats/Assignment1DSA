@@ -1,0 +1,21 @@
+END
+INSERT kh number
+END
+INSERT bxZWq number
+INSERT smDzl0 string
+BEGIN
+LOOKUP bxZWq
+ux u
+RPRINT
+INSERT aEig string
+INSERT iK number
+INSERT t string
+INSERT b string
+RPRINT
+ASSIGN b 597
+INSERT w4Muh string
+INSERT r3t2 number
+INSERT g3eZ string
+INSERT k6 string
+RPRINT
+INSERT y7wR string

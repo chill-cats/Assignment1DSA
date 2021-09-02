@@ -1,0 +1,34 @@
+END
+INSERT x string
+INSERT y3uKiZ string
+INSERT hkgG98 string
+INSERT hGslF number
+LOOKUP hkgG98
+LOOKUP hGslF
+INSERT r number
+PRINT
+END
+BEGIN
+INSERT bJ string
+LOOKUP bJ
+INSERT iltLdc string
+INSERT e0 number
+ASSIGN r 667
+INSERT gwQXf string
+RPRINT
+INSERT hlAXH string
+INSERT hc57r number
+INSERT bp string
+INSERT qf0M number
+INSERT e4s string
+INSERT k5myA number
+INSERT uPZejn string
+END
+END
+INSERT jR number
+INSERT m string
+INSERT dsWKdJ number
+INSERT mh4q string
+INSERT oe9MF string
+INSERT pJk number
+INSERT p02 number

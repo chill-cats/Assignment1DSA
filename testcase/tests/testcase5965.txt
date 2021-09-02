@@ -1,0 +1,13 @@
+INSERT kW1 string
+ASSIGN kW1 555
+INSERT vbp_ number
+INSERT t2ygY number
+ASSIGN t2ygY 83
+INSERT g5GdC number
+LOOKUP vbp_
+INSERT q number
+INSERT s9fl1 string
+ASSIGN vbp_ vbp_
+INSERT zpycr string
+INSERT tWQa7 number
+INSERT zL_ll number

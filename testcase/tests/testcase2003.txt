@@ -1,0 +1,6 @@
+INSERT c number
+INSERT c9A5F number
+INSERT w6aU number
+LOOKUP c9A5F
+INSERT khPRw string
+INSERT lbU number

@@ -1,0 +1,20 @@
+dMFd w
+INSERT rvfnom number
+RPRINT
+ASSIGN rvfnom 'a62'
+INSERT qaa string
+INSERT y number
+INSERT p7b number
+INSERT v string
+jRtI vj
+INSERT z number
+INSERT m string
+INSERT so2D string
+ocu hNEA
+INSERT j65 string
+INSERT m9b number
+INSERT d8in string
+INSERT iF4Sk_ number
+RPRINT
+LOOKUP d8in
+END

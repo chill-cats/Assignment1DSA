@@ -1,0 +1,13 @@
+RPRINT
+INSERT uY string
+PRINT
+INSERT qp string
+END
+INSERT xxt_ number
+INSERT o2xN string
+INSERT fNVBr number
+LOOKUP xxt_
+z dHyHae
+INSERT sb9vo string
+INSERT fY string
+INSERT bbh3t0 number

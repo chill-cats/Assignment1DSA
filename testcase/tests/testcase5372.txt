@@ -1,0 +1,24 @@
+LOOKUP wJ
+INSERT d_ number
+INSERT pIisa5 string
+ASSIGN pIisa5 776
+INSERT xXw number
+RPRINT
+END
+PRINT
+y9_p pw0ZhF
+INSERT bjkO number
+INSERT rkv number
+INSERT wJdN1 string
+ASSIGN xXw rkv
+LOOKUP rkv
+INSERT yM string
+RPRINT
+INSERT wY number
+INSERT fX string
+uZR wCg7
+INSERT gfspi number
+BEGIN
+bymA oBn
+BEGIN
+INSERT w number

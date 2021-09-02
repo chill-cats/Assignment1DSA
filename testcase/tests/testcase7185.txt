@@ -1,0 +1,35 @@
+INSERT v7yjid string
+INSERT yziO number
+INSERT wV number
+PRINT
+INSERT yEvq string
+INSERT hnRg string
+INSERT qdPg1 string
+INSERT w string
+INSERT uqF string
+INSERT xl number
+INSERT od7 string
+INSERT kr number
+INSERT uxN number
+BEGIN
+INSERT l string
+LOOKUP uxN
+INSERT uD number
+LOOKUP uxN
+INSERT o5Hm string
+INSERT w6xsh string
+INSERT wDeG_o string
+LOOKUP hnRg
+PRINT
+END
+INSERT hZ8g string
+INSERT mhrXoK number
+LOOKUP kr
+RPRINT
+BEGIN
+INSERT r number
+INSERT e5xPs string
+END
+INSERT aNKLVq string
+INSERT kjB number
+RPRINT

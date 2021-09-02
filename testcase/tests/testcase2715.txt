@@ -1,0 +1,23 @@
+INSERT u4y number
+INSERT zes08 string
+INSERT eCSgBq number
+INSERT xXaL number
+INSERT biLNm number
+INSERT cTh string
+PRINT
+INSERT uG8N number
+INSERT uoJ1 number
+INSERT kRfZN number
+INSERT t7vRF string
+INSERT hQUDsS number
+INSERT ylySA string
+INSERT a number
+INSERT qZcy number
+INSERT hUyr4O string
+BEGIN
+PRINT
+INSERT y number
+END
+INSERT lX string
+INSERT krvcV number
+RPRINT

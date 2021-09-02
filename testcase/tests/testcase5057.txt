@@ -1,0 +1,3 @@
+ASSIGN pC 542
+INSERT l number
+INSERT qZ string

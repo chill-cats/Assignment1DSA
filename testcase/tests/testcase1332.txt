@@ -1,0 +1,16 @@
+INSERT pD number
+PRINT
+INSERT jCMj number
+INSERT vJz number
+PRINT
+INSERT pVUUMB string
+ASSIGN vJz 'El'
+INSERT cQ number
+PRINT
+INSERT a83 string
+v mvDjiU
+INSERT i1Xa string
+INSERT mzJCj number
+END
+RPRINT
+INSERT lJK number

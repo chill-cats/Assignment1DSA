@@ -1,0 +1,34 @@
+BEGIN
+INSERT afx8n string
+PRINT
+INSERT q number
+INSERT m string
+INSERT n1_F number
+INSERT nL number
+INSERT y string
+INSERT zE string
+INSERT q32x string
+PRINT
+LOOKUP q32x
+INSERT mn string
+INSERT j9FXK number
+PRINT
+INSERT v number
+INSERT gT number
+INSERT m string
+INSERT za string
+PRINT
+RPRINT
+INSERT t number
+PRINT
+ASSIGN za 176
+n3E o_KZ
+PRINT
+m e3P
+INSERT y_ string
+INSERT eal number
+INSERT bgYf number
+INSERT qlr7BM string
+INSERT aZAo number
+INSERT kqF2 string
+INSERT wDpb string

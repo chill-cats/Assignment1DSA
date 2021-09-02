@@ -1,0 +1,13 @@
+INSERT vQ string
+INSERT om0 string
+INSERT u number
+INSERT anK4Z number
+BEGIN
+cE bi
+INSERT v_ number
+INSERT dfkr string
+INSERT huQw number
+INSERT y number
+INSERT tYUc number
+LOOKUP tYUc
+ASSIGN vQ 386

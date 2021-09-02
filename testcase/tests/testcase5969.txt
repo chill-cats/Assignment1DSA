@@ -1,0 +1,34 @@
+INSERT obK string
+END
+INSERT t number
+LOOKUP obK
+INSERT eQ number
+INSERT d number
+INSERT yaOGC string
+INSERT m number
+INSERT gH4Vn string
+INSERT ybgm number
+INSERT zld7 string
+INSERT w number
+INSERT o number
+INSERT u string
+INSERT zq string
+m uG81k
+LOOKUP u
+zBVNm xFw
+INSERT hkfD6 string
+INSERT lCk number
+END
+INSERT xuSLyI string
+ASSIGN eQ 'I5n5'
+iKQVb6 anBnE
+INSERT dn number
+INSERT dO8h number
+INSERT aiK number
+INSERT ch6 string
+END
+RPRINT
+INSERT v8tlqw string
+LOOKUP yaOGC
+INSERT q2 number
+aoV icY

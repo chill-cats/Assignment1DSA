@@ -1,0 +1,19 @@
+PRINT
+RPRINT
+INSERT hkd number
+PRINT
+INSERT t string
+lG fUPe
+PRINT
+LOOKUP t
+INSERT e5 string
+INSERT wien string
+INSERT vYuZ number
+INSERT amstp3 number
+INSERT f string
+LOOKUP amstp3
+ASSIGN hkd wien
+INSERT rS number
+INSERT lW number
+END
+ASSIGN rS 'vl99e'

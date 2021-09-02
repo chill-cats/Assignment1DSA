@@ -1,0 +1,40 @@
+ASSIGN tZH 410
+INSERT k5GD string
+INSERT crekRk string
+LOOKUP k5GD
+INSERT stGxGt string
+INSERT eWK number
+PRINT
+INSERT aUXq number
+INSERT jW number
+INSERT j9 number
+INSERT rApI string
+INSERT cJr7I string
+INSERT xQwJf string
+PRINT
+INSERT h number
+END
+RPRINT
+INSERT gl_ number
+INSERT oPewx number
+INSERT uFr5CY string
+INSERT xY string
+END
+ASSIGN j9 aUXq
+INSERT er4 string
+INSERT p1K number
+BEGIN
+INSERT kJ8 number
+INSERT c number
+RPRINT
+INSERT z string
+INSERT lU5fz2 string
+INSERT x4Ra number
+ASSIGN c 1058
+BEGIN
+INSERT kzNg number
+RPRINT
+INSERT hb number
+INSERT hcYwx string
+END
+INSERT q string

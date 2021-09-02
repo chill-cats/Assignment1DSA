@@ -1,0 +1,21 @@
+END
+INSERT n number
+INSERT f string
+INSERT uO number
+INSERT sZZ38A string
+INSERT gygw number
+INSERT vJ string
+INSERT a number
+INSERT lu4OX number
+INSERT z string
+PRINT
+INSERT a_w2 string
+INSERT g7kw number
+INSERT v86kC number
+INSERT lvh number
+INSERT luYH string
+RPRINT
+INSERT cfxCe number
+ASSIGN uO uO
+BEGIN
+INSERT z6 string

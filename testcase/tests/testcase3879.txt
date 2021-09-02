@@ -1,0 +1,22 @@
+ASSIGN w5ZFZ 'LL6'
+INSERT sPA0 number
+RPRINT
+INSERT hkK29 string
+INSERT z number
+INSERT fWrS number
+RPRINT
+INSERT k7 number
+INSERT tZO string
+INSERT nJg number
+INSERT xXsCug number
+INSERT wi number
+INSERT ajyl2u number
+INSERT i string
+LOOKUP i
+INSERT rJ string
+RPRINT
+BEGIN
+sM9 kkUfb
+INSERT dRR number
+ASSIGN dRR 'nAZ'
+INSERT sbXg number

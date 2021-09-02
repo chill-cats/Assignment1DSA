@@ -1,0 +1,16 @@
+END
+RPRINT
+INSERT bB number
+INSERT i number
+INSERT fJEGyL number
+INSERT wYdI number
+LOOKUP fJEGyL
+hITH l8
+INSERT yhc number
+INSERT ySMEo string
+INSERT czXjBK number
+INSERT pLOUJ string
+ASSIGN yhc ySMEo
+INSERT tzI number
+INSERT bZmN number
+PRINT

@@ -1,0 +1,35 @@
+BEGIN
+INSERT m number
+ASSIGN m 'Y'
+INSERT zSWv0 number
+INSERT ipg4T number
+INSERT kpmJF7 string
+INSERT iOIwH7 string
+BEGIN
+RPRINT
+INSERT v string
+ASSIGN kpmJF7 'rAYr'
+INSERT rt string
+INSERT yer string
+INSERT c41 number
+INSERT f4k string
+INSERT e_H string
+INSERT y5iZ7 string
+INSERT qYiMu string
+INSERT huP string
+INSERT wI string
+INSERT iN8oBG string
+INSERT iAs number
+END
+LOOKUP qYiMu
+END
+INSERT d1k string
+INSERT jJOZ8 string
+RPRINT
+INSERT oGpGUy number
+END
+INSERT vQ7j number
+INSERT l6 number
+INSERT w string
+ASSIGN wI 403
+INSERT bULo number

@@ -1,0 +1,12 @@
+zAIQ z
+INSERT npZI number
+RPRINT
+LOOKUP npZI
+ASSIGN npZI npZI
+INSERT sYHxwP number
+INSERT ixZX number
+INSERT i6iE number
+INSERT t4O5zU string
+INSERT d_d string
+INSERT gz number
+INSERT os number

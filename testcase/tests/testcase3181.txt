@@ -1,0 +1,24 @@
+ASSIGN oMfB 'pThB'
+zQcnmX mh
+PRINT
+INSERT yb number
+RPRINT
+LOOKUP yb
+INSERT ub number
+ASSIGN ub 'qsK'
+RPRINT
+INSERT vvBf81 string
+ASSIGN vvBf81 'qz'
+INSERT zwB string
+INSERT gK string
+INSERT iU5 string
+INSERT bdhDb number
+ASSIGN iU5 'gT'
+INSERT ca string
+PRINT
+END
+INSERT qH number
+LOOKUP ca
+INSERT zRKl number
+INSERT wBwUF1 number
+INSERT ggZm string

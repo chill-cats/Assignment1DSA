@@ -1,0 +1,39 @@
+END
+RPRINT
+INSERT vkX number
+LOOKUP vkX
+INSERT eDiO number
+INSERT jwv number
+INSERT y8bms number
+INSERT fWgH number
+PRINT
+INSERT s number
+LOOKUP y8bms
+INSERT ozf number
+INSERT wkMmz string
+PRINT
+BEGIN
+ASSIGN wkMmz 'b'
+END
+RPRINT
+INSERT kLv string
+INSERT n number
+RPRINT
+LOOKUP jwv
+INSERT w number
+INSERT egsa number
+w5Xd wky
+INSERT sOixNA number
+INSERT gdW string
+INSERT a number
+INSERT e1nw number
+INSERT nn4BF number
+INSERT tgh number
+RPRINT
+INSERT vr string
+LOOKUP ju
+INSERT oFTsDS number
+LOOKUP w
+INSERT g4WJA9 string
+INSERT q4MMEv string
+INSERT xVFVAE string

@@ -1,0 +1,21 @@
+INSERT wueRkU number
+PRINT
+ASSIGN wueRkU wueRkU
+BEGIN
+PRINT
+RPRINT
+ASSIGN wueRkU 'LinEF'
+INSERT z number
+INSERT dW string
+INSERT dk string
+PRINT
+INSERT pU24 number
+LOOKUP pU24
+INSERT aSD string
+INSERT qCY5 number
+LOOKUP dW
+INSERT zBgs string
+INSERT ip0 number
+INSERT jMbplI number
+INSERT hW1BcT string
+INSERT wNk_ string

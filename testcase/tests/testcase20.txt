@@ -1,0 +1,21 @@
+RPRINT
+INSERT bV number
+INSERT lrcx_ string
+INSERT q863R number
+PRINT
+INSERT tpoJ number
+fMp cgoZh
+INSERT e number
+yjO o
+INSERT c2IT_ string
+INSERT aRxV string
+INSERT e6UYyd string
+INSERT woU string
+INSERT uf string
+INSERT rgLV number
+INSERT zpCO string
+ASSIGN c2IT_ rgLV
+RPRINT
+INSERT aH3 string
+INSERT mx5 string
+LOOKUP woU

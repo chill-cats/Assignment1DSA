@@ -1,0 +1,38 @@
+INSERT mCN string
+INSERT gDLEn number
+INSERT alKp string
+INSERT tOke number
+INSERT yIBqE number
+BEGIN
+INSERT iCv number
+ASSIGN iCv 211
+INSERT t7eM string
+INSERT wT string
+LOOKUP iCv
+INSERT vZQ string
+INSERT teNiNp string
+PRINT
+INSERT cmo string
+ASSIGN iCv 133
+INSERT y number
+INSERT wNbH number
+INSERT xeeb5A string
+ASSIGN u gDLEn
+END
+INSERT fR string
+INSERT xB5U string
+LOOKUP mCN
+INSERT qBMG1y number
+ASSIGN gDLEn 769
+INSERT bhf string
+INSERT fZ1qJN number
+RPRINT
+END
+INSERT m number
+INSERT h number
+INSERT ha6u3F string
+INSERT g number
+INSERT iu99M1 string
+INSERT aopsM string
+INSERT za number
+INSERT tuE number

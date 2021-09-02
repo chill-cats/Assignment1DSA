@@ -1,0 +1,13 @@
+LOOKUP x
+INSERT eh number
+INSERT d9C_VN number
+END
+INSERT hhNIRG string
+INSERT tKW9Wy string
+INSERT o7 number
+INSERT xc number
+ASSIGN eh 'n2T'
+INSERT eOh string
+INSERT i string
+END
+INSERT g string

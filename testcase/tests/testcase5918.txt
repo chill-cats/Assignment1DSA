@@ -1,0 +1,12 @@
+INSERT hqVUg string
+END
+RPRINT
+BEGIN
+ASSIGN hqVUg 866
+LOOKUP hqVUg
+LOOKUP hqVUg
+INSERT gs6y number
+INSERT fH number
+RPRINT
+PRINT
+INSERT rNpkLF number

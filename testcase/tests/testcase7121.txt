@@ -1,0 +1,6 @@
+INSERT b0lSPJ string
+INSERT p8f3nE number
+INSERT g9kX number
+INSERT a string
+END
+INSERT ks4P string

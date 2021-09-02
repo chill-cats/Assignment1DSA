@@ -1,0 +1,31 @@
+INSERT l string
+INSERT ellZR number
+PRINT
+LOOKUP ellZR
+INSERT tjpt string
+INSERT ced number
+INSERT mCeDX number
+LOOKUP ced
+LOOKUP ellZR
+INSERT t number
+INSERT gfz number
+INSERT m4be string
+PRINT
+INSERT lrmT3 string
+INSERT iFFV7 string
+INSERT lJNCW string
+INSERT n string
+INSERT v number
+INSERT jJy number
+END
+x wqMOIx
+INSERT hTr4 string
+ASSIGN mCeDX l
+INSERT a number
+INSERT reRxP7 number
+INSERT jT number
+INSERT yCbX number
+END
+INSERT l number
+INSERT a number
+RPRINT

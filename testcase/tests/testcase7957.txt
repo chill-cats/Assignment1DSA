@@ -1,0 +1,23 @@
+INSERT mLPeNp string
+LOOKUP mLPeNp
+INSERT d4ZJ1u number
+INSERT iTZORS number
+INSERT kteRsZ number
+LOOKUP kteRsZ
+ASSIGN d4ZJ1u 224
+INSERT wVn number
+INSERT cfKg string
+BEGIN
+INSERT beHg string
+PRINT
+INSERT i4 number
+dB d_
+LOOKUP i4
+ASSIGN d4ZJ1u wVn
+INSERT xdwLB4 string
+INSERT vLQ6w string
+INSERT yAal number
+RPRINT
+INSERT s number
+LOOKUP beHg
+INSERT ogIb string

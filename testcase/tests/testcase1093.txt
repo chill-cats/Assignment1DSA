@@ -1,0 +1,16 @@
+BEGIN
+INSERT xc number
+INSERT sEmbz8 string
+INSERT tFH string
+INSERT tfE string
+INSERT bWPkD number
+INSERT i5z number
+INSERT g string
+RPRINT
+INSERT bQ string
+INSERT ljB8nV string
+INSERT lW37 number
+INSERT un number
+LOOKUP tFH
+ASSIGN sEmbz8 943
+ASSIGN bWPkD 10

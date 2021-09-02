@@ -1,0 +1,20 @@
+RPRINT
+b gw
+INSERT aLJG string
+LOOKUP aLJG
+BEGIN
+INSERT zD number
+INSERT chn3 number
+INSERT rge00z number
+INSERT yw6LPZ number
+INSERT bV8 string
+INSERT r6d_vv number
+PRINT
+ASSIGN chn3 453
+INSERT qv string
+INSERT k string
+juT8qM qvezt_
+LOOKUP zD
+INSERT ju number
+INSERT t8x number
+INSERT uk5BX number

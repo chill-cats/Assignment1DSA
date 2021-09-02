@@ -1,0 +1,35 @@
+INSERT yKhzm string
+ASSIGN yKhzm 1216
+q d
+INSERT a number
+INSERT oA string
+INSERT meAX string
+INSERT r number
+INSERT hM number
+INSERT rdD string
+INSERT jq string
+RPRINT
+INSERT lv string
+INSERT dqZ number
+INSERT l number
+INSERT n5qo string
+INSERT wQwH number
+INSERT aM_ number
+INSERT h string
+dp86 sxI8fB
+INSERT zx string
+LOOKUP hM
+INSERT nY11 number
+INSERT ebv string
+cHXz mvpLE
+INSERT qJx string
+INSERT oUDIS6 number
+ASSIGN ebv 852
+INSERT p string
+INSERT zYV_o string
+BEGIN
+INSERT oKsLhp string
+END
+BEGIN
+INSERT tIO6iX number
+END

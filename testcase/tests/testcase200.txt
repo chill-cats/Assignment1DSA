@@ -1,0 +1,10 @@
+INSERT pzHmrT string
+INSERT zV number
+INSERT suwS6o number
+END
+RPRINT
+INSERT fKzm number
+INSERT mq29 number
+LOOKUP mq29
+INSERT mId84 string
+PRINT

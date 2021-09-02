@@ -1,0 +1,28 @@
+INSERT niIMu string
+INSERT uQ46s number
+LOOKUP uQ46s
+INSERT ip number
+BEGIN
+INSERT x number
+INSERT x string
+ASSIGN niIMu 591
+ASSIGN niIMu 999
+INSERT uKw number
+END
+ASSIGN uQ46s ip
+BEGIN
+LOOKUP niIMu
+INSERT kiUMT string
+INSERT sIE number
+INSERT dg2 string
+LOOKUP niIMu
+PRINT
+RPRINT
+PRINT
+INSERT ndJ string
+RPRINT
+INSERT lUBuq number
+INSERT wMeQ number
+INSERT wc99 string
+END
+INSERT aESJ75 number

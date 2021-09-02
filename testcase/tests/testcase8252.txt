@@ -1,0 +1,38 @@
+BEGIN
+INSERT kq7 number
+INSERT xa number
+zgyxr sy
+INSERT o1dsPE string
+INSERT clSQeI string
+INSERT l string
+INSERT jug number
+INSERT mbX6E3 number
+INSERT oirPd number
+INSERT qc string
+LOOKUP mbX6E3
+INSERT cJ number
+INSERT q number
+INSERT nLPEeV string
+PRINT
+END
+LOOKUP xa
+INSERT q number
+PRINT
+ASSIGN kq7 279
+INSERT cz string
+INSERT tb number
+INSERT b string
+INSERT jyB string
+PRINT
+INSERT k9soh string
+INSERT zg1kAF string
+BEGIN
+INSERT psq7fB number
+INSERT lypXzY number
+INSERT plN string
+INSERT y number
+RPRINT
+INSERT e6 number
+xXs m_ra
+BEGIN
+INSERT p2vq number

@@ -1,0 +1,39 @@
+INSERT w number
+LOOKUP w
+END
+INSERT kCAg number
+z qmxvV
+INSERT a number
+LOOKUP w
+INSERT agd number
+INSERT g string
+INSERT h1 number
+LOOKUP kCAg
+INSERT cOrvH string
+gbG go
+INSERT v number
+INSERT puWPq string
+INSERT xg string
+INSERT pBdUp number
+INSERT zAyXQ number
+INSERT wbQxsr string
+INSERT xU number
+RPRINT
+PRINT
+dxfJ hdgpy
+BEGIN
+BEGIN
+INSERT n3Ulcv string
+INSERT jB number
+INSERT meXP number
+INSERT paeVuY number
+INSERT dvUJGs number
+ASSIGN xg dvUJGs
+INSERT wjgPv string
+END
+INSERT ezKe number
+INSERT sb number
+ASSIGN cOrvH a
+INSERT cd number
+PRINT
+INSERT rBcRet string

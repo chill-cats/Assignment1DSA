@@ -1,0 +1,4 @@
+INSERT c7 number
+INSERT rr number
+INSERT k5XP number
+INSERT u8Wrcd number

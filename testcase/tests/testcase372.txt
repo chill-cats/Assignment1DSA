@@ -1,0 +1,20 @@
+END
+INSERT dxPW number
+LOOKUP dxPW
+INSERT p80 string
+INSERT tgXku8 string
+RPRINT
+ASSIGN dxPW tgXku8
+RPRINT
+INSERT flN number
+INSERT am84Eu string
+INSERT i number
+INSERT o string
+END
+INSERT t3OOn_ number
+dtOhS9 vmXd
+ASSIGN am84Eu 902
+INSERT fN number
+INSERT l9st number
+INSERT j number
+ASSIGN o tgXku8

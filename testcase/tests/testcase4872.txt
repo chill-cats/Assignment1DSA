@@ -1,0 +1,7 @@
+INSERT jA2 number
+ASSIGN jA2 jA2
+INSERT hl2 string
+ASSIGN hl2 hl2
+RPRINT
+INSERT l number
+ASSIGN hl2 'bMc8o'

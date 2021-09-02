@@ -1,0 +1,36 @@
+PRINT
+INSERT xb string
+INSERT i4a96U string
+INSERT s string
+e o
+PRINT
+INSERT xl string
+INSERT koog number
+INSERT w string
+INSERT ktuD number
+INSERT sTnX0W string
+INSERT qq1q0 number
+INSERT d string
+INSERT usNG6 string
+INSERT p95F number
+INSERT m7QXBL string
+INSERT f_ string
+END
+INSERT xJS number
+INSERT pv4xE number
+PRINT
+INSERT hItsf number
+INSERT oQ number
+LOOKUP xJS
+PRINT
+INSERT mO string
+END
+INSERT emB2h number
+PRINT
+LOOKUP xJS
+BEGIN
+INSERT htUz string
+INSERT t number
+bCXb aYQ
+INSERT kSXlEO string
+LOOKUP m7QXBL

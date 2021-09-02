@@ -1,0 +1,29 @@
+INSERT m string
+PRINT
+END
+INSERT pZRlX string
+INSERT kUI7 number
+INSERT j number
+INSERT tic string
+PRINT
+INSERT bf6v string
+ASSIGN m kUI7
+PRINT
+END
+INSERT m number
+INSERT ptRBXm string
+INSERT m string
+INSERT f number
+INSERT a string
+INSERT sq number
+RPRINT
+INSERT a string
+PRINT
+INSERT wVWb number
+LOOKUP pZRlX
+BEGIN
+INSERT bhM5O_ string
+INSERT eH string
+INSERT lKSfW number
+RPRINT
+INSERT xmXvFq number

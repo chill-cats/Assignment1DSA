@@ -1,0 +1,21 @@
+BEGIN
+INSERT tQI string
+LOOKUP tQI
+INSERT j string
+INSERT y number
+BEGIN
+LOOKUP tQI
+INSERT yutf string
+INSERT p string
+INSERT dwQbUp number
+PRINT
+END
+INSERT l number
+INSERT pv6 string
+END
+INSERT hddOz_ number
+INSERT kkVsgq string
+INSERT q6 number
+INSERT aqrzd number
+INSERT zC number
+INSERT hlqr string

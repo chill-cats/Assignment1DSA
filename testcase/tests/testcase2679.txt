@@ -1,0 +1,18 @@
+INSERT cWRbzv number
+INSERT o string
+END
+INSERT at7dS number
+INSERT pGe5 string
+ASSIGN cWRbzv 418
+INSERT i number
+RPRINT
+INSERT oET number
+ASSIGN at7dS i
+RPRINT
+INSERT v number
+PRINT
+INSERT st string
+INSERT gmHz number
+RPRINT
+INSERT fW string
+INSERT z string

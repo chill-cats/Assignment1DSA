@@ -1,0 +1,16 @@
+BEGIN
+INSERT q number
+INSERT h number
+ASSIGN kFfxQE 'S'
+INSERT ijW string
+BEGIN
+ASSIGN ijW q
+BEGIN
+INSERT pj8A string
+INSERT lve_w string
+INSERT dy number
+INSERT dh8KHh number
+INSERT pcETI number
+BEGIN
+BEGIN
+END

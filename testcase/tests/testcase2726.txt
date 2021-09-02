@@ -1,0 +1,34 @@
+INSERT aTgmmI number
+INSERT lExSuQ number
+RPRINT
+INSERT dTu7hn string
+INSERT s number
+INSERT c0 string
+INSERT x number
+INSERT jcmef number
+INSERT g number
+INSERT djN9U4 number
+LOOKUP c0
+RPRINT
+INSERT w number
+ASSIGN g 'v'
+PRINT
+END
+LOOKUP dTu7hn
+INSERT m7z2 number
+END
+LOOKUP c0
+LOOKUP x
+ASSIGN m7z2 'Or '
+INSERT ezx number
+END
+INSERT ie string
+LOOKUP w
+LOOKUP djN9U4
+ASSIGN ie 'noUrm'
+INSERT mnk number
+ASSIGN ie 195
+INSERT dClZtl number
+BEGIN
+END
+BEGIN

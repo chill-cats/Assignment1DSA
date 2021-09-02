@@ -1,0 +1,28 @@
+INSERT sUup string
+ASSIGN sUup sUup
+INSERT r number
+INSERT oY string
+PRINT
+INSERT g string
+INSERT v string
+INSERT qgHc5 number
+INSERT w8 number
+ASSIGN qgHc5 267
+RPRINT
+INSERT lqz string
+INSERT unS1XU number
+INSERT t string
+INSERT z4XJ number
+INSERT sg8_P number
+LOOKUP oY
+INSERT sgpY string
+END
+INSERT nYZ1i number
+b5 bHfo4M
+LOOKUP unS1XU
+INSERT s9LlC string
+INSERT aJvN string
+INSERT trpHRF string
+PRINT
+INSERT cBa number
+INSERT goYk string

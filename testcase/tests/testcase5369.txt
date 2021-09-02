@@ -1,0 +1,34 @@
+INSERT rhRM2 string
+RPRINT
+INSERT f7 number
+INSERT aiN4b number
+INSERT d number
+INSERT gm6aE number
+INSERT lPvGUJ number
+INSERT dsL5i string
+END
+LOOKUP aiN4b
+INSERT jJIWZ number
+INSERT yJ9b string
+INSERT jn2n number
+INSERT jd5wWj string
+END
+BEGIN
+INSERT ee2k number
+BEGIN
+INSERT ib string
+INSERT w number
+RPRINT
+INSERT aLUNQ number
+END
+PRINT
+INSERT cm3LRD number
+INSERT lh number
+INSERT yv number
+INSERT wi number
+PRINT
+INSERT q number
+INSERT sW string
+LOOKUP aiN4b
+INSERT h string
+f5vOb dc

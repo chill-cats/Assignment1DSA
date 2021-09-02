@@ -1,0 +1,6 @@
+BEGIN
+ASSIGN g0rBN '24R'
+INSERT iU number
+INSERT p string
+BEGIN
+INSERT f8 string

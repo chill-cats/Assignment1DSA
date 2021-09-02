@@ -1,0 +1,7 @@
+LOOKUP a4LBfu
+PRINT
+INSERT uwtW number
+INSERT jR string
+INSERT aR67f string
+LOOKUP aR67f
+INSERT hp number

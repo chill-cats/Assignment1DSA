@@ -1,0 +1,15 @@
+INSERT gtR string
+PRINT
+INSERT m2 string
+INSERT lw6x6 string
+RPRINT
+INSERT wzsQ string
+RPRINT
+INSERT u number
+INSERT bU1_L string
+BEGIN
+INSERT gde number
+INSERT lbWSB number
+INSERT qlQzt string
+ASSIGN bU1_L 'Dm'
+INSERT bT5 number

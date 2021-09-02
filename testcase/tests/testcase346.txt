@@ -1,0 +1,38 @@
+INSERT yVBIX number
+LOOKUP yVBIX
+INSERT pPumAp number
+ASSIGN yVBIX pPumAp
+ASSIGN yVBIX 'i5'
+INSERT l number
+BEGIN
+LOOKUP yVBIX
+INSERT sNdWX string
+END
+INSERT ro48e5 string
+INSERT gA string
+INSERT ogPE string
+END
+INSERT i number
+INSERT wG string
+INSERT heyo_ string
+PRINT
+INSERT pOpi number
+INSERT fH number
+rVE xfZN
+INSERT wtZ number
+INSERT o number
+INSERT pn number
+INSERT hZhj number
+INSERT yOyYqZ string
+END
+RPRINT
+INSERT j number
+LOOKUP sNdWX
+INSERT yl number
+INSERT l3Ruva string
+INSERT gt string
+LOOKUP i
+INSERT z05Eo6 string
+rjcbzC nUVj
+INSERT lge string
+INSERT m string

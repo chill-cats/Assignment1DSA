@@ -1,0 +1,9 @@
+INSERT zU string
+INSERT r number
+INSERT bsIK number
+INSERT dGI number
+LOOKUP bsIK
+BEGIN
+INSERT j string
+INSERT c3BZR number
+va o

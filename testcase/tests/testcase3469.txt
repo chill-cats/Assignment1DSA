@@ -1,0 +1,3 @@
+ASSIGN pHZRP 'SPc'
+INSERT bfhVs number
+INSERT cL string

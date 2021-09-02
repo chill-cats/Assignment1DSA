@@ -1,0 +1,31 @@
+INSERT mgrg9 string
+PRINT
+BEGIN
+RPRINT
+END
+BEGIN
+INSERT yl string
+END
+RPRINT
+INSERT uv number
+INSERT v string
+RPRINT
+INSERT p number
+PRINT
+INSERT m number
+INSERT yO_I3v string
+INSERT v number
+INSERT it7 string
+INSERT vzeF number
+INSERT u_6GPt number
+END
+INSERT oMs string
+INSERT ndB7 string
+END
+INSERT mfh number
+INSERT e0lKY6 string
+INSERT j string
+INSERT tq6VE number
+epe5 y3
+INSERT t9a string
+INSERT q1JPt number

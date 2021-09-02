@@ -1,0 +1,24 @@
+INSERT tsbz_8 number
+INSERT te string
+PRINT
+INSERT epP string
+INSERT bS number
+leVEvX gHWeKP
+INSERT q5 string
+INSERT gdcEw8 number
+INSERT uSDOIk number
+INSERT f string
+INSERT nG number
+PRINT
+INSERT wmk string
+INSERT tBPZtn number
+INSERT r4 string
+INSERT pti number
+LOOKUP tBPZtn
+INSERT vZuWh string
+ASSIGN vZuWh 'BEMIp'
+INSERT sqWE string
+wwaYJs xxQ
+INSERT zE number
+INSERT dUC7 string
+LOOKUP te

@@ -1,0 +1,21 @@
+ASSIGN dhV4rE 'PIR'
+INSERT va string
+INSERT oRx string
+INSERT x string
+INSERT cG number
+INSERT tXWTy number
+BEGIN
+LOOKUP tXWTy
+INSERT e9RlNQ number
+BEGIN
+INSERT yMV7gS number
+INSERT aCaT1 number
+INSERT l string
+INSERT qxS8 string
+PRINT
+INSERT ddcL number
+PRINT
+INSERT fRedE string
+INSERT rvN4 string
+BEGIN
+RPRINT

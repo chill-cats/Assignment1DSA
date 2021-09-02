@@ -1,0 +1,21 @@
+INSERT m string
+INSERT cRl string
+PRINT
+INSERT zs6_2 number
+INSERT uaY3Y number
+BEGIN
+INSERT u4UU string
+INSERT f string
+INSERT kIgN number
+ASSIGN cRl kIgN
+INSERT nbeGjx string
+ASSIGN jd u4UU
+INSERT wy string
+PRINT
+BEGIN
+PRINT
+LOOKUP f
+INSERT n string
+ASSIGN u4UU 813
+INSERT zDYHmR string
+LOOKUP n

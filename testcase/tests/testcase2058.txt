@@ -1,0 +1,29 @@
+INSERT plN string
+INSERT j9lM number
+INSERT lZ7 string
+LOOKUP j9lM
+INSERT vFA number
+ASSIGN plN 'fbua'
+INSERT tJxMyK number
+INSERT uWDHD number
+INSERT gTAOx number
+INSERT eB8Bs number
+LOOKUP eB8Bs
+END
+INSERT tY1t number
+RPRINT
+INSERT q4avud number
+INSERT q string
+INSERT ih79 number
+INSERT izq string
+BEGIN
+ASSIGN j9lM ih79
+PRINT
+INSERT xjN string
+PRINT
+INSERT xNjn number
+INSERT gSx string
+LOOKUP gTAOx
+BEGIN
+INSERT h0rE number
+LOOKUP vFA

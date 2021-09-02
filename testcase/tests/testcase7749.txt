@@ -1,0 +1,17 @@
+INSERT aODv string
+INSERT n8 string
+INSERT a number
+INSERT rJSljH string
+END
+INSERT vQ_wW4 string
+END
+END
+INSERT mU43 string
+INSERT vvan number
+END
+INSERT jSP5 string
+RPRINT
+INSERT q number
+INSERT dPw string
+LOOKUP q
+INSERT zju string

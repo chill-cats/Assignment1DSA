@@ -1,0 +1,8 @@
+INSERT cILx number
+PRINT
+INSERT h1gGT string
+LOOKUP h1gGT
+INSERT rC number
+INSERT vw number
+INSERT i9 string
+INSERT i string

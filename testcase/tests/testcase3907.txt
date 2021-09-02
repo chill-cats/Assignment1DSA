@@ -1,0 +1,12 @@
+PRINT
+INSERT t9Qj2e number
+INSERT vaB string
+INSERT bGPG string
+INSERT bjtt9z string
+INSERT hGU string
+INSERT iv5HA number
+BEGIN
+ASSIGN t9Qj2e 'Qo3R'
+INSERT h_hBE string
+END
+sn pZvO

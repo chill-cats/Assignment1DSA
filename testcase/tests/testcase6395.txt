@@ -1,0 +1,17 @@
+no tl_apw
+INSERT dy string
+INSERT hhhryq string
+PRINT
+BEGIN
+INSERT jVJ string
+LOOKUP hhhryq
+BEGIN
+INSERT v9B1L string
+INSERT uFK number
+INSERT wG number
+INSERT r string
+INSERT bKAaH number
+INSERT h number
+LOOKUP uFK
+INSERT iylHYn number
+INSERT pl string

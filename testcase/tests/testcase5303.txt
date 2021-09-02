@@ -1,0 +1,17 @@
+INSERT q_E number
+INSERT vX string
+INSERT wiX string
+ASSIGN wiX 425
+INSERT nACR number
+INSERT oiva string
+PRINT
+INSERT cM_ string
+INSERT rBmdIo string
+INSERT w string
+BEGIN
+LOOKUP nACR
+INSERT muA number
+INSERT nzKO string
+INSERT y6VBIh number
+INSERT f number
+INSERT oZTNDt number

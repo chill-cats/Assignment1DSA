@@ -1,0 +1,13 @@
+INSERT nG number
+PRINT
+INSERT j7cG5 number
+INSERT wq string
+LOOKUP wq
+INSERT sYv5 string
+ASSIGN wq j7cG5
+INSERT c string
+INSERT nF18 string
+END
+BEGIN
+INSERT rPhFz string
+INSERT pGT2 number

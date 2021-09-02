@@ -1,0 +1,7 @@
+INSERT xhzj number
+INSERT r2 string
+END
+INSERT g number
+INSERT s string
+PRINT
+LOOKUP xhzj

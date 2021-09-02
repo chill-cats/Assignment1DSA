@@ -1,0 +1,23 @@
+INSERT nS string
+INSERT u number
+INSERT whORLR number
+INSERT kQV number
+INSERT ptwr6 string
+RPRINT
+INSERT nIUFP number
+INSERT ycV string
+INSERT yD8Y8c number
+PRINT
+INSERT ml3M number
+LOOKUP ml3M
+INSERT cZV string
+INSERT qH7 number
+RPRINT
+INSERT afGC number
+INSERT ui string
+PRINT
+INSERT s number
+INSERT n1o string
+INSERT k1M number
+END
+INSERT ra3DBx number

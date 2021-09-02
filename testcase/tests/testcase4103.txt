@@ -1,0 +1,17 @@
+INSERT ekzheY number
+LOOKUP ekzheY
+INSERT aI string
+INSERT bCjY4 string
+INSERT rR2gM string
+INSERT cv string
+INSERT rE9 number
+LOOKUP bCjY4
+INSERT iHgPad number
+LOOKUP iHgPad
+BEGIN
+INSERT kDv6lX string
+INSERT cQ9GX number
+sNtpV xQ
+END
+INSERT yM string
+INSERT ts number

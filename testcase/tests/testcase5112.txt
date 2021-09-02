@@ -1,0 +1,23 @@
+i i
+END
+INSERT nw0ru6 number
+INSERT lXL5h number
+PRINT
+INSERT reeZ string
+INSERT i number
+INSERT o number
+INSERT oPlS string
+INSERT zV string
+INSERT eZ number
+ASSIGN o 861
+INSERT y3 string
+INSERT jo number
+INSERT tNN_B string
+INSERT yj number
+INSERT cH7 number
+RPRINT
+INSERT wmGm string
+INSERT f number
+INSERT yYl5nk number
+RPRINT
+BEGIN

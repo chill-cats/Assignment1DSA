@@ -1,0 +1,39 @@
+PRINT
+INSERT x string
+INSERT oj string
+INSERT fs number
+INSERT l7u string
+INSERT kwcmOb string
+END
+LOOKUP oj
+ASSIGN x fs
+mNdWJ a2F
+PRINT
+pvchS i
+INSERT dDAjo string
+INSERT qy number
+INSERT lLk string
+INSERT q7o string
+END
+ASSIGN x 'LDSY'
+INSERT jU number
+INSERT q string
+INSERT jr0G number
+LOOKUP q
+RPRINT
+PRINT
+END
+INSERT ofMs_ string
+BEGIN
+INSERT y9 string
+INSERT tplTJ2 number
+INSERT bS string
+RPRINT
+INSERT i string
+PRINT
+INSERT ig string
+INSERT k_f number
+INSERT vB1vOe number
+ASSIGN dDAjo 393
+INSERT lsdM_ number
+INSERT dzbGT string

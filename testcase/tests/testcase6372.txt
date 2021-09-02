@@ -1,0 +1,13 @@
+ASSIGN xhy9 347
+INSERT po5x string
+gnuGd aHo
+INSERT e string
+ASSIGN e 'f4R'
+INSERT b string
+RPRINT
+PRINT
+END
+hVRAC q8f
+PRINT
+INSERT x50 number
+PRINT

@@ -1,0 +1,13 @@
+INSERT jeMsM string
+INSERT vmMsIk number
+INSERT pSIR1 string
+RPRINT
+INSERT uV number
+INSERT jh number
+INSERT yIN string
+INSERT hYstg number
+LOOKUP hYstg
+INSERT oWg3m number
+INSERT xs number
+INSERT rNf9Dj string
+INSERT lvb string

@@ -1,0 +1,6 @@
+INSERT ie number
+RPRINT
+BEGIN
+INSERT hFKHc number
+ASSIGN ie 502
+INSERT uUCo string

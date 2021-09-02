@@ -1,0 +1,20 @@
+BEGIN
+INSERT fsCQJS number
+INSERT oPNa number
+BEGIN
+INSERT rV number
+INSERT eq3 string
+LOOKUP eq3
+END
+ASSIGN eq3 fsCQJS
+PRINT
+INSERT x0 number
+INSERT rfB_s string
+INSERT gnNaZ8 string
+INSERT jHS number
+LOOKUP eq3
+INSERT wi number
+INSERT hJF number
+fJ zE
+LOOKUP fsCQJS
+INSERT d2Urx number

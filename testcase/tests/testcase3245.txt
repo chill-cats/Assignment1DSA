@@ -1,0 +1,8 @@
+PRINT
+PRINT
+INSERT zGTQ string
+RPRINT
+END
+END
+PRINT
+INSERT j string

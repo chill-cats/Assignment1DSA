@@ -1,0 +1,20 @@
+INSERT piN number
+RPRINT
+INSERT so string
+INSERT bwg string
+RPRINT
+ASSIGN piN 762
+INSERT t7 string
+ASSIGN so '6'
+INSERT mshud string
+INSERT lV string
+INSERT h string
+INSERT ur_1T number
+INSERT n string
+LOOKUP n
+INSERT zap number
+BEGIN
+ASSIGN h 'iU'
+INSERT yFqo number
+RPRINT
+PRINT

@@ -1,0 +1,21 @@
+ASSIGN zy7zs 'FRjwb'
+INSERT tdN number
+INSERT bGFvOd number
+INSERT ipI string
+INSERT n string
+INSERT qkzI string
+ASSIGN tdN 73
+INSERT iFoJI string
+INSERT s1k string
+LOOKUP bGFvOd
+BEGIN
+INSERT xmX string
+RPRINT
+PRINT
+INSERT g number
+INSERT kC6TBT number
+INSERT fpn string
+ASSIGN iFoJI 1218
+INSERT y9ur string
+ASSIGN qkzI '9lm9 '
+INSERT c18z4I number

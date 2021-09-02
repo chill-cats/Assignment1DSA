@@ -1,0 +1,14 @@
+INSERT irZO5 number
+INSERT j92e string
+INSERT lPvxwe number
+LOOKUP fQHC_r
+BEGIN
+INSERT yd8m6W number
+INSERT qDGq string
+INSERT xZ number
+INSERT xM9H string
+INSERT oEp string
+LOOKUP lPvxwe
+INSERT c6Qik1 number
+INSERT s string
+INSERT cUB string

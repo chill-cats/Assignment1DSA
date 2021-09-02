@@ -1,0 +1,19 @@
+RPRINT
+aq_ pBr
+INSERT jwLl number
+INSERT oF94DT string
+INSERT s8cp_ string
+INSERT smE string
+RPRINT
+LOOKUP smE
+ASSIGN oF94DT oF94DT
+ASSIGN smE jwLl
+INSERT q0m8b string
+ASSIGN s8cp_ 'Wg'
+ay vPzL
+BEGIN
+INSERT c string
+INSERT por string
+INSERT cH number
+INSERT u9s3 number
+c oQGTe

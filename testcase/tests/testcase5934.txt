@@ -1,0 +1,40 @@
+INSERT aM string
+INSERT tpA number
+ASSIGN tpA 'es'
+INSERT deP number
+INSERT odicB number
+INSERT awc1 string
+RPRINT
+INSERT wdhSC number
+INSERT rSJU string
+INSERT sAQ string
+BEGIN
+INSERT y number
+INSERT uU string
+BEGIN
+RPRINT
+ASSIGN rSJU 'Ysf'
+BEGIN
+INSERT n number
+ASSIGN wdhSC 'C'
+ii n9v
+INSERT reQv string
+INSERT sPENc string
+ASSIGN deP 1192
+PRINT
+INSERT mFwn3Q number
+END
+INSERT naM5 string
+INSERT iHl5 string
+INSERT g4rd number
+RPRINT
+INSERT jCbYcp number
+INSERT zTi string
+INSERT kCm8L string
+LOOKUP naM5
+INSERT yrwy string
+INSERT n0f7 string
+INSERT t number
+INSERT oRbJQS string
+INSERT h number
+INSERT aD number

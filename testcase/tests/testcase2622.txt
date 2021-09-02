@@ -1,0 +1,20 @@
+INSERT i_Lxi string
+INSERT y4He_ string
+INSERT uH string
+INSERT m2ph string
+INSERT hDB number
+BEGIN
+ASSIGN y4He_ 325
+INSERT mTuqv_ number
+RPRINT
+INSERT q5Z number
+LOOKUP i_Lxi
+INSERT g number
+BEGIN
+PRINT
+INSERT l8u string
+INSERT oWvl string
+INSERT o0RJZ number
+INSERT tcNO string
+INSERT n string
+INSERT xI string

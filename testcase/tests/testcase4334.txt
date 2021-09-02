@@ -1,0 +1,34 @@
+LOOKUP c4U1V0
+RPRINT
+LOOKUP aEZzvR
+RPRINT
+INSERT g6J string
+INSERT mVKz5 number
+INSERT qx number
+BEGIN
+RPRINT
+END
+PRINT
+INSERT cFh9V number
+INSERT sl string
+INSERT y number
+ASSIGN qx 30
+INSERT flP number
+INSERT gmNA number
+INSERT uY9oLp string
+INSERT q0n7 number
+INSERT b number
+INSERT xX number
+INSERT kQZM7 string
+END
+INSERT k string
+INSERT oa7g2 string
+RPRINT
+INSERT pi string
+sBBp aik5
+INSERT tx number
+INSERT sHOcSI string
+ASSIGN k 654
+BEGIN
+PRINT
+RPRINT

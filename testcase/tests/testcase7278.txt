@@ -1,0 +1,17 @@
+jBM yr
+INSERT qgWxt string
+RPRINT
+INSERT mun number
+LOOKUP qgWxt
+INSERT ybu string
+INSERT nj string
+INSERT bQd number
+INSERT s4YK number
+INSERT n7W0N string
+LOOKUP ybu
+ASSIGN s4YK 779
+INSERT pc number
+INSERT s2k number
+INSERT ir number
+INSERT rhN5 string
+BEGIN

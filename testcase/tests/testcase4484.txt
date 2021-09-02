@@ -1,0 +1,18 @@
+INSERT bWE number
+INSERT o7tE number
+END
+PRINT
+INSERT cTmd number
+END
+ASSIGN cTmd 1196
+PRINT
+INSERT ob8 string
+INSERT nXtn string
+INSERT b8hk string
+INSERT iKbe string
+INSERT z string
+LOOKUP iKbe
+PRINT
+INSERT c string
+eOJL8 yL
+ASSIGN z 1009

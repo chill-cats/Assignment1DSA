@@ -1,0 +1,15 @@
+INSERT sbPL7 string
+INSERT tAu number
+RPRINT
+INSERT zaQV string
+INSERT jC number
+INSERT c5TOD5 number
+END
+INSERT nDc0_ string
+PRINT
+INSERT iaW string
+INSERT iS string
+INSERT v string
+ASSIGN tAu c5TOD5
+INSERT sC3IS string
+END

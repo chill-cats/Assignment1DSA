@@ -1,0 +1,12 @@
+INSERT q0M number
+INSERT m1F string
+INSERT fFdbz number
+RPRINT
+INSERT o number
+LOOKUP fFdbz
+INSERT k number
+sw a
+ASSIGN o 'bfo4Q'
+INSERT o number
+BEGIN
+INSERT xJ string

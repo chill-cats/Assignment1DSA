@@ -1,0 +1,40 @@
+LOOKUP bHl
+j2h2dK t2
+RPRINT
+RPRINT
+RPRINT
+LOOKUP a4or
+INSERT t3KCX number
+INSERT rGQBW string
+INSERT k18 number
+INSERT tM3eC string
+INSERT qmPx number
+INSERT uQic string
+ASSIGN uQic t3KCX
+INSERT uJYKmm number
+INSERT yz number
+INSERT dk string
+RPRINT
+END
+LOOKUP t3KCX
+INSERT iLk8 number
+INSERT bk8JrL string
+INSERT h4 number
+ASSIGN tM3eC rGQBW
+INSERT wyXo3s string
+RPRINT
+INSERT a5y3Ny number
+INSERT bSV number
+INSERT sfX number
+LOOKUP tM3eC
+INSERT x string
+LOOKUP wyXo3s
+kIZ5 vIj
+ASSIGN sfX 'PuqT'
+INSERT lqnodl number
+END
+PRINT
+INSERT dFE string
+LOOKUP tM3eC
+INSERT u string
+INSERT r string

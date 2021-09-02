@@ -1,0 +1,11 @@
+INSERT uf string
+ASSIGN uf 307
+INSERT vsVxTx string
+wBNmC0 w0iXBg
+INSERT gH string
+RPRINT
+INSERT iRgZ number
+INSERT sgfr number
+PRINT
+LOOKUP sgfr
+LOOKUP uf

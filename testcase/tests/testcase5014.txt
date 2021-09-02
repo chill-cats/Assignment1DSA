@@ -1,0 +1,11 @@
+INSERT a string
+PRINT
+INSERT pG string
+INSERT tgO number
+INSERT m number
+INSERT wjI4 string
+ASSIGN pG 1035
+RPRINT
+LOOKUP wjI4
+BEGIN
+RPRINT

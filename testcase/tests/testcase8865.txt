@@ -1,0 +1,35 @@
+INSERT uAC7 string
+INSERT h0 string
+INSERT qdL string
+ASSIGN uAC7 qdL
+END
+INSERT usO string
+END
+END
+INSERT iLC914 number
+INSERT ok7h string
+INSERT zG2X number
+INSERT u8GZQn string
+ASSIGN iLC914 641
+PRINT
+INSERT omX_ string
+INSERT u8Z string
+RPRINT
+INSERT ng number
+INSERT j number
+INSERT xQEoF string
+INSERT n string
+PRINT
+LOOKUP usO
+INSERT wyKk number
+INSERT vQ number
+INSERT by1 number
+INSERT qMr1KL number
+ASSIGN qMr1KL 121
+INSERT s number
+END
+BEGIN
+INSERT lpkW number
+LOOKUP by1
+INSERT ojoRH number
+INSERT e4PfX string

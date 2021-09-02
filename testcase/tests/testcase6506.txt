@@ -1,0 +1,19 @@
+LOOKUP cSAv9
+LOOKUP lJ
+INSERT qk string
+nl o
+INSERT qfNf_m number
+INSERT xfI6D number
+INSERT h_F string
+LOOKUP qk
+INSERT un string
+INSERT fLkR8 number
+INSERT k number
+INSERT bzMU number
+PRINT
+x5lJn tAodLg
+INSERT kM string
+LOOKUP fLkR8
+BEGIN
+INSERT yJtbEC number
+INSERT dlB9F string

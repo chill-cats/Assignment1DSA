@@ -1,0 +1,29 @@
+END
+INSERT xtVCwo string
+INSERT lRKfr number
+ASSIGN lRKfr lRKfr
+INSERT kJY6 string
+INSERT oQtTD number
+INSERT y number
+uQ tTj5
+INSERT zAMf string
+INSERT l number
+INSERT n string
+LOOKUP y
+LOOKUP kJY6
+BEGIN
+END
+u_j xjJ
+PRINT
+INSERT bhk string
+INSERT lU number
+ASSIGN y l
+ASSIGN oQtTD 1117
+INSERT oe number
+BEGIN
+INSERT dpAFy string
+INSERT s number
+INSERT kJ number
+PRINT
+ASSIGN zAMf 'fC'
+ASSIGN kJ 'd'

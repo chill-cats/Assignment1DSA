@@ -1,0 +1,22 @@
+BEGIN
+PRINT
+ASSIGN n7 'je'
+cEU_9 hCwi
+RPRINT
+INSERT eAh number
+PRINT
+ASSIGN eAh eAh
+INSERT roYq string
+INSERT dsN number
+RPRINT
+PRINT
+INSERT ge6W string
+BEGIN
+LOOKUP ge6W
+LOOKUP dsN
+INSERT wJ number
+INSERT dT number
+ASSIGN roYq 'udX'
+INSERT oG string
+INSERT o9feV string
+RPRINT

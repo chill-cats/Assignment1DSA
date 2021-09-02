@@ -1,0 +1,13 @@
+RPRINT
+INSERT wZvG3 string
+ASSIGN wZvG3 'Ab Qp'
+INSERT uFG28D string
+INSERT mK9MB number
+INSERT c6psC number
+PRINT
+INSERT u2Wy7 string
+BEGIN
+PRINT
+INSERT qmUb string
+INSERT y string
+INSERT jFy number

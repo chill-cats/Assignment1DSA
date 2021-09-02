@@ -1,0 +1,23 @@
+INSERT n9GaPt number
+INSERT ntnOLL string
+END
+BEGIN
+INSERT drA string
+END
+LOOKUP drA
+INSERT y number
+INSERT g number
+INSERT i59 number
+INSERT zWlh number
+BEGIN
+END
+INSERT hqo number
+LOOKUP n9GaPt
+INSERT icC2 string
+BEGIN
+ASSIGN y 137
+END
+INSERT qAvz string
+kh pK
+INSERT f string
+INSERT nIPC0 number

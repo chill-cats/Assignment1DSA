@@ -1,0 +1,26 @@
+INSERT zs number
+LOOKUP zs
+INSERT pIK0_ number
+PRINT
+fccL1k sT_n_
+END
+INSERT r8Y string
+INSERT fY60E number
+INSERT z1 string
+BEGIN
+INSERT hvuc number
+LOOKUP hvuc
+INSERT yV2 number
+INSERT m2ik string
+INSERT h string
+PRINT
+INSERT nPad string
+LOOKUP hvuc
+INSERT hCXhor number
+PRINT
+INSERT v string
+END
+RPRINT
+RPRINT
+RPRINT
+INSERT djfTk4 string

@@ -1,0 +1,24 @@
+INSERT ot3 number
+INSERT fpu string
+INSERT qFKX number
+INSERT lVo string
+INSERT l3 string
+ASSIGN qFKX 'e'
+INSERT pwXNq number
+INSERT pGV number
+PRINT
+RPRINT
+END
+INSERT lKtn number
+RPRINT
+INSERT xMK string
+INSERT aMVRo9 number
+INSERT izAB number
+INSERT rPdXJ number
+INSERT a1 number
+mSzNai bt
+RPRINT
+INSERT nwu3z string
+INSERT roG number
+INSERT m number
+LOOKUP pwXNq

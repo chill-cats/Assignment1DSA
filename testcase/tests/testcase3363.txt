@@ -1,0 +1,26 @@
+ASSIGN s6 1045
+INSERT jJ string
+INSERT m number
+INSERT d string
+INSERT udh9 string
+LOOKUP udh9
+INSERT c6 string
+BEGIN
+INSERT qxg0 number
+BEGIN
+INSERT qKs string
+LOOKUP m
+INSERT vqaf number
+INSERT j_Vki string
+LOOKUP m
+RPRINT
+END
+END
+npShP4 nj
+INSERT uuX60 string
+INSERT wFhj string
+INSERT txdl number
+RPRINT
+RPRINT
+INSERT aN string
+INSERT rR number

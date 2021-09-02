@@ -1,0 +1,35 @@
+INSERT y65M string
+INSERT g8y2T2 number
+INSERT pKs string
+INSERT f0jO string
+INSERT sa8ks number
+INSERT qFrL number
+PRINT
+INSERT ux6wfa string
+INSERT b string
+INSERT x3zsv string
+LOOKUP x3zsv
+BEGIN
+INSERT l8JsDI string
+INSERT s0t number
+RPRINT
+INSERT kJnsA1 string
+RPRINT
+BEGIN
+INSERT papTPe number
+INSERT arWg number
+INSERT w_r number
+INSERT tc string
+INSERT vpnDa string
+INSERT vG string
+BEGIN
+INSERT s5 number
+INSERT ss string
+PRINT
+INSERT vLtN number
+INSERT j09F string
+LOOKUP g8y2T2
+INSERT hsJo number
+INSERT c9 string
+INSERT uzl number
+INSERT ssPE number

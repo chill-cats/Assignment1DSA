@@ -1,0 +1,34 @@
+INSERT vSj8 string
+INSERT bsgL string
+ASSIGN vSj8 380
+INSERT ycgp2 number
+INSERT z number
+END
+oO84op t
+INSERT z number
+END
+BEGIN
+ASSIGN z 504
+ASSIGN bsgL z
+INSERT y9Sm6_ string
+INSERT irs number
+INSERT c number
+LOOKUP c
+INSERT tr number
+INSERT hEdRF string
+INSERT uDA string
+LOOKUP vSj8
+INSERT zCnx number
+INSERT u1O number
+knYPh mXXjq
+INSERT gIJh3b number
+INSERT l number
+PRINT
+INSERT dIud number
+PRINT
+INSERT hml8ie string
+INSERT wAwhQ string
+BEGIN
+END
+INSERT e4u3 number
+END

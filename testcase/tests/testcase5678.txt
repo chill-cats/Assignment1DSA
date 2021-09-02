@@ -1,0 +1,33 @@
+INSERT p_P string
+INSERT xcDprP string
+sm oan1
+INSERT r string
+RPRINT
+INSERT l8AMyI string
+END
+INSERT kmHvn string
+LOOKUP kmHvn
+INSERT pbX string
+INSERT qzIHbD string
+INSERT l_F string
+INSERT qJ94k string
+END
+ASSIGN l8AMyI qzIHbD
+END
+INSERT sjk9g number
+INSERT bQ string
+PRINT
+INSERT g9EU2 string
+INSERT ocj_r string
+END
+INSERT wtf string
+BEGIN
+INSERT dWC string
+PRINT
+INSERT rsZuj number
+INSERT ggtE number
+INSERT oQwLR number
+INSERT ymcO number
+INSERT qP number
+INSERT rSE string
+RPRINT

@@ -1,0 +1,38 @@
+INSERT yI string
+INSERT xunY2 number
+INSERT n5 string
+INSERT whg1 string
+vmLB vMCIQs
+INSERT xZ3Rz string
+INSERT kGA string
+INSERT hC string
+INSERT y number
+END
+INSERT y1 number
+INSERT jy number
+RPRINT
+BEGIN
+ASSIGN n5 494
+INSERT xxf7 number
+INSERT tiMp string
+INSERT vTCCC number
+sx owxN
+INSERT an6GT number
+END
+BEGIN
+INSERT bO5M number
+LOOKUP whg1
+INSERT iTdh number
+INSERT p7q7 string
+INSERT i_Ucie string
+INSERT tyG1q string
+iBA eI
+BEGIN
+INSERT wfS5ot number
+END
+INSERT agheGD string
+INSERT i number
+LOOKUP y
+RPRINT
+RPRINT
+END

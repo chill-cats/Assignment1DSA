@@ -1,0 +1,12 @@
+INSERT ll string
+END
+PRINT
+ASSIGN ll 'zA'
+INSERT oB3m number
+PRINT
+INSERT sELb8y string
+END
+BEGIN
+LOOKUP ll
+INSERT r string
+INSERT k string

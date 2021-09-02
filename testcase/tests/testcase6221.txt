@@ -1,0 +1,14 @@
+INSERT d string
+INSERT pCTA number
+PRINT
+INSERT nl string
+INSERT u2k5G string
+RPRINT
+INSERT clN number
+RPRINT
+INSERT j number
+END
+END
+INSERT q string
+END
+ASSIGN clN 'GSm'

@@ -1,0 +1,10 @@
+BEGIN
+LOOKUP r
+INSERT evqPg string
+INSERT iD string
+INSERT wx3Mq number
+INSERT gnZ string
+LOOKUP evqPg
+RPRINT
+BEGIN
+INSERT j4bLc string

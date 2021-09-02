@@ -1,0 +1,34 @@
+INSERT q string
+INSERT oArCAO string
+LOOKUP q
+RPRINT
+INSERT mKD number
+LOOKUP q
+INSERT q_ number
+INSERT qN string
+INSERT wt number
+PRINT
+INSERT vECEb number
+RPRINT
+INSERT z number
+dW lY
+jlLZe li
+INSERT zoZ_ string
+END
+INSERT byiXH string
+INSERT jGNfr string
+INSERT nLwa number
+INSERT ePl number
+INSERT g string
+INSERT q number
+INSERT ck string
+INSERT qs3e number
+BEGIN
+INSERT smvtf2 string
+PRINT
+INSERT uPmJn number
+INSERT e97 string
+INSERT mwvck number
+INSERT w4k3I string
+INSERT bc string
+RPRINT

@@ -1,0 +1,6 @@
+INSERT rFJf3 number
+INSERT zCuwf number
+RPRINT
+RPRINT
+INSERT oXICg string
+INSERT f string

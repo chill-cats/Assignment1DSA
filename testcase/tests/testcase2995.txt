@@ -1,0 +1,40 @@
+INSERT y_ number
+INSERT uqH number
+RPRINT
+RPRINT
+PRINT
+END
+INSERT vuua string
+INSERT v7 number
+PRINT
+BEGIN
+LOOKUP vuua
+PRINT
+INSERT vTO string
+INSERT yb2TCV number
+INSERT mUEy number
+INSERT flPX number
+INSERT m number
+RPRINT
+ASSIGN v7 708
+ASSIGN vTO 689
+INSERT lDtvxC string
+END
+ASSIGN uqH 879
+INSERT dxn number
+INSERT vFwrUm number
+END
+INSERT wHuIjm number
+INSERT tj string
+INSERT dutq string
+ASSIGN wHuIjm 'xS'
+RPRINT
+INSERT zYf1 number
+INSERT kH string
+PRINT
+heqcQa hPr
+INSERT g7 string
+INSERT mrj string
+INSERT s6_Y2d string
+INSERT w number
+INSERT rsv number

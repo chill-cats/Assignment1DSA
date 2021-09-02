@@ -1,0 +1,8 @@
+INSERT h8A number
+END
+RPRINT
+ASSIGN h8A '9'
+INSERT wA string
+INSERT wy2unL string
+INSERT cA6_r string
+INSERT bEi number

@@ -1,0 +1,36 @@
+INSERT ihDm number
+INSERT nb number
+INSERT l2f number
+END
+ASSIGN ihDm 146
+INSERT m4 number
+INSERT oZ string
+INSERT kX8_ number
+BEGIN
+INSERT nd1 number
+RPRINT
+INSERT ag string
+LOOKUP nb
+ASSIGN m4 956
+INSERT hh number
+INSERT aC string
+RPRINT
+INSERT bOYgsT string
+INSERT eFq number
+BEGIN
+PRINT
+INSERT fsNxZ string
+ASSIGN fsNxZ 775
+INSERT pB number
+INSERT p string
+ASSIGN ihDm 393
+INSERT vb string
+BEGIN
+INSERT jq_M string
+INSERT j_ string
+INSERT q string
+RPRINT
+PRINT
+ASSIGN hh ihDm
+INSERT tRY0 number
+INSERT k number

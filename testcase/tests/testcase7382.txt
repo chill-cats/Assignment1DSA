@@ -1,0 +1,7 @@
+INSERT mX number
+BEGIN
+RPRINT
+INSERT vQM2nN number
+INSERT gE_Ha string
+INSERT y0H56 number
+PRINT

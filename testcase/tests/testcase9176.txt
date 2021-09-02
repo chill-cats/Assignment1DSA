@@ -1,0 +1,27 @@
+INSERT keN68 string
+RPRINT
+INSERT xbP string
+PRINT
+LOOKUP keN68
+INSERT hx1H number
+ASSIGN hx1H 120
+ASSIGN keN68 1208
+BEGIN
+INSERT c4 string
+BEGIN
+INSERT v number
+INSERT tKvkq number
+END
+INSERT v string
+INSERT fLSs string
+LOOKUP v
+INSERT cpGs3 number
+INSERT tLRGe number
+BEGIN
+BEGIN
+BEGIN
+INSERT bv string
+INSERT w6M4N5 string
+INSERT obyWg3 number
+INSERT mY number
+BEGIN

@@ -1,0 +1,25 @@
+INSERT rA594 string
+LOOKUP rA594
+INSERT me_DD number
+INSERT id number
+INSERT gcAN string
+INSERT sZo string
+INSERT pDh string
+BEGIN
+INSERT bKh string
+oIxW vKbJ
+INSERT gdYvr string
+PRINT
+INSERT p0w number
+INSERT tE string
+INSERT r number
+INSERT jtKZHJ string
+INSERT l6jJut number
+INSERT mH number
+INSERT aY number
+INSERT mK2QD5 number
+INSERT f1 string
+INSERT th3 string
+INSERT vHu string
+INSERT sdzj string
+INSERT o string

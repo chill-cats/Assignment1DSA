@@ -1,0 +1,29 @@
+END
+PRINT
+INSERT o4WMR number
+INSERT q7 number
+INSERT sJezE string
+END
+INSERT qE6 number
+INSERT gAbuGd string
+INSERT ywX string
+BEGIN
+LOOKUP q7
+INSERT mQev number
+INSERT ybU string
+INSERT ao08Kt number
+INSERT s8lBL number
+INSERT v1L number
+ASSIGN mQev 81
+INSERT yb string
+END
+INSERT xL8Lg string
+INSERT d string
+RPRINT
+INSERT czR number
+INSERT tx string
+INSERT hpQ string
+END
+INSERT abuSYV string
+BEGIN
+END

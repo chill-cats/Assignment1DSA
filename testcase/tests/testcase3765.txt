@@ -1,0 +1,25 @@
+INSERT ye3x number
+INSERT kbCSE number
+ASSIGN ye3x kbCSE
+LOOKUP ye3x
+INSERT geC string
+INSERT s number
+INSERT zgb8 string
+INSERT tkoZz6 number
+INSERT nSNu0 string
+INSERT a50bVF number
+RPRINT
+INSERT d number
+INSERT k number
+INSERT e_ number
+INSERT lFj0 number
+INSERT b string
+INSERT gHQT string
+INSERT bi5wP number
+ASSIGN zgb8 b
+INSERT qpQ number
+RPRINT
+INSERT li number
+INSERT r9_gk8 number
+INSERT t number
+INSERT qUQ string

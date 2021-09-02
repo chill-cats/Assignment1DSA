@@ -1,0 +1,37 @@
+INSERT khn number
+PRINT
+INSERT aSHi number
+INSERT oBMSK number
+INSERT rUF string
+INSERT h6x3 number
+ASSIGN aSHi 310
+INSERT vT7T string
+RPRINT
+RPRINT
+INSERT bnX number
+INSERT sXNx string
+INSERT u7VsS string
+INSERT u string
+INSERT q number
+INSERT a string
+INSERT p string
+INSERT uQ4T_ number
+INSERT faO number
+INSERT zehr number
+RPRINT
+INSERT xrcwP number
+INSERT xh number
+INSERT b7Nwz number
+RPRINT
+INSERT woGfOd number
+INSERT qSlEz string
+INSERT easA7p string
+BEGIN
+INSERT dw string
+LOOKUP b7Nwz
+ASSIGN qSlEz a
+INSERT ra70 string
+INSERT bG string
+INSERT a3LLim string
+BEGIN
+INSERT h string

@@ -1,0 +1,40 @@
+INSERT ygtD string
+INSERT i4So string
+INSERT a4yQ string
+INSERT v string
+INSERT dPNXXE number
+INSERT dFwtK string
+INSERT jJ4rsc string
+RPRINT
+LOOKUP a4yQ
+INSERT f number
+INSERT rO string
+ASSIGN dFwtK 'KH'
+INSERT tCk0ss number
+INSERT jvYiYs number
+INSERT dC3 string
+INSERT f2qfXo string
+INSERT xCU0 number
+ASSIGN dPNXXE 'Xh'
+INSERT u6 number
+INSERT x string
+ASSIGN u6 877
+INSERT oONBi string
+INSERT qnJ string
+INSERT e number
+INSERT n number
+INSERT xogJ number
+INSERT v4 string
+INSERT aqB number
+LOOKUP xogJ
+INSERT mH number
+PRINT
+PRINT
+INSERT vfybl string
+INSERT lVOlG string
+INSERT x string
+INSERT dr4 number
+ASSIGN a4yQ 'Re'
+PRINT
+INSERT bh7TUl string
+INSERT vtVCO6 string

@@ -1,0 +1,37 @@
+INSERT taRzXZ number
+LOOKUP taRzXZ
+INSERT y string
+cbH aPf0Tb
+LOOKUP y
+INSERT zh string
+INSERT kDd string
+INSERT lC0Yf string
+u kN
+RPRINT
+INSERT cF_ch string
+LOOKUP zh
+ASSIGN cF_ch 'cj2'
+PRINT
+INSERT kUcSmH string
+INSERT zQVKg4 string
+INSERT qPc number
+INSERT yoqEb4 string
+INSERT q1j string
+INSERT m5 number
+y50T vxSwxP
+RPRINT
+PRINT
+INSERT n string
+q3w g
+INSERT sHfry3 string
+INSERT d number
+END
+INSERT uqh number
+LOOKUP qPc
+INSERT dy17 number
+INSERT cMHP number
+RPRINT
+INSERT hbv string
+INSERT wxAzL0 number
+RPRINT
+ASSIGN q1j 724

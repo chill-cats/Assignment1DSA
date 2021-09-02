@@ -1,0 +1,40 @@
+INSERT iGOv number
+BEGIN
+INSERT k number
+INSERT nFKg1 number
+INSERT uzT4 string
+INSERT b number
+INSERT gPVVMb string
+INSERT r number
+INSERT qnEL string
+INSERT ji9q string
+INSERT v_FZi number
+INSERT iHv number
+INSERT sHcGPL number
+INSERT j string
+LOOKUP sHcGPL
+RPRINT
+INSERT uckd number
+INSERT zg number
+INSERT w4lx4 string
+INSERT r4AKu string
+END
+INSERT fBtkeT number
+END
+END
+ASSIGN k 1048
+INSERT bW string
+INSERT z string
+BEGIN
+INSERT uB string
+INSERT fo string
+BEGIN
+INSERT mdAXI_ string
+ASSIGN iGOv uckd
+INSERT llKsL0 string
+INSERT vEAB number
+RPRINT
+ASSIGN uzT4 w4lx4
+INSERT gWDQ string
+INSERT zD9IoI string
+INSERT zPGyU number

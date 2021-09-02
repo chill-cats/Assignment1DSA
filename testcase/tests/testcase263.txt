@@ -1,0 +1,7 @@
+INSERT wdEBU number
+INSERT p1TUg8 string
+LOOKUP p1TUg8
+INSERT i string
+INSERT llubqI string
+END
+INSERT zl string

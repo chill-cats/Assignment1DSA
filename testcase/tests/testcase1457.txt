@@ -1,0 +1,25 @@
+LOOKUP gqqLU
+INSERT mmjw number
+INSERT i0RWX string
+PRINT
+BEGIN
+INSERT c string
+INSERT xHp number
+INSERT gLDu string
+INSERT tBM number
+INSERT mIBRpQ number
+ASSIGN gLDu mIBRpQ
+INSERT eN number
+INSERT zxQR number
+INSERT dJAD number
+BEGIN
+INSERT gyx number
+ASSIGN mIBRpQ 402
+INSERT hKh number
+INSERT v2oqzh string
+INSERT e0k8 string
+PRINT
+ASSIGN zxQR 'tZq'
+BEGIN
+INSERT s number
+ASSIGN eN gyx

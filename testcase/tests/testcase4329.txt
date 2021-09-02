@@ -1,0 +1,10 @@
+INSERT ns string
+PRINT
+INSERT n string
+INSERT loV8Hp number
+RPRINT
+INSERT i number
+INSERT eJF2m number
+END
+RPRINT
+END

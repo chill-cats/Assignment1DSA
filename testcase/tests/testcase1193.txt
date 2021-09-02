@@ -1,0 +1,40 @@
+ASSIGN hZU 974
+END
+RPRINT
+INSERT rO9 number
+LOOKUP rO9
+INSERT dz number
+INSERT e string
+PRINT
+ASSIGN rO9 dz
+PRINT
+RPRINT
+END
+INSERT a8122M number
+INSERT l string
+INSERT ipZlrK string
+INSERT aY6jL string
+BEGIN
+INSERT gx string
+INSERT pzX1 string
+LOOKUP tZs
+i0m vo2RA5
+ASSIGN ipZlrK 'vfwa'
+BEGIN
+INSERT hlOx number
+INSERT elR string
+INSERT aUkt string
+ASSIGN aUkt '2WU'
+INSERT j string
+INSERT pYM5A string
+RPRINT
+INSERT zqk4 string
+INSERT dT number
+PRINT
+INSERT r string
+lJ i7qul5
+LOOKUP l
+INSERT xyyaH string
+INSERT jK string
+INSERT oxINxV number
+ASSIGN j 'mY'

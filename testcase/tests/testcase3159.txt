@@ -1,0 +1,11 @@
+INSERT u4 number
+INSERT qWPm string
+BEGIN
+INSERT xJf59 number
+INSERT ugq string
+RPRINT
+RPRINT
+BEGIN
+INSERT dTGY5z string
+INSERT cyoJ string
+INSERT rZZ string

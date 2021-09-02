@@ -1,0 +1,31 @@
+INSERT x2NCXR string
+lvvto zRL
+INSERT us string
+INSERT h string
+INSERT a0 number
+INSERT xM number
+LOOKUP xM
+INSERT xVS0ME string
+LOOKUP xVS0ME
+BEGIN
+INSERT ebO string
+s dl38Yp
+INSERT ict number
+INSERT b string
+INSERT lR string
+INSERT yK number
+RPRINT
+INSERT gRA number
+INSERT jsW string
+ASSIGN xM xM
+INSERT s number
+INSERT jJSWNP number
+ASSIGN jsW 'ivo'
+INSERT bqTCHn string
+y2Y ae_pDR
+INSERT mt1w string
+ASSIGN mt1w 'M5'
+INSERT ufV string
+END
+ASSIGN b 539
+INSERT m5U number

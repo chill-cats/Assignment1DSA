@@ -1,0 +1,16 @@
+INSERT igssP number
+INSERT n number
+INSERT m number
+INSERT s1W string
+BEGIN
+INSERT oEC number
+RPRINT
+BEGIN
+LOOKUP s1W
+RPRINT
+LOOKUP igssP
+INSERT pSMeov string
+INSERT jg5O string
+INSERT gbc string
+INSERT gFg9Ea number
+INSERT mojQAK string

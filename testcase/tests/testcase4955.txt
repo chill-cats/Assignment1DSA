@@ -1,0 +1,27 @@
+RPRINT
+INSERT j number
+INSERT nQA number
+INSERT w number
+RPRINT
+INSERT l3 number
+INSERT mVPN number
+INSERT o string
+INSERT oo number
+iqjtqL f8eXu
+BEGIN
+INSERT u string
+RPRINT
+LOOKUP l3
+BEGIN
+BEGIN
+INSERT yU number
+INSERT piH string
+INSERT vrHprW number
+ASSIGN piH nQA
+INSERT vT number
+INSERT dMH string
+PRINT
+INSERT nF4 number
+INSERT fc string
+INSERT lT string
+INSERT u number

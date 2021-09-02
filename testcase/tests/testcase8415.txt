@@ -1,0 +1,15 @@
+INSERT wcog number
+RPRINT
+INSERT yW number
+RPRINT
+fO rN
+INSERT jMW string
+RPRINT
+INSERT qLNNp number
+END
+INSERT xO number
+LOOKUP yW
+INSERT g string
+RPRINT
+END
+INSERT pPAehl number

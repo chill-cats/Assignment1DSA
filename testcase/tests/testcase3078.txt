@@ -1,0 +1,13 @@
+INSERT c string
+INSERT qS number
+BEGIN
+INSERT w string
+INSERT gvs string
+INSERT mWC string
+BEGIN
+INSERT y6WzO number
+END
+RPRINT
+INSERT sTH string
+INSERT tDxYwr string
+INSERT tkjXj number

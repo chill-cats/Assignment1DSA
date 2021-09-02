@@ -1,0 +1,31 @@
+PRINT
+END
+INSERT tdlTh string
+INSERT sC number
+RPRINT
+LOOKUP tdlTh
+ASSIGN sC 930
+INSERT l number
+BEGIN
+INSERT bDSGr string
+INSERT uk string
+INSERT e number
+RPRINT
+INSERT rH9D number
+END
+INSERT j number
+INSERT v1Fv0B number
+END
+INSERT tM string
+ASSIGN j 760
+LOOKUP e
+LOOKUP bDSGr
+INSERT g string
+RPRINT
+BEGIN
+END
+INSERT bDj string
+INSERT z9g string
+INSERT k string
+INSERT gfcihx number
+LOOKUP tdlTh

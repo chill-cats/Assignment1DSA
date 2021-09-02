@@ -1,0 +1,8 @@
+INSERT g0C number
+INSERT vJg number
+PRINT
+INSERT kAsT string
+BEGIN
+INSERT qVsv0D string
+INSERT e number
+END

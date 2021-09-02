@@ -1,0 +1,8 @@
+BEGIN
+INSERT fX9 string
+BEGIN
+LOOKUP fX9
+END
+PRINT
+ASSIGN fX9 'yv'
+INSERT uH string

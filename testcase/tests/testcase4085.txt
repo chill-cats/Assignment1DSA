@@ -1,0 +1,37 @@
+INSERT dauAL number
+INSERT mm9Z number
+PRINT
+pHedp n
+INSERT yy string
+INSERT j7Yc number
+INSERT r number
+INSERT x_bm string
+INSERT m number
+RPRINT
+INSERT aeTHM string
+qRr4m z
+INSERT kk number
+BEGIN
+INSERT wyS string
+INSERT mSlrmB string
+ASSIGN j7Yc m
+INSERT t string
+INSERT pdSumk string
+INSERT x4 number
+INSERT ri number
+ASSIGN ri 527
+INSERT xHNo number
+INSERT zAZZUJ string
+INSERT h9 string
+INSERT mWDp0 string
+LOOKUP mWDp0
+INSERT hi number
+INSERT u number
+INSERT pH2 string
+INSERT rx number
+INSERT fBTs5 number
+LOOKUP x_bm
+END
+END
+INSERT u8Bpfk string
+END

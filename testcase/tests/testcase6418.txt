@@ -1,0 +1,5 @@
+LOOKUP o
+INSERT id string
+INSERT bFmQSI number
+INSERT d number
+INSERT duzm08 number

@@ -1,0 +1,3 @@
+INSERT y0 number
+PRINT
+INSERT d string

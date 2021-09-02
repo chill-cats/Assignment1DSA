@@ -1,0 +1,39 @@
+INSERT wGepkW string
+ASSIGN wGepkW 498
+INSERT eJdwUz number
+PRINT
+ASSIGN wGepkW 617
+INSERT k number
+END
+LOOKUP eJdwUz
+INSERT lp string
+INSERT hCQk number
+INSERT oM_Wf number
+ASSIGN wGepkW 1171
+RPRINT
+BEGIN
+RPRINT
+BEGIN
+BEGIN
+LOOKUP oM_Wf
+INSERT vfFLSw string
+ASSIGN hCQk 521
+RPRINT
+e_DA eNLG43
+INSERT kB string
+END
+INSERT tEPo1 number
+INSERT pa1h string
+LOOKUP wGepkW
+BEGIN
+INSERT z number
+END
+END
+INSERT y number
+INSERT fpI number
+INSERT pTQ string
+INSERT wla40 number
+INSERT g3 string
+dtoQ4 nM_OWH
+BEGIN
+INSERT yedesg number

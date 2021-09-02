@@ -1,0 +1,6 @@
+INSERT dlDMbh number
+PRINT
+INSERT d7XE9 string
+LOOKUP d7XE9
+INSERT nOQpdy number
+BEGIN

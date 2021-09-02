@@ -1,0 +1,9 @@
+INSERT pDk number
+RPRINT
+INSERT r4Hyn number
+END
+BEGIN
+INSERT oIgc number
+ASSIGN r4Hyn 630
+PRINT
+INSERT rMaNjk number

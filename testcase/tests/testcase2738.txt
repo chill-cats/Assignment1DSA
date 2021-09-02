@@ -1,0 +1,3 @@
+INSERT by4 number
+END
+INSERT lzEND string

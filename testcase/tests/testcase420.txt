@@ -1,0 +1,6 @@
+INSERT eU string
+INSERT vI number
+RPRINT
+INSERT cleBN3 number
+RPRINT
+LOOKUP vI

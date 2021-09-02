@@ -1,0 +1,18 @@
+PRINT
+INSERT efo number
+RPRINT
+INSERT k number
+END
+RPRINT
+z bl
+INSERT kOCC string
+INSERT mOSV string
+END
+END
+INSERT hn string
+END
+BEGIN
+INSERT g number
+LOOKUP hn
+BEGIN
+BEGIN

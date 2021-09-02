@@ -1,0 +1,38 @@
+INSERT lRHi3 number
+INSERT qYMK string
+INSERT ch8JNk number
+INSERT k number
+BEGIN
+LOOKUP lRHi3
+INSERT kRR6X string
+BEGIN
+BEGIN
+INSERT gF0MzV string
+LOOKUP lRHi3
+INSERT osMZ1f number
+END
+INSERT uG5z string
+INSERT z5G string
+ASSIGN ch8JNk ch8JNk
+END
+INSERT qUF string
+INSERT eNcu string
+PRINT
+ASSIGN eNcu qYMK
+INSERT infFN string
+INSERT j_UPI string
+END
+END
+INSERT ca9bP number
+LOOKUP kRR6X
+INSERT g number
+INSERT q string
+INSERT lG string
+INSERT ok4GNh string
+PRINT
+INSERT ekJJNg number
+INSERT r6 string
+END
+f d0
+RPRINT
+INSERT mI0r number

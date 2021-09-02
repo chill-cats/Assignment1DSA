@@ -1,0 +1,5 @@
+RPRINT
+INSERT y4aG3 string
+ASSIGN y4aG3 292
+INSERT cKlj2 number
+INSERT b number

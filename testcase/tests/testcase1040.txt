@@ -1,0 +1,20 @@
+ASSIGN kwNpl 540
+BEGIN
+INSERT ak string
+INSERT i4LEo string
+INSERT nXlv9n number
+BEGIN
+smvb uDyd
+BEGIN
+RPRINT
+INSERT rK6 number
+INSERT c string
+INSERT yq number
+INSERT vg6LEj number
+INSERT ogC8WC number
+INSERT iGlN number
+INSERT h_sJet number
+LOOKUP h_sJet
+ASSIGN iGlN ak
+END
+INSERT m0JMt string

@@ -1,0 +1,31 @@
+INSERT jHcsQ string
+INSERT bKpNtb number
+ASSIGN bKpNtb 739
+LOOKUP bKpNtb
+ASSIGN jHcsQ 'irq'
+INSERT thtF string
+END
+INSERT doXl6 string
+INSERT jA number
+LOOKUP bKpNtb
+INSERT b string
+INSERT uAq string
+INSERT zKpa number
+INSERT u number
+INSERT w number
+INSERT apPsY_ number
+INSERT fZ string
+INSERT tfIdkD string
+k7p vP
+INSERT fHDw number
+BEGIN
+RPRINT
+te m_
+BEGIN
+INSERT oQ7d string
+BEGIN
+INSERT fNC string
+INSERT gH9oWR string
+END
+END
+INSERT rKlp number

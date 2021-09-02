@@ -1,0 +1,12 @@
+INSERT q6 string
+INSERT p number
+PRINT
+INSERT pu number
+s jqc
+END
+INSERT q number
+INSERT hj string
+INSERT nLlCc string
+INSERT xZoO string
+LOOKUP p
+INSERT tek string

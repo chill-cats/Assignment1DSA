@@ -1,0 +1,21 @@
+qzlMsJ c_FJ0R
+iHpw igFuSc
+INSERT e number
+INSERT o8 number
+INSERT edU string
+INSERT iG number
+BEGIN
+END
+ASSIGN o8 'Vy8'
+BEGIN
+RPRINT
+INSERT abEN number
+INSERT arbzg string
+INSERT xRt number
+INSERT w01jO number
+INSERT je string
+LOOKUP w01jO
+ASSIGN je 997
+ASSIGN e je
+INSERT rCZes number
+ASSIGN rCZes w01jO

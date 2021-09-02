@@ -1,0 +1,23 @@
+INSERT ymku number
+INSERT nkCo number
+INSERT s string
+INSERT vX string
+INSERT ay4h number
+INSERT bfzkN number
+INSERT l string
+ASSIGN s l
+INSERT i number
+ASSIGN ay4h 1005
+INSERT znMEG string
+INSERT kuwJF string
+INSERT x string
+INSERT pqISa string
+INSERT rTZ2 string
+x8vspe stPjC
+INSERT m number
+INSERT rbvRh string
+LOOKUP znMEG
+INSERT m0y7Tg number
+PRINT
+INSERT t0 string
+RPRINT

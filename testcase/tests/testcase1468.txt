@@ -1,0 +1,29 @@
+PRINT
+LOOKUP aB
+ASSIGN sxWCQ 'mZhhH'
+INSERT z number
+ASSIGN z z
+LOOKUP z
+INSERT ykFHl number
+INSERT gLJxfQ number
+INSERT ibFgW string
+INSERT l0H string
+INSERT apZfe number
+END
+INSERT iNjW number
+INSERT xXN string
+END
+BEGIN
+RPRINT
+INSERT no string
+END
+INSERT oqh string
+PRINT
+INSERT a9F number
+INSERT c string
+END
+INSERT a string
+INSERT qaazf_ number
+ASSIGN ykFHl 1128
+INSERT y number
+INSERT usaTu number

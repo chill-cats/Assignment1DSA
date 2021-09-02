@@ -1,0 +1,17 @@
+INSERT w8doHh string
+INSERT b6 string
+INSERT gdoXZ number
+PRINT
+LOOKUP gdoXZ
+LOOKUP b6
+INSERT vmwiyi string
+INSERT x number
+INSERT l7 string
+INSERT hP number
+INSERT fBZQj string
+ASSIGN x x
+RPRINT
+INSERT f number
+PRINT
+INSERT n number
+END

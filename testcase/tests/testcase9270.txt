@@ -1,0 +1,33 @@
+INSERT u string
+e yfVW
+PRINT
+RPRINT
+END
+INSERT n9G number
+ASSIGN n9G 1017
+INSERT tpJKn string
+INSERT wt51 number
+INSERT k number
+INSERT b string
+END
+INSERT jb2mq string
+RPRINT
+END
+INSERT d string
+END
+INSERT mq5yN number
+INSERT ppzP4x number
+INSERT c0 string
+LOOKUP jb2mq
+INSERT cub string
+LOOKUP tpJKn
+INSERT pQpDK number
+INSERT i7 number
+INSERT zu8U number
+BEGIN
+END
+INSERT p0KGI string
+BEGIN
+INSERT qnQ string
+LOOKUP pQpDK
+LOOKUP zu8U

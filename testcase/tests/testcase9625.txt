@@ -1,0 +1,29 @@
+INSERT uvJN string
+PRINT
+INSERT uLjq string
+LOOKUP uLjq
+INSERT dVd_Y number
+INSERT bv string
+INSERT mS string
+INSERT u string
+RPRINT
+INSERT oXcs_J number
+INSERT v string
+LOOKUP uLjq
+INSERT w number
+PRINT
+PRINT
+LOOKUP u
+INSERT jEra number
+INSERT oD string
+LOOKUP uvJN
+INSERT kvn4Ip number
+INSERT pkJ string
+BEGIN
+INSERT s string
+RPRINT
+BEGIN
+INSERT nV2AV number
+INSERT z string
+INSERT j1O7sq string
+PRINT

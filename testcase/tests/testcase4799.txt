@@ -1,0 +1,13 @@
+INSERT u05xL number
+BEGIN
+INSERT oxad number
+ASSIGN oxad 238
+PRINT
+INSERT biDIG string
+PRINT
+END
+INSERT wqbI string
+bl choe
+INSERT nfRO string
+wbJRnc jXR
+PRINT

@@ -1,0 +1,3 @@
+LOOKUP nPDncT
+INSERT s number
+ASSIGN s '275'

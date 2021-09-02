@@ -1,0 +1,21 @@
+BEGIN
+LOOKUP hY4
+INSERT cFgjg number
+INSERT sdbV string
+INSERT fzkqV string
+BEGIN
+BEGIN
+END
+INSERT hD number
+LOOKUP hD
+INSERT s number
+INSERT lMr string
+INSERT jP5a4 string
+ASSIGN cFgjg 369
+INSERT orjP string
+BEGIN
+RPRINT
+BEGIN
+INSERT dtdMn9 string
+ASSIGN sdbV 821
+INSERT jVpX1i number

@@ -1,0 +1,24 @@
+BEGIN
+END
+END
+INSERT kCt string
+INSERT r string
+INSERT q1K string
+LOOKUP kCt
+INSERT yOvl2I number
+INSERT x string
+ASSIGN kCt x
+INSERT cS number
+ASSIGN yOvl2I 'Xu'
+LOOKUP r
+BEGIN
+INSERT zpvr7 string
+enyB wK7LK
+INSERT f number
+nLSS9 q6RD
+INSERT eC3 number
+INSERT v number
+INSERT uzYB9 number
+INSERT yEo string
+INSERT nsVW string
+INSERT s number

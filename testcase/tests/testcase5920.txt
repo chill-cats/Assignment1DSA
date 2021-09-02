@@ -1,0 +1,36 @@
+INSERT koE3 string
+INSERT lsHM number
+INSERT p string
+END
+ASSIGN p koE3
+INSERT mH1 string
+INSERT k number
+INSERT kNxv5 number
+INSERT dPS string
+INSERT tFhUCQ string
+INSERT fIpTz string
+LOOKUP koE3
+INSERT jM number
+INSERT s number
+INSERT z78rSM string
+INSERT z string
+INSERT xG6x string
+INSERT pTDM number
+LOOKUP mH1
+PRINT
+INSERT jjai string
+INSERT krz2y_ string
+INSERT jnYXh3 number
+INSERT uUz0 number
+INSERT uH string
+INSERT uGra number
+PRINT
+INSERT pS2Ig number
+sEPMGv xkUWu
+INSERT e number
+RPRINT
+RPRINT
+INSERT fImzu number
+BEGIN
+ASSIGN iTs7B '0'
+END

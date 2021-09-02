@@ -1,0 +1,21 @@
+INSERT p4D3i string
+PRINT
+INSERT m4 string
+PRINT
+INSERT bFLky number
+PRINT
+ASSIGN m4 p4D3i
+PRINT
+INSERT j string
+RPRINT
+INSERT ggP number
+INSERT t number
+PRINT
+ASSIGN ggP 992
+INSERT r1WY string
+INSERT zr string
+INSERT r string
+LOOKUP ggP
+INSERT hCCLM string
+INSERT pQc number
+INSERT iyMb number

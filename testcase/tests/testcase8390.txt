@@ -1,0 +1,8 @@
+INSERT wk2y number
+udHmTP aH1w5
+BEGIN
+RPRINT
+INSERT t0Sl string
+ASSIGN wk2y '1'
+INSERT xuF string
+PRINT

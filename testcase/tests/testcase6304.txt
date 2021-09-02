@@ -1,0 +1,21 @@
+END
+INSERT v string
+INSERT cAHe5M number
+INSERT e number
+INSERT wo string
+LOOKUP e
+BEGIN
+ASSIGN e 325
+RPRINT
+END
+BEGIN
+INSERT vg number
+INSERT s number
+INSERT j string
+INSERT p number
+RPRINT
+INSERT oQ_x string
+INSERT j number
+LOOKUP e
+BEGIN
+INSERT slUu_I number

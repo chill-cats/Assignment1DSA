@@ -1,0 +1,37 @@
+INSERT dAK number
+END
+INSERT dD string
+INSERT pLXD string
+INSERT lDfRnm number
+PRINT
+INSERT x string
+INSERT fS2zgT number
+LOOKUP dD
+INSERT u0 number
+INSERT e33pI string
+END
+END
+z g
+LOOKUP x
+LOOKUP fS2zgT
+INSERT z_ string
+INSERT u number
+LOOKUP x
+ASSIGN dAK 1042
+BEGIN
+INSERT jonWk number
+INSERT f9bMvL number
+INSERT g number
+INSERT dezV number
+INSERT e number
+INSERT pKSMTv number
+INSERT tGV number
+INSERT jPjw0m string
+INSERT d2 number
+INSERT dh0 number
+INSERT oUlPFb string
+INSERT utb string
+INSERT bqt3ZN string
+END
+LOOKUP f9bMvL
+ASSIGN jonWk 'nu'

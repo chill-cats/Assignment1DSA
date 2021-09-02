@@ -1,0 +1,37 @@
+INSERT tSgv6 number
+RPRINT
+INSERT os number
+INSERT rPs3p number
+INSERT g8 string
+INSERT du8_Ex string
+INSERT o string
+INSERT en9E string
+INSERT u number
+PRINT
+END
+INSERT nS string
+INSERT jfD1xg string
+INSERT ybtXc number
+INSERT uFZI number
+INSERT i number
+LOOKUP jfD1xg
+INSERT fRpIjq number
+INSERT d5XZC string
+INSERT r1nH27 string
+INSERT iKxv number
+c z68iPA
+INSERT f string
+INSERT xN string
+INSERT zFh5qO number
+RPRINT
+INSERT oLYgv string
+INSERT ru3 number
+PRINT
+INSERT xj string
+p7 dME
+INSERT iRWIQk string
+RPRINT
+END
+INSERT smlQ number
+ASSIGN xN 'Ndnn'
+INSERT ay4 string

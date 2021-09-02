@@ -1,0 +1,29 @@
+BEGIN
+INSERT la18W2 string
+LOOKUP h
+PRINT
+RPRINT
+INSERT tw number
+INSERT mVa string
+INSERT tVg3 number
+BEGIN
+INSERT cnB string
+INSERT sW string
+INSERT haVcq string
+ASSIGN sW 'NH0e'
+INSERT dW2D number
+INSERT ic4 number
+INSERT ir string
+LOOKUP tVg3
+INSERT yc string
+BEGIN
+sWLyT j9M6
+INSERT j string
+INSERT e4Wj3R number
+INSERT nbtLS0 number
+INSERT lLZ1I7 string
+ASSIGN cnB ic4
+INSERT a1Em1x string
+END
+INSERT d string
+RPRINT

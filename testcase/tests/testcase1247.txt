@@ -1,0 +1,23 @@
+INSERT uSqQqJ string
+RPRINT
+aGS0W7 zkQBr
+INSERT t1 string
+INSERT l string
+PRINT
+ASSIGN t1 614
+INSERT ind string
+INSERT fel number
+LOOKUP uSqQqJ
+INSERT l string
+END
+ASSIGN l 806
+END
+INSERT z5 number
+d sQ5o
+INSERT n string
+INSERT zhvIO number
+INSERT d number
+INSERT kMW number
+INSERT kun49p number
+INSERT xWdx number
+INSERT nA6 number

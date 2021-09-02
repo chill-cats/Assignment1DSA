@@ -1,0 +1,11 @@
+INSERT n number
+INSERT pqp number
+INSERT obm string
+PRINT
+INSERT sC47 number
+INSERT a6pton string
+PRINT
+ASSIGN sC47 542
+INSERT jzBp string
+BEGIN
+d1BII x_h

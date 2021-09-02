@@ -1,0 +1,23 @@
+RPRINT
+END
+INSERT ue number
+INSERT ut number
+RPRINT
+INSERT vy number
+ASSIGN vy 'yhfiT'
+RPRINT
+INSERT ywcI string
+LOOKUP vy
+INSERT n number
+INSERT czSLQ4 string
+INSERT mZoKdJ number
+INSERT o0nCT number
+INSERT zDl string
+gi oaO_zH
+INSERT nQvh number
+PRINT
+INSERT k0W string
+LOOKUP n
+INSERT u3_ string
+INSERT brO string
+INSERT nX number

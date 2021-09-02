@@ -1,0 +1,39 @@
+INSERT onfJG string
+INSERT nX string
+LOOKUP onfJG
+PRINT
+END
+LOOKUP nX
+INSERT zD number
+INSERT f171U string
+INSERT cX number
+RPRINT
+INSERT y6js7H number
+LOOKUP nX
+INSERT rLlQ number
+END
+BEGIN
+INSERT ol7yUh string
+BEGIN
+INSERT cS string
+ASSIGN cS zD
+INSERT kNj number
+RPRINT
+INSERT lBUcA string
+INSERT sn7Y number
+INSERT n2F4ze string
+INSERT uM number
+END
+INSERT y number
+INSERT ji string
+INSERT c string
+INSERT m8 string
+INSERT dCTV number
+INSERT j4 string
+INSERT gKzCpI number
+INSERT azBUoC number
+uV tzCg
+LOOKUP kNj
+INSERT hpl string
+LOOKUP c
+ASSIGN lBUcA 289

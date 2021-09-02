@@ -1,0 +1,35 @@
+INSERT x number
+LOOKUP x
+ASSIGN x x
+INSERT l7 string
+INSERT y number
+INSERT dDo number
+INSERT dQ number
+INSERT cFd string
+INSERT a string
+LOOKUP l7
+BEGIN
+INSERT ye1KL string
+INSERT wFGl number
+gaBxH9 y
+RPRINT
+INSERT lN7 string
+INSERT i string
+INSERT pcp4IB string
+INSERT s5 number
+RPRINT
+LOOKUP dQ
+INSERT to string
+ASSIGN cFd cFd
+BEGIN
+INSERT w string
+PRINT
+INSERT jzgPOQ string
+INSERT zuTDSu number
+INSERT uJ string
+INSERT j string
+PRINT
+PRINT
+INSERT cC number
+INSERT nG5w number
+INSERT xDM__ number

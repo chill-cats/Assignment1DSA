@@ -1,0 +1,38 @@
+INSERT dcOol3 number
+INSERT v string
+INSERT kM6p3e string
+INSERT dL string
+INSERT r5Lo string
+ASSIGN v v
+BEGIN
+INSERT ssgo9x number
+INSERT ag1ZkH string
+INSERT yRGdBW string
+PRINT
+LOOKUP dcOol3
+INSERT qoip5 string
+INSERT jP0t string
+INSERT g55 string
+INSERT qH3 string
+INSERT lmmwfF number
+INSERT iu number
+INSERT i number
+INSERT zaPyY number
+INSERT vk8 string
+INSERT kPEQGP number
+ASSIGN zaPyY qH3
+PRINT
+INSERT w5ATT number
+INSERT loEmx string
+INSERT rB string
+INSERT gUGB number
+RPRINT
+cMv_s9 zO_yJ
+INSERT qtpo string
+INSERT zWluwX string
+RPRINT
+f_F_kM x
+INSERT fdX number
+INSERT rG_ErE number
+INSERT r number
+RPRINT

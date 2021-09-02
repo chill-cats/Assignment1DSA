@@ -1,0 +1,24 @@
+ASSIGN l5f90z 348
+INSERT rsnED string
+INSERT lO number
+INSERT a string
+INSERT ls9 number
+BEGIN
+INSERT sL8S2g string
+LOOKUP ls9
+RPRINT
+INSERT o string
+INSERT yt7aS string
+INSERT eP7LC number
+ASSIGN sL8S2g ls9
+INSERT q33 number
+INSERT xX number
+ASSIGN lO 736
+INSERT h4 number
+RPRINT
+INSERT u string
+ASSIGN o o
+INSERT u number
+LOOKUP xX
+PRINT
+INSERT rxS string

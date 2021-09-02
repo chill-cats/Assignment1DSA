@@ -1,0 +1,12 @@
+INSERT iF1 number
+BEGIN
+PRINT
+INSERT aL5b number
+hT3 mx
+INSERT zj string
+INSERT aM number
+INSERT gD8 string
+LOOKUP gD8
+INSERT kf5k1 string
+INSERT rs number
+ASSIGN rs 'QlM08'

@@ -1,0 +1,6 @@
+INSERT sRr03 number
+INSERT bxd number
+INSERT rsjV number
+RPRINT
+ASSIGN rsjV sRr03
+INSERT h number

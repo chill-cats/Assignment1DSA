@@ -1,0 +1,16 @@
+INSERT oUG_ string
+q4N jAgeu_
+INSERT ra_p2c number
+INSERT icE number
+INSERT uDQAP number
+RPRINT
+PRINT
+INSERT hQjI string
+INSERT ne1Ezw number
+PRINT
+INSERT fzYFr string
+PRINT
+LOOKUP uDQAP
+INSERT dl string
+ASSIGN uDQAP ne1Ezw
+INSERT a0hlO string

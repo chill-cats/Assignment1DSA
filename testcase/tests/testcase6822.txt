@@ -1,0 +1,16 @@
+LOOKUP nosPzJ
+BEGIN
+LOOKUP iL
+INSERT iY string
+INSERT x number
+INSERT mUH number
+INSERT lsCK number
+PRINT
+INSERT l string
+INSERT yTUCrp number
+INSERT kzO1Z string
+INSERT ff2 string
+INSERT oPJZ number
+ASSIGN ff2 'rrO'
+ASSIGN ePfsI 'hrV'
+PRINT

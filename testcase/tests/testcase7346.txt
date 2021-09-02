@@ -1,0 +1,30 @@
+INSERT e number
+INSERT rd string
+INSERT sKVm string
+INSERT tYNq number
+INSERT x string
+INSERT jO number
+PRINT
+PRINT
+INSERT iu string
+INSERT y4T_ string
+ASSIGN iu 11
+PRINT
+INSERT sF5S number
+INSERT u string
+INSERT d4ZboJ string
+INSERT lKP1E string
+INSERT cW string
+INSERT cfmF7 string
+INSERT mELwY number
+BEGIN
+LOOKUP iu
+nVU6V p
+INSERT zWkg number
+INSERT w number
+PRINT
+INSERT kUB number
+LOOKUP w
+INSERT sM number
+BEGIN
+INSERT o string

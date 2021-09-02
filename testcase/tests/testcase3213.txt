@@ -1,0 +1,38 @@
+INSERT dhT number
+INSERT pqS number
+INSERT zp string
+ASSIGN pqS 'v'
+END
+INSERT nDA string
+INSERT mZ1TA string
+INSERT b6gzSe number
+LOOKUP dhT
+PRINT
+INSERT au string
+INSERT wrx string
+INSERT h number
+PRINT
+INSERT gUuBE8 string
+ASSIGN zp 466
+INSERT zD4d number
+BEGIN
+INSERT c string
+INSERT gO number
+LOOKUP mZ1TA
+INSERT s string
+bTo6U uKRsRw
+INSERT hF number
+INSERT pal8 number
+INSERT i4ds string
+INSERT dgDG number
+END
+INSERT wRj number
+vF s
+INSERT g3HsBw string
+RPRINT
+BEGIN
+INSERT fX3hsX string
+INSERT f number
+ASSIGN dgDG c
+RPRINT
+INSERT nIF number

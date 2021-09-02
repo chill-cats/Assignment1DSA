@@ -1,0 +1,4 @@
+INSERT mT3J string
+INSERT jnLwNP number
+INSERT z number
+LOOKUP z

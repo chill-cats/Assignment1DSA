@@ -1,0 +1,17 @@
+INSERT vp number
+LOOKUP vp
+INSERT p number
+INSERT npE6J string
+INSERT dF9 number
+END
+gxVGj a2jH
+INSERT o7nHO number
+INSERT mDFO1 string
+ASSIGN dF9 dF9
+INSERT lhnX string
+INSERT oYwRnh string
+BEGIN
+INSERT d6E number
+INSERT zj string
+PRINT
+BEGIN

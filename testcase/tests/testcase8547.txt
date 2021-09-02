@@ -1,0 +1,36 @@
+END
+INSERT fRr string
+INSERT sT string
+INSERT j string
+PRINT
+INSERT tm number
+INSERT ejso6 number
+INSERT uXjwCQ string
+urTfov jNy3
+ASSIGN uXjwCQ fRr
+INSERT dx string
+RPRINT
+INSERT yioK4 number
+ASSIGN dx 'UKO'
+END
+INSERT z number
+INSERT aROnY string
+LOOKUP aROnY
+LOOKUP tm
+INSERT qQx number
+INSERT sqZ number
+BEGIN
+INSERT o string
+INSERT f4 number
+INSERT l number
+RPRINT
+INSERT e5TSyh string
+INSERT e string
+ASSIGN uXjwCQ 207
+INSERT nGd number
+BEGIN
+PRINT
+INSERT g2lBQ number
+END
+INSERT hvZ7O string
+INSERT gi number

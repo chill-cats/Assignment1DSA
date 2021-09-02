@@ -1,0 +1,33 @@
+INSERT b0JclY number
+ASSIGN b0JclY '6TA'
+END
+INSERT etVpI string
+hqd1 cy
+INSERT zW5 string
+INSERT lix number
+INSERT sCe string
+INSERT n9_ string
+INSERT kQU string
+RPRINT
+INSERT bDN string
+INSERT kG number
+ASSIGN zW5 'f'
+INSERT aTxTaG number
+INSERT fpG string
+RPRINT
+ASSIGN lix 1160
+INSERT iUMO number
+INSERT h4P0SV string
+INSERT iJ29T number
+RPRINT
+BEGIN
+INSERT am1WG string
+LOOKUP lix
+qwXa6Q b
+INSERT oKpJP1 number
+END
+INSERT mR5 number
+INSERT rf number
+INSERT lh_gNh number
+INSERT t7zn_ number
+END

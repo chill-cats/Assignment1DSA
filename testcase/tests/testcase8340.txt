@@ -1,0 +1,34 @@
+INSERT sakXxn string
+INSERT pT number
+INSERT q6BOU number
+INSERT uo string
+INSERT uyIpHh number
+ASSIGN q6BOU 689
+INSERT zs string
+INSERT lCy1 number
+INSERT mAe8K number
+INSERT bqoj number
+INSERT l8Ks number
+INSERT wsJ number
+INSERT aC9B string
+INSERT w3U6 string
+ASSIGN w3U6 'VzL1g'
+INSERT u9 number
+njs sYXSa
+INSERT iv string
+BEGIN
+RPRINT
+ASSIGN wsJ 263
+INSERT bNS string
+INSERT b number
+INSERT kHzt string
+END
+INSERT lk5ZmT string
+LOOKUP uo
+INSERT wRF number
+END
+INSERT aC number
+INSERT pJK string
+INSERT gzY number
+PRINT
+INSERT wRzaa string

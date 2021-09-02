@@ -1,0 +1,33 @@
+RPRINT
+INSERT lNmyTX string
+PRINT
+PRINT
+END
+INSERT b string
+u846D lDC
+INSERT rLCh number
+INSERT d number
+INSERT jRH string
+INSERT sQeH string
+INSERT q number
+INSERT r3GW string
+INSERT rfSMt string
+INSERT nDgei string
+INSERT d2i0e number
+INSERT a string
+BEGIN
+ASSIGN d2i0e 'A'
+INSERT cd5 number
+PRINT
+INSERT f string
+INSERT h6 number
+INSERT d number
+INSERT vRkJb number
+BEGIN
+INSERT itd2 string
+olQOfi h_
+INSERT yRQ string
+INSERT y6Qa number
+BEGIN
+RPRINT
+INSERT xfhhsF string

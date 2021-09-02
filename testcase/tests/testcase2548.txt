@@ -1,0 +1,31 @@
+INSERT x number
+LOOKUP x
+INSERT zje string
+INSERT u7PJTl number
+INSERT s5ePIK string
+PRINT
+LOOKUP x
+INSERT pAkkA number
+BEGIN
+RPRINT
+INSERT f317 number
+ASSIGN f317 pAkkA
+INSERT sshR2o number
+INSERT v8d string
+INSERT sOhd5_ number
+LOOKUP s5ePIK
+LOOKUP pAkkA
+ASSIGN zje 1055
+kOyi pw04
+INSERT a6rAV number
+INSERT sbFAjL number
+END
+INSERT j64m string
+BEGIN
+INSERT mK string
+ASSIGN sDz mK
+INSERT b14wZE number
+INSERT pqb number
+INSERT py1yp number
+INSERT kLN9N number
+END

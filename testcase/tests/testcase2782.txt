@@ -1,0 +1,37 @@
+INSERT pQa number
+LOOKUP pQa
+ASSIGN pQa 852
+INSERT afnqlY number
+INSERT zb string
+BEGIN
+END
+END
+PRINT
+aqCX gA4
+INSERT b6 number
+RPRINT
+INSERT cbp6w number
+INSERT eP5 string
+INSERT ra0PC number
+RPRINT
+INSERT x2 string
+INSERT bZry number
+INSERT eR3 string
+INSERT v9MU string
+INSERT t5yA string
+RPRINT
+INSERT o string
+INSERT nvaQo string
+LOOKUP t5yA
+ASSIGN eR3 459
+INSERT uYIbu number
+PRINT
+INSERT hoK4rH string
+INSERT v string
+INSERT mQJ number
+PRINT
+INSERT vTuq number
+LOOKUP o
+INSERT f number
+ASSIGN nvaQo '6ch'
+PRINT

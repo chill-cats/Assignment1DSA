@@ -1,0 +1,6 @@
+BEGIN
+INSERT cN number
+END
+INSERT d032n string
+LOOKUP d032n
+INSERT tp number

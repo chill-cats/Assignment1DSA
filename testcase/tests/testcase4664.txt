@@ -1,0 +1,18 @@
+RPRINT
+INSERT hqwlH string
+INSERT bI string
+RPRINT
+INSERT vUC string
+ASSIGN hqwlH hqwlH
+ASSIGN hqwlH bI
+INSERT bI0r string
+INSERT pMCb number
+INSERT uT number
+INSERT uV number
+INSERT qhOMz string
+ASSIGN bI0r 'nGtV'
+INSERT v6 string
+INSERT ino1 string
+LOOKUP hqwlH
+INSERT y number
+INSERT hr_DM7 number

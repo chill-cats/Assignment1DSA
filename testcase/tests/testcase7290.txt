@@ -1,0 +1,26 @@
+INSERT qwL number
+LOOKUP qwL
+INSERT bJswk string
+INSERT aYqUo number
+ASSIGN qwL '5rhA1'
+ASSIGN aYqUo bJswk
+INSERT gfY5Fn number
+PRINT
+PRINT
+ASSIGN gfY5Fn 'q'
+ASSIGN bJswk 445
+ASSIGN gfY5Fn 'pv0dw'
+INSERT a6u6ym number
+yxL zIsz
+INSERT mUUPz string
+dR pb0T
+INSERT xdP7i number
+INSERT uz8 number
+INSERT vR6kw9 string
+LOOKUP gfY5Fn
+INSERT rtQsiY number
+INSERT i8TBEF string
+INSERT i string
+BEGIN
+INSERT irHDi string
+w nB

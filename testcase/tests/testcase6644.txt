@@ -1,0 +1,22 @@
+RPRINT
+INSERT rl string
+BEGIN
+INSERT a number
+INSERT kBG string
+RPRINT
+INSERT j1I string
+ASSIGN kBG 101
+INSERT vK string
+RPRINT
+INSERT tNbV number
+INSERT r number
+INSERT v8Q8N number
+INSERT nLeGUr number
+INSERT l string
+INSERT jP number
+INSERT vVyyPx string
+ASSIGN vK 1159
+PRINT
+ASSIGN vVyyPx a
+INSERT s string
+INSERT dt string

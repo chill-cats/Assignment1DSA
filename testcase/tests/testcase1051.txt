@@ -1,0 +1,5 @@
+END
+INSERT ag number
+INSERT d string
+LOOKUP ag
+BEGIN

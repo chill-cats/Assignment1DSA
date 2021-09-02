@@ -1,0 +1,26 @@
+INSERT qpQY number
+INSERT n string
+INSERT e5l number
+INSERT jMmgK string
+INSERT dMO_ string
+RPRINT
+INSERT mSoBQ string
+INSERT nZBfs number
+LOOKUP jMmgK
+ASSIGN qpQY jMmgK
+INSERT q9bn string
+INSERT rBP number
+INSERT un9VV string
+INSERT tM3R string
+INSERT tehKt string
+nkYHXj tLq_5
+INSERT y2xL_ string
+END
+PRINT
+RPRINT
+ASSIGN tehKt 'EI'
+INSERT hGrww number
+INSERT qPi61 string
+INSERT l string
+INSERT xLy string
+INSERT w number

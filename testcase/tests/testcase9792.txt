@@ -1,0 +1,29 @@
+INSERT qGX string
+d i
+INSERT bq2 number
+INSERT rnu string
+INSERT i number
+ASSIGN i 'f'
+INSERT f string
+INSERT e9Nvi string
+INSERT dQiu number
+ASSIGN f rnu
+INSERT yU number
+INSERT bSI number
+INSERT hdQ7F string
+INSERT q1RC string
+RPRINT
+v9Y e6n
+ASSIGN i e9Nvi
+INSERT xOgl number
+PRINT
+INSERT eOyo string
+INSERT kb number
+j qZfDu
+INSERT bW number
+INSERT cho string
+END
+RPRINT
+RPRINT
+INSERT dICvr string
+INSERT dUW8gb string

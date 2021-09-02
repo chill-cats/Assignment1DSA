@@ -1,0 +1,28 @@
+INSERT g1 number
+INSERT jby number
+INSERT sz_Y9K string
+INSERT sUshL number
+INSERT mDLd string
+LOOKUP sz_Y9K
+zYZuDW eVbf
+INSERT bfqJ string
+ASSIGN bfqJ 'qR'
+xyOx kJu0
+INSERT tQleZ string
+INSERT vyWk number
+INSERT pu number
+INSERT qCw number
+INSERT icAR string
+END
+INSERT gXdT number
+INSERT xHx7 string
+INSERT hSm number
+INSERT x024n number
+INSERT tZZ number
+INSERT uj string
+ASSIGN sUshL 'W6nRr'
+INSERT vzI string
+INSERT tq64 number
+INSERT zWA_pL string
+INSERT q number
+PRINT

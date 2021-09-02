@@ -1,0 +1,12 @@
+LOOKUP zCof
+INSERT nj number
+LOOKUP nj
+INSERT jd string
+INSERT uYkI number
+INSERT vnFDi string
+INSERT r_ number
+INSERT a string
+oHRu uX
+p5 ihm4f
+END
+LOOKUP jd

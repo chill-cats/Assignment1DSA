@@ -1,0 +1,31 @@
+RPRINT
+INSERT mazACO string
+ASSIGN mazACO 'OZtK'
+BEGIN
+INSERT y8U string
+INSERT eg_C56 number
+END
+RPRINT
+INSERT d number
+RPRINT
+INSERT aJ string
+INSERT sQ7B number
+LOOKUP d
+INSERT l number
+PRINT
+INSERT vy string
+RPRINT
+INSERT p9K number
+INSERT wE number
+ASSIGN mazACO 598
+INSERT rTh number
+INSERT fQVZ number
+INSERT uomuV0 string
+INSERT iBJFA4 string
+INSERT l8X2n string
+INSERT uh number
+ASSIGN p9K 997
+ASSIGN mazACO 'bR'
+INSERT q string
+INSERT fMt string
+END

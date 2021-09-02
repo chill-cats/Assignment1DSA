@@ -1,0 +1,5 @@
+INSERT l number
+INSERT p string
+ASSIGN p 255
+INSERT uB string
+INSERT uNT string

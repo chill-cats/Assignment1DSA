@@ -1,0 +1,8 @@
+INSERT hzIG string
+INSERT jW5abv number
+INSERT hhH string
+RPRINT
+INSERT xG number
+RPRINT
+ASSIGN hzIG 'Z'
+INSERT uKxkPV string

@@ -1,0 +1,39 @@
+INSERT k string
+INSERT h6 number
+ASSIGN h6 k
+INSERT nxUg string
+RPRINT
+INSERT spyA4 string
+END
+INSERT i0FO number
+LOOKUP h6
+INSERT ynGq0 string
+INSERT txuOk6 string
+INSERT eV number
+INSERT u8ky9Z number
+INSERT r7 string
+INSERT z2X string
+RPRINT
+RPRINT
+BEGIN
+INSERT v7k string
+INSERT aA string
+eC cZgSOO
+INSERT x653_j number
+RPRINT
+INSERT hPOyDa string
+END
+INSERT yp string
+PRINT
+INSERT pvCP number
+END
+LOOKUP x653_j
+INSERT wG8 number
+INSERT x5qkEj string
+END
+INSERT k string
+INSERT cUgEQ number
+INSERT kC3tbH string
+END
+LOOKUP i0FO
+RPRINT

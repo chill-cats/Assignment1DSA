@@ -1,0 +1,14 @@
+INSERT rsWeEX string
+RPRINT
+INSERT t2BcW string
+INSERT hKEwK number
+INSERT hjM number
+INSERT ny string
+ASSIGN ny hKEwK
+INSERT zSw string
+RPRINT
+INSERT veb_Xl number
+RPRINT
+INSERT k5CJ number
+k yFZ
+BEGIN

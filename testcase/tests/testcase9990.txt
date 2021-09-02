@@ -1,0 +1,12 @@
+INSERT hp string
+INSERT xl76R6 string
+END
+ASSIGN hp 235
+INSERT gG number
+LOOKUP gG
+INSERT mmSp string
+INSERT dp0It8 number
+INSERT oqpWV number
+INSERT p2Jar string
+LOOKUP mmSp
+INSERT oNr string

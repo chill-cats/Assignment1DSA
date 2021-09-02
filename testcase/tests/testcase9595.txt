@@ -1,0 +1,11 @@
+INSERT sTsP number
+INSERT ehjkVR string
+LOOKUP ehjkVR
+INSERT cV0 number
+PRINT
+END
+BEGIN
+nNH8 rkFzm
+BEGIN
+ASSIGN sTsP 'C'
+INSERT k0sYgX number

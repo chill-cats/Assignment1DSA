@@ -1,0 +1,29 @@
+END
+INSERT fGhsPH string
+INSERT d number
+INSERT m string
+ASSIGN d 1175
+INSERT kh9CGO number
+PRINT
+INSERT jO string
+INSERT lYcgu number
+INSERT iu8 string
+INSERT yyP4 number
+INSERT t4dK string
+INSERT eHO5 number
+LOOKUP lYcgu
+INSERT o number
+LOOKUP lYcgu
+LOOKUP t4dK
+LOOKUP m
+PRINT
+INSERT nPOz string
+INSERT e number
+INSERT qp1 number
+LOOKUP m
+INSERT aZuR number
+INSERT z number
+INSERT gHM6fX number
+INSERT eyUxck string
+INSERT k string
+INSERT eo06K number

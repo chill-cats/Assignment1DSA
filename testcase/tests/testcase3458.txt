@@ -1,0 +1,40 @@
+INSERT wbsV number
+INSERT yxTedp string
+INSERT c string
+RPRINT
+ASSIGN yxTedp 'CT8'
+END
+RPRINT
+PRINT
+INSERT cAddK number
+INSERT nsW3 string
+ASSIGN wbsV 'Qn2xQ'
+INSERT wXHrUY string
+INSERT bSb number
+INSERT uPV string
+INSERT f8xxy string
+INSERT n string
+INSERT ziE6Hl string
+INSERT j string
+INSERT iC number
+ASSIGN ziE6Hl 'W'
+INSERT f0 string
+INSERT zO8u string
+bGxe1D jq
+RPRINT
+INSERT jA string
+INSERT fTaYv string
+INSERT uWSBbp number
+INSERT t number
+INSERT qrBt string
+dHxvm pqWZmH
+LOOKUP uPV
+END
+RPRINT
+ASSIGN wXHrUY 1214
+INSERT tx string
+INSERT mMOVzr number
+PRINT
+INSERT lVy number
+mJsGR v
+INSERT kq string

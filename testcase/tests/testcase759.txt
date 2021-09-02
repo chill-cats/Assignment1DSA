@@ -1,0 +1,10 @@
+INSERT eFkB0f string
+INSERT d3L4Ey number
+rm8Z yji
+INSERT po string
+INSERT yec0o1 number
+LOOKUP d3L4Ey
+INSERT qd2 number
+LOOKUP po
+ASSIGN d3L4Ey 'TFd8'
+INSERT p string

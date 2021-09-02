@@ -1,0 +1,7 @@
+INSERT alY string
+j40m8 xnd
+INSERT sf string
+LOOKUP sf
+RPRINT
+INSERT uATzg string
+INSERT g number

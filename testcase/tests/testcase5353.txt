@@ -1,0 +1,32 @@
+INSERT aG number
+INSERT gUuTPM string
+INSERT js number
+INSERT j number
+INSERT gOI9 string
+ASSIGN aG j
+RPRINT
+PRINT
+rd zUz7Dj
+RPRINT
+PRINT
+INSERT dufL7 string
+INSERT hG string
+INSERT rBn4 string
+ASSIGN hG hG
+RPRINT
+BEGIN
+INSERT oKcL string
+INSERT hXm number
+INSERT f string
+ASSIGN gUuTPM 'LsD'
+INSERT slV9s string
+INSERT cbx number
+INSERT v number
+INSERT ej number
+LOOKUP aG
+INSERT gu string
+INSERT vwYe number
+INSERT qrV string
+INSERT r5BgL number
+ASSIGN v 215
+INSERT b string

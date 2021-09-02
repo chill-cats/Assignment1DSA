@@ -1,0 +1,21 @@
+RPRINT
+INSERT syLkf string
+PRINT
+INSERT s number
+INSERT bXKeeG number
+LOOKUP bXKeeG
+INSERT xComUL string
+INSERT q0TM8 string
+INSERT mmym string
+LOOKUP bXKeeG
+INSERT qRS string
+oW iHE
+RPRINT
+INSERT f number
+INSERT r3KtXd number
+ASSIGN bXKeeG 'A'
+INSERT dRW_ string
+INSERT bCh1 string
+INSERT lrWbY9 number
+PRINT
+END

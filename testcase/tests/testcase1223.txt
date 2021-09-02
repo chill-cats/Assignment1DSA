@@ -1,0 +1,32 @@
+INSERT zm_XT number
+INSERT oY9tcH string
+INSERT a string
+LOOKUP oY9tcH
+INSERT pmR9vn number
+PRINT
+LOOKUP a
+INSERT hoKVe number
+INSERT m number
+INSERT r6 number
+PRINT
+INSERT krY string
+BEGIN
+INSERT dWU string
+INSERT t string
+INSERT zUgx1 string
+END
+INSERT xNkLA string
+RPRINT
+INSERT ho8 number
+LOOKUP m
+BEGIN
+INSERT tVY string
+INSERT wrJNHq string
+PRINT
+INSERT wIH string
+LOOKUP zm_XT
+INSERT t number
+INSERT a number
+INSERT o3OMh number
+BEGIN
+INSERT f6YE string

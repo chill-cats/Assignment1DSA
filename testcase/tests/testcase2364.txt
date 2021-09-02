@@ -1,0 +1,14 @@
+INSERT adK5 number
+ASSIGN adK5 '0k7'
+INSERT lkGE string
+PRINT
+END
+INSERT v2rF number
+INSERT kgNsN string
+INSERT bV number
+ASSIGN adK5 kgNsN
+n9 o
+RPRINT
+INSERT kHP number
+INSERT wZ string
+END

@@ -1,0 +1,17 @@
+PRINT
+INSERT ep_OP string
+INSERT eZ string
+INSERT sxLG string
+INSERT qjJB number
+INSERT nE1i string
+LOOKUP nE1i
+ASSIGN sxLG 'tBFtW'
+INSERT lQ string
+INSERT oJE_ string
+INSERT px number
+INSERT if string
+END
+INSERT oEr0vQ number
+INSERT rRXHj number
+BEGIN
+INSERT j number

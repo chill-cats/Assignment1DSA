@@ -1,0 +1,24 @@
+PRINT
+INSERT m4byj string
+INSERT q number
+INSERT qfcnt number
+END
+RPRINT
+INSERT m string
+INSERT se5uR2 number
+INSERT oEb5 number
+INSERT s number
+INSERT zk3be string
+LOOKUP oEb5
+PRINT
+ASSIGN oEb5 'xrb'
+PRINT
+INSERT ux string
+RPRINT
+INSERT o7oDT number
+INSERT bMl1v number
+INSERT z number
+INSERT eJbOz number
+ASSIGN o7oDT 1169
+ASSIGN bMl1v 'kT'
+INSERT tmx number

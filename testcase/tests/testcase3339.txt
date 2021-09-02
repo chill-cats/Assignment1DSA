@@ -1,0 +1,26 @@
+INSERT nqO7 number
+INSERT lF4 number
+ASSIGN lF4 46
+INSERT yX0m number
+ASSIGN yX0m nqO7
+LOOKUP yX0m
+INSERT wkV_h string
+INSERT bi number
+INSERT n4ge string
+INSERT w8TL string
+INSERT s0 number
+INSERT mPML9 string
+INSERT ssi number
+RPRINT
+INSERT gCKu string
+INSERT cEI string
+BEGIN
+INSERT sdc6dF string
+INSERT vQH string
+LOOKUP mPML9
+END
+ASSIGN s0 673
+INSERT oWYlKL number
+INSERT pYNp string
+INSERT p string
+RPRINT

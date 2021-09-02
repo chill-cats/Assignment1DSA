@@ -1,0 +1,23 @@
+INSERT u3 number
+zPIXV ae
+vc lEPP
+RPRINT
+BEGIN
+INSERT kiffFz string
+INSERT pW string
+INSERT hu16 number
+LOOKUP kiffFz
+INSERT rAwQ number
+INSERT n_GIL number
+PRINT
+INSERT p number
+LOOKUP pW
+INSERT dMaPU string
+INSERT c0oT number
+RPRINT
+LOOKUP rAwQ
+INSERT teX number
+PRINT
+ASSIGN n_GIL 294
+PRINT
+INSERT gk number

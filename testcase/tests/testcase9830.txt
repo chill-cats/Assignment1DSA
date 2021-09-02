@@ -1,0 +1,5 @@
+INSERT oMm number
+RPRINT
+LOOKUP oMm
+END
+INSERT aM number

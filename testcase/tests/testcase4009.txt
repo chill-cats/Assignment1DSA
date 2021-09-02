@@ -1,0 +1,18 @@
+INSERT v number
+INSERT le number
+RPRINT
+INSERT uBwX string
+ASSIGN le uBwX
+PRINT
+INSERT sq1Z string
+PRINT
+INSERT sdX string
+INSERT sjegYq number
+ASSIGN sjegYq '8RavZ'
+INSERT jsIZ string
+INSERT q number
+INSERT hdam number
+END
+RPRINT
+INSERT vU1 number
+INSERT zs string

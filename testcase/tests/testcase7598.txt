@@ -1,0 +1,40 @@
+INSERT xAJ number
+INSERT m string
+INSERT zVt66 number
+INSERT b number
+INSERT d6zY string
+INSERT c0L string
+INSERT z string
+ASSIGN zVt66 'mU663'
+BEGIN
+INSERT w string
+INSERT e1 string
+INSERT x number
+INSERT u number
+INSERT l6UfP0 string
+INSERT s4aCy string
+INSERT s96v number
+INSERT e number
+PRINT
+INSERT k7W0 string
+INSERT k1 number
+RPRINT
+PRINT
+INSERT j string
+INSERT zkCv number
+END
+INSERT y53J number
+INSERT ulyx string
+INSERT ur93E number
+INSERT mz string
+LOOKUP ur93E
+INSERT shylu number
+BEGIN
+BEGIN
+BEGIN
+INSERT s5u7 string
+INSERT pSH number
+INSERT tSj number
+INSERT l string
+INSERT tK2g number
+LOOKUP zkCv

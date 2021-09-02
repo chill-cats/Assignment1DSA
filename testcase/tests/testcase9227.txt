@@ -1,0 +1,10 @@
+INSERT xK8oMJ string
+INSERT b0 string
+RPRINT
+ASSIGN xK8oMJ 'SHdm'
+INSERT n string
+LOOKUP b0
+BEGIN
+INSERT nK4M number
+LOOKUP b0
+INSERT oFT0wD string

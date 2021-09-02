@@ -1,0 +1,7 @@
+INSERT pfxg string
+INSERT oN number
+PRINT
+fr l7cWD
+INSERT d string
+BEGIN
+INSERT uD8m9 string

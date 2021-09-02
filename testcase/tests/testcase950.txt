@@ -1,0 +1,14 @@
+INSERT qrB number
+INSERT e number
+RPRINT
+INSERT j string
+INSERT yw4 string
+INSERT y3fCJ number
+INSERT yKq2L string
+INSERT hkzlvi string
+INSERT dTq string
+INSERT b string
+INSERT s5nU number
+INSERT y7 string
+ASSIGN yKq2L 383
+INSERT c3 string

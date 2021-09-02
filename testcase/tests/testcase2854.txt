@@ -1,0 +1,32 @@
+INSERT sSljwT string
+INSERT sP number
+LOOKUP sP
+INSERT wssWK number
+INSERT kT5Jr string
+ASSIGN kT5Jr 980
+ASSIGN kT5Jr 'Z'
+INSERT qx_qm number
+INSERT ajJxdm number
+INSERT xtaMF number
+INSERT y4jP number
+INSERT eN3Ae6 string
+INSERT u number
+INSERT qIq string
+INSERT lZHq number
+INSERT lzBvH string
+PRINT
+INSERT i string
+INSERT a string
+INSERT t string
+INSERT mjN string
+LOOKUP ajJxdm
+RPRINT
+INSERT vXq number
+BEGIN
+LOOKUP sSljwT
+INSERT v number
+PRINT
+LOOKUP qIq
+sGYQGV xW
+BEGIN
+END

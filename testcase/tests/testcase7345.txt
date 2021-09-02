@@ -1,0 +1,36 @@
+END
+PRINT
+INSERT qV number
+END
+INSERT l6x number
+INSERT ph string
+PRINT
+INSERT f string
+INSERT hn number
+ASSIGN l6x 248
+PRINT
+ASSIGN l6x 332
+INSERT tDD998 number
+BEGIN
+INSERT neGd string
+INSERT e4 string
+INSERT u8sI number
+INSERT i number
+INSERT ijpyKG number
+INSERT m string
+ASSIGN u8sI 372
+yt yDxgz
+ASSIGN l6x l6x
+INSERT bj number
+INSERT igTc9x number
+INSERT r string
+INSERT c9 string
+INSERT uxTa3K number
+BEGIN
+END
+INSERT r string
+INSERT nNgq string
+LOOKUP l6x
+pmCh d
+ASSIGN uxTa3K neGd
+INSERT iQ number

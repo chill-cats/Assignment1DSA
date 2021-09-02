@@ -1,0 +1,36 @@
+INSERT tYAV string
+INSERT aG string
+INSERT x2mq string
+INSERT eHJ string
+INSERT t string
+BEGIN
+INSERT n6 string
+RPRINT
+lm k0uAa
+END
+LOOKUP t
+INSERT wab string
+INSERT g number
+INSERT eaIi number
+INSERT oYzo number
+INSERT e string
+INSERT lyqw string
+RPRINT
+LOOKUP x2mq
+INSERT wlj string
+BEGIN
+END
+RPRINT
+BEGIN
+INSERT gN3 number
+INSERT n string
+ASSIGN oYzo 'gO7'
+END
+INSERT dJVocx string
+INSERT lyU string
+INSERT f number
+ASSIGN t lyU
+RPRINT
+INSERT tP string
+INSERT sN6 number
+INSERT cI number

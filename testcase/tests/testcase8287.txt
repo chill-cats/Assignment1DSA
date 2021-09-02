@@ -1,0 +1,5 @@
+INSERT z number
+BEGIN
+PRINT
+INSERT oc number
+INSERT kq string

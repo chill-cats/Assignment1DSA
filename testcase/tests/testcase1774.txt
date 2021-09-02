@@ -1,0 +1,39 @@
+INSERT p9gy string
+INSERT fK1M number
+INSERT gVwwW_ string
+LOOKUP p9gy
+INSERT rGO4b1 number
+tZgg b0IY
+INSERT oj string
+INSERT sJYw3 number
+INSERT gCWROc number
+ASSIGN gCWROc 'biAZz'
+INSERT rO string
+RPRINT
+INSERT vS number
+INSERT a number
+INSERT w number
+INSERT jic_j number
+INSERT tAOgrh number
+INSERT bJaz5 number
+RPRINT
+INSERT sNmaD number
+INSERT xL7 string
+INSERT a7rM string
+INSERT g number
+INSERT y918gR string
+INSERT yP2H string
+ASSIGN a 1100
+cV7oTm vNE4
+rjA2 z
+INSERT yIDTlj number
+INSERT yA string
+PRINT
+PRINT
+INSERT v6 number
+BEGIN
+ASSIGN p9gy 779
+LOOKUP vS
+INSERT d9 string
+INSERT aM number
+LOOKUP g

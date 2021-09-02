@@ -1,0 +1,2 @@
+INSERT w number
+INSERT adICYv string

@@ -1,0 +1,33 @@
+RPRINT
+INSERT q string
+INSERT nSyUyW string
+INSERT d8 string
+INSERT nlEC3H number
+BEGIN
+ASSIGN nlEC3H nSyUyW
+LOOKUP nSyUyW
+INSERT rA string
+ASSIGN nlEC3H nlEC3H
+ASSIGN nlEC3H 572
+INSERT q8Fe string
+PRINT
+INSERT zZl string
+LOOKUP q
+ASSIGN d8 699
+PRINT
+INSERT knzJGz string
+dxf l
+INSERT rUt5e number
+INSERT wX6 string
+INSERT dS number
+INSERT rgGa string
+INSERT rPI string
+INSERT wiJOKw string
+INSERT yP8 string
+END
+INSERT zuDFs number
+INSERT k3W1hK number
+INSERT lc number
+INSERT y2o string
+BEGIN
+INSERT pCA number

@@ -1,0 +1,9 @@
+ASSIGN jjKbZ '4X'
+INSERT eWUj8h string
+INSERT kt10Z string
+INSERT xO string
+ASSIGN xO 'G'
+PRINT
+ASSIGN kt10Z 354
+BEGIN
+INSERT xdj7 string

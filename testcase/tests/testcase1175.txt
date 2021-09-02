@@ -1,0 +1,33 @@
+INSERT h_h number
+INSERT yFm string
+coM uNDVsv
+INSERT gf4tk number
+INSERT l0 number
+INSERT wSh7 number
+INSERT cSkn string
+INSERT vVc string
+INSERT gwE string
+ASSIGN wSh7 1057
+ASSIGN l0 gf4tk
+INSERT qR7 string
+INSERT cRE1Nf number
+INSERT w number
+INSERT kDJ string
+INSERT cFbK3u string
+INSERT rIcaAX string
+INSERT j_d number
+INSERT lR number
+INSERT xVhz string
+pC v
+INSERT x number
+INSERT ajd string
+LOOKUP lR
+PRINT
+INSERT wwm62y number
+LOOKUP cFbK3u
+INSERT oZvi string
+LOOKUP vVc
+INSERT iB number
+INSERT j number
+PRINT
+RPRINT

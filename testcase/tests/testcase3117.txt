@@ -1,0 +1,20 @@
+INSERT bjo number
+ASSIGN bjo 'v'
+INSERT mFY string
+RPRINT
+INSERT bDspsp number
+INSERT rKOyCn string
+INSERT k string
+ASSIGN bjo 511
+INSERT x number
+INSERT w6U number
+INSERT kZh number
+END
+INSERT tY number
+PRINT
+INSERT jJ number
+INSERT f string
+ASSIGN jJ 'Fzu'
+END
+END
+INSERT sQDykP number

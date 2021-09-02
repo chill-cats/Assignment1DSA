@@ -1,0 +1,8 @@
+INSERT oT number
+END
+INSERT gkkx string
+INSERT apP number
+END
+INSERT gtLfU string
+LOOKUP gtLfU
+INSERT yyx_ string

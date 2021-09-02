@@ -1,0 +1,31 @@
+END
+PRINT
+INSERT c string
+INSERT y string
+INSERT a string
+INSERT t number
+INSERT fy number
+INSERT yh string
+INSERT mdi0AP number
+RPRINT
+INSERT xy1Bt4 number
+INSERT hu7_F string
+RPRINT
+INSERT qat2 string
+ASSIGN y 1148
+INSERT m number
+LOOKUP a
+INSERT tW2EJ9 string
+BEGIN
+INSERT j string
+INSERT kLk string
+INSERT ds_ number
+PRINT
+oPt r7P56
+INSERT yh3e string
+END
+ASSIGN mdi0AP '0h5z'
+BEGIN
+INSERT hbk0 string
+ASSIGN tW2EJ9 fy
+INSERT u9 number

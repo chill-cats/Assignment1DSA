@@ -1,0 +1,40 @@
+INSERT jrbb string
+LOOKUP jrbb
+udegv jJ_GTH
+ASSIGN jrbb 787
+INSERT eiD string
+INSERT p number
+INSERT bwtF string
+ASSIGN jrbb p
+INSERT eMmUl3 number
+INSERT fpqf9M number
+LOOKUP fpqf9M
+ASSIGN p '79kDJ'
+INSERT enTYO number
+INSERT rFFAJS number
+RPRINT
+INSERT v number
+ASSIGN fpqf9M 'VLK'
+INSERT wLzQHz string
+INSERT vOgm4 number
+ASSIGN enTYO '52'
+INSERT l9uGS string
+INSERT c number
+INSERT m4lxeo number
+BEGIN
+INSERT aPAm number
+INSERT a5mKek number
+ASSIGN a5mKek 197
+INSERT dkr number
+INSERT n number
+INSERT rbj number
+INSERT vjFi number
+INSERT t number
+PRINT
+BEGIN
+INSERT d1g41 number
+INSERT q string
+INSERT tND6 string
+INSERT qCyI string
+LOOKUP rFFAJS
+INSERT kNmINf string

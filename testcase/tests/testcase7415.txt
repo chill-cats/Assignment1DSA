@@ -1,0 +1,38 @@
+ohnp u49
+BEGIN
+INSERT ajEnw string
+INSERT jd string
+INSERT l number
+INSERT exrSG string
+INSERT efoVuo number
+RPRINT
+INSERT iceq8C string
+INSERT x number
+INSERT t number
+BEGIN
+INSERT rpU string
+ASSIGN l rpU
+INSERT iBs1S number
+RPRINT
+INSERT dN number
+INSERT voOt string
+LOOKUP iceq8C
+INSERT eXN2 string
+INSERT aU5 string
+INSERT vT4 number
+INSERT l string
+LOOKUP iceq8C
+INSERT oH0V string
+INSERT hvC string
+INSERT xSyZ number
+INSERT ioKQ string
+INSERT gs2 string
+INSERT m number
+LOOKUP x
+INSERT uD number
+RPRINT
+RPRINT
+PRINT
+INSERT crQ71 string
+INSERT t9ASg string
+INSERT l string

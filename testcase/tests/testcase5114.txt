@@ -1,0 +1,20 @@
+LOOKUP kv
+INSERT dDA string
+LOOKUP dDA
+INSERT o number
+RPRINT
+INSERT e_9p number
+INSERT ihrx string
+RPRINT
+INSERT xc string
+INSERT d5q string
+INSERT l string
+INSERT gv09dD number
+LOOKUP e_9p
+INSERT uz4T9N number
+INSERT xjCXH number
+INSERT xG15L string
+PRINT
+ASSIGN o gv09dD
+INSERT hjDO number
+PRINT

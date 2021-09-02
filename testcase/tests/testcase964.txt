@@ -1,0 +1,9 @@
+INSERT wEL71P number
+INSERT bi string
+INSERT lgl3 string
+INSERT aQggrG number
+ASSIGN aQggrG 'cOQc'
+END
+r3 zZ
+RPRINT
+BEGIN

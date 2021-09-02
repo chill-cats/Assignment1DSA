@@ -1,0 +1,27 @@
+INSERT pq string
+INSERT uS number
+INSERT wC4Fa3 string
+PRINT
+INSERT pQY_YK string
+INSERT q4b string
+INSERT u3r number
+INSERT mJsJ8 number
+INSERT sJD string
+RPRINT
+INSERT rf48i string
+RPRINT
+PRINT
+END
+PRINT
+END
+ASSIGN rf48i 118
+INSERT x_8 string
+INSERT z128g number
+INSERT iq number
+LOOKUP pQY_YK
+LOOKUP iq
+INSERT kJ string
+koQ x
+INSERT pCF string
+RPRINT
+INSERT yDO number

@@ -1,0 +1,35 @@
+LOOKUP j
+PRINT
+INSERT x string
+INSERT qh number
+PRINT
+INSERT tSCwA number
+INSERT g number
+INSERT u6 string
+BEGIN
+END
+INSERT fStpoI number
+j4_ eA4
+INSERT bRXCe number
+ASSIGN u6 g
+LOOKUP x
+INSERT i string
+INSERT hVjSo string
+PRINT
+INSERT eVL number
+INSERT rqj0p number
+INSERT jF number
+INSERT a number
+LOOKUP g
+INSERT lzaWU string
+INSERT yaMn81 string
+INSERT h6UmT number
+PRINT
+INSERT v number
+END
+BEGIN
+INSERT c string
+ASSIGN c 768
+INSERT uhe number
+INSERT iu7 string
+INSERT aKYJMM string

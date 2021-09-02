@@ -1,0 +1,35 @@
+END
+BEGIN
+PRINT
+RPRINT
+INSERT qs2tx string
+LOOKUP qs2tx
+INSERT plF5 string
+INSERT q string
+INSERT h string
+INSERT m number
+END
+ASSIGN plF5 plF5
+INSERT mlJQoE number
+INSERT l6pGv number
+INSERT f5rWTW number
+RPRINT
+INSERT xe string
+ASSIGN f5rWTW 'p'
+INSERT h35Ocz number
+END
+INSERT go number
+INSERT aq string
+INSERT gulx number
+INSERT x8u number
+END
+INSERT nX string
+INSERT kY2LrY string
+INSERT wyj2a number
+INSERT oCy number
+INSERT nb7cio string
+INSERT uOBP string
+INSERT nd number
+BEGIN
+INSERT rCYb string
+INSERT q0Cxn number

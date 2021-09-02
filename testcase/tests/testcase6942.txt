@@ -1,0 +1,21 @@
+INSERT es string
+INSERT zR number
+INSERT rk number
+INSERT g3s string
+xMax3 d68
+INSERT yaf3J number
+INSERT y4T7 string
+INSERT gT number
+INSERT f number
+INSERT gPOCo string
+INSERT aEfOTL number
+INSERT ejL number
+INSERT n number
+INSERT hq string
+INSERT aov number
+INSERT j string
+INSERT aYnF number
+INSERT eJGbhI string
+INSERT j_m8h string
+INSERT tW number
+BEGIN

@@ -1,0 +1,39 @@
+INSERT pnNsLM number
+INSERT gmq number
+LOOKUP gmq
+INSERT xC string
+INSERT yO string
+RPRINT
+INSERT yhJ string
+INSERT ceuOEa number
+PRINT
+END
+INSERT pL number
+INSERT l2OcD number
+INSERT mlN0EU string
+END
+INSERT cQS9O_ number
+PRINT
+INSERT kw68l number
+PRINT
+INSERT nJmq number
+INSERT l number
+INSERT pHb number
+LOOKUP pL
+BEGIN
+INSERT gxV string
+INSERT zxB number
+INSERT iTK number
+PRINT
+INSERT nIRVF string
+INSERT rrl string
+END
+INSERT mO number
+PRINT
+INSERT xv6xP number
+LOOKUP mO
+ASSIGN yO 827
+INSERT iwJx9 number
+cEdYIX e
+INSERT awUZan number
+INSERT l6si string

@@ -1,0 +1,29 @@
+INSERT hfcY2 string
+INSERT dcIo7 string
+INSERT bP string
+INSERT qN string
+INSERT tWvs4u number
+INSERT hbO string
+INSERT blpo4B number
+INSERT srJATk number
+END
+PRINT
+LOOKUP hbO
+INSERT h number
+BEGIN
+RPRINT
+INSERT hpQmv number
+END
+ASSIGN srJATk 'B'
+INSERT xA number
+INSERT miLEpq number
+ASSIGN tWvs4u hfcY2
+INSERT p string
+INSERT hx number
+INSERT m number
+l_p yJ6m
+INSERT orOs number
+INSERT vs9qe number
+INSERT z24 number
+INSERT hrwE string
+INSERT wYU number

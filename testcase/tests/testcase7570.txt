@@ -1,0 +1,16 @@
+LOOKUP j
+PRINT
+END
+END
+LOOKUP wOUQBx
+INSERT pC string
+iivd u0
+ASSIGN pC 780
+END
+INSERT jkj number
+INSERT mRLdIy number
+INSERT rk string
+INSERT vDdw number
+RPRINT
+INSERT x5 string
+RPRINT

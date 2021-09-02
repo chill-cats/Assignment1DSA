@@ -1,0 +1,32 @@
+INSERT gdKe number
+LOOKUP gdKe
+BEGIN
+LOOKUP gdKe
+INSERT e0iEt number
+INSERT w9ZZn string
+INSERT q number
+INSERT oduQO number
+PRINT
+BEGIN
+mle yX
+INSERT bJX string
+nO d3bD
+BEGIN
+INSERT g_y number
+INSERT x0M number
+INSERT apMNVe string
+INSERT bMvFL string
+INSERT o number
+INSERT xN0vc string
+INSERT f_hhsH number
+ASSIGN o oduQO
+INSERT iBms_ string
+INSERT mn number
+INSERT a string
+INSERT nJ5 string
+INSERT ntxtG number
+INSERT ytNqB number
+INSERT j5n4 number
+INSERT tFcce string
+INSERT yd number
+PRINT

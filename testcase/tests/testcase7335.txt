@@ -1,0 +1,9 @@
+x qFTD
+nEZGx pD
+END
+INSERT vCSq3 number
+INSERT rlXlX number
+INSERT tA string
+INSERT h string
+RPRINT
+END

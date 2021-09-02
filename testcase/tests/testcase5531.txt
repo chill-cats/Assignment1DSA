@@ -1,0 +1,4 @@
+INSERT zLz string
+INSERT rII7ms string
+INSERT f number
+RPRINT

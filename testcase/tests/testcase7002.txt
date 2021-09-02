@@ -1,0 +1,10 @@
+INSERT gLo5t string
+ASSIGN gLo5t 'P'
+RPRINT
+INSERT tu8V2I number
+INSERT u5UZk number
+END
+INSERT gQ1H string
+INSERT k1rR number
+END
+INSERT yyI number

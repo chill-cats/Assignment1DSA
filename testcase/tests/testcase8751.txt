@@ -1,0 +1,5 @@
+INSERT vP4PHq number
+INSERT gy2eZ string
+INSERT g2Uay number
+INSERT wd string
+PRINT

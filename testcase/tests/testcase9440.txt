@@ -1,0 +1,30 @@
+INSERT f string
+LOOKUP z
+ASSIGN f 'P'
+ASSIGN f 317
+ASSIGN f 'a5i'
+INSERT lF number
+INSERT v number
+INSERT jHd2Am number
+INSERT pv number
+k3XgoY lFJ0wK
+BEGIN
+INSERT vCYTC string
+INSERT q7 string
+xl1Q w
+INSERT mK string
+END
+INSERT yTU6LO number
+LOOKUP mK
+LOOKUP vCYTC
+INSERT llKB number
+INSERT kvR3 string
+INSERT iDg2 number
+INSERT bAzHX number
+BEGIN
+ASSIGN bAzHX v
+INSERT t3 string
+PRINT
+INSERT j number
+INSERT iqZDu number
+LOOKUP mK

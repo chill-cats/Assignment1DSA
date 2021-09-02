@@ -1,0 +1,28 @@
+INSERT y3 string
+INSERT f number
+ASSIGN f y3
+INSERT zJOKBY number
+END
+u dz61Z
+INSERT iBSl string
+INSERT tLM7 number
+INSERT mXOj string
+INSERT wkLW number
+BEGIN
+LOOKUP f
+INSERT eZm number
+INSERT bMw number
+ASSIGN y3 tLM7
+INSERT qr6x string
+INSERT n9M3 number
+INSERT sz2 number
+INSERT qut string
+lR_USh rDK
+BEGIN
+INSERT gAzW_B string
+INSERT e string
+pHT0 cu
+RPRINT
+END
+PRINT
+INSERT xPB string

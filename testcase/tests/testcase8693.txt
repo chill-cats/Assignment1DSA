@@ -1,0 +1,26 @@
+INSERT b string
+LOOKUP b
+BEGIN
+INSERT zA string
+PRINT
+INSERT ge number
+bP1tI vD
+RPRINT
+m0xU thvu6Y
+ASSIGN b b
+INSERT g string
+cO j
+RPRINT
+BEGIN
+INSERT l string
+INSERT xRwUD number
+ASSIGN ge 370
+INSERT mD_1Ik number
+INSERT atp7q string
+END
+BEGIN
+INSERT mlHXo number
+INSERT dYr9 number
+INSERT wTM04 string
+INSERT xDe7l4 string
+LOOKUP b

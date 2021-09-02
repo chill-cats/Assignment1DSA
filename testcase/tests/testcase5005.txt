@@ -1,0 +1,32 @@
+INSERT c1CJ string
+RPRINT
+INSERT rZe string
+INSERT hH7G string
+LOOKUP c1CJ
+INSERT rCN85n string
+n mUZ
+INSERT v41 number
+INSERT talr5 string
+INSERT vHCbcU number
+cytc faogg
+LOOKUP talr5
+INSERT aIgQv number
+INSERT vq number
+INSERT m5GxWs number
+INSERT vYaCw string
+INSERT urN3CT string
+nKP t2
+INSERT dsT number
+INSERT s7T number
+INSERT jGoTf number
+INSERT vI string
+INSERT yFxOm string
+INSERT mgTO number
+INSERT hk number
+INSERT z number
+END
+INSERT c number
+INSERT eTphhu string
+INSERT uDDjc number
+ASSIGN m5GxWs 543
+PRINT

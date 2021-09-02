@@ -1,0 +1,18 @@
+INSERT nz string
+ASSIGN nz 578
+INSERT bsxTp number
+INSERT l4GLw number
+INSERT p string
+INSERT n5YexO string
+PRINT
+INSERT cR number
+PRINT
+INSERT ccHGU2 number
+INSERT ji2 string
+INSERT sjpVR string
+INSERT v2QwPv string
+BEGIN
+LOOKUP nz
+INSERT gq number
+INSERT q number
+INSERT jZN8oP string

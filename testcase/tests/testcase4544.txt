@@ -1,0 +1,10 @@
+INSERT aA28N1 string
+END
+INSERT nNp number
+PRINT
+INSERT j5KoS number
+INSERT hA4 number
+INSERT mmg number
+INSERT yOWE number
+RPRINT
+RPRINT

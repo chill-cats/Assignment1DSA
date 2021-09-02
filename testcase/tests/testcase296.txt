@@ -1,0 +1,5 @@
+INSERT uQK2N string
+q0I_Vt jj
+PRINT
+LOOKUP uQK2N
+BEGIN

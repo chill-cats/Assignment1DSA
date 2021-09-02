@@ -1,0 +1,22 @@
+END
+INSERT q string
+END
+INSERT xr_Mow number
+BEGIN
+INSERT wB number
+INSERT hR string
+END
+INSERT rcY number
+ASSIGN rcY 'PDvx'
+INSERT nt number
+END
+INSERT t0k_oE number
+INSERT mo number
+INSERT lg9B number
+END
+LOOKUP hR
+INSERT us string
+e n_oQRf
+INSERT v53n_n string
+INSERT eb63Cz string
+INSERT prRk string

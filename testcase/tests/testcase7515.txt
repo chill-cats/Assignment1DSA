@@ -1,0 +1,28 @@
+LOOKUP vT
+INSERT rP number
+LOOKUP rP
+cHM gBBS
+RPRINT
+INSERT uJl string
+INSERT fdhUvM number
+RPRINT
+INSERT z51JW number
+RPRINT
+PRINT
+INSERT s string
+INSERT aVKPV number
+INSERT rWmCW number
+INSERT hR_ string
+ASSIGN rWmCW fdhUvM
+INSERT zeQN17 number
+LOOKUP fdhUvM
+INSERT gqDz string
+INSERT qnzRwU number
+INSERT zU string
+INSERT hzxGG number
+PRINT
+PRINT
+gpU pgF
+INSERT tPjedX number
+INSERT wA22Ct number
+LOOKUP zeQN17

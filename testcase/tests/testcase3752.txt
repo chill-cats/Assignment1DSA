@@ -1,0 +1,25 @@
+INSERT s0 string
+INSERT n string
+BEGIN
+INSERT mq number
+ASSIGN mq s0
+INSERT u string
+BEGIN
+INSERT dAAgK string
+LOOKUP u
+INSERT hMjQ string
+INSERT oHb6 string
+INSERT b string
+BEGIN
+INSERT dYJcG number
+ASSIGN mq 'rfKtt'
+END
+PRINT
+INSERT wYcId number
+PRINT
+INSERT iHQY string
+INSERT ib6 string
+INSERT r string
+INSERT vR string
+lepIZ sO
+INSERT fh5j number

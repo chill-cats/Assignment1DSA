@@ -1,0 +1,21 @@
+BEGIN
+INSERT jL4 number
+LOOKUP jL4
+END
+INSERT kh3SW number
+INSERT y062j string
+INSERT gC string
+INSERT tFc0t string
+INSERT xIE4L8 number
+INSERT n string
+INSERT nBGfX4 string
+INSERT k9F string
+INSERT l6QxV number
+n5oh7l mjZ
+INSERT p0 string
+INSERT soopri number
+INSERT zX9wR number
+ASSIGN p0 'w2wP'
+LOOKUP y062j
+INSERT z2CYMv number
+ASSIGN gC 43

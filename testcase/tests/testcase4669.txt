@@ -1,0 +1,26 @@
+INSERT gMxb number
+RPRINT
+INSERT we6p string
+INSERT lAk8W number
+INSERT vp string
+INSERT icS number
+INSERT lvHvJ number
+ASSIGN we6p icS
+END
+q oDq
+BEGIN
+INSERT t number
+INSERT eOciW string
+END
+ASSIGN lvHvJ we6p
+BEGIN
+bZe kmd8
+PRINT
+INSERT tR3 string
+INSERT m string
+RPRINT
+PRINT
+INSERT l string
+INSERT eRNJ number
+lAUP g4
+RPRINT

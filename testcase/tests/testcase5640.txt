@@ -1,0 +1,39 @@
+INSERT l8u number
+INSERT cvl string
+INSERT plMKv string
+END
+INSERT c number
+INSERT zpf number
+INSERT rr22ld number
+INSERT fVP8aX string
+INSERT vMib7K string
+INSERT sTg number
+ASSIGN l8u rr22ld
+INSERT rt string
+INSERT x number
+njVAFU eCSM
+oTiGc k
+INSERT iIoQ string
+INSERT a_CBMi string
+INSERT bc string
+INSERT tIsZKE string
+INSERT e string
+INSERT d number
+INSERT xExD string
+LOOKUP tIsZKE
+INSERT uU1THP string
+INSERT x2qY number
+LOOKUP sTg
+INSERT ktzzgZ number
+BEGIN
+INSERT idM7HW string
+END
+INSERT feBD string
+BEGIN
+INSERT dIwrd string
+RPRINT
+INSERT iH string
+INSERT m string
+RPRINT
+RPRINT
+PRINT

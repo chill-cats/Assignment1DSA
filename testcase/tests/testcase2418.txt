@@ -1,0 +1,26 @@
+INSERT ncP string
+PRINT
+INSERT j string
+INSERT tA string
+INSERT blig number
+PRINT
+ASSIGN blig j
+e5eLJj w5bAQV
+INSERT boffrm number
+ASSIGN tA 'aRJ'
+INSERT fESs number
+LOOKUP tA
+INSERT y number
+RPRINT
+INSERT hIAhZ number
+END
+INSERT mkf string
+RPRINT
+INSERT cYlpBv number
+INSERT iC string
+ASSIGN boffrm 901
+INSERT m number
+INSERT ahzV number
+INSERT wq number
+INSERT crB string
+INSERT jq39e number

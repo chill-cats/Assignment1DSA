@@ -1,0 +1,10 @@
+PRINT
+INSERT xvloOJ string
+ASSIGN xvloOJ 1029
+END
+INSERT qja number
+INSERT ko2U string
+INSERT rrt string
+INSERT nydC number
+INSERT kbX5 string
+PRINT

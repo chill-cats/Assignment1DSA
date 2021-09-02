@@ -1,0 +1,28 @@
+INSERT hHXQIJ string
+PRINT
+INSERT tyt number
+INSERT hUt number
+PRINT
+INSERT yy string
+PRINT
+INSERT pvd number
+INSERT u24 string
+LOOKUP hHXQIJ
+INSERT kF number
+c_5 nHUE
+INSERT zKTv number
+INSERT jq number
+INSERT s string
+INSERT mnrd4o number
+ASSIGN tyt 114
+PRINT
+INSERT mjwtsh number
+INSERT p string
+PRINT
+BEGIN
+INSERT qJF string
+INSERT kit number
+INSERT b0u number
+INSERT n3fU9 string
+LOOKUP mnrd4o
+INSERT mCSlL8 number

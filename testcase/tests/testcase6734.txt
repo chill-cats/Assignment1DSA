@@ -1,0 +1,15 @@
+INSERT jjCig1 string
+INSERT b71JnR string
+INSERT wPc string
+INSERT uf9EeO string
+BEGIN
+INSERT it number
+INSERT b number
+PRINT
+PRINT
+INSERT isL5M string
+ASSIGN jjCig1 jjCig1
+INSERT qc string
+END
+BEGIN
+INSERT lt string

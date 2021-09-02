@@ -1,0 +1,33 @@
+INSERT g number
+LOOKUP g
+INSERT lA5S string
+INSERT zl9 number
+RPRINT
+ASSIGN zl9 lA5S
+INSERT gMQFs7 string
+iZ3R wrJ912
+n5R4X_ nFyvF
+INSERT nB12X number
+PRINT
+RPRINT
+END
+INSERT tsSX string
+INSERT kk number
+INSERT jdUZ number
+INSERT x1W9 string
+RPRINT
+kY1z2 t
+INSERT tMdge number
+INSERT m number
+END
+ASSIGN m 230
+INSERT jW number
+END
+INSERT b0RQu number
+INSERT hsv5J number
+INSERT pHd number
+INSERT nzBl number
+INSERT eqZB string
+PRINT
+INSERT y5UXyL number
+INSERT dxJDn string

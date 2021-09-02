@@ -1,0 +1,20 @@
+INSERT vU number
+INSERT u8d number
+RPRINT
+RPRINT
+BEGIN
+INSERT rR_G string
+END
+INSERT qM_knR string
+INSERT bLD number
+INSERT ceiUJA number
+INSERT r number
+RPRINT
+INSERT ub string
+INSERT xw string
+INSERT mO9zgU string
+INSERT tXcjP number
+LOOKUP r
+INSERT o0sX string
+INSERT ojqj number
+INSERT t0Vhd number

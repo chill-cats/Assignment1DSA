@@ -1,0 +1,4 @@
+BEGIN
+INSERT it4H0 string
+INSERT tdLG4 number
+ASSIGN tdLG4 it4H0

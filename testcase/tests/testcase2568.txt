@@ -1,0 +1,21 @@
+INSERT iSId number
+INSERT vV string
+ASSIGN vV 'c'
+INSERT kQxX number
+INSERT o7ya string
+INSERT lUUQ_ number
+INSERT mxgUWG string
+INSERT fQ number
+RPRINT
+bKvhMu m
+ASSIGN o7ya 'cE8y'
+INSERT oUTP number
+INSERT h1 string
+INSERT fP3 number
+INSERT fKly number
+BEGIN
+INSERT lulOa number
+INSERT b number
+PRINT
+INSERT jfBh string
+INSERT tZJ13 string

@@ -1,0 +1,17 @@
+g1BX mIOLm
+INSERT liATA0 number
+INSERT gxwXh string
+INSERT naR number
+INSERT vyN7 string
+RPRINT
+INSERT sJ number
+INSERT t7 string
+INSERT nm3 number
+INSERT faJyq9 number
+INSERT jFK number
+INSERT hDfo string
+INSERT aCAgT number
+ASSIGN hDfo t7
+INSERT yRCEN string
+END
+BEGIN

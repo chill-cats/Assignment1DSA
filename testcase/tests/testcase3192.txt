@@ -1,0 +1,24 @@
+END
+INSERT d9a string
+ASSIGN d9a d9a
+INSERT ahuU number
+INSERT sRPoRj string
+BEGIN
+RPRINT
+INSERT i string
+ASSIGN ahuU 'Yy8'
+END
+RPRINT
+INSERT kSA8zg number
+INSERT aDTy string
+RPRINT
+INSERT g number
+INSERT f number
+LOOKUP g
+LOOKUP f
+h e6PDa
+BEGIN
+INSERT iBJE number
+INSERT nRwxay string
+INSERT c41 number
+INSERT fFD string

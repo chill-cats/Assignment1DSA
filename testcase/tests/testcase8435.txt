@@ -1,0 +1,32 @@
+INSERT f string
+INSERT eFSc number
+INSERT rsSoaK number
+INSERT qsL string
+ASSIGN eFSc '5B7E4'
+ASSIGN eFSc rsSoaK
+INSERT h9R string
+INSERT hNu string
+PRINT
+INSERT hSA5H string
+mQu0 bWNFz
+INSERT z number
+INSERT rxOOl string
+LOOKUP hSA5H
+INSERT aPs71y number
+BEGIN
+INSERT hEld2 string
+INSERT l string
+PRINT
+INSERT hipWj string
+PRINT
+INSERT bdL4c string
+INSERT yJw string
+INSERT jHmp string
+END
+INSERT w number
+END
+INSERT kQS string
+INSERT u_4nf_ string
+END
+PRINT
+PRINT

@@ -1,0 +1,34 @@
+INSERT i8MFA number
+aRsXky zodb
+BEGIN
+LOOKUP i8MFA
+BEGIN
+INSERT v1O string
+INSERT fvII string
+ASSIGN fvII 939
+INSERT edtbW string
+BEGIN
+INSERT w string
+ASSIGN v1O 756
+LOOKUP v1O
+INSERT ovOSCR number
+RPRINT
+INSERT lk29 string
+PRINT
+INSERT zieh string
+ASSIGN zieh zieh
+INSERT c string
+INSERT rHu string
+RPRINT
+u3 onI
+INSERT y string
+INSERT qAT number
+INSERT q4wX number
+INSERT grJ string
+INSERT g3o string
+INSERT n8Dn string
+INSERT jyQ string
+hiGp x1mzuk
+INSERT g0V string
+INSERT dEqdiT number
+BEGIN

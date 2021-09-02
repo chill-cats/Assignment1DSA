@@ -1,0 +1,12 @@
+INSERT g number
+INSERT e2 number
+INSERT e number
+INSERT k string
+END
+RPRINT
+BEGIN
+INSERT yabpp number
+INSERT y1K string
+LOOKUP y1K
+INSERT ss3nL number
+INSERT e number

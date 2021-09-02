@@ -1,0 +1,16 @@
+INSERT sb number
+ASSIGN sb 'e'
+BEGIN
+INSERT csq string
+INSERT a number
+INSERT kHK number
+RPRINT
+END
+o foS
+INSERT n5pM11 string
+INSERT cfQ6rQ string
+INSERT i string
+INSERT e3_N number
+INSERT a string
+INSERT cSZA number
+INSERT ez6F string

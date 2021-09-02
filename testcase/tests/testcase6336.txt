@@ -1,0 +1,37 @@
+INSERT w number
+LOOKUP w
+END
+INSERT pmq number
+INSERT h4v number
+PRINT
+ASSIGN pmq h4v
+INSERT bS9 number
+INSERT vNjWB number
+INSERT to number
+BEGIN
+PRINT
+INSERT kX string
+INSERT xnUlb_ string
+PRINT
+BEGIN
+nLcq kfmdE
+PRINT
+PRINT
+INSERT uED2z number
+INSERT e2Ly0 string
+PRINT
+INSERT iJDcW string
+LOOKUP xnUlb_
+LOOKUP iJDcW
+INSERT i number
+RPRINT
+INSERT krvQJQ number
+INSERT z number
+INSERT bfF string
+RPRINT
+ASSIGN to 304
+ASSIGN z 1233
+RPRINT
+w tP
+INSERT j string
+RPRINT

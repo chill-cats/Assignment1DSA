@@ -1,0 +1,29 @@
+INSERT m string
+INSERT whfdt string
+PRINT
+BEGIN
+RPRINT
+INSERT ez7 number
+INSERT n3 string
+INSERT n number
+INSERT yxx string
+INSERT gomqj2 number
+END
+INSERT q4tkQM string
+ASSIGN q4tkQM 126
+INSERT zEdX string
+INSERT zf_b2 string
+BEGIN
+RPRINT
+PRINT
+ASSIGN zEdX whfdt
+ASSIGN ez7 q4tkQM
+INSERT ttdH string
+RPRINT
+INSERT jCPPC number
+INSERT o string
+END
+ASSIGN yxx n
+INSERT u2c string
+INSERT jXl number
+INSERT p7DEEI string

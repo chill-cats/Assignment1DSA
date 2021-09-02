@@ -1,0 +1,11 @@
+INSERT aQgA number
+INSERT g9 number
+END
+INSERT dBXI number
+END
+INSERT koZ number
+INSERT g string
+INSERT t_A number
+INSERT xFu string
+INSERT x number
+ASSIGN xFu 771

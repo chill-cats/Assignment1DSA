@@ -1,0 +1,26 @@
+INSERT vv2mXo string
+ASSIGN vv2mXo 'KwYE'
+ASSIGN vv2mXo 543
+INSERT azKW number
+d2j xZydaq
+LOOKUP azKW
+INSERT wRd string
+INSERT b9Cq3 string
+ASSIGN vv2mXo b9Cq3
+INSERT iN number
+INSERT w number
+ASSIGN wRd 925
+INSERT p number
+INSERT g1KxlP number
+INSERT hT string
+INSERT s2flC number
+INSERT mDa string
+INSERT bz string
+BEGIN
+INSERT u number
+INSERT fE7 string
+INSERT beFZ7 string
+LOOKUP g1KxlP
+BEGIN
+INSERT k_Q8 string
+ASSIGN g1KxlP '2xLv2'

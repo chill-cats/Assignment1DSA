@@ -1,0 +1,8 @@
+INSERT ne number
+INSERT dTeH string
+INSERT g string
+INSERT wH string
+INSERT xTP number
+END
+INSERT k6unxZ number
+LOOKUP wH

@@ -1,0 +1,28 @@
+INSERT t5 string
+INSERT oc3 string
+BEGIN
+INSERT wOiMv string
+ASSIGN wOiMv 1037
+INSERT jQ5 number
+INSERT z string
+INSERT r number
+INSERT g string
+PRINT
+INSERT iF number
+INSERT fQw6z number
+djV1 aC9tD
+INSERT zljT string
+INSERT t9jPLN number
+PRINT
+INSERT k string
+INSERT yTg number
+BEGIN
+INSERT fZE string
+INSERT kx string
+INSERT zs9 number
+INSERT zchI string
+INSERT gf165z number
+ASSIGN yTg 270
+INSERT bcT string
+END
+LOOKUP k

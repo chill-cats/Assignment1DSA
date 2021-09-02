@@ -1,0 +1,8 @@
+INSERT yjWN string
+RPRINT
+uazuh4 jCny_U
+INSERT g string
+INSERT ync_tV string
+BEGIN
+INSERT t2 number
+LOOKUP g

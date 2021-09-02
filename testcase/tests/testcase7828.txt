@@ -1,0 +1,12 @@
+INSERT f string
+RPRINT
+INSERT q number
+PRINT
+INSERT n string
+INSERT scOF string
+INSERT n56S string
+INSERT r number
+RPRINT
+RPRINT
+INSERT so number
+INSERT k string

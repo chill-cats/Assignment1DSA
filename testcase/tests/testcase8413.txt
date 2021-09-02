@@ -1,0 +1,16 @@
+RPRINT
+INSERT i_ number
+INSERT vUgej3 string
+INSERT bQK2N8 string
+INSERT au number
+zk uUxayw
+sfB dCN
+ASSIGN bQK2N8 '9 '
+INSERT aBUGf number
+LOOKUP aBUGf
+LOOKUP bQK2N8
+INSERT pu6eR number
+INSERT kGDSr string
+INSERT n string
+INSERT q1y number
+INSERT mxLd number

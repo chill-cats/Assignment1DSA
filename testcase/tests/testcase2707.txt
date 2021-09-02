@@ -1,0 +1,13 @@
+INSERT r9_i4 string
+INSERT n1l2HO string
+INSERT fT number
+INSERT vYbtZt string
+PRINT
+ASSIGN n1l2HO fT
+INSERT qFf number
+BEGIN
+INSERT hX number
+INSERT mgtl number
+END
+RPRINT
+ASSIGN hX 554

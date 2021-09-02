@@ -1,0 +1,10 @@
+PRINT
+INSERT c string
+INSERT rxnHDM string
+INSERT trQR number
+INSERT ya6ucp string
+ASSIGN c 1128
+INSERT f number
+RPRINT
+LOOKUP rxnHDM
+RPRINT

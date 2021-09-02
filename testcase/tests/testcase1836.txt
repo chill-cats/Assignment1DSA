@@ -1,0 +1,20 @@
+INSERT sPU number
+RPRINT
+INSERT qkoyW5 string
+INSERT u string
+INSERT y4Ju9 number
+INSERT dnT number
+INSERT sQg4 number
+bYhwt g9f
+RPRINT
+INSERT xrH number
+INSERT s string
+PRINT
+RPRINT
+INSERT aD string
+INSERT hE string
+PRINT
+LOOKUP dnT
+INSERT x string
+INSERT ihn number
+END

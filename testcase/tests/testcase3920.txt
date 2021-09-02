@@ -1,0 +1,3 @@
+INSERT uL7xtC string
+ASSIGN uL7xtC uL7xtC
+INSERT s6PDhW number

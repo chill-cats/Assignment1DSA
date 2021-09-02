@@ -1,0 +1,11 @@
+RPRINT
+INSERT i9 string
+RPRINT
+INSERT ubp string
+END
+INSERT q number
+INSERT ksvgX string
+LOOKUP i9
+INSERT rEZj string
+RPRINT
+o2 nye

@@ -1,0 +1,40 @@
+PRINT
+ASSIGN rNq4DZ 987
+INSERT hVu number
+LOOKUP hVu
+INSERT wS number
+z sL
+INSERT w string
+INSERT r string
+LOOKUP w
+BEGIN
+xfbbN w
+BEGIN
+END
+INSERT o string
+INSERT xt0K5g number
+RPRINT
+RPRINT
+INSERT j7KtW string
+END
+INSERT jo3eb9 number
+INSERT sodk3n number
+INSERT iuIyGC string
+INSERT dShq_Q number
+INSERT yW4n number
+INSERT hqX string
+INSERT tBOHaa number
+ASSIGN jo3eb9 633
+RPRINT
+LOOKUP sodk3n
+RPRINT
+INSERT m number
+INSERT v number
+INSERT oaGqU string
+INSERT l string
+INSERT ua string
+INSERT r number
+BEGIN
+INSERT arZ4 string
+INSERT xew number
+END

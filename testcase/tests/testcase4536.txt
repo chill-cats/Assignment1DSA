@@ -1,0 +1,5 @@
+ASSIGN cd 908
+INSERT xS string
+BEGIN
+END
+INSERT nB string

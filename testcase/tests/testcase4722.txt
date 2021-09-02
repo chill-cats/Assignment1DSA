@@ -1,0 +1,29 @@
+INSERT bBCa3 number
+INSERT ia number
+END
+INSERT y1zM number
+INSERT zbiX string
+INSERT o string
+END
+INSERT r_ string
+INSERT l6uj number
+INSERT mojCt string
+INSERT o string
+ASSIGN bBCa3 '4YCbB'
+INSERT xJtCX number
+INSERT e number
+INSERT tXx string
+ASSIGN e 1022
+INSERT l8L number
+BEGIN
+INSERT h number
+INSERT e number
+INSERT rmD string
+INSERT boZsaw number
+BEGIN
+pK tAX
+INSERT g number
+INSERT p number
+INSERT g6CMA number
+END
+INSERT wkM string

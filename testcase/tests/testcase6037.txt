@@ -1,0 +1,11 @@
+INSERT yv279 string
+ASSIGN yv279 'srBm0'
+RPRINT
+INSERT k6vap5 string
+LOOKUP yv279
+END
+INSERT q string
+INSERT j number
+INSERT dW number
+gdg84 edVU
+INSERT pl number

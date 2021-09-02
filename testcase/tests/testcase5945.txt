@@ -1,0 +1,18 @@
+INSERT rguo7 number
+RPRINT
+INSERT dZGcgk string
+LOOKUP rguo7
+INSERT vRH2 number
+INSERT g0UQ string
+INSERT qx string
+INSERT yrv number
+INSERT hkcGW string
+RPRINT
+INSERT s number
+LOOKUP qx
+PRINT
+INSERT fIQ string
+INSERT ff number
+LOOKUP fIQ
+INSERT hz string
+BEGIN

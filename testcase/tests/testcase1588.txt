@@ -1,0 +1,4 @@
+INSERT jOO number
+PRINT
+INSERT n_v string
+INSERT e8Jp8 number

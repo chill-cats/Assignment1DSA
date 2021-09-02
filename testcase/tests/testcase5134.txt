@@ -1,0 +1,8 @@
+LOOKUP y
+INSERT njB number
+INSERT qyy1 string
+INSERT xKjr number
+ASSIGN njB xKjr
+LOOKUP xKjr
+INSERT z0B string
+INSERT fl number

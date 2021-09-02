@@ -1,0 +1,30 @@
+INSERT ng string
+INSERT kcfL string
+INSERT c_c number
+LOOKUP c_c
+BEGIN
+INSERT jLu3Cn string
+INSERT i number
+INSERT blyFdf string
+INSERT uLH number
+RPRINT
+INSERT dNsTu string
+INSERT jZV string
+INSERT nr string
+INSERT eb string
+INSERT eoM93S number
+INSERT tu0nl number
+LOOKUP tu0nl
+INSERT lM92Tr number
+INSERT pvo4 number
+cEp aB
+INSERT qi string
+RPRINT
+END
+INSERT qE string
+INSERT p6V3zW number
+INSERT wJQ_2f number
+INSERT p1Jom number
+INSERT yZXAH number
+INSERT hzAX number
+INSERT sbzL string

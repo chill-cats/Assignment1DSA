@@ -1,0 +1,14 @@
+INSERT hTq string
+ASSIGN hTq 359
+ASSIGN hTq 479
+INSERT u string
+INSERT kb9ICT string
+INSERT dLB number
+INSERT lhI number
+INSERT c6 string
+INSERT i7 string
+INSERT r8 string
+PRINT
+INSERT mz number
+INSERT wO39 string
+INSERT ed string

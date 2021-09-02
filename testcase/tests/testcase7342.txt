@@ -1,0 +1,16 @@
+INSERT fU number
+INSERT i9 number
+INSERT ie number
+INSERT a string
+INSERT jEuThu number
+PRINT
+RPRINT
+INSERT mNWbd number
+BEGIN
+INSERT qGZ string
+INSERT v string
+BEGIN
+u i12
+PRINT
+ASSIGN qGZ v
+INSERT hezhi string

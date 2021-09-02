@@ -1,0 +1,40 @@
+INSERT q number
+INSERT cD number
+ASSIGN q 1087
+INSERT z8X string
+INSERT z string
+ASSIGN z z8X
+RPRINT
+INSERT w66 number
+INSERT fcvfr string
+PRINT
+INSERT yuw number
+INSERT hQn number
+INSERT gtKlaZ string
+END
+INSERT ijYA string
+LOOKUP z8X
+INSERT azS string
+INSERT v number
+INSERT aUL number
+INSERT nB7r string
+INSERT fhD4LK number
+INSERT qSFO3C string
+iGJ xTPiWZ
+INSERT h8hlI string
+INSERT m number
+PRINT
+LOOKUP z
+INSERT yksMr number
+INSERT u7SR0 string
+INSERT x2j number
+INSERT bapo number
+INSERT p string
+vfyhH tcaog
+INSERT pvhI string
+INSERT rV8uV string
+BEGIN
+INSERT jQtmQI number
+END
+END
+PRINT

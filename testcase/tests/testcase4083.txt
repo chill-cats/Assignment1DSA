@@ -1,0 +1,22 @@
+INSERT lywAm number
+RPRINT
+INSERT db string
+INSERT i7 string
+ASSIGN lywAm i7
+INSERT zRF_G string
+INSERT q5h number
+INSERT ywRRd0 number
+ASSIGN q5h i7
+INSERT tG string
+ehZ mGvEt
+PRINT
+INSERT uquG number
+INSERT gKRPaT number
+INSERT w0nQPM string
+INSERT mU8 string
+INSERT vyp2y number
+RPRINT
+uM g7N
+LOOKUP zRF_G
+INSERT yFPTVu string
+INSERT zWXr string

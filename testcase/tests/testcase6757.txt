@@ -1,0 +1,8 @@
+END
+INSERT nGgKrT string
+INSERT iGXw string
+INSERT nteKOY string
+INSERT u string
+ASSIGN u nGgKrT
+INSERT wM number
+END

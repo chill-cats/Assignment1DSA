@@ -1,0 +1,14 @@
+INSERT de number
+INSERT vYSbra number
+BEGIN
+INSERT c8KM number
+PRINT
+INSERT jM string
+nDBj sQx9
+INSERT eDX number
+INSERT uw number
+PRINT
+LOOKUP eDX
+ASSIGN vYSbra uw
+PRINT
+PRINT

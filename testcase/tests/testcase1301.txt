@@ -1,0 +1,13 @@
+BEGIN
+INSERT rmm string
+INSERT dIax number
+INSERT cmvtEH number
+INSERT tX1 number
+LOOKUP rmm
+INSERT sr2PQ1 string
+INSERT gCzqF number
+ASSIGN rmm rmm
+INSERT qZ8OS number
+INSERT k2 string
+INSERT ww string
+INSERT k string

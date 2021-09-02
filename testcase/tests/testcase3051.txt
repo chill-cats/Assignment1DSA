@@ -1,0 +1,17 @@
+INSERT uZZOYg string
+INSERT c56 number
+INSERT co string
+RPRINT
+LOOKUP c56
+END
+INSERT awQ number
+INSERT uZRW number
+INSERT t0ZZ number
+INSERT lePL number
+INSERT h string
+LOOKUP lePL
+INSERT qXx4 string
+INSERT mtQzk string
+INSERT xtEh string
+LOOKUP co
+BEGIN

@@ -1,0 +1,38 @@
+END
+INSERT c4x_ string
+ASSIGN c4x_ '7'
+INSERT v77vQr string
+INSERT c number
+INSERT bHQle number
+INSERT ot3w number
+BEGIN
+INSERT r string
+LOOKUP m
+RPRINT
+INSERT g number
+INSERT f string
+INSERT wg2Apf number
+RPRINT
+INSERT lLQ75I string
+INSERT aQeVu number
+INSERT kqY string
+INSERT bLOCx5 string
+END
+INSERT qS string
+INSERT eh string
+INSERT xyY string
+INSERT mx string
+INSERT jL number
+INSERT mspqHx string
+INSERT aXCHO string
+BEGIN
+ASSIGN eh 'z4'
+PRINT
+BEGIN
+INSERT rq number
+INSERT bFPrh number
+INSERT ghT7U string
+INSERT yP string
+INSERT sIj string
+pxoP h5Y
+PRINT

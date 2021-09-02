@@ -1,0 +1,11 @@
+INSERT jfLfa string
+INSERT h45 string
+INSERT gV number
+INSERT tdwtK string
+BEGIN
+INSERT a1 number
+END
+RPRINT
+INSERT b4lc number
+RPRINT
+INSERT bVrO5 number

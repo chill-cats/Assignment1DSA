@@ -1,0 +1,11 @@
+RPRINT
+INSERT kyRPK number
+INSERT cNtfy string
+LOOKUP cNtfy
+gyJA nlz2
+ASSIGN kyRPK 866
+INSERT djb string
+INSERT xGhp number
+BEGIN
+RPRINT
+INSERT sF2 number

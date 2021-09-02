@@ -1,0 +1,29 @@
+INSERT jf number
+INSERT bq5p string
+INSERT zKjuIn string
+INSERT u string
+INSERT eCS2 string
+INSERT yj number
+END
+BEGIN
+INSERT od string
+INSERT fFPr number
+INSERT eN number
+INSERT ksEPpW string
+INSERT ppG3U string
+LOOKUP ppG3U
+INSERT yM5On number
+LOOKUP bq5p
+BEGIN
+INSERT w2aJyh string
+INSERT m number
+BEGIN
+INSERT lbS2 number
+INSERT z0XIC string
+ASSIGN eN eCS2
+INSERT h8euJj number
+a ooCw34
+INSERT sW string
+END
+END
+BEGIN

@@ -1,0 +1,35 @@
+END
+PRINT
+INSERT vr string
+END
+ASSIGN vr 972
+INSERT cV string
+INSERT vv string
+INSERT dZ585F number
+INSERT nUY number
+ASSIGN vv cV
+RPRINT
+END
+INSERT m string
+ASSIGN vr 'HiS'
+INSERT q9mc number
+INSERT rJco string
+INSERT wfFV number
+INSERT fxA6QM string
+INSERT k5bU2 string
+INSERT d number
+INSERT hF number
+BEGIN
+END
+INSERT dvzM number
+INSERT gQ1Z number
+INSERT bb string
+INSERT mt number
+INSERT uCr number
+BEGIN
+INSERT rP5 number
+RPRINT
+PRINT
+INSERT e string
+INSERT fD string
+u lL1La

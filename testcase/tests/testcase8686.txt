@@ -1,0 +1,33 @@
+INSERT h number
+PRINT
+PRINT
+PRINT
+INSERT rlyuc string
+PRINT
+INSERT kkeb number
+END
+INSERT kD string
+INSERT gpuS string
+RPRINT
+INSERT qtPwBE number
+RPRINT
+LOOKUP rlyuc
+INSERT lR number
+ASSIGN lR 502
+p oCR
+LOOKUP lR
+INSERT vIOV4U number
+INSERT k number
+INSERT c number
+INSERT jhzy9H number
+INSERT l number
+INSERT x string
+INSERT eqWuH number
+LOOKUP x
+INSERT e7nTGp string
+INSERT dOPFp string
+INSERT oLHn string
+END
+INSERT y9DYT number
+BEGIN
+INSERT yq_vL number

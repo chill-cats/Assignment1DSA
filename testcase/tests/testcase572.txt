@@ -1,0 +1,36 @@
+ASSIGN xz 'bM'
+INSERT v number
+INSERT iE string
+END
+PRINT
+LOOKUP v
+INSERT kR4W7h number
+INSERT xipI number
+INSERT xZ number
+INSERT jcfzQ string
+INSERT qK number
+END
+INSERT uR string
+INSERT qGa number
+INSERT d1mp string
+END
+INSERT q string
+END
+zBZbA uzoj
+BEGIN
+INSERT xjOk string
+INSERT lvP1kU string
+RPRINT
+END
+INSERT jRYV9 number
+BEGIN
+INSERT ytA string
+INSERT b2o string
+INSERT u string
+BEGIN
+INSERT ssbr8A number
+INSERT evd0M string
+PRINT
+INSERT dZV number
+PRINT
+PRINT

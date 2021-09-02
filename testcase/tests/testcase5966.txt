@@ -1,0 +1,25 @@
+LOOKUP xp9I
+RPRINT
+INSERT juH_34 string
+INSERT c0S number
+INSERT v1_p string
+ASSIGN juH_34 'u'
+INSERT sYX2 number
+INSERT g1 string
+BEGIN
+INSERT jo5go string
+INSERT cCzve string
+INSERT gxmnC6 number
+INSERT yV number
+ASSIGN cCzve 'zy'
+nlE vm
+INSERT b string
+RPRINT
+INSERT kxhftb number
+RPRINT
+INSERT asR1qL string
+INSERT t number
+END
+ASSIGN asR1qL 191
+INSERT dlI number
+INSERT lo6qh8 number

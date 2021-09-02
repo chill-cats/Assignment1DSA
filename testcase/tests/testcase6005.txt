@@ -1,0 +1,17 @@
+z pwkf
+END
+INSERT hU string
+PRINT
+INSERT jAwqu0 number
+INSERT gHHZDO number
+INSERT bfFT number
+INSERT vaqati number
+INSERT dTDh string
+ASSIGN jAwqu0 853
+INSERT g3 string
+INSERT jiGWx number
+INSERT xVkoC string
+RPRINT
+LOOKUP dTDh
+END
+INSERT wUAqf number

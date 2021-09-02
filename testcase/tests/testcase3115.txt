@@ -1,0 +1,30 @@
+INSERT bDIDCn string
+INSERT ty5u string
+INSERT fE number
+PRINT
+INSERT vyt number
+INSERT m1Zn number
+INSERT pk number
+INSERT nN5a5X string
+INSERT rfwvq string
+RPRINT
+INSERT wKwW number
+INSERT h string
+INSERT yQjGD string
+INSERT i string
+ASSIGN yQjGD 'mJ'
+INSERT v0sI string
+RPRINT
+END
+INSERT l48 string
+INSERT m number
+LOOKUP m
+END
+RPRINT
+INSERT luWL number
+INSERT la9 string
+INSERT v string
+INSERT wf8od string
+INSERT rC number
+PRINT
+BEGIN

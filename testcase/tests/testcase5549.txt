@@ -1,0 +1,21 @@
+BEGIN
+INSERT zXSi string
+PRINT
+INSERT pl5 string
+ASSIGN pl5 'B9dw'
+INSERT qMn number
+INSERT bUIJ string
+INSERT gF string
+INSERT g8N string
+INSERT iOAjw number
+LOOKUP iOAjw
+cslKUF bfX
+INSERT fVMF string
+ASSIGN iOAjw 1238
+LOOKUP bUIJ
+INSERT jJwxq number
+PRINT
+LOOKUP jJwxq
+INSERT tQRs number
+BEGIN
+RPRINT

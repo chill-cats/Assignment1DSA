@@ -1,0 +1,30 @@
+INSERT hW2 string
+END
+LOOKUP hW2
+INSERT r_W number
+INSERT hGdnVY number
+INSERT ny4 string
+INSERT ok79 string
+INSERT oq string
+INSERT e7Aqe number
+INSERT i65nRs number
+INSERT s string
+INSERT imUGO number
+INSERT dBcw number
+INSERT e number
+RPRINT
+INSERT bKa string
+INSERT ay9Z number
+INSERT elxag string
+INSERT p string
+END
+ASSIGN imUGO 1231
+PRINT
+INSERT mEFb string
+INSERT gK5 number
+PRINT
+INSERT bZY number
+LOOKUP e7Aqe
+INSERT vGP string
+END
+INSERT eE number

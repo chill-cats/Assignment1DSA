@@ -1,0 +1,36 @@
+RPRINT
+bt k
+INSERT e number
+ASSIGN e e
+INSERT u string
+LOOKUP u
+INSERT b number
+INSERT zWjn number
+INSERT rp6h0N number
+INSERT o string
+INSERT pnqMNv number
+INSERT i number
+INSERT eNB0vo number
+RPRINT
+LOOKUP i
+INSERT bFF number
+INSERT m number
+LOOKUP bFF
+INSERT p number
+RPRINT
+INSERT g number
+INSERT hBDb string
+END
+INSERT oUxY20 string
+INSERT oVL_mC string
+INSERT m string
+jYEOuc s
+LOOKUP m
+INSERT q number
+INSERT l number
+INSERT rTCP6 number
+LOOKUP q
+INSERT nC56e6 number
+INSERT lOR4 string
+PRINT
+ecn vvjKL6

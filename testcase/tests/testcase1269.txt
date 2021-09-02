@@ -1,0 +1,17 @@
+BEGIN
+INSERT rFyfB number
+ASSIGN rFyfB '2jL'
+INSERT cq number
+RPRINT
+LOOKUP cq
+RPRINT
+INSERT e number
+x bhd
+INSERT g string
+ASSIGN e 'qPWu'
+BEGIN
+vBaQ bs
+END
+hQVU cwVcbo
+INSERT b number
+INSERT b string

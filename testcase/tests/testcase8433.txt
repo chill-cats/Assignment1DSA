@@ -1,0 +1,22 @@
+tCN iE
+INSERT qr97Ns string
+INSERT qJ27d number
+LOOKUP qr97Ns
+INSERT yUly4 string
+ASSIGN qr97Ns 1230
+INSERT jX string
+INSERT wqusib string
+ASSIGN qJ27d jX
+INSERT qz string
+INSERT wf number
+ASSIGN qr97Ns qJ27d
+PRINT
+INSERT v string
+INSERT oK number
+INSERT uCO number
+RPRINT
+ASSIGN jX 264
+INSERT x2WhH string
+RPRINT
+BEGIN
+ASSIGN uCO 376

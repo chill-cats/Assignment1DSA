@@ -1,0 +1,28 @@
+LOOKUP s
+INSERT shQF5f string
+INSERT l string
+INSERT rdD9c number
+INSERT jA3 number
+INSERT kOVeb string
+INSERT fS_1C string
+INSERT v5a8r string
+INSERT fA41U string
+PRINT
+LOOKUP rdD9c
+RPRINT
+INSERT yU2 number
+INSERT uy5Zpf string
+INSERT yj3U9t string
+INSERT l_yvEZ string
+INSERT f8zBGT number
+INSERT l string
+INSERT yq82 string
+END
+INSERT e8p string
+BEGIN
+RPRINT
+INSERT uP string
+dCn pyO7H
+INSERT xugokA string
+INSERT voa number
+ASSIGN rdD9c 1006

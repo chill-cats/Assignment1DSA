@@ -1,0 +1,29 @@
+INSERT pCOJ number
+INSERT htdYOp string
+INSERT e number
+INSERT ct string
+INSERT epV string
+INSERT rq9L number
+INSERT qzFBSc number
+INSERT s string
+INSERT vp number
+INSERT t string
+RPRINT
+END
+INSERT rH number
+INSERT t1 number
+LOOKUP s
+RPRINT
+LOOKUP t
+INSERT yE44xy string
+INSERT kw6 number
+INSERT rt9 number
+ASSIGN e '3'
+INSERT u number
+INSERT kM number
+INSERT m number
+PRINT
+INSERT bJ5xRG string
+LOOKUP t
+BEGIN
+INSERT o8zNS number

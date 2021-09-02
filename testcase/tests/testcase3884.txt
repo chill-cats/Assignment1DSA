@@ -1,0 +1,4 @@
+INSERT t7 string
+INSERT p8Ps6 string
+ASSIGN t7 p8Ps6
+LOOKUP p8Ps6

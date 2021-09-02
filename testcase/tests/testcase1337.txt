@@ -1,0 +1,25 @@
+INSERT x9 string
+INSERT ppF number
+BEGIN
+RPRINT
+END
+BEGIN
+INSERT lR string
+INSERT piqlYZ number
+INSERT bA string
+oBZEj z5
+INSERT o8Qo string
+INSERT xz7Gr string
+LOOKUP lR
+INSERT ix string
+ASSIGN ix 'NxJGc'
+xV96 giSO
+PRINT
+BEGIN
+INSERT kkie number
+INSERT eSblig number
+INSERT z string
+PRINT
+INSERT wtF number
+INSERT uKqcL string
+PRINT

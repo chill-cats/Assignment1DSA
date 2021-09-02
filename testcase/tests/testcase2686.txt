@@ -1,0 +1,11 @@
+INSERT nEHP string
+INSERT iHPxZr string
+INSERT uC string
+BEGIN
+INSERT k1 number
+INSERT n0fjHo string
+END
+END
+INSERT uu string
+ASSIGN uu 1045
+INSERT wOV number

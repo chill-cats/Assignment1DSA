@@ -1,0 +1,31 @@
+INSERT x7U string
+INSERT nFK number
+INSERT guSXkt number
+INSERT xcvJ string
+INSERT e2A1 string
+INSERT t number
+INSERT fxKt number
+LOOKUP guSXkt
+INSERT wXgG string
+INSERT jVdN number
+END
+LOOKUP xcvJ
+INSERT pS number
+INSERT rN8R number
+INSERT ohR1 string
+INSERT tmY number
+END
+END
+ASSIGN guSXkt fxKt
+INSERT kFn8wV string
+INSERT kwcql number
+PRINT
+RPRINT
+INSERT ys2 string
+INSERT b4oLJb number
+PRINT
+INSERT voy_n number
+LOOKUP nFK
+INSERT mMI2 string
+PRINT
+LOOKUP voy_n

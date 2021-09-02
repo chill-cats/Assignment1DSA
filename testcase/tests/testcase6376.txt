@@ -1,0 +1,4 @@
+ASSIGN p8J 'OL'
+END
+INSERT eMm number
+INSERT gZxTdd number

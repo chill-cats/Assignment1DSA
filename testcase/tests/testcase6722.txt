@@ -1,0 +1,8 @@
+INSERT oTmrYS string
+END
+BEGIN
+INSERT gmLZK number
+INSERT m4 string
+PRINT
+INSERT hu number
+INSERT xF string

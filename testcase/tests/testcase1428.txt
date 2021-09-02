@@ -1,0 +1,33 @@
+INSERT erlb string
+ASSIGN erlb 'QGBc'
+INSERT g75Jo number
+INSERT r8v number
+INSERT nybCQg string
+INSERT qnu string
+INSERT j0eF string
+INSERT dHJDh string
+INSERT jqPs1q number
+RPRINT
+RPRINT
+ASSIGN r8v g75Jo
+INSERT c5 number
+END
+BEGIN
+sFd c
+PRINT
+INSERT uw string
+LOOKUP g75Jo
+PRINT
+yyBNFo kbk6
+l8b8ug lay9ol
+END
+INSERT s7VDnw number
+BEGIN
+INSERT ujK3 string
+INSERT mo number
+INSERT eBSj8h string
+s uF
+INSERT d5RNN8 number
+END
+INSERT n5AIg string
+ASSIGN dHJDh g75Jo

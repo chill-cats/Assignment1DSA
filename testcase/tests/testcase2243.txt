@@ -1,0 +1,14 @@
+INSERT fKWM0i number
+ASSIGN fKWM0i 1033
+qFjN6 yqK3DD
+INSERT y number
+BEGIN
+INSERT f string
+LOOKUP f
+RPRINT
+INSERT dea7tm string
+LOOKUP f
+LOOKUP f
+INSERT nwHkH6 string
+BEGIN
+INSERT gTkx string

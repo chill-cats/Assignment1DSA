@@ -1,0 +1,5 @@
+BEGIN
+INSERT bjiw number
+RPRINT
+INSERT nQj string
+INSERT h_Mbp string

@@ -1,0 +1,27 @@
+INSERT ckt8_ number
+PRINT
+INSERT mWLsy string
+BEGIN
+INSERT veb number
+INSERT a string
+END
+ASSIGN veb 1158
+INSERT gQPnKR string
+BEGIN
+ASSIGN a 'uYW'
+INSERT iyl0yJ number
+LOOKUP iyl0yJ
+INSERT pPOl8 number
+INSERT krYEyT number
+RPRINT
+RPRINT
+INSERT vmg9 number
+INSERT k number
+INSERT s92Hzp string
+INSERT v number
+INSERT fk string
+INSERT elwTx string
+RPRINT
+INSERT gwY number
+INSERT hP9 string
+LOOKUP ckt8_

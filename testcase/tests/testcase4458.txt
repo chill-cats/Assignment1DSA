@@ -1,0 +1,12 @@
+BEGIN
+INSERT uQa string
+END
+ASSIGN uQa 'zKVVl'
+xqT9 ewv
+INSERT d number
+INSERT wd_2i number
+PRINT
+INSERT k number
+RPRINT
+ASSIGN wd_2i d
+INSERT nmF number

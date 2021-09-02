@@ -1,0 +1,30 @@
+INSERT h number
+INSERT m string
+BEGIN
+ASSIGN m 'QYv'
+INSERT xK3o4i string
+BEGIN
+INSERT f string
+INSERT g string
+LOOKUP f
+INSERT r1HzKo number
+INSERT j string
+INSERT gkum string
+ASSIGN r1HzKo 428
+INSERT kFun number
+LOOKUP g
+INSERT kDT3 string
+INSERT ufDU string
+INSERT e0yExG string
+PRINT
+INSERT pi53xr number
+ASSIGN kFun 452
+PRINT
+INSERT v string
+INSERT jL7uA string
+INSERT dnyhm5 number
+END
+INSERT vo number
+BEGIN
+INSERT ayC string
+INSERT gCTdef number

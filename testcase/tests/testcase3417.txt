@@ -1,0 +1,29 @@
+RPRINT
+INSERT w string
+PRINT
+INSERT pF3u number
+INSERT p6 string
+INSERT hEQPm number
+INSERT tFks string
+PRINT
+INSERT nOWRV number
+INSERT kM string
+INSERT g number
+INSERT x string
+INSERT h number
+INSERT nzB string
+INSERT qV57R string
+PRINT
+INSERT iXWbw string
+INSERT elgc string
+INSERT z5fBX number
+INSERT z number
+INSERT nLI string
+INSERT n1gAU2 string
+INSERT l string
+ASSIGN w 'OTqV'
+PRINT
+INSERT tI number
+INSERT jf number
+RPRINT
+INSERT i2H number

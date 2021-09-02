@@ -1,0 +1,10 @@
+PRINT
+INSERT xZMT string
+INSERT l string
+INSERT pLZWuJ number
+INSERT pEzPpw number
+BEGIN
+INSERT x number
+RPRINT
+INSERT wLt5nW number
+PRINT

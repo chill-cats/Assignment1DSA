@@ -1,0 +1,33 @@
+RPRINT
+INSERT zriS string
+PRINT
+BEGIN
+INSERT dUFF string
+INSERT h_Rb number
+INSERT pndKZH number
+BEGIN
+INSERT rHLy string
+INSERT oYO0G string
+INSERT v1 string
+LOOKUP dUFF
+INSERT s string
+INSERT g1 number
+INSERT m2 string
+INSERT n_gw4 number
+BEGIN
+INSERT q_0K27 number
+ASSIGN v1 'oljT'
+INSERT oZ string
+INSERT gGbuU number
+INSERT ipb number
+END
+LOOKUP q_0K27
+INSERT ha number
+INSERT z string
+INSERT zE0 string
+ASSIGN s '6'
+ASSIGN h_Rb h_Rb
+INSERT rck string
+INSERT lTsH number
+INSERT vnl string
+INSERT ht50Sf string

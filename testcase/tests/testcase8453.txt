@@ -1,0 +1,24 @@
+ASSIGN a 'my4E'
+INSERT q3KW string
+INSERT iaw_d6 string
+INSERT uz6lqt number
+LOOKUP iaw_d6
+INSERT zeb number
+INSERT x_ string
+INSERT bIR string
+RPRINT
+LOOKUP x_
+ASSIGN ux 'ZB'
+INSERT it3wI number
+INSERT b7 number
+END
+INSERT osdvf string
+INSERT vNK number
+INSERT nj number
+INSERT h4kufy string
+PRINT
+INSERT uDg string
+INSERT gn number
+INSERT n1hOG number
+ASSIGN zeb h4kufy
+INSERT mITr number

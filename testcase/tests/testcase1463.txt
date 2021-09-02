@@ -1,0 +1,23 @@
+INSERT jq9JFG string
+INSERT t44of string
+INSERT flR3NN number
+INSERT ieB number
+INSERT w string
+PRINT
+INSERT fLw string
+ASSIGN t44of w
+INSERT aIm2jP string
+INSERT xz0 number
+INSERT q4_ string
+LOOKUP jq9JFG
+INSERT kQD number
+INSERT l number
+INSERT yVdjhj number
+RPRINT
+ASSIGN jq9JFG 987
+BEGIN
+INSERT f string
+INSERT z2K string
+ASSIGN t44of 889
+INSERT cN string
+INSERT fzAScQ number

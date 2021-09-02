@@ -1,0 +1,13 @@
+RPRINT
+p zBFprK
+ASSIGN k7QV 'cdQG'
+ASSIGN oKb 476
+INSERT nxE7qw number
+INSERT t1 string
+END
+INSERT z18 number
+INSERT b8 number
+END
+INSERT s string
+RPRINT
+INSERT qxj string

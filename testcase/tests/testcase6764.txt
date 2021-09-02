@@ -1,0 +1,23 @@
+INSERT zabk number
+PRINT
+INSERT zyVXLA string
+END
+INSERT x490l number
+RPRINT
+INSERT a number
+INSERT c string
+LOOKUP zabk
+INSERT tSj number
+RPRINT
+ASSIGN x490l 'uMR'
+ASSIGN x490l 389
+END
+INSERT a3 string
+INSERT jbB string
+INSERT sc4G number
+BEGIN
+INSERT uPTcS string
+INSERT pg_YDs string
+PRINT
+BEGIN
+INSERT t number

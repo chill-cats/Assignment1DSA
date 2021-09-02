@@ -1,0 +1,28 @@
+INSERT cQNRdv string
+INSERT j string
+INSERT mdpxL string
+INSERT jKsL number
+INSERT cv4 string
+INSERT k number
+INSERT iKV string
+RPRINT
+INSERT joH8r number
+PRINT
+INSERT emR string
+INSERT lrBbg number
+BEGIN
+INSERT ic number
+INSERT ps number
+ASSIGN joH8r ic
+INSERT dN string
+INSERT fw number
+INSERT v1WYb string
+INSERT pxypbC string
+INSERT m7dn number
+END
+INSERT vEap number
+INSERT u7HF string
+RPRINT
+INSERT kbN number
+ASSIGN kbN 114
+BEGIN

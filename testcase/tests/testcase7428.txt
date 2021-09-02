@@ -1,0 +1,5 @@
+INSERT z string
+INSERT jchLZ number
+PRINT
+INSERT ha55NF number
+INSERT f5 number

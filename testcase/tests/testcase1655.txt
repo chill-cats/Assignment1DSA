@@ -1,0 +1,40 @@
+INSERT e string
+PRINT
+END
+INSERT kc_bn string
+INSERT jXgq number
+INSERT v string
+LOOKUP e
+INSERT mL1D string
+INSERT l number
+INSERT bvAoi number
+BEGIN
+INSERT o number
+INSERT xsxu number
+LOOKUP l
+INSERT hZ number
+INSERT gakc string
+INSERT trEwDD number
+INSERT bt number
+INSERT xnDpK string
+INSERT lRCSE number
+INSERT ycsUjj number
+INSERT gwzYL string
+RPRINT
+INSERT krZ85 number
+INSERT vJcnzF string
+END
+INSERT eC1R6 number
+BEGIN
+INSERT xq string
+ASSIGN gakc 'WG'
+mDq sz
+BEGIN
+INSERT rC1 string
+BEGIN
+INSERT lF2Q number
+INSERT b8biQ number
+INSERT w string
+INSERT pa string
+INSERT eyMNbV number
+INSERT a0J7q number

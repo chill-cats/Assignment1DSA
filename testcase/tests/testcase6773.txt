@@ -1,0 +1,13 @@
+BEGIN
+INSERT aa5 string
+INSERT s3Odx9 string
+INSERT un string
+INSERT x number
+INSERT kHPYj string
+ASSIGN x 187
+INSERT kv string
+BEGIN
+RPRINT
+BEGIN
+PRINT
+INSERT lxyWiR number

@@ -1,0 +1,10 @@
+INSERT g1B string
+ASSIGN g1B 'Y'
+END
+INSERT g5RhiG number
+INSERT z3U number
+LOOKUP g1B
+RPRINT
+INSERT qC string
+INSERT mLPq string
+INSERT i4Cb number

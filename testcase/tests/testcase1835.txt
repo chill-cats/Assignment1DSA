@@ -1,0 +1,27 @@
+INSERT tum61 string
+INSERT z number
+INSERT n0 number
+INSERT x_69 number
+BEGIN
+ASSIGN tum61 z
+INSERT aig_WZ number
+ASSIGN tum61 n0
+INSERT aAcvM string
+INSERT uSjb number
+INSERT j number
+INSERT s2Wfn string
+END
+INSERT yn string
+INSERT aKuhgo string
+BEGIN
+INSERT wyUo number
+INSERT x number
+LOOKUP uSjb
+ASSIGN j x
+INSERT ldZq number
+BEGIN
+INSERT jCv number
+INSERT fPl string
+INSERT b8xkEf string
+END
+INSERT tp number

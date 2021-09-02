@@ -1,0 +1,7 @@
+INSERT k string
+INSERT t number
+END
+INSERT cQZz_ string
+INSERT mtYt string
+END
+zV fB

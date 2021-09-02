@@ -1,0 +1,6 @@
+INSERT ehoVm7 number
+END
+LOOKUP ehoVm7
+ASSIGN ehoVm7 ehoVm7
+INSERT fxG4B string
+INSERT s string

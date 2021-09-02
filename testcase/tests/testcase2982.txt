@@ -1,0 +1,10 @@
+INSERT m7 number
+ASSIGN m7 'kpFB'
+END
+INSERT w number
+INSERT uffiIz number
+END
+INSERT g string
+INSERT bA number
+PRINT
+INSERT o0d3n string

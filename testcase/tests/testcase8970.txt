@@ -1,0 +1,9 @@
+PRINT
+BEGIN
+INSERT yQ3e0k number
+INSERT aBBZ string
+PRINT
+PRINT
+INSERT x42Ns number
+INSERT rtcjI string
+INSERT u string

@@ -1,0 +1,13 @@
+INSERT wV string
+INSERT eD1C string
+INSERT v number
+ASSIGN eD1C eD1C
+INSERT hfR number
+INSERT gcZQV number
+INSERT m6 string
+INSERT f0uh number
+INSERT jn number
+INSERT rhl string
+PRINT
+PRINT
+INSERT r1Rpv number

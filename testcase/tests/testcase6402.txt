@@ -1,0 +1,15 @@
+INSERT zmJPFB number
+INSERT ibMf number
+INSERT ddzx number
+LOOKUP ibMf
+lD bon
+LOOKUP ddzx
+RPRINT
+INSERT kg string
+INSERT bNOK0 string
+BEGIN
+INSERT sIdr8 string
+INSERT l1MJ number
+INSERT t_ number
+INSERT eQE number
+LOOKUP kg

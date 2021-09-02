@@ -1,0 +1,7 @@
+INSERT zeVx number
+INSERT ewsP7 string
+RPRINT
+INSERT thV number
+END
+ASSIGN thV 'WZYd'
+BEGIN

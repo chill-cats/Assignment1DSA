@@ -1,0 +1,25 @@
+END
+LOOKUP l_fMU
+PRINT
+ASSIGN j 283
+INSERT zd46 string
+ASSIGN zd46 '9q'
+INSERT oU number
+PRINT
+INSERT b4z42 number
+INSERT jECBuE string
+RPRINT
+INSERT l6 string
+INSERT eAio string
+INSERT ueM number
+INSERT r8zJ number
+INSERT hS string
+INSERT vZ string
+INSERT i5YLAJ string
+BEGIN
+INSERT ch48y string
+END
+RPRINT
+INSERT jiA2 number
+INSERT kupQd string
+INSERT rZV string

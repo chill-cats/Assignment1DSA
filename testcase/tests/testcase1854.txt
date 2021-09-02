@@ -1,0 +1,6 @@
+INSERT cc string
+LOOKUP cc
+INSERT iYMQ string
+BEGIN
+RPRINT
+INSERT vfhJR number

@@ -1,0 +1,35 @@
+INSERT tcjHB string
+INSERT iNKf number
+ASSIGN tcjHB 'XAA5C'
+INSERT fwcmn string
+icV ak4JB
+INSERT j string
+INSERT k string
+INSERT aTVn_ string
+INSERT g number
+INSERT nX string
+RPRINT
+INSERT rF number
+arO p
+INSERT yGT number
+INSERT vm string
+INSERT wU55G5 number
+INSERT e string
+ASSIGN rF 93
+RPRINT
+INSERT o9 string
+PRINT
+INSERT sLmttf number
+INSERT qfrhS number
+INSERT y number
+RPRINT
+BEGIN
+INSERT fyyBnd string
+INSERT jX number
+INSERT h number
+INSERT m number
+INSERT tqp83N string
+END
+RPRINT
+INSERT kHcr number
+INSERT qx number

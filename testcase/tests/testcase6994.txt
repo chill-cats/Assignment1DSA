@@ -1,0 +1,31 @@
+INSERT bJy30 string
+LOOKUP bJy30
+INSERT a3S string
+ASSIGN bJy30 'Dnc'
+INSERT lOZ number
+INSERT hi_l number
+INSERT e5fAC string
+INSERT e66UD string
+ASSIGN ybC bJy30
+vmsS p_hS
+INSERT iEwH number
+INSERT lbCp number
+sLCwgC i
+INSERT mGjtf number
+INSERT g2VHD string
+INSERT cjKrU string
+INSERT vo number
+INSERT f2vH string
+INSERT v number
+INSERT cC string
+bn jTX
+END
+INSERT gI91Y string
+INSERT oyooBj string
+cF bC
+INSERT sv string
+INSERT rG string
+INSERT mnz4 string
+INSERT f number
+END
+INSERT m6JBSu string

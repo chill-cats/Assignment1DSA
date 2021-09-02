@@ -1,0 +1,2 @@
+INSERT bAd string
+LOOKUP bAd

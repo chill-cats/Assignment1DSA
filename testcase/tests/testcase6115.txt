@@ -1,0 +1,23 @@
+INSERT hUA number
+BEGIN
+ASSIGN hUA 'Uwnw'
+ASSIGN hUA hUA
+RPRINT
+INSERT n string
+LOOKUP n
+INSERT ddf number
+INSERT uO8t string
+LOOKUP uO8t
+INSERT aE4d string
+END
+INSERT ng number
+INSERT oAI number
+INSERT bNO2m string
+INSERT r7 string
+BEGIN
+RPRINT
+INSERT qZ string
+RPRINT
+INSERT w string
+INSERT a string
+RPRINT

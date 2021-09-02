@@ -1,0 +1,28 @@
+INSERT yv1c string
+END
+INSERT hWbg string
+BEGIN
+RPRINT
+END
+INSERT s3qy2 number
+INSERT c string
+INSERT o number
+INSERT mECDF string
+INSERT zRbDe number
+INSERT uB number
+INSERT uPBUjv string
+INSERT wU string
+INSERT xJdO number
+INSERT hl string
+INSERT fO number
+INSERT p5 number
+INSERT gRcin number
+INSERT gZ string
+ASSIGN y 'p'
+INSERT l9g string
+INSERT s number
+ASSIGN s3qy2 766
+INSERT ifM5 string
+RPRINT
+INSERT zF4QIS number
+END

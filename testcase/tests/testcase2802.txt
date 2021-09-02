@@ -1,0 +1,14 @@
+INSERT uonVQ string
+BEGIN
+RPRINT
+PRINT
+PRINT
+INSERT j number
+LOOKUP uonVQ
+INSERT dyOoDp number
+LOOKUP uonVQ
+INSERT qv string
+wk6nXk bOvse
+INSERT kfREV string
+INSERT b9Iea number
+INSERT s number

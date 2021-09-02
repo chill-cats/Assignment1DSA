@@ -1,0 +1,32 @@
+INSERT yNR0 number
+ASSIGN yNR0 'fvHG'
+INSERT pUE string
+INSERT t number
+ASSIGN yNR0 'lngT'
+INSERT qr number
+RPRINT
+INSERT hYEMC number
+INSERT tP4cHl number
+END
+INSERT iuVgO_ number
+LOOKUP qr
+INSERT u13Iw string
+RPRINT
+INSERT eN number
+INSERT hPSFTP number
+LOOKUP iuVgO_
+INSERT ohv number
+PRINT
+INSERT iCv9tG string
+RPRINT
+INSERT fNeSn string
+ASSIGN eN eN
+INSERT wxKcps number
+INSERT qxsKWa string
+INSERT i string
+INSERT sA string
+INSERT v6Bql2 number
+INSERT ezs number
+INSERT u string
+INSERT bw number
+END

@@ -1,0 +1,14 @@
+BEGIN
+END
+INSERT ugq string
+INSERT a number
+INSERT b number
+INSERT u7gp4 string
+RPRINT
+INSERT gMZj string
+BEGIN
+ASSIGN b ugq
+RPRINT
+e5 pzm
+INSERT uHdNE string
+INSERT nR number

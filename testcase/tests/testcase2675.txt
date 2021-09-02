@@ -1,0 +1,5 @@
+PRINT
+INSERT npqQW number
+INSERT h string
+INSERT dnf string
+RPRINT

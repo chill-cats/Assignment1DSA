@@ -1,0 +1,38 @@
+LOOKUP ySrl
+qj s8
+INSERT ftKdY0 number
+PRINT
+INSERT dPB string
+PRINT
+INSERT w number
+ASSIGN ftKdY0 dPB
+INSERT sG number
+BEGIN
+zgPnXq g3td1
+INSERT ha_8 string
+END
+ASSIGN sG dPB
+RPRINT
+INSERT sx6r string
+END
+INSERT u6aVq string
+INSERT w_ string
+INSERT eigkwB number
+PRINT
+INSERT woT9o number
+INSERT ibcu2A number
+INSERT p4c number
+INSERT xiJEY string
+INSERT ys number
+INSERT ihs0p9 string
+INSERT wHEN8 string
+LOOKUP woT9o
+RPRINT
+RPRINT
+INSERT qJJOP number
+INSERT n2H2A3 number
+INSERT d string
+END
+INSERT q string
+RPRINT
+INSERT bKu1X number

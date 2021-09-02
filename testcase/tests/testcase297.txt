@@ -1,0 +1,25 @@
+BEGIN
+LOOKUP h
+INSERT coS number
+INSERT u string
+END
+LOOKUP u
+PRINT
+PRINT
+INSERT hsESo string
+INSERT vc string
+INSERT r7 string
+INSERT p number
+INSERT zkn number
+ASSIGN u 'Yy'
+INSERT c_2cY string
+INSERT z string
+INSERT h string
+BEGIN
+INSERT a string
+END
+ASSIGN coS 968
+RPRINT
+ASSIGN zkn 250
+INSERT oYJS number
+INSERT rC number

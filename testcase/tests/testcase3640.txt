@@ -1,0 +1,32 @@
+INSERT iW string
+INSERT d6aHBB number
+ASSIGN d6aHBB 1166
+LOOKUP iW
+kV71B ugI
+INSERT pbj number
+INSERT k number
+LOOKUP iW
+INSERT n7eaGQ number
+LOOKUP pbj
+INSERT whXV3D number
+PRINT
+INSERT xpvX string
+ASSIGN iW 934
+LOOKUP iW
+RPRINT
+BEGIN
+PRINT
+RPRINT
+INSERT d number
+INSERT re number
+INSERT aQU string
+INSERT jx number
+INSERT lSqdv string
+INSERT rEIAd number
+INSERT j string
+LOOKUP j
+ASSIGN whXV3D 'gqx3L'
+INSERT d number
+PRINT
+INSERT r38y string
+BEGIN

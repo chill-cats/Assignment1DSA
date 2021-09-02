@@ -1,0 +1,3 @@
+INSERT u number
+ASSIGN u 506
+INSERT xVN9O8 number

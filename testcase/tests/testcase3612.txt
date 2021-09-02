@@ -1,0 +1,31 @@
+INSERT r1I number
+lD pm
+INSERT t string
+INSERT p string
+END
+INSERT uL string
+INSERT po1nt string
+INSERT sQLR string
+INSERT rhQ string
+INSERT wgTT string
+INSERT givKE number
+END
+INSERT jxqQ string
+LOOKUP wgTT
+PRINT
+INSERT kPqk string
+INSERT lzsXi number
+RPRINT
+INSERT c string
+INSERT fZ number
+t5Hggc igxN
+INSERT dgGdiM string
+RPRINT
+INSERT iQ number
+ASSIGN oX 1109
+ASSIGN sQLR 'oQ'
+INSERT csq string
+PRINT
+ASSIGN r1I fZ
+INSERT iT string
+INSERT z7BP7g string

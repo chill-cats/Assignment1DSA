@@ -1,0 +1,31 @@
+INSERT uxsAB number
+LOOKUP uxsAB
+BEGIN
+INSERT vn7U string
+INSERT oPSS number
+LOOKUP uxsAB
+zTNZ rd
+INSERT k string
+INSERT vkFEs string
+END
+INSERT j number
+INSERT kMT0 number
+END
+INSERT lj string
+INSERT bw3 number
+INSERT fD number
+PRINT
+INSERT e8I2 string
+LOOKUP bw3
+INSERT pl7 string
+ASSIGN fD 'd6'
+INSERT pylmm number
+ASSIGN vn7U 'ia8L0'
+INSERT fC number
+INSERT l_w number
+INSERT wH5AJ string
+INSERT s string
+INSERT y5iIc string
+INSERT cMsJ string
+LOOKUP y5iIc
+INSERT u number

@@ -1,0 +1,9 @@
+INSERT m string
+INSERT haOby string
+ASSIGN m 'sJR'
+RPRINT
+INSERT zgf number
+INSERT rDR_QM number
+BEGIN
+INSERT lu string
+INSERT a number

@@ -1,0 +1,19 @@
+r pa
+INSERT vc number
+INSERT ghsK number
+INSERT q6y9g number
+INSERT ezHnm string
+INSERT ibtIl number
+INSERT bojLb string
+INSERT m63qRH number
+INSERT yo4T number
+INSERT g string
+INSERT c number
+INSERT f9BgRJ number
+END
+BEGIN
+INSERT q1kJ string
+INSERT bUTd number
+INSERT cB string
+RPRINT
+INSERT a string

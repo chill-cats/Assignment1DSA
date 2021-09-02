@@ -1,0 +1,3 @@
+INSERT gPjNr number
+ASSIGN gPjNr 'Exzv'
+INSERT h9wS number

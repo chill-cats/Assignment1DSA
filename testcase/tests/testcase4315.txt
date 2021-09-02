@@ -1,0 +1,11 @@
+RPRINT
+INSERT x string
+INSERT l string
+PRINT
+INSERT oQ number
+INSERT x5Nn string
+LOOKUP x5Nn
+INSERT e string
+PRINT
+INSERT m4X95a string
+BEGIN

@@ -1,0 +1,11 @@
+INSERT rAO4 string
+INSERT iM8xp number
+INSERT wrN number
+INSERT mxBCdR number
+BEGIN
+INSERT n4g string
+INSERT fZPl3f number
+INSERT hTu number
+RPRINT
+LOOKUP iM8xp
+RPRINT

@@ -1,0 +1,3 @@
+INSERT etK number
+BEGIN
+INSERT camX7 string

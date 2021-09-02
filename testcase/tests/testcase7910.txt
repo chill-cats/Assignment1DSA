@@ -1,0 +1,33 @@
+PRINT
+BEGIN
+RPRINT
+PRINT
+RPRINT
+iRzp jrtRMe
+INSERT po string
+INSERT aObjh5 string
+INSERT rx string
+INSERT w81lN string
+INSERT d string
+gRmJ1 fYeH
+INSERT iDZ string
+INSERT umQYjv number
+INSERT jhI string
+INSERT h string
+INSERT mhT number
+END
+BEGIN
+INSERT kE string
+INSERT dvpE string
+INSERT j3R number
+INSERT ik string
+INSERT mloAif string
+BEGIN
+PRINT
+LOOKUP dvpE
+ASSIGN jhI 'P'
+INSERT krqrF number
+INSERT zIwFKY string
+INSERT stLp number
+PRINT
+INSERT zH0 number

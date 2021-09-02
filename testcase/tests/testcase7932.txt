@@ -1,0 +1,12 @@
+RPRINT
+INSERT mxn number
+cSeK8R qm8m0U
+ASSIGN mxn 'RHq'
+INSERT coN9 number
+INSERT c number
+END
+ASSIGN mxn c
+INSERT hza string
+INSERT ks number
+INSERT biuZ number
+INSERT lZUlMT number

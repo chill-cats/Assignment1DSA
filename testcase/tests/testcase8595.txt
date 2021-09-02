@@ -1,0 +1,34 @@
+RPRINT
+INSERT v_m number
+LOOKUP v_m
+PRINT
+PRINT
+INSERT v string
+INSERT noG number
+INSERT oq number
+INSERT g number
+INSERT k string
+PRINT
+INSERT v0V number
+zVKVUY fU6
+END
+INSERT xslk number
+INSERT b0i string
+RPRINT
+INSERT hhWL string
+PRINT
+INSERT bH6hFB string
+RPRINT
+INSERT aY string
+INSERT y4N string
+LOOKUP g
+INSERT pny number
+INSERT xd9lrY number
+PRINT
+INSERT g string
+BEGIN
+INSERT z string
+INSERT w0FrSO number
+INSERT jrb number
+END
+INSERT oh4WOd number

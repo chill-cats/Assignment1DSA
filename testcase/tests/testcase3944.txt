@@ -1,0 +1,7 @@
+INSERT i08V string
+ASSIGN i08V i08V
+INSERT noQ string
+INSERT hKpV number
+RPRINT
+RPRINT
+INSERT iShp number

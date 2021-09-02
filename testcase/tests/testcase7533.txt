@@ -1,0 +1,4 @@
+PRINT
+INSERT yr string
+INSERT uFx number
+INSERT afS string

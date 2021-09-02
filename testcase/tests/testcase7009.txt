@@ -1,0 +1,15 @@
+BEGIN
+INSERT vkT number
+INSERT fQ9t string
+INSERT oz7 string
+INSERT ltyrY_ string
+INSERT bwT number
+ASSIGN oz7 'eN'
+INSERT rkfH9 string
+LOOKUP bwT
+LOOKUP oz7
+INSERT nYtl string
+INSERT eLe string
+INSERT p string
+INSERT mZz number
+INSERT uh number

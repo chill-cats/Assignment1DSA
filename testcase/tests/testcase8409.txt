@@ -1,0 +1,4 @@
+PRINT
+ASSIGN o0 671
+shCi txU
+END

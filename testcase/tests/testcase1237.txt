@@ -1,0 +1,34 @@
+INSERT vdVBY number
+INSERT xTj number
+INSERT nh string
+INSERT tKK5 string
+INSERT u string
+RPRINT
+INSERT lB string
+INSERT us number
+END
+LOOKUP us
+INSERT wk number
+INSERT mIdNXB string
+END
+v pYg
+BEGIN
+INSERT lxeMMN number
+RPRINT
+INSERT z string
+END
+INSERT pB9M string
+INSERT jS7f string
+INSERT krXX4Y number
+INSERT w1WoS string
+INSERT dy string
+BEGIN
+INSERT bSeVN number
+INSERT d7 number
+BEGIN
+PRINT
+INSERT l string
+ASSIGN bSeVN w1WoS
+INSERT xo number
+PRINT
+INSERT uksB string

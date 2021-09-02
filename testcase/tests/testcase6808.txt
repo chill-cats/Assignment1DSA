@@ -1,0 +1,15 @@
+INSERT q string
+INSERT tp8 number
+INSERT aU number
+INSERT tYTb3 string
+INSERT qcEdx string
+INSERT gTYG number
+INSERT t9l1ma number
+ASSIGN tp8 q
+INSERT cliwW number
+INSERT xrTdH number
+INSERT v92 string
+INSERT oV2PnC string
+END
+INSERT pR number
+BEGIN

@@ -1,0 +1,33 @@
+LOOKUP vi
+INSERT x3U number
+INSERT t string
+INSERT g4MJ number
+INSERT jSahH string
+INSERT drg number
+INSERT fetFW number
+INSERT r string
+ASSIGN jSahH 1026
+RPRINT
+INSERT hvSK string
+INSERT obQ number
+INSERT o number
+PRINT
+INSERT l string
+fud n0kG
+PRINT
+LOOKUP zGCWqV
+INSERT ah number
+RPRINT
+INSERT aA string
+INSERT kiJNEm number
+RPRINT
+RPRINT
+LOOKUP aA
+BEGIN
+INSERT t string
+INSERT igi number
+BEGIN
+END
+RPRINT
+INSERT mLNlBG number
+INSERT fNY3 number

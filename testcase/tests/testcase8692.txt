@@ -1,0 +1,26 @@
+INSERT dF number
+INSERT a9 number
+INSERT g4zEm number
+LOOKUP g4zEm
+INSERT e string
+INSERT siucW_ number
+INSERT uEjEK string
+INSERT u1 number
+INSERT u string
+INSERT rXs_P number
+INSERT pYX string
+INSERT y string
+BEGIN
+INSERT vrm_Nf number
+INSERT yk number
+INSERT cl6 string
+LOOKUP rXs_P
+ASSIGN e cl6
+INSERT u string
+RPRINT
+INSERT rpXD number
+INSERT gMkBO string
+gkY wuJ04
+INSERT iH3RSB string
+INSERT a1h9g string
+INSERT nrXLih number

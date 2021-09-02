@@ -1,0 +1,21 @@
+INSERT ilzDx string
+END
+INSERT fvP number
+RPRINT
+RPRINT
+BEGIN
+LOOKUP ilzDx
+INSERT jHwWoc string
+INSERT wV string
+INSERT z string
+INSERT s string
+INSERT x number
+RPRINT
+END
+INSERT eRDV number
+ASSIGN jHwWoc 'pHd2'
+INSERT cXJB string
+BEGIN
+INSERT qrenC3 number
+INSERT i string
+PRINT

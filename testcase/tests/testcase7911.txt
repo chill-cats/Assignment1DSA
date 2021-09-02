@@ -1,0 +1,33 @@
+INSERT c number
+INSERT pv number
+RPRINT
+PRINT
+INSERT hT45 number
+BEGIN
+END
+INSERT z number
+LOOKUP c
+INSERT jS number
+INSERT hK3_v string
+ASSIGN hK3_v 1002
+END
+e49s1 lhF
+END
+INSERT wCe string
+INSERT fS number
+INSERT oWjppa number
+END
+INSERT fz string
+INSERT eIKr number
+INSERT bVEjW string
+INSERT lDJ string
+INSERT mu1 number
+LOOKUP z
+RPRINT
+INSERT g number
+INSERT e2 number
+INSERT tfmVe number
+INSERT aYQFR string
+INSERT c5MtO string
+INSERT x6g7 number
+bwd9 a_W

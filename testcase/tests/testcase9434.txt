@@ -1,0 +1,31 @@
+INSERT h string
+INSERT hB number
+INSERT xsrc number
+INSERT o8kV1U string
+xFZDH4 hrMjhV
+INSERT eqK number
+PRINT
+INSERT t number
+ASSIGN hB 'Dh'
+ASSIGN xsrc 982
+RPRINT
+END
+kt76CC c
+INSERT kw number
+INSERT vpObJj number
+INSERT j string
+INSERT v_ number
+INSERT joB string
+PRINT
+END
+END
+INSERT h number
+END
+INSERT ij number
+INSERT vgr5wS number
+RPRINT
+INSERT jnpAyW number
+LOOKUP vpObJj
+INSERT pNrY string
+BEGIN
+LOOKUP h

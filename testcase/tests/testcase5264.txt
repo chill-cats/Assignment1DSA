@@ -1,0 +1,31 @@
+INSERT a8XeX number
+INSERT gvy number
+RPRINT
+ASSIGN gvy 'SQ'
+INSERT ccOY3 string
+RPRINT
+LOOKUP a8XeX
+INSERT rzZj number
+LOOKUP gvy
+END
+INSERT oQ number
+INSERT mW4f number
+INSERT u_2N string
+INSERT gwPv number
+INSERT b3p08O string
+PRINT
+INSERT jY number
+INSERT ohu number
+ASSIGN rzZj 478
+INSERT wH4 string
+INSERT nj string
+INSERT xDnP string
+INSERT a string
+INSERT lc3xFW string
+RPRINT
+INSERT lZ7 string
+BEGIN
+INSERT u number
+END
+INSERT nfjvJ number
+INSERT wG5MN number

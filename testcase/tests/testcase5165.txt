@@ -1,0 +1,32 @@
+INSERT x3XzQx number
+INSERT m5nKu2 string
+l iVqM
+LOOKUP x3XzQx
+INSERT rGpFSm number
+INSERT sb number
+INSERT lLwL number
+LOOKUP m5nKu2
+RPRINT
+END
+INSERT oh8y number
+INSERT ddwy number
+INSERT pm4NnP number
+INSERT pctpuQ number
+INSERT gozUo number
+INSERT igfs number
+INSERT lmTffm string
+BEGIN
+INSERT oNTxD number
+INSERT h2qd string
+RPRINT
+INSERT rwPUY number
+END
+INSERT ntlei number
+INSERT gHw0 number
+INSERT dW number
+LOOKUP oNTxD
+RPRINT
+INSERT pJ11W string
+END
+PRINT
+INSERT o number

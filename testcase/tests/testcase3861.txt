@@ -1,0 +1,22 @@
+END
+INSERT b4C string
+LOOKUP b4C
+INSERT eAX string
+INSERT m0b1 string
+RPRINT
+PRINT
+INSERT y string
+RPRINT
+INSERT noD string
+INSERT o string
+INSERT iOOb7 string
+INSERT mgR9VN number
+LOOKUP o
+INSERT xRm number
+INSERT wH number
+INSERT oeRC number
+INSERT uM string
+PRINT
+INSERT o_4 string
+INSERT t5zl1F number
+INSERT g number

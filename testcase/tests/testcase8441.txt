@@ -1,0 +1,22 @@
+PRINT
+PRINT
+RPRINT
+INSERT hq string
+PRINT
+INSERT ak number
+INSERT q number
+PRINT
+INSERT nkTPG4 number
+INSERT ziU string
+INSERT gQ string
+INSERT nRIQf string
+LOOKUP ziU
+INSERT ziJoo string
+BEGIN
+INSERT zAw_2b string
+e q3
+INSERT xIyT1T string
+INSERT k8 number
+INSERT fXeA string
+INSERT z number
+ASSIGN ziJoo 680

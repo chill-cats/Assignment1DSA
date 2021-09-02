@@ -1,0 +1,36 @@
+RPRINT
+INSERT bd number
+INSERT f string
+END
+INSERT mOA4w2 number
+INSERT cg string
+INSERT bysc3X number
+INSERT hjR string
+END
+BEGIN
+INSERT buq number
+INSERT ehv string
+ASSIGN buq 'hW'
+INSERT r4 string
+INSERT sI number
+INSERT lkc string
+INSERT jGo number
+INSERT liLL string
+LOOKUP ehv
+INSERT c5 string
+INSERT y0pf number
+BEGIN
+INSERT f string
+PRINT
+INSERT hxuHfF number
+INSERT j string
+INSERT uyY number
+INSERT kJ string
+INSERT cJ string
+INSERT uhUQI number
+END
+INSERT yL string
+ASSIGN mOA4w2 j
+xThDD8 k
+RPRINT
+RPRINT

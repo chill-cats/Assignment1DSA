@@ -1,0 +1,37 @@
+INSERT aH string
+INSERT k string
+INSERT dq string
+RPRINT
+LOOKUP aH
+INSERT fFNg number
+INSERT iF number
+INSERT tPk number
+END
+INSERT u2w number
+ASSIGN u2w tPk
+BEGIN
+INSERT qzx1o number
+INSERT n string
+PRINT
+INSERT m7GN8 string
+RPRINT
+INSERT ib0 string
+INSERT hXNJ string
+hjQn5U x85
+INSERT kwXjJ number
+LOOKUP ib0
+END
+LOOKUP m7GN8
+END
+INSERT d4zo string
+INSERT gJJyy number
+INSERT fs_6a string
+ASSIGN n 'km'
+INSERT b1h string
+INSERT cPZQ number
+RPRINT
+INSERT eSM6 string
+PRINT
+END
+INSERT f37sit string
+RPRINT

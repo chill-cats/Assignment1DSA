@@ -1,0 +1,31 @@
+BEGIN
+INSERT vQbr number
+INSERT mL5HvA string
+INSERT d number
+INSERT cZQENS string
+INSERT azwPdT string
+INSERT uG6 string
+INSERT kgn string
+INSERT iy string
+INSERT axCk string
+INSERT vKX string
+LOOKUP cZQENS
+END
+INSERT oRw_ string
+INSERT img number
+INSERT i6wDz number
+INSERT soBbU string
+INSERT hj number
+INSERT tWy string
+END
+INSERT iAk number
+INSERT uV string
+BEGIN
+BEGIN
+PRINT
+BEGIN
+PRINT
+INSERT drMp3z number
+INSERT pIQz string
+INSERT l1mu string
+INSERT iC6308 number

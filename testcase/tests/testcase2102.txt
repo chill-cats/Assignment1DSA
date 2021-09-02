@@ -1,0 +1,21 @@
+RPRINT
+n2 yWpdj
+RPRINT
+INSERT pJ2l number
+LOOKUP pJ2l
+INSERT uJ number
+INSERT xROEMk string
+LOOKUP uJ
+INSERT e string
+RPRINT
+ASSIGN pJ2l xROEMk
+RPRINT
+INSERT e1U_T string
+INSERT sWK string
+PRINT
+BEGIN
+INSERT x number
+INSERT bE4C number
+gc5mS j2eVaU
+INSERT y string
+INSERT nJ string

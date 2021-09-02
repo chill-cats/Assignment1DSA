@@ -1,0 +1,6 @@
+INSERT ct string
+LOOKUP ct
+INSERT bKXeqF number
+INSERT koPeQ number
+END
+INSERT w string

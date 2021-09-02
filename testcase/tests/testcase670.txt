@@ -1,0 +1,14 @@
+BEGIN
+INSERT m2ojY number
+INSERT v3x8h number
+BEGIN
+INSERT m number
+PRINT
+INSERT vlJD string
+PRINT
+INSERT mv4wfE number
+INSERT kkO string
+INSERT z string
+END
+INSERT yD string
+LOOKUP vlJD

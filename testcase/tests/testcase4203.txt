@@ -1,0 +1,24 @@
+INSERT dQF string
+INSERT kNE string
+INSERT e9k string
+INSERT npEmW string
+INSERT r string
+ASSIGN r 'HF'
+INSERT pgxm string
+LOOKUP kNE
+ASSIGN kNE npEmW
+RPRINT
+INSERT nrg number
+INSERT kL string
+INSERT bL string
+ASSIGN kL 'PUWaB'
+PRINT
+INSERT u63 string
+BEGIN
+INSERT um string
+END
+INSERT w string
+INSERT izKHAL number
+sIyy_b pB
+INSERT ogJQW string
+INSERT rrnCI number

@@ -1,0 +1,15 @@
+INSERT ep string
+INSERT sVpyM number
+INSERT kLmo string
+INSERT mL4ni number
+INSERT nAa string
+END
+INSERT hX string
+ASSIGN hX 257
+b_ hb
+k sT9o
+END
+LOOKUP mL4ni
+ASSIGN kLmo 'oVU'
+END
+INSERT ce string

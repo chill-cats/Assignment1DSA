@@ -1,0 +1,14 @@
+INSERT eF7K3 string
+INSERT h6Z number
+INSERT bD number
+INSERT tmp number
+INSERT aYbu6 string
+BEGIN
+LOOKUP tmp
+BEGIN
+ASSIGN h6Z 'DDGzw'
+INSERT n string
+PRINT
+LOOKUP h6Z
+END
+INSERT fuANA2 string

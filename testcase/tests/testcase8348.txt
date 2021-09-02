@@ -1,0 +1,22 @@
+INSERT ybh number
+INSERT kWr string
+INSERT y2sT string
+PRINT
+INSERT vts9M number
+BEGIN
+INSERT r string
+INSERT l_6 string
+INSERT s9 string
+INSERT xQG3 number
+INSERT xzjI string
+RPRINT
+INSERT h number
+INSERT bf string
+INSERT r1 string
+LOOKUP kWr
+INSERT fc number
+ASSIGN ybh vts9M
+INSERT xbv string
+LOOKUP vts9M
+PRINT
+INSERT yt780h string

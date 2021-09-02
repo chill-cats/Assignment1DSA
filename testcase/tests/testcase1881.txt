@@ -1,0 +1,40 @@
+INSERT i number
+ASSIGN i 180
+INSERT u number
+RPRINT
+END
+INSERT tDcQ4 number
+ASSIGN i 'L5TaK'
+INSERT i95i9 string
+END
+INSERT v number
+INSERT mO string
+INSERT pWUIH9 string
+ASSIGN mO i
+PRINT
+ASSIGN u 'T3'
+INSERT d number
+END
+END
+PRINT
+ASSIGN u '5'
+RPRINT
+INSERT hGp string
+BEGIN
+INSERT ie string
+RPRINT
+nIdnNH pY
+LOOKUP tDcQ4
+INSERT zqP number
+END
+ASSIGN mO 428
+INSERT e string
+INSERT og string
+INSERT t9WQ number
+INSERT hDm5l string
+INSERT h string
+INSERT xNY number
+LOOKUP og
+INSERT on string
+INSERT a number
+INSERT uivXF string

@@ -1,0 +1,35 @@
+INSERT eA number
+INSERT wjLblD string
+LOOKUP wjLblD
+INSERT f string
+END
+LOOKUP wjLblD
+INSERT pT09SE number
+INSERT eBaJ string
+INSERT bIYp string
+ASSIGN pT09SE 1180
+RPRINT
+INSERT zP string
+INSERT iVTmi number
+INSERT dtfudC string
+INSERT vSwl number
+INSERT u7 number
+PRINT
+INSERT k string
+INSERT opJiv string
+f75sxB dNM
+INSERT vPrCL_ string
+yGj wu38b4
+INSERT y0 number
+INSERT aN string
+INSERT mWl number
+INSERT v5uUnO number
+INSERT eeZdsu string
+INSERT cM string
+RPRINT
+INSERT ozat number
+BEGIN
+INSERT o0 string
+RPRINT
+END
+INSERT v_Y string

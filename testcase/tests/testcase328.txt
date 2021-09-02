@@ -1,0 +1,27 @@
+INSERT y string
+LOOKUP y
+INSERT iq string
+INSERT n0dKwO string
+INSERT ks_ number
+INSERT d59 string
+rQ c0
+INSERT n number
+ASSIGN n 1191
+INSERT d number
+INSERT sh string
+INSERT u7JzDQ number
+PRINT
+INSERT c number
+INSERT kRl number
+INSERT jv string
+oJ0xwF eq
+INSERT cCFW49 string
+INSERT bJd6O number
+INSERT b6nSZw string
+INSERT qc number
+PRINT
+LOOKUP n
+LOOKUP bJd6O
+INSERT kFzLO number
+INSERT fs string
+RPRINT

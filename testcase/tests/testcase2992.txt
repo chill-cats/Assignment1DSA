@@ -1,0 +1,21 @@
+INSERT mylG number
+INSERT crQV number
+LOOKUP mylG
+INSERT asU string
+RPRINT
+INSERT gvzi string
+PRINT
+INSERT r string
+RPRINT
+INSERT k5dmHM number
+ASSIGN crQV crQV
+j fn2
+INSERT lHdK number
+END
+INSERT cwWq0 string
+INSERT tG2pbA number
+INSERT ot0 string
+INSERT o string
+INSERT x1 string
+INSERT awDn string
+s zf

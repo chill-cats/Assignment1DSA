@@ -1,0 +1,15 @@
+INSERT d number
+INSERT uAgB number
+INSERT fu string
+LOOKUP fu
+INSERT jEiO number
+INSERT xh3 string
+INSERT nEu number
+INSERT kP number
+END
+END
+INSERT p string
+INSERT hZD3a number
+INSERT snYmQ4 number
+INSERT rMyLB string
+LOOKUP nEu

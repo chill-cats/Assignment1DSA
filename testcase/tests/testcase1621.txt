@@ -1,0 +1,5 @@
+PRINT
+ASSIGN n3aIdk 'Pb4zX'
+INSERT o string
+INSERT nf number
+INSERT jAZ string

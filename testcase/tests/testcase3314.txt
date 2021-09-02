@@ -1,0 +1,40 @@
+INSERT v_4v number
+BEGIN
+INSERT auOV string
+INSERT jIr number
+RPRINT
+INSERT iT7 number
+INSERT frS1vn string
+INSERT ak string
+INSERT pqX number
+INSERT l4UMI string
+INSERT x0 number
+INSERT avs string
+INSERT fsPX string
+INSERT ccaJi5 string
+RPRINT
+INSERT jf number
+mA s
+PRINT
+BEGIN
+INSERT nRTnHq string
+INSERT uH string
+INSERT ca string
+BEGIN
+INSERT n string
+PRINT
+INSERT ipt string
+INSERT wKUf number
+END
+INSERT t number
+ASSIGN l4UMI 'dDbsP'
+INSERT rDlHE9 string
+PRINT
+END
+LOOKUP iT7
+ASSIGN ipt 761
+INSERT e number
+INSERT t_F number
+INSERT cF8 number
+INSERT a string
+INSERT aE02kB number

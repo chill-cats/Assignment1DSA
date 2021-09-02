@@ -1,0 +1,4 @@
+BEGIN
+INSERT j string
+INSERT wr string
+INSERT gM_ number

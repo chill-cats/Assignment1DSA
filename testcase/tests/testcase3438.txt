@@ -1,0 +1,34 @@
+INSERT g number
+RPRINT
+INSERT lE number
+INSERT aG number
+INSERT i string
+ASSIGN g 'u'
+INSERT o1s number
+INSERT n number
+INSERT j number
+PRINT
+INSERT k number
+INSERT h string
+BEGIN
+PRINT
+INSERT a5o number
+END
+BEGIN
+PRINT
+ASSIGN g 805
+RPRINT
+INSERT nkiH number
+INSERT b string
+BEGIN
+BEGIN
+INSERT iz string
+INSERT iZwhD number
+ASSIGN lE '7CQa'
+INSERT bE string
+INSERT mO6bw string
+ASSIGN i 'RDzM'
+ASSIGN iZwhD 332
+INSERT b6nVo number
+PRINT
+INSERT rz8p number

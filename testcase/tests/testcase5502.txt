@@ -1,0 +1,17 @@
+INSERT fxacC string
+INSERT aeR string
+vJG k
+INSERT vXp string
+LOOKUP vXp
+INSERT aY5n string
+d g2
+oWq ni
+INSERT bl number
+END
+BEGIN
+ASSIGN fxacC 'B6W'
+PRINT
+vGm tkn
+INSERT m56n29 number
+INSERT ryJb string
+END

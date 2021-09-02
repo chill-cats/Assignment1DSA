@@ -1,0 +1,23 @@
+INSERT vkrwP number
+INSERT q4S3 string
+PRINT
+LOOKUP vkrwP
+INSERT m0k5pX number
+INSERT m2pe string
+INSERT ccKVD string
+INSERT fZr_T number
+BEGIN
+INSERT qj number
+PRINT
+INSERT s number
+INSERT u1jX string
+INSERT x string
+INSERT xo string
+INSERT k number
+INSERT u string
+INSERT e number
+INSERT b1 number
+INSERT t2k3K number
+INSERT kDsPpW number
+ASSIGN u 442
+INSERT db string

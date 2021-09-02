@@ -1,0 +1,28 @@
+INSERT rz string
+INSERT vu string
+ASSIGN vu 'fNYl'
+INSERT eY8P number
+PRINT
+INSERT oPRC string
+RPRINT
+INSERT o string
+LOOKUP o
+INSERT c2Dd string
+INSERT o0M string
+ASSIGN rz oPRC
+INSERT aYIKC string
+BEGIN
+INSERT gWK number
+INSERT xiZb number
+INSERT nJZh number
+INSERT yNLxS number
+PRINT
+INSERT hYL0 string
+INSERT s number
+INSERT r string
+INSERT rkSDPT string
+LOOKUP rkSDPT
+INSERT l2uBRD number
+BEGIN
+LOOKUP aYIKC
+INSERT iJ1 string

@@ -1,0 +1,27 @@
+INSERT tfVMRX number
+INSERT lg4GuT number
+LOOKUP tfVMRX
+INSERT g3 number
+l2 rM
+INSERT nMe5 string
+RPRINT
+INSERT wp5Bh2 number
+INSERT v string
+INSERT ctwO string
+ASSIGN tfVMRX 'CT7B'
+INSERT i9JkL_ number
+RPRINT
+INSERT yU_Q number
+END
+INSERT zso6m number
+INSERT zy string
+RPRINT
+INSERT dVdhL1 string
+INSERT zy1P2 number
+INSERT a number
+INSERT rApto string
+INSERT w6O number
+PRINT
+INSERT kIdshA number
+INSERT vi number
+INSERT s7mzY string

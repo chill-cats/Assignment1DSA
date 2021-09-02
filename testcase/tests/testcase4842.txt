@@ -1,0 +1,33 @@
+INSERT nu_u number
+BEGIN
+INSERT v string
+END
+xhS aDUbr
+INSERT yd number
+BEGIN
+INSERT iwwRc3 number
+BEGIN
+INSERT yT_5BY number
+PRINT
+LOOKUP yT_5BY
+END
+BEGIN
+INSERT y8 string
+LOOKUP z3y
+LOOKUP y8
+INSERT dC string
+INSERT tNi string
+BEGIN
+INSERT o2KCz string
+INSERT qU5owN string
+INSERT n string
+INSERT ra7T1 string
+ASSIGN ra7T1 '9'
+INSERT wpxPH string
+LOOKUP o2KCz
+BEGIN
+ASSIGN o2KCz v
+INSERT y number
+END
+BEGIN
+ASSIGN y ra7T1

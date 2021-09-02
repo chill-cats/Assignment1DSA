@@ -1,0 +1,23 @@
+INSERT uR string
+INSERT f7 string
+INSERT f number
+INSERT vJm7 string
+BEGIN
+INSERT u1_F2Z string
+END
+LOOKUP vJm7
+INSERT pzvOHY string
+INSERT bGDqx number
+INSERT mM1 number
+INSERT tLR0 string
+INSERT q8gDg number
+BEGIN
+BEGIN
+LOOKUP f7
+kf9 pDQtCm
+ASSIGN f7 885
+END
+END
+INSERT lox number
+INSERT q string
+INSERT wa number

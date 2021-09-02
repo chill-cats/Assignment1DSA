@@ -1,0 +1,40 @@
+PRINT
+INSERT k_PUGt string
+INSERT nu8PH number
+PRINT
+INSERT cEJqy string
+INSERT mHL6c number
+INSERT t48kS string
+INSERT jbIZ9 string
+PRINT
+INSERT cJ8w string
+ASSIGN phsTav 'HI47'
+INSERT kKQ1M8 string
+BEGIN
+PRINT
+END
+INSERT bAK number
+INSERT jR3 number
+INSERT rj string
+ASSIGN jbIZ9 466
+INSERT t80M string
+INSERT h number
+INSERT xAevF string
+r7k ljU
+INSERT aglvG string
+INSERT x number
+INSERT tq9XU number
+INSERT j string
+END
+END
+ASSIGN j 1127
+END
+INSERT pSMEw number
+INSERT iFBjy number
+PRINT
+LOOKUP iFBjy
+INSERT dVEmwN number
+INSERT h8p number
+x v
+ASSIGN jbIZ9 kKQ1M8
+INSERT t6VmJ number

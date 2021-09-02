@@ -1,0 +1,24 @@
+RPRINT
+INSERT eBCE number
+INSERT b2tAh number
+INSERT z0I6 number
+END
+BEGIN
+INSERT r number
+INSERT sie number
+BEGIN
+END
+INSERT zZK string
+RPRINT
+INSERT b37Ke string
+INSERT hZ5G6I string
+END
+INSERT f4 string
+INSERT c string
+INSERT u16 string
+INSERT j9 string
+e5Ah6 is8
+END
+ASSIGN hZ5G6I 'x'
+INSERT q7G00 number
+END

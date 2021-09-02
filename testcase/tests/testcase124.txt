@@ -1,0 +1,12 @@
+RPRINT
+BEGIN
+INSERT if3cP number
+INSERT d_4m1s string
+INSERT n9W7n string
+INSERT h string
+jnrFsU dru
+INSERT z number
+END
+END
+RPRINT
+PRINT

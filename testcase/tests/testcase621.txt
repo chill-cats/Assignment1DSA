@@ -1,0 +1,9 @@
+INSERT amV68e string
+END
+ASSIGN amV68e 428
+PRINT
+INSERT s2dd string
+INSERT kbL string
+END
+BEGIN
+PRINT

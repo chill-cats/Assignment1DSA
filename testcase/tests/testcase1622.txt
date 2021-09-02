@@ -1,0 +1,10 @@
+LOOKUP agZKoz
+INSERT z number
+INSERT jV string
+RPRINT
+BEGIN
+juq n
+INSERT gbpnG2 string
+END
+INSERT pix1EH number
+INSERT aZUnEU string

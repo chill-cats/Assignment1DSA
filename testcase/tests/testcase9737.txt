@@ -1,0 +1,18 @@
+PRINT
+PRINT
+INSERT nE number
+INSERT rV string
+INSERT gu string
+mbsy jSO
+u zYKG
+ASSIGN gu 106
+END
+INSERT m string
+INSERT r number
+INSERT s9M string
+ASSIGN r 1005
+INSERT lLlNX string
+INSERT vzs string
+LOOKUP lLlNX
+INSERT b string
+INSERT aqq string

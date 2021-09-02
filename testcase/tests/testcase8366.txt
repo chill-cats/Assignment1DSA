@@ -1,0 +1,32 @@
+INSERT f_1 string
+INSERT x7tBi number
+INSERT yvQlH string
+INSERT yJ9 number
+INSERT koH number
+LOOKUP koH
+INSERT tL string
+INSERT nHSVYn string
+INSERT p string
+INSERT vPmm string
+INSERT juZ string
+INSERT m number
+END
+PRINT
+INSERT lHrai number
+INSERT nk number
+INSERT abqTk_ number
+INSERT xLqxGJ string
+INSERT kQz string
+ASSIGN nk 'TL'
+INSERT ra string
+INSERT d string
+INSERT wO number
+INSERT tPcYE number
+ASSIGN kQz 'N'
+PRINT
+INSERT nFYp number
+INSERT tN0bB number
+INSERT nW string
+END
+END
+INSERT mpsycl string

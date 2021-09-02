@@ -1,0 +1,29 @@
+INSERT pv number
+PRINT
+INSERT b7o number
+INSERT g string
+INSERT ylK number
+ASSIGN g pv
+INSERT rm string
+INSERT ec string
+ASSIGN g 137
+INSERT n5 string
+RPRINT
+ASSIGN pv 'wPS'
+END
+LOOKUP ylK
+INSERT g number
+INSERT l7 string
+g p9W2HG
+INSERT rg9o string
+LOOKUP bUq
+PRINT
+INSERT kXRb2t string
+INSERT mI number
+fSd ezi9t
+INSERT dL number
+INSERT mlzLk string
+INSERT h4FF number
+INSERT p number
+INSERT aU3od string
+a eN

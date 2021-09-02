@@ -1,0 +1,19 @@
+INSERT pr9 number
+INSERT e0QE string
+BEGIN
+INSERT s string
+INSERT sjGZ number
+INSERT yJdioK number
+INSERT eUNDSj number
+INSERT np number
+INSERT jL string
+f nNCP7
+INSERT ti1 number
+END
+ASSIGN yJdioK 'UzjV'
+END
+ASSIGN sjGZ 'kG'
+INSERT g number
+ASSIGN s ti1
+INSERT dBnEG number
+RPRINT

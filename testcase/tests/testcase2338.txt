@@ -1,0 +1,27 @@
+END
+INSERT wnViPU string
+ASSIGN wnViPU wnViPU
+RPRINT
+INSERT w9T number
+LOOKUP w9T
+ASSIGN wnViPU 254
+INSERT pQQU number
+ASSIGN pQQU 'Ebi9'
+INSERT ncFom number
+INSERT hf5 number
+INSERT w9A number
+INSERT k number
+BEGIN
+INSERT oiz number
+PRINT
+ASSIGN oiz '9Qi'
+RPRINT
+INSERT phpXG6 string
+INSERT q string
+INSERT q98cK string
+PRINT
+PRINT
+INSERT t6hE string
+END
+INSERT bcMX3n string
+INSERT m2AB1 number

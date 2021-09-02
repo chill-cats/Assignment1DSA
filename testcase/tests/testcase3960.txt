@@ -1,0 +1,13 @@
+PRINT
+END
+INSERT f5yx string
+RPRINT
+BEGIN
+LOOKUP f5yx
+RPRINT
+INSERT tbubH string
+RPRINT
+LOOKUP f5yx
+INSERT y_aIj number
+BEGIN
+INSERT zIG number

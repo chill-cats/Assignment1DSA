@@ -1,0 +1,10 @@
+RPRINT
+INSERT tAex string
+ASSIGN tAex tAex
+INSERT cDV7Lv string
+ASSIGN cDV7Lv 1011
+INSERT u5 string
+INSERT trOA string
+PRINT
+INSERT tho string
+INSERT lqB string

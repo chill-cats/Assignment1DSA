@@ -1,0 +1,6 @@
+INSERT t string
+INSERT ankrd1 string
+END
+PRINT
+RPRINT
+INSERT pfj4L string

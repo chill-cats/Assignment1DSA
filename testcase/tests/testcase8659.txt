@@ -1,0 +1,40 @@
+INSERT q number
+PRINT
+INSERT rMYh number
+INSERT jO_S string
+LOOKUP q
+INSERT f7vc8 string
+INSERT lVnk number
+INSERT s_DM string
+RPRINT
+ASSIGN q 1137
+INSERT f6 string
+LOOKUP rMYh
+INSERT h6 string
+BEGIN
+INSERT zS1 string
+RPRINT
+INSERT rgN number
+INSERT s string
+INSERT lJcuz9 string
+PRINT
+INSERT h9 string
+BEGIN
+LOOKUP s_DM
+INSERT qU number
+END
+INSERT nqQdm number
+INSERT cZ string
+INSERT sr0_ number
+INSERT wh number
+INSERT cpu number
+INSERT v2 string
+PRINT
+LOOKUP cZ
+INSERT m0dUv string
+INSERT q number
+INSERT mZYDpd number
+INSERT frivv string
+INSERT vFJT number
+INSERT x string
+INSERT yIQtJ number

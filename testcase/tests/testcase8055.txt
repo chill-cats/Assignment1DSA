@@ -1,0 +1,3 @@
+RPRINT
+INSERT aM string
+LOOKUP aM

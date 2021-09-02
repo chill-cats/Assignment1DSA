@@ -1,0 +1,31 @@
+INSERT m string
+INSERT bd1BIG string
+INSERT prKer string
+zcImc nBez6
+LOOKUP prKer
+LOOKUP m
+PRINT
+uj0 it
+LOOKUP prKer
+RPRINT
+INSERT s number
+INSERT dy number
+INSERT iM string
+INSERT kSoFi number
+INSERT l367ck string
+INSERT dd2 string
+END
+BEGIN
+INSERT kCJf number
+INSERT uHbKY number
+ASSIGN m 584
+INSERT tphOwZ string
+INSERT vfOZ number
+INSERT b string
+INSERT zM9 string
+INSERT rb number
+INSERT gd number
+INSERT l number
+INSERT vgG number
+INSERT hB8BWS string
+INSERT gp6L string

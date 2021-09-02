@@ -1,0 +1,8 @@
+INSERT o string
+END
+INSERT qi number
+INSERT uCMm number
+INSERT v number
+RPRINT
+INSERT r string
+INSERT aU5kp number

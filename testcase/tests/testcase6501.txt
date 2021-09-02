@@ -1,0 +1,32 @@
+INSERT m number
+BEGIN
+INSERT bZKt4y number
+INSERT sRJ number
+INSERT nLnO string
+INSERT myPr string
+PRINT
+INSERT sKnN number
+LOOKUP sKnN
+INSERT xTw5 number
+INSERT jUkbc number
+INSERT iH2Cs string
+LOOKUP bZKt4y
+INSERT iG0Ts number
+INSERT qLv17s number
+END
+ASSIGN qLv17s 433
+INSERT ebQNzr number
+INSERT uaSU string
+INSERT r string
+INSERT o number
+LOOKUP qLv17s
+INSERT nJY number
+INSERT zcBRPe number
+INSERT v7ki14 number
+INSERT rcpT3 string
+INSERT wxgQJg string
+INSERT qqoO number
+INSERT j2cTE string
+INSERT hvUc71 string
+INSERT sF6rcT string
+PRINT

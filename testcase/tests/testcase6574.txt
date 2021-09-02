@@ -1,0 +1,6 @@
+INSERT q72 number
+BEGIN
+INSERT wVzSZ number
+INSERT e number
+END
+INSERT bme number

@@ -1,0 +1,36 @@
+INSERT tV number
+PRINT
+INSERT daT number
+LOOKUP daT
+INSERT h number
+PRINT
+eUQ1NU rsu
+INSERT zOc number
+zBp cL
+RPRINT
+INSERT cE72eh string
+INSERT plQIH number
+jdt zgTd
+ASSIGN tV 200
+INSERT uv9m number
+PRINT
+INSERT pLmaY string
+INSERT q number
+INSERT q2pt string
+INSERT pRN number
+INSERT eBEl string
+LOOKUP plQIH
+INSERT q number
+INSERT z4dS number
+INSERT s7fg string
+INSERT pPbA string
+INSERT ifusJ string
+BEGIN
+INSERT vKs8 string
+INSERT v number
+INSERT xuYeSy string
+INSERT e string
+INSERT kpwh string
+INSERT uak number
+RPRINT
+INSERT vqf3ag string

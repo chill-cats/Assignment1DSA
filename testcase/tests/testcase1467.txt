@@ -1,0 +1,13 @@
+INSERT mJaF string
+INSERT h number
+INSERT rGV number
+LOOKUP h
+LOOKUP rGV
+INSERT d80cK string
+RPRINT
+INSERT rguF string
+INSERT d number
+RPRINT
+ASSIGN mJaF rguF
+INSERT upp string
+ASSIGN rguF 840

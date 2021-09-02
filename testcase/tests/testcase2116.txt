@@ -1,0 +1,31 @@
+INSERT xrl6B string
+BEGIN
+INSERT fwkKY number
+INSERT qnd string
+INSERT z4N string
+ASSIGN xrl6B xrl6B
+INSERT t number
+LOOKUP fwkKY
+INSERT xG number
+INSERT yzprYl string
+INSERT ceVj7S number
+sT6B k
+INSERT jHc number
+INSERT liBNFs string
+INSERT b3fy string
+INSERT lz number
+INSERT d number
+INSERT xev string
+INSERT c25 number
+INSERT yGY string
+INSERT y string
+INSERT mM string
+INSERT tXW4 string
+INSERT eKahq string
+INSERT ryizO string
+INSERT qQ string
+aiO7x ltCa
+END
+PRINT
+INSERT fFmsK string
+RPRINT

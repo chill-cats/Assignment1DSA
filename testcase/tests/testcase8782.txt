@@ -1,0 +1,14 @@
+INSERT wu19qh string
+INSERT lkO string
+BEGIN
+INSERT cfam number
+ASSIGN cfam 'A'
+INSERT zwvh number
+INSERT p string
+END
+PRINT
+BEGIN
+END
+INSERT hBJH string
+ASSIGN lkO 865
+RPRINT

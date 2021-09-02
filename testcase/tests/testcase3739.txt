@@ -1,0 +1,14 @@
+INSERT uyXa string
+INSERT f_YCB string
+INSERT x number
+INSERT mDn string
+INSERT f6 number
+ASSIGN f6 f_YCB
+INSERT r string
+INSERT p number
+RPRINT
+INSERT kzZuR string
+INSERT u number
+INSERT h string
+INSERT y9 string
+INSERT m number

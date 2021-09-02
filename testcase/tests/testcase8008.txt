@@ -1,0 +1,18 @@
+INSERT xi number
+INSERT bbm string
+ASSIGN xi xi
+INSERT gbCPS2 number
+RPRINT
+INSERT s string
+ASSIGN gbCPS2 bbm
+INSERT oQ number
+PRINT
+INSERT d44 number
+INSERT n number
+INSERT m number
+PRINT
+INSERT g1i number
+INSERT szrK6 number
+INSERT uEloD number
+PRINT
+INSERT b9Qtei string

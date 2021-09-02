@@ -1,0 +1,12 @@
+INSERT pJD string
+RPRINT
+INSERT a number
+ASSIGN a a
+INSERT vDM string
+ASSIGN pJD pJD
+INSERT o8RB1u string
+RPRINT
+INSERT kWa string
+INSERT bt string
+END
+END

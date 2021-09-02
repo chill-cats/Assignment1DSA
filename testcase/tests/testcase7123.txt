@@ -1,0 +1,16 @@
+INSERT kUbrf number
+END
+INSERT hBS number
+RPRINT
+END
+RPRINT
+LOOKUP kUbrf
+INSERT wDWDB number
+INSERT n1tE1 string
+INSERT ma string
+PRINT
+END
+INSERT wjlS number
+INSERT d6Ord number
+END
+INSERT drdu string

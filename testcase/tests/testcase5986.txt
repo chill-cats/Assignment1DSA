@@ -1,0 +1,38 @@
+INSERT chQp5v string
+INSERT zhlVn string
+INSERT s_Y string
+INSERT oJ string
+INSERT iVO2Dj string
+INSERT dK2FGO string
+RPRINT
+INSERT c string
+INSERT hKwIs number
+INSERT j4K number
+INSERT gGP number
+INSERT ksirL number
+esrL xp
+INSERT q string
+INSERT np5 string
+INSERT vA number
+INSERT xQ9ATx number
+INSERT gB3z2 string
+INSERT a number
+PRINT
+INSERT h_ICME number
+INSERT bTQ_ string
+PRINT
+INSERT pOqG_ number
+END
+INSERT f number
+INSERT r number
+LOOKUP hKwIs
+ASSIGN gB3z2 'v'
+BEGIN
+RPRINT
+INSERT mNLcC number
+INSERT smPA string
+INSERT m919D1 string
+INSERT n5JHkg number
+INSERT sNq number
+INSERT mhKYt string
+INSERT tc number

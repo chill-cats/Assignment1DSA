@@ -1,0 +1,20 @@
+INSERT x4JWig number
+RPRINT
+BEGIN
+END
+END
+LOOKUP x4JWig
+INSERT q2 number
+INSERT snt7o number
+LOOKUP snt7o
+RPRINT
+INSERT nFEe number
+INSERT mWR1x number
+INSERT fHm7tb string
+INSERT fKsG number
+INSERT rbU72h number
+INSERT iBZo2I number
+INSERT kca0G0 number
+INSERT dfl number
+INSERT sYrg7 number
+INSERT b string

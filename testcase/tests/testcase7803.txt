@@ -1,0 +1,19 @@
+INSERT b number
+INSERT bP8 string
+INSERT fMEq string
+BEGIN
+PRINT
+INSERT cNy string
+INSERT kY string
+INSERT nf14 number
+INSERT l4rVp string
+BEGIN
+ASSIGN l4rVp 253
+INSERT rZp number
+INSERT zbuL8N string
+INSERT f0 string
+INSERT e number
+BEGIN
+INSERT i string
+LOOKUP e
+INSERT olqgG number

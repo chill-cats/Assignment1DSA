@@ -1,0 +1,9 @@
+PRINT
+e ke
+INSERT h7CHxR number
+INSERT wFbx number
+LOOKUP h7CHxR
+INSERT rGf number
+END
+INSERT dRv string
+INSERT da number

@@ -1,0 +1,35 @@
+INSERT m4h6Qd number
+INSERT h string
+INSERT ocB number
+PRINT
+INSERT m0FA0 string
+INSERT zJEs48 number
+INSERT nmpiJ number
+INSERT yE number
+LOOKUP m4h6Qd
+INSERT iKxQ string
+INSERT tqUL string
+INSERT xwaREr string
+INSERT pgwx number
+BEGIN
+INSERT i number
+INSERT qca8y_ string
+LOOKUP tqUL
+RPRINT
+INSERT cmVa string
+INSERT uqf string
+ASSIGN h qca8y_
+INSERT ct number
+INSERT vF9AKH string
+LOOKUP vF9AKH
+INSERT kktA2 string
+BEGIN
+INSERT zaLprc number
+INSERT hm string
+INSERT bu string
+INSERT u_kY number
+ASSIGN zJEs48 414
+RPRINT
+INSERT u66 number
+INSERT j string
+INSERT w string

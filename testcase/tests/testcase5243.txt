@@ -1,0 +1,28 @@
+BEGIN
+BEGIN
+END
+INSERT e string
+INSERT s8N number
+INSERT wYB number
+ASSIGN wYB 'hb'
+INSERT n5Y73 string
+INSERT hY number
+INSERT ol2mb number
+INSERT uozB string
+INSERT og number
+INSERT yNJ2Xz string
+ASSIGN n5Y73 732
+END
+INSERT bv string
+END
+INSERT t_PhDb string
+INSERT crBk number
+ASSIGN yNJ2Xz 1154
+BEGIN
+INSERT l number
+INSERT wP number
+INSERT bcU string
+INSERT c string
+LOOKUP t_PhDb
+INSERT e6IWD7 number
+END

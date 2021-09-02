@@ -1,0 +1,4 @@
+INSERT c string
+z edpgYC
+INSERT r2y number
+INSERT l number

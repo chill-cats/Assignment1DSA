@@ -1,0 +1,40 @@
+END
+INSERT c number
+INSERT rOLK number
+INSERT dxLhjd string
+ASSIGN dxLhjd c
+INSERT lxeoco string
+LOOKUP lxeoco
+INSERT r20J number
+INSERT brM6CV string
+INSERT h1zj5W string
+END
+INSERT dm number
+INSERT kra7i string
+INSERT rj9V number
+INSERT q number
+INSERT jhnZn number
+INSERT qomEv string
+BEGIN
+INSERT xzsU number
+INSERT jGbrK number
+INSERT ksU2 number
+INSERT h8u string
+BEGIN
+PRINT
+ASSIGN xzsU 'JK'
+BEGIN
+BEGIN
+mQIncV av2W
+ASSIGN h1zj5W xzsU
+INSERT y07L number
+INSERT lyx string
+INSERT w number
+INSERT rCeSD number
+ASSIGN jhnZn 'Oatj'
+INSERT huyf number
+END
+END
+LOOKUP r20J
+INSERT kv number
+INSERT iLX number

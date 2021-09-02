@@ -1,0 +1,12 @@
+PRINT
+PRINT
+INSERT e number
+INSERT bbrSt9 number
+INSERT pt string
+INSERT gx7ph string
+INSERT qnq string
+END
+cFVNV qCLD
+INSERT yNk8c number
+LOOKUP e
+LOOKUP m

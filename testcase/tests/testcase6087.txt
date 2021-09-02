@@ -1,0 +1,5 @@
+END
+END
+INSERT k number
+INSERT gVsR string
+RPRINT

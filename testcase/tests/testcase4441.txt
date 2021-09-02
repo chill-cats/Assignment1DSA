@@ -1,0 +1,21 @@
+INSERT frTB number
+INSERT jX string
+INSERT zg string
+INSERT j number
+ASSIGN j 'R3Mv'
+INSERT gCx number
+ASSIGN frTB j
+ASSIGN frTB 289
+PRINT
+INSERT q6 number
+INSERT eh9 string
+INSERT eUeZyJ number
+INSERT m string
+INSERT uQZa number
+INSERT t number
+INSERT sd number
+INSERT m string
+nbj pNVTk3
+LOOKUP q6
+yRk_ h
+INSERT aMHfiu string

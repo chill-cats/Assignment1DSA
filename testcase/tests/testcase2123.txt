@@ -1,0 +1,40 @@
+ASSIGN kV '2oS7X'
+INSERT d4 string
+INSERT o string
+INSERT ca number
+INSERT k string
+INSERT t number
+INSERT t number
+LOOKUP t
+INSERT k string
+INSERT wWIdC string
+END
+BEGIN
+BEGIN
+INSERT v9Z string
+RPRINT
+BEGIN
+RPRINT
+INSERT bDvZI string
+RPRINT
+LOOKUP k
+END
+PRINT
+INSERT kg_I string
+INSERT r number
+INSERT nr string
+INSERT g2 number
+INSERT bP52 number
+PRINT
+INSERT ihf number
+INSERT g4uK4H string
+INSERT kSG string
+END
+INSERT w0k4 string
+INSERT jwBx number
+INSERT hK string
+LOOKUP ca
+PRINT
+BEGIN
+INSERT qP string
+INSERT kF number

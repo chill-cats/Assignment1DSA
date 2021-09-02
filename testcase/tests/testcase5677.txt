@@ -1,0 +1,33 @@
+PRINT
+LOOKUP iwN
+LOOKUP x
+INSERT c9ylt number
+PRINT
+ASSIGN c9ylt c9ylt
+END
+LOOKUP c9ylt
+INSERT q string
+INSERT o9 number
+INSERT rfe number
+INSERT h string
+INSERT bpNG1H number
+INSERT c7otFA string
+INSERT w2PS string
+INSERT tfqIPu number
+END
+INSERT g number
+INSERT sGJn string
+j bTqeSZ
+END
+INSERT s string
+tKK hwe
+INSERT rAlUw string
+INSERT dDVIP string
+INSERT aW9 string
+RPRINT
+PRINT
+INSERT an number
+INSERT e number
+END
+INSERT q2_8Sa string
+END

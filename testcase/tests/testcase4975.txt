@@ -1,0 +1,6 @@
+INSERT gaR number
+INSERT vsi number
+INSERT wgl number
+ASSIGN vsi gaR
+INSERT y4V number
+RPRINT

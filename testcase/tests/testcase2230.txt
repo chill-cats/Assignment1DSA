@@ -1,0 +1,14 @@
+INSERT iW4XT7 number
+INSERT n9lZbW number
+INSERT jzmt string
+LOOKUP n9lZbW
+ASSIGN iW4XT7 'DwfcX'
+RPRINT
+INSERT dhC7 number
+INSERT f_ number
+INSERT dmO string
+BEGIN
+INSERT eR string
+INSERT o number
+tOI o6oWAk
+RPRINT

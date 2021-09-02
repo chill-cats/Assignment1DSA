@@ -1,0 +1,28 @@
+INSERT p string
+END
+INSERT mOt1M string
+INSERT caBA string
+INSERT h2j7K number
+INSERT kFJr string
+INSERT lmasq number
+INSERT ut_7A number
+INSERT uWtns7 number
+INSERT gp number
+INSERT tC string
+INSERT g8pu number
+whY i5jzqu
+INSERT rA0com number
+lxKe u_
+INSERT n2dx9 number
+END
+INSERT krGaA string
+INSERT eG9 string
+LOOKUP gp
+PRINT
+ASSIGN krGaA 1182
+INSERT xtGjh number
+INSERT vu number
+INSERT d number
+LOOKUP ut_7A
+INSERT vqeVPD string
+END

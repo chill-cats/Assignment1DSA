@@ -1,0 +1,19 @@
+INSERT q number
+INSERT uQBQ string
+INSERT kESHOG string
+INSERT fhHP number
+eKw fMF_R
+LOOKUP fhHP
+BEGIN
+INSERT hn0fnc string
+INSERT fhX number
+INSERT zx6D2 string
+INSERT od7 number
+INSERT lIsP string
+END
+INSERT u number
+INSERT iqH number
+INSERT pkcd number
+BEGIN
+LOOKUP hn0fnc
+END

@@ -1,0 +1,6 @@
+LOOKUP c
+INSERT eF number
+INSERT xrTP4l number
+INSERT cmGgKj number
+INSERT i27J string
+LOOKUP cmGgKj

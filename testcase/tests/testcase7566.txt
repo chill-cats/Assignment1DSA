@@ -1,0 +1,4 @@
+RPRINT
+INSERT t4DI number
+INSERT jP37zy string
+INSERT l string

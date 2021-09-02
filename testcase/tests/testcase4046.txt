@@ -1,0 +1,8 @@
+BEGIN
+INSERT dQ string
+INSERT ga number
+END
+INSERT h9 number
+PRINT
+INSERT bj number
+INSERT vBipew string

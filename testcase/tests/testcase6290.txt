@@ -1,0 +1,39 @@
+INSERT c number
+INSERT sz number
+RPRINT
+wP6 qI
+INSERT nP9VR string
+END
+INSERT hf5fN string
+INSERT j number
+bZhxp xlh
+INSERT hNH number
+RPRINT
+INSERT gmMNa3 number
+END
+INSERT t string
+INSERT rmOj number
+ASSIGN hf5fN 250
+BEGIN
+INSERT wEfn number
+ASSIGN nP9VR rmOj
+INSERT eT string
+INSERT mH number
+INSERT d4AtSi string
+LOOKUP c
+PRINT
+LOOKUP hNH
+INSERT l number
+BEGIN
+INSERT scSL string
+INSERT j string
+ASSIGN rmOj 'x'
+INSERT xslj_ number
+LOOKUP t
+eTX3m c9SRoS
+cO e7
+INSERT ud565 string
+PRINT
+y7K2Wx lb
+INSERT ir number
+INSERT sqg number

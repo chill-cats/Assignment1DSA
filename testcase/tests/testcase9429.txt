@@ -1,0 +1,23 @@
+INSERT c1m5Vm string
+ASSIGN c1m5Vm c1m5Vm
+INSERT mskmw number
+LOOKUP mskmw
+INSERT tZvc string
+END
+INSERT g number
+INSERT aKSwQ number
+INSERT e6rZ number
+END
+j43 mgYTv
+PRINT
+PRINT
+ASSIGN c1m5Vm mskmw
+PRINT
+INSERT nFv3 string
+wFth s51
+INSERT ipUhP string
+INSERT mD_omT string
+RPRINT
+INSERT t_ string
+INSERT c number
+INSERT cA number

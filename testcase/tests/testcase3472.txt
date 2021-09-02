@@ -1,0 +1,6 @@
+INSERT eTHf number
+INSERT j15CN string
+INSERT tZCJAO number
+BEGIN
+LOOKUP j15CN
+PRINT

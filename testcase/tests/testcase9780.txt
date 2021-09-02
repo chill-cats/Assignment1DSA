@@ -1,0 +1,33 @@
+sGc8j4 lOf5fx
+LOOKUP n
+INSERT d8F7cm number
+BEGIN
+INSERT kYAW string
+BEGIN
+INSERT r2f string
+ASSIGN r2f 'ptl'
+INSERT joQ0Y string
+INSERT tD string
+INSERT uqeo1 number
+INSERT yfB6vW string
+ASSIGN kYAW kYAW
+PRINT
+INSERT j3m1 number
+INSERT z number
+PRINT
+INSERT azHn number
+ASSIGN yfB6vW 'Lws5J'
+INSERT nTN string
+tjQK ao58bM
+INSERT qXh number
+INSERT zDJ5r string
+ASSIGN r2f 1078
+INSERT lxc2X string
+bVP v4VMm
+INSERT tEgV string
+END
+ASSIGN zDJ5r 'FnQj'
+INSERT k number
+PRINT
+END
+LOOKUP uqeo1

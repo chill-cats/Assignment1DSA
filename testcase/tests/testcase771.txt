@@ -1,0 +1,25 @@
+INSERT ixrj string
+INSERT g5 string
+INSERT imdC string
+INSERT aIKXb string
+RPRINT
+ASSIGN aIKXb 468
+ASSIGN imdC 'K9b5U'
+INSERT jLA6 string
+INSERT z376k string
+ASSIGN aIKXb 896
+INSERT w string
+END
+END
+END
+INSERT cFx string
+RPRINT
+END
+PRINT
+qSdiB aRW
+INSERT m7 number
+INSERT e number
+INSERT w number
+INSERT q4 string
+LOOKUP w
+BEGIN

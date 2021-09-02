@@ -1,0 +1,21 @@
+INSERT z number
+INSERT qbe2p number
+INSERT qixYu string
+INSERT q number
+INSERT f2b number
+INSERT zX number
+ASSIGN qbe2p 681
+INSERT b string
+INSERT aR string
+INSERT q string
+PRINT
+RPRINT
+RPRINT
+END
+wi3Q rB4q
+INSERT pne string
+INSERT pEc number
+INSERT zTG string
+INSERT p3erbP number
+INSERT gEyy string
+INSERT oXw number

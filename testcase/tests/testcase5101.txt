@@ -1,0 +1,15 @@
+PRINT
+END
+PRINT
+INSERT q92Qkf number
+ASSIGN q92Qkf 691
+INSERT dLO7 string
+END
+BEGIN
+INSERT fwt number
+INSERT c_Ab string
+INSERT wl9LZJ number
+LOOKUP wl9LZJ
+INSERT u4d number
+INSERT o3Kw3 number
+END

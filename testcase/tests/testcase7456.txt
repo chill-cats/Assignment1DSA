@@ -1,0 +1,9 @@
+INSERT hPeh9w number
+LOOKUP hPeh9w
+INSERT mkYe string
+INSERT ff number
+RPRINT
+END
+LOOKUP ff
+faq j
+RPRINT

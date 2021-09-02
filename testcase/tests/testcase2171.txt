@@ -1,0 +1,5 @@
+INSERT foCk7Q string
+END
+BEGIN
+RPRINT
+INSERT dwyW number

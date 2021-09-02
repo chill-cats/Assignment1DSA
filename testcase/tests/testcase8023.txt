@@ -1,0 +1,9 @@
+INSERT lncZ number
+a bGg
+INSERT mP string
+i018QL yML
+INSERT o string
+INSERT d string
+PRINT
+PRINT
+INSERT ei number

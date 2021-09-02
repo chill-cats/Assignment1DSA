@@ -1,0 +1,36 @@
+INSERT oa number
+LOOKUP oa
+END
+INSERT v number
+INSERT uIYtLq string
+INSERT t number
+INSERT nNnTv number
+ASSIGN t 1145
+INSERT ub61Q string
+RPRINT
+INSERT b number
+INSERT a number
+LOOKUP ub61Q
+INSERT z24kY string
+INSERT lY0T string
+PRINT
+END
+INSERT n8gp number
+INSERT o4Y string
+INSERT xtmO string
+INSERT tTQ string
+END
+BEGIN
+ASSIGN lY0T 'C'
+LOOKUP b
+PRINT
+RPRINT
+INSERT zgW string
+INSERT x number
+INSERT bs number
+INSERT nsDL number
+INSERT dxd number
+LOOKUP o4Y
+INSERT xoBGc number
+INSERT kow string
+INSERT rAVGM4 number

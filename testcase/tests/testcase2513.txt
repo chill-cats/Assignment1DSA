@@ -1,0 +1,5 @@
+INSERT p string
+INSERT v4Xn string
+RPRINT
+BEGIN
+ASSIGN p p

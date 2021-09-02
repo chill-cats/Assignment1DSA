@@ -1,0 +1,20 @@
+INSERT a string
+INSERT wKBv0c string
+PRINT
+INSERT eXA5hl number
+INSERT yQI string
+BEGIN
+INSERT qTrr string
+ASSIGN eXA5hl qTrr
+ASSIGN yQI 323
+ASSIGN dHW wKBv0c
+BEGIN
+INSERT sBwo number
+END
+RPRINT
+LOOKUP eXA5hl
+BEGIN
+PRINT
+ASSIGN qTrr 'GAnc'
+INSERT h number
+ASSIGN yQI 'TY32'

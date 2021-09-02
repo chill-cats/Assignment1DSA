@@ -1,0 +1,27 @@
+BEGIN
+ASSIGN afTH 1192
+ASSIGN zMau 'mZ5'
+LOOKUP e
+BEGIN
+LOOKUP p
+INSERT urnT2j string
+INSERT vXC number
+INSERT vFTMBL number
+INSERT tZPXJ number
+ASSIGN urnT2j 2
+PRINT
+INSERT gI string
+LOOKUP tZPXJ
+INSERT qsr string
+LOOKUP gI
+END
+END
+INSERT nJ number
+INSERT i string
+d yN
+INSERT ni string
+INSERT vLPX number
+INSERT gi5l number
+BEGIN
+LOOKUP tZPXJ
+INSERT ut number

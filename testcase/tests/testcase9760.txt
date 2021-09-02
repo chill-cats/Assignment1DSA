@@ -1,0 +1,29 @@
+INSERT xDtjy number
+INSERT j string
+INSERT sXrjf number
+INSERT nb number
+LOOKUP sXrjf
+INSERT pS string
+INSERT rtV string
+BEGIN
+LOOKUP nb
+ASSIGN u 'rrg'
+ASSIGN xDtjy 938
+INSERT qX5m number
+INSERT lWXa_ string
+PRINT
+RPRINT
+INSERT vA string
+LOOKUP vA
+INSERT rI6B_D string
+PRINT
+END
+INSERT cSeOIH number
+INSERT reNaCe string
+LOOKUP j
+INSERT ctj6r number
+INSERT n2CBr string
+BEGIN
+INSERT jtS number
+INSERT e9C number
+RPRINT

@@ -1,0 +1,40 @@
+ASSIGN p 1024
+INSERT pig number
+LOOKUP lW9
+INSERT d string
+RPRINT
+INSERT acQH number
+INSERT fFgDh string
+INSERT tE string
+END
+END
+b5R mvxd
+INSERT oc_27p number
+INSERT r2B number
+INSERT w2goHA number
+INSERT dfXdz number
+END
+INSERT zQo string
+LOOKUP dfXdz
+INSERT qceJ3T number
+INSERT zhv5 number
+INSERT b_Gt string
+INSERT sBi number
+INSERT nZ number
+RPRINT
+LOOKUP zhv5
+INSERT h number
+INSERT kXnhBw string
+INSERT diLcQz number
+LOOKUP pig
+INSERT lb string
+INSERT xd7 number
+INSERT meXJ string
+bo s
+INSERT qoM string
+INSERT n9xI number
+INSERT l string
+INSERT sA string
+INSERT kM number
+INSERT cT8X number
+RPRINT

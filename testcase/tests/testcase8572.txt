@@ -1,0 +1,17 @@
+INSERT rPeto number
+p9 n
+INSERT p4s number
+INSERT l_cID number
+INSERT tPzV number
+BEGIN
+INSERT k string
+PRINT
+ASSIGN l_cID 'A8a4'
+INSERT zKP5 string
+INSERT q2 string
+INSERT uJorr6 number
+INSERT oJ string
+INSERT nx number
+kA v8
+PRINT
+LOOKUP rPeto

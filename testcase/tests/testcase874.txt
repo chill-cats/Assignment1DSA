@@ -1,0 +1,25 @@
+INSERT tdtGl8 number
+INSERT l number
+RPRINT
+RPRINT
+INSERT t string
+BEGIN
+INSERT g3FpD number
+ASSIGN g3FpD 892
+ASSIGN g3FpD 961
+INSERT l1 string
+PRINT
+INSERT m6 number
+PRINT
+RPRINT
+ASSIGN tdtGl8 tdtGl8
+BEGIN
+LOOKUP g3FpD
+BEGIN
+INSERT g1 string
+INSERT p6oMo string
+INSERT xJ8 number
+INSERT nmvw string
+INSERT inBVS string
+END
+INSERT x5 string

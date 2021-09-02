@@ -1,0 +1,29 @@
+BEGIN
+ASSIGN m 'IJrX'
+INSERT g number
+INSERT zs string
+INSERT c string
+INSERT yq string
+INSERT xcE87 number
+INSERT c number
+END
+INSERT nxMZk number
+INSERT j8 number
+INSERT dVV9I number
+INSERT tqnXU number
+INSERT g string
+ASSIGN sB 195
+INSERT x2jo7 number
+INSERT oSVL string
+INSERT esb3 string
+INSERT eJd1 number
+INSERT g string
+INSERT fJ8z string
+INSERT f number
+INSERT uumT0 string
+INSERT aD number
+BEGIN
+RPRINT
+PRINT
+BEGIN
+PRINT

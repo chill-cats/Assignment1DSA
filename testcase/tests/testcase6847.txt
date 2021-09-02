@@ -1,0 +1,5 @@
+INSERT mM6 string
+INSERT y number
+PRINT
+LOOKUP mM6
+INSERT jGuNV number

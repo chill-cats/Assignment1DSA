@@ -1,0 +1,26 @@
+INSERT r2PrG8 number
+LOOKUP r2PrG8
+END
+INSERT ljpi number
+INSERT jOJT number
+INSERT lbaT string
+END
+ASSIGN r2PrG8 ljpi
+INSERT aNl string
+BEGIN
+INSERT bMf string
+INSERT ibi number
+INSERT hJmkp number
+BEGIN
+ASSIGN ibi 1056
+ASSIGN aNl 'm'
+INSERT aUW string
+zzw rug3V
+END
+PRINT
+INSERT cdP9W string
+INSERT w4 string
+INSERT quZp3 number
+LOOKUP aUW
+BEGIN
+INSERT vp6nT_ number

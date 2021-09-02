@@ -1,0 +1,4 @@
+INSERT l number
+ASSIGN l 'yIGV'
+INSERT xjNv9 string
+BEGIN

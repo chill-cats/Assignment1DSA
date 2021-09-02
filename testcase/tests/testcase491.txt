@@ -1,0 +1,31 @@
+END
+INSERT t number
+INSERT j string
+INSERT pK string
+INSERT g3 string
+INSERT vCCK number
+ASSIGN vCCK j
+INSERT pWbdC number
+INSERT j number
+nmy2 tZC3XW
+INSERT uIhGo number
+INSERT pF number
+u l
+INSERT o number
+INSERT lNF string
+INSERT t5 number
+INSERT ga number
+PRINT
+INSERT l string
+kAHlV tLoP49
+END
+INSERT gR string
+BEGIN
+ASSIGN pK t
+INSERT b3t number
+INSERT iWrP number
+LOOKUP b3t
+INSERT s4Ht5 number
+ASSIGN pF lNF
+END
+BEGIN

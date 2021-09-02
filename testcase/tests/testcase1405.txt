@@ -1,0 +1,7 @@
+RPRINT
+INSERT hx1AVW number
+INSERT f string
+INSERT s7 number
+BEGIN
+INSERT ebJ3WV number
+INSERT vo1Y number

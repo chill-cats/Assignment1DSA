@@ -1,0 +1,5 @@
+INSERT bWi number
+INSERT x8Gp string
+INSERT k string
+lNpt9 tR
+ASSIGN k bWi

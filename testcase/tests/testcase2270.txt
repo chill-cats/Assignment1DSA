@@ -1,0 +1,40 @@
+INSERT aDQo number
+PRINT
+INSERT sA string
+LOOKUP sA
+yx yicc7
+INSERT nGx3lD number
+INSERT cn7 number
+INSERT pT3MMy number
+INSERT c number
+INSERT ztqb string
+ASSIGN nGx3lD nGx3lD
+INSERT q4x string
+INSERT pUwo number
+RPRINT
+LOOKUP nGx3lD
+INSERT dh_PX5 string
+RPRINT
+ASSIGN sA 'EB2 4'
+INSERT h9vi number
+INSERT yjix number
+INSERT a15 string
+INSERT bpu5 number
+INSERT mUV9 string
+ASSIGN h9vi 120
+INSERT ne string
+INSERT i number
+INSERT ui8 number
+ASSIGN a15 'KfP'
+INSERT fKt9 string
+INSERT mv0 string
+INSERT xP string
+INSERT eO6 number
+PRINT
+INSERT hqQj9 number
+INSERT sDVpcl number
+INSERT xOp5 number
+INSERT nA string
+INSERT sN1 number
+INSERT ukLnl string
+BEGIN

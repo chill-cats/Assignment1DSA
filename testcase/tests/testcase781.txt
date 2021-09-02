@@ -1,0 +1,16 @@
+INSERT y string
+o4F0 xtAw
+INSERT prddAn string
+INSERT b6bB4s number
+INSERT mf string
+INSERT vjAFe string
+RPRINT
+INSERT uWvV number
+INSERT euglq string
+INSERT lmqM string
+INSERT aXLJc string
+INSERT x1RWX number
+ASSIGN lmqM '61l'
+INSERT txLoDz string
+LOOKUP y
+BEGIN

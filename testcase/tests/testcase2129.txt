@@ -1,0 +1,18 @@
+RPRINT
+gVb5J zDxuQD
+INSERT vJj3 string
+INSERT rA3 string
+INSERT xj string
+INSERT pSNN number
+INSERT yPFwe number
+PRINT
+INSERT vHSja number
+END
+LOOKUP pSNN
+ASSIGN rA3 vJj3
+END
+INSERT at number
+LOOKUP vHSja
+INSERT lE5 string
+INSERT sIh number
+PRINT

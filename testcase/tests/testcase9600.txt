@@ -1,0 +1,37 @@
+INSERT lR9 string
+INSERT cQqi75 number
+INSERT aXeX6H number
+INSERT v number
+INSERT tQ number
+INSERT wqZbG string
+INSERT moqyeI number
+INSERT i string
+INSERT dZ6e_ string
+INSERT yzb8 string
+LOOKUP lR9
+myAAL n0zB
+INSERT eb string
+INSERT uOQom number
+INSERT jgPud9 number
+d nyg
+INSERT n9niEu string
+INSERT kXLhSL string
+INSERT bRj string
+INSERT dh number
+INSERT vBEPAp number
+INSERT xdQg number
+INSERT w string
+INSERT kjrOSg number
+ASSIGN wqZbG vBEPAp
+RPRINT
+INSERT qv number
+INSERT ldu number
+INSERT odyq string
+INSERT hNWI string
+lS4A qDpi
+INSERT luVM6E string
+rjguQ gflXg
+eEt bf3xZE
+INSERT p string
+ASSIGN moqyeI kXLhSL
+LOOKUP eb

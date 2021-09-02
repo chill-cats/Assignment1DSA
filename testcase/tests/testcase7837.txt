@@ -1,0 +1,22 @@
+INSERT igS7_b number
+INSERT wGW number
+INSERT ve number
+RPRINT
+INSERT l string
+INSERT ocrjfb string
+INSERT cM3Pd number
+sFr4P fq
+INSERT sVh number
+LOOKUP cM3Pd
+INSERT e0 string
+INSERT wZheJ string
+i0W7c rY9WVm
+INSERT v2_ number
+INSERT m string
+INSERT r8_ number
+INSERT m string
+INSERT kjkCf string
+INSERT eP number
+INSERT qH1o string
+END
+END

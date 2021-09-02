@@ -1,0 +1,23 @@
+RPRINT
+INSERT z6r number
+INSERT cw_ number
+INSERT lAQg_ number
+INSERT t string
+INSERT bu string
+INSERT k string
+qaPm tj8bF
+INSERT ha number
+INSERT cXatPA number
+INSERT o8k9 string
+INSERT re1PlB string
+INSERT d string
+INSERT t5 number
+BEGIN
+END
+INSERT te number
+INSERT zJ number
+INSERT kbX string
+INSERT wuzPj number
+INSERT qA0H number
+INSERT z string
+INSERT tCP4l string

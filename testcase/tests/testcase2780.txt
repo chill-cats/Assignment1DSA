@@ -1,0 +1,2 @@
+BEGIN
+INSERT sL4r string

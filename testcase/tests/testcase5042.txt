@@ -1,0 +1,23 @@
+LOOKUP oVIJ6
+INSERT zqC string
+INSERT j string
+BEGIN
+LOOKUP zqC
+aKd4X x8RL
+RPRINT
+INSERT uNMX string
+BEGIN
+INSERT k string
+PRINT
+INSERT rk string
+LOOKUP rk
+INSERT qSx number
+INSERT nfkWr5 number
+END
+PRINT
+INSERT ja string
+LOOKUP j
+INSERT eTLr number
+INSERT vG number
+m q
+INSERT ySB number

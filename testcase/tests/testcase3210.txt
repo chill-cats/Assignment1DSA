@@ -1,0 +1,34 @@
+INSERT d number
+END
+INSERT o4JoK number
+INSERT oF2GIB string
+INSERT ql string
+INSERT o string
+INSERT hV1 number
+INSERT tvxo4X number
+INSERT dr number
+tJRM exX
+INSERT r number
+INSERT aZf9 string
+INSERT d number
+INSERT x number
+INSERT g string
+ASSIGN o o4JoK
+LOOKUP tvxo4X
+INSERT zGlkM string
+INSERT q9 string
+INSERT xCd number
+RPRINT
+ASSIGN dr zGlkM
+LOOKUP oF2GIB
+INSERT f3hrzW number
+INSERT l0 number
+INSERT rW string
+INSERT gvN string
+ASSIGN ql 653
+INSERT tR number
+INSERT l1C string
+INSERT u string
+INSERT aKp4 string
+INSERT fq string
+INSERT xeQh string

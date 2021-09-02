@@ -1,0 +1,30 @@
+INSERT c0NoV number
+INSERT s2muyw string
+INSERT ayVz number
+END
+aV rIx9g
+INSERT x1C number
+INSERT eSi number
+INSERT nts0T number
+e v
+INSERT lGP string
+INSERT p string
+INSERT iza string
+INSERT cw string
+LOOKUP nts0T
+LOOKUP eSi
+RPRINT
+INSERT r number
+a x4R
+INSERT h6NIYW number
+RPRINT
+INSERT c43sB string
+v06 yWb
+INSERT bQv8 string
+INSERT xu4 string
+RPRINT
+INSERT wBGIp3 number
+INSERT fdGh number
+INSERT f8 number
+INSERT j number
+ASSIGN xu4 xu4

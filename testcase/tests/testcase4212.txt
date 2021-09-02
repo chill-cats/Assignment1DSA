@@ -1,0 +1,32 @@
+INSERT d number
+INSERT hwS string
+INSERT qjd string
+END
+INSERT f string
+INSERT os string
+INSERT am3PA number
+INSERT paUQDN number
+ASSIGN am3PA 665
+PRINT
+LOOKUP am3PA
+INSERT l string
+INSERT xS number
+LOOKUP hwS
+INSERT sMpR8 string
+INSERT sQIy number
+INSERT tzhQcM string
+INSERT qM1 number
+PRINT
+INSERT v_E string
+INSERT lnOwJ string
+ASSIGN l 842
+INSERT f string
+INSERT k number
+ASSIGN lnOwJ f
+INSERT p number
+INSERT m2_Jr7 number
+RPRINT
+INSERT hjDO string
+PRINT
+INSERT k string
+INSERT mL5DJ string

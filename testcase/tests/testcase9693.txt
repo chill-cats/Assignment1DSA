@@ -1,0 +1,10 @@
+LOOKUP btl
+ASSIGN yDc '7'
+LOOKUP a
+INSERT pb8T9 string
+INSERT lg6Gq string
+INSERT yDq string
+INSERT i number
+PRINT
+BEGIN
+INSERT kb string

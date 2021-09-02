@@ -1,0 +1,31 @@
+PRINT
+i n
+INSERT awKb number
+INSERT w6P5 string
+RPRINT
+INSERT oDk6 string
+INSERT emnn string
+INSERT bG16_8 number
+ASSIGN w6P5 1126
+LOOKUP bG16_8
+INSERT lX85M number
+INSERT fYQ string
+ASSIGN w6P5 887
+LOOKUP w6P5
+uJ vLV
+END
+INSERT s9L number
+ASSIGN oDk6 1155
+INSERT hZcPt number
+INSERT opi7A string
+END
+INSERT vfy string
+INSERT xUaxi string
+INSERT uee number
+INSERT zTU6nm string
+ASSIGN hZcPt 71
+INSERT aQEfDT number
+INSERT nN string
+INSERT txtq number
+INSERT zRc7CQ string
+INSERT xrs string

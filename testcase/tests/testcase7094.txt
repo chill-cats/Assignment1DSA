@@ -1,0 +1,40 @@
+INSERT bO number
+INSERT aAW5I number
+LOOKUP bO
+END
+INSERT j64mAk number
+INSERT yEj string
+INSERT ea string
+INSERT gr3szr number
+LOOKUP bO
+INSERT u6l number
+RPRINT
+RPRINT
+INSERT zo string
+LOOKUP yEj
+ASSIGN ea 'DTD'
+INSERT mS1 string
+INSERT i1x string
+INSERT a string
+INSERT u7 number
+INSERT u number
+INSERT m6zjm string
+ASSIGN u7 'T'
+RPRINT
+INSERT p string
+INSERT q string
+INSERT el string
+INSERT nqkZrL string
+INSERT bu0Y string
+INSERT vqs string
+INSERT oEx string
+INSERT exuE number
+INSERT ii2 number
+INSERT suQDB0 number
+ASSIGN u 'Gb'
+BEGIN
+BEGIN
+INSERT a number
+e6s9t eXo2vO
+LOOKUP zo
+RPRINT

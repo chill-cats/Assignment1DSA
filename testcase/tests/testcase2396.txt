@@ -1,0 +1,30 @@
+INSERT vqCj7 number
+INSERT zrM string
+INSERT dYtRv number
+INSERT mh7A string
+BEGIN
+INSERT gsZ string
+INSERT tM6wA number
+INSERT q string
+INSERT hI6C0b number
+INSERT oBs string
+LOOKUP q
+INSERT p number
+INSERT x string
+BEGIN
+INSERT htYEZF number
+INSERT wq9Te number
+RPRINT
+INSERT lh4F7 number
+LOOKUP oBs
+RPRINT
+LOOKUP q
+INSERT qY8UJi number
+BEGIN
+END
+INSERT t0F number
+INSERT rvC4V number
+INSERT wY3hij string
+PRINT
+INSERT fcZna3 number
+LOOKUP wY3hij

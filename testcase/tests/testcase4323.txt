@@ -1,0 +1,25 @@
+INSERT dqs string
+INSERT fOQ string
+PRINT
+INSERT dR number
+INSERT p number
+INSERT aZzBvi number
+ASSIGN aZzBvi 'EGj'
+BEGIN
+INSERT v_45 number
+INSERT kj number
+INSERT i string
+INSERT r_nj string
+INSERT xp42 number
+END
+INSERT uT number
+BEGIN
+INSERT fhfcW string
+INSERT b number
+mqCHFJ qMj
+INSERT e number
+INSERT qg string
+LOOKUP fOQ
+INSERT rRRE0c string
+END
+RPRINT

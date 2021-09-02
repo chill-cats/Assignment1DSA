@@ -1,0 +1,28 @@
+INSERT vK number
+PRINT
+INSERT s string
+END
+INSERT m string
+INSERT hTNLrk number
+END
+RPRINT
+INSERT ipjp string
+INSERT s5 number
+RPRINT
+ASSIGN hTNLrk 281
+INSERT tfS_h number
+INSERT dquJP5 string
+INSERT sPYo string
+END
+INSERT idFW string
+INSERT mu6 number
+PRINT
+INSERT iLNz1 string
+INSERT s string
+BEGIN
+INSERT r808J number
+INSERT c3e string
+INSERT rAo number
+INSERT cD3NjS string
+ASSIGN m s
+INSERT r5M string

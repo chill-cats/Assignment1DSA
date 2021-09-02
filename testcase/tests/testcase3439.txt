@@ -1,0 +1,36 @@
+INSERT tsoy3 number
+INSERT k9 string
+INSERT pSGt3 number
+BEGIN
+INSERT hNtx1 string
+LOOKUP hNtx1
+END
+INSERT d string
+ASSIGN hNtx1 tsoy3
+INSERT w4a number
+INSERT u number
+END
+INSERT zT string
+BEGIN
+INSERT lzO8V0 number
+INSERT fUis string
+LOOKUP hNtx1
+INSERT gGB0 number
+INSERT uewVKT string
+INSERT l4DZe number
+INSERT yqCj0V number
+INSERT vu6ls string
+LOOKUP tsoy3
+RPRINT
+INSERT a0 string
+ASSIGN gGB0 u
+INSERT jDRkl string
+ASSIGN k9 937
+INSERT xDR string
+LOOKUP a0
+INSERT aBtP string
+PRINT
+INSERT z number
+g pzE
+INSERT o number
+INSERT ikb47 number

@@ -1,0 +1,33 @@
+INSERT pJ string
+INSERT oOBuB string
+RPRINT
+RPRINT
+INSERT vVG number
+RPRINT
+INSERT u string
+PRINT
+END
+PRINT
+END
+BEGIN
+pfCkG cst
+INSERT nX9SA number
+RPRINT
+INSERT z string
+PRINT
+INSERT m3I string
+f jO4
+BEGIN
+INSERT z0rWU number
+INSERT mlAur number
+INSERT vYX46i number
+INSERT kd number
+INSERT eIGHo2 number
+INSERT eEX string
+END
+INSERT s4tJsU number
+INSERT zTB7mU number
+INSERT aKO8 string
+INSERT b string
+ASSIGN kd 355
+INSERT ud number

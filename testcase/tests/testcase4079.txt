@@ -1,0 +1,9 @@
+END
+BEGIN
+INSERT pgoe string
+INSERT e number
+LOOKUP e
+INSERT hDLfg number
+INSERT p number
+RPRINT
+INSERT s string

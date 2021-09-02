@@ -1,0 +1,32 @@
+INSERT w_UO number
+RPRINT
+RPRINT
+LOOKUP w_UO
+INSERT tdTRNv string
+INSERT jKe1G number
+RPRINT
+INSERT n1jBD0 string
+INSERT nyk string
+INSERT a8 number
+LOOKUP n1jBD0
+INSERT d number
+INSERT vnsgng string
+PRINT
+INSERT i_ZUf string
+INSERT k_R number
+INSERT u string
+INSERT szO string
+PRINT
+PRINT
+INSERT mXBm string
+INSERT o6yF number
+INSERT jYWM number
+INSERT k number
+INSERT j75VU number
+INSERT q number
+INSERT dLf9S string
+INSERT cFgTct string
+zY3Mi sLQ1le
+INSERT bs number
+INSERT k string
+INSERT tt9T number

@@ -1,0 +1,21 @@
+END
+n1ER a
+BEGIN
+INSERT bMO number
+INSERT taeeV string
+INSERT r9Eab string
+INSERT sCgpd string
+ASSIGN bMO sCgpd
+LOOKUP sCgpd
+INSERT gb5 string
+INSERT e string
+END
+INSERT lTG4SF number
+oNr4u gQz9DY
+INSERT gS string
+ASSIGN lTG4SF '24XI'
+END
+INSERT s7cXw number
+PRINT
+END
+INSERT b string

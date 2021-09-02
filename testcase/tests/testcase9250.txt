@@ -1,0 +1,14 @@
+ASSIGN aVwg1 '7'
+END
+BEGIN
+INSERT pB_WWQ number
+ASSIGN pB_WWQ 674
+d kg
+BEGIN
+INSERT d_ger number
+y p
+INSERT nG0w string
+INSERT yh number
+INSERT xp number
+m i6
+PRINT

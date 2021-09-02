@@ -1,0 +1,40 @@
+hssv uyHrP
+BEGIN
+RPRINT
+INSERT sLxj3 string
+INSERT vexw_l number
+INSERT jPi number
+LOOKUP jPi
+INSERT qKW number
+END
+ASSIGN qKW qKW
+LOOKUP vexw_l
+INSERT wu string
+INSERT r8o2O number
+ASSIGN wu vexw_l
+INSERT cRx number
+BEGIN
+PRINT
+ASSIGN sLxj3 1170
+PRINT
+INSERT jjXN string
+INSERT nX4c number
+INSERT p9 string
+INSERT wKwmx number
+INSERT bnHoy string
+INSERT s string
+LOOKUP qi940_
+INSERT mjkjWH string
+INSERT rmZ string
+INSERT tI number
+INSERT k string
+INSERT ts number
+END
+INSERT fZWyr number
+INSERT cbk string
+INSERT apt2S number
+INSERT v string
+LOOKUP v
+INSERT uyxjy number
+INSERT cX3 string
+BEGIN

@@ -1,0 +1,6 @@
+INSERT h8J0g3 number
+INSERT a_kz number
+RPRINT
+INSERT g number
+INSERT ksks number
+ASSIGN g 1206

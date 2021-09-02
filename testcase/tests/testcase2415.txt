@@ -1,0 +1,11 @@
+INSERT jN string
+INSERT yUuJzP number
+PRINT
+INSERT z string
+INSERT rTPGV string
+r x
+INSERT hMgYeb string
+r a
+PRINT
+RPRINT
+PRINT

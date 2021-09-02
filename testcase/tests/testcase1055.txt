@@ -1,0 +1,17 @@
+PRINT
+ASSIGN pLx 255
+PRINT
+INSERT sAyE5W number
+PRINT
+BEGIN
+INSERT i00YcJ number
+RPRINT
+BEGIN
+INSERT zc string
+INSERT lQ string
+END
+INSERT ylhi7 number
+INSERT oVDi string
+INSERT cN number
+INSERT mgtQ number
+ASSIGN cN 631

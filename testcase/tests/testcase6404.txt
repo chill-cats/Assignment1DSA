@@ -1,0 +1,38 @@
+INSERT eaK7iz number
+INSERT m number
+INSERT d2 number
+INSERT nl number
+INSERT iJtNdI string
+sbE70j kW
+INSERT a1 number
+INSERT v3 number
+INSERT nP string
+ASSIGN v3 642
+END
+INSERT hu number
+INSERT tcR9H number
+INSERT lRPZ string
+INSERT sRRS number
+END
+INSERT rltYl number
+ASSIGN v3 hu
+BEGIN
+INSERT uR number
+lkXK eUqJe
+PRINT
+LOOKUP iJtNdI
+INSERT t number
+INSERT r2z number
+INSERT eg number
+INSERT jGnuP number
+INSERT vij number
+RPRINT
+ASSIGN iJtNdI ' NJ6W'
+INSERT dBw number
+INSERT u2 string
+RPRINT
+BEGIN
+INSERT w9u number
+INSERT aI string
+RPRINT
+INSERT uFv number

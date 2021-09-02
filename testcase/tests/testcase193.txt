@@ -1,0 +1,18 @@
+PRINT
+LOOKUP qPrP
+INSERT q number
+INSERT g string
+INSERT yE7rV number
+LOOKUP q
+BEGIN
+INSERT zBo string
+INSERT vs6t3 number
+LOOKUP g
+INSERT rNB9 string
+INSERT n number
+INSERT pNcK string
+BEGIN
+ASSIGN n '2cW4'
+INSERT flwyw string
+INSERT b number
+BEGIN

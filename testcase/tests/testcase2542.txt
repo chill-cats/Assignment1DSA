@@ -1,0 +1,28 @@
+INSERT iPligK string
+INSERT xsuN7 number
+INSERT if string
+INSERT i number
+INSERT kZ number
+PRINT
+INSERT eD number
+END
+ASSIGN if i
+INSERT f number
+ASSIGN f iPligK
+ASSIGN kZ 1138
+LOOKUP xsuN7
+INSERT uOd number
+RPRINT
+INSERT l number
+INSERT zt5t7 number
+INSERT zY string
+INSERT kl string
+INSERT xH string
+PRINT
+INSERT dMKZd number
+PRINT
+ASSIGN kl 924
+INSERT ckJzIi number
+INSERT oJK number
+INSERT pC string
+INSERT l string

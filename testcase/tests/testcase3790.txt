@@ -1,0 +1,35 @@
+INSERT a string
+INSERT yc5R string
+INSERT x number
+INSERT bdqK string
+ASSIGN bdqK x
+INSERT qsdd string
+LOOKUP qsdd
+INSERT oU string
+INSERT fuC3 string
+RPRINT
+INSERT qjSXj string
+INSERT d number
+RPRINT
+INSERT zshDNU number
+RPRINT
+INSERT y06 string
+ASSIGN a 1062
+BEGIN
+INSERT y number
+xE4hXm vTU
+RPRINT
+END
+INSERT yVsH string
+INSERT cif1M8 string
+INSERT dBl number
+x vr9
+INSERT n8 number
+INSERT wXa number
+PRINT
+INSERT vpL string
+LOOKUP qsdd
+PRINT
+INSERT k string
+INSERT pT string
+RPRINT

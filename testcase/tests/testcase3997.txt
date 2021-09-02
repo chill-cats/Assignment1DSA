@@ -1,0 +1,7 @@
+INSERT cHK number
+PRINT
+INSERT tQYx string
+END
+INSERT oz number
+INSERT nid33 string
+INSERT m_ string

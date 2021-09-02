@@ -1,0 +1,12 @@
+g b
+INSERT vkW2l string
+INSERT hS number
+ASSIGN hS 729
+INSERT p_eYC number
+INSERT kT8 string
+qMI abrxt5
+LOOKUP hS
+INSERT qyA string
+PRINT
+BEGIN
+PRINT

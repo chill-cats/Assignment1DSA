@@ -1,0 +1,19 @@
+RPRINT
+INSERT frag3J string
+LOOKUP frag3J
+INSERT eoiAE string
+INSERT es6E7 string
+INSERT uXqq number
+INSERT cK number
+INSERT zX5 string
+ASSIGN cK cK
+LOOKUP frag3J
+INSERT wLF number
+LOOKUP uXqq
+INSERT c number
+INSERT arBf number
+INSERT zNdur6 number
+INSERT pghL number
+PRINT
+INSERT pnQq number
+RPRINT

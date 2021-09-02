@@ -1,0 +1,20 @@
+BEGIN
+INSERT dl2 string
+INSERT aQ5b number
+LOOKUP dl2
+BEGIN
+INSERT ldrbfr number
+INSERT mS number
+rmw qo
+PRINT
+INSERT uwQ number
+INSERT iovn3 string
+INSERT k6nU string
+INSERT zncMg string
+INSERT m string
+ASSIGN dl2 627
+INSERT k number
+ASSIGN k6nU 'S'
+INSERT o number
+INSERT sjCGk string
+RPRINT

@@ -1,0 +1,40 @@
+INSERT v string
+INSERT kMjy number
+LOOKUP v
+RPRINT
+INSERT gF string
+INSERT plXfO number
+INSERT lbgEj string
+PRINT
+INSERT u0w6s number
+INSERT zZVOt string
+INSERT pmCa number
+INSERT bnOjc number
+INSERT q string
+RPRINT
+END
+LOOKUP kMjy
+LOOKUP plXfO
+INSERT mGBUn number
+BEGIN
+INSERT xO607 string
+END
+INSERT d2u string
+RPRINT
+INSERT j number
+INSERT qzaPP number
+INSERT zfm string
+PRINT
+BEGIN
+INSERT mFx13J string
+INSERT soBIk string
+ASSIGN kQ 420
+INSERT wtTO number
+INSERT yrRo string
+INSERT oHcwPa number
+INSERT caza number
+INSERT ey77PL string
+INSERT h string
+INSERT jPm string
+INSERT t string
+INSERT ukq5s number

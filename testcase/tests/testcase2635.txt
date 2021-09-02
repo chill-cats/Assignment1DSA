@@ -1,0 +1,24 @@
+RPRINT
+BEGIN
+INSERT tW number
+INSERT hjQ string
+INSERT rS string
+INSERT xs number
+INSERT jhucJ string
+INSERT dX3vS number
+ASSIGN dX3vS xs
+END
+INSERT dzTkPV string
+kI sIXH2i
+INSERT fM number
+INSERT vh0s string
+INSERT rRHH2 string
+INSERT vGMJz string
+INSERT m string
+INSERT iRa number
+INSERT aRjt number
+INSERT zfl2s number
+PRINT
+RPRINT
+INSERT zCC number
+RPRINT

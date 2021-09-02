@@ -1,0 +1,36 @@
+RPRINT
+INSERT mA0NV string
+INSERT claZeL number
+PRINT
+INSERT hY string
+END
+BEGIN
+INSERT vWTcM string
+INSERT jb number
+INSERT x1 string
+PRINT
+INSERT zJNyoX string
+INSERT azh8 string
+INSERT xN string
+BEGIN
+INSERT zbJ1 string
+INSERT i2Bh6 string
+INSERT xWK number
+ASSIGN zbJ1 241
+INSERT pEDJB string
+LOOKUP claZeL
+INSERT ro_ string
+INSERT yOWk string
+INSERT e5u2 number
+INSERT hoV number
+INSERT ez number
+INSERT coIpZ number
+BEGIN
+INSERT tM number
+END
+RPRINT
+INSERT gjxA string
+INSERT eel4bC string
+INSERT cOUEY8 number
+RPRINT
+INSERT o7aC number

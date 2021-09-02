@@ -1,0 +1,24 @@
+LOOKUP sOOsek
+LOOKUP lu0v
+ASSIGN ljpM9 23
+INSERT h4kgu3 number
+END
+END
+BEGIN
+PRINT
+INSERT pXT string
+LOOKUP pXT
+INSERT n number
+LOOKUP pXT
+ASSIGN h4kgu3 '7Nn'
+INSERT mhy number
+INSERT rowM9 string
+INSERT k string
+ASSIGN h4kgu3 '8NI'
+INSERT vtbmq number
+INSERT vie string
+END
+INSERT f string
+LOOKUP k
+INSERT yfFkDc string
+INSERT p6GNBt string

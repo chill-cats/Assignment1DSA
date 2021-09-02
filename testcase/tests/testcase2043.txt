@@ -1,0 +1,20 @@
+ASSIGN kC 'XU0'
+INSERT iiihT string
+INSERT lsli string
+INSERT qEeLgI number
+INSERT c_PrEc number
+INSERT hbB number
+ASSIGN iiihT 'O'
+INSERT tzk string
+INSERT yIqKit number
+ASSIGN iiihT iiihT
+RPRINT
+INSERT xc number
+INSERT y string
+LOOKUP iiihT
+INSERT xz number
+END
+LOOKUP y
+INSERT qA19bh string
+ASSIGN qEeLgI qA19bh
+INSERT vx string

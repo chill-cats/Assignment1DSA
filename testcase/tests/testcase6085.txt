@@ -1,0 +1,25 @@
+RPRINT
+INSERT wh string
+BEGIN
+INSERT vD string
+INSERT u number
+INSERT r string
+INSERT j39xI string
+INSERT pw9Ul number
+INSERT rHu string
+INSERT aEKfEG string
+INSERT h2pngM string
+INSERT g6U number
+INSERT y3 number
+END
+END
+INSERT l string
+INSERT p string
+INSERT dCu number
+LOOKUP aEKfEG
+INSERT x string
+INSERT sQnfkT string
+cSyOZI oMO9n
+END
+ASSIGN pw9Ul 770
+BEGIN

@@ -1,0 +1,21 @@
+LOOKUP hqjsoL
+BEGIN
+INSERT hW74 string
+INSERT vD4Bcw number
+INSERT co2 string
+INSERT gRy string
+INSERT uqpW8B number
+INSERT mQ6j5X number
+INSERT x4wayv number
+INSERT mlu5c number
+INSERT y number
+ASSIGN co2 'oz7Z'
+END
+BEGIN
+INSERT tGnnE string
+INSERT w number
+PRINT
+INSERT oH number
+INSERT zR8ABf number
+RPRINT
+INSERT wZrG number

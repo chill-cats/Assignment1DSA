@@ -1,0 +1,12 @@
+END
+END
+INSERT ftY number
+LOOKUP ftY
+BEGIN
+RPRINT
+INSERT eYl string
+END
+INSERT v_ string
+INSERT ckokNl string
+INSERT waQZl string
+zNf gOQ

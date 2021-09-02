@@ -1,0 +1,27 @@
+INSERT o1T number
+RPRINT
+INSERT lx string
+INSERT wq string
+INSERT io number
+LOOKUP wq
+ASSIGN lx 779
+yX5GX d
+INSERT hB4OM7 number
+BEGIN
+INSERT fU string
+INSERT x number
+INSERT x number
+INSERT x0 string
+INSERT ex string
+INSERT o6HK string
+INSERT lU number
+INSERT bhw string
+BEGIN
+INSERT ufkD string
+s nF
+RPRINT
+INSERT bbQ number
+INSERT rX9 string
+LOOKUP fU
+ASSIGN rX9 'eZ'
+PRINT

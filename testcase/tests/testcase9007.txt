@@ -1,0 +1,38 @@
+vTJdS li2iyq
+mztkH q7
+END
+INSERT v0km number
+RPRINT
+INSERT zRkdH string
+INSERT lgHz string
+INSERT dyk0 number
+INSERT gOTNX number
+BEGIN
+INSERT vFfX string
+INSERT u7C string
+INSERT bda2fJ string
+w eeO1xk
+INSERT jrc1 number
+INSERT gH string
+PRINT
+INSERT e number
+INSERT sn string
+INSERT piz string
+RPRINT
+ASSIGN u7C '7S'
+INSERT bQ string
+ASSIGN u7C 'fTSl'
+END
+INSERT b1S string
+ASSIGN bda2fJ dyk0
+INSERT xT string
+p lB2rMR
+INSERT b number
+ASSIGN v0km 583
+END
+PRINT
+INSERT jN_wu number
+LOOKUP bda2fJ
+BEGIN
+INSERT npuc string
+z pFk

@@ -1,0 +1,36 @@
+INSERT w8zSG number
+INSERT yYb string
+INSERT u string
+o6EKF khzGp
+ASSIGN yYb 'gHv'
+END
+INSERT dRn string
+PRINT
+END
+LOOKUP dRn
+INSERT r number
+ASSIGN dlELW dRn
+PRINT
+INSERT hVMMjt string
+INSERT wa number
+INSERT s string
+LOOKUP dRn
+INSERT e string
+PRINT
+END
+INSERT yCwB string
+PRINT
+INSERT dT0 string
+RPRINT
+RPRINT
+INSERT lZ string
+INSERT s8xR5G string
+PRINT
+LOOKUP u
+BEGIN
+PRINT
+INSERT z9 string
+INSERT u number
+INSERT l number
+INSERT gh number
+END

@@ -1,0 +1,13 @@
+INSERT iY number
+END
+INSERT i8_y string
+END
+INSERT vAce8d number
+INSERT p number
+i q
+INSERT sE7 string
+LOOKUP iY
+INSERT bs string
+ASSIGN i8_y 705
+LOOKUP bs
+INSERT b_Pz number

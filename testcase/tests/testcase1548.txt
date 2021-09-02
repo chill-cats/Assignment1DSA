@@ -1,0 +1,39 @@
+PRINT
+INSERT yBkH3L string
+INSERT xk string
+j6F r4
+INSERT fM number
+INSERT mj string
+INSERT mye5w string
+LOOKUP fM
+LOOKUP yBkH3L
+PRINT
+INSERT sh4mxC number
+INSERT xzjbgZ number
+INSERT y1yyHw number
+INSERT v string
+RPRINT
+INSERT t7N string
+INSERT dBiLc number
+INSERT cPC0QA number
+INSERT mxbAoE string
+INSERT iA53Lh number
+INSERT vOd number
+z h1Wt
+INSERT qTi number
+PRINT
+INSERT yX string
+INSERT djGu number
+INSERT wj number
+ASSIGN dBiLc 754
+INSERT dvxu0x number
+INSERT v string
+u b_RV
+INSERT tmj string
+PRINT
+LOOKUP djGu
+INSERT qHcG string
+RPRINT
+END
+INSERT gVvr string
+INSERT fymVY number

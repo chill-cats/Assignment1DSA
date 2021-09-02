@@ -1,0 +1,24 @@
+INSERT v string
+INSERT vjk number
+PRINT
+g ksSL
+INSERT eE6 number
+INSERT tDDe string
+INSERT h51 number
+mX bUw
+INSERT k string
+INSERT jiV string
+INSERT sZWx number
+INSERT moR number
+INSERT bgEFP1 string
+ASSIGN moR 623
+INSERT d6J number
+INSERT lRDel string
+INSERT aoohe string
+LOOKUP vjk
+INSERT nn string
+INSERT tq number
+LOOKUP h51
+RPRINT
+INSERT g1C number
+eLbkS6 x

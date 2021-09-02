@@ -1,0 +1,10 @@
+INSERT m string
+INSERT hzb number
+END
+BEGIN
+INSERT wubZJ string
+PRINT
+LOOKUP hzb
+BEGIN
+LOOKUP wubZJ
+INSERT oqTER number

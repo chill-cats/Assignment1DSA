@@ -1,0 +1,28 @@
+INSERT j2 string
+ASSIGN j2 520
+LOOKUP j2
+RPRINT
+ASSIGN j2 j2
+ASSIGN j2 123
+INSERT i string
+INSERT cieZIh number
+INSERT mUi number
+INSERT z2PVz_ string
+END
+ASSIGN z2PVz_ '5yA'
+ASSIGN mUi 'cQ'
+INSERT n string
+RPRINT
+RPRINT
+INSERT oz number
+INSERT vN9US number
+ASSIGN vN9US 'D U'
+INSERT d number
+INSERT r string
+INSERT l string
+END
+INSERT mZn string
+INSERT pDlTe number
+INSERT cWmDpU string
+PRINT
+INSERT h string

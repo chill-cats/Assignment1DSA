@@ -1,0 +1,18 @@
+RPRINT
+INSERT g string
+INSERT iNNw number
+INSERT a6sEy string
+ASSIGN iNNw 662
+INSERT a string
+INSERT sW5 number
+INSERT t number
+INSERT c number
+INSERT fnJM86 number
+INSERT p number
+INSERT vVD1ye number
+INSERT r number
+INSERT wB number
+INSERT yz number
+END
+INSERT e6T3 string
+RPRINT

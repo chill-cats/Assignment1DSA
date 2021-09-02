@@ -1,0 +1,16 @@
+INSERT s_W5 string
+INSERT mN string
+INSERT n number
+ASSIGN s_W5 'HR'
+INSERT i5k string
+INSERT wEc string
+ASSIGN s_W5 '6'
+INSERT wVNR string
+INSERT f0DDYX number
+INSERT gbGIR string
+INSERT nv7dk string
+uO vR9
+BEGIN
+BEGIN
+END
+END

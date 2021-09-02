@@ -1,0 +1,15 @@
+RPRINT
+INSERT q7Hor7 number
+INSERT xS string
+RPRINT
+INSERT e9b string
+LOOKUP xS
+RPRINT
+INSERT gd number
+INSERT mF6lxR number
+INSERT lyWMaW number
+ASSIGN q7Hor7 '2 vpt'
+BEGIN
+INSERT bvKxe string
+INSERT cgb number
+INSERT hq string

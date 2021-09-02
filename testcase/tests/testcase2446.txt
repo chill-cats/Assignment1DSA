@@ -1,0 +1,25 @@
+INSERT u string
+INSERT o3tCm string
+INSERT ry string
+ASSIGN u 'UCZrX'
+RPRINT
+ASSIGN u '6I'
+qSH mhHrMM
+LOOKUP ry
+INSERT v3r3 number
+INSERT v number
+INSERT j47I string
+INSERT p number
+RPRINT
+END
+INSERT p6C7s9 string
+RPRINT
+INSERT n number
+INSERT l79bN string
+INSERT x number
+INSERT kJkPlu number
+INSERT a0DLW string
+INSERT r string
+LOOKUP ry
+PRINT
+INSERT gjrJ string

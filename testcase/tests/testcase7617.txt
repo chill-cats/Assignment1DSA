@@ -1,0 +1,8 @@
+yjuo4z j8mY
+INSERT jMg string
+INSERT ii82 number
+PRINT
+END
+BEGIN
+END
+INSERT x36hY number

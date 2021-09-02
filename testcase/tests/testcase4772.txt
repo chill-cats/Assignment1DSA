@@ -1,0 +1,12 @@
+END
+INSERT kCw string
+INSERT mhwzS number
+ASSIGN kCw kCw
+INSERT lzX string
+ASSIGN kCw 169
+INSERT fZ string
+INSERT i3F number
+RPRINT
+INSERT wSzJ7d string
+INSERT aXEm string
+INSERT e3dN number

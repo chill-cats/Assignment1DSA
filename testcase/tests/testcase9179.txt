@@ -1,0 +1,34 @@
+INSERT eUpn8 string
+INSERT nO5qS string
+INSERT f23Y4 number
+INSERT r number
+INSERT uNuv number
+ASSIGN nO5qS uNuv
+INSERT cv number
+PRINT
+PRINT
+INSERT hN number
+INSERT kXJ0 number
+BEGIN
+INSERT xOdQ2 string
+INSERT kfh2K number
+INSERT l number
+INSERT fMOFMF number
+END
+INSERT khm string
+INSERT f number
+INSERT s number
+INSERT dXkE string
+PRINT
+INSERT tX string
+LOOKUP uNuv
+RPRINT
+INSERT ch4 string
+END
+x gEkme
+INSERT x5KJ string
+INSERT wIuxo2 number
+INSERT nkhH string
+BEGIN
+INSERT xKwd_d string
+INSERT jPGku4 number

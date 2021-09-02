@@ -1,0 +1,18 @@
+END
+INSERT i number
+INSERT cMfHID string
+INSERT nbIce number
+BEGIN
+RPRINT
+INSERT z number
+ASSIGN cMfHID 231
+ASSIGN cMfHID 'QoyT2'
+INSERT thGJ4 number
+ASSIGN cMfHID z
+INSERT y string
+END
+INSERT uQ0 string
+INSERT m number
+ASSIGN cMfHID thGJ4
+INSERT f string
+LOOKUP uQ0

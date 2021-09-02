@@ -1,0 +1,13 @@
+INSERT g9 number
+RPRINT
+INSERT h7wHk number
+INSERT wqx number
+INSERT w string
+INSERT w number
+INSERT oew string
+RPRINT
+INSERT lKy number
+INSERT tcN string
+INSERT zcQJ string
+ASSIGN h7wHk 245
+BEGIN

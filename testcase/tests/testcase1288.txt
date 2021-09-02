@@ -1,0 +1,38 @@
+END
+INSERT yLi_ string
+PRINT
+INSERT a number
+PRINT
+INSERT n0Dl9 number
+INSERT dJF number
+INSERT puoRD string
+INSERT qZwZid number
+INSERT vVQM string
+INSERT h0PUPz number
+PRINT
+INSERT mtmAr string
+INSERT m2pFBD string
+INSERT lspP number
+INSERT s number
+BEGIN
+INSERT gssjm number
+INSERT o16PK number
+RPRINT
+BEGIN
+INSERT dkuDWl string
+INSERT aKP number
+INSERT m0dOq number
+RPRINT
+INSERT wZ string
+LOOKUP qZwZid
+INSERT yE string
+RPRINT
+LOOKUP aKP
+ASSIGN vVQM 'dGqPb'
+yRHry iEblg
+PRINT
+INSERT tA string
+INSERT iQNnp string
+INSERT h number
+INSERT w number
+INSERT kEU string

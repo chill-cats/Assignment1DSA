@@ -1,0 +1,31 @@
+INSERT r number
+INSERT rb6XVU number
+INSERT r8DT number
+END
+INSERT o string
+j9 nL6P0
+INSERT xH string
+INSERT l string
+INSERT rBpH_ number
+BEGIN
+INSERT d number
+INSERT f3qF string
+INSERT w number
+INSERT gO number
+BEGIN
+INSERT bDzEW string
+INSERT oyZH2M string
+ASSIGN d 'NjZBN'
+PRINT
+INSERT n3 number
+INSERT u string
+END
+BEGIN
+PRINT
+RPRINT
+INSERT pI8LC string
+ASSIGN d u
+BEGIN
+INSERT l string
+INSERT fD string
+RPRINT

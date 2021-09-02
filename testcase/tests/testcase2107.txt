@@ -1,0 +1,32 @@
+INSERT eBZG number
+INSERT ge string
+INSERT xt number
+ASSIGN xt eBZG
+INSERT yr number
+RPRINT
+ASSIGN ge 233
+INSERT eRF number
+PRINT
+INSERT e7etS string
+INSERT l1 number
+INSERT vI_ number
+END
+INSERT ckF string
+LOOKUP l1
+INSERT c1mK number
+LOOKUP e7etS
+INSERT ndt7y string
+x sb
+END
+INSERT j string
+LOOKUP e7etS
+kU bdp
+INSERT f string
+BEGIN
+PRINT
+INSERT piEx string
+INSERT eJ number
+PRINT
+INSERT mrq number
+BEGIN
+ASSIGN e7etS c1mK

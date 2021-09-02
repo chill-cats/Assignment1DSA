@@ -1,0 +1,31 @@
+INSERT jw5 number
+INSERT c number
+INSERT kQ_V string
+INSERT mdg5L string
+INSERT d string
+INSERT xJHz string
+INSERT aI number
+INSERT g string
+LOOKUP aI
+END
+INSERT v string
+INSERT l number
+END
+INSERT keAN number
+END
+INSERT izk string
+INSERT sk number
+PRINT
+INSERT p9r7MD number
+LOOKUP kQ_V
+ASSIGN nvxsB1 'qGp'
+INSERT vehh string
+INSERT hetJV number
+INSERT ip7V number
+fMvt xjN
+INSERT lAjM number
+INSERT y4P number
+INSERT kkhs number
+END
+BEGIN
+LOOKUP y4P

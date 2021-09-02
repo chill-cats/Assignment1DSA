@@ -1,0 +1,4 @@
+BEGIN
+INSERT shl1Z number
+INSERT c string
+INSERT rB9 string

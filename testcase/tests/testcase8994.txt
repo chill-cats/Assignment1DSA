@@ -1,0 +1,21 @@
+INSERT z string
+INSERT q59h number
+INSERT km4 string
+LOOKUP km4
+END
+INSERT x string
+ASSIGN km4 1045
+zpQ fs
+ASSIGN x q59h
+BEGIN
+INSERT q6 number
+END
+INSERT fVda number
+INSERT rlOw string
+INSERT vPw string
+INSERT siSp number
+INSERT a string
+INSERT nP3QK string
+RPRINT
+INSERT kZm2Qy number
+INSERT p string

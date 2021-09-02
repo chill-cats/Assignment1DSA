@@ -1,0 +1,40 @@
+LOOKUP bWidc
+RPRINT
+INSERT efv number
+INSERT rMrA8 number
+INSERT gGQ string
+ASSIGN gGQ 'PB'
+b t89Q
+r l
+INSERT lHPSmz string
+INSERT f07hYI number
+LOOKUP gGQ
+INSERT y number
+INSERT woeatH string
+RPRINT
+END
+INSERT ko_4CF string
+INSERT s number
+INSERT m1Wya number
+INSERT tB4kIU number
+INSERT cCY string
+LOOKUP m1Wya
+INSERT seK string
+INSERT w string
+INSERT lve number
+INSERT z number
+RPRINT
+INSERT e string
+LOOKUP ko_4CF
+RPRINT
+INSERT m number
+lqwx b
+INSERT s number
+LOOKUP rMrA8
+INSERT m number
+INSERT oh number
+ASSIGN oh 618
+INSERT x9xo0z string
+mU v4
+LOOKUP m
+INSERT uIaI5 string

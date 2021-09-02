@@ -1,0 +1,33 @@
+ASSIGN b6 '1'
+INSERT zfX number
+ASSIGN zfX 290
+INSERT y3tTV5 string
+PRINT
+INSERT n number
+PRINT
+INSERT lmJd number
+INSERT aQnVwL number
+INSERT u number
+INSERT pCTv7 number
+INSERT rUNg6q string
+INSERT nwD string
+INSERT pT90U8 string
+INSERT qhvF number
+BEGIN
+INSERT mo7y5 string
+ASSIGN rUNg6q u
+INSERT d10Sr number
+BEGIN
+BEGIN
+LOOKUP d10Sr
+INSERT vE string
+INSERT mOA number
+swbo6v c
+ASSIGN aQnVwL '8A'
+LOOKUP n3
+INSERT xnbNK number
+INSERT d9 string
+INSERT vpPhJ number
+INSERT m1F4 string
+INSERT u0GtXI string
+ASSIGN vE vpPhJ

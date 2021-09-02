@@ -1,0 +1,26 @@
+hYUXVj bT
+INSERT gBG string
+INSERT rb8X number
+INSERT db string
+INSERT zOQJ6 string
+INSERT e4F number
+INSERT bxBvj number
+INSERT vzVz_ string
+INSERT u string
+ASSIGN db 'zQp6'
+INSERT tv7 number
+ASSIGN tv7 db
+LOOKUP tv7
+PRINT
+LOOKUP e4F
+INSERT nW number
+INSERT fY_zGN string
+INSERT yeBZ string
+LOOKUP db
+BEGIN
+INSERT mY_ number
+INSERT y number
+RPRINT
+PRINT
+hN h
+PRINT

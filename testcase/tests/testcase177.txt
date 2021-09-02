@@ -1,0 +1,11 @@
+BEGIN
+INSERT lMB string
+INSERT l string
+PRINT
+RPRINT
+LOOKUP lMB
+END
+q x5
+INSERT gvHhb4 string
+INSERT lEJ number
+INSERT fs string

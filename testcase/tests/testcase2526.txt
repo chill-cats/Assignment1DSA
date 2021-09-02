@@ -1,0 +1,19 @@
+END
+PRINT
+BEGIN
+INSERT t number
+RPRINT
+INSERT we1 string
+BEGIN
+LOOKUP we1
+INSERT sTBjb number
+END
+LOOKUP t
+BEGIN
+LOOKUP t
+INSERT u number
+INSERT xFg6A string
+BEGIN
+INSERT c1kT number
+INSERT uDS string
+END

@@ -1,0 +1,39 @@
+INSERT hZuD83 number
+RPRINT
+INSERT l string
+INSERT nczy0 number
+ASSIGN l 1127
+INSERT ocY string
+INSERT v6mRU9 string
+INSERT e string
+PRINT
+INSERT io_Y number
+INSERT yr string
+INSERT naH8 string
+INSERT jVSQsV number
+INSERT n_V number
+INSERT rgvKhC number
+INSERT yjwR string
+INSERT o number
+INSERT ys string
+INSERT uMZd1 number
+INSERT pR8 string
+INSERT tHN7hZ number
+INSERT ldP8S number
+INSERT yuPT string
+INSERT v number
+INSERT h number
+INSERT lf string
+BEGIN
+INSERT vOG number
+INSERT x2 number
+RPRINT
+INSERT tfxtP string
+INSERT p string
+INSERT vN number
+INSERT fTCh string
+PRINT
+PRINT
+INSERT ipW number
+RPRINT
+BEGIN

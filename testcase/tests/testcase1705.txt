@@ -1,0 +1,32 @@
+PRINT
+INSERT oPe43 number
+INSERT nNF6 string
+INSERT mw4jL number
+INSERT uo3IE number
+INSERT f string
+INSERT anMW number
+END
+LOOKUP uo3IE
+BEGIN
+INSERT j number
+INSERT vVcDh string
+INSERT heq string
+INSERT ivV4 number
+END
+INSERT et number
+ASSIGN heq 'cAk'
+INSERT p string
+INSERT c3cU6 string
+INSERT eEzFz9 string
+INSERT whDqI string
+INSERT fIE string
+INSERT rtqUW string
+INSERT r number
+INSERT iKPFRB string
+RPRINT
+INSERT dri5U string
+PRINT
+INSERT vmt0xo number
+END
+BEGIN
+p4V_ emI0Pj

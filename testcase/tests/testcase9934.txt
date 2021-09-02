@@ -1,0 +1,13 @@
+INSERT nbYQ5X string
+INSERT iESe number
+INSERT nv38Un number
+INSERT s number
+INSERT n number
+INSERT b string
+LOOKUP nbYQ5X
+INSERT b_l string
+INSERT jduT string
+PRINT
+INSERT r0D number
+INSERT ym string
+INSERT u number

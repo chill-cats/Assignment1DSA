@@ -1,0 +1,9 @@
+PRINT
+INSERT xTGV number
+PRINT
+PRINT
+INSERT b number
+RPRINT
+END
+INSERT icQ string
+INSERT q5z number

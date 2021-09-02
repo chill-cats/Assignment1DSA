@@ -1,0 +1,15 @@
+INSERT in number
+INSERT sFRlP_ number
+INSERT iilS string
+INSERT y2s number
+INSERT pO7P string
+INSERT yt string
+INSERT rdgg string
+INSERT rBzjr string
+INSERT xnPR string
+INSERT t string
+INSERT bdyM number
+INSERT ljwx number
+INSERT db2h string
+BEGIN
+RPRINT

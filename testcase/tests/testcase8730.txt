@@ -1,0 +1,30 @@
+BEGIN
+RPRINT
+INSERT l number
+ASSIGN l 326
+INSERT lUz string
+INSERT emo string
+INSERT cHB number
+INSERT ox string
+INSERT nc string
+INSERT p7q number
+INSERT eWwQ string
+INSERT dsO string
+ASSIGN ox 'qDgU'
+INSERT d string
+INSERT mq number
+INSERT aEp3T string
+RPRINT
+INSERT qv6M1C string
+LOOKUP emo
+BEGIN
+INSERT b number
+cxcwE3 j
+INSERT yx8c number
+INSERT btb string
+INSERT d2knVu string
+INSERT h9 string
+BEGIN
+jNt1g meo4
+INSERT s82ArW string
+BEGIN

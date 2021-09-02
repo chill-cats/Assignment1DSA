@@ -1,0 +1,36 @@
+INSERT wh string
+PRINT
+END
+LOOKUP wh
+INSERT fT number
+INSERT kXI3X string
+INSERT mmjpY number
+INSERT q6 string
+INSERT jkVh number
+END
+INSERT eYC number
+INSERT v number
+INSERT kRWYz number
+INSERT w string
+PRINT
+INSERT iYGRD number
+INSERT pd_A string
+INSERT egGVS7 number
+INSERT i string
+PRINT
+INSERT yt2 string
+INSERT p number
+INSERT bu number
+INSERT kQGs34 number
+INSERT x string
+LOOKUP yt2
+INSERT vhbP number
+BEGIN
+INSERT xo number
+INSERT sHauUp string
+INSERT rXdMX string
+LOOKUP p
+INSERT oK string
+INSERT g6w8GS number
+INSERT cTuSw string
+INSERT kt string

@@ -1,0 +1,35 @@
+RPRINT
+INSERT d01C string
+INSERT zE number
+INSERT jry7y string
+INSERT p8Gp number
+INSERT jK string
+INSERT a6fo8 string
+INSERT hmef string
+END
+INSERT faBYfe number
+PRINT
+INSERT v2k number
+BEGIN
+INSERT ikjl number
+RPRINT
+ASSIGN hmef 'u'
+INSERT oi string
+INSERT gHzk string
+INSERT kSaHOD number
+INSERT ohyHz number
+RPRINT
+END
+INSERT h string
+INSERT rLklm string
+INSERT f number
+RPRINT
+INSERT lVu string
+RPRINT
+INSERT u string
+RPRINT
+INSERT n3 string
+RPRINT
+END
+INSERT a8vC7i number
+INSERT v string

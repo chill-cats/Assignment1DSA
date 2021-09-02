@@ -1,0 +1,7 @@
+INSERT sKX string
+RPRINT
+INSERT ufggy number
+INSERT doA9I number
+INSERT dL string
+ASSIGN sKX dL
+INSERT xsWp number

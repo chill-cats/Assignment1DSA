@@ -1,0 +1,28 @@
+INSERT n_ number
+INSERT lrsMKy number
+LOOKUP n_
+INSERT csG_d4 string
+INSERT foY string
+INSERT x2A string
+INSERT sg string
+INSERT pHKnHT number
+INSERT fmjwPW number
+LOOKUP foY
+INSERT aXY string
+END
+PRINT
+INSERT zkt5D string
+INSERT c69koN number
+LOOKUP aXY
+END
+RPRINT
+INSERT gK string
+INSERT utT5s_ number
+END
+RPRINT
+INSERT rgJ string
+INSERT k6 string
+f9uL3D aK
+INSERT v4XrLY string
+LOOKUP pHKnHT
+INSERT eLt string

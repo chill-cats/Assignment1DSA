@@ -1,0 +1,3 @@
+END
+INSERT fx string
+INSERT b number

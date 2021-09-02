@@ -1,0 +1,36 @@
+INSERT b02X1f number
+INSERT mh number
+BEGIN
+END
+INSERT mxi string
+zo0zU srFc
+INSERT q number
+INSERT ysEU string
+ASSIGN q 647
+INSERT u1i2a number
+PRINT
+PRINT
+INSERT p number
+INSERT gQbct string
+BEGIN
+LOOKUP b
+INSERT aD string
+ASSIGN q b02X1f
+INSERT pOuw string
+INSERT uM string
+INSERT u string
+INSERT ww4Y number
+ASSIGN uM u
+PRINT
+RPRINT
+INSERT dAwNh number
+INSERT vQ number
+INSERT vy number
+INSERT w4Rd number
+INSERT fK string
+LOOKUP ysEU
+INSERT f string
+INSERT nk string
+ASSIGN vQ '0G0s'
+BEGIN
+INSERT aX string

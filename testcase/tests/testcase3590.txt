@@ -1,0 +1,11 @@
+LOOKUP kR
+BEGIN
+LOOKUP x
+INSERT v8 number
+END
+INSERT b number
+INSERT n string
+INSERT frqHs string
+BEGIN
+qlQO p9hks
+INSERT v0KOY number

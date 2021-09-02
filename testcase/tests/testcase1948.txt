@@ -1,0 +1,30 @@
+naWhNb hrRucM
+INSERT y number
+INSERT gs_ number
+INSERT uqh string
+INSERT j8f number
+INSERT lJhjAW number
+RPRINT
+RPRINT
+BEGIN
+BEGIN
+RPRINT
+INSERT mV number
+INSERT t29Ae string
+INSERT y3Z string
+INSERT cumky number
+INSERT rUHh string
+INSERT ocGhY number
+LOOKUP mV
+INSERT laD number
+ASSIGN j8f 'IQ0'
+INSERT q number
+INSERT dTM number
+INSERT q number
+ASSIGN t29Ae 'o'
+END
+INSERT pPU number
+BEGIN
+INSERT g3vN string
+END
+ASSIGN lJhjAW lJhjAW

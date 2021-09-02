@@ -1,0 +1,3 @@
+INSERT weo_ string
+LOOKUP weo_
+z fN

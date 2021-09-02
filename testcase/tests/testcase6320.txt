@@ -1,0 +1,35 @@
+INSERT oHg string
+RPRINT
+END
+INSERT olnt number
+INSERT urfHYo string
+INSERT mw7ge number
+ASSIGN urfHYo 'ioldF'
+INSERT p8 string
+PRINT
+END
+INSERT ybsLy number
+INSERT hKr9O number
+INSERT lSVr string
+INSERT r4aE number
+INSERT zgOiy string
+INSERT cP68 string
+INSERT vB string
+INSERT bix number
+INSERT zha number
+INSERT kOk string
+INSERT l_ string
+INSERT vCw_ number
+INSERT m number
+INSERT s number
+LOOKUP lSVr
+INSERT yGVbr6 number
+INSERT z string
+INSERT p string
+LOOKUP l_
+INSERT xNmB string
+INSERT kP7 string
+INSERT g number
+dMgI zft7t1
+PRINT
+END

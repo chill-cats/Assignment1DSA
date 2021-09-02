@@ -1,0 +1,18 @@
+PRINT
+ASSIGN bCYS '2Zaja'
+INSERT u2 number
+INSERT nb number
+INSERT rBPY string
+INSERT fSrYK number
+END
+INSERT xynB number
+INSERT s2xYR number
+PRINT
+PRINT
+LOOKUP fSrYK
+INSERT cwFcK6 string
+PRINT
+INSERT jf2EP string
+INSERT q1O0V2 string
+INSERT bYFGr string
+END

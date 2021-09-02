@@ -1,0 +1,30 @@
+PRINT
+ga34 lTjpx0
+INSERT vA number
+dirnU zl122
+INSERT rIT string
+INSERT f5CRrw number
+INSERT d number
+INSERT p number
+ASSIGN d 'cq1ds'
+END
+INSERT u9Rn1 string
+PRINT
+LOOKUP u9Rn1
+PRINT
+ASSIGN rIT vA
+INSERT sPD2 number
+PRINT
+INSERT yFWgKy string
+INSERT d0g number
+INSERT ek3 string
+INSERT tdHpr string
+LOOKUP sPD2
+ASSIGN u9Rn1 'uu'
+BEGIN
+INSERT s_8EQ string
+RPRINT
+INSERT iAg number
+INSERT sdW number
+INSERT yC string
+INSERT y number

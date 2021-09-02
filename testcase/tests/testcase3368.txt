@@ -1,0 +1,27 @@
+PRINT
+INSERT axk7 number
+INSERT ye5u5k string
+INSERT zehh string
+INSERT in number
+INSERT oEfX number
+BEGIN
+INSERT q number
+INSERT z6T number
+LOOKUP zehh
+PRINT
+INSERT k string
+ASSIGN k q
+INSERT nr string
+INSERT cQ9NYr number
+INSERT ik3sLR string
+END
+ASSIGN zehh 'k'
+INSERT wzngV string
+INSERT cFBx number
+END
+INSERT g string
+RPRINT
+INSERT zU string
+END
+INSERT sMN5m number
+INSERT uVk2 string

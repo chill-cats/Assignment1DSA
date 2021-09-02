@@ -1,0 +1,26 @@
+ASSIGN h 62
+PRINT
+LOOKUP tbY4
+PRINT
+INSERT q number
+INSERT nH number
+INSERT teusCC number
+PRINT
+END
+PRINT
+INSERT tMor0 string
+PRINT
+LOOKUP tMor0
+LOOKUP tMor0
+INSERT xq8rT number
+RPRINT
+INSERT a string
+INSERT i number
+PRINT
+INSERT tLu string
+INSERT mOU number
+INSERT dYLHq string
+INSERT exhGAg number
+INSERT zBV5l string
+INSERT aR number
+INSERT jAvh number

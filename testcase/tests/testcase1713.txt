@@ -1,0 +1,25 @@
+END
+INSERT dT string
+INSERT k number
+INSERT xRd string
+PRINT
+INSERT u7Ifc number
+INSERT bZFN6 string
+INSERT n number
+INSERT jx string
+BEGIN
+INSERT mQQ number
+ixgNN m
+BEGIN
+ASSIGN k 0
+LOOKUP k
+PRINT
+INSERT ruS6 number
+INSERT v4M number
+BEGIN
+INSERT fQ string
+INSERT u96kCE number
+LOOKUP jx
+INSERT uvbYR number
+INSERT ifN string
+BEGIN

@@ -1,0 +1,6 @@
+BEGIN
+INSERT rZ13e string
+END
+INSERT q number
+PRINT
+INSERT k_wjlq number

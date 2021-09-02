@@ -1,0 +1,39 @@
+LOOKUP t2
+INSERT mP string
+ASSIGN mP 'zfsNy'
+INSERT n number
+END
+INSERT wf2ie string
+INSERT fzK string
+END
+INSERT lF081F number
+BEGIN
+LOOKUP mP
+INSERT o number
+INSERT wmj string
+INSERT tKl3C string
+INSERT neA string
+INSERT woq6P number
+INSERT q4b1 string
+INSERT n number
+BEGIN
+ASSIGN wf2ie 551
+INSERT w6c3 number
+RPRINT
+INSERT k4mMb number
+LOOKUP w6c3
+BEGIN
+INSERT gfm8 number
+INSERT zJoD7Q number
+INSERT sQ3g string
+INSERT fF string
+ASSIGN fF fF
+LOOKUP sQ3g
+INSERT b0 string
+INSERT s number
+INSERT b10bC number
+INSERT ir string
+END
+zTR_ zdP9bw
+END
+INSERT c string

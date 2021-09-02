@@ -1,0 +1,7 @@
+INSERT b number
+RPRINT
+INSERT ws string
+INSERT d6jHS number
+PRINT
+INSERT xY string
+PRINT

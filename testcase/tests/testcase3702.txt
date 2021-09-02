@@ -1,0 +1,26 @@
+INSERT t string
+INSERT lf string
+INSERT e number
+LOOKUP t
+LOOKUP lf
+PRINT
+LOOKUP l1
+INSERT kmlvBI string
+INSERT yE3ST number
+END
+INSERT dMZY8 string
+INSERT gdv6c number
+INSERT zf string
+LOOKUP gdv6c
+ASSIGN e t
+INSERT ve string
+INSERT dx7fh number
+PRINT
+INSERT k0S string
+INSERT iX3ejk string
+ASSIGN zf lf
+LOOKUP yE3ST
+INSERT woI46 number
+END
+INSERT yCpq_X number
+PRINT

@@ -1,0 +1,4 @@
+ASSIGN vnkd 904
+RPRINT
+INSERT ssbL string
+md pGiQM

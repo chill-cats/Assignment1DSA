@@ -1,0 +1,4 @@
+INSERT yBO9N number
+BEGIN
+ASSIGN yBO9N 1164
+INSERT wFusL string

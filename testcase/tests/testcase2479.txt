@@ -1,0 +1,24 @@
+ASSIGN rfFCw 'AYO1'
+INSERT ryPh2 string
+INSERT m number
+INSERT t number
+BEGIN
+INSERT m string
+RPRINT
+INSERT ekMu string
+INSERT f3Eja number
+INSERT f2ls number
+LOOKUP f2ls
+END
+END
+INSERT vUcLdY number
+ASSIGN vUcLdY 'g1'
+INSERT kI string
+INSERT gSZs string
+INSERT rd3E1 string
+INSERT pBYL string
+INSERT mbXqwq number
+INSERT ki string
+INSERT a string
+INSERT tHWtmW string
+BEGIN

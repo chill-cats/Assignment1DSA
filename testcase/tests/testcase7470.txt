@@ -1,0 +1,12 @@
+RPRINT
+INSERT fC number
+ASSIGN fC fC
+INSERT qKz8 string
+PRINT
+INSERT ruk number
+INSERT aNHk string
+INSERT yF3e string
+INSERT aM2 string
+INSERT xoQ number
+ASSIGN xoQ 'lxulK'
+END

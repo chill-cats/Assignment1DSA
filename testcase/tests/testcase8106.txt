@@ -1,0 +1,37 @@
+INSERT nTi number
+INSERT i string
+INSERT dW9S number
+INSERT mSDAr string
+INSERT qhmEm number
+LOOKUP dW9S
+LOOKUP qhmEm
+INSERT cdOtOy number
+INSERT f6Yxh string
+RPRINT
+PRINT
+INSERT xEX1ds string
+INSERT ysnfaT number
+aqWTq on
+INSERT gm5n1 string
+INSERT bK string
+END
+LOOKUP bK
+sb lsjq8l
+bl ehrno
+RPRINT
+INSERT gh number
+INSERT nEkre string
+INSERT k2 number
+LOOKUP i
+INSERT bO string
+RPRINT
+RPRINT
+INSERT kGyO string
+LOOKUP mSDAr
+INSERT zbJ string
+INSERT sVDZ5 number
+RPRINT
+INSERT qjH string
+PRINT
+INSERT pWc9FV string
+END

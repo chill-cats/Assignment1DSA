@@ -1,0 +1,40 @@
+INSERT kC8XYa string
+INSERT u string
+e p76F7
+INSERT t64QF string
+INSERT hef string
+k3VP97 xNf
+END
+INSERT yUvVO string
+INSERT q40s8y number
+END
+INSERT hbDs string
+ASSIGN t64QF 'Hctk'
+INSERT yvf string
+INSERT e string
+qoHJG rn7W0r
+INSERT ogh8I number
+LOOKUP u
+INSERT sVc number
+INSERT ctz number
+ASSIGN ctz ogh8I
+ASSIGN hbDs yvf
+INSERT mfiU string
+INSERT zcCWw number
+INSERT kc7Cy number
+INSERT gWLqTJ number
+RPRINT
+LOOKUP q40s8y
+LOOKUP hbDs
+BEGIN
+LOOKUP kc7Cy
+INSERT tf0t_ number
+INSERT drLns string
+PRINT
+lB4Ur hPKK
+INSERT o2O number
+ASSIGN tf0t_ '3 '
+INSERT eswvVO string
+LOOKUP o2O
+ASSIGN gWLqTJ 1188
+INSERT mfrC string

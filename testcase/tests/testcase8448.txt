@@ -1,0 +1,25 @@
+INSERT ed string
+RPRINT
+INSERT mVqcJ number
+INSERT qp string
+END
+INSERT mur number
+INSERT m1au number
+LOOKUP ed
+END
+INSERT y1TEj string
+INSERT dFK string
+LOOKUP qp
+INSERT v string
+INSERT i string
+ASSIGN i y1TEj
+INSERT pfQu8 string
+INSERT y string
+LOOKUP pfQu8
+INSERT r string
+LOOKUP r
+ASSIGN mVqcJ 522
+INSERT gI string
+INSERT zj number
+INSERT ks5 string
+INSERT t string

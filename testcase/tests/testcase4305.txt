@@ -1,0 +1,23 @@
+INSERT tVb75 string
+PRINT
+INSERT zl_Ua3 number
+INSERT qC number
+INSERT pJ2M number
+INSERT o number
+ASSIGN zl_Ua3 'A'
+PRINT
+BEGIN
+INSERT l2HHU3 string
+INSERT xA string
+INSERT kWcbSE string
+INSERT y number
+INSERT d string
+INSERT iBfrfj number
+END
+ASSIGN l2HHU3 xA
+BEGIN
+INSERT jIDKGJ string
+RPRINT
+INSERT aTo string
+iza yhP
+ASSIGN o 640

@@ -1,0 +1,20 @@
+INSERT r number
+INSERT i_Hr number
+INSERT ijTmHA string
+LOOKUP ijTmHA
+BEGIN
+INSERT qmoWt string
+LOOKUP i_Hr
+INSERT mJP string
+INSERT fEjR4v string
+INSERT vAw number
+INSERT q string
+END
+END
+INSERT lhmPW number
+INSERT b9 number
+INSERT jpx string
+LOOKUP ijTmHA
+LOOKUP qmoWt
+INSERT iB9 number
+INSERT uY string

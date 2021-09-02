@@ -1,0 +1,13 @@
+INSERT zr number
+INSERT sOFT0 string
+INSERT dOePpg number
+END
+INSERT k number
+INSERT v2Vk1 string
+RPRINT
+INSERT eq string
+INSERT ch7a_5 number
+ASSIGN dOePpg ch7a_5
+INSERT y1JFgh number
+END
+INSERT qEQ string

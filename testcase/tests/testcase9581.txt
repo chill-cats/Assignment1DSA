@@ -1,0 +1,11 @@
+INSERT j3VO string
+RPRINT
+INSERT qv number
+INSERT fh string
+INSERT qgC string
+INSERT r_1 string
+INSERT uniMO string
+RPRINT
+l q1MT6Z
+INSERT g3B string
+LOOKUP fh

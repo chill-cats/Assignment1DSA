@@ -1,0 +1,32 @@
+INSERT l number
+ASSIGN v l
+INSERT qr3DN number
+INSERT zV5zin string
+END
+INSERT cQ0WtT number
+LOOKUP crwXA7
+LOOKUP usx
+INSERT rKwcCK number
+INSERT fTRRA number
+INSERT gpgxNN number
+ASSIGN l 818
+LOOKUP gpgxNN
+ASSIGN zV5zin 399
+INSERT a7 number
+INSERT vm string
+INSERT kDb_O number
+END
+INSERT nH string
+INSERT z76V string
+END
+BEGIN
+INSERT t number
+BEGIN
+ASSIGN vm l
+INSERT j6tYYF string
+INSERT o9zj number
+hULIm2 b0X
+INSERT f8OBW number
+PRINT
+INSERT t number
+INSERT v5WBNa number

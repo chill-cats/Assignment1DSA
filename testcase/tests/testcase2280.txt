@@ -1,0 +1,39 @@
+INSERT hZkfwK string
+INSERT pVzm number
+INSERT xhE string
+LOOKUP pVzm
+INSERT m8IJUU string
+q xbiT
+INSERT k string
+PRINT
+END
+LOOKUP pVzm
+INSERT t0LzOk number
+INSERT un number
+END
+INSERT kQgz5u number
+END
+BEGIN
+INSERT i number
+LOOKUP m8IJUU
+RPRINT
+INSERT pwfl_ number
+END
+INSERT c number
+RPRINT
+INSERT e number
+INSERT xEk number
+INSERT gQDXY6 number
+LOOKUP hZkfwK
+ASSIGN k 555
+INSERT q string
+INSERT j9v number
+INSERT ik string
+INSERT lED string
+INSERT fGjD number
+LOOKUP pVzm
+INSERT py number
+RPRINT
+PRINT
+RPRINT
+INSERT eM number

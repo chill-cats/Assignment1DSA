@@ -1,0 +1,37 @@
+RPRINT
+PRINT
+INSERT l5W number
+ASSIGN l5W l5W
+LOOKUP l5W
+xy7XEp nP6dO
+INSERT tk5dO string
+ASSIGN tk5dO '1o'
+INSERT sYrWT number
+ASSIGN tk5dO sYrWT
+INSERT fe string
+u1 c
+f v
+INSERT k5c7F string
+INSERT g0m2I string
+BEGIN
+INSERT oe string
+INSERT qQ number
+ASSIGN g0m2I 'IZsFE'
+ASSIGN l5W 1019
+dvkJDd apMIy
+INSERT stl number
+END
+PRINT
+INSERT gns number
+INSERT i string
+INSERT kQPAp2 string
+PRINT
+END
+INSERT nO number
+LOOKUP kQPAp2
+INSERT hnx number
+INSERT ybqd string
+INSERT boR string
+INSERT nS string
+ASSIGN i 268
+INSERT t number

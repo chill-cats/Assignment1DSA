@@ -1,0 +1,33 @@
+ASSIGN bES4OL 696
+INSERT vk2 string
+INSERT q number
+LOOKUP vk2
+PRINT
+INSERT eoAu8 string
+INSERT g number
+INSERT jA string
+INSERT xfZtbF string
+INSERT rpVVY number
+INSERT z string
+BEGIN
+RPRINT
+INSERT t string
+rwDpw fIJwX
+INSERT f string
+INSERT z_WX9k string
+f zZ5FS
+INSERT t string
+INSERT svxG string
+INSERT llG string
+INSERT b string
+LOOKUP xfZtbF
+INSERT dAqr number
+END
+INSERT a string
+INSERT gpLEOo number
+PRINT
+INSERT kq string
+INSERT xzYS0b number
+ASSIGN eoAu8 'wWp'
+INSERT y8C number
+RPRINT

@@ -1,0 +1,11 @@
+INSERT t0 string
+INSERT rP string
+INSERT jLigc string
+INSERT cgNo number
+INSERT vY7N number
+INSERT rXc number
+INSERT b_ORq string
+INSERT d number
+BEGIN
+INSERT yUD string
+INSERT zNU number

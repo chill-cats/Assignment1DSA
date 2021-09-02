@@ -1,0 +1,25 @@
+ASSIGN iaK 'U'
+INSERT h string
+INSERT iga number
+END
+INSERT f string
+END
+INSERT ou number
+INSERT lw string
+INSERT pm string
+INSERT at string
+END
+INSERT sNy string
+INSERT fHl number
+INSERT pSk6 number
+PRINT
+LOOKUP at
+INSERT b string
+INSERT eE string
+INSERT gCZ number
+RPRINT
+zV noOg6d
+INSERT wZyyt8 number
+INSERT k5p string
+INSERT oZ string
+INSERT wit string

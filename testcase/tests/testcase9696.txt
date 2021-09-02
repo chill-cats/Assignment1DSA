@@ -1,0 +1,31 @@
+PRINT
+INSERT vUB string
+INSERT zOiQkj number
+PRINT
+RPRINT
+PRINT
+INSERT oU1hQ7 number
+INSERT pw string
+INSERT bhJC string
+ASSIGN oU1hQ7 'YeE'
+RPRINT
+ASSIGN bhJC 285
+END
+RPRINT
+INSERT tGPZ string
+b1HyVX i
+RPRINT
+BEGIN
+INSERT iYXaQ string
+RPRINT
+INSERT b number
+INSERT khy string
+INSERT l string
+INSERT xD9S string
+INSERT v7Z number
+INSERT tv number
+INSERT gs81pU number
+INSERT x number
+INSERT zL9pg number
+INSERT x string
+INSERT fnE number

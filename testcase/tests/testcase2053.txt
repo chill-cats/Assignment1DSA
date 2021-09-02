@@ -1,0 +1,30 @@
+INSERT h string
+LOOKUP h
+INSERT gQD string
+INSERT sP string
+INSERT fL5ZKw number
+INSERT pk string
+INSERT m7 string
+INSERT bV number
+INSERT ctP3ib number
+INSERT jb string
+INSERT oZcD string
+INSERT nDA number
+INSERT th3 string
+PRINT
+BEGIN
+INSERT zqiW number
+r6 hU3
+INSERT pKgRY number
+END
+BEGIN
+ASSIGN bV 'hBum1'
+END
+INSERT pLSO string
+INSERT h number
+INSERT cQZ number
+LOOKUP nDA
+RPRINT
+END
+INSERT pzG_ number
+INSERT rPoI number

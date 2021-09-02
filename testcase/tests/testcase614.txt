@@ -1,0 +1,14 @@
+INSERT e number
+BEGIN
+INSERT m number
+END
+INSERT dbMk5 string
+INSERT k number
+INSERT aD96b9 string
+INSERT zt string
+INSERT wo4g number
+ASSIGN e 871
+ASSIGN k 190
+INSERT c number
+INSERT aRfT7 number
+INSERT dDTfO3 string

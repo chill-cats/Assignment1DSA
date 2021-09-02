@@ -1,0 +1,22 @@
+RPRINT
+END
+INSERT pvAQfj string
+INSERT o4CsP number
+INSERT i3x8A number
+RPRINT
+LOOKUP pvAQfj
+INSERT bvR number
+LOOKUP i3x8A
+INSERT rTvz9h string
+r2 bPiqKs
+INSERT lMrsfY string
+INSERT cYcJ string
+INSERT rRU761 number
+PRINT
+INSERT lPZA string
+INSERT uf string
+ASSIGN lPZA 266
+INSERT mHu6 string
+ASSIGN cYcJ i3x8A
+RPRINT
+END

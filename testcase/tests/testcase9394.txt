@@ -1,0 +1,18 @@
+INSERT v string
+INSERT lMj4 number
+INSERT gsr number
+INSERT sLCy string
+k f
+INSERT u number
+INSERT qcv string
+END
+INSERT kvTF3 number
+INSERT i number
+ASSIGN kvTF3 91
+BEGIN
+PRINT
+voc x
+INSERT g number
+INSERT bLlF2B string
+INSERT q string
+INSERT o35 number

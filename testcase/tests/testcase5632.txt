@@ -1,0 +1,37 @@
+RPRINT
+ASSIGN vISC 1201
+INSERT f0geHU string
+INSERT i number
+INSERT qhRq2 string
+INSERT n_ number
+RPRINT
+cdLx mOC4
+INSERT y string
+INSERT oSU string
+LOOKUP y
+INSERT we6P string
+INSERT mbmHzd string
+INSERT mH6V string
+LOOKUP qhRq2
+RPRINT
+INSERT vBw string
+PRINT
+INSERT zie string
+INSERT q number
+INSERT vikInS number
+LOOKUP oSU
+BEGIN
+INSERT s string
+INSERT zi number
+INSERT hMdQCv string
+INSERT n number
+INSERT qgKGMX number
+INSERT o number
+g9 j2E
+INSERT kgz string
+INSERT jV8OY string
+INSERT jBnU number
+INSERT qss number
+RPRINT
+INSERT htGUA string
+ASSIGN y 619

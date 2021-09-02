@@ -1,0 +1,21 @@
+INSERT uBPoOL number
+INSERT hVhdZv number
+INSERT g9cT number
+ASSIGN uBPoOL 653
+INSERT e03e number
+PRINT
+INSERT sb5H string
+INSERT i number
+INSERT m string
+INSERT s number
+INSERT bLNR number
+INSERT kL string
+INSERT sL string
+LOOKUP m
+INSERT jw9 string
+INSERT pGg string
+INSERT eOaefD number
+wSCA1 nf
+INSERT wtSN string
+INSERT hT number
+END

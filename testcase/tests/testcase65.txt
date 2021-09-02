@@ -1,0 +1,13 @@
+INSERT da8 number
+INSERT nKR4Q string
+INSERT yT number
+INSERT pfM string
+INSERT t string
+BEGIN
+BEGIN
+kjaK shv
+ASSIGN pfM '7FtSi'
+RPRINT
+RPRINT
+INSERT p number
+END

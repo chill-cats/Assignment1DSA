@@ -1,0 +1,39 @@
+RPRINT
+INSERT roIV7O number
+INSERT wo number
+INSERT cK2 string
+END
+BEGIN
+RPRINT
+INSERT axw number
+INSERT yPW2b string
+END
+LOOKUP roIV7O
+INSERT kPq_Vc number
+END
+mnKpuU vlaE9m
+INSERT yPwFT string
+INSERT qL string
+INSERT x string
+INSERT ozP number
+INSERT yjtKc string
+INSERT kJXIe0 number
+INSERT eUYPNw string
+BEGIN
+INSERT uk number
+ASSIGN ozP wo
+INSERT n0_LV number
+INSERT xb3V string
+INSERT e string
+ASSIGN yPwFT yPW2b
+mM1L4B mdjge6
+INSERT wQ string
+ASSIGN eUYPNw 1180
+INSERT nH number
+INSERT dzXD number
+LOOKUP uk
+INSERT eKwtj number
+INSERT cw string
+sBtL kza
+LOOKUP n0_LV
+INSERT l string

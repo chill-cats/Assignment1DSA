@@ -1,0 +1,16 @@
+PRINT
+INSERT lNkabI number
+BEGIN
+INSERT jP2 string
+INSERT c string
+INSERT e number
+INSERT u6 string
+pLsAFV oz
+RPRINT
+END
+LOOKUP lNkabI
+RPRINT
+INSERT d number
+INSERT kM number
+LOOKUP u6
+INSERT o23 number

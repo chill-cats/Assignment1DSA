@@ -1,0 +1,4 @@
+LOOKUP jCA
+INSERT sbMwa number
+INSERT vt string
+INSERT awSUAF string

@@ -1,0 +1,39 @@
+END
+INSERT vlDL number
+INSERT bY string
+INSERT sWY string
+BEGIN
+ASSIGN sWY 261
+INSERT h2xGU number
+INSERT nBfA string
+INSERT zvElqm number
+END
+INSERT vX string
+RPRINT
+ASSIGN bY 'LQk'
+INSERT zJW9 string
+RPRINT
+INSERT l number
+INSERT w number
+PRINT
+END
+INSERT dl number
+LOOKUP w
+INSERT h7no number
+INSERT kfdtdM number
+BEGIN
+INSERT xT8 string
+INSERT a9gXTA string
+INSERT lzX_mK string
+INSERT xAsst number
+INSERT aYw5 string
+INSERT bzrAK number
+hn w5N
+INSERT wqFHr number
+INSERT jYMLe string
+BEGIN
+INSERT yHZP number
+INSERT cQ number
+INSERT cC4 string
+LOOKUP cC4
+INSERT dWQOGX string

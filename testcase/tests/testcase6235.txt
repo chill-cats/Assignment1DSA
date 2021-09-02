@@ -1,0 +1,27 @@
+INSERT aZ number
+RPRINT
+INSERT not5 string
+INSERT bp9 number
+INSERT t string
+LOOKUP not5
+RPRINT
+ASSIGN not5 bp9
+INSERT vg9 number
+ASSIGN not5 386
+END
+INSERT l string
+END
+INSERT siqqC string
+INSERT u string
+PRINT
+INSERT vkUIw string
+BEGIN
+INSERT pUt string
+RPRINT
+INSERT b string
+INSERT kE number
+ASSIGN pUt 'b'
+INSERT hqS string
+ASSIGN bp9 919
+LOOKUP vg9
+i fTAoh

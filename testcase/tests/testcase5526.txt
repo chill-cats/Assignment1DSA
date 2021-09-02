@@ -1,0 +1,35 @@
+INSERT iYkPc number
+INSERT oee9 string
+INSERT lThVXo string
+INSERT sm string
+PRINT
+ASSIGN lThVXo 397
+INSERT rGSzj string
+LOOKUP rGSzj
+BEGIN
+END
+bO hF0Z
+qxQ0 sa9
+INSERT fv8E string
+BEGIN
+INSERT br8Lv string
+PRINT
+LOOKUP rGSzj
+INSERT r1 number
+INSERT kqGT number
+INSERT dI number
+ASSIGN sm 'wMIZ'
+INSERT r5eeWi number
+LOOKUP oee9
+INSERT f string
+INSERT j4ZAvE string
+INSERT s string
+INSERT p0PmXX string
+PRINT
+END
+LOOKUP lThVXo
+INSERT mPU string
+INSERT ms string
+INSERT lg string
+INSERT edQnA string
+INSERT v number

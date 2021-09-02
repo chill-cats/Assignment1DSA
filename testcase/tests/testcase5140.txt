@@ -1,0 +1,9 @@
+RPRINT
+INSERT eVgMp8 number
+END
+INSERT zaN number
+INSERT k string
+INSERT o number
+INSERT mxu number
+PRINT
+LOOKUP o

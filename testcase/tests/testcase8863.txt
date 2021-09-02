@@ -1,0 +1,22 @@
+LOOKUP i
+INSERT sa string
+RPRINT
+INSERT zD6Q number
+END
+INSERT fEI_T number
+INSERT j number
+INSERT cV number
+INSERT uZ string
+INSERT nAhkA9 number
+INSERT qIo number
+INSERT mBa0 number
+INSERT q5g string
+BEGIN
+INSERT r8UXi number
+INSERT ijSWs string
+INSERT uH6K4 number
+BEGIN
+INSERT n number
+INSERT ffiS number
+RPRINT
+INSERT o string

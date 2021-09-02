@@ -1,0 +1,12 @@
+LOOKUP oT
+INSERT sWXc number
+INSERT qeq string
+INSERT s string
+LOOKUP qeq
+LOOKUP sWXc
+ASSIGN qeq sWXc
+END
+INSERT eDyMK4 string
+BEGIN
+ggBk4 iGO
+INSERT cQFAP_ number

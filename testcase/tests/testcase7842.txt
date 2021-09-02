@@ -1,0 +1,39 @@
+INSERT gEDjU string
+INSERT ke number
+INSERT uEkw_ number
+INSERT bHX string
+ASSIGN ke 'Qb'
+INSERT d5D string
+BEGIN
+INSERT y string
+PRINT
+INSERT bWuflC string
+INSERT jWlZR string
+LOOKUP y
+PRINT
+INSERT vn3EE5 number
+INSERT vH7Xt number
+ASSIGN vn3EE5 'uX3g'
+LOOKUP d5D
+LOOKUP ke
+INSERT uq2SS string
+INSERT zT number
+INSERT fA number
+RPRINT
+PRINT
+l65 jAUL6
+INSERT hc4 string
+RPRINT
+LOOKUP vn3EE5
+INSERT kVr number
+INSERT z0De string
+jS a
+INSERT j string
+RPRINT
+LOOKUP vn3EE5
+INSERT c string
+ASSIGN c 997
+INSERT zw9Rzz number
+INSERT u string
+INSERT gR4dZ3 number
+END

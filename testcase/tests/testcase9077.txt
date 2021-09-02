@@ -1,0 +1,29 @@
+INSERT cZRx string
+INSERT oqEs number
+ASSIGN cZRx cZRx
+INSERT rv8BT string
+INSERT tzI number
+INSERT gT number
+INSERT sh number
+RPRINT
+LOOKUP cZRx
+INSERT xSWj string
+PRINT
+bh xUL4I
+INSERT a number
+INSERT wt string
+INSERT xPoK51 number
+INSERT e8 string
+INSERT eiqFmS string
+BEGIN
+INSERT f string
+INSERT dEsxFx number
+INSERT n6IyqX number
+RPRINT
+INSERT ek string
+INSERT iZ1 number
+LOOKUP iZ1
+ASSIGN ek a
+PRINT
+INSERT dmZg number
+n rcz

@@ -1,0 +1,26 @@
+INSERT gb string
+ASSIGN gb 'f0e2'
+INSERT nInDnB number
+RPRINT
+INSERT gn number
+INSERT ead number
+PRINT
+ASSIGN gn gn
+INSERT h string
+END
+eqf mvT
+INSERT adrz8B string
+INSERT oNhgI0 string
+INSERT zgdp2 number
+INSERT z3K string
+BEGIN
+INSERT pcyE9 number
+INSERT i string
+INSERT yv string
+INSERT pMk7Xz string
+PRINT
+INSERT pe8sf string
+INSERT bzL string
+INSERT xXXu number
+END
+INSERT r52 number

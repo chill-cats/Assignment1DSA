@@ -1,0 +1,28 @@
+END
+BEGIN
+INSERT r4EzC4 number
+INSERT rFY5C string
+INSERT vsL string
+ASSIGN rFY5C r4EzC4
+INSERT mv number
+ASSIGN r4EzC4 r4EzC4
+ASSIGN mv '2M2'
+INSERT pVR string
+INSERT mie string
+ASSIGN r4EzC4 vsL
+INSERT yzc number
+INSERT wW8 number
+INSERT bYDi number
+INSERT bD string
+INSERT k number
+PRINT
+INSERT xN string
+ASSIGN bYDi 695
+INSERT vuVUz number
+END
+PRINT
+PRINT
+INSERT f9BoVX string
+RPRINT
+INSERT w string
+INSERT xKY number

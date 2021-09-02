@@ -1,0 +1,15 @@
+LOOKUP a
+INSERT ml8Cj string
+INSERT xUaC5 number
+INSERT z number
+INSERT j number
+INSERT qrz number
+BEGIN
+INSERT tBQT number
+END
+INSERT u83 string
+BEGIN
+BEGIN
+INSERT bdrv string
+INSERT zDbuGJ number
+RPRINT

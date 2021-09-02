@@ -1,0 +1,39 @@
+INSERT hzuOj number
+INSERT cqnJAR string
+wckCm kFSxo
+INSERT dq62xm number
+INSERT vfwLD number
+INSERT aOhy string
+LOOKUP vfwLD
+ASSIGN hzuOj cqnJAR
+INSERT iqy64 string
+INSERT hyNb number
+ASSIGN aOhy 'ikt'
+INSERT gF17IQ number
+INSERT nxSL number
+END
+INSERT h6E string
+INSERT xflw string
+INSERT bgR string
+INSERT yD7L string
+INSERT kSI3 number
+INSERT v78FX2 string
+INSERT i string
+hXJIXu m
+INSERT fk string
+INSERT cxIocC number
+INSERT bG6 string
+INSERT oc number
+INSERT u number
+INSERT a number
+INSERT n number
+INSERT a8 string
+RPRINT
+INSERT hD number
+INSERT xu string
+INSERT s0Ew string
+BEGIN
+INSERT klz number
+INSERT rWt string
+INSERT pW6pCE string
+INSERT hTWMm string

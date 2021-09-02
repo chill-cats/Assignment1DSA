@@ -1,0 +1,24 @@
+PRINT
+INSERT dyk string
+RPRINT
+eUf sV
+INSERT er number
+INSERT qFBMs6 number
+LOOKUP qFBMs6
+INSERT yVq4bJ string
+END
+PRINT
+LOOKUP yVq4bJ
+END
+INSERT bnSK number
+INSERT h_ string
+PRINT
+INSERT v string
+INSERT i string
+LOOKUP bnSK
+PRINT
+RPRINT
+INSERT jyf string
+RPRINT
+INSERT nedll string
+INSERT a string

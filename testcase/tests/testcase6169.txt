@@ -1,0 +1,28 @@
+INSERT js string
+INSERT sCwf number
+INSERT s number
+LOOKUP sCwf
+BEGIN
+INSERT h string
+INSERT lx5 number
+END
+INSERT f number
+INSERT wonfGH number
+INSERT ut number
+END
+BEGIN
+BEGIN
+INSERT k27A number
+LOOKUP js
+END
+INSERT gxT number
+INSERT jEwvju number
+RPRINT
+LOOKUP s
+BEGIN
+wt ci
+LOOKUP h
+ASSIGN gxT 550
+LOOKUP k27A
+INSERT xyo string
+INSERT ae_k number

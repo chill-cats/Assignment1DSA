@@ -1,0 +1,5 @@
+INSERT uDfNU number
+END
+INSERT sc4f string
+BEGIN
+PRINT

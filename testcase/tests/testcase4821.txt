@@ -1,0 +1,6 @@
+PRINT
+BEGIN
+INSERT m string
+INSERT pNQw string
+INSERT iKv30e number
+ASSIGN m 447

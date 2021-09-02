@@ -1,0 +1,8 @@
+INSERT fI_ number
+aBSI3W vO
+INSERT ehd string
+END
+INSERT n8 number
+INSERT wBnGV string
+PRINT
+ASSIGN ehd 302

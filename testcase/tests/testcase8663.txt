@@ -1,0 +1,31 @@
+PRINT
+INSERT s string
+INSERT hY string
+INSERT bAbiCF number
+ASSIGN s 'y509'
+INSERT lb3 number
+INSERT o number
+LOOKUP hY
+INSERT k number
+ASSIGN s 'oQe'
+ASSIGN bAbiCF 76
+INSERT gOB number
+INSERT aW number
+INSERT hA5IIw number
+END
+END
+INSERT eA string
+INSERT dsPug number
+INSERT lErG number
+BEGIN
+INSERT dl number
+INSERT pA string
+LOOKUP eA
+INSERT dTJpK number
+ASSIGN aW dl
+INSERT vNNV number
+INSERT o1 number
+ASSIGN dsPug 1001
+INSERT gI string
+w rf
+INSERT rQ2sz number

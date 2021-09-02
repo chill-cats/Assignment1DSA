@@ -1,0 +1,12 @@
+ASSIGN a 550
+BEGIN
+INSERT jS498 number
+BEGIN
+INSERT l73 string
+PRINT
+INSERT pV string
+ASSIGN pV 1008
+INSERT cGY string
+INSERT j1qA string
+BEGIN
+INSERT lDY string

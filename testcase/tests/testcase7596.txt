@@ -1,0 +1,9 @@
+BEGIN
+ASSIGN kb 865
+BEGIN
+INSERT fgdF1i string
+tq gs6er
+INSERT kV string
+ASSIGN kV 'X'
+LOOKUP kV
+INSERT safLw string

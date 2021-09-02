@@ -1,0 +1,13 @@
+LOOKUP i
+INSERT qq38b number
+INSERT r string
+RPRINT
+LOOKUP qq38b
+INSERT vNm string
+INSERT tgfHKW string
+END
+ASSIGN r qq38b
+PRINT
+INSERT qo number
+INSERT bSnHo number
+INSERT hssWz6 string

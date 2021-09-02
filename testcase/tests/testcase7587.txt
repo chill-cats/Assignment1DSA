@@ -1,0 +1,15 @@
+INSERT sXOV number
+INSERT okr number
+ASSIGN sXOV 674
+INSERT eUgfG0 number
+INSERT b string
+INSERT h9 number
+INSERT mprK string
+LOOKUP b
+INSERT ciVpd string
+INSERT m3Tvi number
+INSERT qxohh string
+RPRINT
+INSERT b8IcB string
+ASSIGN b ciVpd
+INSERT ecna number

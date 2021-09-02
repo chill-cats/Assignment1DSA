@@ -1,0 +1,31 @@
+INSERT yqEV string
+LOOKUP yqEV
+RPRINT
+LOOKUP yqEV
+INSERT wWM number
+END
+PRINT
+LOOKUP yqEV
+END
+RPRINT
+INSERT ckGMC string
+RPRINT
+INSERT s string
+LOOKUP ckGMC
+INSERT xansro number
+END
+RPRINT
+INSERT d string
+INSERT n number
+INSERT uxV string
+ASSIGN ckGMC d
+v0SE iQ67
+ASSIGN xansro d
+INSERT pKY number
+INSERT g46td string
+INSERT d3i_G number
+INSERT uHTYp number
+INSERT gsuj number
+PRINT
+INSERT oyN number
+BEGIN

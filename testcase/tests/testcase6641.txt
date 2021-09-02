@@ -1,0 +1,27 @@
+INSERT q6 number
+LOOKUP q6
+INSERT clTJ number
+INSERT kvd string
+INSERT ki4D number
+INSERT d9 string
+INSERT gNwVR4 string
+INSERT m string
+INSERT i string
+PRINT
+INSERT p number
+RPRINT
+LOOKUP p
+INSERT bqw string
+INSERT v string
+INSERT nz string
+INSERT w6 string
+INSERT s number
+INSERT eP number
+INSERT v string
+END
+RPRINT
+INSERT k string
+INSERT hXqI number
+INSERT s0VCQW string
+yheXJH fhdGMh
+kuM eGQ29

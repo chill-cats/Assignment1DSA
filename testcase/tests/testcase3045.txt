@@ -1,0 +1,9 @@
+PRINT
+INSERT qbs7 number
+INSERT f3GKHP number
+INSERT pQ1Jl string
+END
+INSERT wzH string
+INSERT fs string
+INSERT dB_4rZ string
+LOOKUP fs

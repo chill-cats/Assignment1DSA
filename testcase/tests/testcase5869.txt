@@ -1,0 +1,35 @@
+LOOKUP xZ
+INSERT kzS string
+INSERT u3 number
+ASSIGN u3 1149
+RPRINT
+INSERT uzfJ string
+ASSIGN uzfJ kzS
+yNuAf fGVV
+INSERT fh string
+END
+INSERT nViws number
+INSERT kdZ string
+PRINT
+INSERT eXu number
+BEGIN
+INSERT lchN9 number
+INSERT bPAfS number
+INSERT iJ1PHx number
+PRINT
+INSERT vodWU string
+INSERT df0cG3 number
+INSERT sWpi86 string
+ASSIGN vodWU 216
+INSERT mgekQQ number
+PRINT
+LOOKUP df0cG3
+BEGIN
+INSERT eEl string
+ASSIGN u3 uzfJ
+INSERT oyeXz number
+INSERT hPLJ number
+INSERT f0Y number
+INSERT bpcNr number
+INSERT lKlUZ number
+INSERT tnrU string

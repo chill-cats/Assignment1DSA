@@ -1,0 +1,29 @@
+INSERT mdQY string
+LOOKUP mdQY
+INSERT wp string
+INSERT f number
+uAdVn wD
+INSERT jCn number
+PRINT
+INSERT i4JiA number
+ASSIGN jCn 1066
+INSERT cN string
+INSERT kBdb number
+PRINT
+INSERT miO number
+INSERT oT3 string
+INSERT pmSYG number
+END
+INSERT sqS number
+INSERT sNZ9l number
+PRINT
+RPRINT
+INSERT bx string
+INSERT kqc string
+INSERT hzeaNi number
+INSERT nt string
+vtobXX g
+INSERT oivfl number
+END
+INSERT dTrA number
+INSERT w7SEj number

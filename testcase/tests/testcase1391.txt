@@ -1,0 +1,21 @@
+pZ f9
+INSERT u number
+INSERT xgc3uf string
+INSERT oaDtFd string
+INSERT uj number
+LOOKUP xgc3uf
+INSERT hp21i1 number
+INSERT yGr number
+INSERT fY number
+INSERT pn number
+BEGIN
+INSERT eW1L string
+INSERT hJjB_x string
+INSERT u number
+INSERT f3 number
+PRINT
+INSERT kOcG string
+ASSIGN hp21i1 1190
+INSERT j string
+INSERT jS number
+ASSIGN u 'wxE'

@@ -1,0 +1,37 @@
+INSERT xvVCH number
+BEGIN
+INSERT uIZ2 string
+INSERT bcSAPi number
+INSERT gBv43N string
+INSERT otC4L number
+INSERT muK number
+INSERT i string
+INSERT l0 number
+INSERT sMQa number
+INSERT tAPrFZ number
+wmEal t18G
+INSERT tEc string
+LOOKUP i
+INSERT o0 number
+INSERT nS5Gk number
+ASSIGN i 734
+INSERT pTe number
+RPRINT
+INSERT xgz number
+INSERT fylBv5 string
+LOOKUP tAPrFZ
+INSERT s number
+INSERT xrOY9u string
+INSERT aLf3M string
+INSERT z37 string
+ASSIGN nS5Gk bcSAPi
+BEGIN
+BEGIN
+INSERT pUxQmM number
+INSERT oJsYA number
+INSERT sg9 string
+PRINT
+INSERT kHva string
+INSERT w string
+INSERT o2p number
+dvMWum nuaw

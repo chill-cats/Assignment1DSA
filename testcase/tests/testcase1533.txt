@@ -1,0 +1,19 @@
+RPRINT
+INSERT c5VW2 number
+INSERT rRb string
+LOOKUP rRb
+INSERT aCdvZp string
+INSERT lgX0 number
+LOOKUP rRb
+INSERT vPn number
+ASSIGN lgX0 'rrAs'
+INSERT fyjc3K number
+INSERT nlH string
+RPRINT
+LOOKUP rRb
+INSERT myhKf number
+INSERT sp string
+INSERT xnGMXd string
+INSERT tf607 number
+ri brwHXl
+INSERT c_pxd number

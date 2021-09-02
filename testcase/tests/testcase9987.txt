@@ -1,0 +1,34 @@
+INSERT d string
+INSERT yV number
+INSERT aLz08 string
+INSERT oL3x number
+INSERT xi number
+INSERT mlp2Y string
+INSERT qufAO string
+INSERT nLy number
+INSERT z2YLw string
+INSERT eV0Gel string
+INSERT ztv3op number
+PRINT
+END
+RPRINT
+RPRINT
+INSERT t7I47 number
+ASSIGN mlp2Y 391
+END
+INSERT oHS string
+INSERT lsxI7 number
+RPRINT
+INSERT fMKmdw number
+ASSIGN oHS 276
+ASSIGN aLz08 oL3x
+INSERT lQe number
+INSERT qeNXvo string
+oJk nF
+INSERT aBZ_PJ string
+INSERT pNkwZ number
+RPRINT
+INSERT iaIC string
+INSERT wra number
+INSERT kYGik3 number
+INSERT g string

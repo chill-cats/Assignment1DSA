@@ -1,0 +1,37 @@
+INSERT p number
+INSERT tjzcW number
+INSERT ulEw number
+INSERT u number
+INSERT s number
+INSERT fy string
+LOOKUP s
+INSERT wOi1 number
+RPRINT
+INSERT y number
+INSERT tA number
+INSERT rOg string
+BEGIN
+INSERT kwkHIA string
+INSERT qWeX string
+INSERT unpR string
+INSERT snZ string
+slB hdCYV
+INSERT v string
+LOOKUP ulEw
+INSERT d3 string
+INSERT v number
+RPRINT
+RPRINT
+INSERT rbrXlO number
+ASSIGN tjzcW 811
+psP3 vB
+INSERT bgTW number
+INSERT t string
+INSERT ei number
+INSERT ube number
+INSERT v4 number
+PRINT
+PRINT
+INSERT p string
+END
+PRINT

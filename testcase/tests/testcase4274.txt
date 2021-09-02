@@ -1,0 +1,37 @@
+INSERT kJ3 number
+INSERT nsjQZl string
+LOOKUP kJ3
+INSERT lSrTz number
+END
+LOOKUP lSrTz
+INSERT dFgfhg string
+INSERT aFVADd string
+INSERT joL number
+BEGIN
+INSERT mGj string
+INSERT b0rOB string
+END
+INSERT i27 number
+INSERT g75 number
+INSERT s number
+INSERT eX3fV string
+INSERT bbvgku string
+INSERT s4g8 string
+INSERT qVXxbq number
+LOOKUP g75
+INSERT xjx6v string
+END
+INSERT jaF string
+k95z pc7
+ASSIGN i27 'HH'
+ASSIGN g75 'Jz6'
+ASSIGN eX3fV aFVADd
+LOOKUP jaF
+INSERT cy number
+INSERT l string
+INSERT n string
+BEGIN
+END
+PRINT
+INSERT qy number
+INSERT fqRCoE number

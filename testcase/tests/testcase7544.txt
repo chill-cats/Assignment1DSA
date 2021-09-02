@@ -1,0 +1,15 @@
+INSERT lT1UL string
+ASSIGN lT1UL lT1UL
+PRINT
+INSERT k0p number
+INSERT h string
+INSERT i number
+INSERT qzuduF string
+INSERT p number
+INSERT gR string
+END
+INSERT x string
+INSERT odI string
+INSERT tmVKf string
+BEGIN
+oJWXm g0OyOd

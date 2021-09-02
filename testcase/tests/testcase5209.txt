@@ -1,0 +1,30 @@
+INSERT s string
+kPn bbOQo
+PRINT
+INSERT s9 number
+INSERT aZXqs number
+LOOKUP aZXqs
+RPRINT
+bZ dNXV
+END
+END
+INSERT puZ number
+INSERT x8 number
+PRINT
+PRINT
+INSERT j string
+INSERT bgHjC string
+ASSIGN j 'm'
+ASSIGN puZ '6G9m1'
+INSERT dA4aF string
+PRINT
+INSERT mJh1U string
+INSERT wAE string
+INSERT ufc4RA number
+PRINT
+INSERT uRb1 string
+INSERT bhkRri number
+END
+ASSIGN dA4aF 511
+INSERT dPBXr number
+INSERT jZqSDO string

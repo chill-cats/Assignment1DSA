@@ -1,0 +1,7 @@
+RPRINT
+INSERT u string
+END
+INSERT gkNn8k string
+ASSIGN gkNn8k 'OwuLh'
+INSERT hCqZm string
+LOOKUP u

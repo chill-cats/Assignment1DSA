@@ -1,0 +1,33 @@
+jZ6Zye h4
+INSERT rLf7U string
+END
+INSERT kF4 string
+RPRINT
+INSERT zCoJ0 string
+RPRINT
+INSERT xDL string
+INSERT ezyh4 string
+BEGIN
+ASSIGN kF4 xDL
+ASSIGN zCoJ0 rLf7U
+INSERT cY2ZUd number
+INSERT fK string
+RPRINT
+INSERT io string
+PRINT
+END
+RPRINT
+INSERT xX string
+INSERT e number
+INSERT xXm_ string
+INSERT j number
+INSERT ecIEd number
+INSERT bLmX6u number
+INSERT mB string
+INSERT cnx_9o number
+END
+INSERT moFE number
+BEGIN
+INSERT slari number
+LOOKUP zCoJ0
+INSERT ubiR2B string

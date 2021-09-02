@@ -1,0 +1,10 @@
+END
+INSERT v0 string
+BEGIN
+INSERT zFABln string
+LOOKUP v0
+INSERT s number
+INSERT gIMJ number
+INSERT hc93A number
+INSERT t number
+END

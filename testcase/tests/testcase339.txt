@@ -1,0 +1,34 @@
+END
+BEGIN
+END
+INSERT z number
+LOOKUP z
+INSERT vws0R number
+ASSIGN vws0R 845
+INSERT n string
+INSERT vn string
+INSERT x number
+INSERT oZdroV number
+ASSIGN v1HxaH 'k'
+INSERT vSUFe number
+kP wuidX
+INSERT f number
+END
+INSERT e1aa string
+END
+INSERT tgnCf number
+BEGIN
+INSERT x9 string
+INSERT k string
+END
+ASSIGN oZdroV 1188
+INSERT e string
+INSERT zDY string
+INSERT yh number
+INSERT b7VC number
+END
+INSERT prks number
+BEGIN
+INSERT lWL number
+INSERT rh6I5D number
+INSERT q number

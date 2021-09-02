@@ -1,0 +1,24 @@
+ASSIGN l2 'd'
+PRINT
+INSERT rn number
+INSERT cVL string
+INSERT u59R string
+INSERT jJ number
+INSERT bnXVV string
+INSERT vW9H number
+INSERT lFJ number
+INSERT m5BbR number
+ASSIGN vW9H bnXVV
+INSERT s0Su1p string
+PRINT
+wZrVX4 uGJu1
+END
+INSERT dwm0 number
+INSERT pnnm_D string
+ASSIGN lFJ cVL
+INSERT n number
+INSERT lzmU number
+INSERT k7ry string
+RPRINT
+RPRINT
+INSERT a number

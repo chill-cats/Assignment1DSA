@@ -1,0 +1,16 @@
+END
+INSERT e29 string
+INSERT q5KqmL string
+b_X16B me2es
+BEGIN
+INSERT cv1K string
+LOOKUP e29
+INSERT q5 string
+ASSIGN cv1K 'Lj'
+INSERT pD string
+INSERT s25 string
+ASSIGN s25 q5KqmL
+INSERT s number
+BEGIN
+END
+LOOKUP pD

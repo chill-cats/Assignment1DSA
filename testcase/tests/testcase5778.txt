@@ -1,0 +1,15 @@
+INSERT vLeTR number
+INSERT yp4yU string
+INSERT d9 number
+INSERT wu0w number
+LOOKUP d9
+PRINT
+INSERT o string
+INSERT iZ1GjX string
+ASSIGN wu0w vLeTR
+INSERT vRDdIn string
+INSERT o number
+BEGIN
+INSERT sgJKB string
+INSERT fXO9 number
+INSERT m string

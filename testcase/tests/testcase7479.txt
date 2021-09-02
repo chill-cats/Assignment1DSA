@@ -1,0 +1,34 @@
+INSERT ih number
+RPRINT
+INSERT c4HhI4 string
+INSERT teq string
+INSERT xoY string
+INSERT z81f0 string
+INSERT q number
+INSERT ctHrz number
+INSERT m_M string
+INSERT qPGoJ5 number
+INSERT m4FgU number
+ASSIGN ctHrz 907
+ASSIGN q 765
+BEGIN
+INSERT ec number
+INSERT k string
+INSERT ew string
+INSERT fE number
+BEGIN
+RPRINT
+PRINT
+INSERT vr4sL string
+BEGIN
+INSERT wIAlx number
+ASSIGN ih 'KWwA'
+INSERT ad number
+INSERT n2w9gH string
+ASSIGN qPGoJ5 n2w9gH
+INSERT faeID string
+INSERT gcwpP2 number
+xQkOg r
+INSERT ii7fL string
+INSERT o number
+INSERT g string

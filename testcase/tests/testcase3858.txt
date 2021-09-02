@@ -1,0 +1,30 @@
+INSERT dE1V number
+LOOKUP dE1V
+INSERT lUUyvM string
+INSERT ato string
+PRINT
+INSERT pk number
+INSERT vWqf number
+RPRINT
+INSERT z3 number
+PRINT
+PRINT
+INSERT x5_ string
+INSERT bo number
+INSERT x string
+INSERT gz string
+PRINT
+INSERT ekPA number
+INSERT idi2 string
+INSERT iq number
+RPRINT
+BEGIN
+INSERT ahPAO number
+BEGIN
+PRINT
+INSERT cd2 number
+BEGIN
+INSERT na7vM4 string
+INSERT zx string
+INSERT yi string
+PRINT

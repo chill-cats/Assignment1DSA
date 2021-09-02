@@ -1,0 +1,27 @@
+LOOKUP cOF
+INSERT wb8 string
+LOOKUP wb8
+INSERT m number
+END
+INSERT z string
+END
+INSERT wf string
+INSERT gfnh number
+ASSIGN wb8 'kP'
+RPRINT
+INSERT r8hGlC number
+RPRINT
+INSERT cox string
+BEGIN
+BEGIN
+LOOKUP m
+INSERT eb number
+ASSIGN z 'NSaT'
+INSERT vmkMZO number
+iZM of
+INSERT f0B string
+INSERT ohIv string
+END
+BEGIN
+PRINT
+INSERT i number

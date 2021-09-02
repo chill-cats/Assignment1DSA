@@ -1,0 +1,7 @@
+INSERT qQtNeC string
+INSERT iDz number
+INSERT amKs number
+ASSIGN qQtNeC qQtNeC
+INSERT rJUz0g number
+INSERT hv number
+RPRINT

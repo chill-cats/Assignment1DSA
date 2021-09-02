@@ -1,0 +1,35 @@
+PRINT
+INSERT tMg6 number
+INSERT ky number
+INSERT j number
+INSERT gLacHP string
+INSERT imyADw string
+LOOKUP ky
+INSERT h7zv number
+INSERT e string
+ASSIGN e 798
+INSERT hNr5 string
+INSERT tZJ0 string
+INSERT jW string
+INSERT thB0 string
+INSERT g number
+INSERT pL string
+mp gs4_9
+BEGIN
+BEGIN
+LOOKUP g
+ASSIGN j '1O3S'
+BEGIN
+INSERT ef5tJT number
+INSERT iH string
+jm1 d2Y
+INSERT m3 number
+END
+INSERT m9FMYQ number
+RPRINT
+INSERT yz number
+LOOKUP ef5tJT
+INSERT db number
+INSERT dgi string
+INSERT aq number
+LOOKUP jW

@@ -1,0 +1,28 @@
+INSERT g string
+INSERT gKD number
+END
+INSERT d6Zg string
+ASSIGN gKD 'aY6'
+INSERT gJ number
+RPRINT
+LOOKUP gJ
+ASSIGN gJ 739
+INSERT zDi string
+INSERT fwr number
+INSERT kO string
+INSERT xtwr number
+LOOKUP d6Zg
+INSERT d number
+RPRINT
+INSERT uGA string
+INSERT mtSwAm number
+INSERT avo number
+INSERT xuir string
+INSERT pf string
+INSERT d string
+INSERT u4ri1 string
+INSERT p number
+INSERT gl number
+INSERT mf number
+INSERT jm0 number
+INSERT oyjE string

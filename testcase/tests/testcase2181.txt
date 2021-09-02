@@ -1,0 +1,22 @@
+INSERT zsQ string
+INSERT h number
+RPRINT
+INSERT mJP number
+END
+INSERT gGylf number
+END
+INSERT q string
+INSERT x2_cPb number
+INSERT htSoB0 number
+INSERT k67 number
+INSERT yoJqoZ number
+INSERT xruXtM string
+INSERT vz string
+INSERT o number
+INSERT b5 number
+RPRINT
+LOOKUP o
+RPRINT
+INSERT xYNBQ string
+ASSIGN zsQ 'WXgNz'
+INSERT b9U string

@@ -1,0 +1,29 @@
+INSERT ucU number
+INSERT fswITs number
+INSERT ruKJc number
+INSERT f number
+INSERT jA string
+INSERT uOb string
+INSERT n number
+INSERT nUiD6 number
+INSERT y9DFd string
+INSERT k7x string
+s v_LRN
+INSERT z1xVBl string
+BEGIN
+LOOKUP ruKJc
+PRINT
+INSERT d string
+INSERT aY90Pf string
+RPRINT
+BEGIN
+INSERT tJozX string
+INSERT l4D number
+LOOKUP ruKJc
+PRINT
+LOOKUP ucU
+INSERT in string
+INSERT jh string
+INSERT z9AwvG number
+BEGIN
+INSERT t string

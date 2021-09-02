@@ -1,0 +1,31 @@
+INSERT n string
+INSERT tajtT number
+INSERT sN string
+END
+ASSIGN sN tajtT
+INSERT r string
+RPRINT
+INSERT eF number
+INSERT n string
+RPRINT
+INSERT un0z_L number
+PRINT
+INSERT a_C string
+BEGIN
+INSERT zlgq string
+INSERT c string
+INSERT r1jp number
+INSERT s_wFH3 string
+END
+ASSIGN sN r1jp
+INSERT tp8aG string
+ASSIGN r1jp 201
+INSERT qwbuG7 number
+INSERT iYr number
+INSERT jSAO string
+INSERT b string
+INSERT yQu5 string
+INSERT yWU number
+INSERT ja number
+END
+END

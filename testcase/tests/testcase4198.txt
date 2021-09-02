@@ -1,0 +1,38 @@
+END
+INSERT c5DfU number
+INSERT oIsS number
+INSERT y5 string
+INSERT i6G string
+INSERT r string
+w2sy kk
+INSERT occ8By number
+INSERT rAPm string
+INSERT f number
+INSERT wR string
+INSERT ylh string
+INSERT q string
+LOOKUP c5DfU
+INSERT rHlxH1 number
+INSERT gWHP number
+INSERT c number
+INSERT nw3Jqz number
+INSERT zu number
+INSERT x2 string
+INSERT nTJ number
+INSERT kld number
+INSERT y number
+INSERT c6kmDV number
+INSERT hdDp string
+INSERT vk string
+INSERT u string
+BEGIN
+PRINT
+RPRINT
+LOOKUP rHlxH1
+INSERT pDqVC string
+INSERT bS2cf string
+INSERT oU7 number
+INSERT s8w number
+INSERT hjDq string
+ASSIGN vk 390
+INSERT mf number

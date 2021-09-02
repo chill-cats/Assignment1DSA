@@ -1,0 +1,38 @@
+INSERT q string
+ASSIGN q 584
+INSERT wNjaxP string
+INSERT h6n7p_ string
+INSERT ccTg number
+RPRINT
+INSERT emiR number
+INSERT dIw number
+RPRINT
+INSERT lV string
+INSERT lzSm number
+ASSIGN q 'l'
+o tF
+INSERT dgp2 number
+INSERT oZxJ string
+INSERT sXjY7x string
+INSERT uuC string
+ASSIGN lzSm lzSm
+INSERT wXbI number
+INSERT rtiWoa string
+INSERT f number
+LOOKUP lV
+PRINT
+INSERT ilbv number
+INSERT g string
+END
+LOOKUP wXbI
+PRINT
+INSERT cMqDk string
+ASSIGN h6n7p_ 1130
+PRINT
+INSERT m5ap number
+END
+RPRINT
+END
+dqbEcW e9
+uadv zOIjR
+INSERT qy string

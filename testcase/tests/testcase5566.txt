@@ -1,0 +1,4 @@
+INSERT tkF7 number
+INSERT l_T string
+END
+INSERT p7 number

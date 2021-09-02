@@ -1,0 +1,12 @@
+INSERT vY4Q string
+PRINT
+LOOKUP vY4Q
+LOOKUP vY4Q
+INSERT z6QlW string
+INSERT f string
+END
+INSERT eWFE string
+INSERT tUMj string
+INSERT dwhX55 number
+INSERT b number
+ASSIGN dwhX55 vY4Q

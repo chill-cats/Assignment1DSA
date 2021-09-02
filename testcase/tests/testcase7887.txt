@@ -1,0 +1,21 @@
+INSERT i string
+INSERT vY string
+INSERT w number
+INSERT xKWsbu number
+INSERT uUOrw string
+INSERT gY string
+INSERT n number
+INSERT n_Y string
+LOOKUP xKWsbu
+INSERT pDzt string
+LOOKUP xKWsbu
+INSERT um number
+INSERT zKTs62 number
+END
+INSERT x number
+INSERT a string
+INSERT vFf number
+INSERT yMl_wS string
+PRINT
+INSERT r_i number
+nd zIXqot

@@ -1,0 +1,26 @@
+LOOKUP uinyD
+INSERT pE number
+LOOKUP pE
+ASSIGN pE pE
+ASSIGN pE pE
+INSERT eUPRi number
+INSERT og string
+INSERT hQ_lXe string
+LOOKUP pE
+INSERT aakV string
+INSERT bVdWq number
+END
+INSERT gJ5Glr string
+PRINT
+ASSIGN pE '4'
+INSERT cgmvY number
+INSERT iLk6MB number
+INSERT zVJDPU number
+INSERT aUQ3r number
+INSERT eiAIB string
+INSERT sqm4cw string
+ASSIGN hQ_lXe 'd'
+RPRINT
+INSERT qQTKK number
+INSERT hVOY number
+INSERT r string

@@ -1,0 +1,10 @@
+PRINT
+INSERT eZuPQ number
+INSERT rhT string
+INSERT hfS number
+INSERT ahT5p string
+INSERT eh7 string
+BEGIN
+RPRINT
+INSERT dC5 number
+e mt

@@ -1,0 +1,21 @@
+BEGIN
+INSERT jpp string
+INSERT bWsMg number
+INSERT gN1xC number
+BEGIN
+INSERT ynlrM number
+ASSIGN bWsMg bWsMg
+INSERT dEa number
+INSERT uIzL number
+LOOKUP gN1xC
+INSERT yEllY string
+LOOKUP dEa
+PRINT
+INSERT rTf3H number
+INSERT geA string
+INSERT m4POf string
+INSERT kY7wS string
+PRINT
+LOOKUP geA
+INSERT x9kq9E string
+INSERT iIAV85 number

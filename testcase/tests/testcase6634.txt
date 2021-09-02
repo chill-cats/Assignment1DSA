@@ -1,0 +1,29 @@
+PRINT
+INSERT m2 string
+LOOKUP m2
+INSERT xf string
+INSERT nP number
+RPRINT
+INSERT qQ_V5i number
+INSERT qXTbu number
+INSERT if number
+BEGIN
+ASSIGN qXTbu 'zRS'
+INSERT p7a string
+INSERT aKq string
+PRINT
+ASSIGN if 'u'
+mr qh
+INSERT f_K string
+INSERT sx string
+INSERT tnwh string
+INSERT cL number
+INSERT mw_Ou string
+INSERT j6hWiJ string
+LOOKUP f_K
+PRINT
+INSERT t number
+INSERT f0i8TT string
+INSERT jtP string
+END
+INSERT pKN string

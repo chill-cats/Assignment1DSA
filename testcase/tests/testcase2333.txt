@@ -1,0 +1,10 @@
+INSERT igvb number
+ASSIGN igvb igvb
+INSERT xPS number
+INSERT diNf string
+END
+ASSIGN igvb xPS
+LOOKUP igvb
+INSERT zmJaF6 number
+ASSIGN diNf 718
+INSERT fyc string

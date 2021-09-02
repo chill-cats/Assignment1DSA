@@ -1,0 +1,35 @@
+RPRINT
+INSERT e string
+INSERT m2 number
+INSERT j8F string
+INSERT j string
+INSERT qMk string
+INSERT ej3I string
+BEGIN
+INSERT vFj number
+INSERT s4 string
+INSERT khzjnz number
+INSERT xh number
+INSERT lJjd number
+INSERT rc3CI number
+INSERT ykO1 number
+INSERT pJ6B string
+INSERT q6 number
+INSERT w_ string
+c sd8f3
+pQ6 tO
+INSERT r string
+INSERT mkCkR number
+INSERT lkJDS number
+RPRINT
+INSERT pt1itG string
+INSERT vZ string
+INSERT dqP4G number
+LOOKUP ykO1
+ASSIGN qMk e
+BEGIN
+INSERT s_D string
+INSERT ltIa number
+PRINT
+INSERT ggxh string
+INSERT k string

@@ -1,0 +1,12 @@
+INSERT k4Qf6b string
+INSERT j string
+INSERT w number
+LOOKUP j
+INSERT p9 number
+BEGIN
+END
+INSERT jo8V string
+LOOKUP j
+INSERT aCqSTJ string
+INSERT kwYM9v number
+INSERT gOyE number

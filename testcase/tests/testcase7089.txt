@@ -1,0 +1,4 @@
+PRINT
+BEGIN
+END
+INSERT wNsbao number

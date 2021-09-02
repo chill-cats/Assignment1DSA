@@ -1,0 +1,34 @@
+INSERT d91zv number
+INSERT aR2 string
+INSERT bWaZ number
+LOOKUP bWaZ
+BEGIN
+INSERT byNJNB number
+INSERT a1 number
+INSERT cy1 string
+LOOKUP d91zv
+INSERT rzSPo number
+INSERT at number
+INSERT u6C2 number
+END
+INSERT lRvf number
+INSERT uc9 string
+INSERT xft number
+INSERT am string
+LOOKUP am
+LOOKUP xft
+RPRINT
+INSERT dqr number
+INSERT g6 number
+RPRINT
+INSERT cjt string
+INSERT i number
+INSERT lcD number
+INSERT f5aaRS string
+INSERT yZ string
+INSERT v number
+LOOKUP cy1
+LOOKUP yZ
+INSERT zzErQm number
+INSERT m string
+INSERT r string

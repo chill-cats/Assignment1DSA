@@ -1,0 +1,10 @@
+INSERT w2 string
+INSERT kW0 number
+INSERT x93 string
+INSERT xBrqui string
+INSERT ncE number
+INSERT pdJVB number
+LOOKUP kW0
+INSERT rfn string
+PRINT
+INSERT yq string

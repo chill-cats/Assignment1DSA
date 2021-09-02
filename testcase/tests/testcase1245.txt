@@ -1,0 +1,21 @@
+INSERT nhLY number
+PRINT
+INSERT vfLK5 number
+INSERT fEi1V string
+END
+INSERT ai0x7 number
+INSERT p9 string
+INSERT qSo number
+INSERT aC string
+INSERT uK string
+LOOKUP ai0x7
+INSERT alYO number
+ASSIGN nhLY 317
+INSERT aRMs number
+INSERT tVfwv number
+INSERT wNy string
+RPRINT
+END
+INSERT rp7qBL number
+INSERT vkT9 string
+INSERT ni number

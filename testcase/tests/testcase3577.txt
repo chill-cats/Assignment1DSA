@@ -1,0 +1,5 @@
+ASSIGN kCqsRh 523
+PRINT
+INSERT y string
+RPRINT
+INSERT e number

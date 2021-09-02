@@ -1,0 +1,5 @@
+INSERT leUI string
+INSERT kX string
+ASSIGN kX 981
+PRINT
+e rDvmPT

@@ -1,0 +1,18 @@
+INSERT lTwN string
+LOOKUP lTwN
+INSERT lTw number
+PRINT
+INSERT suAOe number
+ASSIGN lTw 663
+INSERT u string
+INSERT c4J number
+ASSIGN c4J 'zE'
+INSERT defwYm string
+PRINT
+INSERT x0Ps number
+INSERT ySwGs number
+INSERT wLGb string
+INSERT twCJ string
+PRINT
+xTvM bOabP4
+INSERT r string

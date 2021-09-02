@@ -1,0 +1,28 @@
+LOOKUP dYMCZ
+END
+INSERT d string
+INSERT gM number
+INSERT p8HBMC string
+INSERT vlNZ4 string
+INSERT sK number
+INSERT nM string
+ASSIGN sK 'CSV'
+BEGIN
+INSERT fb93W string
+INSERT bkrV string
+LOOKUP vlNZ4
+INSERT gBEFf number
+BEGIN
+PRINT
+LOOKUP sK
+INSERT edb string
+LOOKUP d
+INSERT u3TF number
+INSERT bXPH4 string
+INSERT ig6 number
+INSERT xykUSA number
+LOOKUP u3TF
+INSERT rFTy number
+LOOKUP fb93W
+INSERT zy string
+INSERT gxf string

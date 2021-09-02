@@ -1,0 +1,3 @@
+INSERT haj2Q number
+END
+INSERT k string

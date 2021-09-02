@@ -1,0 +1,22 @@
+INSERT sgp332 number
+PRINT
+LOOKUP sgp332
+d95F k
+INSERT xA2Jc string
+INSERT t5A0Yk number
+INSERT kN7Fv string
+ASSIGN sgp332 366
+ASSIGN t5A0Yk 1161
+LOOKUP xA2Jc
+INSERT tdNfV string
+INSERT by number
+INSERT evoI number
+ASSIGN v2k 'N1q'
+INSERT oE0i number
+INSERT fFMO string
+INSERT b6 number
+INSERT qCJR_Y number
+INSERT ivLv number
+RPRINT
+INSERT kiH number
+INSERT zD number

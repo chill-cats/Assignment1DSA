@@ -1,0 +1,2 @@
+PRINT
+INSERT rn number

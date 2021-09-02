@@ -1,0 +1,15 @@
+INSERT trX number
+l aOzv
+END
+ASSIGN trX trX
+END
+INSERT iKeT number
+BEGIN
+INSERT ihFa string
+INSERT s string
+PRINT
+INSERT m number
+INSERT mGSPW string
+INSERT udWPh string
+INSERT wPUk string
+PRINT

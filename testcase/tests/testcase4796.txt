@@ -1,0 +1,19 @@
+PRINT
+PRINT
+LOOKUP hR4
+INSERT qKwCnp string
+INSERT c64ht number
+INSERT fJgYTI number
+INSERT bql number
+BEGIN
+RPRINT
+INSERT so8 string
+INSERT pbI string
+RPRINT
+END
+PRINT
+BEGIN
+i v
+LOOKUP c64ht
+INSERT lWyg70 number
+PRINT

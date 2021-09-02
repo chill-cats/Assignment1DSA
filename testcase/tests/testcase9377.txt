@@ -1,0 +1,6 @@
+INSERT cL number
+LOOKUP cL
+INSERT kB number
+INSERT yXky0P string
+RPRINT
+BEGIN

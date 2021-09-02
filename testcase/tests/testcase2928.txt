@@ -1,0 +1,30 @@
+INSERT htpaC string
+INSERT p number
+INSERT zk4 number
+INSERT czo2z string
+INSERT p7aq number
+LOOKUP gsSv7
+END
+ASSIGN p7aq 42
+INSERT iW number
+INSERT zmgae number
+INSERT fhT number
+INSERT z7GZq number
+INSERT c string
+INSERT n51cu string
+LOOKUP fhT
+LOOKUP n51cu
+INSERT p string
+INSERT winb number
+PRINT
+PRINT
+ASSIGN htpaC p7aq
+END
+INSERT bJhs number
+INSERT mOKA string
+RPRINT
+END
+INSERT u4nbE string
+RPRINT
+INSERT ric number
+INSERT eoC3bm number

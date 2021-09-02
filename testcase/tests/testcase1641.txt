@@ -1,0 +1,7 @@
+LOOKUP u
+INSERT tf number
+PRINT
+INSERT yXN863 string
+INSERT uF string
+END
+INSERT ukwH9 number

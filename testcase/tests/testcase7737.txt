@@ -1,0 +1,28 @@
+yPC g
+INSERT h2rjp number
+INSERT zhMn8w string
+INSERT yf0 string
+INSERT mRW46q string
+INSERT h number
+PRINT
+INSERT fB2Ok number
+LOOKUP h2rjp
+BEGIN
+LOOKUP h2rjp
+INSERT ucYGr number
+INSERT iLp number
+INSERT yV number
+INSERT b2 string
+INSERT r0jb string
+INSERT vOz string
+INSERT v string
+INSERT c3K number
+INSERT xW7eL1 number
+INSERT y5kJ number
+INSERT x string
+INSERT mj9 number
+INSERT gg number
+INSERT u string
+ASSIGN h2rjp yV
+BEGIN
+INSERT q string

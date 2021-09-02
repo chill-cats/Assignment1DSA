@@ -1,0 +1,5 @@
+INSERT nD6i68 string
+INSERT r7nEV number
+PRINT
+INSERT hTfj1 string
+INSERT k9z9 number

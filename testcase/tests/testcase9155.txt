@@ -1,0 +1,33 @@
+INSERT h3a2 string
+INSERT lO7iYq string
+INSERT t string
+BEGIN
+INSERT h number
+INSERT znA number
+LOOKUP lO7iYq
+INSERT tFB number
+INSERT kux0u number
+ASSIGN h 384
+opHD jVwRA0
+INSERT l number
+INSERT zO number
+RPRINT
+INSERT c8g string
+INSERT u3UCse string
+PRINT
+INSERT aacm string
+END
+flMyoh nRli
+BEGIN
+INSERT qu7Wv number
+ASSIGN aacm 1152
+LOOKUP zO
+INSERT t string
+ASSIGN l 'DoW5i'
+INSERT l_a number
+INSERT tMI8f string
+ASSIGN tMI8f 'm'
+INSERT mcG9 number
+PRINT
+ASSIGN lO7iYq 388
+INSERT ks string

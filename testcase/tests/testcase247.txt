@@ -1,0 +1,29 @@
+INSERT gmo string
+INSERT d number
+rL4zp p5IF
+gywo5 e3B
+INSERT xe number
+INSERT m string
+INSERT t string
+INSERT sua number
+INSERT rL number
+INSERT iC2 number
+INSERT dos number
+INSERT fscqs number
+INSERT bJe3Ir number
+END
+INSERT k string
+END
+INSERT ie8 string
+RPRINT
+PRINT
+RPRINT
+LOOKUP rL
+INSERT j number
+PRINT
+sT xoAN2
+PRINT
+INSERT gNNa9 string
+INSERT vV number
+ASSIGN vV 'Z'
+END

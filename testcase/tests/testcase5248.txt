@@ -1,0 +1,16 @@
+INSERT zi number
+iSJ rjQp
+LOOKUP zi
+END
+ASSIGN zi 'u'
+lMIb6 vW73
+LOOKUP zi
+INSERT wAKrAD string
+INSERT b number
+RPRINT
+ASSIGN zi 716
+ASSIGN zi 'ASGz'
+RPRINT
+INSERT nAc string
+RPRINT
+END

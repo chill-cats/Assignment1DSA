@@ -1,0 +1,4 @@
+LOOKUP tw0p
+RPRINT
+INSERT j_ number
+BEGIN

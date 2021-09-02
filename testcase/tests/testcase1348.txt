@@ -1,0 +1,31 @@
+ASSIGN kym 948
+INSERT u_jFUL number
+INSERT sx number
+INSERT t88L number
+INSERT vv string
+INSERT pbCn string
+LOOKUP u_jFUL
+END
+INSERT suMWGH string
+INSERT x5E number
+END
+INSERT fYdKHg string
+PRINT
+RPRINT
+PRINT
+INSERT eae1PT string
+INSERT r number
+ASSIGN x5E t88L
+LOOKUP fYdKHg
+ASSIGN pbCn 'Xp'
+END
+INSERT f2 number
+ASSIGN f2 'X25'
+INSERT p number
+INSERT jR string
+hkHsb fSo6zE
+BEGIN
+INSERT uDU9Lq number
+INSERT vL string
+RPRINT
+END

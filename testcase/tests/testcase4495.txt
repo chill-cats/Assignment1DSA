@@ -1,0 +1,27 @@
+INSERT rR_ string
+BEGIN
+INSERT xuqk number
+INSERT eNe string
+INSERT uy number
+INSERT ii6k number
+INSERT a string
+ASSIGN a 'C'
+INSERT v number
+INSERT l7h4X number
+END
+ASSIGN eNe 'MbT2W'
+PRINT
+INSERT kMc string
+INSERT sr string
+RPRINT
+INSERT p number
+INSERT zpZ number
+INSERT pjx number
+ASSIGN p 'X'
+INSERT m3 number
+INSERT hAQ string
+PRINT
+INSERT cuUOv string
+INSERT n73RJ2 string
+LOOKUP eNe
+INSERT h_ string

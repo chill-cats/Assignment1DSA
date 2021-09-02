@@ -1,0 +1,29 @@
+END
+INSERT i string
+INSERT t5I string
+INSERT xP number
+INSERT yT7P number
+INSERT mp string
+END
+ASSIGN i 375
+INSERT iUIwb3 number
+PRINT
+INSERT eQl string
+INSERT hgWK3 number
+INSERT vuB4DR string
+BEGIN
+INSERT k number
+INSERT sFUTlW number
+INSERT gaJEEf string
+INSERT ry8Y number
+RPRINT
+INSERT oskI number
+BEGIN
+LOOKUP xP
+INSERT ga string
+INSERT to4BG1 string
+INSERT vCW string
+INSERT tS number
+INSERT rxFp string
+INSERT apU number
+INSERT cBhF number

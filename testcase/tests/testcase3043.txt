@@ -1,0 +1,20 @@
+ASSIGN rr9 45
+END
+INSERT z number
+PRINT
+INSERT m string
+INSERT pb7 string
+INSERT gL string
+BEGIN
+LOOKUP m
+RPRINT
+INSERT jMhN number
+INSERT f9fK number
+INSERT bLwjF0 number
+BEGIN
+RPRINT
+LOOKUP jMhN
+INSERT xq string
+INSERT dYp8u number
+BEGIN
+RPRINT

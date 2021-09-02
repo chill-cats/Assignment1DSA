@@ -1,0 +1,17 @@
+BEGIN
+INSERT eKKE number
+a p5CZM
+INSERT uvA number
+INSERT g number
+PRINT
+INSERT aYZ number
+END
+LOOKUP eKKE
+INSERT oE7FQB string
+INSERT r number
+END
+INSERT w string
+LOOKUP aYZ
+LOOKUP eKKE
+PRINT
+INSERT teqYyf string

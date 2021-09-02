@@ -1,0 +1,35 @@
+INSERT s8hL string
+INSERT iS number
+INSERT zvy2 number
+INSERT u number
+BEGIN
+ASSIGN u 1098
+INSERT gdvG number
+INSERT l05f0D number
+INSERT myXvqW number
+pwJ xUA
+vXAy cD4T
+INSERT dnlwak number
+INSERT z number
+BEGIN
+u tCM
+BEGIN
+INSERT ipL1r number
+INSERT t_k9u string
+INSERT fW2r number
+RPRINT
+INSERT eA number
+jT1Fv3 rqI
+BEGIN
+LOOKUP eA
+INSERT e1P9s5 number
+END
+LOOKUP ipL1r
+PRINT
+INSERT wkyN1 number
+RPRINT
+INSERT eOvm string
+INSERT oqG9 number
+INSERT yl82 string
+INSERT b9gceL string
+LOOKUP b9gceL

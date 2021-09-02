@@ -1,0 +1,33 @@
+nf07 nWW
+INSERT aKOb string
+INSERT l string
+INSERT hF string
+INSERT vn string
+END
+BEGIN
+INSERT s_lO number
+INSERT xhu6NY number
+END
+INSERT aKqp string
+END
+LOOKUP aKOb
+INSERT oxn string
+BEGIN
+BEGIN
+INSERT oM number
+INSERT h5 string
+INSERT wF0 number
+RPRINT
+INSERT eXLyj string
+INSERT t string
+INSERT wX4_P number
+INSERT j3ikY string
+ASSIGN oM 461
+INSERT jAuW string
+INSERT k number
+INSERT q number
+ASSIGN wF0 890
+RPRINT
+INSERT wlb number
+END
+INSERT v_qM string

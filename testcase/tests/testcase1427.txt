@@ -1,0 +1,33 @@
+INSERT bV_qE number
+LOOKUP bV_qE
+INSERT cFJBDC number
+INSERT kqD9 number
+INSERT w number
+LOOKUP kqD9
+INSERT bnYHqf number
+INSERT vzc string
+INSERT bK6 number
+ASSIGN bK6 'zbsm'
+END
+INSERT sFHJl number
+INSERT l string
+INSERT zwHcj string
+BEGIN
+END
+LOOKUP cFJBDC
+LOOKUP bK6
+INSERT d number
+RPRINT
+INSERT hP string
+INSERT nmf string
+INSERT p number
+INSERT cey string
+INSERT wWz number
+INSERT s number
+ASSIGN zwHcj 'xYeh'
+INSERT rgxrHc string
+INSERT fF string
+INSERT psD8 number
+INSERT zahPu number
+INSERT cXt string
+INSERT x string

@@ -1,0 +1,11 @@
+RPRINT
+PRINT
+INSERT kavp string
+INSERT wzmcb number
+INSERT kkx string
+INSERT z string
+INSERT adOg_ string
+INSERT b2B7KR string
+END
+PRINT
+INSERT cJez string

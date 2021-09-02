@@ -1,0 +1,34 @@
+INSERT oLV string
+LOOKUP oLV
+INSERT s string
+INSERT w number
+END
+PRINT
+INSERT dnV string
+INSERT doWx string
+INSERT sdy4ev string
+INSERT e5En string
+INSERT of4 string
+INSERT s string
+ASSIGN of4 oLV
+pkc vPm
+INSERT s string
+INSERT y1 number
+INSERT aKuQv string
+INSERT xlY string
+INSERT f9a number
+RPRINT
+PRINT
+INSERT wn number
+INSERT b string
+PRINT
+END
+INSERT xr string
+INSERT eyUa string
+BEGIN
+INSERT iw string
+INSERT z string
+LOOKUP sdy4ev
+tzS0 p
+PRINT
+INSERT j9FMBP string

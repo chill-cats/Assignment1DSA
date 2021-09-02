@@ -1,0 +1,8 @@
+INSERT dCYAbo number
+INSERT odG_dB number
+BEGIN
+INSERT rAru string
+INSERT y number
+BEGIN
+BEGIN
+INSERT o number

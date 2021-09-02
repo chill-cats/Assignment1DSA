@@ -1,0 +1,19 @@
+BEGIN
+INSERT t number
+INSERT bP number
+INSERT a number
+PRINT
+INSERT cg string
+LOOKUP bP
+INSERT isnwKs number
+INSERT gOLHa number
+BEGIN
+ASSIGN t bP
+INSERT fylq string
+RPRINT
+RPRINT
+INSERT dO9bc string
+PRINT
+RPRINT
+LOOKUP dO9bc
+INSERT w number

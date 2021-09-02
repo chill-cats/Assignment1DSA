@@ -1,0 +1,32 @@
+INSERT h1 string
+PRINT
+ASSIGN h1 h1
+INSERT kuf string
+oshagG aqf
+INSERT kRB5 string
+PRINT
+INSERT eH3pS number
+INSERT vB string
+INSERT cPI number
+END
+PRINT
+INSERT xaiN number
+BEGIN
+INSERT vd2 string
+BEGIN
+INSERT nH number
+INSERT xjmv8 string
+ASSIGN xjmv8 vB
+ASSIGN nH kRB5
+INSERT n number
+INSERT k0GFQR string
+INSERT z3 string
+INSERT kJMw string
+ASSIGN eH3pS 'z'
+INSERT bG number
+LOOKUP vB
+INSERT nKHR string
+LOOKUP nKHR
+INSERT i8 number
+ASSIGN xaiN z3
+BEGIN

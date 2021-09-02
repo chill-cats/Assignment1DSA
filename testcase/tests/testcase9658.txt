@@ -1,0 +1,34 @@
+INSERT uZjl string
+LOOKUP uZjl
+LOOKUP uZjl
+PRINT
+INSERT rl string
+LOOKUP uZjl
+INSERT dROy string
+INSERT lBb7 string
+INSERT r string
+INSERT tbGQzW number
+ASSIGN rl 'ifXVK'
+INSERT m number
+INSERT rXo5GS number
+INSERT cXSEx number
+INSERT h number
+BEGIN
+INSERT bjyZ string
+END
+INSERT oI string
+INSERT kOgP string
+INSERT bjDzZ number
+ASSIGN h 123
+INSERT dpc string
+END
+INSERT uDB string
+dc l
+INSERT v string
+INSERT i3Z6 string
+PRINT
+d kbQXei
+INSERT r string
+END
+INSERT isG string
+INSERT yJlAt number

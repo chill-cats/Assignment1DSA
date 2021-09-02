@@ -1,0 +1,14 @@
+END
+kD5y hodJ
+INSERT g07lJF string
+LOOKUP g07lJF
+INSERT vCmf number
+INSERT vJ1rgC string
+ASSIGN g07lJF vJ1rgC
+INSERT ax number
+INSERT w1tiL string
+INSERT o number
+INSERT cw2 number
+PRINT
+INSERT bASZ number
+RPRINT

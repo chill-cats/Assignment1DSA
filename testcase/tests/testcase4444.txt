@@ -1,0 +1,11 @@
+INSERT fDYLH4 number
+INSERT ln string
+INSERT uBQom number
+INSERT b7R8 number
+PRINT
+INSERT kVm number
+INSERT sr3kRp number
+INSERT db number
+INSERT mI number
+INSERT nbnhAc number
+BEGIN

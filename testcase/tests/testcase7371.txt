@@ -1,0 +1,10 @@
+BEGIN
+INSERT xeUnHi number
+RPRINT
+INSERT tpEpQu string
+END
+INSERT sQdGl string
+INSERT fOgB7 string
+END
+INSERT hDfo string
+ASSIGN hDfo sQdGl

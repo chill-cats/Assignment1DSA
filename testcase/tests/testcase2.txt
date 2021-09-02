@@ -1,0 +1,11 @@
+INSERT q5o3y number
+INSERT wgU number
+END
+INSERT cE number
+INSERT uc4_ug string
+t uHGThZ
+INSERT l number
+INSERT slmO number
+RPRINT
+PRINT
+END

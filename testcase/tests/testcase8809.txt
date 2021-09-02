@@ -1,0 +1,14 @@
+BEGIN
+BEGIN
+INSERT piESn8 number
+INSERT z76c string
+INSERT fv number
+INSERT g63lJ string
+INSERT dWwL string
+INSERT iNfu number
+INSERT iOA_l string
+INSERT z string
+LOOKUP piESn8
+INSERT k string
+INSERT x string
+INSERT xwHYAp number

@@ -1,0 +1,20 @@
+xZ mPNrB
+INSERT dHx number
+INSERT c string
+wEp nUmYs
+INSERT fw9GS string
+INSERT qn string
+LOOKUP fw9GS
+INSERT y9LYK number
+BEGIN
+INSERT s string
+INSERT r number
+ASSIGN r 90
+BEGIN
+INSERT jRBut4 string
+INSERT brlzM6 string
+INSERT gbajK number
+ASSIGN brlzM6 'Gij'
+PRINT
+INSERT dk number
+INSERT rX number

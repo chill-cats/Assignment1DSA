@@ -1,0 +1,7 @@
+END
+LOOKUP l38
+LOOKUP jTC36
+INSERT cjs1bu string
+INSERT vV string
+ASSIGN vV 613
+INSERT d number

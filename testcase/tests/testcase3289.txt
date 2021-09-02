@@ -1,0 +1,27 @@
+INSERT qpIlmq number
+INSERT oM string
+PRINT
+INSERT d0yrEQ number
+INSERT j number
+INSERT g_rv string
+INSERT p number
+END
+END
+BEGIN
+BEGIN
+INSERT q1 number
+INSERT sWV7 string
+ASSIGN sWV7 152
+INSERT xxVmRp string
+PRINT
+END
+INSERT a number
+INSERT jKQ string
+LOOKUP sWV7
+END
+INSERT zo number
+INSERT w number
+INSERT nF5f number
+END
+t0q1 o
+END

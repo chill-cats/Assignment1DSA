@@ -1,0 +1,30 @@
+RPRINT
+PRINT
+INSERT lUx number
+BEGIN
+INSERT c number
+BEGIN
+INSERT ia5 number
+INSERT uPqwN number
+INSERT kQV string
+INSERT sb string
+ASSIGN ia5 sb
+INSERT jtv number
+INSERT wG number
+END
+INSERT jSy string
+INSERT w number
+INSERT yVmjZ string
+INSERT hkLgJ number
+BEGIN
+ro dh
+INSERT zM string
+INSERT iE number
+ASSIGN hkLgJ kQV
+RPRINT
+INSERT o string
+END
+BEGIN
+INSERT pr number
+INSERT c string
+INSERT cPlFg string

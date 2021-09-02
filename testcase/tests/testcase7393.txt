@@ -1,0 +1,37 @@
+INSERT wxej string
+INSERT kqW string
+ASSIGN wxej 996
+END
+BEGIN
+LOOKUP wxej
+LOOKUP kqW
+INSERT r number
+PRINT
+INSERT v string
+INSERT bOH_f string
+RPRINT
+BEGIN
+BEGIN
+INSERT q41M string
+INSERT bse1 string
+BEGIN
+INSERT eV number
+BEGIN
+LOOKUP r
+ASSIGN v 900
+BEGIN
+END
+LOOKUP r
+oEEE5t vH
+PRINT
+INSERT xlY number
+INSERT otXfu string
+PRINT
+LOOKUP bse1
+LOOKUP xlY
+INSERT sL number
+INSERT o0j number
+END
+INSERT yTB string
+INSERT lFerO number
+INSERT zVbG number

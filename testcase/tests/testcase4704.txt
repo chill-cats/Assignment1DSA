@@ -1,0 +1,35 @@
+INSERT bML number
+INSERT tfOB number
+BEGIN
+INSERT vBgNZa number
+INSERT ySH9Ya string
+RPRINT
+INSERT pyRJg string
+INSERT qj number
+INSERT oo string
+INSERT sC4M0 string
+BEGIN
+INSERT jm8 string
+INSERT elY string
+PRINT
+PRINT
+BEGIN
+INSERT plEgJM number
+ASSIGN oo jm8
+l4dd pkS
+RPRINT
+INSERT vd number
+eu pt8P
+INSERT j string
+ASSIGN oo elY
+INSERT uopI number
+ASSIGN jm8 'vAf'
+INSERT xL number
+BEGIN
+INSERT gb59Fz number
+LOOKUP xL
+PRINT
+INSERT r number
+PRINT
+INSERT ecCgm number
+RPRINT

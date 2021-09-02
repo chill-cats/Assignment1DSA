@@ -1,0 +1,8 @@
+PRINT
+ASSIGN taeY 942
+RPRINT
+INSERT k6O number
+RPRINT
+INSERT dlG string
+INSERT vtN3JJ string
+RPRINT

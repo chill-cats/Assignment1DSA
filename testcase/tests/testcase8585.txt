@@ -1,0 +1,24 @@
+LOOKUP tqQk
+INSERT d number
+INSERT aqT string
+LOOKUP d
+INSERT lXSW string
+RPRINT
+INSERT i string
+END
+INSERT dwITDW string
+ASSIGN dwITDW 'ag'
+INSERT bbaQ string
+INSERT ooWFg string
+INSERT y string
+BEGIN
+INSERT yqwk4a string
+INSERT o number
+INSERT oh number
+INSERT me string
+INSERT jrHUkB string
+RPRINT
+INSERT lMEvBA number
+INSERT pabfq5 number
+INSERT m string
+INSERT q number

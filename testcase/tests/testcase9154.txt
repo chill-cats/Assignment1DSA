@@ -1,0 +1,30 @@
+INSERT uipS1 string
+INSERT qtvanu string
+INSERT ymxt number
+INSERT usYeKz number
+INSERT nLQNZa number
+END
+INSERT sTJ8 number
+RPRINT
+RPRINT
+INSERT cWpM string
+INSERT eE1 string
+LOOKUP qtvanu
+INSERT mrcb number
+ASSIGN sTJ8 cWpM
+INSERT etYI string
+INSERT vST_ string
+INSERT cyT3oL string
+LOOKUP oEv
+PRINT
+PRINT
+INSERT bz string
+PRINT
+INSERT r string
+LOOKUP uipS1
+INSERT g5C0g number
+INSERT vj string
+INSERT eY string
+BEGIN
+INSERT scI number
+ivn mIRkz6

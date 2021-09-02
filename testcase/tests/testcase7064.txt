@@ -1,0 +1,34 @@
+INSERT w_ string
+INSERT tdPwve string
+INSERT iQSYxH number
+LOOKUP tdPwve
+INSERT qozS number
+INSERT zX number
+PRINT
+PRINT
+INSERT iix4t string
+INSERT f string
+ASSIGN f f
+PRINT
+INSERT hi number
+INSERT tjm number
+ASSIGN iix4t 'W'
+INSERT aBHuDj string
+INSERT r number
+PRINT
+END
+PRINT
+INSERT sLRld string
+PRINT
+INSERT qG string
+k s9C
+INSERT p string
+INSERT qXg number
+INSERT f4uPG string
+INSERT pG7xW number
+RPRINT
+INSERT a string
+INSERT ga string
+INSERT p string
+INSERT vfc number
+INSERT iryZFN number

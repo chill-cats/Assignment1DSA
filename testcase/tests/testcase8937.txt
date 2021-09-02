@@ -1,0 +1,22 @@
+INSERT urtm number
+INSERT hVJS number
+INSERT bFfi number
+RPRINT
+INSERT kx8Q string
+INSERT h number
+LOOKUP hVJS
+LOOKUP urtm
+INSERT a_8H94 number
+PRINT
+INSERT s number
+INSERT ue number
+INSERT veoY string
+LOOKUP hVJS
+RPRINT
+INSERT khwE number
+ASSIGN veoY 'ZqX0'
+INSERT ghE1 string
+RPRINT
+INSERT t number
+INSERT oAn6 number
+INSERT m9OH number

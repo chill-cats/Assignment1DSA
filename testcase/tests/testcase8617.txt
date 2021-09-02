@@ -1,0 +1,31 @@
+BEGIN
+INSERT xT number
+RPRINT
+m hv
+INSERT v8uw string
+INSERT qBV number
+INSERT s8A string
+BEGIN
+ASSIGN v8uw 'ONgA'
+INSERT dU number
+INSERT fRrc number
+INSERT lyGVt string
+cW n
+INSERT vW1J number
+LOOKUP jMDIF
+BEGIN
+INSERT j8jid3 number
+INSERT o__ number
+PRINT
+xD mgv3M5
+INSERT cA number
+ASSIGN o__ 'O3b'
+INSERT iWPq3H string
+PRINT
+INSERT jeaS4 string
+LOOKUP j8jid3
+INSERT rkQnHc string
+ASSIGN v8uw 699
+RPRINT
+INSERT p9uqG string
+INSERT v4QW8B number

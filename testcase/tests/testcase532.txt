@@ -1,0 +1,9 @@
+h w
+INSERT lu_Uo string
+LOOKUP lu_Uo
+rT mn4cXw
+INSERT hf number
+RPRINT
+a xQN9Y
+INSERT uw string
+INSERT r9A number

@@ -1,0 +1,4 @@
+INSERT vKvFz number
+PRINT
+INSERT i string
+INSERT p number

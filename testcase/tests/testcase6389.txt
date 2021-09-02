@@ -1,0 +1,39 @@
+INSERT k3 string
+INSERT gQ7kk number
+INSERT fZ number
+INSERT s0B number
+INSERT v4 number
+INSERT aCz number
+INSERT m56p3 number
+INSERT w string
+ASSIGN s0B 344
+INSERT k3z string
+INSERT qn number
+c8fvNr zdazbe
+END
+ASSIGN m56p3 112
+RPRINT
+INSERT fPa string
+INSERT dVNjFK number
+LOOKUP gQ7kk
+INSERT cUb string
+INSERT dE1h string
+INSERT kL number
+BEGIN
+INSERT qmG string
+gD7rlx zcs
+INSERT nh9s number
+INSERT c4C string
+INSERT wcI string
+INSERT o string
+PRINT
+INSERT vt5 string
+RPRINT
+PRINT
+INSERT gSc_ number
+ASSIGN kL k3
+END
+INSERT kAxz number
+INSERT vu number
+INSERT rIViq string
+INSERT q0PB number

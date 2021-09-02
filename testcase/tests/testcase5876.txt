@@ -1,0 +1,37 @@
+RPRINT
+INSERT v0ES string
+INSERT fNxN string
+INSERT xT number
+ASSIGN fNxN 1078
+INSERT k number
+INSERT u string
+ap ufBS2
+INSERT htSgbA number
+BEGIN
+END
+END
+LOOKUP k
+LOOKUP u
+BEGIN
+INSERT aR number
+RPRINT
+n dG
+INSERT fp string
+INSERT sb1m string
+INSERT qPsl string
+ASSIGN k 510
+BEGIN
+ASSIGN htSgbA 'wh'
+INSERT s string
+INSERT xWY number
+INSERT s8zED string
+INSERT oK3K number
+ASSIGN oK3K qPsl
+INSERT daArO number
+wUh4h hj3Qfr
+LOOKUP sb1m
+INSERT fx string
+ASSIGN k 512
+PRINT
+INSERT x string
+BEGIN

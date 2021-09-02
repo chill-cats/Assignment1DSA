@@ -1,0 +1,24 @@
+INSERT zeGC number
+nA db
+BEGIN
+ASSIGN zeGC 'sb'
+BEGIN
+INSERT ybMPx string
+INSERT icXx string
+INSERT ypRW string
+ASSIGN ybMPx 684
+INSERT s9L1 number
+BEGIN
+INSERT o2Kjr number
+INSERT b string
+LOOKUP zeGC
+BEGIN
+END
+INSERT ir7h number
+INSERT k number
+INSERT d number
+INSERT u string
+ASSIGN ypRW 25
+INSERT ldCrH number
+ASSIGN qvVV 1038
+INSERT rLXo string

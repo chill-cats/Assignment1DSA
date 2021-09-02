@@ -1,0 +1,19 @@
+INSERT geytrF string
+RPRINT
+INSERT nD5 number
+INSERT k string
+INSERT jnQC string
+INSERT bx number
+INSERT z string
+INSERT o number
+END
+RPRINT
+c yeq
+PRINT
+END
+INSERT a number
+INSERT aXu6 number
+INSERT r9y number
+ASSIGN jnQC 'H'
+BEGIN
+BEGIN

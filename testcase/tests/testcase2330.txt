@@ -1,0 +1,30 @@
+BEGIN
+INSERT dL number
+INSERT y number
+ASSIGN y 'yAI'
+END
+INSERT v number
+PRINT
+INSERT cDjwW number
+RPRINT
+INSERT i7Bz number
+LOOKUP y
+ASSIGN cDjwW i7Bz
+LOOKUP i7Bz
+INSERT w number
+PRINT
+ASSIGN y 1198
+PRINT
+INSERT mlT8Kz number
+INSERT pX number
+INSERT o9E number
+RPRINT
+INSERT qG8HA string
+INSERT xHZSGU number
+gEhq3P v
+LOOKUP w
+INSERT noJjoY string
+INSERT pUK string
+INSERT zS string
+iFPA37 fZ
+INSERT fC number

@@ -1,0 +1,23 @@
+INSERT eNy number
+INSERT mM number
+sZ c
+INSERT jKK string
+ASSIGN mM eNy
+INSERT dKgf string
+INSERT lSSJM string
+INSERT xd string
+INSERT pQUb_O number
+INSERT fPt string
+LOOKUP fPt
+INSERT f number
+INSERT qtW string
+PRINT
+INSERT bE string
+INSERT f string
+END
+INSERT v string
+INSERT vpC string
+INSERT v0Om number
+PRINT
+INSERT mYwR string
+ASSIGN bE 'TKxq'

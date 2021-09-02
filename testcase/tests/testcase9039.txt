@@ -1,0 +1,27 @@
+x9 br
+INSERT lmxIzb string
+INSERT aC number
+RPRINT
+INSERT ia number
+INSERT pHim number
+INSERT eCcyf number
+INSERT f string
+END
+INSERT mVK number
+INSERT y8V string
+INSERT mtiM4 string
+INSERT e string
+INSERT y string
+INSERT cDk1 string
+ASSIGN f '3lhP'
+INSERT wNK7KM string
+ASSIGN y 'E'
+PRINT
+INSERT mumw number
+LOOKUP wNK7KM
+INSERT c string
+INSERT x string
+INSERT wgr string
+INSERT lgRF3j number
+INSERT tT string
+INSERT ozY5Kn number

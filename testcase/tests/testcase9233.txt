@@ -1,0 +1,17 @@
+INSERT rH string
+INSERT h4bmTR number
+ASSIGN h4bmTR 'FR'
+LOOKUP rH
+nP dfkSv4
+INSERT e7 string
+BEGIN
+INSERT djqitp number
+INSERT z number
+w mtW
+INSERT e number
+LOOKUP h4bmTR
+INSERT gAB number
+RPRINT
+INSERT ms3EzU number
+br q2
+INSERT lwYb string

@@ -1,0 +1,8 @@
+INSERT eNwW number
+PRINT
+ASSIGN eNwW eNwW
+INSERT t string
+INSERT v string
+INSERT aif number
+INSERT dxQYiA number
+qL b

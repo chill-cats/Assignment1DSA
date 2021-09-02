@@ -1,0 +1,21 @@
+INSERT m string
+INSERT k2c string
+BEGIN
+INSERT lhMX number
+INSERT ueGs string
+END
+m7cj kF9
+INSERT gQi string
+INSERT j string
+LOOKUP ueGs
+END
+INSERT g89lYY number
+INSERT r1emNL number
+INSERT rs5myd string
+INSERT yTdtg string
+INSERT hD2n number
+ASSIGN yTdtg '1Y'
+ASSIGN r1emNL k2c
+LOOKUP k2c
+INSERT at string
+END

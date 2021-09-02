@@ -1,0 +1,20 @@
+INSERT fRH3b2 number
+INSERT tp number
+INSERT tMzg4z number
+INSERT lVGam string
+INSERT lse number
+INSERT n number
+INSERT qu1ec number
+INSERT lGx number
+INSERT uz7vrd number
+INSERT cC string
+INSERT i number
+END
+INSERT hD5 number
+INSERT xB number
+RPRINT
+ASSIGN tp 293
+INSERT uwI2Y number
+INSERT q1lU number
+INSERT udm1Q string
+INSERT fkj number

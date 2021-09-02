@@ -1,0 +1,20 @@
+PRINT
+END
+INSERT uy string
+INSERT aCdaV number
+INSERT mieaA string
+BEGIN
+LOOKUP uy
+INSERT w number
+INSERT o number
+INSERT tN string
+INSERT y number
+PRINT
+zp qD
+INSERT rx string
+PRINT
+INSERT y3z0mB number
+BEGIN
+INSERT e string
+PRINT
+INSERT m number

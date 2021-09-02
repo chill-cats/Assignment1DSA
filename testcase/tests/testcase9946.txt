@@ -1,0 +1,22 @@
+PRINT
+INSERT sgb_Qo string
+INSERT ld number
+INSERT uyfRQ string
+INSERT e0kXPT number
+INSERT molK0Y string
+INSERT eQ string
+LOOKUP e0kXPT
+INSERT dX5 number
+ASSIGN ld sgb_Qo
+INSERT j0dc7 number
+PRINT
+INSERT gCz number
+BEGIN
+END
+INSERT mXrR string
+LOOKUP sgb_Qo
+LOOKUP ld
+RPRINT
+INSERT pHCoXt string
+INSERT qlC9pz string
+INSERT kET544 string

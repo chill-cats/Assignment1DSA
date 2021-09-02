@@ -1,0 +1,36 @@
+RPRINT
+INSERT rSiD number
+INSERT owVEy number
+LOOKUP rSiD
+INSERT n0jW1 string
+INSERT f69L string
+INSERT xWu string
+INSERT aB number
+INSERT uvM7K number
+INSERT lPa4yr string
+INSERT gQccK number
+INSERT dAsx string
+INSERT h4RP string
+oNT nxrs0
+INSERT y8 string
+INSERT cYX number
+INSERT vhnGH number
+INSERT wiC3 number
+INSERT k number
+INSERT ci number
+INSERT nr1f number
+INSERT gy389 number
+INSERT p number
+INSERT k2tB number
+INSERT dIlo number
+INSERT eTWFF string
+INSERT z string
+PRINT
+INSERT enM string
+INSERT gwvfg1 number
+BEGIN
+PRINT
+INSERT fJr7b string
+PRINT
+INSERT a number
+INSERT mH8ui1 number

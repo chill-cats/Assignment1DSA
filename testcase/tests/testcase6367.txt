@@ -1,0 +1,32 @@
+INSERT dx number
+INSERT bSLLG string
+RPRINT
+ASSIGN dx 10
+BEGIN
+INSERT sX9 number
+LOOKUP bSLLG
+ASSIGN dx 'qNf'
+INSERT t5 string
+PRINT
+INSERT wvhxC number
+INSERT t number
+END
+INSERT hs3 number
+INSERT u number
+RPRINT
+INSERT yG string
+LOOKUP wvhxC
+LOOKUP wvhxC
+BEGIN
+INSERT bYh9 number
+INSERT fQZ number
+INSERT cfz number
+ASSIGN bYh9 473
+INSERT f2T number
+nlYg lt4R
+INSERT f5Cr number
+INSERT hLKCam number
+INSERT a4 number
+INSERT eCywOC number
+INSERT nb0iP number
+END

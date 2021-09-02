@@ -1,0 +1,8 @@
+RPRINT
+INSERT fzQOpn string
+INSERT hoOQ string
+INSERT dI1uCw string
+INSERT eih6 number
+END
+LOOKUP eih6
+tgEEYK deT0o

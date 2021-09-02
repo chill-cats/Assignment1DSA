@@ -1,0 +1,33 @@
+INSERT k8 number
+RPRINT
+LOOKUP k8
+INSERT rjG string
+INSERT qvUQ string
+INSERT uy0 string
+BEGIN
+BEGIN
+gB u
+INSERT hl0SlU string
+INSERT wUi0 string
+END
+END
+BEGIN
+LOOKUP qvUQ
+INSERT us number
+dt pI7u
+END
+END
+INSERT kX6 string
+LOOKUP uy0
+INSERT smzGX6 number
+INSERT eQ string
+BEGIN
+RPRINT
+INSERT y string
+INSERT mBO string
+INSERT ks string
+INSERT nBaSwK string
+INSERT on3su2 number
+INSERT wn42 number
+INSERT v8ii6Q number
+ASSIGN ks 464

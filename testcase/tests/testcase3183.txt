@@ -1,0 +1,29 @@
+INSERT qt string
+PRINT
+INSERT j number
+INSERT tqks7V string
+INSERT m number
+INSERT a string
+INSERT dy0 string
+INSERT jOIPy number
+INSERT l8UA_F number
+INSERT w9dkDq number
+BEGIN
+LOOKUP w9dkDq
+PRINT
+ASSIGN w9dkDq l8UA_F
+RPRINT
+INSERT tf string
+BEGIN
+INSERT muB string
+w aVt60
+INSERT io0dX number
+RPRINT
+INSERT gNaDh number
+INSERT h number
+LOOKUP jOIPy
+PRINT
+wTB sBoD
+LOOKUP w9dkDq
+INSERT wE number
+INSERT h string

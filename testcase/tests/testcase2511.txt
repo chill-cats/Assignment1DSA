@@ -1,0 +1,22 @@
+z v
+PRINT
+INSERT nWFvcJ number
+INSERT bd number
+INSERT h string
+LOOKUP bd
+INSERT p6uvM string
+RPRINT
+INSERT qopqo number
+PRINT
+BEGIN
+INSERT hf string
+LOOKUP hf
+INSERT vZX number
+INSERT lb string
+q0Qsnk a12Bt
+ASSIGN lb 'cdOx4'
+LOOKUP p6uvM
+INSERT kN5 string
+INSERT b_ number
+PRINT
+END

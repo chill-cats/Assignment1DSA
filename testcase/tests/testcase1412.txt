@@ -1,0 +1,30 @@
+INSERT uXC7 string
+INSERT fFBN string
+END
+PRINT
+BEGIN
+END
+INSERT m17 string
+ASSIGN uXC7 605
+INSERT eqtGjd number
+INSERT fA string
+INSERT bzo number
+INSERT nQ string
+INSERT mhu5 string
+INSERT n_ number
+END
+INSERT zN18 number
+BEGIN
+INSERT m string
+END
+INSERT tmE number
+INSERT p string
+INSERT yL4Z string
+INSERT iZNTNx string
+ASSIGN uXC7 'U'
+INSERT v string
+INSERT kM5F number
+ASSIGN zN18 'cjkWS'
+INSERT z number
+INSERT g_j number
+INSERT tdaU number

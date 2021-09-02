@@ -1,0 +1,18 @@
+INSERT yt9 number
+ASSIGN yt9 yt9
+ASSIGN yt9 833
+INSERT mpJf string
+RPRINT
+INSERT l number
+RPRINT
+INSERT zSoUo string
+INSERT yTQn number
+PRINT
+END
+INSERT wxQT string
+vl7 s6
+INSERT o string
+RPRINT
+BEGIN
+ASSIGN wxQT 'nT'
+PRINT

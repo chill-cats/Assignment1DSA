@@ -1,0 +1,4 @@
+INSERT yi string
+INSERT mN2XF4 number
+INSERT kyK string
+INSERT m string

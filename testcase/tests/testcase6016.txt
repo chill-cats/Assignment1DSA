@@ -1,0 +1,37 @@
+INSERT ynnK string
+INSERT onCk11 string
+INSERT tj3OV1 number
+BEGIN
+INSERT cqSj number
+INSERT paVMi number
+INSERT l string
+PRINT
+INSERT k1MXF number
+INSERT o8 string
+INSERT xCPYG string
+LOOKUP xCPYG
+INSERT gfr_2 number
+RPRINT
+INSERT s string
+INSERT nEmz2N string
+RPRINT
+INSERT g string
+INSERT p number
+ASSIGN paVMi 'gKqd'
+INSERT anB number
+PRINT
+END
+PRINT
+BEGIN
+PRINT
+INSERT pEr1 string
+INSERT dnV number
+RPRINT
+BEGIN
+PRINT
+END
+LOOKUP paVMi
+PRINT
+INSERT sOROI7 number
+LOOKUP cqSj
+INSERT pHdYhj number

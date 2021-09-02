@@ -1,0 +1,38 @@
+INSERT rV9 string
+INSERT l number
+INSERT yL12 number
+INSERT fjeYz string
+INSERT q44xvz number
+INSERT qi_jy string
+INSERT kv string
+INSERT kd string
+INSERT u number
+END
+INSERT tfDmv string
+ASSIGN kv 991
+j vZh
+INSERT x number
+LOOKUP yL12
+INSERT l3 number
+y3fXa uZk
+INSERT xi5 number
+INSERT k number
+INSERT xRq8Fi number
+INSERT lINs string
+INSERT n4 string
+LOOKUP x
+PRINT
+BEGIN
+INSERT oUF5 string
+INSERT r number
+INSERT vh string
+INSERT rMqEbq string
+LOOKUP r
+INSERT lvdIv6 string
+PRINT
+INSERT e97cb string
+INSERT uptUdp string
+INSERT zKXq3Q string
+ns_ q
+INSERT tmH244 string
+ASSIGN qi_jy 'aQAG4'

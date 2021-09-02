@@ -1,0 +1,6 @@
+INSERT lAa number
+PRINT
+INSERT whQso number
+RPRINT
+INSERT oh number
+PRINT

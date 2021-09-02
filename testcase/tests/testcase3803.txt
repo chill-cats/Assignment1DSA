@@ -1,0 +1,8 @@
+INSERT so number
+INSERT etn number
+INSERT o345 number
+INSERT oJM9K string
+ASSIGN so so
+INSERT ncN number
+INSERT y21 number
+END

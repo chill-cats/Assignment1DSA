@@ -1,0 +1,37 @@
+INSERT gf6w string
+INSERT w9mc string
+u keZ
+PRINT
+RPRINT
+PRINT
+INSERT udA8Iq number
+INSERT krH string
+INSERT rWkFn string
+END
+ASSIGN udA8Iq 1089
+LOOKUP w9mc
+INSERT jtD number
+BEGIN
+BEGIN
+obN gnXh8
+BEGIN
+LOOKUP udA8Iq
+END
+INSERT s3wNEB number
+LOOKUP udA8Iq
+INSERT beZQ3G number
+INSERT ucoM string
+BEGIN
+ASSIGN rWkFn 729
+BEGIN
+END
+INSERT syAE number
+INSERT v number
+cjcCO ey0MiC
+INSERT ru number
+END
+INSERT nW6 string
+RPRINT
+PRINT
+INSERT l string
+INSERT xnQziP number

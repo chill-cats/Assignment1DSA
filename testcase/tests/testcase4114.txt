@@ -1,0 +1,37 @@
+INSERT xj string
+INSERT qQWb number
+INSERT cLT string
+INSERT bB73 string
+RPRINT
+LOOKUP cLT
+qB j_9Ay
+INSERT hG string
+INSERT g71eLX string
+INSERT eDdIc number
+INSERT qmNY number
+INSERT w string
+INSERT p number
+INSERT dt string
+LOOKUP c2e0k
+INSERT p string
+INSERT sWpRVP string
+INSERT pzkNtK string
+INSERT ej number
+mqv3 o
+BEGIN
+INSERT v0 string
+INSERT t string
+INSERT yH4hFP number
+ASSIGN p 'VpMMI'
+INSERT bl0 string
+ASSIGN xj pzkNtK
+ASSIGN t 'Vh'
+LOOKUP xj
+INSERT hAaEd string
+BEGIN
+INSERT xAc number
+INSERT wBj3iC string
+INSERT owLT string
+INSERT dkYJn number
+INSERT hHx string
+k zI

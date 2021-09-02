@@ -1,0 +1,4 @@
+INSERT xp string
+INSERT pwSR number
+END
+RPRINT

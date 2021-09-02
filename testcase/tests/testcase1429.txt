@@ -1,0 +1,37 @@
+INSERT t_RIv string
+INSERT k5QR_ string
+INSERT xNN string
+INSERT xy2nb4 string
+INSERT vUrRb string
+INSERT gGB number
+INSERT m14uSG number
+INSERT iY1vS number
+RPRINT
+INSERT d string
+INSERT fN_QL number
+INSERT q string
+END
+RPRINT
+PRINT
+RPRINT
+INSERT dQB1yJ string
+INSERT fR9b2 string
+END
+INSERT ihTO number
+BEGIN
+INSERT urBY number
+PRINT
+c f1jo
+END
+LOOKUP gGB
+INSERT tulQo string
+INSERT u number
+RPRINT
+INSERT oF5RId string
+RPRINT
+INSERT odK string
+INSERT o7 string
+ASSIGN fR9b2 '4'
+INSERT hLh9Ca number
+INSERT ww number
+PRINT

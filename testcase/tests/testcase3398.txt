@@ -1,0 +1,4 @@
+INSERT p8 number
+LOOKUP p8
+INSERT n number
+INSERT e string

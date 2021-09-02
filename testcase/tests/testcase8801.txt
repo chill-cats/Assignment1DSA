@@ -1,0 +1,29 @@
+RPRINT
+INSERT uJXgr string
+eta0l9 kIf
+BEGIN
+INSERT xWG number
+INSERT xrM number
+ASSIGN uJXgr uJXgr
+INSERT tn number
+INSERT yKAQ string
+INSERT v1dN string
+INSERT sL string
+INSERT vjt string
+INSERT p string
+INSERT k string
+INSERT f number
+INSERT tSWz string
+LOOKUP tSWz
+INSERT aABxw number
+LOOKUP sL
+INSERT d_BIPX string
+ASSIGN f 1140
+y efCK6
+zA nY
+INSERT dnk string
+PRINT
+INSERT iv3ly number
+RPRINT
+LOOKUP iv3ly
+INSERT ko number

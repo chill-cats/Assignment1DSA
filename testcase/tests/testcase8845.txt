@@ -1,0 +1,2 @@
+INSERT gJmTlJ string
+INSERT oNVI number

@@ -1,0 +1,22 @@
+LOOKUP xp2h
+INSERT nE8DR0 string
+PRINT
+PRINT
+INSERT u_Mv string
+INSERT e0xXH string
+PRINT
+INSERT rOeOP number
+INSERT pJv string
+INSERT pU string
+INSERT rXf8A5 number
+INSERT g number
+PRINT
+PRINT
+END
+INSERT qD number
+INSERT qf string
+INSERT fip6cP string
+PRINT
+ASSIGN pU 'd4'
+INSERT twq2ZW number
+LOOKUP qD

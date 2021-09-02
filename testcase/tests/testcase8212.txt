@@ -1,0 +1,31 @@
+INSERT d_yiTs string
+BEGIN
+INSERT h string
+INSERT u5UFZ number
+INSERT be8N string
+INSERT sSf8d string
+INSERT c string
+BEGIN
+INSERT mP8G number
+INSERT tPdT4L number
+INSERT oNhtJB number
+INSERT ms number
+LOOKUP be8N
+INSERT kyAA9i number
+INSERT j number
+LOOKUP kyAA9i
+INSERT zfLzge string
+INSERT qY0 string
+kC i1
+INSERT o number
+ASSIGN ms zfLzge
+INSERT ju string
+PRINT
+INSERT s number
+mT zQUbpA
+INSERT i number
+INSERT d_supi number
+BEGIN
+RPRINT
+ASSIGN d_yiTs mP8G
+INSERT nH string

@@ -1,0 +1,35 @@
+INSERT mUaRtM string
+INSERT weMsjx string
+LOOKUP mUaRtM
+INSERT bBD_L number
+INSERT u1o_FS string
+INSERT oNV string
+hUIoQ s5u
+INSERT md number
+INSERT go number
+LOOKUP bBD_L
+a gKw
+INSERT s number
+RPRINT
+ASSIGN u1o_FS 'tOce'
+RPRINT
+BEGIN
+INSERT va0dD number
+ASSIGN md mUaRtM
+INSERT dgmi string
+ASSIGN bBD_L 984
+INSERT vSpht string
+END
+INSERT g number
+INSERT u string
+INSERT mo string
+LOOKUP weMsjx
+END
+INSERT k3hAy4 string
+INSERT xCJgw string
+LOOKUP xCJgw
+ASSIGN mo 'X0OO'
+INSERT nFix string
+INSERT cqf string
+z3ISWL xEtKC9
+INSERT zWkl number

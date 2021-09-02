@@ -1,0 +1,4 @@
+INSERT q6l3 number
+INSERT js number
+INSERT p number
+INSERT vuuw1N string

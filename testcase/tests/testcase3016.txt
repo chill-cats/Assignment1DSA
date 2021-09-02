@@ -1,0 +1,8 @@
+ASSIGN u '2B'
+INSERT isL string
+BEGIN
+INSERT vtG9i number
+INSERT ey_XJT string
+INSERT xvvGKd string
+INSERT eUwV number
+ASSIGN vtG9i 535

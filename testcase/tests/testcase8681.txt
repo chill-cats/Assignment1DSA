@@ -1,0 +1,19 @@
+INSERT aPj1iK number
+INSERT gIX3 string
+LOOKUP aPj1iK
+INSERT oP number
+INSERT t string
+INSERT i1 string
+INSERT phHxsR string
+INSERT zOOJ number
+INSERT osMog string
+LOOKUP t
+INSERT r8ZCRt string
+INSERT a40F string
+fufZQ ijiNz
+ASSIGN phHxsR 275
+INSERT t6s number
+INSERT vTH number
+RPRINT
+LOOKUP r8ZCRt
+BEGIN

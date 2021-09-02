@@ -1,0 +1,37 @@
+END
+INSERT h7Jm_j number
+INSERT a6 string
+INSERT npWRdn number
+INSERT fyzm number
+BEGIN
+INSERT ySub string
+BEGIN
+INSERT tU_gw6 number
+INSERT hcfsL string
+INSERT lOCyb string
+INSERT y5A number
+INSERT uABGZ string
+LOOKUP y5A
+ASSIGN fyzm h7Jm_j
+RPRINT
+ASSIGN a6 551
+INSERT lq number
+INSERT kuY string
+ASSIGN npWRdn 'hK'
+INSERT zi string
+PRINT
+RPRINT
+u8jMt a
+INSERT aokT7 string
+INSERT qMQm number
+INSERT dKe number
+INSERT aq string
+LOOKUP npWRdn
+INSERT zQjCz number
+LOOKUP fE7m
+INSERT vqs8 number
+INSERT we961 number
+PRINT
+INSERT iOiCZy number
+ASSIGN fyzm 889
+INSERT ug9cAq string

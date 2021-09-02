@@ -1,0 +1,36 @@
+INSERT oa string
+LOOKUP oa
+ASSIGN oa 757
+ASSIGN oa 685
+INSERT nOr number
+RPRINT
+END
+xc8H naJS
+LOOKUP oa
+RPRINT
+END
+INSERT z string
+INSERT aNF string
+o92m kLOJ
+INSERT xUwA string
+emn2I vDoWVY
+PRINT
+INSERT x number
+INSERT hWpOs string
+INSERT x number
+INSERT eOgW number
+INSERT n string
+BEGIN
+INSERT p number
+INSERT i6 string
+END
+INSERT u2rs string
+INSERT a number
+INSERT c0Z8 string
+dHr2At oewsw
+INSERT o3LH number
+INSERT hvWmYT string
+INSERT ud string
+INSERT gR string
+INSERT pd number
+INSERT uC number

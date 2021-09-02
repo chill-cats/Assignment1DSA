@@ -1,0 +1,30 @@
+INSERT tyV3CZ number
+INSERT nxcWT number
+INSERT nx number
+RPRINT
+INSERT km string
+END
+RPRINT
+INSERT eJd string
+LOOKUP nxcWT
+INSERT jiyrYq string
+ASSIGN eJd 'Uf'
+INSERT nU_RXM string
+INSERT x string
+jz cu
+t r
+INSERT m number
+INSERT di number
+RPRINT
+PRINT
+INSERT n00Ep number
+BEGIN
+INSERT p2oqEM string
+ASSIGN km 322
+ASSIGN eJd 'V'
+BEGIN
+INSERT ep string
+INSERT o_bND string
+INSERT z number
+END
+INSERT wM string

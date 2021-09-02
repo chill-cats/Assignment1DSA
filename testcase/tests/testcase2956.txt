@@ -1,0 +1,22 @@
+INSERT mH3y number
+INSERT gJk number
+RPRINT
+END
+BEGIN
+BEGIN
+INSERT m1 string
+INSERT z0r string
+INSERT oxu string
+BEGIN
+END
+PRINT
+INSERT f string
+INSERT d string
+END
+LOOKUP mH3y
+ASSIGN gJk 'fk'
+INSERT gAwhL number
+INSERT oyJijj number
+INSERT c string
+LOOKUP d
+INSERT tRt number

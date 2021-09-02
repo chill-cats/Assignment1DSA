@@ -1,0 +1,10 @@
+INSERT nxcB string
+PRINT
+INSERT jv__tW string
+ASSIGN jv__tW 'g6BXb'
+RPRINT
+INSERT lY number
+INSERT gF0U string
+END
+ASSIGN jv__tW 'bkRds'
+INSERT n0a number

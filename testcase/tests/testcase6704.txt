@@ -1,0 +1,30 @@
+PRINT
+INSERT zZ number
+INSERT x5 string
+INSERT qt6 string
+INSERT elxFAB number
+END
+INSERT dB number
+INSERT mg number
+INSERT wl6yk number
+ASSIGN wl6yk zZ
+ASSIGN mg 1058
+INSERT zUIi number
+INSERT tEN string
+INSERT xJ0NP number
+INSERT rmNAf number
+INSERT frDPWZ string
+INSERT q8tbK string
+BEGIN
+INSERT rNGwKk number
+INSERT uf9 number
+INSERT uRbMk number
+INSERT d6yhN number
+INSERT t3 string
+INSERT lFs7 number
+END
+BEGIN
+INSERT rbGw number
+RPRINT
+INSERT d45 number
+INSERT t number

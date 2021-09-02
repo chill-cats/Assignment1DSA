@@ -1,0 +1,40 @@
+INSERT e string
+END
+PRINT
+RPRINT
+INSERT esj string
+INSERT obD string
+PRINT
+LOOKUP esj
+RPRINT
+END
+ASSIGN obD 1187
+INSERT a string
+INSERT x0GiI string
+RPRINT
+BEGIN
+RPRINT
+END
+INSERT dBQgO number
+INSERT err8 string
+ASSIGN x0GiI '3MdYu'
+INSERT eu string
+RPRINT
+END
+INSERT g7IH string
+INSERT r_FLB string
+PRINT
+RPRINT
+INSERT xeC13 number
+BEGIN
+BEGIN
+RPRINT
+INSERT ag string
+END
+INSERT hUe number
+PRINT
+INSERT s1v1v number
+INSERT f1LC string
+ASSIGN qHSsqm g7IH
+INSERT wK number
+LOOKUP f1LC

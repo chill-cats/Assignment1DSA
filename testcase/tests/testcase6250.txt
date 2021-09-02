@@ -1,0 +1,20 @@
+INSERT tr number
+ASSIGN tr 279
+INSERT k1xug6 string
+INSERT uY7 number
+END
+INSERT w string
+INSERT g number
+BEGIN
+END
+INSERT r number
+INSERT b2 number
+INSERT n string
+PRINT
+INSERT nZVx number
+PRINT
+INSERT zA string
+INSERT lxS number
+RPRINT
+INSERT y string
+LOOKUP y

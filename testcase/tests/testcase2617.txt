@@ -1,0 +1,34 @@
+LOOKUP hSia
+INSERT y76z string
+LOOKUP y76z
+INSERT ucXi6 number
+INSERT cTKGuE string
+INSERT tNxcsz number
+INSERT t4cii string
+PRINT
+BEGIN
+INSERT t string
+END
+INSERT ovn number
+ASSIGN ovn 'pOGn2'
+INSERT d8_GND string
+BEGIN
+INSERT cCGJ7H string
+INSERT weRLW number
+PRINT
+INSERT ab number
+BEGIN
+RPRINT
+INSERT l51_3 string
+LOOKUP ab
+INSERT tO number
+ASSIGN weRLW 1225
+INSERT bLi2ET number
+INSERT sMV number
+RPRINT
+END
+INSERT y number
+ASSIGN t 1112
+INSERT hRs7a1 number
+INSERT t2u string
+INSERT lt8MY string

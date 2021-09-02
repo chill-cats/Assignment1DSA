@@ -1,0 +1,30 @@
+INSERT hDm2ti number
+INSERT sNzV string
+INSERT lY38Zw number
+INSERT fGPs string
+RPRINT
+INSERT zLk5 number
+w gJmJ
+END
+INSERT taLg1A string
+ASSIGN taLg1A 381
+INSERT n2v number
+BEGIN
+LOOKUP zLk5
+INSERT tFxA string
+END
+INSERT oQ8_m8 number
+INSERT zPMuG number
+PRINT
+LOOKUP sNzV
+ASSIGN taLg1A 520
+BEGIN
+INSERT jqw number
+INSERT vxKXLO string
+PRINT
+BEGIN
+INSERT ipaj number
+LOOKUP zPMuG
+INSERT cYGd string
+INSERT bR string
+PRINT

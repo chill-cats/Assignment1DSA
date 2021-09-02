@@ -1,0 +1,10 @@
+INSERT bqIRs string
+ASSIGN bqIRs 387
+INSERT w8 number
+END
+END
+INSERT omhH string
+LOOKUP bqIRs
+INSERT te6eC string
+INSERT uwX_r1 string
+ASSIGN omhH 678

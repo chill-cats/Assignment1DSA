@@ -1,0 +1,35 @@
+PRINT
+PRINT
+LOOKUP m5GuUb
+sDREAx disQw
+INSERT w string
+z nm4YE2
+INSERT l string
+INSERT gY string
+INSERT nPB number
+RPRINT
+INSERT u string
+INSERT f5 number
+LOOKUP f5
+PRINT
+RPRINT
+LOOKUP gY
+INSERT v_2Y0x string
+INSERT xDAioA string
+END
+INSERT uVX7NG number
+END
+INSERT o_RKD number
+END
+INSERT y9Fhmq number
+INSERT s string
+INSERT yl string
+INSERT if9Ykm string
+INSERT o string
+LOOKUP o_RKD
+INSERT bUgSch number
+INSERT k number
+INSERT j string
+END
+INSERT mK string
+INSERT t string

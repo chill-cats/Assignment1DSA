@@ -1,0 +1,25 @@
+LOOKUP p
+INSERT v5 string
+RPRINT
+INSERT uI9 number
+INSERT sw number
+RPRINT
+END
+PRINT
+INSERT qW string
+PRINT
+INSERT iH string
+INSERT uHlZ4 string
+END
+INSERT yAl string
+LOOKUP sw
+INSERT ieAvG number
+INSERT u7 number
+INSERT lfWsaC string
+BEGIN
+RPRINT
+END
+INSERT vKCMpo number
+END
+LOOKUP v5
+INSERT rF number

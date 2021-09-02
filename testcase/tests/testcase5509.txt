@@ -1,0 +1,26 @@
+INSERT stGGs number
+INSERT xyB string
+ASSIGN xyB xyB
+PRINT
+INSERT adi number
+INSERT a number
+INSERT j number
+PRINT
+LOOKUP adi
+BEGIN
+INSERT vXW78 number
+INSERT rq09oz string
+INSERT nkBRa number
+INSERT gfV number
+BEGIN
+INSERT f1buG string
+ASSIGN stGGs 'HnVhk'
+INSERT nIW string
+INSERT r97 number
+INSERT j number
+INSERT r number
+PRINT
+INSERT gXb string
+INSERT xumvR string
+INSERT fyFw string
+INSERT te string

@@ -1,0 +1,18 @@
+INSERT x number
+INSERT aeUJK number
+INSERT x number
+LOOKUP x
+END
+INSERT cZoZq number
+PRINT
+INSERT vTX6pf number
+END
+INSERT kS string
+END
+INSERT zKl string
+INSERT gBw number
+INSERT eYYP string
+RPRINT
+ASSIGN zKl 599
+BEGIN
+END

@@ -1,0 +1,23 @@
+INSERT hHU2fc number
+INSERT bA string
+INSERT lqT string
+INSERT ieYgGy number
+ASSIGN bA 438
+INSERT n number
+INSERT uK number
+INSERT hhB number
+INSERT b7B number
+LOOKUP hHU2fc
+RPRINT
+INSERT k number
+END
+INSERT tIdC3X string
+INSERT yQ6D string
+INSERT msmr number
+INSERT oRBO number
+INSERT qbU string
+END
+INSERT jrHQI string
+RPRINT
+INSERT g number
+INSERT qOU1 string

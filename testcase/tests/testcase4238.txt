@@ -1,0 +1,10 @@
+INSERT ntg number
+INSERT leY4 number
+INSERT tLiO number
+INSERT zGkmJ number
+PRINT
+INSERT z string
+INSERT c number
+BEGIN
+INSERT ci number
+LOOKUP tLiO

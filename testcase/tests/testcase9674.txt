@@ -1,0 +1,8 @@
+INSERT mjN string
+INSERT otcIPI string
+RPRINT
+INSERT qW string
+INSERT aC8 string
+INSERT o string
+LOOKUP otcIPI
+BEGIN

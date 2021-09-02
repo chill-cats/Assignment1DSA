@@ -1,0 +1,13 @@
+ASSIGN oHSXo 324
+INSERT r number
+END
+INSERT c3n3R number
+INSERT dr9T number
+INSERT tdoZ string
+INSERT vdSi number
+INSERT lj string
+INSERT jk number
+INSERT t_Av5 string
+LOOKUP r
+BEGIN
+INSERT v number

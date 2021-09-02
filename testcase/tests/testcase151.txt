@@ -1,0 +1,10 @@
+INSERT h number
+LOOKUP h
+INSERT j number
+PRINT
+RPRINT
+LOOKUP h
+INSERT gFT number
+INSERT r9m number
+INSERT j number
+RPRINT

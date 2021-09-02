@@ -1,0 +1,31 @@
+ASSIGN uB 1132
+INSERT m number
+INSERT zyTzg number
+PRINT
+INSERT iMt number
+RPRINT
+INSERT wMuMF number
+RPRINT
+PRINT
+INSERT y4dxwf number
+LOOKUP iMt
+INSERT mORD string
+ASSIGN iMt '9'
+INSERT s number
+INSERT yWQw9 string
+ASSIGN zyTzg 579
+INSERT vbj8 string
+BEGIN
+INSERT e number
+INSERT t number
+RPRINT
+INSERT iNs number
+INSERT zMLrs string
+PRINT
+INSERT q string
+END
+BEGIN
+END
+PRINT
+INSERT kS string
+INSERT jklO string

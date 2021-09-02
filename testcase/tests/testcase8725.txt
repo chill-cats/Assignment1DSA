@@ -1,0 +1,18 @@
+INSERT oR string
+tH2 p1TDD9
+INSERT rpc string
+INSERT q9 string
+LOOKUP bPxK6
+INSERT nK number
+INSERT om string
+INSERT bK83V_ number
+b vE
+INSERT hS number
+LOOKUP hS
+INSERT d string
+INSERT zm string
+PRINT
+LOOKUP nK
+ASSIGN q9 'ynUk'
+INSERT lTP number
+INSERT ep3g string

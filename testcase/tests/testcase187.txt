@@ -1,0 +1,17 @@
+INSERT bc string
+INSERT neWU number
+END
+PRINT
+INSERT fDP4 number
+INSERT zj string
+INSERT k8mRPA number
+LOOKUP fDP4
+INSERT phy number
+RPRINT
+INSERT qQK number
+END
+INSERT pA string
+ASSIGN k8mRPA '2HI'
+INSERT xo number
+INSERT zQ0Na number
+END

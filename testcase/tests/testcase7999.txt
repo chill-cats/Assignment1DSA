@@ -1,0 +1,20 @@
+INSERT qe string
+INSERT eph string
+PRINT
+RPRINT
+INSERT g string
+INSERT cmz string
+PRINT
+INSERT zNjdf8 number
+ASSIGN qe qe
+INSERT a9P number
+INSERT q3cB string
+INSERT cQQ number
+LOOKUP cmz
+PRINT
+INSERT zs5Yg number
+RPRINT
+INSERT k3rADg number
+LOOKUP k3rADg
+d rN2c
+RPRINT

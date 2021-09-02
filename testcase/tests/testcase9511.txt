@@ -1,0 +1,7 @@
+INSERT a string
+RPRINT
+INSERT sOT number
+INSERT nF0yF number
+INSERT g number
+LOOKUP a
+INSERT vCoiiI number

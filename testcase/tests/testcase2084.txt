@@ -1,0 +1,7 @@
+END
+PRINT
+INSERT y number
+ASSIGN y y
+INSERT kKk3 number
+INSERT jq string
+ASSIGN y 417

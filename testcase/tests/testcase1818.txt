@@ -1,0 +1,34 @@
+INSERT eQ number
+INSERT up3Q string
+ASSIGN up3Q 1
+INSERT zg number
+yPwUhG yxe
+LOOKUP up3Q
+ASSIGN zg 'AqG'
+INSERT tPlu string
+BEGIN
+INSERT fVQXB number
+ASSIGN fVQXB zg
+INSERT gjecv string
+repk1Q ghDC
+INSERT gQ1 number
+END
+INSERT cnBINW number
+INSERT mAN number
+INSERT t number
+INSERT v number
+RPRINT
+INSERT fXbxW string
+RPRINT
+INSERT gmM number
+INSERT zhJ0n string
+INSERT qa number
+INSERT w5 number
+INSERT bx9 number
+INSERT y7dXvY number
+END
+INSERT sPMW4 string
+INSERT b number
+ASSIGN fVQXB 480
+RPRINT
+INSERT m_ number

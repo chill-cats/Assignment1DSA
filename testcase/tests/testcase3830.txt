@@ -1,0 +1,15 @@
+INSERT dYdz string
+INSERT f number
+INSERT x6 string
+BEGIN
+INSERT uQ1wIm number
+INSERT u5L2 string
+LOOKUP f
+RPRINT
+INSERT e_xj string
+INSERT aeI number
+INSERT b string
+INSERT p9H number
+BEGIN
+INSERT iVnv number
+END

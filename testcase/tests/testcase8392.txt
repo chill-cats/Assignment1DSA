@@ -1,0 +1,13 @@
+INSERT rZngk string
+LOOKUP rZngk
+INSERT scH number
+INSERT kxXa number
+ASSIGN scH '3R'
+BEGIN
+PRINT
+BEGIN
+INSERT qdO number
+INSERT g4 number
+INSERT rs string
+INSERT w56W string
+INSERT fIgpm string

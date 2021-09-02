@@ -1,0 +1,6 @@
+PRINT
+INSERT urfgKu string
+END
+RPRINT
+INSERT y number
+eA3 t1

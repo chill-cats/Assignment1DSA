@@ -1,0 +1,16 @@
+RPRINT
+INSERT hojB number
+INSERT gOF number
+END
+INSERT f75d_ number
+RPRINT
+INSERT ox1yw string
+PRINT
+INSERT nboCJ string
+INSERT hjx9 string
+INSERT vX number
+INSERT l3x1 number
+PRINT
+LOOKUP vX
+LOOKUP nboCJ
+RPRINT

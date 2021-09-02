@@ -1,0 +1,30 @@
+INSERT mvkGLR string
+INSERT cH string
+INSERT e1vIml number
+INSERT hbU string
+INSERT qrvzAI string
+INSERT nGMJkc string
+INSERT yD number
+INSERT sigX string
+INSERT fmRg string
+RPRINT
+INSERT lM number
+INSERT eIiF string
+INSERT r1W9 number
+BEGIN
+INSERT uUDn1 number
+INSERT kh2 number
+INSERT hF string
+LOOKUP cH
+INSERT sVSltS number
+LOOKUP sigX
+INSERT kxC106 number
+INSERT jE number
+ASSIGN cH nGMJkc
+LOOKUP jE
+INSERT xVAjq string
+END
+INSERT m2D number
+END
+INSERT f number
+INSERT zgw string

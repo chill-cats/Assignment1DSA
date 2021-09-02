@@ -1,0 +1,31 @@
+INSERT roU number
+INSERT sn string
+INSERT h number
+ASSIGN h 390
+INSERT jHsKaX number
+ASSIGN h 1220
+PRINT
+INSERT nfQ2vo string
+RPRINT
+LOOKUP jHsKaX
+INSERT brF string
+BEGIN
+RPRINT
+RPRINT
+ASSIGN nfQ2vo 334
+oSgAA w
+END
+INSERT leHc string
+PRINT
+BEGIN
+b4go9 ooQ
+BEGIN
+ASSIGN sn 564
+INSERT nX string
+INSERT oKudGS number
+END
+INSERT eEk7h string
+RPRINT
+RPRINT
+END
+INSERT rbnn string

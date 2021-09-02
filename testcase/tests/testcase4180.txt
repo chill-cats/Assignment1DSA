@@ -1,0 +1,14 @@
+INSERT rj7OqX number
+INSERT u9c7Y string
+BEGIN
+INSERT h number
+RPRINT
+RPRINT
+INSERT c string
+INSERT j string
+INSERT eoU string
+BEGIN
+INSERT n string
+INSERT fSjGB string
+BEGIN
+PRINT

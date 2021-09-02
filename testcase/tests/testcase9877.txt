@@ -1,0 +1,20 @@
+INSERT d string
+INSERT oX string
+INSERT d9Opsg number
+RPRINT
+ASSIGN d9Opsg d
+INSERT o4IOV string
+INSERT gVdir string
+INSERT m string
+INSERT nQv string
+LOOKUP gVdir
+INSERT kM_K string
+INSERT hTxfOX number
+INSERT e5 string
+INSERT tRuhAa string
+BEGIN
+utG65s hukNF
+INSERT d6G_8M string
+INSERT u number
+RPRINT
+RPRINT

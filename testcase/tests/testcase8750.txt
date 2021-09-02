@@ -1,0 +1,34 @@
+INSERT rL number
+BEGIN
+INSERT l string
+czU sP2
+INSERT j string
+INSERT qoa_0 string
+INSERT i1E string
+INSERT yO number
+INSERT aS number
+INSERT l string
+INSERT eILL number
+INSERT meq string
+INSERT sAO string
+BEGIN
+INSERT e string
+LOOKUP qoa_0
+INSERT pMX number
+INSERT gi0C0Z string
+INSERT iZ number
+INSERT xoaY number
+RPRINT
+INSERT hY2 number
+RPRINT
+INSERT ic number
+INSERT p string
+INSERT s number
+INSERT smdpz number
+LOOKUP rL
+INSERT ajZN number
+INSERT a number
+PRINT
+ASSIGN eILL 'CQIN'
+LOOKUP a
+INSERT dkXzm number

@@ -1,0 +1,11 @@
+INSERT fC52 number
+ASSIGN fC52 fC52
+END
+INSERT hIg string
+INSERT dWs number
+INSERT yGW9k string
+INSERT sRjs3H string
+INSERT ae1Ozn string
+RPRINT
+INSERT o50ak string
+iSeH vFkg

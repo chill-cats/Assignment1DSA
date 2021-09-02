@@ -1,0 +1,17 @@
+INSERT e_bXn string
+INSERT m string
+ASSIGN e_bXn 1172
+INSERT pS string
+ASSIGN e_bXn m
+RPRINT
+INSERT m number
+INSERT hX string
+INSERT sQ6EmA string
+INSERT a number
+ASSIGN pS 'B'
+INSERT wpZ number
+END
+ASSIGN pS m
+INSERT rA number
+INSERT xY6gm number
+INSERT gEna number

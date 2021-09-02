@@ -1,0 +1,36 @@
+INSERT eIxA2 number
+BEGIN
+LOOKUP eIxA2
+END
+END
+END
+RPRINT
+INSERT ksj string
+INSERT tl string
+PRINT
+INSERT dlvCm string
+INSERT jY0x string
+LOOKUP ksj
+u2 s
+INSERT qX2Ou string
+BEGIN
+ASSIGN dlvCm tl
+INSERT xOx number
+INSERT gF number
+INSERT pm6q number
+INSERT vlZK1p number
+INSERT msq_Z number
+PRINT
+INSERT vzC number
+INSERT kr_o number
+INSERT f number
+INSERT yDO string
+INSERT bK number
+INSERT wqZEag number
+BEGIN
+INSERT aEraC string
+INSERT i number
+ASSIGN vzC kr_o
+INSERT u string
+INSERT ffA number
+PRINT

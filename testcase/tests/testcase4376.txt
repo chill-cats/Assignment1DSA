@@ -1,0 +1,10 @@
+BEGIN
+ASSIGN p 'rM N'
+INSERT a number
+uMwric fc
+INSERT d string
+PRINT
+INSERT gP number
+INSERT b string
+INSERT g number
+INSERT m number

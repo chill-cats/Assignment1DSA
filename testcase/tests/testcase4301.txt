@@ -1,0 +1,40 @@
+PRINT
+INSERT m93FW string
+END
+INSERT n string
+ASSIGN m93FW 'c2Ru'
+INSERT mk number
+INSERT niWgeI string
+INSERT jYw73O string
+BEGIN
+INSERT i94 string
+INSERT uCp number
+eg rgphzL
+INSERT kgg52 number
+INSERT nnfi number
+INSERT o1i3e string
+END
+INSERT oX6zFr number
+RPRINT
+ASSIGN uCp '6J'
+INSERT gT05O string
+INSERT ejaW string
+INSERT pz string
+INSERT sLyxx string
+INSERT f95u string
+ASSIGN uCp niWgeI
+INSERT l_WYSu number
+INSERT w6U28n string
+END
+INSERT mWZ4 string
+INSERT kXa0 string
+ASSIGN oX6zFr sLyxx
+INSERT e string
+INSERT bhH8 string
+INSERT uYk number
+INSERT oE7nE string
+BEGIN
+ASSIGN nnfi 'N'
+BEGIN
+LOOKUP kgg52
+INSERT cjy5 string

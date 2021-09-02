@@ -1,0 +1,37 @@
+INSERT y9J8y number
+INSERT qgsRU string
+INSERT t6 string
+INSERT q string
+INSERT z string
+INSERT ya9 number
+INSERT lFIybQ string
+INSERT h07Iz string
+INSERT bGKH string
+ASSIGN t6 'YWi'
+INSERT c string
+INSERT qu number
+INSERT i string
+INSERT g7 string
+ASSIGN qu 'na'
+INSERT bzh string
+INSERT y35x6c string
+INSERT q2w number
+INSERT n2Mr number
+INSERT ijwp number
+BEGIN
+INSERT q number
+INSERT flV string
+INSERT zE string
+PRINT
+INSERT fHOWoe string
+BEGIN
+BEGIN
+ASSIGN ijwp q2w
+INSERT uz number
+PRINT
+BEGIN
+INSERT gn number
+INSERT qA string
+INSERT pa5D string
+INSERT sp string
+INSERT odTM string

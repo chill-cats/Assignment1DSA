@@ -1,0 +1,24 @@
+INSERT f string
+PRINT
+INSERT s string
+ASSIGN s 'x1Sj'
+PRINT
+ASSIGN s s
+PRINT
+INSERT c6QADm number
+INSERT zDQqWE number
+INSERT vGKp4 number
+LOOKUP vGKp4
+BEGIN
+we q3vu
+LOOKUP zDQqWE
+INSERT mLr string
+dfH y
+INSERT b number
+INSERT u9n2r string
+INSERT kmt string
+LOOKUP mLr
+BEGIN
+INSERT coK string
+INSERT hnFVc string
+INSERT awL number

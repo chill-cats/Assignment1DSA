@@ -1,0 +1,22 @@
+END
+vm x
+INSERT ackx number
+RPRINT
+INSERT y number
+BEGIN
+LOOKUP ackx
+INSERT cMgL number
+INSERT pA number
+INSERT rt number
+INSERT mmutKD string
+INSERT tS number
+ASSIGN tS mmutKD
+INSERT kz string
+INSERT oaHx number
+INSERT e string
+PRINT
+INSERT qVd number
+INSERT f number
+INSERT khGS number
+RPRINT
+RPRINT

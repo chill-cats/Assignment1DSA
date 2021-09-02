@@ -1,0 +1,4 @@
+INSERT ssuJx string
+BEGIN
+INSERT w9X string
+RPRINT

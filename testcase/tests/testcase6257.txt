@@ -1,0 +1,20 @@
+ASSIGN cA4 'fpmT3'
+INSERT j5B number
+BEGIN
+LOOKUP j5B
+RPRINT
+INSERT v60BI9 number
+INSERT lk string
+ASSIGN lk v60BI9
+ASSIGN j5B '3zBuO'
+ASSIGN lk 'yzK'
+END
+INSERT eK string
+INSERT s number
+PRINT
+END
+INSERT yx2sD number
+INSERT nAu number
+INSERT nDj number
+PRINT
+ASSIGN nDj 'Fmbj7'

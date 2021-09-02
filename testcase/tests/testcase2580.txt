@@ -1,0 +1,31 @@
+RPRINT
+PRINT
+END
+INSERT z string
+BEGIN
+PRINT
+INSERT xtC7 number
+END
+INSERT tY4 string
+INSERT aW number
+INSERT xhuj8Z number
+INSERT e string
+e lGmF
+BEGIN
+ke dqX
+BEGIN
+INSERT jbcwB number
+ASSIGN tY4 'E'
+INSERT l number
+ASSIGN jbcwB 'sEJ'
+INSERT ctD number
+ASSIGN ctD 'r'
+END
+INSERT xv string
+INSERT qyQ0mo number
+x9ZmUm odEL1
+INSERT dbUw string
+INSERT rNp number
+LOOKUP ctD
+ASSIGN l dbUw
+INSERT yaEOjn string

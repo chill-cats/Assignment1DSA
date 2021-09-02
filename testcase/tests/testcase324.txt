@@ -1,0 +1,21 @@
+RPRINT
+INSERT spo string
+INSERT bMxOm string
+INSERT h4u string
+INSERT t number
+ASSIGN h4u 'heo0s'
+RPRINT
+LOOKUP h4u
+END
+p1Xh1A euCHU
+INSERT gA number
+PRINT
+LOOKUP h4u
+INSERT jg string
+INSERT g number
+PRINT
+INSERT bZDw number
+INSERT hh number
+INSERT yrlH string
+ugp5 s
+LOOKUP yrlH

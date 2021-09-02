@@ -1,0 +1,39 @@
+INSERT zPRN string
+INSERT z string
+ASSIGN z zPRN
+PRINT
+INSERT k36hQf number
+INSERT x number
+ASSIGN zPRN 208
+INSERT rw string
+LOOKUP k36hQf
+LOOKUP z
+INSERT iqsjor string
+INSERT g0F_ string
+INSERT fv6CR number
+PRINT
+LOOKUP fv6CR
+LOOKUP zPRN
+INSERT gNg number
+INSERT n string
+INSERT ul string
+END
+END
+weK ik5e
+INSERT x7 string
+INSERT l string
+INSERT oPb number
+INSERT nSwdx8 string
+LOOKUP x
+RPRINT
+INSERT n05w number
+INSERT nq6qGX number
+INSERT fpkJ3 number
+ASSIGN n05w oPb
+INSERT t number
+INSERT ym string
+INSERT ox4vzh string
+INSERT dycqR string
+INSERT k__bBp string
+LOOKUP n05w
+i wVfE

@@ -1,0 +1,21 @@
+INSERT ajQm string
+INSERT msQ5eY string
+RPRINT
+BEGIN
+INSERT np2_gw string
+END
+INSERT f number
+INSERT oB_ number
+INSERT t string
+INSERT xp string
+END
+PRINT
+INSERT mBO0Q number
+INSERT pV5vop number
+INSERT w number
+RPRINT
+INSERT wnQ7Hi number
+INSERT oHU string
+LOOKUP w
+INSERT zKcJ7A string
+INSERT fG string

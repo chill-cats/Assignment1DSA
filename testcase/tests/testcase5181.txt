@@ -1,0 +1,6 @@
+INSERT y string
+BEGIN
+INSERT zoD8aB number
+INSERT i number
+LOOKUP zoD8aB
+RPRINT

@@ -1,0 +1,19 @@
+INSERT r number
+INSERT c string
+INSERT pXFpBk string
+ASSIGN r 'cs7p'
+PRINT
+BEGIN
+END
+INSERT mE9 number
+INSERT hJ3BeK string
+END
+INSERT hFUw number
+INSERT kc number
+INSERT i number
+INSERT kCBxAM number
+RPRINT
+ASSIGN kCBxAM 'XaBgC'
+INSERT m7It string
+INSERT a number
+INSERT zjA number

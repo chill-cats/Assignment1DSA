@@ -1,0 +1,11 @@
+INSERT xGtarg number
+END
+INSERT p string
+INSERT lrPL number
+INSERT bEISr number
+ASSIGN bEISr 'L'
+dMWH kBy
+ASSIGN bEISr 'd'
+RPRINT
+INSERT vbS number
+INSERT aAj number

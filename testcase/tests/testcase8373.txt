@@ -1,0 +1,3 @@
+INSERT aL8 string
+RPRINT
+END

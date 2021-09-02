@@ -1,0 +1,23 @@
+RPRINT
+INSERT sc string
+INSERT o string
+INSERT pl6Hx string
+INSERT pFd_q string
+LOOKUP pFd_q
+INSERT piERg string
+END
+INSERT bmzB3 number
+INSERT a5 number
+INSERT y string
+INSERT xiAd number
+INSERT u4gq number
+INSERT h1l string
+END
+ASSIGN a5 'Q'
+INSERT uIA1Hd string
+INSERT l5hus string
+INSERT g3 string
+INSERT ae number
+eq bEnKgF
+BEGIN
+ASSIGN g3 'HB'

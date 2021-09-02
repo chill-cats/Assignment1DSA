@@ -1,0 +1,28 @@
+INSERT p string
+INSERT ic number
+END
+LOOKUP p
+INSERT d number
+PRINT
+INSERT w6 string
+INSERT yUcfT number
+INSERT mKhXM string
+LOOKUP ic
+INSERT cC string
+BEGIN
+INSERT uvfa string
+END
+LOOKUP w6
+INSERT gWYNr number
+ASSIGN d cC
+INSERT fQ string
+BEGIN
+INSERT z string
+INSERT eHw9 number
+INSERT oBpciz number
+INSERT nEL number
+INSERT v6L number
+ASSIGN mKhXM 453
+INSERT cOur string
+END
+INSERT y number

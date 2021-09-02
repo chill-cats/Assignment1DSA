@@ -1,0 +1,8 @@
+INSERT dz9jA number
+INSERT nR6jT number
+INSERT ecVujr string
+BEGIN
+INSERT t number
+BEGIN
+INSERT ydf_p string
+PRINT

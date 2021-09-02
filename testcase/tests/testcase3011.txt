@@ -1,0 +1,27 @@
+RPRINT
+INSERT mwDP9X string
+INSERT y number
+iFDATV ib
+RPRINT
+INSERT umRh string
+INSERT l number
+INSERT i7tq4H number
+RPRINT
+INSERT m number
+INSERT pZtyK number
+END
+INSERT q06 number
+INSERT nBuR number
+ASSIGN pZtyK 'SlB'
+LOOKUP i7tq4H
+ASSIGN mwDP9X 583
+INSERT z57CUR string
+BEGIN
+INSERT s8 number
+BEGIN
+PRINT
+LOOKUP nBuR
+BEGIN
+INSERT qkgiz number
+INSERT q2YKy number
+INSERT g string

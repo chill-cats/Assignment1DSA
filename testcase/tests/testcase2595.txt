@@ -1,0 +1,5 @@
+INSERT y number
+INSERT q4 number
+BEGIN
+INSERT eQJ071 number
+END

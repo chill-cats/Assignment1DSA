@@ -1,0 +1,27 @@
+END
+RPRINT
+INSERT jd string
+INSERT m string
+ASSIGN m '11dz'
+INSERT r_C string
+INSERT uSrMd number
+INSERT t string
+INSERT gUMHE4 number
+INSERT q string
+ohi3 bb
+END
+tII vI
+pdn4 wM54
+INSERT g9ACS string
+INSERT zk4K string
+PRINT
+LOOKUP jd
+INSERT a number
+BEGIN
+INSERT mtUGhG string
+BEGIN
+PRINT
+INSERT fRj string
+INSERT dt00L number
+INSERT y3mM8K number
+BEGIN

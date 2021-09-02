@@ -1,0 +1,27 @@
+INSERT rd2q string
+INSERT u5 number
+RPRINT
+j3w n
+INSERT x string
+RPRINT
+INSERT z1q string
+BEGIN
+INSERT lu number
+INSERT e9U string
+INSERT q9ymr string
+END
+dXkc1 taX82c
+ASSIGN q9ymr 'rV'
+INSERT k number
+INSERT mk number
+BEGIN
+LOOKUP z1q
+INSERT rHSuw number
+LOOKUP k
+INSERT jL3qP5 string
+ASSIGN q9ymr q9ymr
+INSERT zFokW string
+INSERT qVZczO string
+INSERT tGqSJf number
+LOOKUP qVZczO
+INSERT o string

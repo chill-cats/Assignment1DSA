@@ -1,0 +1,32 @@
+INSERT elr8E string
+PRINT
+INSERT kjA3 string
+LOOKUP kjA3
+LOOKUP elr8E
+INSERT jP number
+INSERT k string
+ASSIGN k 1080
+INSERT v8 string
+INSERT pMMIZs number
+INSERT e string
+PRINT
+INSERT oqJxsL string
+END
+INSERT pbCaY number
+END
+INSERT rRH string
+INSERT xBJ string
+INSERT wJU number
+ruFA yRNMPu
+RPRINT
+INSERT lTQ string
+INSERT eDxlm string
+zLH bchM
+LOOKUP oqJxsL
+INSERT j7 number
+INSERT vm0_d string
+INSERT kfT string
+ASSIGN elr8E 'j3o'
+INSERT dk number
+RPRINT
+BEGIN

@@ -1,0 +1,2 @@
+BEGIN
+INSERT y78 string

@@ -1,0 +1,8 @@
+INSERT lM number
+INSERT bY1U1 number
+INSERT quG number
+INSERT cC string
+INSERT iQB string
+INSERT w407 string
+ASSIGN lM w407
+INSERT zkI_T string

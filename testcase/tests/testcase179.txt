@@ -1,0 +1,33 @@
+INSERT rI9fx number
+INSERT x1muk string
+BEGIN
+INSERT pd7 string
+INSERT kGWE number
+INSERT j58Hnd number
+INSERT ghVq string
+INSERT j39_A string
+INSERT sy0v string
+INSERT kGfB string
+v7qVC tZaE0
+INSERT zPN number
+INSERT i string
+END
+INSERT pK number
+INSERT mSfhHX string
+ASSIGN kGfB sy0v
+LOOKUP j39_A
+INSERT sW number
+INSERT mC5Xc string
+INSERT iufau number
+INSERT ws4GG string
+PRINT
+o fyLl
+INSERT c number
+INSERT cs number
+INSERT zpp50 number
+INSERT hkltf6 string
+INSERT zpB number
+LOOKUP zpB
+ASSIGN cs 76
+END
+RPRINT

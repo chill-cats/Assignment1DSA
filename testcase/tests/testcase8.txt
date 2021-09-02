@@ -1,0 +1,36 @@
+INSERT qy9xXY number
+RPRINT
+a e
+INSERT mpbK number
+INSERT tg6nr string
+ASSIGN qy9xXY mpbK
+RPRINT
+INSERT h5opr_ string
+INSERT p string
+INSERT eF14 number
+INSERT m string
+INSERT kMvB string
+INSERT f string
+INSERT bF6h string
+INSERT z string
+LOOKUP eF14
+INSERT hBNVV number
+INSERT p_E number
+INSERT y number
+RPRINT
+INSERT kDrV8w number
+v3r pZLd
+INSERT ukJ string
+END
+INSERT uf string
+BEGIN
+INSERT smAu string
+INSERT aAD1 number
+INSERT kDRFAP string
+INSERT lpO number
+INSERT ke string
+ASSIGN p 73
+INSERT k1Sr string
+PRINT
+INSERT iP string
+PRINT

@@ -1,0 +1,34 @@
+INSERT tSTZ string
+INSERT xmv number
+INSERT bjTJ number
+INSERT y string
+INSERT yruF string
+LOOKUP y
+ASSIGN xmv y
+INSERT gnlyA string
+INSERT w_zWrl string
+jTv ik
+END
+INSERT ue8 string
+INSERT o1mlK number
+INSERT hVlnL string
+INSERT i number
+END
+INSERT tXH number
+BEGIN
+INSERT j number
+d pJb6TM
+INSERT gRb0Z number
+ASSIGN gnlyA 'js'
+END
+INSERT nT number
+INSERT d6KPEo string
+LOOKUP tSTZ
+INSERT rPavKS number
+PRINT
+INSERT uCv string
+INSERT gjON string
+INSERT fvQzq string
+INSERT wAR string
+END
+INSERT ynZ9zo string

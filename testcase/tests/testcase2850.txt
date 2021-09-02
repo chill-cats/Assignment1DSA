@@ -1,0 +1,3 @@
+INSERT vX5kF string
+PRINT
+END

@@ -1,0 +1,39 @@
+PRINT
+LOOKUP wadsn
+jg7 j0
+ASSIGN e 400
+ASSIGN k 969
+BEGIN
+INSERT cAmW string
+INSERT rV string
+INSERT e_XE string
+cV if
+PRINT
+BEGIN
+INSERT n number
+INSERT i number
+INSERT t number
+v qxQ5l
+INSERT jj number
+INSERT eb6 number
+INSERT tOdS number
+INSERT dbuV string
+BEGIN
+INSERT qLr6b string
+INSERT kUkvTS number
+INSERT oDo number
+ASSIGN n tOdS
+LOOKUP qLr6b
+ASSIGN qLr6b dbuV
+INSERT uu number
+LOOKUP n
+q6LO sUG
+INSERT m6 number
+INSERT b string
+BEGIN
+INSERT uMo string
+LOOKUP uu
+INSERT rC number
+ASSIGN qLr6b '01z'
+INSERT dWv string
+ASSIGN uMo 0

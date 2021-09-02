@@ -1,0 +1,28 @@
+RPRINT
+RPRINT
+oR9 f7o4
+INSERT nVk string
+INSERT xI number
+INSERT zy9xJ string
+RPRINT
+INSERT yqhr string
+INSERT aDnA8 string
+PRINT
+LOOKUP nVk
+INSERT n string
+ASSIGN yqhr 60
+INSERT j_oD string
+jK_Hm vw6
+LOOKUP nVk
+PRINT
+dr zk1C3
+INSERT g8jh5h number
+INSERT yjan string
+ASSIGN yqhr 296
+INSERT iw string
+END
+INSERT laQ string
+INSERT y number
+INSERT qpVO3 number
+INSERT q8 string
+INSERT leg string

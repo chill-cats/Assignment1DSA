@@ -1,0 +1,40 @@
+INSERT hU string
+INSERT ke6PQ string
+INSERT iahE string
+INSERT qh string
+ASSIGN qh ke6PQ
+INSERT mXvBZ9 number
+INSERT oYi number
+PRINT
+END
+ASSIGN ke6PQ oYi
+INSERT mRpS string
+PRINT
+INSERT oh number
+qJ oI
+INSERT h2B string
+LOOKUP mXvBZ9
+INSERT xQ_1 string
+r1 o
+INSERT dw number
+INSERT e string
+ASSIGN oYi h2B
+INSERT ktlPjX number
+END
+LOOKUP oh
+INSERT mTc number
+PRINT
+INSERT b string
+PRINT
+INSERT wsl2pe string
+INSERT yXc_ string
+liFgUk w
+oWR8 vpQ
+LOOKUP mRpS
+INSERT nQ1X string
+INSERT t number
+INSERT m string
+END
+PRINT
+BEGIN
+INSERT ovw6 number

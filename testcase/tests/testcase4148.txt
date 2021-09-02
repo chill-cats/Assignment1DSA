@@ -1,0 +1,17 @@
+INSERT k number
+PRINT
+INSERT n6tdx string
+ASSIGN n6tdx 1115
+LOOKUP k
+LOOKUP k
+LOOKUP n6tdx
+LOOKUP n6tdx
+RPRINT
+INSERT yMqF number
+INSERT iP string
+BEGIN
+INSERT h number
+INSERT ztC number
+INSERT pEP number
+RPRINT
+n1P_ agI

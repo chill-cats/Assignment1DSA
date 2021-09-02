@@ -1,0 +1,9 @@
+INSERT dT3 string
+INSERT wEEWI string
+PRINT
+oR hlv9
+INSERT kd number
+END
+LOOKUP dT3
+ASSIGN kd 'CWN'
+LOOKUP dT3

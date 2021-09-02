@@ -1,0 +1,5 @@
+ASSIGN mkb0u 567
+INSERT nQq number
+RPRINT
+INSERT iRpWEz number
+INSERT os string

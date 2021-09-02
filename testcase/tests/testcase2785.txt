@@ -1,0 +1,18 @@
+INSERT q string
+ASSIGN q q
+INSERT g number
+INSERT tViQrt number
+INSERT g5v string
+END
+INSERT qJY string
+RPRINT
+INSERT hj7 number
+INSERT rP0W number
+PRINT
+INSERT cK number
+PRINT
+INSERT sHWR8 number
+INSERT yir string
+INSERT xPIc number
+INSERT elSst number
+LOOKUP xPIc

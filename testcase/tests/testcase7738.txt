@@ -1,0 +1,17 @@
+INSERT xBDg string
+PRINT
+INSERT vbDg0u string
+INSERT w0 string
+INSERT iaJvs string
+INSERT ox05 number
+INSERT ePga0y number
+INSERT cwf number
+INSERT voVIC4 string
+PRINT
+ASSIGN ox05 'OZ'
+INSERT fi string
+RPRINT
+INSERT q3gV28 string
+INSERT poHX number
+INSERT sJt number
+LOOKUP iaJvs

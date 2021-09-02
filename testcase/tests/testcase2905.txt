@@ -1,0 +1,27 @@
+PRINT
+INSERT rFXP1 number
+LOOKUP rFXP1
+INSERT wWOh number
+INSERT gAc string
+INSERT tcoiH number
+RPRINT
+INSERT tt number
+INSERT f string
+INSERT wsi string
+ASSIGN wsi 'tc'
+END
+INSERT sHNv number
+INSERT tl5 string
+ASSIGN rFXP1 tl5
+PRINT
+ASSIGN uWC1i 'fK6S'
+INSERT mw4zz number
+LOOKUP tl5
+INSERT reg_B9 number
+INSERT ufVM number
+INSERT gbZL string
+INSERT wQ0Z string
+INSERT fz string
+INSERT fy number
+END
+INSERT aDE string

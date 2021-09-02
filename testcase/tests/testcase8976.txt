@@ -1,0 +1,15 @@
+INSERT kAd7 number
+yZ u
+f g_MCNP
+INSERT gNFz number
+LOOKUP gNFz
+vr o
+INSERT f6L string
+INSERT eNBM3d string
+BEGIN
+INSERT w number
+INSERT bDLK string
+INSERT oYg string
+ASSIGN gNFz 'iDrpG'
+INSERT d2p8M string
+BEGIN

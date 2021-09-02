@@ -1,0 +1,33 @@
+rOJ s_E
+c1fei x3CV
+BEGIN
+INSERT b number
+PRINT
+BEGIN
+INSERT j string
+i7Y o6
+ASSIGN b 'kiTiF'
+ASSIGN b 'G90'
+INSERT s8V6h number
+RPRINT
+INSERT k string
+INSERT shsN string
+LOOKUP shsN
+RPRINT
+BEGIN
+INSERT n6s number
+LOOKUP j
+INSERT fThql string
+INSERT hNTEd number
+RPRINT
+PRINT
+LOOKUP n6s
+INSERT mnqCd number
+INSERT ra8 number
+INSERT rGh number
+PRINT
+INSERT mP number
+INSERT kEiA string
+INSERT wD number
+END
+INSERT h string

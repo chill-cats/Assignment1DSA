@@ -1,0 +1,4 @@
+INSERT ukSQI string
+INSERT kiPMy1 number
+INSERT jvhE string
+INSERT i239hr string

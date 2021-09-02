@@ -1,0 +1,26 @@
+INSERT otAOq5 string
+INSERT u7hiKG number
+INSERT rzaMUb number
+INSERT n number
+INSERT df3aH number
+BEGIN
+INSERT qfbF number
+BEGIN
+INSERT fLb string
+END
+INSERT q9 number
+INSERT x number
+INSERT uOh4 number
+END
+INSERT sr string
+INSERT s number
+INSERT h2mC string
+RPRINT
+INSERT y string
+INSERT rlepIS number
+END
+INSERT aCko string
+ASSIGN df3aH fLb
+BEGIN
+LOOKUP fLb
+lGc3B x

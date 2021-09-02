@@ -1,0 +1,25 @@
+xK xWp
+INSERT ocdVI number
+LOOKUP ocdVI
+LOOKUP ocdVI
+f d5
+INSERT p1Yx number
+INSERT thd7rm number
+LOOKUP p1Yx
+INSERT y09 number
+INSERT iLB string
+ASSIGN dk8 'Q3fv'
+eC0J0 sY
+INSERT otHSO string
+INSERT z string
+INSERT u number
+INSERT oE6 string
+END
+ASSIGN thd7rm z
+INSERT etBiNY number
+LOOKUP etBiNY
+INSERT tRvRI string
+INSERT qGtV number
+INSERT jCo2 string
+INSERT h string
+PRINT

@@ -1,0 +1,34 @@
+LOOKUP so
+INSERT hI string
+INSERT pegr string
+ASSIGN pegr 976
+INSERT kM4u string
+INSERT opWhQ number
+INSERT e number
+INSERT wbcB number
+INSERT quP0o string
+ASSIGN hI hI
+PRINT
+qGC fghVu
+INSERT n5ommQ number
+RPRINT
+INSERT qz0D number
+INSERT g string
+END
+INSERT xfvg2 string
+INSERT d0rFk string
+LOOKUP hI
+INSERT yCNU number
+BEGIN
+INSERT xb7J string
+END
+INSERT gZKz number
+INSERT bd9r number
+INSERT f number
+INSERT h2b number
+INSERT dYb number
+INSERT erWPNo number
+INSERT getZ string
+PRINT
+RPRINT
+INSERT v string

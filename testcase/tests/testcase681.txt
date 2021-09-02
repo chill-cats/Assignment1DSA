@@ -1,0 +1,29 @@
+PRINT
+INSERT bs string
+LOOKUP bs
+INSERT fVBMzx string
+INSERT h string
+BEGIN
+PRINT
+uqlHp qIk
+RPRINT
+INSERT oqAl string
+INSERT co number
+INSERT x2 string
+LOOKUP oqAl
+INSERT kI4b2a number
+INSERT j7 string
+PRINT
+INSERT o string
+INSERT r number
+BEGIN
+END
+INSERT qb string
+END
+INSERT m string
+BEGIN
+INSERT u string
+INSERT scTle string
+INSERT rG1z string
+BEGIN
+INSERT nKZ string

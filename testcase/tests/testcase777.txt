@@ -1,0 +1,35 @@
+INSERT lYbo number
+INSERT mX number
+INSERT p9L6 string
+INSERT wq number
+BEGIN
+LOOKUP mX
+INSERT zBjhv string
+RPRINT
+INSERT c8R string
+END
+ASSIGN zBjhv p9L6
+ASSIGN lYbo '5cfZQ'
+INSERT jTH4W7 string
+INSERT tkZa string
+INSERT mRM7e string
+INSERT lPUV number
+INSERT dD string
+INSERT tePK0U string
+RPRINT
+LOOKUP aY9m
+RPRINT
+LOOKUP lPUV
+INSERT rof1uU number
+END
+PRINT
+BEGIN
+ASSIGN wq 'cf'
+INSERT mepBS_ number
+BEGIN
+INSERT wD1O number
+INSERT dck string
+PRINT
+INSERT hx number
+RPRINT
+RPRINT

@@ -1,0 +1,27 @@
+BEGIN
+END
+LOOKUP dm
+PRINT
+LOOKUP fSFN
+ASSIGN i5J 'mZH'
+INSERT yalV number
+INSERT i string
+END
+END
+END
+INSERT xcJ string
+INSERT jFI number
+INSERT qR number
+INSERT uRHQ string
+INSERT tm1vq string
+INSERT wMU number
+INSERT sYH3T number
+INSERT xtWvGG number
+INSERT dleUXp string
+LOOKUP uRHQ
+INSERT m string
+INSERT oCL7t number
+INSERT kE string
+PRINT
+INSERT tsz number
+INSERT ba number

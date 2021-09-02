@@ -1,0 +1,31 @@
+INSERT zX6 string
+ASSIGN zX6 296
+INSERT pRr0i string
+INSERT iMHoaz string
+INSERT ijALId string
+INSERT lF8 number
+PRINT
+INSERT wVk string
+INSERT dOuTI string
+LOOKUP lF8
+INSERT wLd9Cl number
+INSERT v9HL0 number
+INSERT lq string
+INSERT h4pTZV string
+INSERT r2 string
+INSERT w number
+INSERT yAzgE number
+INSERT v string
+INSERT o3 string
+INSERT v9KQ number
+END
+INSERT d6JJhV number
+INSERT b number
+END
+END
+RPRINT
+ASSIGN wLd9Cl 'rmQ'
+INSERT sj8jH string
+INSERT d string
+LOOKUP b
+RPRINT

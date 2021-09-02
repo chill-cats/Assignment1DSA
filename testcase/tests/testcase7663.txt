@@ -1,0 +1,29 @@
+LOOKUP zR
+INSERT mHwxsP number
+END
+INSERT svx number
+LOOKUP svx
+INSERT bvr9 number
+INSERT q number
+LOOKUP svx
+INSERT uQr number
+INSERT xK3BK string
+INSERT duFOr6 string
+ASSIGN bvr9 'MU'
+INSERT e string
+ASSIGN uQr e
+INSERT bRVue number
+INSERT gy1H string
+INSERT qbYJba number
+INSERT nvq number
+ASSIGN mHwxsP mHwxsP
+INSERT suuo number
+INSERT gQ3f number
+INSERT dL66xI string
+INSERT e string
+INSERT jaWSRE string
+INSERT v3nlUu string
+INSERT ueb2n string
+LOOKUP duFOr6
+RPRINT
+PRINT

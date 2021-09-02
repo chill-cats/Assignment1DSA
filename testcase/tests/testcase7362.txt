@@ -1,0 +1,24 @@
+INSERT ow string
+BEGIN
+INSERT n4 number
+INSERT x1m number
+r flykj
+INSERT xSWL string
+LOOKUP xSWL
+BEGIN
+PRINT
+INSERT jyDT number
+INSERT s4q string
+INSERT uh4 string
+INSERT hx number
+INSERT oZ string
+INSERT arA number
+END
+LOOKUP n4
+INSERT h3Wfo number
+INSERT u number
+ASSIGN x1m 'Pz'
+RPRINT
+INSERT v string
+PRINT
+INSERT jms string

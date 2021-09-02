@@ -1,0 +1,40 @@
+aw8 mE_m
+INSERT kET9Js number
+INSERT zizCL string
+INSERT xd string
+INSERT i string
+END
+sO owQI
+INSERT xz string
+INSERT tUA4K number
+END
+INSERT rM0iZf string
+INSERT aRm string
+INSERT uz string
+LOOKUP xz
+INSERT sGt number
+INSERT hpA number
+PRINT
+RPRINT
+INSERT uYpg string
+INSERT ujII string
+INSERT mXiAp number
+INSERT zYy number
+INSERT tjS number
+d oFVmc
+PRINT
+LOOKUP mXiAp
+INSERT sk number
+INSERT imXIhT string
+INSERT hAaaL number
+INSERT z4 string
+PRINT
+ASSIGN uz uz
+END
+INSERT c8Z9b string
+LOOKUP tUA4K
+INSERT vuHV number
+PRINT
+INSERT p5wd7 string
+INSERT fbK0 number
+INSERT jbJDn number

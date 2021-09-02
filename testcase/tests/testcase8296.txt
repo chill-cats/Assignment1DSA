@@ -1,0 +1,7 @@
+LOOKUP b
+INSERT sTk1 number
+INSERT dj number
+PRINT
+RPRINT
+INSERT exhn7a string
+INSERT gWY7S number

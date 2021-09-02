@@ -1,0 +1,40 @@
+INSERT u5K4 number
+ASSIGN u5K4 u5K4
+INSERT u5IT string
+INSERT oc6 number
+INSERT dVKAb string
+INSERT p3 string
+PRINT
+INSERT qJoXlk number
+INSERT njMxc number
+LOOKUP oc6
+INSERT w string
+INSERT ig string
+PRINT
+p07 oIyo
+ehM2Zi cm4m3v
+END
+INSERT jtH string
+PRINT
+BEGIN
+INSERT z string
+INSERT k7 number
+PRINT
+LOOKUP z
+INSERT oB6v string
+INSERT tl2 string
+INSERT n number
+LOOKUP w
+ASSIGN z '7vJwB'
+INSERT w number
+INSERT iaz5 number
+INSERT aQ string
+INSERT stC3F string
+END
+INSERT av9D string
+INSERT qfWB_u number
+INSERT pyu string
+INSERT forL string
+RPRINT
+INSERT gN string
+INSERT rB number

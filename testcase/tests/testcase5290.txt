@@ -1,0 +1,9 @@
+INSERT kP string
+PRINT
+INSERT yJ string
+INSERT s string
+PRINT
+INSERT duo3R string
+INSERT ddWt number
+INSERT bYzH number
+INSERT aJdH string

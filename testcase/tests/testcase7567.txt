@@ -1,0 +1,19 @@
+PRINT
+PRINT
+LOOKUP aK
+RPRINT
+INSERT y string
+INSERT m string
+INSERT fED number
+INSERT iUP string
+END
+INSERT p string
+INSERT o number
+INSERT c number
+RPRINT
+END
+INSERT hdya string
+PRINT
+BEGIN
+INSERT pP string
+INSERT zuE9dG number

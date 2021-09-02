@@ -1,0 +1,9 @@
+RPRINT
+PRINT
+INSERT i number
+INSERT kv string
+RPRINT
+rNO1Yd bKV6
+INSERT uD number
+INSERT b string
+END

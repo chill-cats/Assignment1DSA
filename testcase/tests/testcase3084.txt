@@ -1,0 +1,39 @@
+INSERT tnql string
+INSERT dzTbI5 number
+INSERT zGZ9FP number
+RPRINT
+INSERT eaTj1 number
+PRINT
+INSERT fIa number
+INSERT wzj number
+INSERT h string
+LOOKUP fIa
+INSERT i number
+INSERT i1hB number
+INSERT cz3 number
+RPRINT
+BEGIN
+f8LM6D up7cx
+BEGIN
+INSERT v number
+END
+INSERT aUVJo string
+INSERT cQ number
+BEGIN
+INSERT ec8 number
+INSERT p string
+END
+END
+PRINT
+LOOKUP fIa
+LOOKUP cQ
+BEGIN
+ASSIGN cQ 1095
+INSERT tJTC string
+INSERT x9AuH string
+mt h
+INSERT atOR string
+txz bqVN
+iz xKg0w
+INSERT b number
+INSERT th string

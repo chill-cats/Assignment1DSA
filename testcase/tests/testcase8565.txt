@@ -1,0 +1,21 @@
+RPRINT
+INSERT gFQ string
+INSERT wi number
+INSERT vBp string
+INSERT j_M number
+INSERT kP string
+INSERT fkhOyO number
+INSERT woKTq string
+INSERT w2zIx string
+END
+PRINT
+zc wTolS
+INSERT olw number
+INSERT sd_VO string
+PRINT
+INSERT s string
+PRINT
+PRINT
+INSERT e5jCNH string
+INSERT o8O number
+ASSIGN kP s

@@ -1,0 +1,33 @@
+INSERT b string
+INSERT mifB9D number
+INSERT ss string
+INSERT uS string
+INSERT l3N number
+INSERT i number
+INSERT tibM number
+INSERT yo string
+INSERT ycz string
+INSERT bT string
+END
+BEGIN
+INSERT z number
+INSERT oRpGLF number
+INSERT iZ number
+INSERT uojnn number
+INSERT flh string
+INSERT aHL string
+INSERT hx string
+INSERT aN42 string
+INSERT qvQa7C string
+INSERT wl number
+INSERT dN string
+INSERT w4bWCe string
+INSERT sO number
+BEGIN
+INSERT bBVc string
+INSERT vw5Xq string
+INSERT b number
+INSERT p number
+INSERT huBgfa string
+ASSIGN bBVc tibM
+BEGIN

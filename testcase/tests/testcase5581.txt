@@ -1,0 +1,10 @@
+INSERT uAB number
+LOOKUP uAB
+INSERT hPw number
+RPRINT
+INSERT ojXlN_ number
+END
+RPRINT
+RPRINT
+INSERT m6 string
+PRINT

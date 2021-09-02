@@ -1,0 +1,37 @@
+INSERT m_Xd0 string
+INSERT jUR number
+INSERT ceB string
+INSERT mmLDIn number
+INSERT asx number
+BEGIN
+INSERT cElS number
+INSERT uo_1 string
+INSERT mF number
+LOOKUP mmLDIn
+INSERT rZ string
+INSERT ycTWth number
+RPRINT
+INSERT iGN string
+BEGIN
+INSERT i1rN string
+INSERT f47lYo string
+INSERT et string
+ASSIGN ycTWth 142
+INSERT hlsH4 number
+PRINT
+INSERT jDF number
+INSERT vu string
+INSERT lCHf string
+INSERT bEf string
+INSERT n_C string
+LOOKUP f47lYo
+INSERT lIY string
+ASSIGN lCHf 's4M'
+INSERT y string
+PRINT
+INSERT jEWVT number
+INSERT j number
+RPRINT
+INSERT e number
+PRINT
+INSERT wHPx number

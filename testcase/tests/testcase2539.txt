@@ -1,0 +1,11 @@
+INSERT fWm string
+INSERT l4nM string
+INSERT u number
+LOOKUP l4nM
+BEGIN
+PRINT
+INSERT h string
+PRINT
+INSERT hSKA number
+INSERT owM string
+tkGTOH lnAzC

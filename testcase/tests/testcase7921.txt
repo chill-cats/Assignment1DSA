@@ -1,0 +1,36 @@
+INSERT t9c number
+BEGIN
+LOOKUP t9c
+INSERT iEDSI string
+BEGIN
+INSERT up_6 number
+ASSIGN up_6 1144
+INSERT az1 number
+END
+INSERT tA number
+LOOKUP az1
+INSERT r number
+zjh g
+END
+PRINT
+ASSIGN az1 'y'
+END
+INSERT hz number
+INSERT oDZd9P number
+INSERT gsaKKR number
+INSERT j6W number
+INSERT in string
+BEGIN
+INSERT z number
+INSERT s6aR_N number
+BEGIN
+ASSIGN in 'Ue9az'
+BEGIN
+BEGIN
+INSERT s number
+INSERT q number
+INSERT ywd0g string
+ke2O oe
+INSERT erTk number
+INSERT dn number
+INSERT oND number

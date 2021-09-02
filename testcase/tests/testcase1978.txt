@@ -1,0 +1,18 @@
+END
+INSERT hr number
+END
+INSERT pOids number
+INSERT vRUP number
+PRINT
+INSERT sDbD5V string
+BEGIN
+INSERT aEgmA string
+INSERT yFky1 string
+LOOKUP pOids
+INSERT dHUdr3 string
+INSERT mL number
+BEGIN
+INSERT rgw number
+INSERT aUqNv number
+END
+RPRINT

@@ -1,0 +1,30 @@
+INSERT x number
+INSERT ripG2 number
+INSERT nf number
+INSERT zF9SIv number
+INSERT iZBkJ number
+LOOKUP iZBkJ
+INSERT cTO string
+INSERT jMe7g string
+INSERT fqNoHV number
+INSERT rU string
+INSERT n number
+INSERT xTl string
+h7EfrM ugCjv
+INSERT sDq8 number
+INSERT rSl string
+INSERT c46t8 string
+INSERT oRA string
+INSERT whb number
+INSERT r2y number
+INSERT c7c number
+INSERT t2sy number
+INSERT qp1 string
+INSERT e1uy number
+INSERT pZ string
+INSERT fLNm number
+END
+RPRINT
+LOOKUP sDq8
+INSERT wP0wvA number
+INSERT z9xXKa string

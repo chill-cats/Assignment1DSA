@@ -1,0 +1,25 @@
+RPRINT
+INSERT h6Z number
+END
+INSERT e0KSi string
+BEGIN
+INSERT nwj3 string
+s lDcG
+INSERT n3oaPQ number
+INSERT d number
+RPRINT
+RPRINT
+LOOKUP e0KSi
+RPRINT
+INSERT il string
+BEGIN
+LOOKUP il
+INSERT eqpD9 string
+INSERT lwIXb0 number
+INSERT pP string
+END
+INSERT hAE9Q4 string
+INSERT kJ string
+INSERT aI11x string
+ASSIGN aI11x 548
+INSERT vqTSne string

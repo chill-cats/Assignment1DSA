@@ -1,0 +1,24 @@
+INSERT eZ number
+INSERT dw string
+BEGIN
+INSERT ou number
+INSERT nDpzR number
+INSERT eic8Wf number
+INSERT j string
+PRINT
+ASSIGN dw 29
+INSERT qtE_Qv string
+INSERT xUAeE5 number
+BEGIN
+LOOKUP eic8Wf
+ASSIGN qtE_Qv dw
+PRINT
+INSERT dg number
+INSERT wXVyzd string
+INSERT mmuugJ number
+o9Ls evlH
+INSERT z9qrLd string
+wq f1v_5W
+INSERT olGT string
+INSERT p string
+INSERT dKHmq string

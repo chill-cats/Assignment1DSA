@@ -1,0 +1,25 @@
+BEGIN
+LOOKUP goIp5
+INSERT u8 number
+END
+INSERT p number
+INSERT kQwNMa string
+INSERT cl number
+ep ol
+BEGIN
+BEGIN
+PRINT
+INSERT v number
+INSERT baH4 number
+INSERT d__iVa string
+eHMhx8 vQafFh
+END
+INSERT g number
+INSERT qN number
+INSERT tZL number
+ASSIGN d__iVa 'SRN'
+ASSIGN p v
+INSERT eThWlx string
+END
+INSERT hndp5 string
+INSERT h string

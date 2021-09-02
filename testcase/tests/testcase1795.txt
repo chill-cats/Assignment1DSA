@@ -1,0 +1,27 @@
+RPRINT
+ASSIGN cS 30
+INSERT s string
+ASSIGN s 'AeRA9'
+LOOKUP wXBlIr
+INSERT eBcL string
+PRINT
+INSERT yM0I string
+INSERT ulgV number
+PRINT
+BEGIN
+INSERT nt6 string
+INSERT xY string
+INSERT wQ65Kb number
+INSERT s3 string
+INSERT g number
+ASSIGN eBcL 1235
+INSERT vsht_ number
+INSERT j string
+BEGIN
+INSERT rjX number
+RPRINT
+nV bNrscM
+INSERT uD string
+INSERT x_L number
+LOOKUP yM0I
+INSERT bT_wf string

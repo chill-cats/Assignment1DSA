@@ -1,0 +1,38 @@
+LOOKUP u
+ASSIGN thGTq 32
+INSERT nTtCgL string
+INSERT wG number
+INSERT snNXhu string
+INSERT wif string
+INSERT wa7V3 string
+INSERT w3Ta number
+INSERT tM number
+INSERT jc3K number
+INSERT wC2K9q number
+INSERT et1E0 number
+INSERT opLj2 number
+INSERT w string
+PRINT
+BEGIN
+BEGIN
+INSERT d7yQ string
+INSERT x number
+INSERT nk string
+LOOKUP jc3K
+INSERT n2C number
+INSERT prr number
+INSERT t2I4jA number
+RPRINT
+INSERT x string
+INSERT b4Iz string
+LOOKUP wif
+INSERT yLafS string
+INSERT n0 string
+BEGIN
+INSERT uExoS8 number
+ASSIGN yLafS 'wTw'
+INSERT j string
+INSERT h number
+INSERT l9D number
+INSERT xDCO number
+PRINT

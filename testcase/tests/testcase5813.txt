@@ -1,0 +1,32 @@
+INSERT n string
+INSERT xAf string
+INSERT vfBzS string
+INSERT xZkb number
+LOOKUP vfBzS
+INSERT zmB string
+INSERT s number
+INSERT zaLOE number
+INSERT fmTB string
+INSERT exZ number
+PRINT
+INSERT jSpbl string
+BEGIN
+INSERT jZMSt number
+INSERT gfRGN6 number
+INSERT ruK number
+INSERT z number
+INSERT zGJ number
+END
+BEGIN
+INSERT v number
+INSERT pL number
+END
+INSERT tn7SG string
+ASSIGN jZMSt gfRGN6
+INSERT mpT string
+ASSIGN exZ 'ikT'
+INSERT luu4JG number
+LOOKUP jSpbl
+aLz o
+ASSIGN exZ 216
+INSERT eFid number

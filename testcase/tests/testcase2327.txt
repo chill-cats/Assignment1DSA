@@ -1,0 +1,21 @@
+INSERT glT8r number
+INSERT t number
+LOOKUP t
+BEGIN
+INSERT o6VH number
+LOOKUP t
+RPRINT
+INSERT vVc string
+RPRINT
+INSERT vg0 number
+BEGIN
+INSERT vk23 number
+ASSIGN t 1176
+PRINT
+PRINT
+PRINT
+LOOKUP u4
+INSERT r number
+ASSIGN vk23 'OXwvB'
+INSERT xE6jIR number
+END

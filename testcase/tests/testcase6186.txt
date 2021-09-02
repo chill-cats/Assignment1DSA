@@ -1,0 +1,25 @@
+INSERT u string
+INSERT dH8pW number
+INSERT xcx8f number
+INSERT s number
+LOOKUP xcx8f
+INSERT za string
+INSERT o string
+INSERT tfK1_g string
+INSERT pX string
+INSERT cN5n string
+INSERT kMS4Il string
+PRINT
+ASSIGN cN5n '0e'
+uOH c
+INSERT p string
+PRINT
+ASSIGN dH8pW 'zKSw'
+INSERT q number
+INSERT aU4sbn string
+INSERT zP number
+LOOKUP p
+INSERT oE1Mb number
+ASSIGN pX 'c52AV'
+INSERT dPnP number
+INSERT znaFOm string

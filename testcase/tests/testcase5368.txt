@@ -1,0 +1,28 @@
+RPRINT
+INSERT pSW4J string
+INSERT an number
+INSERT luVDQe string
+INSERT bN0 string
+INSERT iFfX string
+BEGIN
+INSERT rau string
+INSERT kFLw number
+INSERT v3H number
+INSERT au number
+INSERT b6aat string
+INSERT r6MXaV string
+INSERT bOY string
+INSERT fmf number
+INSERT u6QfEJ number
+LOOKUP r6MXaV
+INSERT td string
+BEGIN
+PRINT
+INSERT sQswA string
+INSERT kc number
+tTH8bJ mWviWI
+INSERT aifpBu number
+INSERT pWR0s number
+ASSIGN pSW4J 'Nt7 o'
+INSERT tPu3H5 string
+INSERT wVxp7J string

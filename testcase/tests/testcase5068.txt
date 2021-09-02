@@ -1,0 +1,37 @@
+INSERT p string
+RPRINT
+INSERT rNpki string
+INSERT vv string
+INSERT oeVG0M number
+INSERT mjeO string
+INSERT pxWqi string
+ASSIGN vv 108
+INSERT h8j1 number
+INSERT arE number
+PRINT
+INSERT vpa string
+INSERT qQp number
+INSERT xsJyb number
+PRINT
+INSERT bq2 number
+LOOKUP vpa
+INSERT z number
+INSERT dsq_3 number
+RPRINT
+RPRINT
+INSERT mSPu number
+PRINT
+INSERT aFM number
+INSERT y number
+END
+RPRINT
+INSERT l_HR string
+INSERT utn5j2 string
+tcrojQ mQ
+INSERT o string
+INSERT r3GaJ string
+INSERT hU number
+BEGIN
+RPRINT
+b0 kS7
+INSERT p number

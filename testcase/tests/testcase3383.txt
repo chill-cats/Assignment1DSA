@@ -1,0 +1,33 @@
+INSERT kZ2 string
+INSERT ugcD string
+INSERT b string
+RPRINT
+ASSIGN kZ2 'LC'
+INSERT yEGN number
+PRINT
+INSERT r0WV6r string
+INSERT mzQsdZ string
+INSERT cn7O number
+dIZQt h9
+vp xs
+PRINT
+INSERT d string
+END
+fCRd7 vD
+RPRINT
+RPRINT
+LOOKUP yEGN
+LOOKUP cn7O
+ASSIGN r0WV6r 'm'
+PRINT
+INSERT iOks number
+LOOKUP yEGN
+BEGIN
+ASSIGN yEGN 503
+BEGIN
+RPRINT
+ASSIGN b 638
+INSERT aXxA number
+INSERT mm string
+LOOKUP mzQsdZ
+INSERT ysH string

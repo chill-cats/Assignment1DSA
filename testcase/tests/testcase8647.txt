@@ -1,0 +1,21 @@
+INSERT zE0 number
+INSERT zYuO5 number
+ASSIGN zYuO5 'VOi'
+INSERT ft number
+INSERT rXHhWq string
+INSERT tM5uu string
+INSERT jNu9 number
+INSERT zv string
+INSERT wyWPmd string
+LOOKUP zv
+INSERT yXBATp number
+ASSIGN tM5uu 23
+RPRINT
+nEcx0r gP
+INSERT ddL3 string
+INSERT pi4opK string
+PRINT
+LOOKUP jNu9
+INSERT aVtmP6 string
+END
+ASSIGN ddL3 1096

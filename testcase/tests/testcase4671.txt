@@ -1,0 +1,12 @@
+INSERT kbtuf string
+LOOKUP kbtuf
+INSERT urHj9o number
+INSERT rvEVRs string
+RPRINT
+RPRINT
+END
+INSERT qaTTT number
+INSERT ePJwt3 string
+INSERT b2M8p string
+BEGIN
+ASSIGN rvEVRs rvEVRs

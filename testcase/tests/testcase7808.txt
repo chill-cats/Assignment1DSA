@@ -1,0 +1,39 @@
+INSERT chgI string
+LOOKUP chgI
+PRINT
+RPRINT
+END
+INSERT i7i string
+INSERT gNEQ_z number
+INSERT fE string
+INSERT j string
+INSERT pd string
+PRINT
+INSERT x93It string
+RPRINT
+iOeP2s s54Q
+LOOKUP pd
+qVo u6
+ASSIGN gNEQ_z x93It
+ASSIGN i7i j
+INSERT dxdQW string
+INSERT u5q string
+BEGIN
+LOOKUP dxdQW
+END
+BEGIN
+RPRINT
+dqsrd aNrB
+PRINT
+zMz h2
+LOOKUP fE
+INSERT b number
+BEGIN
+INSERT j2fSq string
+INSERT jf3 string
+INSERT zqFGdI string
+INSERT dObP0Q number
+INSERT c number
+RPRINT
+INSERT z3Ua number
+INSERT xue number

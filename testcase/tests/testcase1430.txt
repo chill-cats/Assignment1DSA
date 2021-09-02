@@ -1,0 +1,34 @@
+ASSIGN sD6fs 'y'
+LOOKUP pmZd
+jui6C p_BgaA
+INSERT dvCYv number
+INSERT nSP number
+INSERT ay4LD string
+INSERT ot number
+INSERT eFq0F0 number
+PRINT
+wl3V na4x4
+cltAV_ jlQu
+LOOKUP ay4LD
+INSERT j number
+INSERT fTIA number
+INSERT zJBv string
+END
+INSERT ry number
+END
+INSERT kD number
+RPRINT
+END
+INSERT wqee string
+INSERT lE7O number
+ASSIGN ot 681
+INSERT yMk0n number
+INSERT jXxM number
+ASSIGN nSP ry
+INSERT lb string
+BEGIN
+INSERT sJjaG number
+LOOKUP fTIA
+LOOKUP ot
+INSERT llFn string
+INSERT xZ3C string

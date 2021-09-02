@@ -1,0 +1,7 @@
+INSERT f1 number
+INSERT hoIN string
+END
+LOOKUP hoIN
+ASSIGN f1 '6'
+INSERT bdA string
+INSERT ta4 string

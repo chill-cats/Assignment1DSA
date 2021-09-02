@@ -1,0 +1,25 @@
+RPRINT
+INSERT tNXIb string
+INSERT pd string
+END
+RPRINT
+INSERT iuKzr string
+INSERT tV16 number
+PRINT
+END
+PRINT
+INSERT j9sR number
+INSERT xEdeM number
+INSERT seOde number
+INSERT oa8 string
+LOOKUP iuKzr
+INSERT sarYin string
+INSERT my string
+RPRINT
+RPRINT
+BEGIN
+END
+LOOKUP seOde
+INSERT t9B9G number
+INSERT s number
+END

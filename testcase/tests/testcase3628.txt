@@ -1,0 +1,33 @@
+INSERT t number
+INSERT rFukq string
+INSERT d7m number
+PRINT
+ASSIGN rFukq t
+INSERT qnv3 string
+INSERT w number
+INSERT ukrJjY number
+LOOKUP rFukq
+INSERT ysb4 string
+INSERT mn number
+INSERT q string
+INSERT llsNK1 string
+INSERT iV2Od number
+INSERT aL4evL number
+END
+INSERT mG5W number
+INSERT v8 string
+INSERT x5Z number
+INSERT mDXa string
+INSERT nfDxV string
+END
+RPRINT
+INSERT f number
+INSERT zWt6 string
+INSERT e7 string
+INSERT s number
+INSERT xcoR2E number
+INSERT gAn4jc string
+x_hGI rO8Mt
+INSERT or number
+END
+LOOKUP qnv3

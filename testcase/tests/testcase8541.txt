@@ -1,0 +1,24 @@
+INSERT qJ string
+INSERT hwLH number
+LOOKUP qJ
+END
+RPRINT
+INSERT tT81uB string
+INSERT yFr string
+INSERT i number
+ASSIGN qJ tT81uB
+INSERT uwuN0 string
+RPRINT
+INSERT vFDT string
+INSERT hG number
+END
+BEGIN
+xJ1 pIjczX
+INSERT c_fR number
+END
+INSERT mM number
+INSERT dVFv string
+INSERT drIIsm number
+END
+BEGIN
+INSERT sSa string

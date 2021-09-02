@@ -1,0 +1,9 @@
+PRINT
+INSERT bP number
+INSERT bPc string
+INSERT i9Fd string
+END
+END
+BEGIN
+BEGIN
+INSERT nfDbm number

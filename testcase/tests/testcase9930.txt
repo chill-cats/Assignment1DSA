@@ -1,0 +1,36 @@
+INSERT u string
+INSERT pnuX string
+ASSIGN u u
+INSERT wGNk7 string
+INSERT w4 string
+ASSIGN u wGNk7
+RPRINT
+BEGIN
+INSERT y string
+INSERT o number
+INSERT pAvWb0 number
+INSERT hmXH number
+INSERT uj5_ number
+RPRINT
+INSERT x40jD number
+PRINT
+BEGIN
+INSERT gKJ3 number
+RPRINT
+RPRINT
+INSERT jOx string
+INSERT xzI number
+RPRINT
+INSERT w5ZX string
+INSERT l5 string
+INSERT p_hA string
+RPRINT
+INSERT aD2bD4 number
+LOOKUP x40jD
+INSERT y string
+ASSIGN jOx 'Y69'
+INSERT uVRjfg string
+INSERT k string
+RPRINT
+INSERT q5PY string
+f u

@@ -1,0 +1,40 @@
+INSERT kwf string
+END
+INSERT pt string
+ASSIGN pt 'zWipF'
+INSERT a0Awb string
+INSERT w number
+INSERT y0j9 number
+INSERT lD9qP number
+INSERT g string
+ASSIGN w 'ARm'
+INSERT mxG number
+END
+END
+INSERT b72 string
+INSERT pc string
+INSERT yvUT2 string
+LOOKUP pc
+INSERT ect string
+INSERT qbFI string
+LOOKUP qbFI
+RPRINT
+ASSIGN g pc
+INSERT n number
+RPRINT
+BEGIN
+y07S iZu9F
+INSERT dL number
+INSERT buGK string
+INSERT gSBQEb number
+BEGIN
+PRINT
+PRINT
+INSERT oKLB number
+LOOKUP n
+hs84ra iYyXMQ
+LOOKUP dL
+INSERT lk string
+INSERT eVz number
+INSERT s string
+PRINT

@@ -1,0 +1,29 @@
+INSERT k string
+ASSIGN k k
+RPRINT
+INSERT voK string
+ASSIGN voK voK
+BEGIN
+ASSIGN voK 1009
+INSERT c number
+INSERT o4fnJM string
+INSERT ixlB3 number
+END
+INSERT qZ number
+LOOKUP ixlB3
+INSERT rjq string
+INSERT uEk string
+INSERT d string
+BEGIN
+INSERT umkfD string
+INSERT l string
+INSERT l string
+INSERT y string
+END
+INSERT dBdllT string
+INSERT uPwj0h string
+INSERT k7 string
+INSERT ksJ string
+INSERT hetnH string
+LOOKUP uPwj0h
+INSERT p string

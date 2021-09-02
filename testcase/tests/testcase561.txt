@@ -1,0 +1,29 @@
+PRINT
+INSERT k8N number
+INSERT lD3TqV string
+INSERT zcg number
+INSERT d string
+LOOKUP zcg
+INSERT hy00gu number
+ASSIGN hy00gu 806
+INSERT fWa number
+INSERT eAo54f number
+INSERT aneO number
+INSERT my string
+INSERT yY408 string
+RPRINT
+END
+INSERT inimU_ number
+INSERT uwOJl string
+aK ae
+INSERT ljJ22W number
+PRINT
+INSERT miX string
+INSERT cfyD string
+INSERT laW string
+INSERT y07 number
+INSERT e5RD6 number
+END
+INSERT j_i8 number
+INSERT zx2Vzi string
+RPRINT

@@ -1,0 +1,21 @@
+INSERT ffH5 number
+RPRINT
+BEGIN
+BEGIN
+INSERT e6L string
+ASSIGN ffH5 e6L
+INSERT pcGBh number
+q vx
+END
+INSERT iES string
+INSERT pR number
+INSERT dC string
+INSERT za string
+INSERT jg9 string
+END
+ASSIGN ffH5 'AMmf'
+RPRINT
+INSERT gv number
+ASSIGN gv 'fwWUA'
+INSERT q string
+BEGIN

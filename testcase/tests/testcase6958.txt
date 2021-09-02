@@ -1,0 +1,26 @@
+LOOKUP j5jiY
+INSERT c number
+INSERT e string
+INSERT l string
+PRINT
+INSERT d7lp4 string
+RPRINT
+END
+INSERT tDJ string
+INSERT tnjG string
+INSERT o number
+INSERT cDTUY number
+BEGIN
+INSERT lDQ number
+PRINT
+INSERT hdo string
+INSERT zv1Qh string
+INSERT oC number
+INSERT mCy string
+INSERT dfM number
+INSERT zVBm number
+END
+INSERT cmdU number
+INSERT tM0K number
+INSERT x number
+INSERT yO4qUc string

@@ -1,0 +1,10 @@
+INSERT h string
+BEGIN
+ASSIGN h h
+o0 fl
+INSERT iUPw number
+INSERT xuml string
+END
+INSERT iC number
+END
+INSERT ppN string

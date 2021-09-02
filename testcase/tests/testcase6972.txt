@@ -1,0 +1,19 @@
+INSERT lU number
+LOOKUP lU
+INSERT lSf string
+BEGIN
+INSERT x number
+INSERT f85Ge number
+sDvrgz m
+INSERT dhEYs number
+INSERT hg number
+LOOKUP dhEYs
+LOOKUP lSf
+PRINT
+BEGIN
+INSERT g2_GEz string
+INSERT o9w number
+INSERT bQLg1 number
+END
+INSERT f string
+LOOKUP o9w

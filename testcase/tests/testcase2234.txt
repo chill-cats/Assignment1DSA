@@ -1,0 +1,13 @@
+RPRINT
+BEGIN
+INSERT hWi string
+hznwJ zR
+INSERT vas string
+LOOKUP hWi
+RPRINT
+LOOKUP hWi
+pN f
+RPRINT
+RPRINT
+INSERT sM string
+INSERT fn2vNW number

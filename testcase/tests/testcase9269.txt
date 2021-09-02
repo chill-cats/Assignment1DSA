@@ -1,0 +1,3 @@
+INSERT u number
+INSERT gvdd string
+ASSIGN gvdd 'ieOy0'

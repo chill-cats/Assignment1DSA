@@ -1,0 +1,1 @@
+ASSIGN uj 'G7'

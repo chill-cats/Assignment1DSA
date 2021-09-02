@@ -1,0 +1,4 @@
+INSERT bU7 number
+INSERT hst string
+INSERT f8P string
+PRINT

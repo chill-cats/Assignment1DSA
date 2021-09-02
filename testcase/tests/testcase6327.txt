@@ -1,0 +1,21 @@
+PRINT
+END
+INSERT pS number
+LOOKUP pS
+BEGIN
+INSERT rUfz3 string
+bxpc xR
+INSERT zRQijM string
+INSERT qcZIn number
+RPRINT
+LOOKUP zRQijM
+END
+INSERT dDbY number
+LOOKUP qcZIn
+INSERT p number
+INSERT vbMRU_ string
+INSERT r2 string
+END
+END
+INSERT gQ string
+INSERT dDNTT number

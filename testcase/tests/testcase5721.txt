@@ -1,0 +1,14 @@
+BEGIN
+INSERT hUZ number
+END
+INSERT np number
+ASSIGN np 507
+RPRINT
+BEGIN
+INSERT s number
+LOOKUP hUZ
+RPRINT
+INSERT iRqMRu string
+BEGIN
+PRINT
+INSERT k4 number

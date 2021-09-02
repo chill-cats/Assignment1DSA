@@ -1,0 +1,26 @@
+ASSIGN wa4 879
+LOOKUP fAf0pY
+BEGIN
+INSERT xuWV string
+RPRINT
+q f
+INSERT jk0Dc string
+BEGIN
+BEGIN
+ASSIGN jk0Dc 118
+INSERT l3 string
+INSERT hNEdK string
+INSERT en number
+INSERT wkP string
+INSERT kcy string
+INSERT hF0 number
+INSERT c string
+RPRINT
+LOOKUP hF0
+INSERT gSa number
+INSERT dZfMb string
+INSERT dttW number
+INSERT hY string
+END
+PRINT
+INSERT l7bt number

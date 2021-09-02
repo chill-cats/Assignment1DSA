@@ -1,0 +1,17 @@
+wZasg bK_0O
+ASSIGN h1 1058
+INSERT vFyB number
+INSERT jd number
+INSERT rN string
+INSERT lYFN3 number
+INSERT hy65 number
+ASSIGN vFyB 930
+INSERT dz string
+INSERT aG number
+INSERT up number
+END
+PRINT
+END
+INSERT sqs3 string
+INSERT rfj string
+INSERT btN string

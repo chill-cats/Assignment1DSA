@@ -1,0 +1,21 @@
+INSERT t3 number
+INSERT u number
+ASSIGN u 'hoF'
+ASSIGN u 1125
+RPRINT
+INSERT y string
+INSERT qPAAx number
+INSERT woyk number
+INSERT vod1 number
+INSERT tML number
+ASSIGN vod1 'Jlct'
+INSERT qpdhzx string
+ASSIGN qPAAx 493
+ASSIGN tML 'RE0'
+ASSIGN qpdhzx 'o'
+INSERT v1exE number
+l nHI0nA
+END
+INSERT mdT6Ul number
+INSERT s number
+ASSIGN s 'nZ'

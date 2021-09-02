@@ -1,0 +1,14 @@
+INSERT a7 number
+m xFn
+INSERT q2o3au number
+BEGIN
+END
+INSERT dS4 string
+INSERT kE number
+INSERT uY string
+BEGIN
+INSERT tCw string
+INSERT y0 string
+ASSIGN uY 708
+INSERT xO0g string
+ASSIGN uY uY

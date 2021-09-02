@@ -1,0 +1,11 @@
+INSERT dlr number
+INSERT rXFkV number
+END
+INSERT deliRQ number
+INSERT rFD number
+INSERT x2y string
+INSERT bz number
+BEGIN
+INSERT tMGUlp number
+RPRINT
+BEGIN

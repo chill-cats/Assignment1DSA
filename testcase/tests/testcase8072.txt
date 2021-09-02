@@ -1,0 +1,29 @@
+RPRINT
+INSERT vbthxi number
+INSERT uMY number
+INSERT wT number
+BEGIN
+RPRINT
+END
+INSERT dQec string
+o s
+INSERT oAdsD number
+BEGIN
+INSERT vko string
+INSERT sDf string
+LOOKUP vbthxi
+ASSIGN dQec 'a'
+INSERT gk string
+INSERT hQb number
+INSERT aR string
+INSERT zHc3b number
+LOOKUP wT
+INSERT hF3 number
+END
+INSERT iinHku string
+INSERT cq number
+INSERT zNucEk number
+INSERT ovCNUD string
+INSERT gd number
+ASSIGN dQec 469
+ASSIGN cq 448

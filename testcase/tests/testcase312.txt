@@ -1,0 +1,29 @@
+INSERT z5WGE8 string
+INSERT w1 string
+ASSIGN w1 37
+INSERT sKtL string
+INSERT oTpW5 number
+INSERT q string
+INSERT abI string
+INSERT b2 string
+INSERT igorw number
+INSERT k0Bi number
+INSERT r number
+INSERT n_ number
+INSERT bmeQo string
+RPRINT
+INSERT bil number
+INSERT qCy string
+RPRINT
+END
+LOOKUP z5WGE8
+RPRINT
+BEGIN
+INSERT vfkb96 number
+INSERT q4 string
+ASSIGN r 'M'
+INSERT ru number
+INSERT j string
+BEGIN
+INSERT kV number
+LOOKUP kV

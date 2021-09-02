@@ -1,0 +1,24 @@
+INSERT fOK number
+INSERT jn string
+END
+p zIE
+INSERT f number
+RPRINT
+INSERT g6Pm number
+INSERT i string
+INSERT w string
+INSERT jR string
+INSERT wP number
+INSERT a5a number
+INSERT v3U string
+ASSIGN w i
+INSERT vUZ string
+RPRINT
+INSERT xQS string
+LOOKUP a5a
+INSERT v string
+LOOKUP v
+INSERT k string
+BEGIN
+INSERT jeAfx string
+INSERT e string

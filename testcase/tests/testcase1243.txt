@@ -1,0 +1,31 @@
+INSERT hvepPw number
+INSERT xv8z9 number
+INSERT r number
+INSERT wvLQ5 string
+ASSIGN hvepPw '8Faz'
+LOOKUP r
+INSERT ftxU16 number
+INSERT kDWGZ string
+INSERT xVH number
+INSERT kM string
+BEGIN
+INSERT q3Rr number
+INSERT t number
+yG lmzIkt
+INSERT rWwtA number
+ASSIGN kM xVH
+INSERT xvJ string
+INSERT u string
+RPRINT
+INSERT sHFwe number
+INSERT qF string
+ASSIGN xvJ 297
+END
+INSERT bqG0f number
+LOOKUP xvJ
+LOOKUP xvJ
+INSERT aZci string
+RPRINT
+ASSIGN kM 702
+INSERT i4dTfH string
+INSERT lh1 number

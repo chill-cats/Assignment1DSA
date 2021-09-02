@@ -1,0 +1,37 @@
+INSERT md string
+INSERT w8K number
+BEGIN
+INSERT a string
+INSERT zMJG8x string
+INSERT yV number
+sl rJcR5
+INSERT e string
+END
+INSERT cgBYi string
+INSERT gMT string
+INSERT y number
+INSERT v number
+END
+INSERT t_lgL number
+PRINT
+INSERT vDx string
+ktm jO
+ASSIGN t_lgL 'Q'
+INSERT y number
+INSERT ezW string
+INSERT e7 string
+INSERT giw number
+INSERT atlJx number
+LOOKUP vDx
+INSERT q number
+INSERT fTs number
+INSERT kTeRup string
+INSERT x5G string
+INSERT eq string
+ASSIGN xa ' '
+INSERT wrSGd string
+ASSIGN kTeRup 1140
+INSERT giXV number
+INSERT utNMR number
+END
+INSERT wkJUvU string

@@ -1,0 +1,5 @@
+END
+INSERT oRd number
+END
+RPRINT
+ASSIGN oRd 'tf'

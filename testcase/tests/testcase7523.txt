@@ -1,0 +1,29 @@
+INSERT i8zzR3 number
+BEGIN
+BEGIN
+INSERT k string
+LOOKUP i8zzR3
+INSERT u string
+INSERT d string
+LOOKUP k
+r ofX
+INSERT dH9qL number
+ASSIGN dH9qL 'F'
+ASSIGN i8zzR3 'Q8zF8'
+INSERT tQL58Y string
+END
+INSERT gb4 string
+INSERT tqSdG string
+INSERT qu number
+RPRINT
+RPRINT
+END
+ASSIGN u gb4
+INSERT wL0HXO string
+RPRINT
+INSERT nh number
+INSERT tGZY string
+INSERT hA string
+INSERT y string
+INSERT lr2 string
+RPRINT

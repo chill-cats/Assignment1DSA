@@ -1,0 +1,8 @@
+PRINT
+BEGIN
+INSERT x1 number
+INSERT wB3Px number
+INSERT nyWRF number
+INSERT iQz number
+INSERT tRI number
+PRINT

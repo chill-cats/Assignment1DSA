@@ -1,0 +1,39 @@
+RPRINT
+INSERT jo number
+INSERT rj string
+INSERT gOZ string
+BEGIN
+INSERT gDuY number
+END
+LOOKUP jo
+INSERT s number
+taSz2G bWg4NC
+INSERT n number
+END
+INSERT zkAbs number
+INSERT kIuOuD string
+END
+PRINT
+INSERT iVSy2n string
+INSERT tCdi number
+LOOKUP iVSy2n
+END
+INSERT tWN_a number
+PRINT
+INSERT kji number
+INSERT eMEp4P number
+LOOKUP n
+INSERT tfwOr number
+INSERT jU number
+INSERT ijL number
+INSERT l number
+INSERT kE string
+vc9l q
+INSERT bSga string
+PRINT
+ASSIGN eMEp4P 559
+RPRINT
+PRINT
+INSERT sbs number
+INSERT tjJHHh string
+INSERT zXZm string

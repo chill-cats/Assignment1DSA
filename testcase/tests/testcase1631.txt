@@ -1,0 +1,23 @@
+INSERT l string
+LOOKUP l
+INSERT nhVEhk number
+INSERT t1axL string
+INSERT j1 string
+INSERT e_a string
+LOOKUP e_a
+INSERT bxEh string
+INSERT mc number
+INSERT p string
+INSERT zhyZ0 string
+INSERT f0kV3 number
+INSERT ybI string
+INSERT v string
+ASSIGN raW1e 730
+BEGIN
+INSERT w string
+ASSIGN f0kV3 'oz53x'
+INSERT pAKFr string
+BEGIN
+ASSIGN p '8 dA'
+RPRINT
+ncps sN

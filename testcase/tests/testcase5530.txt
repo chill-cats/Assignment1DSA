@@ -1,0 +1,8 @@
+INSERT gu string
+INSERT zHw number
+RPRINT
+INSERT bQFhm number
+INSERT bfDS number
+RPRINT
+END
+INSERT pEY number

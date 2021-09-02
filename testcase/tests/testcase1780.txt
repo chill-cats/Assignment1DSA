@@ -1,0 +1,16 @@
+INSERT dtAdPg string
+ASSIGN dtAdPg '4'
+INSERT iw string
+ASSIGN iw 184
+INSERT i string
+INSERT oO7 number
+BEGIN
+BEGIN
+INSERT oo number
+INSERT u string
+INSERT bG3c string
+INSERT hsOoZ4 string
+END
+INSERT vKrE string
+PRINT
+m9 fxF2s

@@ -1,0 +1,20 @@
+PRINT
+BEGIN
+PRINT
+ASSIGN r71f 'i'
+RPRINT
+INSERT jE number
+ASSIGN jE jE
+INSERT q3iD number
+INSERT nE string
+INSERT cn number
+INSERT qzz number
+INSERT gVwUj number
+jtS lwsY
+INSERT i7x7 number
+END
+jbsI hy
+INSERT lIX number
+ASSIGN nE 295
+INSERT z number
+RPRINT

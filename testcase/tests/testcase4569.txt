@@ -1,0 +1,29 @@
+PRINT
+INSERT fMg string
+INSERT iqTgL string
+BEGIN
+INSERT mT number
+ASSIGN iqTgL 'OD'
+INSERT f number
+INSERT e9u7d string
+INSERT feB number
+INSERT unkr6 string
+LOOKUP feB
+INSERT h_J6u number
+PRINT
+LOOKUP iqTgL
+jF bbB
+LOOKUP iqTgL
+RPRINT
+BEGIN
+INSERT pY number
+RPRINT
+PRINT
+INSERT y3kHzJ string
+INSERT dg string
+INSERT kbU6EL number
+ASSIGN kbU6EL 'a4ul'
+LOOKUP fMg
+INSERT sf number
+INSERT scqQ number
+INSERT v68c string

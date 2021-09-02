@@ -1,0 +1,29 @@
+INSERT j20dTg string
+INSERT eMvZ number
+PRINT
+INSERT oINQ string
+RPRINT
+LOOKUP j20dTg
+ASSIGN oINQ 794
+LOOKUP j20dTg
+INSERT p29lP5 number
+INSERT sv number
+INSERT wG string
+INSERT jPX string
+INSERT uG number
+INSERT wP number
+RPRINT
+END
+INSERT e number
+INSERT sy number
+RPRINT
+INSERT gy0 number
+INSERT j number
+INSERT gxo string
+INSERT cRd8yg string
+INSERT wISmOS number
+INSERT vAiQ7 string
+iWHQuB a7Ia1
+INSERT mUs string
+INSERT skY8 string
+LOOKUP skY8

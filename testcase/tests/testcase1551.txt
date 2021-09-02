@@ -1,0 +1,26 @@
+INSERT i string
+ASSIGN i i
+INSERT uJ_ string
+INSERT fXZ number
+INSERT w string
+INSERT d number
+PRINT
+END
+INSERT ejRW string
+INSERT gGFi string
+INSERT caP number
+END
+INSERT xl3h number
+INSERT pWMas string
+LOOKUP d
+INSERT kggSIC string
+INSERT sJtHxB number
+INSERT ic string
+RPRINT
+RPRINT
+d_ vX9
+INSERT e6 string
+PRINT
+RPRINT
+ASSIGN uJ_ pWMas
+INSERT hH9 string

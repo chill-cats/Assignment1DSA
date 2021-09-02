@@ -1,0 +1,39 @@
+ASSIGN vnF 345
+INSERT a6BM5x number
+END
+INSERT nr3 number
+PRINT
+INSERT h string
+LOOKUP h
+INSERT w number
+ASSIGN w '9Ulm'
+INSERT lHe string
+INSERT dBYE string
+INSERT hJflqX number
+PRINT
+INSERT sg7BRZ number
+INSERT gP number
+INSERT k number
+INSERT lL2Qy_ string
+ASSIGN lHe 813
+INSERT e04vp string
+INSERT el string
+BEGIN
+BEGIN
+INSERT zfZ string
+INSERT o2x6N string
+INSERT m4 number
+INSERT yiE7k number
+ASSIGN yiE7k 'C'
+END
+LOOKUP el
+INSERT znT51d number
+INSERT th number
+INSERT iL5N string
+INSERT gIWn number
+INSERT x92G string
+ASSIGN lL2Qy_ '8a3g'
+INSERT qnkU string
+INSERT tEP number
+END
+ASSIGN gIWn 'TDH'

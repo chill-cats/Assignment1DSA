@@ -1,0 +1,22 @@
+ASSIGN mRAOpV 927
+RPRINT
+BEGIN
+INSERT u3tMm number
+INSERT i3C_Sw string
+END
+INSERT wddUp number
+INSERT aNKGPS string
+ASSIGN u3tMm u3tMm
+INSERT mLQ0 number
+INSERT h6 string
+LOOKUP i3C_Sw
+INSERT pv string
+ASSIGN i3C_Sw 1076
+INSERT jeD number
+INSERT l string
+ASSIGN l 'LAZU'
+INSERT p string
+INSERT e_3 string
+INSERT gqmsW string
+RPRINT
+INSERT hnwrH string

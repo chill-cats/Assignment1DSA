@@ -1,0 +1,39 @@
+INSERT ghdrSQ string
+INSERT h2X number
+LOOKUP ghdrSQ
+INSERT jZ14 number
+INSERT z7 string
+INSERT khpWkX number
+INSERT uVbNY string
+ASSIGN z7 'l'
+INSERT d number
+RPRINT
+gU skgBv
+END
+INSERT hJ_x string
+LOOKUP khpWkX
+INSERT u string
+END
+INSERT c8T2Tw number
+INSERT pp string
+INSERT gFbJUo number
+INSERT g5mJsy string
+ASSIGN d 1156
+BEGIN
+INSERT riO number
+INSERT vB string
+LOOKUP jZ14
+PRINT
+LOOKUP vB
+END
+INSERT kTQQ5 string
+END
+INSERT dmo string
+RPRINT
+INSERT z1 string
+INSERT idq22F string
+PRINT
+INSERT cSVi number
+INSERT yoTTA number
+INSERT zXUaW string
+INSERT jD3 number

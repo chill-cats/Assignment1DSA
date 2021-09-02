@@ -1,0 +1,4 @@
+BEGIN
+END
+INSERT c string
+RPRINT

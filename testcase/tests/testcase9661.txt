@@ -1,0 +1,11 @@
+INSERT hr6M1 string
+INSERT hw number
+ASSIGN hw hr6M1
+BEGIN
+INSERT cArU string
+END
+INSERT i9_ number
+INSERT jbqo string
+ASSIGN jbqo 97
+INSERT lK4f string
+INSERT t8 number

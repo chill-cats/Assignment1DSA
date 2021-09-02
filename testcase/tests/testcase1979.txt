@@ -1,0 +1,3 @@
+INSERT vI string
+ASSIGN vI 'Htv9'
+INSERT f1Tj number

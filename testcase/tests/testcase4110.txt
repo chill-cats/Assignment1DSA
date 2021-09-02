@@ -1,0 +1,7 @@
+INSERT d2SwSu string
+RPRINT
+END
+BEGIN
+INSERT c string
+INSERT wWL number
+LOOKUP d2SwSu

@@ -1,0 +1,34 @@
+INSERT pm4 number
+RPRINT
+INSERT y4TE number
+INSERT q8 string
+INSERT m3 number
+LOOKUP m3
+LOOKUP m3
+INSERT qd string
+INSERT usD number
+INSERT zuWtF string
+LOOKUP zuWtF
+INSERT t9 number
+INSERT x string
+INSERT f number
+LOOKUP zuWtF
+INSERT a_tje string
+INSERT sqyN number
+INSERT rKw string
+INSERT xqJU number
+PRINT
+INSERT e3 number
+LOOKUP q8
+ASSIGN t9 zuWtF
+INSERT f string
+INSERT fgfh number
+INSERT jF1hF string
+PRINT
+INSERT azev number
+pp lut
+PRINT
+END
+INSERT aG number
+xbc e9
+END

@@ -1,0 +1,36 @@
+RPRINT
+INSERT gKb number
+INSERT iW string
+BEGIN
+ASSIGN iW 243
+INSERT cXZ string
+INSERT wy number
+INSERT yenB_ number
+RPRINT
+INSERT qxuJ47 string
+INSERT id6 number
+INSERT g number
+INSERT wl0F string
+INSERT nGVCNZ string
+INSERT meSR string
+INSERT r5Fv number
+INSERT m2UH1 number
+INSERT o number
+INSERT y9 string
+INSERT e string
+RPRINT
+LOOKUP gKb
+INSERT xfLIz1 string
+ASSIGN meSR 'u'
+INSERT y number
+INSERT eT string
+LOOKUP y
+INSERT swFlT number
+INSERT j number
+INSERT m string
+BEGIN
+ASSIGN m2UH1 1234
+INSERT spZef string
+LOOKUP xfLIz1
+END
+INSERT vqa number

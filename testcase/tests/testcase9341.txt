@@ -1,0 +1,9 @@
+BEGIN
+INSERT r number
+INSERT s string
+INSERT kr string
+PRINT
+RPRINT
+INSERT xpQl number
+LOOKUP r
+INSERT sUIKp string

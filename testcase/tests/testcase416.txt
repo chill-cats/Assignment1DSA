@@ -1,0 +1,23 @@
+INSERT gfzU string
+INSERT hba number
+ASSIGN hba gfzU
+INSERT zUn number
+LOOKUP gfzU
+INSERT iBeg string
+INSERT pWp string
+INSERT gzbMY number
+INSERT t string
+INSERT jT0 number
+ASSIGN iBeg 'Br'
+INSERT us string
+INSERT e2mE number
+INSERT l number
+INSERT zDK string
+RPRINT
+RPRINT
+INSERT o number
+INSERT yi2Q number
+INSERT dm0 number
+BEGIN
+ASSIGN e2mE 'lb'
+wyY vGt

@@ -1,0 +1,37 @@
+LOOKUP aI
+INSERT g82B2 number
+INSERT qOH number
+ASSIGN qOH '0x'
+INSERT lkt8 string
+PRINT
+rQiXj xVZ
+PRINT
+INSERT aay string
+RPRINT
+BEGIN
+INSERT uXV string
+INSERT yLQ string
+LOOKUP lkt8
+INSERT m5Zbg number
+cFNM8M dP_mO
+INSERT sFW_ww string
+INSERT z5 string
+INSERT h number
+INSERT ae2 number
+PRINT
+INSERT qBJ string
+INSERT iqAIX number
+LOOKUP qBJ
+INSERT ct number
+RPRINT
+INSERT u_fx number
+INSERT s5AAD string
+INSERT sjH number
+INSERT oi string
+RPRINT
+INSERT bba number
+BEGIN
+INSERT f8 string
+ASSIGN oi 1094
+PRINT
+LOOKUP f8

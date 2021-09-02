@@ -1,0 +1,10 @@
+BEGIN
+INSERT zfdq string
+PRINT
+INSERT x5uFvn string
+LOOKUP zfdq
+INSERT n0ZqA number
+BEGIN
+PRINT
+INSERT r8thWa number
+END

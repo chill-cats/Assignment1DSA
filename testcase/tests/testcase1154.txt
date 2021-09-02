@@ -1,0 +1,26 @@
+INSERT zltM string
+INSERT pib string
+PRINT
+PRINT
+INSERT jmbbn number
+INSERT tOH string
+INSERT m4 string
+INSERT jq number
+INSERT hQPPx number
+INSERT gnJLnd string
+INSERT mQaw number
+PRINT
+INSERT v string
+INSERT td string
+ASSIGN mQaw 't'
+INSERT rssiCL string
+INSERT hs string
+INSERT pRYH2 string
+INSERT iqMpr number
+INSERT n9T2h string
+PRINT
+INSERT kG0O3 string
+INSERT jAJLjm string
+RPRINT
+INSERT hV11d number
+LOOKUP hV11d

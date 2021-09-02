@@ -1,0 +1,13 @@
+INSERT f number
+INSERT i6SJo number
+LOOKUP i6SJo
+PRINT
+RPRINT
+INSERT hRgmIs number
+INSERT osEkjL string
+END
+ASSIGN i6SJo 'N'
+BEGIN
+LOOKUP osEkjL
+LOOKUP f
+PRINT

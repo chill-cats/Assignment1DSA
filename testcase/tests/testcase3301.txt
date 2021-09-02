@@ -1,0 +1,5 @@
+INSERT xV2U number
+INSERT wZ number
+s kb7
+BEGIN
+RPRINT

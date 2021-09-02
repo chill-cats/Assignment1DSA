@@ -1,0 +1,37 @@
+INSERT u number
+INSERT iB string
+END
+ASSIGN u 1138
+BEGIN
+INSERT s3e304 string
+PRINT
+INSERT mI number
+INSERT qFVa string
+m u
+INSERT a63LWX number
+INSERT aHm0 number
+INSERT cpH8U number
+LOOKUP mI
+INSERT c number
+LOOKUP c
+ASSIGN iB 297
+INSERT hQ number
+INSERT u string
+INSERT bi string
+INSERT e54O number
+INSERT e8 number
+ASSIGN u 824
+ydk9 u
+gbIYd p3
+INSERT eHL string
+INSERT b9BZ number
+ASSIGN bi b9BZ
+INSERT zakLBT number
+LOOKUP c
+INSERT fD4U7 string
+INSERT vHhvkn number
+INSERT x8CRq number
+LOOKUP fD4U7
+INSERT fgyI string
+e yljc8
+INSERT cj5w string

@@ -1,0 +1,8 @@
+INSERT zo string
+INSERT tzGJ string
+INSERT pnBXk number
+END
+INSERT ly string
+INSERT gL number
+ASSIGN gL 'X'
+PRINT

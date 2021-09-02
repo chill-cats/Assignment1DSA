@@ -1,0 +1,23 @@
+INSERT tB number
+ASSIGN tB tB
+INSERT df0k number
+INSERT vBd number
+INSERT dnc string
+INSERT z number
+INSERT m string
+BEGIN
+INSERT zbVz number
+LOOKUP z
+INSERT hlCh string
+INSERT krQ number
+INSERT w102 number
+END
+INSERT vkAlie number
+LOOKUP vBd
+INSERT s string
+ASSIGN zbVz tB
+INSERT cBkNw string
+INSERT uEGL number
+INSERT s66F string
+INSERT g string
+BEGIN

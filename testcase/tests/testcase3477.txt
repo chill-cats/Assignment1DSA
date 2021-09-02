@@ -1,0 +1,12 @@
+INSERT tmkGM3 number
+RPRINT
+INSERT md8u number
+INSERT v number
+LOOKUP tmkGM3
+INSERT muuOUZ string
+PRINT
+INSERT tQi0k number
+INSERT tTpg string
+INSERT c6G_n number
+INSERT sbqfaa number
+BEGIN

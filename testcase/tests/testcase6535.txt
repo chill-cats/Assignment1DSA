@@ -1,0 +1,13 @@
+INSERT fS string
+LOOKUP fS
+LOOKUP fS
+INSERT o1iqqm string
+ASSIGN fS fS
+RPRINT
+PRINT
+INSERT lFo_x1 number
+INSERT agML string
+INSERT mt string
+INSERT rtlh number
+INSERT p05V number
+INSERT h string

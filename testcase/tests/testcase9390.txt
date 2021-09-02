@@ -1,0 +1,40 @@
+INSERT njo9ZP string
+INSERT bP string
+INSERT l number
+ASSIGN bP '7gWI'
+INSERT hz number
+BEGIN
+INSERT e6JE string
+INSERT zBFxK number
+ASSIGN hz 'WoPsO'
+INSERT y number
+INSERT s number
+LOOKUP njo9ZP
+INSERT pvuZ string
+PRINT
+ASSIGN s 326
+INSERT ycFFK number
+INSERT oEQG string
+INSERT rl8 number
+ASSIGN y 'IoDk'
+BEGIN
+BEGIN
+INSERT zKppps number
+BEGIN
+INSERT j4Qy string
+INSERT j string
+INSERT k number
+LOOKUP s
+PRINT
+INSERT lYD6 string
+INSERT tIyku string
+RPRINT
+INSERT j number
+INSERT y number
+INSERT f string
+INSERT br number
+INSERT pG string
+RPRINT
+INSERT bn string
+INSERT i3a string
+INSERT uP string

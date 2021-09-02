@@ -1,0 +1,19 @@
+BEGIN
+INSERT p string
+INSERT xye number
+INSERT dwjpH number
+INSERT bXws string
+END
+INSERT ejA6S number
+BEGIN
+INSERT wjpCZ number
+INSERT l2ORT string
+RPRINT
+r orakdr
+ASSIGN p p
+BEGIN
+INSERT sG number
+INSERT qXB number
+INSERT a_Sp number
+INSERT wafa string
+LOOKUP wjpCZ

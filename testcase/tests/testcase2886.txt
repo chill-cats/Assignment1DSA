@@ -1,0 +1,23 @@
+INSERT sHgvN string
+mP x
+INSERT fz string
+ASSIGN fz 236
+RPRINT
+BEGIN
+INSERT e_uP string
+PRINT
+BEGIN
+ASSIGN fz 375
+RPRINT
+INSERT o3_ string
+INSERT ek number
+INSERT fw number
+BEGIN
+INSERT pGnH string
+INSERT fU string
+oXh cAL
+INSERT uY string
+INSERT t3po number
+ASSIGN sHgvN 800
+END
+RPRINT

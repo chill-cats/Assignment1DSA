@@ -1,0 +1,25 @@
+LOOKUP igA
+INSERT zY number
+INSERT ttGS number
+END
+INSERT aSnR string
+INSERT yfFWh4 string
+INSERT t string
+INSERT lN string
+INSERT mX string
+PRINT
+INSERT zJNJ number
+BEGIN
+INSERT j number
+INSERT zK string
+INSERT azRe number
+INSERT n string
+PRINT
+BEGIN
+INSERT nGI string
+RPRINT
+INSERT u number
+INSERT ra7Wse string
+INSERT dM number
+INSERT wpw3e number
+INSERT hvtTJn string

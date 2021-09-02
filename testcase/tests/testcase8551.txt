@@ -1,0 +1,39 @@
+INSERT k_S string
+LOOKUP k_S
+INSERT ogcui string
+BEGIN
+END
+LOOKUP vHP
+INSERT sqhn string
+END
+INSERT y number
+bAmDRg x
+INSERT v0BFqV string
+INSERT zeEBz7 string
+INSERT lVqUiC number
+INSERT f string
+INSERT jf string
+INSERT l9em string
+INSERT rUQHUC number
+INSERT yVkt number
+INSERT yX string
+INSERT hBatvr number
+PRINT
+INSERT cqZ string
+INSERT yP5d string
+je dfF6u_
+ASSIGN zeEBz7 608
+INSERT z string
+PRINT
+INSERT gbb1gk number
+INSERT hm number
+RPRINT
+PRINT
+PRINT
+INSERT vxiR number
+INSERT czM10 number
+INSERT tJ3 number
+END
+RPRINT
+INSERT o number
+INSERT wgm number

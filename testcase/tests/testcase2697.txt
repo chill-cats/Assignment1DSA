@@ -1,0 +1,34 @@
+INSERT x6r number
+PRINT
+ASSIGN x6r 'ti'
+INSERT a number
+PRINT
+INSERT q8Jj string
+END
+INSERT zy number
+INSERT y number
+ASSIGN q8Jj 'B'
+INSERT bV number
+INSERT d string
+hZzYL7 mnEeYk
+INSERT qe9 number
+INSERT eSI string
+LOOKUP zy
+sXmeW gq
+INSERT tBNU string
+ASSIGN bV 'A6ir8'
+INSERT kVzCD number
+INSERT yfkpKB number
+INSERT qJtr8 number
+INSERT xj number
+INSERT rmO3Z string
+iWSt hg
+INSERT qSKA string
+INSERT g string
+BEGIN
+INSERT jf7gBH string
+INSERT zg8L string
+INSERT r number
+INSERT qhQB string
+INSERT xcMZb string
+INSERT c string

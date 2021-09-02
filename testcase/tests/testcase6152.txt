@@ -1,0 +1,26 @@
+RPRINT
+PRINT
+RPRINT
+INSERT rY string
+ASSIGN rY rY
+ASSIGN rY rY
+INSERT pV number
+nFOmB6 oK
+INSERT sZSD number
+ASSIGN pV 'oHC'
+BEGIN
+INSERT qdoFM string
+RPRINT
+BEGIN
+INSERT zb7 number
+INSERT sFZJ0 string
+RPRINT
+ASSIGN qdoFM qdoFM
+INSERT o number
+INSERT yaXt number
+INSERT a4hIv number
+INSERT pjG string
+INSERT sNHLly number
+ASSIGN yaXt a4hIv
+INSERT vcjb8m string
+PRINT

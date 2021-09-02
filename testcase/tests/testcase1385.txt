@@ -1,0 +1,13 @@
+INSERT sNFx number
+INSERT vRMTS string
+INSERT jcgPbg string
+PRINT
+RPRINT
+INSERT yh string
+INSERT ozgqT number
+fmEND qngC
+INSERT b string
+INSERT hYKoR number
+INSERT gzq string
+INSERT aoo0ji string
+LOOKUP aoo0ji

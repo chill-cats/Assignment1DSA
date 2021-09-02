@@ -1,0 +1,17 @@
+INSERT r4_ number
+gEMZu q5Rej
+ASSIGN r4_ 'Je'
+INSERT iOgEXW string
+ASSIGN iOgEXW iOgEXW
+END
+INSERT r0KRMg string
+INSERT sr1v7 string
+INSERT dTu string
+INSERT zKkJS string
+INSERT c4 number
+INSERT x number
+INSERT iwm9 string
+INSERT i string
+INSERT xG24 string
+LOOKUP x
+INSERT vl8 string

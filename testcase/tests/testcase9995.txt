@@ -1,0 +1,21 @@
+LOOKUP jM
+INSERT hW string
+INSERT cVl string
+INSERT z7 string
+PRINT
+INSERT hlUa string
+INSERT gI string
+RPRINT
+INSERT oe string
+INSERT p string
+BEGIN
+END
+INSERT f5 number
+INSERT ro1cP string
+ASSIGN cVl 'np4m'
+INSERT lA5Sp string
+END
+INSERT pi string
+b nEn
+INSERT rSQD2 string
+INSERT h_2_ string

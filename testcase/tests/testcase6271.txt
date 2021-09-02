@@ -1,0 +1,9 @@
+INSERT tW string
+BEGIN
+ASSIGN tW '0s'
+BEGIN
+ASSIGN tW '0MD3L'
+INSERT in4Rk string
+qk cI7Ip_
+INSERT ppnh6 string
+INSERT mT number

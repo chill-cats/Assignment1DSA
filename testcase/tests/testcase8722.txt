@@ -1,0 +1,37 @@
+LOOKUP ekFg
+PRINT
+INSERT uwZ string
+INSERT jcgg string
+INSERT neS number
+INSERT uO5J string
+INSERT ap number
+INSERT i string
+INSERT i0mPZW string
+PRINT
+INSERT knbpw number
+INSERT ceduH string
+INSERT hK number
+BEGIN
+RPRINT
+ASSIGN ceduH 'XMVze'
+LOOKUP knbpw
+INSERT vmO1I string
+RPRINT
+INSERT raUmg string
+RPRINT
+PRINT
+INSERT q8AdYa string
+INSERT kr number
+INSERT kA5 string
+INSERT e number
+INSERT n4g number
+INSERT wx8 number
+BEGIN
+INSERT t string
+BEGIN
+INSERT i string
+i3IDxa t6Mr
+INSERT fEf number
+END
+ASSIGN ceduH 'U2XQy'
+INSERT t string

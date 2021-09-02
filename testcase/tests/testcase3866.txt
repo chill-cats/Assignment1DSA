@@ -1,0 +1,10 @@
+INSERT nBy string
+INSERT mnBb9 number
+INSERT opL string
+INSERT q number
+PRINT
+END
+a6 xbB
+INSERT yRpfm string
+PRINT
+END

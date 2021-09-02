@@ -1,0 +1,35 @@
+INSERT p string
+PRINT
+INSERT wZ string
+INSERT pNk1 string
+INSERT kI2K string
+INSERT a string
+INSERT wA0iGu string
+INSERT w7Ym number
+ASSIGN kI2K 653
+RPRINT
+INSERT aVmGig string
+LOOKUP aVmGig
+BEGIN
+INSERT j407bZ number
+INSERT uIdr number
+RPRINT
+INSERT isSCh_ number
+END
+INSERT kw number
+INSERT vj1 number
+PRINT
+PRINT
+INSERT mGrb string
+RPRINT
+END
+INSERT kJxhf number
+PRINT
+INSERT v string
+INSERT r number
+INSERT mfNc string
+LOOKUP mGrb
+INSERT t string
+rRmkZQ mfz
+LOOKUP isSCh_
+LOOKUP r

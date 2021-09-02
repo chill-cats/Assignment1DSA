@@ -1,0 +1,26 @@
+INSERT dWk_5 number
+END
+INSERT yvqn string
+INSERT k string
+INSERT nKj number
+LOOKUP dWk_5
+INSERT ik number
+END
+INSERT rfWY number
+RPRINT
+INSERT m0C number
+PRINT
+ASSIGN nKj 359
+INSERT sm number
+INSERT sU string
+INSERT jJ7 string
+ASSIGN jJ7 1053
+cO p
+INSERT hE number
+INSERT udLde number
+RPRINT
+INSERT tY5x string
+BEGIN
+INSERT t number
+INSERT pPKG number
+INSERT obY string

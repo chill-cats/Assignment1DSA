@@ -1,0 +1,7 @@
+LOOKUP hWkvVF
+ASSIGN jbR 145
+INSERT hz number
+PRINT
+INSERT gEmL string
+INSERT dah string
+PRINT

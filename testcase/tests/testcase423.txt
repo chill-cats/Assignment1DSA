@@ -1,0 +1,20 @@
+ASSIGN g0A 'aK'
+INSERT zkv string
+BEGIN
+BEGIN
+INSERT oFH5gD string
+ASSIGN zkv 1017
+INSERT lMbp string
+INSERT kWp number
+LOOKUP zkv
+INSERT zghx9d string
+ASSIGN kWp zkv
+INSERT jq9io string
+INSERT ttiP string
+BEGIN
+INSERT x string
+INSERT x5 number
+INSERT zGmunA number
+RPRINT
+LOOKUP zGmunA
+j l4p

@@ -1,0 +1,20 @@
+INSERT s8r1 number
+INSERT jUcQmk number
+ASSIGN s8r1 s8r1
+ASSIGN jUcQmk 'td'
+INSERT y9vOo string
+INSERT lEg8g number
+LOOKUP y9vOo
+INSERT ug number
+LOOKUP fJ
+t49T q4mRtk
+INSERT e4LMk string
+INSERT kLW string
+INSERT qb number
+INSERT es_kBm string
+INSERT dDPMK string
+INSERT fZv string
+INSERT zs7QD string
+pVx sGKi
+INSERT ol string
+RPRINT

@@ -1,0 +1,20 @@
+INSERT cqs5a number
+INSERT kqtgeF string
+INSERT zv number
+ASSIGN cqs5a kqtgeF
+END
+PRINT
+INSERT mq3KtH string
+RPRINT
+INSERT rX5 number
+INSERT vkHd string
+INSERT h46 string
+RPRINT
+INSERT ca1V number
+INSERT fRAIn number
+eY f
+INSERT sqNIc string
+INSERT d7B string
+RPRINT
+LOOKUP d7B
+BEGIN

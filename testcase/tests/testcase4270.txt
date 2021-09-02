@@ -1,0 +1,34 @@
+INSERT wjcTVk string
+INSERT skp7 number
+INSERT mk string
+ASSIGN wjcTVk mk
+INSERT sN6dOm number
+INSERT d2rSDk string
+ASSIGN mk 1206
+INSERT cNe number
+BEGIN
+qHMGhI f
+INSERT iDdzv number
+jML1kh zmb
+INSERT sT5f string
+PRINT
+END
+INSERT jR string
+INSERT eqL string
+INSERT kgjw8O number
+INSERT j17NFR string
+PRINT
+INSERT p number
+INSERT lz number
+INSERT cOvLw string
+RPRINT
+INSERT m string
+INSERT niaQr string
+INSERT sXsN3 string
+LOOKUP skp7
+INSERT gba string
+INSERT f string
+BEGIN
+PRINT
+INSERT w string
+INSERT ltBJ6r number

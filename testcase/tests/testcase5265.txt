@@ -1,0 +1,35 @@
+PRINT
+BEGIN
+END
+LOOKUP x1
+BEGIN
+ASSIGN tKMfR 'ftx'
+LOOKUP q_
+INSERT klJr string
+END
+ASSIGN klJr klJr
+INSERT pgUopS string
+BEGIN
+END
+INSERT bdimIC number
+INSERT zZGM string
+INSERT o number
+INSERT uEDei string
+END
+ASSIGN zZGM 'XDIE'
+END
+INSERT pygWKl string
+INSERT nOy string
+END
+ASSIGN pgUopS 'nyb'
+INSERT jHjqDn number
+INSERT qfP number
+BEGIN
+INSERT z string
+PRINT
+INSERT d7S7 string
+INSERT b number
+PRINT
+INSERT z_KyrE number
+eaZ ytiJUU
+INSERT vOE3K string

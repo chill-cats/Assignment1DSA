@@ -1,0 +1,38 @@
+ASSIGN jvz6RZ '9wU'
+INSERT eQZ7 string
+nKx nTgzg
+INSERT gb56s string
+ASSIGN gb56s eQZ7
+PRINT
+INSERT hZ3P number
+LOOKUP gb56s
+INSERT c8J_P number
+INSERT tYQ string
+INSERT tvKrxv string
+INSERT hs number
+INSERT cWcotY string
+eKnCAg qHVIB
+LOOKUP c8J_P
+INSERT d number
+INSERT cy string
+INSERT pw string
+INSERT qcY7 string
+sn f0bt_
+INSERT pRl string
+END
+ASSIGN cWcotY 'r'
+RPRINT
+INSERT qeES number
+END
+INSERT l6 string
+END
+BEGIN
+BEGIN
+INSERT kO18ax string
+RPRINT
+INSERT qSeD41 string
+INSERT o number
+END
+INSERT pd string
+BEGIN
+INSERT v8j number

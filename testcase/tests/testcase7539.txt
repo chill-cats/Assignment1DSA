@@ -1,0 +1,12 @@
+PRINT
+INSERT l1 string
+END
+INSERT cUOZH0 string
+INSERT lKyq number
+BEGIN
+INSERT hY string
+LOOKUP l1
+INSERT yhYCd string
+INSERT a string
+END
+INSERT xDN7c string

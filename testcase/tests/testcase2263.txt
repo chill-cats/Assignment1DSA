@@ -1,0 +1,15 @@
+LOOKUP g
+INSERT jbm number
+bMH vQYzW7
+INSERT hSUcT string
+PRINT
+PRINT
+INSERT mnX8Z9 string
+LOOKUP hSUcT
+INSERT yWIID number
+INSERT m79 number
+ASSIGN hSUcT jbm
+INSERT aen9 number
+ASSIGN m79 mnX8Z9
+INSERT ps number
+INSERT eZRK number

@@ -1,0 +1,5 @@
+BEGIN
+PRINT
+bsq3 rHzK
+INSERT liYk string
+RPRINT

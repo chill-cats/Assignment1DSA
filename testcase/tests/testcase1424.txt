@@ -1,0 +1,10 @@
+END
+INSERT bhC number
+ASSIGN bhC 'vF'
+INSERT vq number
+PRINT
+INSERT xi7 string
+RPRINT
+RPRINT
+INSERT kFETlI string
+INSERT eB string

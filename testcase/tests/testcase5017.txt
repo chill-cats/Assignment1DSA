@@ -1,0 +1,23 @@
+INSERT y string
+RPRINT
+INSERT bujZri number
+INSERT x number
+INSERT xib number
+LOOKUP xib
+INSERT iVUj number
+LOOKUP bujZri
+INSERT uoY7cF string
+INSERT daAJgx string
+PRINT
+ASSIGN iVUj uoY7cF
+BEGIN
+INSERT kHc1o number
+INSERT jId string
+INSERT o number
+INSERT i string
+END
+PRINT
+INSERT n1z string
+INSERT uB number
+INSERT nJNvn number
+RPRINT

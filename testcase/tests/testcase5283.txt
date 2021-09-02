@@ -1,0 +1,37 @@
+INSERT sc string
+PRINT
+END
+INSERT a7zCL number
+INSERT rT string
+ASSIGN sc 462
+INSERT dX string
+INSERT lEEc number
+INSERT x6if number
+pKwEr ce0
+END
+LOOKUP rT
+INSERT f9bn string
+RPRINT
+INSERT a number
+BEGIN
+RPRINT
+INSERT oc61D string
+INSERT l9z_ string
+INSERT tlaF number
+PRINT
+INSERT eaPH48 number
+INSERT hq0 number
+RPRINT
+INSERT s7J number
+LOOKUP a7zCL
+LOOKUP dX
+INSERT ll5z string
+PRINT
+BEGIN
+INSERT oz string
+INSERT ppdH number
+INSERT mn number
+INSERT pD3tHc number
+INSERT e20 number
+ASSIGN x6if 'xj'
+INSERT a string

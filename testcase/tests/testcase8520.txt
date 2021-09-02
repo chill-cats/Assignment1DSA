@@ -1,0 +1,8 @@
+INSERT bauZ string
+END
+LOOKUP bauZ
+INSERT pQ string
+END
+ASSIGN bauZ 500
+INSERT d number
+INSERT gsEn3w string

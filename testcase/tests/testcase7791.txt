@@ -1,0 +1,13 @@
+INSERT pJ number
+INSERT fQuI1A number
+RPRINT
+INSERT oU_0TQ string
+LOOKUP fQuI1A
+INSERT pvcsib number
+ASSIGN pJ 937
+BEGIN
+INSERT s140 number
+BEGIN
+INSERT qb number
+LOOKUP s140
+INSERT y number

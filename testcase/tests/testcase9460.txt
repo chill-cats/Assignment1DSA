@@ -1,0 +1,15 @@
+INSERT oe number
+INSERT pJ0 number
+INSERT yl string
+INSERT jpb5 number
+LOOKUP oe
+INSERT mto6 string
+INSERT h11_V number
+END
+INSERT t string
+INSERT dH string
+RPRINT
+jZnWOB kY2j2
+RPRINT
+BEGIN
+INSERT ntjRw string

@@ -1,0 +1,10 @@
+PRINT
+INSERT qpoR string
+INSERT d2kL7Y number
+INSERT nO number
+ASSIGN qpoR 'a30W'
+INSERT nRylK number
+INSERT h string
+INSERT xO string
+PRINT
+INSERT am string

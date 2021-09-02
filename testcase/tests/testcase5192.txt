@@ -1,0 +1,12 @@
+INSERT qu_ string
+INSERT ea9 string
+PRINT
+INSERT ifTJuc number
+INSERT v1n1G string
+RPRINT
+ASSIGN qu_ 1202
+INSERT dmCJMY string
+INSERT xaF number
+LOOKUP v1n1G
+INSERT c8_Dom number
+INSERT q6Uzf2 number

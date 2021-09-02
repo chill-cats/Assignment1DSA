@@ -1,0 +1,31 @@
+PRINT
+INSERT v3TMdC string
+INSERT zesm1 number
+INSERT pr number
+ASSIGN v3TMdC 1234
+INSERT k string
+INSERT kfY3p number
+LOOKUP kfY3p
+INSERT sk string
+INSERT qV3AR6 number
+RPRINT
+INSERT yJsmb string
+INSERT wLBswn string
+RPRINT
+lvNz29 dA
+RPRINT
+pPiDIG n2Nb3j
+ASSIGN yJsmb sk
+RPRINT
+INSERT pu27 string
+INSERT tWR3 number
+INSERT gb6uRA number
+ASSIGN qV3AR6 62
+INSERT r1A7C number
+INSERT qz number
+LOOKUP qz
+mg8LC nGgaTL
+END
+BEGIN
+PRINT
+PRINT

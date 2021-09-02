@@ -1,0 +1,17 @@
+INSERT zB string
+INSERT x number
+BEGIN
+PRINT
+RPRINT
+INSERT bS string
+INSERT t string
+INSERT aC number
+INSERT naMP0u string
+BEGIN
+INSERT zfAU string
+BEGIN
+ASSIGN bS aC
+INSERT opW6O string
+INSERT wkH75 number
+INSERT tmPf0 string
+INSERT kPSL number

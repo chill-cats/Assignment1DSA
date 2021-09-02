@@ -1,0 +1,21 @@
+INSERT ns4LC number
+BEGIN
+ASSIGN ns4LC 1128
+RPRINT
+INSERT sz7 number
+LOOKUP sz7
+RPRINT
+oOcX l
+INSERT m string
+INSERT q4n number
+INSERT ffko1 number
+INSERT x4O string
+INSERT uDyfQI number
+INSERT j9 string
+INSERT gKNj string
+PRINT
+INSERT gd4s number
+INSERT f number
+INSERT t string
+RPRINT
+LOOKUP m

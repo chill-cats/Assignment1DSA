@@ -1,0 +1,31 @@
+RPRINT
+INSERT t number
+INSERT uUCy1 string
+ASSIGN uUCy1 298
+INSERT ldf string
+BEGIN
+LOOKUP ldf
+INSERT k string
+END
+RPRINT
+BEGIN
+INSERT do9 number
+INSERT pl2 string
+INSERT sCCqcH number
+INSERT jgR6O number
+INSERT xi string
+INSERT iPo9 string
+INSERT vMc number
+INSERT b8g number
+INSERT f string
+INSERT uD number
+INSERT dVFx9 number
+INSERT emnUP6 number
+INSERT g7dL string
+INSERT dos string
+INSERT om string
+INSERT gju7Oj number
+LOOKUP uUCy1
+INSERT eab56 string
+PRINT
+b jfF

@@ -1,0 +1,2 @@
+INSERT bq1q number
+INSERT wySg string

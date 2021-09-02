@@ -1,0 +1,8 @@
+INSERT qM number
+INSERT ve number
+RPRINT
+INSERT gkv number
+PRINT
+INSERT tYrYQ string
+INSERT p749P string
+PRINT

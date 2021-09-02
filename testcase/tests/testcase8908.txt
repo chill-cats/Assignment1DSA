@@ -1,0 +1,18 @@
+LOOKUP q
+INSERT cc number
+PRINT
+INSERT ePp2E number
+INSERT fA1 number
+INSERT xtvlJ2 string
+RPRINT
+END
+INSERT fjUZ number
+PRINT
+PRINT
+INSERT ziVe5 string
+LOOKUP ziVe5
+INSERT p number
+RPRINT
+BEGIN
+RPRINT
+INSERT gXYe0 number

@@ -1,0 +1,8 @@
+BEGIN
+INSERT fOaG number
+INSERT k number
+INSERT f string
+INSERT gme string
+END
+INSERT chQ number
+LOOKUP chQ

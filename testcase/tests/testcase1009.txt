@@ -1,0 +1,23 @@
+INSERT nH string
+INSERT cR number
+LOOKUP nH
+LOOKUP cR
+RPRINT
+INSERT stS8ik string
+INSERT ndivp string
+INSERT q6 number
+INSERT fXb string
+INSERT gaR string
+INSERT xY string
+ASSIGN q6 360
+INSERT nV0E number
+qCLB o
+INSERT c string
+INSERT cB string
+PRINT
+BEGIN
+BEGIN
+INSERT gc string
+INSERT r2sEKq number
+INSERT g number
+INSERT kQxOxc number

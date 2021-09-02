@@ -1,0 +1,28 @@
+END
+BEGIN
+bM53 qGt
+INSERT poN_l1 number
+ASSIGN poN_l1 'AL9'
+INSERT seXGxJ number
+INSERT jne string
+INSERT qxdoB string
+INSERT u3J number
+LOOKUP seXGxJ
+LOOKUP u3J
+INSERT ijIJ number
+INSERT qMqBF string
+RPRINT
+INSERT y1J string
+INSERT vM string
+INSERT tEI number
+INSERT sWz string
+wk khIpnL
+BEGIN
+RPRINT
+END
+INSERT yMep number
+INSERT i4iE string
+INSERT zTHA0 string
+INSERT m1 number
+INSERT psp number
+BEGIN

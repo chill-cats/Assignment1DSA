@@ -1,0 +1,7 @@
+INSERT uW string
+PRINT
+INSERT bZwE number
+INSERT catIK string
+INSERT r number
+INSERT l8z8 string
+INSERT c1UR number

@@ -1,0 +1,29 @@
+RPRINT
+END
+INSERT t5gdJ4 string
+INSERT v number
+ASSIGN v v
+INSERT n string
+ox9Z ueD
+ASSIGN t5gdJ4 'wp'
+END
+INSERT uzNnn number
+INSERT xG string
+INSERT tlqw number
+gXy78 y
+INSERT a56wgx number
+INSERT p0 number
+PRINT
+INSERT p3h number
+INSERT j_ee string
+INSERT hp string
+INSERT w7 number
+INSERT v9 number
+END
+INSERT y number
+INSERT y string
+PRINT
+LOOKUP p3h
+END
+INSERT p string
+PRINT

@@ -1,0 +1,30 @@
+RPRINT
+INSERT vqen0 number
+INSERT xmf_7F string
+INSERT vRAM number
+INSERT hmlw number
+INSERT a string
+RPRINT
+BEGIN
+LOOKUP a
+END
+INSERT pxU3Bf number
+INSERT q_5O number
+INSERT a string
+wy qV4
+INSERT f7DFux string
+RPRINT
+INSERT lAlbu0 number
+PRINT
+INSERT v12f string
+INSERT x9g number
+INSERT oNT string
+INSERT dHbCi number
+INSERT jjIPQO number
+INSERT mXc string
+INSERT d6 number
+lrcP oo
+END
+vX i3
+e yYL
+INSERT g5H number

@@ -1,0 +1,19 @@
+INSERT ij number
+END
+INSERT ed string
+RPRINT
+LOOKUP ij
+RPRINT
+BEGIN
+INSERT eR number
+INSERT e string
+b sX1CSE
+INSERT lwU7v number
+INSERT w3kR number
+PRINT
+INSERT eXUl number
+INSERT bxJr4o string
+INSERT oWPxH number
+INSERT jU number
+ASSIGN eR 'RYc5'
+LOOKUP oWPxH

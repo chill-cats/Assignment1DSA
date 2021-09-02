@@ -1,0 +1,40 @@
+LOOKUP w
+INSERT xy9 string
+RPRINT
+BEGIN
+INSERT mbCQ string
+INSERT ntIuY number
+RPRINT
+INSERT tj30BZ string
+INSERT x number
+ASSIGN ntIuY 220
+RPRINT
+INSERT gS8 string
+INSERT re number
+INSERT vRFGX number
+INSERT tOscUM string
+INSERT kFxk number
+END
+INSERT q8 string
+INSERT cdy0K8 number
+INSERT xONb number
+INSERT cv6 string
+INSERT k0 string
+PRINT
+aKR daf4Is
+INSERT g2Ntq6 number
+INSERT dIum6 number
+INSERT d string
+ASSIGN x 1033
+LOOKUP cdy0K8
+INSERT l number
+INSERT bmPQ5 number
+INSERT yQWIq number
+INSERT m string
+INSERT f6 string
+INSERT tejGn string
+INSERT smwr string
+INSERT tigAE number
+INSERT hWzkuO number
+END
+INSERT u number

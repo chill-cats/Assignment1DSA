@@ -1,0 +1,8 @@
+LOOKUP ux
+ASSIGN h9y 'n'
+BEGIN
+END
+INSERT kaC6W string
+BEGIN
+INSERT vAzKiE number
+INSERT hIhY number

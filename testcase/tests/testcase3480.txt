@@ -1,0 +1,7 @@
+INSERT zJe string
+LOOKUP zJe
+RPRINT
+INSERT a string
+END
+INSERT jO string
+INSERT anmfA string

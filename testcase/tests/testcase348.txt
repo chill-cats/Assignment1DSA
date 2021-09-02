@@ -1,0 +1,4 @@
+INSERT zPT string
+RPRINT
+INSERT uaXp1 number
+END

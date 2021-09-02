@@ -1,0 +1,12 @@
+INSERT nJ number
+INSERT qIoB string
+RPRINT
+INSERT ha number
+INSERT sm string
+INSERT p string
+y a
+PRINT
+INSERT pGDoe string
+ASSIGN ha nJ
+BEGIN
+INSERT wGDXOo string

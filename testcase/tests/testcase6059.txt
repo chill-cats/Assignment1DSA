@@ -1,0 +1,14 @@
+INSERT fg number
+INSERT vm string
+RPRINT
+LOOKUP fg
+INSERT xwm number
+PRINT
+ASSIGN fg 'mPH'
+ASSIGN vm 178
+INSERT g9H4 string
+BEGIN
+f kaVK
+END
+INSERT tR3s3t string
+ASSIGN fg g9H4

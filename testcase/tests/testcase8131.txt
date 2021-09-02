@@ -1,0 +1,40 @@
+INSERT hYC string
+INSERT sQ number
+LOOKUP hYC
+INSERT y2NEjS string
+RPRINT
+INSERT fN number
+INSERT dGXc0e number
+END
+RPRINT
+PRINT
+INSERT fwA number
+LOOKUP dGXc0e
+INSERT ycEORR number
+END
+INSERT n string
+INSERT qy string
+INSERT xE6V number
+INSERT bO5 string
+PRINT
+INSERT raM8 string
+PRINT
+INSERT yGvU number
+INSERT pd string
+INSERT fN3OBb number
+PRINT
+a b4uu
+INSERT fOEws number
+INSERT le number
+INSERT ks6GK string
+END
+RPRINT
+INSERT g number
+wllxW bSAR
+INSERT gt string
+END
+INSERT d string
+INSERT hTDL number
+ASSIGN dGXc0e fN
+RPRINT
+PRINT

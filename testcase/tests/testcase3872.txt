@@ -1,0 +1,10 @@
+INSERT f number
+ss l
+INSERT leoFJ number
+ASSIGN leoFJ leoFJ
+INSERT o string
+INSERT aNvYrz number
+INSERT oh number
+INSERT hP7 number
+PRINT
+INSERT d string

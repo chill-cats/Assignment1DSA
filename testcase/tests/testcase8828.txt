@@ -1,0 +1,10 @@
+LOOKUP u
+INSERT ou number
+RPRINT
+INSERT dV3 number
+INSERT ax4B string
+INSERT s number
+BEGIN
+INSERT l4dG2M number
+INSERT r string
+RPRINT

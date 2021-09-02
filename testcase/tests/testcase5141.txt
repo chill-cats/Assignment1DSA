@@ -1,0 +1,9 @@
+INSERT dr number
+INSERT g7zR number
+BEGIN
+INSERT pc string
+INSERT odz4 string
+INSERT ghyO number
+ASSIGN odz4 1119
+INSERT yndF string
+INSERT rTInf string

@@ -1,0 +1,20 @@
+INSERT ixV0S number
+INSERT e3n number
+INSERT m7JUR number
+INSERT r number
+RPRINT
+ASSIGN m7JUR 861
+BEGIN
+ASSIGN e3n m7JUR
+INSERT e number
+INSERT uU number
+INSERT sXYv_V string
+INSERT w string
+INSERT tctAW number
+RPRINT
+ASSIGN ixV0S 824
+ASSIGN tctAW m7JUR
+INSERT l number
+ASSIGN w 1156
+INSERT rqfB number
+ASSIGN ixV0S 855

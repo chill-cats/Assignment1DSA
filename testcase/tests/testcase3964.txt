@@ -1,0 +1,4 @@
+LOOKUP nD
+INSERT w string
+END
+PRINT

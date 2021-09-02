@@ -1,0 +1,2 @@
+PRINT
+INSERT k number

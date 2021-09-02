@@ -1,0 +1,5 @@
+PRINT
+w u_oF4L
+INSERT aBu number
+LOOKUP aBu
+INSERT a number

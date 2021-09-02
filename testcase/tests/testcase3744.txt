@@ -1,0 +1,31 @@
+INSERT ak string
+INSERT u number
+INSERT na number
+INSERT n8S number
+INSERT kUgVlq number
+INSERT b number
+INSERT e_v4 string
+BEGIN
+INSERT o6BIwU number
+LOOKUP ak
+PRINT
+INSERT mZtg string
+INSERT b number
+INSERT sVUyY string
+PRINT
+RPRINT
+INSERT wMTB0J number
+INSERT q string
+INSERT qgyL string
+BEGIN
+INSERT wPI string
+ASSIGN b 608
+INSERT vUTCn number
+LOOKUP qgyL
+INSERT sgUZX number
+INSERT y7P0m string
+r be
+INSERT b5P string
+INSERT td string
+RPRINT
+INSERT ydle8 string

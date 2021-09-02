@@ -1,0 +1,26 @@
+INSERT qs string
+INSERT vNcI_o number
+INSERT q6K0 number
+INSERT loZLGS string
+LOOKUP q6K0
+INSERT aR4Y number
+INSERT hSuV0e number
+wzo0l tBB6I
+RPRINT
+ASSIGN vNcI_o 'J'
+INSERT h92V number
+INSERT kayL3M string
+INSERT q string
+INSERT t string
+INSERT e number
+INSERT lfVDc0 number
+BEGIN
+INSERT uN number
+INSERT vHsNVz number
+INSERT oqGy_ string
+INSERT x60ek number
+END
+LOOKUP x60ek
+RPRINT
+ASSIGN h92V 'vy'
+INSERT oX number

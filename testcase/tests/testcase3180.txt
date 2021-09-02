@@ -1,0 +1,19 @@
+END
+BEGIN
+INSERT g string
+ASSIGN g g
+INSERT zZ number
+BEGIN
+PRINT
+BEGIN
+INSERT eD3bs number
+INSERT od string
+LOOKUP g
+INSERT aKmz number
+nFWv twsUe
+INSERT gNA string
+INSERT b number
+RPRINT
+INSERT rFqvnU number
+PRINT
+END

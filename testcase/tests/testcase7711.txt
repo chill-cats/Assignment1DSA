@@ -1,0 +1,28 @@
+INSERT jc4k2b string
+INSERT ca number
+INSERT sMSf number
+LOOKUP sMSf
+INSERT bmfrqP number
+INSERT q9Mdox string
+ASSIGN sMSf 'r'
+INSERT oc0v number
+ASSIGN jc4k2b bmfrqP
+INSERT v number
+INSERT bj string
+INSERT bNFh number
+ASSIGN jc4k2b jc4k2b
+INSERT v number
+INSERT j string
+INSERT uS string
+INSERT umHgKY number
+RPRINT
+INSERT e number
+INSERT d3 string
+INSERT u number
+INSERT t string
+INSERT bf_ number
+INSERT ijgq string
+RPRINT
+RPRINT
+INSERT b number
+INSERT cVmoU string

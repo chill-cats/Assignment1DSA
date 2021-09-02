@@ -1,0 +1,7 @@
+PRINT
+INSERT an6Rrn number
+INSERT wr string
+END
+PRINT
+INSERT l0TdlP string
+INSERT nWZxM number

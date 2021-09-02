@@ -1,0 +1,20 @@
+ASSIGN cjFN 476
+ASSIGN j4IVq 'uQ'
+xQrPV bzT
+INSERT ils_Ic string
+LOOKUP ils_Ic
+PRINT
+INSERT l611 string
+LOOKUP ils_Ic
+RPRINT
+LOOKUP l611
+INSERT b_9fng number
+RPRINT
+INSERT evQ number
+INSERT nb number
+INSERT avJ number
+ASSIGN l611 nb
+m ym
+INSERT aCX string
+LOOKUP aCX
+INSERT kx string

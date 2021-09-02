@@ -1,0 +1,10 @@
+BEGIN
+INSERT rmjj string
+PRINT
+LOOKUP rmjj
+RPRINT
+RPRINT
+BEGIN
+INSERT sHfp string
+INSERT c7 string
+PRINT

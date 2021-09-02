@@ -1,0 +1,25 @@
+INSERT tINMk string
+RPRINT
+INSERT vv_P number
+INSERT cDwM3 number
+INSERT z1fsao number
+INSERT g number
+RPRINT
+LOOKUP z1fsao
+INSERT kD string
+BEGIN
+u sA
+INSERT cuD6j string
+INSERT y number
+INSERT uqbh string
+INSERT pg number
+INSERT d6SB string
+INSERT r0tTh number
+PRINT
+INSERT p1 number
+INSERT vkvQh number
+INSERT kb6lxN number
+INSERT me string
+INSERT j number
+INSERT t number
+RPRINT

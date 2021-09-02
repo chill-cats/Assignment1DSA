@@ -1,0 +1,8 @@
+INSERT r string
+INSERT i string
+INSERT wZBbzv string
+INSERT urNVZs string
+ASSIGN wZBbzv 'wE8'
+LOOKUP wZBbzv
+INSERT qLA1d string
+o qU37hr

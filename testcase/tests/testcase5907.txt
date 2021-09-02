@@ -1,0 +1,36 @@
+RPRINT
+INSERT vzBD_r string
+BEGIN
+ms swN2
+INSERT gva string
+INSERT wxv string
+INSERT tsYN string
+RPRINT
+INSERT daqLQ string
+LOOKUP gva
+ASSIGN tsYN 889
+INSERT tT number
+INSERT nf number
+INSERT nXW8i number
+INSERT np string
+END
+INSERT yC string
+PRINT
+INSERT eoWqL number
+INSERT nol string
+INSERT w3OOPi string
+INSERT hJZ string
+INSERT w number
+END
+INSERT tWx string
+INSERT aIjfHs number
+INSERT jrI number
+INSERT ol number
+ASSIGN aFR1H eoWqL
+INSERT ko number
+INSERT aqjBM number
+sSv24 dx
+INSERT uJg string
+INSERT oC string
+INSERT dGn string
+INSERT p0 number

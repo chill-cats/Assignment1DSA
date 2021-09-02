@@ -1,0 +1,19 @@
+ASSIGN s5 759
+INSERT kQDPW string
+INSERT cSOrX string
+INSERT t string
+END
+INSERT aOLl1 string
+INSERT sdIP string
+INSERT u7sx number
+ASSIGN sdIP kQDPW
+INSERT wOYQi string
+INSERT eQy_xs number
+RPRINT
+INSERT hR string
+PRINT
+INSERT g3 number
+INSERT qE string
+INSERT qPegp string
+RPRINT
+INSERT e4okV string

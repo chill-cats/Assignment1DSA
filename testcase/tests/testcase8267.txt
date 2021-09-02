@@ -1,0 +1,28 @@
+PRINT
+INSERT kq0VRJ number
+INSERT hZr number
+INSERT cQxkF9 string
+INSERT jPPbOW number
+END
+INSERT iX1gBA string
+ASSIGN kq0VRJ 'A'
+PRINT
+INSERT jbzMU string
+INSERT k string
+INSERT rX string
+INSERT rg string
+INSERT h number
+INSERT te number
+ASSIGN rX 389
+INSERT xX string
+INSERT ktGl_ string
+INSERT r2B string
+INSERT dvm string
+INSERT nYlY string
+PRINT
+BEGIN
+RPRINT
+INSERT nzddj2 string
+INSERT as number
+INSERT vsF number
+INSERT g8FwLY string

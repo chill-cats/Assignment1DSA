@@ -1,0 +1,14 @@
+INSERT f2 string
+INSERT nX2Xn number
+INSERT mN8 number
+INSERT j string
+INSERT vN string
+LOOKUP f2
+INSERT b1O string
+RPRINT
+INSERT fzl0 string
+ASSIGN mN8 'p4f'
+RPRINT
+ASSIGN f2 nX2Xn
+END
+INSERT ssfB9 number

@@ -1,0 +1,13 @@
+INSERT d string
+PRINT
+ASSIGN d 'gOG'
+a7 wS1EQP
+INSERT u4D number
+LOOKUP u4D
+INSERT o9e string
+w_ES pU
+INSERT mA number
+RPRINT
+BEGIN
+RPRINT
+BEGIN

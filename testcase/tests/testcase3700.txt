@@ -1,0 +1,8 @@
+INSERT dcYb number
+LOOKUP dcYb
+INSERT ff3U string
+INSERT m8uxG number
+z wZgS
+INSERT ot number
+BEGIN
+RPRINT

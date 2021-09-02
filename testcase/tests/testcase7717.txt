@@ -1,0 +1,31 @@
+INSERT aX number
+INSERT j string
+INSERT i0 number
+LOOKUP j
+m hf0
+INSERT i string
+ASSIGN aX 959
+BEGIN
+n t
+INSERT eGB87 number
+RPRINT
+INSERT gnK6P number
+INSERT n string
+BEGIN
+RPRINT
+INSERT j number
+INSERT f_ string
+g4PjF e
+hEBT kMdK
+PRINT
+INSERT bNlF string
+ASSIGN n gnK6P
+INSERT p24uDZ string
+INSERT k string
+RPRINT
+INSERT xbw number
+ASSIGN bNlF gnK6P
+END
+INSERT x0 string
+INSERT qF2rSw string
+INSERT rutU number

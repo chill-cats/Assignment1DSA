@@ -1,0 +1,14 @@
+INSERT yMtXK string
+INSERT yV_U11 string
+INSERT bZz1Ap number
+INSERT aNw number
+END
+BEGIN
+ASSIGN yMtXK yV_U11
+INSERT uHNm number
+BEGIN
+INSERT tF3 number
+INSERT wrwkmQ string
+INSERT aQh string
+INSERT aW_mv string
+INSERT o0Ll5 number

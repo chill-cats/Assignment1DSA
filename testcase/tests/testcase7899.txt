@@ -1,0 +1,33 @@
+INSERT xV number
+INSERT ea2h5 string
+INSERT dT number
+INSERT bq7CoM number
+INSERT fVp number
+INSERT mBX number
+INSERT zf number
+INSERT d string
+RPRINT
+INSERT c8W number
+ASSIGN xV 'rsur'
+INSERT x2vm2 number
+INSERT gyCZ number
+ASSIGN d bq7CoM
+INSERT g9_M number
+afYR ymq_
+RPRINT
+wGjz msM8h
+LOOKUP g9_M
+INSERT xI8 number
+END
+PRINT
+BEGIN
+INSERT vMsU number
+BEGIN
+INSERT ze9 string
+BEGIN
+ica jk
+INSERT e number
+INSERT pxi string
+RPRINT
+PRINT
+INSERT x string

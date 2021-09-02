@@ -1,0 +1,13 @@
+INSERT gZV9By string
+INSERT leZ number
+INSERT kx number
+INSERT a string
+BEGIN
+INSERT dP6H number
+INSERT z3fY string
+INSERT hFm string
+PRINT
+PRINT
+INSERT mkwIJ string
+INSERT rj string
+INSERT bgICC number

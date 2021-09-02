@@ -1,0 +1,7 @@
+INSERT f7Ywg4 string
+f ov5q
+INSERT iyrJ string
+INSERT gM number
+PRINT
+PRINT
+INSERT b number

@@ -1,0 +1,14 @@
+INSERT zej number
+INSERT kFp_ string
+PRINT
+ASSIGN zej zej
+INSERT tlT string
+q9s2KT nJRr
+INSERT a_hQ number
+RPRINT
+INSERT azs8NO string
+INSERT h1s string
+INSERT e8_ number
+PRINT
+LOOKUP zej
+INSERT kZ6EN number

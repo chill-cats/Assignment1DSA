@@ -1,0 +1,4 @@
+INSERT pFG string
+INSERT xH number
+INSERT g string
+ASSIGN pFG 448

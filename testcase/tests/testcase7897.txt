@@ -1,0 +1,6 @@
+INSERT zdwz string
+ASSIGN zdwz 106
+INSERT lrm2HK number
+END
+INSERT p string
+INSERT za number

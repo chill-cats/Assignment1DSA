@@ -1,0 +1,7 @@
+INSERT a4g string
+INSERT i9gBv number
+LOOKUP i9gBv
+INSERT y1y string
+LOOKUP a4g
+INSERT notqrJ number
+PRINT

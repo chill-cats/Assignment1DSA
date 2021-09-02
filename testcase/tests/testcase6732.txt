@@ -1,0 +1,31 @@
+INSERT vty number
+INSERT aCd number
+INSERT aT7YC6 string
+gT d
+LOOKUP vty
+INSERT x8MdW number
+INSERT ptrm number
+INSERT u number
+zT lL
+INSERT monH string
+INSERT dj string
+INSERT eCEU string
+LOOKUP eCEU
+INSERT u7TPs8 string
+INSERT e string
+ASSIGN monH u7TPs8
+INSERT jCq string
+INSERT a string
+INSERT nuHV number
+ASSIGN u monH
+INSERT l string
+lb_mH n2K
+PRINT
+INSERT qGK string
+INSERT aU number
+END
+INSERT mks number
+fOY wv8I
+PRINT
+END
+RPRINT

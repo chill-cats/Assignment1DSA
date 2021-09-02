@@ -1,0 +1,30 @@
+INSERT ojPaCU number
+INSERT fE5 string
+INSERT q string
+LOOKUP q
+INSERT s string
+END
+INSERT z_y number
+INSERT sygxqh string
+INSERT c number
+RPRINT
+INSERT yjwdyf number
+INSERT px number
+INSERT gNgN1s number
+ASSIGN ojPaCU s
+INSERT rti string
+INSERT ecuCu string
+INSERT ne string
+INSERT sdyvE number
+INSERT uw6 number
+BEGIN
+INSERT xx string
+INSERT ehR number
+INSERT o string
+LOOKUP fE5
+INSERT snbq96 string
+LOOKUP sygxqh
+LOOKUP z_y
+INSERT k8bbCq number
+PRINT
+a42 s5B_uj

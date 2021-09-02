@@ -1,0 +1,6 @@
+ASSIGN t 'SNdO'
+ASSIGN v 362
+LOOKUP kThCNu
+INSERT e2AP number
+INSERT e4 string
+END

@@ -1,0 +1,18 @@
+PRINT
+INSERT jj string
+BEGIN
+INSERT iz string
+INSERT swk string
+INSERT hDwo string
+INSERT t string
+ASSIGN iz '31L6 '
+INSERT gT number
+INSERT ng number
+RPRINT
+INSERT v8x number
+BEGIN
+INSERT msCST string
+INSERT aQ number
+INSERT qnLpP number
+INSERT t90Cn number
+END

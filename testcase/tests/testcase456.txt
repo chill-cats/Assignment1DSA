@@ -1,0 +1,40 @@
+INSERT bt1 number
+RPRINT
+PRINT
+END
+INSERT aN string
+INSERT vwa string
+INSERT wEM string
+BEGIN
+INSERT esbSw3 number
+INSERT icE0l string
+PRINT
+LOOKUP vwa
+INSERT oSpiE8 string
+RPRINT
+LOOKUP aN
+INSERT qGMU string
+INSERT l number
+BEGIN
+INSERT zyeo2 number
+INSERT nIX string
+INSERT rH0Z string
+RPRINT
+END
+INSERT lD6 number
+INSERT i0YT number
+RPRINT
+INSERT uWJ7 string
+LOOKUP vwa
+INSERT pd string
+INSERT h5 number
+INSERT tI85K string
+BEGIN
+INSERT n string
+INSERT z7f number
+INSERT a number
+ASSIGN n 630
+INSERT pdu5 string
+INSERT h number
+jJw ur4
+BEGIN

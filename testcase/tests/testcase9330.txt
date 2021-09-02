@@ -1,0 +1,32 @@
+INSERT h string
+INSERT v1XPkn string
+LOOKUP h
+INSERT n0AUK number
+INSERT l9ng string
+oXn b
+ASSIGN n0AUK l9ng
+INSERT c number
+INSERT xqY7d number
+INSERT e string
+END
+PRINT
+END
+INSERT z5_bc string
+INSERT urZ number
+INSERT oknnWY string
+END
+INSERT aOO number
+INSERT fL82gz number
+INSERT fK string
+ASSIGN l9ng 'B'
+INSERT kJ string
+INSERT wNv1Gq number
+INSERT b number
+bLNO zM
+END
+INSERT tqcx number
+INSERT vX string
+PRINT
+RPRINT
+INSERT fYXKXv string
+INSERT ikbIa number

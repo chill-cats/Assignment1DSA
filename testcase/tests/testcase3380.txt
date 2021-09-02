@@ -1,0 +1,33 @@
+INSERT t number
+BEGIN
+INSERT c number
+INSERT tDcx8x number
+INSERT nqLtb string
+INSERT zOs string
+INSERT xOHJ number
+ASSIGN t xOHJ
+LOOKUP c
+INSERT v2 number
+INSERT tf number
+INSERT klKQI number
+INSERT fQ string
+RPRINT
+INSERT iuDi7C string
+INSERT xckjYQ string
+RPRINT
+INSERT jqz string
+INSERT gI number
+ASSIGN jqz jqz
+LOOKUP klKQI
+RPRINT
+INSERT uoZ number
+INSERT iS_W number
+BEGIN
+INSERT sTX4T string
+bbFJBA w
+PRINT
+END
+LOOKUP iuDi7C
+INSERT kO string
+INSERT p number
+INSERT nN2S number

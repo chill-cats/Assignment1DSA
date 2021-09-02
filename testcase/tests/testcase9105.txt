@@ -1,0 +1,11 @@
+INSERT boF string
+INSERT iKvC string
+INSERT lcO string
+INSERT b8AX6 number
+END
+INSERT udk string
+END
+INSERT ktZdq number
+INSERT j number
+ASSIGN lcO 325
+INSERT n number

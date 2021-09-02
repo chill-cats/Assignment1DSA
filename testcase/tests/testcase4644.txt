@@ -1,0 +1,14 @@
+INSERT aQGF number
+INSERT qmHNSV string
+INSERT swn string
+LOOKUP iP3
+INSERT re string
+INSERT wveL string
+INSERT z_ZbrL string
+INSERT e number
+RPRINT
+INSERT y string
+INSERT vZItML number
+INSERT n string
+INSERT hJI string
+INSERT m string

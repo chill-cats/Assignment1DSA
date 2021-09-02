@@ -1,0 +1,15 @@
+INSERT k string
+END
+PRINT
+INSERT xYKVDb number
+INSERT y2L number
+INSERT ecku1 number
+INSERT eFTSRC string
+INSERT d1 number
+INSERT toc string
+END
+INSERT vJC number
+PRINT
+RPRINT
+INSERT jB number
+PRINT

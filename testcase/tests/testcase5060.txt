@@ -1,0 +1,22 @@
+INSERT wl1grP string
+RPRINT
+INSERT j string
+RPRINT
+PRINT
+LOOKUP j
+n9PSc7 zzw
+END
+INSERT vIbC number
+END
+PRINT
+END
+INSERT pU6 number
+INSERT maRKAL number
+INSERT aH8 number
+LOOKUP vIbC
+INSERT kM_ number
+INSERT y number
+INSERT qd2pX number
+INSERT i1_T string
+INSERT qoRd string
+RPRINT

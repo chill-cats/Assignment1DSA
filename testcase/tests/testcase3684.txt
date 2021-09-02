@@ -1,0 +1,32 @@
+BEGIN
+PRINT
+PRINT
+END
+BEGIN
+INSERT svo number
+END
+INSERT xjNs number
+LOOKUP xjNs
+INSERT c7O string
+INSERT aCqx number
+INSERT q1hcr string
+INSERT t5mAv number
+INSERT w2 string
+INSERT l number
+PRINT
+ASSIGN c7O 188
+INSERT v number
+INSERT yeV number
+LOOKUP jrL
+INSERT jO string
+ASSIGN yeV '7'
+INSERT j6PXUy number
+INSERT kFMvCp string
+INSERT wT2pa number
+INSERT si number
+INSERT nw number
+INSERT ef number
+PRINT
+hEh rnbC1f
+INSERT bh number
+INSERT yNG string

@@ -1,0 +1,14 @@
+PRINT
+INSERT s6J string
+INSERT t number
+INSERT w4sk number
+oJ h
+INSERT t number
+INSERT eDvzHS string
+INSERT y number
+INSERT y string
+INSERT sb string
+INSERT y_gp7 number
+LOOKUP sb
+INSERT tehD number
+BEGIN

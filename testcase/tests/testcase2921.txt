@@ -1,0 +1,13 @@
+ASSIGN h 110
+INSERT xCB number
+INSERT jr85R string
+INSERT p0 number
+INSERT ux string
+LOOKUP xCB
+PRINT
+INSERT t_uS number
+INSERT hbJV string
+END
+BEGIN
+ASSIGN p0 '9mS'
+INSERT d number

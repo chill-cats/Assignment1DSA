@@ -1,0 +1,39 @@
+INSERT nmI2 string
+LOOKUP nmI2
+END
+INSERT qKl string
+lT a
+INSERT nhnE string
+INSERT vdHx5 number
+END
+RPRINT
+INSERT ozVTyv string
+INSERT r number
+PRINT
+INSERT riC number
+INSERT qNss number
+END
+INSERT rCMU string
+PRINT
+PRINT
+INSERT f string
+INSERT jp string
+PRINT
+INSERT xeV string
+LOOKUP nhnE
+INSERT kmjC number
+INSERT up string
+INSERT ckfn number
+INSERT e3EG number
+INSERT gvlya1 number
+LOOKUP r
+INSERT e string
+INSERT oJ string
+x p
+e_a c0NYOk
+ASSIGN f gvlya1
+RPRINT
+INSERT vmPdj number
+INSERT r0F1MR string
+END
+INSERT gpHkM string

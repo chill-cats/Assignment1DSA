@@ -1,0 +1,34 @@
+INSERT yy string
+RPRINT
+ASSIGN yy 'HT'
+INSERT wHTwK string
+LOOKUP wHTwK
+INSERT qOxgb string
+INSERT kNGIyO string
+INSERT rkr6q number
+LOOKUP kNGIyO
+INSERT w number
+END
+LOOKUP w
+INSERT bTHNhX number
+INSERT s8I29r string
+ASSIGN yy 'AN'
+INSERT yl string
+END
+INSERT gXy string
+INSERT dc number
+INSERT nT0 string
+INSERT v5_f string
+INSERT d3J number
+y o
+INSERT t string
+PRINT
+PRINT
+PRINT
+INSERT z number
+LOOKUP bTHNhX
+PRINT
+INSERT yFS8 string
+PRINT
+INSERT bZNpQy string
+INSERT at string

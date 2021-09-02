@@ -1,0 +1,21 @@
+BEGIN
+INSERT z string
+INSERT jB number
+INSERT bTzB_c string
+INSERT jII number
+INSERT d number
+INSERT u8WNQn string
+INSERT wcI number
+PRINT
+INSERT fAsjA string
+INSERT cPqR8R string
+INSERT imkNxI string
+BEGIN
+INSERT w9zt string
+INSERT r number
+INSERT j string
+INSERT o0 string
+INSERT msAix string
+INSERT jwG38 string
+INSERT h9rz0U number
+INSERT o number

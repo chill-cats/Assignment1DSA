@@ -1,0 +1,39 @@
+INSERT v2uBh string
+END
+BEGIN
+ASSIGN v2uBh 'p8ddg'
+INSERT y string
+INSERT m4B string
+INSERT vYC8uF number
+INSERT nJJY number
+INSERT um number
+INSERT a7 string
+INSERT m number
+INSERT fSs number
+END
+INSERT xnmqF string
+INSERT z86ib number
+INSERT p3hKGq number
+INSERT jFLoCH string
+LOOKUP nJJY
+LOOKUP v2uBh
+ASSIGN xnmqF 'EYwb'
+PRINT
+RPRINT
+INSERT iW number
+PRINT
+INSERT bbHU number
+ASSIGN um iW
+INSERT skGw number
+INSERT kYJ number
+END
+ASSIGN z86ib 537
+PRINT
+BEGIN
+INSERT j string
+END
+INSERT rK2d string
+INSERT tx5N string
+INSERT zUga number
+INSERT awDT string
+INSERT nXu number

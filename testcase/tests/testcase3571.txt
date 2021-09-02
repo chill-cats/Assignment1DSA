@@ -1,0 +1,9 @@
+INSERT nqK string
+INSERT mwY5 string
+INSERT w0D6 number
+INSERT knY number
+PRINT
+INSERT vb8N string
+INSERT z5 number
+INSERT voyS number
+END

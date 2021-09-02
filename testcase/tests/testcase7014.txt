@@ -1,0 +1,24 @@
+END
+higdYz aGYzw9
+PRINT
+RPRINT
+INSERT a string
+INSERT m number
+END
+INSERT x7jFAL string
+ASSIGN m x7jFAL
+INSERT wH3jJO number
+INSERT s number
+INSERT xl string
+INSERT aC number
+INSERT bkZ string
+INSERT lZ string
+dGXD bF
+LOOKUP lZ
+PRINT
+INSERT ijVJ string
+INSERT ssFau number
+BEGIN
+INSERT t string
+INSERT p9zs1 number
+LOOKUP a

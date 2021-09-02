@@ -1,0 +1,29 @@
+ASSIGN ui '3M'
+LOOKUP k
+INSERT dtk string
+INSERT nuVU number
+INSERT tIo3 string
+INSERT cpPHL string
+INSERT sX number
+END
+END
+BEGIN
+INSERT bugP number
+INSERT mI number
+INSERT uYjG string
+INSERT a3 number
+END
+INSERT jr7 number
+INSERT zO number
+INSERT wsq3S string
+INSERT f2 string
+INSERT n string
+INSERT e60 number
+PRINT
+INSERT fcLpVX string
+PRINT
+INSERT ydi number
+INSERT ly number
+ASSIGN ydi 956
+INSERT mW_ number
+RPRINT

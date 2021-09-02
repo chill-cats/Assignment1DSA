@@ -1,0 +1,16 @@
+INSERT ocNJZo number
+INSERT x number
+INSERT r number
+INSERT fV0_s6 string
+RPRINT
+END
+INSERT wSFwZ string
+INSERT yc string
+INSERT zbQ number
+INSERT h string
+INSERT e0RY_Z number
+ASSIGN e0RY_Z r
+BEGIN
+RPRINT
+END
+INSERT gSb4 string

@@ -1,0 +1,7 @@
+RPRINT
+INSERT i string
+INSERT gJJgN2 number
+INSERT y string
+INSERT kb string
+END
+PRINT

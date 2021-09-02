@@ -1,0 +1,37 @@
+INSERT cy string
+INSERT l4jLfE number
+INSERT hXMFX string
+END
+INSERT chYDl3 number
+END
+END
+INSERT gv92V6 number
+INSERT d8_ number
+INSERT numNXf number
+INSERT aam string
+INSERT gBV_O string
+INSERT mbh number
+INSERT bS string
+yu n5V
+INSERT u9FIE string
+PRINT
+LOOKUP d8_
+PRINT
+INSERT s number
+INSERT wAxqn number
+INSERT s number
+g uFlZC
+INSERT j number
+INSERT f5JD string
+INSERT vhVjrl number
+INSERT c number
+ASSIGN u9FIE cy
+INSERT xE3 number
+INSERT eC number
+ASSIGN cy 1132
+INSERT h4q1 string
+INSERT a73 number
+INSERT u2k number
+INSERT p number
+PRINT
+PRINT

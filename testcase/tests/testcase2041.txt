@@ -1,0 +1,12 @@
+RPRINT
+ASSIGN e 1074
+INSERT yd0X number
+INSERT v number
+BEGIN
+LOOKUP yd0X
+INSERT z string
+LOOKUP yd0X
+INSERT lJ string
+h2762 scwbr
+INSERT zDn string
+INSERT b6 string

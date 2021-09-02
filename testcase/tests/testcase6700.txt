@@ -1,0 +1,28 @@
+INSERT e2 number
+RPRINT
+BEGIN
+RPRINT
+INSERT pJx string
+INSERT h number
+INSERT dCr string
+LOOKUP pJx
+ASSIGN e2 'jj'
+LOOKUP f4
+INSERT bu7du number
+INSERT eG34n number
+INSERT fFBh number
+END
+INSERT nUjsNk string
+LOOKUP eG34n
+INSERT i number
+INSERT mbT string
+BEGIN
+INSERT sQ number
+INSERT sq_ number
+END
+INSERT fZFmkK number
+LOOKUP eG34n
+qr nXqvVG
+INSERT oJNQr1 string
+RPRINT
+LOOKUP fZFmkK

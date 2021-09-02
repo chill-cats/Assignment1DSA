@@ -1,0 +1,19 @@
+INSERT pT1 number
+BEGIN
+INSERT dJVU string
+INSERT ml number
+INSERT topH number
+BEGIN
+INSERT cdeJf string
+hdMyL_ vc
+INSERT gwr8 string
+INSERT u7tV7 number
+INSERT i_HA number
+INSERT dRmG number
+INSERT vse string
+ASSIGN cdeJf i_HA
+PRINT
+INSERT gZ number
+LOOKUP vse
+INSERT v string
+END

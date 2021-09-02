@@ -1,0 +1,7 @@
+INSERT cKo string
+ASSIGN cKo 798
+INSERT tKz string
+END
+INSERT v number
+INSERT iEKPEQ number
+INSERT ch string

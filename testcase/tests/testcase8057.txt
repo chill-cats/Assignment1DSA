@@ -1,0 +1,21 @@
+BEGIN
+INSERT rT_5r number
+INSERT t string
+PRINT
+BEGIN
+INSERT e6 string
+INSERT i9f string
+INSERT aQYE number
+BEGIN
+INSERT b5K number
+INSERT j string
+INSERT vWJ number
+INSERT oT number
+PRINT
+ASSIGN i9f 698
+END
+INSERT mkba number
+END
+ASSIGN j aQYE
+PRINT
+INSERT gzNZ string

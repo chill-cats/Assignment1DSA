@@ -1,0 +1,4 @@
+INSERT r number
+END
+INSERT lrY string
+PRINT

@@ -1,0 +1,15 @@
+INSERT vS0 number
+INSERT gJ2HYB string
+INSERT i number
+INSERT tx string
+INSERT s string
+LOOKUP s
+INSERT uMdD93 string
+BEGIN
+INSERT jb number
+INSERT i string
+INSERT lhkNf number
+INSERT hA2L string
+qBN5Iq aeWP7
+INSERT w number
+vKZ ahbi

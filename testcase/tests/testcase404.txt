@@ -1,0 +1,5 @@
+LOOKUP c
+INSERT ptnW string
+BEGIN
+INSERT wK8QSe string
+END

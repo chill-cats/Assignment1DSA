@@ -1,0 +1,40 @@
+INSERT qF string
+INSERT yxN9Qt number
+INSERT dnMv string
+INSERT cEJnQd string
+INSERT nZk number
+INSERT dOop string
+INSERT mg3ut string
+INSERT d string
+INSERT kP string
+INSERT zVTP2_ string
+INSERT gwr string
+PRINT
+INSERT v string
+INSERT nNYj number
+PRINT
+INSERT ui5 string
+INSERT vYnxJ number
+INSERT iUS string
+BEGIN
+INSERT imP number
+RPRINT
+INSERT vJRDV string
+INSERT asodgX string
+END
+INSERT l number
+BEGIN
+INSERT tM string
+LOOKUP vJRDV
+INSERT q number
+INSERT uf number
+INSERT mA_o string
+INSERT i6b number
+INSERT q_ number
+END
+ASSIGN vYnxJ '3YTH1'
+INSERT menZX number
+RPRINT
+INSERT tMOd number
+LOOKUP iUS
+INSERT eRMb number

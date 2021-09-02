@@ -1,0 +1,40 @@
+INSERT qoDgo string
+INSERT s2ZA number
+ASSIGN qoDgo qoDgo
+INSERT c2pMm string
+INSERT hgVjMf string
+yg ztyq6
+ASSIGN hgVjMf 1157
+BEGIN
+BEGIN
+INSERT ynv2V number
+INSERT kLUoVT string
+INSERT zBSr number
+INSERT tz6w string
+INSERT mFXeoX number
+INSERT t9 string
+INSERT ynU string
+END
+INSERT uukc number
+PRINT
+INSERT rLSY string
+RPRINT
+INSERT j number
+ASSIGN uukc zBSr
+END
+INSERT mlhFJc number
+INSERT d string
+INSERT hY string
+INSERT vDh string
+INSERT nSGUTk number
+INSERT yKW string
+ASSIGN s2ZA '0EbY'
+BEGIN
+LOOKUP vDh
+grgF kb
+INSERT kYGGM number
+PRINT
+RPRINT
+RPRINT
+INSERT n number
+INSERT l number

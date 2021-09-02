@@ -1,0 +1,10 @@
+RPRINT
+PRINT
+PRINT
+INSERT ku3OXy string
+PRINT
+INSERT b number
+INSERT m4_uL string
+INSERT v8 string
+nik ljgjO
+INSERT ouGN number

@@ -1,0 +1,16 @@
+x dr7E
+INSERT fLlBj number
+INSERT n number
+PRINT
+INSERT iT7oUw string
+INSERT vj4 string
+INSERT gOfeHb string
+ASSIGN iT7oUw n
+ASSIGN gOfeHb 'I'
+INSERT pY number
+BEGIN
+RPRINT
+INSERT it string
+INSERT ucnKxb number
+ASSIGN gOfeHb 819
+INSERT nS string

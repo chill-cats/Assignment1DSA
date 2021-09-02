@@ -1,0 +1,26 @@
+INSERT npFY7 number
+INSERT kl string
+INSERT a string
+INSERT yFn4v string
+INSERT mUIAH number
+INSERT hwidnw number
+INSERT t3z number
+INSERT n string
+BEGIN
+INSERT n9E string
+INSERT nsjvu1 number
+INSERT nKg string
+INSERT mZK string
+END
+INSERT zd number
+RPRINT
+ASSIGN mZK 'g'
+BEGIN
+INSERT cJ3 number
+END
+INSERT mySR2 number
+INSERT b number
+INSERT uhF number
+INSERT trs string
+INSERT rSV6 number
+BEGIN

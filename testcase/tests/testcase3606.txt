@@ -1,0 +1,6 @@
+ASSIGN zdf 656
+INSERT qm string
+INSERT p5ah3 string
+INSERT anQW string
+INSERT m string
+ASSIGN m p5ah3

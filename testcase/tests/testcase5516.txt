@@ -1,0 +1,14 @@
+INSERT k string
+ASSIGN k 'XtR'
+INSERT wATg number
+INSERT a string
+INSERT oL01 number
+INSERT x9aSL number
+INSERT j string
+RPRINT
+xIvB_ gTh
+INSERT wcJM8X string
+INSERT dM number
+PRINT
+INSERT jxmO string
+RPRINT

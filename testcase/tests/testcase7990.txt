@@ -1,0 +1,15 @@
+ASSIGN pTG 651
+RPRINT
+INSERT v number
+INSERT hx string
+BEGIN
+INSERT j string
+LOOKUP v
+LOOKUP j
+INSERT g number
+BEGIN
+LOOKUP g
+INSERT upa number
+INSERT m_jkb number
+LOOKUP m_jkb
+END

@@ -1,0 +1,32 @@
+INSERT vcd number
+INSERT wxIJ number
+INSERT mfb number
+END
+INSERT y string
+INSERT au0 string
+INSERT iJ number
+INSERT jHmb string
+END
+INSERT qRTFjE number
+INSERT szc string
+INSERT hmIlY number
+LOOKUP iJ
+INSERT kDS0Vu string
+INSERT aju number
+INSERT jR number
+INSERT u3br string
+LOOKUP jHmb
+INSERT l12 string
+INSERT qfp number
+PRINT
+INSERT lZyA string
+INSERT fFp string
+INSERT kkpJ string
+INSERT g5d string
+INSERT y string
+INSERT riC string
+END
+INSERT q3hNCF number
+PRINT
+INSERT nO4J_v number
+INSERT iMvkae number

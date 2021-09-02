@@ -1,0 +1,6 @@
+INSERT co number
+evJR s9l6
+INSERT unLMAL string
+INSERT e9wa4 number
+PRINT
+END

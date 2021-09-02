@@ -1,0 +1,2 @@
+BEGIN
+INSERT nBLE1 number

@@ -1,0 +1,29 @@
+INSERT h number
+ASSIGN h h
+INSERT m_ string
+INSERT cTmQIa number
+wr12 sXH
+INSERT m8 string
+LOOKUP cTmQIa
+LOOKUP h
+ASSIGN m_ 369
+ASSIGN cTmQIa h
+INSERT j5S7B string
+INSERT ib2U string
+INSERT hP number
+INSERT aN number
+INSERT vF5 string
+INSERT ksOfl string
+BEGIN
+INSERT d string
+INSERT csUgjg number
+PRINT
+INSERT k string
+INSERT fkqfLD string
+INSERT nGIbXI number
+x1IRCy yh
+INSERT ddWrsB string
+INSERT iBbWgn number
+BEGIN
+INSERT v7 string
+BEGIN

@@ -1,0 +1,33 @@
+m g
+INSERT fkwWL string
+END
+INSERT fCW5D number
+INSERT xLcxK string
+ASSIGN xLcxK fCW5D
+INSERT mq3y2 number
+INSERT r8BJ number
+INSERT dN number
+PRINT
+RPRINT
+INSERT a9a7D number
+INSERT m9 string
+BEGIN
+INSERT z string
+INSERT gv number
+INSERT pQ8_7L string
+PRINT
+END
+INSERT t0CH number
+INSERT jS_J5 string
+INSERT li number
+INSERT zwjnTy number
+INSERT zzmA number
+INSERT dE number
+INSERT pyqSXp number
+PRINT
+INSERT d2 number
+BEGIN
+INSERT zLEZO string
+INSERT ec number
+INSERT paQ string
+INSERT wiF7 string

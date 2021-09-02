@@ -1,0 +1,29 @@
+c cdm
+PRINT
+LOOKUP tj5
+INSERT mTZv number
+INSERT wX string
+INSERT v string
+END
+INSERT nqN string
+PRINT
+INSERT hA1DnQ number
+INSERT wot0v string
+INSERT jGvnvf string
+j3 mu0
+INSERT fKK6t string
+INSERT k5 number
+INSERT hzPPID string
+RPRINT
+INSERT nBqgh number
+INSERT mhh string
+INSERT k5 number
+END
+ASSIGN k5 1017
+a caZ
+INSERT sem3 number
+r hcEtQ
+BEGIN
+INSERT v string
+INSERT duDey number
+ASSIGN v 27

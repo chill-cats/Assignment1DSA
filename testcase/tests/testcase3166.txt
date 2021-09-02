@@ -1,0 +1,21 @@
+BEGIN
+INSERT nm number
+INSERT ud2V string
+INSERT kaduW number
+nxhQci xv
+INSERT xW string
+mlWp eql
+INSERT kJ3hwF string
+INSERT o string
+INSERT hxz number
+INSERT ff string
+PRINT
+INSERT v number
+END
+END
+INSERT f number
+BEGIN
+ASSIGN kaduW 319
+INSERT pSpU number
+INSERT tz number
+INSERT s number

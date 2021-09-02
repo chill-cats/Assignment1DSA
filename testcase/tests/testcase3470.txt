@@ -1,0 +1,6 @@
+INSERT l number
+LOOKUP l
+INSERT i9vBo number
+INSERT utp string
+BEGIN
+INSERT rE5 string

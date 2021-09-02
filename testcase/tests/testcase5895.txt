@@ -1,0 +1,21 @@
+c qFucko
+INSERT pM_mz number
+ASSIGN pM_mz 'y125m'
+INSERT kKnfgz number
+ASSIGN kKnfgz 'X'
+PRINT
+INSERT y string
+ASSIGN pM_mz pM_mz
+INSERT hO string
+INSERT qyk string
+INSERT uJHcsa number
+INSERT fWA3 string
+END
+PRINT
+INSERT oNEH number
+LOOKUP kKnfgz
+INSERT clwT7 number
+INSERT hIFy number
+INSERT p9 string
+INSERT l string
+INSERT r35 string

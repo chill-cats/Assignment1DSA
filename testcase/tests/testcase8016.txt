@@ -1,0 +1,11 @@
+INSERT lSkHo number
+INSERT cYG15 string
+INSERT h2 number
+BEGIN
+PRINT
+INSERT d6 string
+INSERT mvAj number
+INSERT p number
+INSERT pGO string
+INSERT jD number
+END

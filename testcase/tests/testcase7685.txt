@@ -1,0 +1,17 @@
+INSERT f99r number
+INSERT fXA number
+INSERT o string
+INSERT vvSPd string
+LOOKUP vvSPd
+INSERT uQCgan number
+INSERT jVHft string
+INSERT fa string
+ASSIGN uQCgan fXA
+END
+INSERT y5 number
+END
+INSERT b string
+BEGIN
+INSERT tj number
+INSERT mNW string
+INSERT s string

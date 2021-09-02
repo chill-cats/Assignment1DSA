@@ -1,0 +1,29 @@
+INSERT v string
+INSERT uMq string
+PRINT
+RPRINT
+ASSIGN uMq 275
+BEGIN
+INSERT wCnE number
+INSERT kVz4tL number
+INSERT dmKf_Q string
+INSERT cs0Sf number
+x rW1
+END
+PRINT
+INSERT db string
+INSERT jQ string
+INSERT jY number
+PRINT
+INSERT jSBN8X string
+ASSIGN wCnE jY
+INSERT eqdp number
+INSERT xINL number
+INSERT lh4o string
+LOOKUP kVz4tL
+ASSIGN uMq 1135
+LOOKUP cs0Sf
+INSERT yKvK number
+INSERT xhqUI number
+INSERT l string
+wrurI kSi

@@ -1,0 +1,13 @@
+RPRINT
+PRINT
+INSERT rdN string
+LOOKUP rdN
+INSERT rK number
+INSERT qs string
+INSERT o number
+INSERT uOI number
+INSERT n string
+INSERT ukonBU string
+END
+b0 xamE
+INSERT swCAVw number

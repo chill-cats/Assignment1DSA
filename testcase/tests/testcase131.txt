@@ -1,0 +1,11 @@
+ASSIGN f 175
+BEGIN
+INSERT hxzaQ number
+INSERT gg number
+INSERT yoeG string
+INSERT pR number
+INSERT hv_l5g string
+PRINT
+PRINT
+INSERT vETE number
+INSERT w number

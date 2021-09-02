@@ -1,0 +1,6 @@
+INSERT z8KbKk number
+INSERT huR string
+INSERT k string
+INSERT m number
+ASSIGN k 742
+INSERT vEomsC string

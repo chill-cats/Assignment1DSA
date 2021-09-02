@@ -1,0 +1,17 @@
+ASSIGN fS2Uhl 't iKH'
+INSERT f number
+INSERT favI string
+INSERT f56_ number
+LOOKUP favI
+INSERT bcZE string
+INSERT f string
+INSERT k_P6 string
+INSERT xE string
+INSERT qj number
+INSERT tDrCB number
+kZ n0
+INSERT o3nmF4 number
+INSERT iEejn string
+INSERT iMZ number
+PRINT
+RPRINT

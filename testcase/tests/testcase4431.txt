@@ -1,0 +1,17 @@
+RPRINT
+INSERT sT number
+LOOKUP sT
+INSERT lE number
+INSERT tPT number
+INSERT nUdia2 number
+LOOKUP sT
+INSERT ci5Tw number
+INSERT p4 number
+INSERT nO number
+END
+INSERT syJaXZ number
+INSERT nhb9 number
+INSERT kELMFu number
+RPRINT
+ASSIGN sT 'aOt'
+BEGIN

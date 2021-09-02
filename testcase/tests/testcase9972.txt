@@ -1,0 +1,13 @@
+RPRINT
+INSERT fsMOV string
+BEGIN
+INSERT ck number
+PRINT
+INSERT pW number
+INSERT pMY number
+INSERT u41ASf number
+BEGIN
+INSERT t_7UQ string
+INSERT k1 string
+INSERT xTpX42 number
+RPRINT

@@ -1,0 +1,7 @@
+INSERT o1MhP number
+INSERT e number
+INSERT fg string
+INSERT x07C string
+PRINT
+INSERT j7s string
+INSERT s number

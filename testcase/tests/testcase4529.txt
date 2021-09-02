@@ -1,0 +1,8 @@
+INSERT ax1_ number
+PRINT
+BEGIN
+ASSIGN ax1_ 1225
+BEGIN
+INSERT jSMa string
+INSERT p4WS number
+INSERT oky number

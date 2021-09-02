@@ -1,0 +1,28 @@
+INSERT wOeLy number
+INSERT y9 number
+INSERT wRJBP number
+INSERT y29 string
+INSERT cwGCh number
+LOOKUP wRJBP
+INSERT qes string
+INSERT x3jYL string
+BEGIN
+ASSIGN wOeLy 135
+END
+ASSIGN x3jYL '8'
+INSERT z20mm string
+LOOKUP wOeLy
+END
+ASSIGN qes y29
+END
+INSERT vbx0Xu string
+INSERT q6s number
+INSERT grUg number
+INSERT sZbI string
+INSERT ttYx10 string
+INSERT u3c number
+RPRINT
+INSERT awb string
+INSERT l7b4 number
+INSERT xMh number
+INSERT y number

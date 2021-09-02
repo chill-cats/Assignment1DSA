@@ -1,0 +1,9 @@
+f6xsRR qsCFEr
+ASSIGN b 'Rg0f'
+INSERT w string
+INSERT xLZz number
+END
+INSERT j string
+INSERT z56Jx number
+END
+PRINT

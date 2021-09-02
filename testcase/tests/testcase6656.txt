@@ -1,0 +1,31 @@
+INSERT y string
+ASSIGN y 905
+INSERT v number
+INSERT ozb_ number
+END
+INSERT cP string
+INSERT qaHqTy string
+INSERT h46B string
+k sUF
+ASSIGN ozb_ 762
+END
+PRINT
+isTsQ qlFo
+od jY60Eu
+INSERT qDWTuS string
+v_ ss
+RPRINT
+INSERT lzP number
+INSERT mnPj number
+LOOKUP ozb_
+INSERT b string
+INSERT fPauMX number
+INSERT b string
+LOOKUP fPauMX
+ASSIGN y ' '
+INSERT r38Eh number
+INSERT w string
+INSERT woNpg number
+INSERT dTn number
+END
+INSERT rP9_ee number

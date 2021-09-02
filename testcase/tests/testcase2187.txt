@@ -1,0 +1,31 @@
+INSERT s_ string
+INSERT alvAVa string
+INSERT si number
+INSERT uN string
+INSERT zZ number
+INSERT u number
+PRINT
+RPRINT
+RPRINT
+INSERT hrDZ string
+INSERT na number
+PRINT
+PRINT
+INSERT aYzz number
+BEGIN
+PRINT
+INSERT s63 number
+INSERT uUmsFN number
+ASSIGN alvAVa aYzz
+INSERT y string
+INSERT o number
+LOOKUP si
+INSERT eaVz string
+INSERT osQ string
+LOOKUP na
+INSERT zX string
+INSERT t5K number
+INSERT ref string
+INSERT jdu6g string
+LOOKUP alvAVa
+PRINT

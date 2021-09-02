@@ -1,0 +1,31 @@
+INSERT tk67fa string
+INSERT k number
+INSERT aLhJ number
+ASSIGN aLhJ 'gWl'
+RPRINT
+INSERT o string
+INSERT udfU string
+END
+INSERT ql1 number
+BEGIN
+INSERT nUW number
+ASSIGN nUW o
+INSERT nTf number
+PRINT
+INSERT nW5S number
+PRINT
+INSERT qI number
+INSERT v number
+INSERT cXUd number
+INSERT q number
+INSERT dc3Tb number
+INSERT rID string
+END
+INSERT rTiVM number
+RPRINT
+INSERT y string
+INSERT mwMNqr string
+RPRINT
+INSERT uBMyU string
+END
+r lzpu

@@ -1,0 +1,40 @@
+INSERT gS_Kc string
+END
+INSERT pH string
+INSERT j number
+ASSIGN pH 'k'
+INSERT zB number
+INSERT xnB string
+LOOKUP pH
+PRINT
+INSERT ol9v number
+INSERT pnlKSF string
+LOOKUP ol9v
+INSERT d2eU string
+INSERT pUYG1V number
+RPRINT
+RPRINT
+RPRINT
+INSERT tiu number
+LOOKUP xnB
+ASSIGN pnlKSF 68
+BEGIN
+LOOKUP pnlKSF
+INSERT ezCGi number
+PRINT
+jSuJG li
+INSERT wx string
+END
+INSERT m number
+ASSIGN gS_Kc 'A'
+LOOKUP zB
+INSERT hp4 string
+INSERT f number
+INSERT m string
+INSERT nES9PM string
+INSERT kmDc number
+ASSIGN xnB 'Sp7'
+INSERT e string
+INSERT t1 number
+INSERT o number
+INSERT ro string

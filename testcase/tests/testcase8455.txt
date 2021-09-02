@@ -1,0 +1,13 @@
+BEGIN
+INSERT kiT9 string
+INSERT hKIY number
+INSERT d string
+INSERT p9Y string
+INSERT qK string
+BEGIN
+LOOKUP d
+INSERT r number
+INSERT tAxx string
+INSERT t2qUn string
+BEGIN
+INSERT v7Ubc number

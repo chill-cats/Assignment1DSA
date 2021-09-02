@@ -1,0 +1,40 @@
+ASSIGN yKRo 578
+INSERT w2 string
+PRINT
+INSERT deR string
+ASSIGN deR deR
+fYAMf nm94
+INSERT emu number
+PRINT
+INSERT bwi7X string
+INSERT lxY4r number
+BEGIN
+ASSIGN deR 149
+INSERT c8zXu number
+ASSIGN c8zXu 1010
+INSERT nH number
+PRINT
+END
+INSERT nX0jN string
+END
+PRINT
+INSERT k1PfcU number
+END
+PRINT
+lMq3U v
+ASSIGN emu '7Zbin'
+INSERT vlyDd number
+INSERT u1 string
+INSERT fl string
+INSERT pz39 number
+INSERT mms string
+LOOKUP w2
+INSERT cY9Z number
+BEGIN
+RPRINT
+qx pUqY
+PRINT
+PRINT
+INSERT fb number
+LOOKUP deR
+LOOKUP emu

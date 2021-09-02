@@ -1,0 +1,31 @@
+PRINT
+INSERT kIc string
+LOOKUP kIc
+INSERT jiFuE string
+INSERT r string
+END
+INSERT yKBf string
+LOOKUP kIc
+INSERT w4 string
+RPRINT
+n h6fN
+INSERT htKsOZ number
+d7ajW nUjqb
+INSERT eVIKv string
+INSERT j number
+INSERT aqdFp number
+RPRINT
+INSERT u2P string
+INSERT h number
+INSERT z string
+INSERT jhlVDM number
+INSERT sEaI string
+INSERT e number
+INSERT iX1L9a number
+INSERT eC string
+INSERT ubR3 number
+RPRINT
+END
+ASSIGN u2P 1031
+INSERT e number
+uU z9S

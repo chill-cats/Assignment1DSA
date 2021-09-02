@@ -1,0 +1,20 @@
+INSERT rv number
+INSERT j3QGh string
+INSERT i9cY number
+BEGIN
+INSERT n2 string
+INSERT jpn number
+END
+INSERT rqH5uk number
+ASSIGN j3QGh 'Lw'
+PRINT
+INSERT lEIT number
+INSERT vQSI9h string
+LOOKUP rqH5uk
+INSERT s string
+RPRINT
+uZq pUqUEs
+RPRINT
+INSERT hIlK2k number
+INSERT njyrw number
+INSERT vz string

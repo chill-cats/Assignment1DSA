@@ -1,0 +1,33 @@
+INSERT j string
+INSERT aGK3B number
+INSERT mRR3C number
+INSERT qQcrq string
+INSERT vL number
+INSERT rdei number
+INSERT pf2Ij2 number
+INSERT zrc number
+INSERT vBa number
+BEGIN
+INSERT oe number
+l vM
+e y1
+RPRINT
+RPRINT
+PRINT
+INSERT vhG string
+ASSIGN j 632
+PRINT
+INSERT zAtd string
+END
+PRINT
+INSERT fkL string
+BEGIN
+RPRINT
+BEGIN
+ASSIGN aGK3B 808
+INSERT uK string
+LOOKUP zAtd
+INSERT hS3hkX string
+INSERT lXNi9O string
+INSERT fxv number
+RPRINT

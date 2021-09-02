@@ -1,0 +1,5 @@
+PRINT
+ASSIGN q 498
+INSERT x string
+ASSIGN x 856
+INSERT s378d number

@@ -1,0 +1,23 @@
+kK3c ym
+LOOKUP mge30W
+INSERT x06 number
+ASSIGN x06 112
+INSERT tZ0 number
+RPRINT
+INSERT s string
+INSERT tVCz1 number
+END
+LOOKUP s
+INSERT xkw number
+INSERT t number
+INSERT xu68Fw string
+INSERT qGtF6I number
+LOOKUP tVCz1
+INSERT fH number
+INSERT vB string
+INSERT uRqt number
+INSERT zoPIR number
+INSERT movWm number
+INSERT g string
+INSERT bqJ_9 string
+INSERT t string

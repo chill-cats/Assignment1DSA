@@ -1,0 +1,12 @@
+PRINT
+END
+INSERT k string
+INSERT fI string
+INSERT fJ number
+INSERT fMkzY string
+qz vcc_
+INSERT duC string
+INSERT pRrEA string
+INSERT fpJLS number
+INSERT yFEp string
+INSERT u_MIS string

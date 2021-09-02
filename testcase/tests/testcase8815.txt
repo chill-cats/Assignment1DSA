@@ -1,0 +1,3 @@
+INSERT tI number
+PRINT
+ASSIGN tI 284

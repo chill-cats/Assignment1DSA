@@ -1,0 +1,38 @@
+RPRINT
+INSERT mEx number
+INSERT wM9Sjk string
+INSERT s number
+INSERT nx7B number
+LOOKUP mEx
+ASSIGN mEx 'dz'
+LOOKUP wM9Sjk
+ASSIGN nx7B '9'
+INSERT goI1n number
+END
+INSERT amnaF number
+END
+END
+INSERT h number
+LOOKUP wM9Sjk
+INSERT hpJk string
+INSERT neTtv number
+INSERT x number
+INSERT es string
+lAQCmC l
+END
+INSERT t2YwM string
+RPRINT
+INSERT ln5x number
+BEGIN
+INSERT ucLX number
+INSERT qo string
+INSERT jjW number
+INSERT o string
+qbWtt spicZA
+INSERT ag1YO number
+INSERT f string
+LOOKUP goI1n
+wiy1v l
+INSERT k string
+PRINT
+f p

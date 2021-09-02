@@ -1,0 +1,13 @@
+INSERT dJI string
+END
+INSERT qJ0zeg number
+INSERT d number
+INSERT oZ4 string
+LOOKUP d
+INSERT qiVKwq number
+INSERT d string
+BEGIN
+END
+INSERT e0FjS number
+LOOKUP dO4
+INSERT b string

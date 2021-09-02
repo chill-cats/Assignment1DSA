@@ -1,0 +1,22 @@
+INSERT hm string
+LOOKUP hm
+PRINT
+INSERT jl17Tn string
+INSERT kz number
+END
+INSERT kqxwj number
+INSERT l6Z string
+INSERT xnB0 number
+INSERT pluQs number
+INSERT tHWxlw string
+RPRINT
+PRINT
+INSERT cB number
+END
+BEGIN
+ASSIGN cB 'ZRe'
+PRINT
+BEGIN
+INSERT xXZfrd string
+bO p
+INSERT joGQ number

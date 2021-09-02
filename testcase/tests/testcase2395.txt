@@ -1,0 +1,28 @@
+INSERT vp07BK number
+LOOKUP vp07BK
+INSERT rX number
+BEGIN
+INSERT pyGpO string
+INSERT w5u7 string
+INSERT ikB string
+INSERT uG number
+INSERT ntZi number
+INSERT n_ string
+INSERT vYQA string
+INSERT j number
+INSERT vaNCR number
+ASSIGN vp07BK ntZi
+INSERT sy_C6I string
+INSERT n string
+INSERT aO string
+INSERT oxj number
+INSERT i3YqjK string
+INSERT ly number
+INSERT q string
+INSERT pL string
+BEGIN
+drR s1BZ
+INSERT i number
+INSERT xpz9 string
+LOOKUP vYQA
+INSERT qPAt8Y string

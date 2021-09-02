@@ -1,0 +1,18 @@
+RPRINT
+INSERT ixZ string
+INSERT oDuG string
+INSERT i string
+RPRINT
+INSERT pK string
+INSERT rS string
+INSERT kGFClB string
+INSERT k5a number
+BEGIN
+INSERT wpjVI number
+INSERT l5kvp string
+PRINT
+INSERT aqa4 string
+PRINT
+ASSIGN wpjVI 864
+PRINT
+LOOKUP rS

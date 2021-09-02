@@ -1,0 +1,34 @@
+INSERT xy string
+PRINT
+INSERT t9a5rY number
+ASSIGN xy 'jF z8'
+INSERT v30 number
+INSERT vmYgqQ string
+END
+INSERT m1CQF number
+INSERT j05n54 number
+INSERT ilxX number
+LOOKUP x
+PRINT
+INSERT kSOH string
+INSERT gPVz string
+INSERT yi number
+INSERT qW5A number
+INSERT fzwFs number
+INSERT xj number
+INSERT bQbGb string
+INSERT jnFQiB string
+END
+ASSIGN vmYgqQ jnFQiB
+LOOKUP jnFQiB
+INSERT x number
+RPRINT
+INSERT xP9A number
+INSERT uN9NqK number
+INSERT mk8CF number
+INSERT eT string
+INSERT nC3 string
+INSERT i2 number
+LOOKUP xj
+INSERT yVN0Jy string
+v xHNY

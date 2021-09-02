@@ -1,0 +1,34 @@
+INSERT ylQXl number
+PRINT
+ASSIGN ylQXl 306
+INSERT wH string
+pAFx a
+PRINT
+INSERT m08 number
+RPRINT
+END
+PRINT
+LOOKUP wH
+INSERT b8Mx string
+END
+BEGIN
+INSERT nlXeZ number
+INSERT pBXga number
+ASSIGN wH 'OTNY '
+INSERT nlsSTx string
+gndIwi v
+INSERT v string
+INSERT ehFM5 number
+v4 heh
+INSERT z number
+ASSIGN b8Mx 'qtvwd'
+INSERT olJel string
+END
+INSERT e03Cdj string
+INSERT frzL string
+BEGIN
+INSERT uE string
+END
+LOOKUP ehFM5
+INSERT agZra number
+INSERT ez4bm number

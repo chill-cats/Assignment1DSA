@@ -1,0 +1,18 @@
+LOOKUP eb
+PRINT
+BEGIN
+INSERT i string
+INSERT dmI string
+PRINT
+INSERT mLsn number
+INSERT aGi string
+LOOKUP dmI
+LOOKUP dmI
+INSERT avGQzA string
+INSERT zc number
+PRINT
+INSERT yYx number
+INSERT z5On number
+INSERT cx5y number
+INSERT qN number
+INSERT uR number

@@ -1,0 +1,19 @@
+LOOKUP j
+INSERT jXY2e number
+INSERT f6 number
+ASSIGN f6 f6
+INSERT kppBo string
+RPRINT
+INSERT vr0P number
+INSERT a string
+ASSIGN jXY2e f6
+INSERT dGT number
+INSERT eIR string
+INSERT f19 number
+INSERT kN number
+INSERT hzZde number
+INSERT hp string
+INSERT h string
+INSERT p number
+RPRINT
+INSERT v number

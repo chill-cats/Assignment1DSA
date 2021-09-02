@@ -1,0 +1,38 @@
+INSERT abft number
+INSERT a7fXc0 number
+INSERT tJ string
+INSERT f number
+INSERT gqn4 number
+PRINT
+INSERT lfgbA number
+END
+INSERT x string
+PRINT
+ASSIGN x 842
+INSERT eLtrxU number
+INSERT p8p string
+ASSIGN x a7fXc0
+INSERT jxz_G number
+BEGIN
+INSERT fjcXd string
+INSERT otim number
+ASSIGN lfgbA fjcXd
+END
+ASSIGN p8p 148
+INSERT yn number
+INSERT u string
+INSERT wuny string
+INSERT qv8Z string
+INSERT gN number
+END
+BEGIN
+INSERT uqctJ number
+BEGIN
+INSERT kp number
+PRINT
+INSERT w3xuHd number
+INSERT r string
+INSERT wt8Tv0 number
+INSERT iONhEc string
+INSERT bc string
+fTV uS9

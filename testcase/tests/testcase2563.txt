@@ -1,0 +1,24 @@
+INSERT t9yudl string
+INSERT wiHkEM string
+BEGIN
+LOOKUP wiHkEM
+INSERT yH0Jw1 string
+ASSIGN wiHkEM 'iks'
+INSERT ab string
+ASSIGN yH0Jw1 'CCV'
+INSERT x number
+e d8A
+ASSIGN yH0Jw1 839
+INSERT aw number
+RPRINT
+pYch l5
+INSERT qrq number
+ASSIGN t9yudl 1033
+INSERT tR1 string
+INSERT dc number
+INSERT mIg string
+END
+ASSIGN tR1 407
+mO0nB mMOBN
+PRINT
+INSERT hnREO string

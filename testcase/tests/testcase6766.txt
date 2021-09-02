@@ -1,0 +1,25 @@
+BEGIN
+INSERT xzdZ string
+ASSIGN xzdZ 51
+END
+INSERT mGC number
+BEGIN
+INSERT p0g string
+PRINT
+INSERT ryqE number
+INSERT fS string
+INSERT czU number
+PRINT
+INSERT hnrBg string
+LOOKUP ryqE
+INSERT vvuC string
+INSERT v number
+k0XsF s99NTH
+INSERT maexO string
+INSERT qmFo number
+LOOKUP ryqE
+INSERT szlJ string
+INSERT t0e string
+LOOKUP mGC
+v6 y97
+BEGIN

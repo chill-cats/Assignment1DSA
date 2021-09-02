@@ -1,0 +1,12 @@
+ASSIGN aiidYn 'GkA a'
+PRINT
+INSERT u number
+INSERT qbbG string
+INSERT aU string
+RPRINT
+INSERT gRttak number
+BEGIN
+END
+RPRINT
+INSERT ga string
+LOOKUP aU

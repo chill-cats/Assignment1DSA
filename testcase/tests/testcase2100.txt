@@ -1,0 +1,24 @@
+INSERT m4kZ number
+INSERT z string
+LOOKUP z
+END
+ASSIGN z z
+ASSIGN m4kZ m4kZ
+INSERT k2w string
+INSERT gCM04 string
+BEGIN
+INSERT f9F_Hg string
+BEGIN
+INSERT uf0 string
+INSERT zXY number
+INSERT ydh number
+INSERT k0USvO number
+END
+INSERT q string
+INSERT bYEg2U number
+ASSIGN z k0USvO
+INSERT oD string
+INSERT a string
+INSERT wd number
+INSERT i3 number
+INSERT f number

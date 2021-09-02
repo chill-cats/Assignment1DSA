@@ -1,0 +1,29 @@
+INSERT uVUxL number
+INSERT v string
+RPRINT
+ASSIGN v 924
+g lZegz
+INSERT k string
+INSERT tifE string
+ASSIGN v v
+PRINT
+PRINT
+INSERT f number
+INSERT xpP string
+INSERT tc1q string
+LOOKUP tifE
+ASSIGN k v
+INSERT pUNIJ_ string
+ASSIGN tifE 'Kim'
+PRINT
+INSERT nlck string
+RPRINT
+END
+END
+RPRINT
+INSERT c90l number
+PRINT
+INSERT mosz number
+INSERT jxi string
+INSERT gHF number
+INSERT mK2 string

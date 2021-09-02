@@ -1,0 +1,20 @@
+INSERT qLoV string
+END
+INSERT hzKY number
+INSERT kR string
+LOOKUP kR
+INSERT p string
+END
+PRINT
+INSERT nd7S number
+INSERT dM3 string
+gvLa p
+INSERT nHlf5 string
+INSERT e6Me number
+INSERT byd0m string
+INSERT hAM number
+INSERT a number
+ASSIGN byd0m p
+INSERT c number
+RPRINT
+INSERT wTp number

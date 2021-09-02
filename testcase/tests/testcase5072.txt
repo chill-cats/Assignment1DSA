@@ -1,0 +1,21 @@
+INSERT j string
+INSERT kLBRL number
+INSERT dGz5T4 string
+BEGIN
+INSERT t number
+INSERT sx number
+INSERT i2Q number
+INSERT k string
+INSERT dvf8 number
+INSERT lXsqaz number
+RPRINT
+INSERT aht5 number
+INSERT zBi number
+ASSIGN kLBRL t
+LOOKUP k
+INSERT rGMCJ string
+INSERT xWStY string
+PRINT
+LOOKUP t
+ASSIGN aht5 'RYaUr'
+PRINT

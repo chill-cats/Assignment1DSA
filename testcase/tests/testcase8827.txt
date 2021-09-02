@@ -1,0 +1,33 @@
+INSERT mpf string
+INSERT erqVK number
+INSERT pzU string
+xD q2lPs
+w wS
+LOOKUP erqVK
+PRINT
+ASSIGN mpf 212
+INSERT kGyzu string
+INSERT iuZ string
+PRINT
+INSERT xD9bt string
+INSERT eUAkYQ number
+BEGIN
+INSERT nZKVi string
+INSERT uY number
+ASSIGN mpf 'f'
+eZ9o t
+BEGIN
+INSERT dlKU string
+INSERT o7RI number
+INSERT iymPhf string
+PRINT
+INSERT g string
+INSERT x8Cr number
+INSERT gT2 string
+ASSIGN pzU 'aIjA1'
+RPRINT
+INSERT h5n string
+c iZDs4c
+INSERT i0thoQ number
+INSERT dl83FN string
+ASSIGN dl83FN dlKU

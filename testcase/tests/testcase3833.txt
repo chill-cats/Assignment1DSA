@@ -1,0 +1,11 @@
+INSERT kyDeuN number
+INSERT j7 number
+INSERT dyxe string
+END
+LOOKUP j7
+END
+INSERT q string
+END
+INSERT gdbhm number
+INSERT e8 string
+INSERT gHS_3m number

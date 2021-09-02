@@ -1,0 +1,35 @@
+INSERT a string
+INSERT lZLj number
+BEGIN
+BEGIN
+LOOKUP a
+ASSIGN lZLj 'F9J'
+INSERT tw string
+INSERT yvzp number
+ASSIGN lZLj 555
+INSERT mZ7 string
+PRINT
+INSERT sw string
+ASSIGN mZ7 tw
+INSERT aX number
+INSERT odwR number
+END
+BEGIN
+INSERT wwT5c number
+INSERT yrZQza number
+PRINT
+ASSIGN aX 1107
+INSERT qBu0 number
+INSERT d number
+ASSIGN sw 198
+INSERT w string
+INSERT sC string
+INSERT qHQTdg string
+INSERT j string
+BEGIN
+INSERT oRV string
+LOOKUP tw
+PRINT
+PRINT
+INSERT sNYC number
+INSERT lenKFv number

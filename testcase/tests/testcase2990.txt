@@ -1,0 +1,29 @@
+INSERT dPgUV number
+INSERT r77iAG number
+INSERT k string
+INSERT p27Dcu string
+INSERT g number
+LOOKUP k
+INSERT j string
+LOOKUP p27Dcu
+INSERT lag2 string
+RPRINT
+INSERT iy number
+INSERT gT string
+BEGIN
+INSERT jOa number
+BEGIN
+x5 zukkG
+RPRINT
+END
+LOOKUP lag2
+END
+INSERT g5Swlq string
+INSERT oZ number
+LOOKUP oZ
+INSERT ynCP string
+INSERT r number
+RPRINT
+INSERT kBd8h6 string
+INSERT b number
+RPRINT

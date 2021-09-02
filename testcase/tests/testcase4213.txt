@@ -1,0 +1,39 @@
+INSERT qw string
+RPRINT
+INSERT vpjlGf number
+INSERT l8 string
+ASSIGN vpjlGf 'CZ061'
+INSERT xR_zyj number
+END
+INSERT tMIdI0 string
+LOOKUP qw
+INSERT tn number
+INSERT xeohs number
+PRINT
+END
+INSERT shly8N number
+INSERT h38L_l string
+INSERT mX2 number
+INSERT u number
+INSERT nK string
+BEGIN
+INSERT x number
+INSERT jxwAWF string
+INSERT fZ number
+PRINT
+INSERT d3e string
+INSERT u number
+LOOKUP nK
+INSERT szzI string
+END
+INSERT rUKn number
+END
+INSERT r0ZF string
+INSERT o_ number
+BEGIN
+INSERT g string
+u f
+m lHzAcR
+INSERT k string
+INSERT p number
+PRINT

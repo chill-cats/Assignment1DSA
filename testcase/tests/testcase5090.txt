@@ -1,0 +1,40 @@
+INSERT e4RdV string
+fT f
+ASSIGN e4RdV e4RdV
+INSERT uS string
+INSERT uxovZ string
+INSERT syp string
+LOOKUP uxovZ
+INSERT mc9_nY string
+END
+LOOKUP uS
+INSERT xM3 string
+INSERT mQ string
+INSERT r9l string
+ASSIGN uS mc9_nY
+END
+END
+INSERT r3 number
+BEGIN
+INSERT qVUYt number
+INSERT a string
+PRINT
+INSERT dIob string
+ASSIGN r3 'YspaR'
+INSERT u string
+INSERT h number
+INSERT oX5x1 string
+INSERT oxAd string
+INSERT m string
+INSERT uRC string
+INSERT bVhY number
+INSERT fye number
+INSERT x number
+INSERT lAE string
+INSERT hFpAx number
+RPRINT
+INSERT nHnr string
+BEGIN
+RPRINT
+INSERT vx string
+LOOKUP uS

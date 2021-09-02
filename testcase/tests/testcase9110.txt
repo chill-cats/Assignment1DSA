@@ -1,0 +1,37 @@
+INSERT ghsLfI number
+INSERT kAxz string
+INSERT iV number
+INSERT pkLKMg number
+INSERT s number
+INSERT r6UDG string
+INSERT zq string
+END
+BEGIN
+INSERT f2eMog string
+RPRINT
+INSERT t number
+INSERT cww number
+END
+INSERT iRnH string
+INSERT wK string
+BEGIN
+ASSIGN zq 1232
+PRINT
+INSERT b8Mw string
+INSERT nKxKf9 number
+INSERT djf string
+BEGIN
+LOOKUP cww
+BEGIN
+RPRINT
+INSERT dLwR number
+INSERT muD number
+RPRINT
+INSERT h number
+INSERT lC56k string
+ijd iIS
+ASSIGN djf s
+INSERT ctWe number
+LOOKUP cww
+INSERT f string
+INSERT c0KT string

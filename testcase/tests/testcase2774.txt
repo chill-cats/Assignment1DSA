@@ -1,0 +1,6 @@
+INSERT t string
+INSERT gti string
+INSERT fiONHV number
+PRINT
+BEGIN
+INSERT w7go string

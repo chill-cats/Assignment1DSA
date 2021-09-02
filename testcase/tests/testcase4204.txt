@@ -1,0 +1,30 @@
+INSERT fUaQY number
+INSERT o6 number
+BEGIN
+INSERT du number
+INSERT tFRb6k number
+LOOKUP tFRb6k
+END
+INSERT o string
+INSERT rJvsG number
+INSERT dJbUBg number
+INSERT hypH string
+ASSIGN hypH o6
+LOOKUP tFRb6k
+ASSIGN fUaQY dJbUBg
+LOOKUP gM4
+RPRINT
+INSERT qg number
+INSERT urKQ8 number
+BEGIN
+INSERT j string
+hLXf mr
+INSERT iq number
+INSERT jmy3e string
+INSERT p_uw number
+END
+LOOKUP j
+INSERT pyqNf number
+RPRINT
+END
+END

@@ -1,0 +1,9 @@
+INSERT br7 string
+INSERT eJOBKY string
+ASSIGN br7 eJOBKY
+INSERT qIZ number
+INSERT rq3u8 string
+INSERT hX3X7B number
+INSERT fzHF4 number
+INSERT kz8MRt number
+INSERT jxFc number

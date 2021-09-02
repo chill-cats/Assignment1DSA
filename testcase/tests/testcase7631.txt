@@ -1,0 +1,30 @@
+INSERT hXVj3 number
+INSERT uVwbs7 string
+INSERT y string
+PRINT
+BEGIN
+ASSIGN wd 'LXE'
+fuM46 x
+RPRINT
+LOOKUP y
+INSERT wqL string
+INSERT bOZm6 number
+INSERT ngK string
+INSERT sqpFk number
+ASSIGN wqL 1205
+INSERT krTn string
+LOOKUP wqL
+INSERT eKh number
+END
+BEGIN
+INSERT gt0 string
+BEGIN
+INSERT xzv5 string
+END
+INSERT osWF number
+BEGIN
+BEGIN
+END
+INSERT iCo string
+INSERT i0k string
+PRINT

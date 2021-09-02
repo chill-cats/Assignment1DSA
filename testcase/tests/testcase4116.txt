@@ -1,0 +1,39 @@
+INSERT sU number
+INSERT nP number
+INSERT i string
+INSERT rHlE number
+INSERT oMDa6 string
+INSERT gC number
+INSERT ybP number
+INSERT fJ number
+INSERT ghuW string
+INSERT t_ string
+INSERT cQBvg string
+INSERT hEp number
+BEGIN
+INSERT yLc string
+INSERT qgHQNG string
+ASSIGN rHlE oMDa6
+INSERT sms number
+ASSIGN oMDa6 876
+INSERT bBJQ number
+RPRINT
+INSERT vZu number
+INSERT r5 number
+INSERT ue7f number
+INSERT lTZ5V_ number
+LOOKUP ybP
+END
+INSERT g9o7 string
+INSERT jj string
+INSERT yXdC string
+INSERT ysKI string
+PRINT
+INSERT dzB number
+END
+INSERT ryy string
+INSERT gQv number
+INSERT bx number
+INSERT ipI number
+BEGIN
+INSERT wqz1 number

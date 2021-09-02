@@ -1,0 +1,30 @@
+RPRINT
+INSERT w string
+ASSIGN w 'rZ'
+INSERT gV string
+ASSIGN w gV
+INSERT dAiZx number
+INSERT x9eC4y number
+INSERT z97OhY number
+RPRINT
+i q
+zOE j
+BEGIN
+END
+INSERT or9Af number
+INSERT iR string
+INSERT xBvA number
+LOOKUP xBvA
+INSERT gDN number
+INSERT su2sRe number
+RPRINT
+INSERT mLyc number
+INSERT u string
+LOOKUP w
+INSERT mP string
+INSERT y number
+INSERT gTv string
+END
+BEGIN
+INSERT a0 string
+INSERT wE string

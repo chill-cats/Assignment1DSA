@@ -1,0 +1,20 @@
+LOOKUP ts8Cb
+INSERT x9adT string
+f3 b
+INSERT h number
+LOOKUP x9adT
+INSERT bL string
+INSERT s string
+INSERT lAQF6u string
+INSERT hHZig string
+INSERT pYt09 string
+INSERT yba6w2 number
+ASSIGN hHZig yba6w2
+INSERT rzLd string
+ASSIGN h '0'
+INSERT yX2 string
+INSERT bOuVu number
+RPRINT
+INSERT pOsAJ string
+INSERT wk string
+ghN ne0r

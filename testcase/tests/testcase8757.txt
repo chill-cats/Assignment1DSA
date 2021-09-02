@@ -1,0 +1,11 @@
+o1V bd
+LOOKUP l1v
+INSERT ai8i number
+INSERT ioy2b string
+INSERT s number
+INSERT ydHI number
+PRINT
+INSERT pz number
+INSERT vhAx4 string
+INSERT bMMKii number
+BEGIN

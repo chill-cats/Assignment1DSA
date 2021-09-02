@@ -1,0 +1,12 @@
+INSERT tos string
+INSERT iNDX9 number
+ASSIGN iNDX9 iNDX9
+RPRINT
+INSERT e_C_t string
+INSERT nbWE string
+INSERT gXPo6v string
+INSERT bQz6b number
+INSERT c string
+INSERT lx9 string
+PRINT
+INSERT y string

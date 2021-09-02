@@ -1,0 +1,40 @@
+END
+INSERT ppy string
+BEGIN
+INSERT lN string
+ASSIGN ppy lN
+RPRINT
+INSERT w number
+INSERT zToPg number
+END
+RPRINT
+rxN cw78
+INSERT n0wIkd number
+BEGIN
+INSERT p number
+INSERT jFx string
+qo1Tf2 mFIY5
+INSERT h number
+INSERT zX string
+ASSIGN lN 217
+LOOKUP p
+END
+INSERT al number
+RPRINT
+END
+PRINT
+INSERT p number
+INSERT z1M number
+PRINT
+INSERT uABR number
+INSERT l9E number
+BEGIN
+INSERT kPjFM string
+END
+INSERT qJqh5 number
+INSERT nXlH string
+INSERT yJ8K9_ number
+END
+INSERT kljPAx number
+INSERT mlkST string
+LOOKUP zX

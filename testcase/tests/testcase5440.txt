@@ -1,0 +1,26 @@
+INSERT c string
+INSERT o string
+INSERT hb6 string
+END
+ASSIGN ib8m7 652
+INSERT az number
+INSERT u4m99 string
+PRINT
+PRINT
+ASSIGN hb6 495
+INSERT ucg string
+RPRINT
+INSERT xTgwDd number
+INSERT ffV3gb string
+p1 wYO
+INSERT cjes5 string
+INSERT l string
+INSERT ibVG3 number
+END
+END
+RPRINT
+INSERT jIs number
+INSERT lh number
+INSERT pW0w string
+rY8 q
+INSERT wS string

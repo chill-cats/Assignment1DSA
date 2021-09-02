@@ -1,0 +1,2 @@
+INSERT n string
+INSERT xM string

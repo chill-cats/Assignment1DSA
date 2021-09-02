@@ -1,0 +1,21 @@
+INSERT bcH string
+LOOKUP bcH
+INSERT rNs string
+INSERT nx1M number
+PRINT
+INSERT kWCRU string
+PRINT
+INSERT x number
+INSERT xk string
+ASSIGN x '3f1D'
+INSERT d0sx number
+INSERT nGHp string
+END
+PRINT
+RPRINT
+BEGIN
+INSERT o9aX string
+PRINT
+BEGIN
+INSERT qeI number
+INSERT c_onj number

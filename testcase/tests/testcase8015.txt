@@ -1,0 +1,22 @@
+INSERT fTwmd string
+ASSIGN fTwmd 'Sa'
+INSERT pPp string
+INSERT x_IP1j string
+PRINT
+END
+INSERT yHoCMf number
+LOOKUP fTwmd
+LOOKUP yHoCMf
+BEGIN
+INSERT d3vY string
+INSERT pq string
+INSERT vi0GuC string
+PRINT
+RPRINT
+INSERT qvte8 string
+LOOKUP d3vY
+INSERT b string
+END
+END
+INSERT sQkv string
+END

@@ -1,0 +1,38 @@
+BEGIN
+INSERT k string
+ASSIGN k k
+INSERT i_ZP6A string
+INSERT k0D3si string
+PRINT
+INSERT j string
+INSERT cQ number
+z m
+INSERT fri9H number
+PRINT
+INSERT kqH9o string
+INSERT aEY string
+INSERT hG8lO4 string
+INSERT ryegEC number
+INSERT afZEY string
+ASSIGN hG8lO4 'TMgS'
+BEGIN
+END
+LOOKUP j
+LOOKUP fri9H
+INSERT ws number
+ASSIGN fri9H 475
+ASSIGN ryegEC 827
+rxFd g0
+INSERT yfbsV string
+INSERT m string
+INSERT u4JbhH string
+END
+INSERT fQ2PQ number
+INSERT gzkasD number
+LOOKUP gzkasD
+ASSIGN ryegEC 'F'
+INSERT vN3P0F number
+INSERT oM string
+INSERT zaF string
+INSERT zKgMnT string
+ASSIGN ryegEC 'Qn1'

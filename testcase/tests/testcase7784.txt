@@ -1,0 +1,17 @@
+RPRINT
+PRINT
+INSERT iu0IE6 number
+INSERT dyUb2 string
+INSERT mkf number
+INSERT vhdEYr number
+LOOKUP iu0IE6
+ASSIGN vhdEYr 447
+BEGIN
+PRINT
+INSERT ogxSAU string
+RPRINT
+f wL
+PRINT
+ASSIGN nHHb0 '945I'
+INSERT z7TH string
+INSERT pQk number

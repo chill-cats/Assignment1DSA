@@ -1,0 +1,32 @@
+INSERT d string
+ASSIGN d '8Jr'
+RPRINT
+INSERT qrhg number
+INSERT jgBX number
+ASSIGN d 'OFqx4'
+cp se1c1
+RPRINT
+INSERT aWUa string
+BEGIN
+INSERT av6N string
+BEGIN
+ASSIGN jgBX '2pO'
+LOOKUP d
+ASSIGN av6N 0
+INSERT kDfB string
+RPRINT
+LOOKUP av6N
+INSERT q string
+INSERT cZwgyc string
+INSERT tH number
+INSERT e string
+INSERT rNkH string
+INSERT sXE string
+INSERT oFH_ number
+INSERT yr string
+INSERT fPFWIq string
+INSERT fQ6 string
+INSERT fI string
+INSERT p string
+END
+PRINT

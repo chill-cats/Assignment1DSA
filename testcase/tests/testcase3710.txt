@@ -1,0 +1,40 @@
+INSERT mhth string
+INSERT kyl1 string
+INSERT pJ number
+INSERT vYp7 string
+INSERT x7 string
+INSERT m1GF string
+END
+PRINT
+INSERT un string
+INSERT pOb8 string
+RPRINT
+INSERT n6 number
+INSERT tEPCY string
+PRINT
+INSERT ee2X number
+INSERT h number
+INSERT cFsaVD number
+ASSIGN pOb8 131
+BEGIN
+pN9LE d5CsoM
+INSERT iws8 string
+INSERT kckT string
+LOOKUP iws8
+END
+INSERT sFMsO number
+INSERT vB number
+ASSIGN mhth 1153
+INSERT dc__t number
+RPRINT
+ASSIGN iws8 'oOGFF'
+INSERT qmQQN number
+ASSIGN un ee2X
+INSERT obQ string
+INSERT raFwY number
+INSERT wc number
+BEGIN
+INSERT qyy string
+END
+INSERT cG2 number
+LOOKUP h

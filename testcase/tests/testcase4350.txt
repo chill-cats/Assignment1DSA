@@ -1,0 +1,9 @@
+m9 o
+LOOKUP qv
+END
+INSERT a number
+INSERT gfcFS number
+INSERT jH number
+BEGIN
+INSERT w4 string
+INSERT fjERay string

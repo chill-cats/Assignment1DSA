@@ -1,0 +1,11 @@
+INSERT mt number
+INSERT afYZ string
+RPRINT
+INSERT h1Czv string
+INSERT axdT number
+INSERT iCJJ string
+INSERT oisO string
+INSERT l string
+RPRINT
+BEGIN
+INSERT yvp5 number

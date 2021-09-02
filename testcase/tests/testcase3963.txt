@@ -1,0 +1,23 @@
+INSERT yNzrE number
+END
+INSERT xcXy number
+LOOKUP xcXy
+INSERT dmKS9 number
+j sVQo1
+LOOKUP dmKS9
+INSERT wDn number
+INSERT ohE7 number
+ASSIGN dmKS9 '8i0C'
+BEGIN
+INSERT w9 number
+ASSIGN wDn 161
+INSERT x number
+INSERT tuc string
+INSERT ypgO string
+t5Cj i1kB
+INSERT aD42XX string
+INSERT gcL string
+INSERT zz number
+INSERT yt number
+INSERT n number
+LOOKUP w9

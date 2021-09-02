@@ -1,0 +1,27 @@
+PRINT
+INSERT sKdk string
+BEGIN
+INSERT sNm number
+LOOKUP sNm
+RPRINT
+INSERT tNyh5x string
+INSERT rF number
+INSERT xudrJ string
+INSERT v string
+RPRINT
+INSERT jHdT_ number
+END
+INSERT k6QYm string
+INSERT u string
+INSERT x4qCa number
+INSERT h string
+INSERT kvk_j string
+INSERT aGb9 number
+RPRINT
+BEGIN
+lz y6
+INSERT jK string
+END
+INSERT wouVt number
+INSERT eP number
+z mj

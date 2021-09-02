@@ -1,0 +1,7 @@
+INSERT vYDP number
+INSERT b string
+vlTGeC i
+INSERT gWj string
+INSERT c1bh number
+LOOKUP b
+PRINT

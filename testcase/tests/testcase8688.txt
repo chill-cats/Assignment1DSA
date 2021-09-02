@@ -1,0 +1,13 @@
+INSERT snJ string
+INSERT zsjL string
+ASSIGN snJ 766
+INSERT hZDO string
+BEGIN
+INSERT pGD string
+LOOKUP hZDO
+PRINT
+RPRINT
+END
+INSERT q7mVa number
+RPRINT
+INSERT n number

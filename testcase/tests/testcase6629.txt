@@ -1,0 +1,33 @@
+BEGIN
+INSERT kXLvRw number
+INSERT p8Zs5b string
+PRINT
+LOOKUP p8Zs5b
+INSERT llzQ string
+ASSIGN llzQ 358
+INSERT a1Kbi number
+LOOKUP vPDKIV
+BEGIN
+INSERT atkZ4y number
+INSERT u string
+INSERT sdlH number
+INSERT fM string
+PRINT
+INSERT s8t string
+INSERT v string
+ASSIGN v 'WO'
+ASSIGN atkZ4y kXLvRw
+LOOKUP a1Kbi
+INSERT lH1 string
+END
+INSERT dnu string
+END
+PRINT
+BEGIN
+END
+INSERT wHkP0Q number
+RPRINT
+iTX2 etm
+PRINT
+INSERT eRpeC9 number
+INSERT xYbBq number

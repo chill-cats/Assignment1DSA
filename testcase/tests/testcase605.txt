@@ -1,0 +1,33 @@
+END
+INSERT qfno number
+LOOKUP qfno
+INSERT e1I string
+INSERT d number
+INSERT ctcr number
+INSERT c7gyxI string
+INSERT ghc string
+LOOKUP qfno
+ieDS zf
+INSERT o9Joww number
+INSERT w number
+BEGIN
+LOOKUP c7gyxI
+INSERT m number
+RPRINT
+END
+END
+INSERT syQbin string
+INSERT g6Q87T string
+INSERT v number
+INSERT qQJbuY string
+INSERT hguX52 string
+INSERT vSPJ5 string
+RPRINT
+INSERT s string
+INSERT eRS string
+INSERT qW9Iw string
+BEGIN
+INSERT pFwN0w string
+INSERT sjrDn number
+INSERT xR number
+INSERT hCkby number

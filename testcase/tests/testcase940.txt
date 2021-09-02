@@ -1,0 +1,35 @@
+ASSIGN a3X6h 'V'
+dEo f7iz0
+BEGIN
+INSERT bTxx number
+INSERT xST string
+bYA nj
+ASSIGN bTxx 0
+LOOKUP xST
+INSERT uPU3 number
+INSERT x string
+INSERT lRq number
+INSERT dGRuhv string
+INSERT rV0 string
+PRINT
+INSERT vo34 string
+INSERT hpv9u number
+LOOKUP x
+INSERT jUaST1 number
+RPRINT
+INSERT rGm2h number
+END
+INSERT nl5y number
+INSERT sNRwS string
+INSERT n number
+INSERT e5ZWF number
+INSERT oSV number
+INSERT x number
+PRINT
+INSERT zaYa1M number
+INSERT gf5FY number
+INSERT kQ2xO number
+INSERT lcD number
+INSERT pTAMC string
+INSERT hJreMU string
+PRINT

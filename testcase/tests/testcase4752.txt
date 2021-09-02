@@ -1,0 +1,11 @@
+INSERT zpKJ string
+PRINT
+INSERT rQAn string
+INSERT q9TU number
+INSERT phcnH string
+RPRINT
+BEGIN
+INSERT t60e0 string
+END
+ASSIGN zpKJ 49
+BEGIN

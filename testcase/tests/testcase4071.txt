@@ -1,0 +1,18 @@
+INSERT pI number
+END
+INSERT sb string
+yioW kp
+INSERT ioXQ number
+INSERT qYj number
+INSERT q_NTUl string
+INSERT zqY number
+INSERT jM string
+RPRINT
+ASSIGN pI qYj
+RPRINT
+INSERT v string
+INSERT vpLH string
+INSERT cl string
+INSERT oE0 number
+INSERT zg string
+LOOKUP zg

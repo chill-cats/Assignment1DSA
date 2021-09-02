@@ -1,0 +1,15 @@
+INSERT qc number
+ywK qNz458
+INSERT gjZ number
+INSERT fD number
+INSERT c number
+INSERT xfjU string
+ASSIGN xfjU '5'
+INSERT rQ string
+INSERT m1n3 number
+BEGIN
+BEGIN
+LOOKUP xfjU
+RPRINT
+INSERT yNyL9 number
+INSERT cW3 number

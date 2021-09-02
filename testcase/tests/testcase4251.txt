@@ -1,0 +1,15 @@
+INSERT qI number
+INSERT j number
+INSERT x string
+END
+PRINT
+END
+END
+INSERT v2svT string
+INSERT xBJ2v number
+INSERT e string
+PRINT
+b9j7 v
+RPRINT
+INSERT btj3Ty string
+INSERT rwUQ string

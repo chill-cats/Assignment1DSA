@@ -1,0 +1,16 @@
+INSERT rjcKI string
+INSERT bDm6 number
+LOOKUP bDm6
+INSERT g string
+BEGIN
+RPRINT
+INSERT rH7jD number
+INSERT pyTU string
+END
+INSERT ezer string
+INSERT sv string
+ASSIGN g 'pA'
+INSERT q6LyK string
+INSERT uQar string
+INSERT m2 string
+INSERT d number

@@ -1,0 +1,8 @@
+RPRINT
+END
+BEGIN
+INSERT hTDa string
+INSERT flmNP number
+END
+INSERT zm number
+INSERT hMDn number

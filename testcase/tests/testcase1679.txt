@@ -1,0 +1,8 @@
+INSERT afK number
+INSERT zbs number
+LOOKUP afK
+ASSIGN afK zbs
+ASSIGN zbs 134
+oJKQk j1nN
+INSERT tvhMtS string
+INSERT mLSf string

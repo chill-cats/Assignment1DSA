@@ -1,0 +1,7 @@
+INSERT zD string
+INSERT bQT string
+INSERT x string
+INSERT gtu string
+RPRINT
+INSERT q number
+LOOKUP q

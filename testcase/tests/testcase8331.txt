@@ -1,0 +1,30 @@
+INSERT eLPxN number
+INSERT hyRBz string
+LOOKUP hyRBz
+INSERT kmqZZ number
+END
+INSERT otC string
+INSERT d string
+INSERT d string
+INSERT wW string
+ASSIGN eLPxN wW
+INSERT hFDS number
+END
+INSERT gHfTAT string
+RPRINT
+INSERT dC string
+INSERT sla string
+ASSIGN eLPxN 681
+LOOKUP sla
+INSERT zYQkWc string
+ASSIGN otC 1191
+mL v
+INSERT s1o number
+ASSIGN sla 251
+PRINT
+LOOKUP d
+INSERT pBYef string
+ASSIGN gHfTAT 'JIiH'
+a93 g_G2Ii
+INSERT vFFA string
+INSERT y9 string

@@ -1,0 +1,32 @@
+INSERT e75y number
+INSERT w number
+LOOKUP w
+BEGIN
+q urjn
+INSERT sYGzQ string
+INSERT tbN9 string
+INSERT g4 string
+INSERT poKcz string
+INSERT drB number
+INSERT o number
+INSERT zsy number
+INSERT por80 number
+RPRINT
+INSERT c number
+END
+INSERT n number
+INSERT frAz string
+INSERT k5Y_97 number
+LOOKUP zsy
+ASSIGN c 1063
+INSERT mu91 string
+INSERT kX5 number
+LOOKUP zsy
+LOOKUP zsy
+ASSIGN tB 91
+RPRINT
+INSERT pFNZ string
+BEGIN
+INSERT ovmvu string
+INSERT oSEO number
+BEGIN

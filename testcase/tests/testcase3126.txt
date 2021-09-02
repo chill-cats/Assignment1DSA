@@ -1,0 +1,38 @@
+INSERT cu number
+INSERT bSXCZv string
+INSERT vF string
+INSERT sU string
+PRINT
+INSERT dOn string
+ASSIGN dOn cu
+RPRINT
+LOOKUP vF
+INSERT wNlU7D string
+LOOKUP cu
+ASSIGN dOn 'xdj0U'
+INSERT wJG number
+INSERT eSWx string
+INSERT o00W2Z string
+INSERT zxOoeS number
+INSERT s string
+PRINT
+INSERT pR number
+INSERT ymcV6 string
+INSERT i0yF string
+INSERT tqi1JH string
+INSERT bWH string
+RPRINT
+LOOKUP s
+LOOKUP o00W2Z
+q sXV
+z5Od xs
+INSERT tS38 string
+INSERT jnSZ string
+INSERT bBZ string
+PRINT
+END
+INSERT v7mEQs number
+x9Yf6t wlS
+INSERT p number
+PRINT
+INSERT i2LLQ number

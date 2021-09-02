@@ -1,0 +1,29 @@
+RPRINT
+INSERT iAB number
+INSERT hCEDVV number
+BEGIN
+INSERT awHMo number
+INSERT eXEl string
+INSERT oDmvA number
+INSERT tjFbnm number
+kCKnT r
+INSERT s string
+INSERT yIjVT number
+INSERT wdD number
+INSERT bF string
+LOOKUP bF
+INSERT nTcVD string
+INSERT oGda number
+INSERT qqqBlb number
+INSERT wi string
+ASSIGN nTcVD 1029
+INSERT t6keB string
+LOOKUP s
+BEGIN
+PRINT
+INSERT vR4 number
+INSERT m5o string
+aUp6 uPL4xO
+RPRINT
+INSERT qQ6 number
+INSERT yn number

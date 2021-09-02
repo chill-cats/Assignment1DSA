@@ -1,0 +1,35 @@
+INSERT gmQ string
+INSERT kNGPX string
+INSERT nhZ number
+LOOKUP gmQ
+INSERT hFtYSe string
+INSERT dNVI number
+INSERT nA number
+INSERT kQdv7 string
+INSERT pVg7 number
+INSERT j number
+INSERT knRU6E string
+INSERT ksAJo string
+INSERT bvfcM string
+INSERT odJnn number
+RPRINT
+INSERT wC5n number
+LOOKUP j
+dFWSh v
+INSERT uU_v number
+RPRINT
+INSERT cYRMBP number
+INSERT d8yB string
+ASSIGN pVg7 '5ul'
+INSERT sK string
+LOOKUP kNGPX
+INSERT gZapP string
+INSERT j string
+INSERT o string
+p znB
+INSERT k9H number
+INSERT lJL_rU number
+INSERT w8cT number
+INSERT xdFz string
+INSERT h9W number
+INSERT y string

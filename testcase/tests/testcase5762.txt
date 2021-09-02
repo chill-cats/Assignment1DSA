@@ -1,0 +1,34 @@
+PRINT
+PRINT
+PRINT
+INSERT uK0V number
+INSERT voJJ string
+INSERT wx5A5 string
+INSERT y number
+v ilC
+INSERT z string
+j bPFxz0
+INSERT bxzwVq string
+LOOKUP bxzwVq
+INSERT mZuc string
+INSERT ypT7U string
+LOOKUP wx5A5
+END
+INSERT oLjdI string
+PRINT
+INSERT fGhH number
+INSERT fvt string
+INSERT pnnut string
+INSERT j string
+END
+k k5D
+INSERT eZ2iXu string
+INSERT uSdme string
+INSERT z number
+INSERT kj string
+sNBh yebJ
+RPRINT
+INSERT sA number
+INSERT vfR6Tx string
+ASSIGN bxzwVq 1194
+INSERT adj string

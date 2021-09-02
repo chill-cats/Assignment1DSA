@@ -1,0 +1,8 @@
+INSERT tnPM number
+INSERT cL1 string
+INSERT npBZ string
+PRINT
+y hdY_u
+INSERT k string
+INSERT nQdq string
+INSERT nLvD string

@@ -1,0 +1,27 @@
+INSERT r8hon7 string
+LOOKUP r8hon7
+INSERT pi number
+LOOKUP pi
+RPRINT
+END
+INSERT hz3ut9 number
+END
+BEGIN
+RPRINT
+BEGIN
+ASSIGN hz3ut9 '3Kd'
+INSERT qNxVCh number
+INSERT tyuXXV number
+INSERT ux51 string
+LOOKUP ux51
+INSERT qvM number
+ASSIGN qNxVCh 301
+INSERT gl6X string
+END
+INSERT ut40b string
+INSERT iXau number
+INSERT gipkPA number
+INSERT kQ string
+INSERT iRsQ string
+INSERT n number
+INSERT uGP number

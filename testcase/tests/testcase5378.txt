@@ -1,0 +1,17 @@
+PRINT
+ASSIGN juJ5g 361
+INSERT oUH number
+INSERT sFF string
+ASSIGN sFF 1094
+BEGIN
+ASSIGN sFF 'tU'
+LOOKUP sFF
+INSERT v9iN string
+INSERT vS7R string
+INSERT rFoS2 string
+INSERT b6W string
+INSERT cUh6WL string
+INSERT zoIIRF number
+INSERT nfbDp4 string
+INSERT p string
+INSERT a string

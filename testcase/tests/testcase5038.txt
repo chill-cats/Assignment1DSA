@@ -1,0 +1,11 @@
+ASSIGN kJi 961
+INSERT pkkg3 number
+INSERT aeMA string
+qPkfu5 aGlnpD
+INSERT vJ string
+INSERT ip number
+LOOKUP aeMA
+INSERT hXk number
+INSERT dLzFcR string
+PRINT
+LOOKUP aeMA

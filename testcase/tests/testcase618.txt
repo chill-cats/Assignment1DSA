@@ -1,0 +1,6 @@
+RPRINT
+LOOKUP cd
+ASSIGN d4oKnV 'Mm'
+gJkJC iP3G
+END
+INSERT qB string

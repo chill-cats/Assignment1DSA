@@ -1,0 +1,37 @@
+LOOKUP x8J0
+INSERT wT4 number
+RPRINT
+INSERT jO1C string
+INSERT m3y_3 number
+INSERT s number
+INSERT r8Ba number
+INSERT sS2 string
+INSERT avPq number
+INSERT mvz number
+INSERT s number
+INSERT bQ number
+RPRINT
+BEGIN
+INSERT gnfq number
+RPRINT
+INSERT cP2VvV number
+ASSIGN r8Ba 406
+nFX5D saCWTG
+INSERT pSW3 number
+u_UeA wpT
+END
+ASSIGN sS2 'dHN'
+INSERT bj string
+INSERT ffNGA string
+END
+INSERT ws_kp number
+LOOKUP wT4
+BEGIN
+INSERT gm4t number
+END
+END
+INSERT w9R string
+INSERT v3G number
+LOOKUP ws_kp
+INSERT xLZY string
+INSERT aMy7Hd string

@@ -1,0 +1,26 @@
+LOOKUP pp2jv
+INSERT j number
+ASSIGN j j
+INSERT aC2Z string
+INSERT rMcBMI number
+INSERT wqE number
+INSERT nMc number
+INSERT o0nad number
+INSERT ePfs number
+INSERT pbDR3 string
+ASSIGN nMc '5TGa'
+INSERT jZnNgt number
+LOOKUP ePfs
+INSERT r string
+INSERT x string
+RPRINT
+INSERT teE string
+INSERT aRKZ_F string
+INSERT oaW7hb string
+INSERT zOEnrK string
+INSERT jxH number
+INSERT v number
+INSERT tl number
+INSERT txQYs9 number
+LOOKUP v
+k4hG tNm

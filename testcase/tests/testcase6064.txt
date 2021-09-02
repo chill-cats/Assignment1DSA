@@ -1,0 +1,7 @@
+INSERT lW_uo number
+END
+INSERT cf string
+INSERT ceK number
+INSERT r9XS5 string
+ASSIGN r9XS5 1094
+BEGIN

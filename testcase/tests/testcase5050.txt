@@ -1,0 +1,7 @@
+INSERT g number
+INSERT d3 string
+INSERT pj4VO2 string
+PRINT
+ASSIGN d3 'ZKK'
+INSERT auLruh string
+LOOKUP d3

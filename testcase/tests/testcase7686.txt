@@ -1,0 +1,6 @@
+BEGIN
+INSERT gSzA7K number
+INSERT d2 string
+ASSIGN d2 571
+INSERT vRL3 number
+INSERT wGxGy string

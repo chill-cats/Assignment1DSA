@@ -1,0 +1,28 @@
+LOOKUP uurR
+INSERT y6NuL number
+INSERT ySbgU2 string
+RPRINT
+INSERT nzk number
+INSERT tKxqBq string
+INSERT dU number
+INSERT h7on string
+INSERT dOf string
+ASSIGN y6NuL ySbgU2
+INSERT dXP4U string
+PRINT
+BEGIN
+INSERT f4H number
+INSERT wmpR2 string
+END
+RPRINT
+INSERT u5Fhw string
+INSERT wl9m number
+LOOKUP u5Fhw
+INSERT vZ3MY number
+INSERT mwDJ number
+INSERT sYE4s string
+INSERT tyGq1 string
+INSERT yYV string
+BEGIN
+INSERT leGu number
+INSERT u string

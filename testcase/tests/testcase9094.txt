@@ -1,0 +1,3 @@
+PRINT
+INSERT l5v string
+END

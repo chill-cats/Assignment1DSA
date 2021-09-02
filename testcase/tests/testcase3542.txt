@@ -1,0 +1,35 @@
+INSERT voLC string
+BEGIN
+BEGIN
+lGc unUp
+INSERT e6nO number
+INSERT tpi string
+INSERT k number
+INSERT g number
+INSERT g number
+PRINT
+INSERT q number
+ASSIGN q g
+PRINT
+INSERT p string
+RPRINT
+INSERT oPxPb string
+INSERT o string
+INSERT p string
+RPRINT
+INSERT rWnFJv number
+INSERT aIM string
+INSERT s string
+INSERT yz4 number
+LOOKUP k
+BEGIN
+BEGIN
+LOOKUP tpi
+RPRINT
+INSERT vNHiG number
+INSERT uyH number
+x2EOXn o
+INSERT qd string
+ASSIGN aIM '7'
+INSERT f number
+INSERT ynW string

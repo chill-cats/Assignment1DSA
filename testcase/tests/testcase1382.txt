@@ -1,0 +1,15 @@
+INSERT rrr5 string
+BEGIN
+LOOKUP rrr5
+PRINT
+INSERT sB3y string
+INSERT x number
+INSERT b5Egg number
+PRINT
+INSERT chZCf number
+LOOKUP chZCf
+END
+INSERT iF8bw number
+END
+PRINT
+INSERT z3xi4L string

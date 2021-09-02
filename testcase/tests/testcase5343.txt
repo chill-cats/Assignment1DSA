@@ -1,0 +1,36 @@
+INSERT cf_An0 string
+INSERT m number
+INSERT mYFO string
+INSERT u string
+INSERT ebf string
+PRINT
+INSERT uAcaLY string
+INSERT bOuPV string
+LOOKUP m
+INSERT f9za number
+INSERT j4 string
+INSERT gEeyd number
+INSERT cOU number
+PRINT
+INSERT v string
+lkz paHFv
+INSERT mt string
+END
+BEGIN
+INSERT im number
+END
+INSERT yFhB string
+RPRINT
+INSERT bPEv string
+RPRINT
+INSERT bO number
+INSERT cHG number
+LOOKUP mt
+INSERT xP0 number
+INSERT nyFsCa number
+ASSIGN nyFsCa 'E4'
+INSERT pnt0Mh string
+PRINT
+ASSIGN cOU bOuPV
+INSERT e16Xt string
+BEGIN

@@ -1,0 +1,6 @@
+INSERT vsI number
+INSERT d0S number
+INSERT li string
+LOOKUP li
+INSERT hJWWt string
+kyK i6

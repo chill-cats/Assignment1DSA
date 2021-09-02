@@ -1,0 +1,9 @@
+INSERT ja number
+v_vWFZ qef4LM
+INSERT miI string
+INSERT p number
+INSERT km number
+RPRINT
+RPRINT
+PRINT
+RPRINT

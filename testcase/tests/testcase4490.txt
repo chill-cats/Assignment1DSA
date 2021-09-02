@@ -1,0 +1,38 @@
+ASSIGN s7ufo 85
+g bu
+END
+END
+INSERT bfKa number
+INSERT yMGnQ number
+ASSIGN yMGnQ 'sppBX'
+PRINT
+INSERT qPTC string
+INSERT nK0Gr string
+END
+INSERT sPmQU number
+LOOKUP sPmQU
+ASSIGN bfKa qPTC
+BEGIN
+PRINT
+INSERT wKRBJ number
+ASSIGN nK0Gr 'qufqm'
+LOOKUP nK0Gr
+k_P8mv w0GyHJ
+INSERT ciN5u string
+INSERT m2d5x string
+INSERT d number
+INSERT rEjKA number
+INSERT pCzm string
+RPRINT
+INSERT ywg number
+INSERT b number
+PRINT
+INSERT c014C number
+PRINT
+ASSIGN wKRBJ 'KT2'
+ASSIGN b 'w7tsL'
+INSERT gcU0MK string
+INSERT aOjVR string
+INSERT lI number
+INSERT wHLQ string
+INSERT p string

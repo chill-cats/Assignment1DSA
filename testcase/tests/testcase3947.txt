@@ -1,0 +1,34 @@
+LOOKUP bcSK99
+ASSIGN fe '7W'
+BEGIN
+INSERT kPg number
+INSERT tgF string
+RPRINT
+INSERT jhp string
+RPRINT
+INSERT gck2Bj number
+INSERT yS8h_ number
+INSERT oHw number
+RPRINT
+ASSIGN gck2Bj kPg
+INSERT is0jvD string
+LOOKUP kPg
+INSERT nDvyDu string
+INSERT xJSCn string
+INSERT u7B number
+INSERT yO number
+INSERT gd number
+INSERT dmX number
+INSERT ri number
+d bO2
+INSERT wu8FH number
+INSERT phZJ string
+ASSIGN wu8FH dmX
+INSERT y string
+RPRINT
+BEGIN
+INSERT iyezx string
+INSERT m9_VI number
+INSERT ew7w string
+INSERT yEb string
+ASSIGN m9_VI 'ae'

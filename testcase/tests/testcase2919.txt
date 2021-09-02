@@ -1,0 +1,33 @@
+BEGIN
+INSERT ycXm string
+INSERT u string
+INSERT gXZ string
+INSERT pN number
+INSERT jyr string
+BEGIN
+INSERT jchHKk string
+INSERT l string
+INSERT qOT string
+INSERT po6nb_ string
+INSERT sX1 string
+ASSIGN jchHKk 'mi0O'
+INSERT k8ZLD string
+INSERT uH string
+INSERT ufE string
+INSERT rJ number
+INSERT qe number
+INSERT oJz number
+BEGIN
+END
+INSERT up number
+END
+PRINT
+INSERT tiF string
+INSERT mn3 number
+LOOKUP u
+LOOKUP pN
+INSERT uD string
+INSERT tmZp6 string
+ASSIGN up 'fRvF'
+ASSIGN oJz l
+END

@@ -1,0 +1,38 @@
+INSERT ijw39 string
+BEGIN
+ASSIGN ijw39 ijw39
+INSERT oN number
+ASSIGN ijw39 'V'
+INSERT k number
+INSERT coaNAk string
+INSERT vgl04 number
+END
+INSERT x string
+INSERT qdSslU string
+INSERT yVU5 string
+INSERT fFyn number
+sRN0 vRG
+INSERT bv string
+PRINT
+END
+fDC h
+INSERT n number
+INSERT z_ string
+INSERT o string
+INSERT g8SdO number
+INSERT s string
+INSERT wZBC string
+INSERT gb9A number
+END
+LOOKUP k
+INSERT y string
+INSERT tF8 string
+RPRINT
+INSERT n2cxY string
+INSERT lndKR number
+INSERT y_j_fe string
+INSERT bIz string
+INSERT yGi number
+LOOKUP g8SdO
+INSERT iVb string
+RPRINT

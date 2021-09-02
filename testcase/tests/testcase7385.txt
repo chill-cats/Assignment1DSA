@@ -1,0 +1,32 @@
+INSERT p string
+INSERT vEd number
+LOOKUP vEd
+INSERT dK string
+INSERT h7T string
+ASSIGN vEd dK
+INSERT j number
+INSERT dYiIhk string
+INSERT yG number
+INSERT f string
+RPRINT
+PRINT
+INSERT m6t_hi number
+INSERT yvD string
+LOOKUP whf
+INSERT nc number
+sZ krv2
+INSERT zsA string
+BEGIN
+INSERT vI6cP number
+ASSIGN nc 1122
+ASSIGN dK yvD
+ASSIGN dYiIhk 752
+INSERT v6n9 number
+INSERT yP8 number
+INSERT iXC4 number
+INSERT h_ string
+INSERT pbUoa number
+s n_YzA
+RPRINT
+INSERT daGiZ string
+INSERT zDp string

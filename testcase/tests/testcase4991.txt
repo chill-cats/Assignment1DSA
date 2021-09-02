@@ -1,0 +1,40 @@
+BEGIN
+LOOKUP oVMue
+LOOKUP dy
+BEGIN
+INSERT c string
+RPRINT
+INSERT os_0b string
+END
+INSERT to3Z number
+LOOKUP to3Z
+INSERT gVhI string
+INSERT hCGMe number
+INSERT awv number
+INSERT qCWp string
+LOOKUP qCWp
+INSERT p string
+INSERT o number
+ASSIGN p o
+INSERT pFptn string
+INSERT zppo1 number
+INSERT w string
+INSERT hKn0 string
+INSERT tboN7 number
+INSERT d string
+INSERT vzjIr string
+INSERT c number
+BEGIN
+RPRINT
+INSERT rv number
+ASSIGN os_0b tboN7
+INSERT nWaqPG number
+INSERT jtKZpu string
+INSERT t string
+INSERT n number
+LOOKUP qCWp
+INSERT wfGC number
+RPRINT
+INSERT yNa number
+INSERT zsoC8 string
+INSERT t0mD string

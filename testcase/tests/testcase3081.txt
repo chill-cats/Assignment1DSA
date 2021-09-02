@@ -1,0 +1,18 @@
+INSERT fVism string
+INSERT vV string
+LOOKUP vV
+INSERT jj29 number
+INSERT vOA0Z number
+INSERT hUJU8 string
+INSERT yXJX9p string
+INSERT fUkeda number
+INSERT nS98B string
+END
+RPRINT
+ASSIGN fUkeda '72'
+INSERT o number
+INSERT x number
+INSERT zUo string
+uJ2Y ankd6
+INSERT isqS number
+t7DYRy n

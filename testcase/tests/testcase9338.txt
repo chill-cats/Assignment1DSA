@@ -1,0 +1,7 @@
+ASSIGN qh9 'q5yjc'
+RPRINT
+INSERT jGw string
+INSERT ov string
+END
+INSERT mpwLd number
+INSERT s number

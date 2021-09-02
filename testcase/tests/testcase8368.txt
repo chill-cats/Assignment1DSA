@@ -1,0 +1,25 @@
+INSERT md number
+INSERT cftPzN number
+INSERT d1J string
+INSERT sL string
+LOOKUP sL
+INSERT h7f35 string
+INSERT oCdLs string
+ASSIGN sL d1J
+BEGIN
+INSERT t2x string
+ASSIGN md t2x
+BEGIN
+INSERT hZaNkc number
+INSERT mhlK string
+INSERT ugOqTT number
+wAngc r
+INSERT o number
+ASSIGN ugOqTT 557
+BEGIN
+INSERT asy3 number
+BEGIN
+ASSIGN mhlK 276
+INSERT x_exS number
+INSERT auKo8 string
+INSERT amvOyt number

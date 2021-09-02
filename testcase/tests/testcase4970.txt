@@ -1,0 +1,6 @@
+BEGIN
+BEGIN
+INSERT i number
+un oTNH
+INSERT dZ string
+PRINT

@@ -1,0 +1,30 @@
+INSERT g91it string
+INSERT wdJmt string
+INSERT n_2XE number
+INSERT wu7W8K string
+BEGIN
+INSERT e1nEB number
+BEGIN
+INSERT uwWv number
+INSERT c6w6 string
+INSERT jJXw number
+INSERT hHe string
+INSERT l96KY number
+LOOKUP e1nEB
+PRINT
+INSERT j6 number
+INSERT urWGMe number
+PRINT
+RPRINT
+BEGIN
+INSERT x1VkW string
+RPRINT
+INSERT mE3MXO string
+INSERT ufmdA number
+END
+INSERT oG number
+INSERT jyjY number
+PRINT
+INSERT qxtT string
+INSERT mT number
+BEGIN

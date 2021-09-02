@@ -1,0 +1,28 @@
+RPRINT
+INSERT zz string
+INSERT fZ number
+INSERT uY string
+RPRINT
+INSERT dQ number
+ASSIGN fZ 1084
+BEGIN
+RPRINT
+INSERT maYvk string
+BEGIN
+INSERT fgUKH number
+INSERT hzZBU number
+INSERT p string
+INSERT t1RKQ string
+INSERT dUH5 number
+RPRINT
+r rOuTbB
+INSERT pxrMF string
+INSERT qjnNt number
+BEGIN
+BEGIN
+INSERT wq number
+INSERT sr string
+INSERT hwt string
+bQ1yAp bi
+INSERT i number
+INSERT nW string

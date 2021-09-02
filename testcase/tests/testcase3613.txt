@@ -1,0 +1,40 @@
+INSERT cmDVL string
+INSERT c number
+INSERT wy string
+INSERT s number
+INSERT olt string
+BEGIN
+INSERT cSt5 number
+INSERT t number
+INSERT b39M number
+INSERT dt number
+INSERT b6i_dn string
+ASSIGN b6i_dn 'S'
+INSERT n number
+INSERT o string
+INSERT wy string
+INSERT esal number
+INSERT hPP number
+BEGIN
+INSERT i4f string
+BEGIN
+INSERT y1U number
+INSERT mBkD0 string
+u0H nxHL1
+INSERT elqM2Y number
+LOOKUP b6i_dn
+INSERT b number
+END
+INSERT j string
+ASSIGN dt 156
+INSERT h7Wik string
+INSERT yMTsAF number
+INSERT h string
+INSERT cVIrS number
+INSERT mPZ4 number
+BEGIN
+BEGIN
+zq1f bu
+INSERT o6d number
+INSERT eFabBM number
+INSERT k string

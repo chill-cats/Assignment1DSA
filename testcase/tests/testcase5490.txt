@@ -1,0 +1,24 @@
+INSERT x2KcuT string
+INSERT xN_yn string
+INSERT iKqM number
+INSERT r0W number
+quAu kLIIw0
+ASSIGN iKqM x2KcuT
+INSERT j8W number
+iBw5x eCe
+INSERT oHr string
+RPRINT
+INSERT nnW number
+ASSIGN iKqM 'QJ'
+INSERT yWUC8K string
+LOOKUP xN_yn
+INSERT j number
+INSERT jL number
+BEGIN
+RPRINT
+ASSIGN j8W x2KcuT
+INSERT v4pkz number
+INSERT z string
+PRINT
+LOOKUP iKqM
+INSERT j_Ya8a number

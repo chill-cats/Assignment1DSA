@@ -1,0 +1,21 @@
+ASSIGN zMHEnR 'Ln'
+INSERT laZ number
+INSERT nMnQ string
+INSERT hyarh number
+INSERT y number
+LOOKUP y
+ASSIGN hyarh 'z76'
+PRINT
+INSERT kGM string
+BEGIN
+ASSIGN y kGM
+LOOKUP yDm0Fb
+INSERT xDnm string
+INSERT c string
+LOOKUP laZ
+END
+INSERT qQ number
+INSERT obzVB4 string
+INSERT v string
+INSERT oF number
+INSERT u number

@@ -1,0 +1,39 @@
+RPRINT
+INSERT e string
+INSERT iXuIwP number
+PRINT
+INSERT zB number
+INSERT c0J5 string
+INSERT g5 number
+INSERT vng string
+INSERT tbVilk number
+ASSIGN e 540
+INSERT pIcuE number
+INSERT eEUpE string
+INSERT i0 string
+INSERT oO string
+INSERT yPa number
+INSERT ivZAh7 string
+INSERT wK string
+ASSIGN e 426
+ASSIGN tbVilk oO
+END
+PRINT
+INSERT tVQf number
+INSERT a string
+INSERT j number
+BEGIN
+INSERT yriI number
+INSERT avt number
+INSERT k08 number
+INSERT n number
+INSERT qZa number
+INSERT oo6fl number
+PRINT
+INSERT inwVNH string
+BEGIN
+ASSIGN c0J5 eEUpE
+LOOKUP qZa
+LOOKUP g5
+BEGIN
+BEGIN

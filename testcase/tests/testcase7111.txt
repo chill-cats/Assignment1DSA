@@ -1,0 +1,28 @@
+LOOKUP qEIfD
+INSERT w string
+END
+RPRINT
+INSERT v number
+INSERT q number
+INSERT kYKnZh number
+LOOKUP v
+INSERT ys4 number
+PRINT
+INSERT xUrc string
+INSERT hQ string
+RPRINT
+PRINT
+INSERT m7Du number
+INSERT nY number
+INSERT r8 string
+INSERT c number
+INSERT nTrB string
+RPRINT
+LOOKUP c
+INSERT o5MmxE number
+BEGIN
+INSERT t string
+uv nd
+INSERT iYX number
+END
+END

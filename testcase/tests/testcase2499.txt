@@ -1,0 +1,36 @@
+END
+LOOKUP h
+INSERT weU number
+END
+INSERT bS number
+edD gJi
+END
+RPRINT
+PRINT
+INSERT v2l string
+INSERT pko string
+BEGIN
+y kAS
+INSERT tdws string
+INSERT sV string
+INSERT zHJEH string
+INSERT jkvvE number
+INSERT j number
+INSERT h string
+INSERT cxsr string
+INSERT tWwoT number
+ASSIGN weU 923
+ryTJ6M o
+PRINT
+INSERT f6tBb string
+INSERT b number
+INSERT v number
+INSERT fNXNB number
+INSERT mzIKq number
+INSERT zPdkR number
+INSERT c string
+INSERT ptc number
+ASSIGN zPdkR 'j'
+RPRINT
+INSERT bQf_xu number
+END

@@ -1,0 +1,16 @@
+INSERT cI1 string
+jO pc8
+ASSIGN cI1 906
+LOOKUP cI1
+RPRINT
+LOOKUP cI1
+LOOKUP ip
+INSERT w7FFCh string
+INSERT faRZE number
+nfW9Ch p_P_F
+vxb v
+BEGIN
+LOOKUP cI1
+INSERT a1EU string
+ASSIGN w7FFCh 1102
+INSERT rb number

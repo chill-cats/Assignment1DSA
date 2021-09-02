@@ -1,0 +1,8 @@
+INSERT nBzd6D string
+INSERT rng number
+LOOKUP rng
+ASSIGN rng 575
+BEGIN
+END
+INSERT nDf number
+BEGIN

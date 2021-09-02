@@ -1,0 +1,7 @@
+INSERT awVDM string
+INSERT eYaniE string
+INSERT uc8y6a number
+PRINT
+BEGIN
+LOOKUP awVDM
+INSERT mlG8q number

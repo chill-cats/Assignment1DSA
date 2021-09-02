@@ -1,0 +1,13 @@
+INSERT v8 string
+INSERT bQH6xn number
+INSERT lZfoz number
+LOOKUP lZfoz
+INSERT xax8d string
+INSERT ibtH number
+ASSIGN lZfoz 'SQ'
+ASSIGN lZfoz lZfoz
+INSERT sF2gi number
+INSERT fHOK number
+INSERT z number
+gV v
+INSERT nvq55 number

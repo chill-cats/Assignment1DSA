@@ -1,0 +1,37 @@
+LOOKUP yoho
+ASSIGN q1m9t 'KXAEN'
+INSERT v number
+INSERT m4 string
+INSERT ePTv number
+BEGIN
+INSERT o3k string
+INSERT yhx2m string
+INSERT dbJ8SW string
+INSERT h9CxxJ number
+INSERT xWPzb number
+INSERT o9_7b string
+LOOKUP o3k
+INSERT e string
+INSERT aaaXHJ number
+INSERT qLLPI8 number
+INSERT r9Z4q string
+RPRINT
+INSERT tk number
+INSERT tY8u string
+BEGIN
+INSERT zf number
+INSERT yN string
+INSERT pN string
+INSERT h1e2 string
+ASSIGN dbJ8SW 'R8'
+INSERT dqW9sy number
+INSERT b2amMH string
+INSERT eJfzGH number
+RPRINT
+LOOKUP m4
+PRINT
+INSERT ykN string
+PRINT
+INSERT sJ8QH number
+INSERT pSPAQ number
+INSERT foPlX string

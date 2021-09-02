@@ -1,0 +1,5 @@
+INSERT xkBL number
+INSERT vzM string
+PRINT
+PRINT
+ASSIGN xkBL 277

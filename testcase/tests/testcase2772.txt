@@ -1,0 +1,12 @@
+INSERT x9bYZk string
+INSERT b number
+ASSIGN x9bYZk 'b'
+PRINT
+RPRINT
+ASSIGN x9bYZk 260
+END
+RPRINT
+END
+INSERT bZ number
+INSERT l number
+INSERT h number

@@ -1,0 +1,39 @@
+wIFZ0 r
+ASSIGN yyf 459
+INSERT qM17_n string
+INSERT gQerw number
+ASSIGN qM17_n 19
+PRINT
+ASSIGN gQerw 'VAwfp'
+INSERT yLDP9T number
+INSERT hNJG string
+INSERT w number
+INSERT soMOTe number
+PRINT
+INSERT wEn string
+PRINT
+ASSIGN gQerw hNJG
+PRINT
+INSERT jkYFy string
+PRINT
+INSERT bNVk string
+INSERT dHOUc8 string
+INSERT qVoPdt number
+INSERT r number
+INSERT cSBIC string
+LOOKUP cSBIC
+RPRINT
+INSERT w number
+END
+INSERT mj string
+INSERT twRv string
+INSERT k6ZmlG string
+INSERT ljwz string
+END
+INSERT kBPW string
+INSERT cKlSO number
+INSERT gZC0 string
+INSERT sr1 number
+INSERT jFsx number
+INSERT vXfMwL string
+INSERT vXz number

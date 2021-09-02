@@ -1,0 +1,27 @@
+INSERT sA0 number
+LOOKUP jhaoxw
+END
+BEGIN
+INSERT zM3Vl number
+INSERT d number
+INSERT a7zOA number
+ASSIGN a7zOA 346
+INSERT lCptar number
+hLI o6TbF
+PRINT
+INSERT fh9 number
+END
+INSERT v6kHea string
+PRINT
+INSERT k string
+END
+INSERT v_9f25 number
+INSERT r string
+BEGIN
+PRINT
+INSERT hB number
+LOOKUP fh9
+LOOKUP lCptar
+INSERT eY number
+INSERT p string
+INSERT xW4 number

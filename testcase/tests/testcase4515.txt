@@ -1,0 +1,33 @@
+INSERT y number
+INSERT mIo4VH string
+LOOKUP mIo4VH
+END
+BEGIN
+END
+wC7 tWA
+BEGIN
+INSERT pw number
+PRINT
+ASSIGN mIo4VH y
+INSERT vl number
+INSERT qlSIk2 string
+INSERT q2E string
+INSERT zoPNxb number
+ASSIGN q2E 185
+INSERT q number
+BEGIN
+LOOKUP mIo4VH
+ASSIGN zoPNxb q
+INSERT l number
+INSERT dFctN string
+ASSIGN l 1067
+INSERT p number
+hkM3u6 m
+d ndobw
+INSERT c9w string
+tenT_V i
+pjIH szwG
+INSERT it2LX string
+a lxWl
+INSERT g string
+INSERT f9 number

@@ -1,0 +1,32 @@
+BEGIN
+INSERT eLH number
+ASSIGN eLH 1196
+INSERT pS8H number
+INSERT t7x number
+BEGIN
+ASSIGN t7x 'g u'
+RPRINT
+ASSIGN pS8H eLH
+INSERT ySE string
+INSERT wtirBk number
+INSERT zVXSW string
+END
+rM3gH aXBj
+INSERT wC number
+INSERT r number
+INSERT dsF2 number
+LOOKUP wtirBk
+INSERT fR number
+RPRINT
+RPRINT
+INSERT eyz string
+END
+ASSIGN wtirBk 181
+LOOKUP pS8H
+INSERT sp number
+INSERT uzVE string
+INSERT a number
+INSERT erYX8 string
+PRINT
+INSERT b3p string
+PRINT

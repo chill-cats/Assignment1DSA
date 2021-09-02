@@ -1,0 +1,16 @@
+BEGIN
+INSERT fq string
+INSERT f2P number
+INSERT idIcTt number
+INSERT igvlM string
+INSERT uFElQ string
+INSERT xbX string
+END
+LOOKUP idIcTt
+INSERT bZnvUw number
+RPRINT
+INSERT hMLO number
+ASSIGN fq 195
+INSERT rpY number
+INSERT gQ number
+INSERT sQs string

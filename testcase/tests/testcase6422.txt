@@ -1,0 +1,27 @@
+INSERT iJfslr number
+INSERT iUmQe7 string
+BEGIN
+ASSIGN iJfslr 745
+PRINT
+INSERT j string
+INSERT ryT number
+INSERT j number
+INSERT p28Nl string
+INSERT j number
+INSERT tLG number
+END
+INSERT aR string
+PRINT
+RPRINT
+RPRINT
+PRINT
+PRINT
+INSERT f4_ number
+INSERT a3pH string
+PRINT
+INSERT keIVR string
+ASSIGN keIVR keIVR
+INSERT cQFN number
+INSERT y0Q2xd number
+INSERT hZTS5 string
+INSERT aQVUa number

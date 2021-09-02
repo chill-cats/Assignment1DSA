@@ -1,0 +1,14 @@
+INSERT mKh number
+INSERT pNL number
+INSERT vFc number
+ASSIGN mKh pNL
+INSERT gGbMd string
+RPRINT
+END
+wXMvz fTnqW
+INSERT zkTc number
+INSERT tM4 string
+BEGIN
+INSERT xP6UE string
+xee hTQjWm
+RPRINT

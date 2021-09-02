@@ -1,0 +1,31 @@
+INSERT gxR number
+RPRINT
+INSERT xG2 number
+END
+INSERT aE7 string
+INSERT a1 string
+INSERT czD string
+INSERT mXQnI3 string
+END
+RPRINT
+INSERT fljkN string
+gL iS
+LOOKUP mXQnI3
+INSERT e number
+INSERT jG6jAN string
+INSERT o48 string
+BEGIN
+INSERT dKw string
+ASSIGN aE7 'Woo'
+INSERT wwxL number
+INSERT iMwL number
+INSERT o number
+INSERT hm9tl number
+INSERT s_ number
+INSERT lO4OqX number
+INSERT vq string
+INSERT y number
+INSERT sdXF string
+INSERT gzHT string
+INSERT lHJG1 string
+LOOKUP hm9tl

@@ -1,0 +1,6 @@
+RPRINT
+INSERT eav2 number
+END
+INSERT o488 string
+INSERT uuW number
+INSERT uEq string

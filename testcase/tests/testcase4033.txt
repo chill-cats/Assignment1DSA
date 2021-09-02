@@ -1,0 +1,40 @@
+END
+INSERT yE number
+INSERT fRvnxX number
+INSERT k0liXc string
+INSERT ouwZ string
+INSERT n9C number
+INSERT iXb9U number
+INSERT j string
+INSERT jXT2r string
+INSERT agGB93 string
+INSERT ew string
+LOOKUP agGB93
+INSERT jM9j string
+INSERT z string
+INSERT e8 number
+INSERT sU6 number
+INSERT z61 number
+INSERT xk number
+INSERT kuGAu string
+INSERT eO number
+INSERT qwJOG number
+INSERT bQ string
+INSERT crs4ro string
+INSERT eyN string
+INSERT szlM string
+INSERT bk_S number
+INSERT mT string
+END
+ASSIGN bQ 369
+ASSIGN mT 664
+END
+INSERT iBYVTI string
+ASSIGN n9C z
+RPRINT
+INSERT pd string
+INSERT tktLz number
+PRINT
+BEGIN
+INSERT g number
+RPRINT

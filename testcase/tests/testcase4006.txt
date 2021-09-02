@@ -1,0 +1,16 @@
+INSERT quXY number
+INSERT l5Q string
+INSERT lT1 number
+ASSIGN l5Q 22
+INSERT wOX string
+INSERT mK2 string
+INSERT xjH_m number
+INSERT aeZ8 number
+INSERT tIpl number
+RPRINT
+END
+INSERT pCy string
+BEGIN
+ASSIGN l5Q xjH_m
+INSERT wQC number
+INSERT ts9N string

@@ -1,0 +1,4 @@
+INSERT tsJ4_a string
+INSERT m55rT string
+INSERT nOunt number
+ASSIGN tsJ4_a '26'

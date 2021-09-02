@@ -1,0 +1,4 @@
+INSERT lDhoau number
+LOOKUP lDhoau
+d tLD
+g9C x

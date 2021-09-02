@@ -1,0 +1,5 @@
+INSERT d number
+INSERT cFbSK string
+RPRINT
+yz1XE arNocz
+PRINT

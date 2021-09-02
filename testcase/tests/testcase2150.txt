@@ -1,0 +1,26 @@
+INSERT vVLwT string
+INSERT fG string
+INSERT dE number
+INSERT oh string
+INSERT yS string
+INSERT kcp number
+INSERT iZ string
+ASSIGN o9XmNd 'lx'
+INSERT b string
+ASSIGN kcp dE
+RPRINT
+INSERT pY5R string
+INSERT dec string
+INSERT e number
+BEGIN
+INSERT y string
+LOOKUP y
+RPRINT
+INSERT h7 number
+INSERT tQg number
+INSERT xp0r number
+INSERT nsZd string
+INSERT x3YCJ string
+PRINT
+LOOKUP dec
+INSERT xc number

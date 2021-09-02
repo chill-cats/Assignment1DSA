@@ -1,0 +1,36 @@
+LOOKUP vHRI
+INSERT jb number
+INSERT j6S string
+INSERT rZcjx0 number
+ASSIGN jb 827
+PRINT
+INSERT wTmn string
+INSERT cJ5 string
+INSERT bAO number
+INSERT y string
+rw mb
+INSERT gOM number
+INSERT xv number
+INSERT dmMMFs number
+ASSIGN rZcjx0 'N'
+INSERT mCl number
+INSERT dXujw1 number
+ASSIGN dXujw1 '0I'
+INSERT vi number
+INSERT pAJ string
+INSERT miKD string
+LOOKUP dmMMFs
+INSERT d string
+ASSIGN pAJ 'u'
+INSERT bGmlBX number
+INSERT xHl string
+PRINT
+INSERT dt string
+RPRINT
+INSERT cD string
+INSERT fPg string
+INSERT gXd number
+ASSIGN j6S 444
+INSERT aLhgX string
+INSERT s9jlw string
+END

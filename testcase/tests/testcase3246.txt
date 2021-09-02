@@ -1,0 +1,5 @@
+BEGIN
+INSERT cFuts string
+BEGIN
+INSERT h79 string
+LOOKUP h79

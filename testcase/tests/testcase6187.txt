@@ -1,0 +1,8 @@
+INSERT yR2v string
+BEGIN
+RPRINT
+LOOKUP yR2v
+END
+END
+r n
+INSERT tH string

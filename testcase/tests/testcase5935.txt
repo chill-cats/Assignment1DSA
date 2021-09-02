@@ -1,0 +1,38 @@
+INSERT h4LM string
+END
+RPRINT
+INSERT v0P string
+INSERT rfp string
+BEGIN
+END
+xSn eW
+LOOKUP h4LM
+INSERT oP0 string
+INSERT x number
+INSERT i9B0C string
+INSERT rCPw number
+pZ j40pCS
+INSERT hkL string
+INSERT k string
+INSERT qTGnqE string
+INSERT lemCD number
+INSERT b_d string
+INSERT kTC2ZT number
+e81aUe o1Tz
+s3 y7U
+INSERT mBBB3 string
+zs3X h
+INSERT cCrl number
+INSERT tkCHS string
+INSERT qXh number
+PRINT
+LOOKUP cCrl
+RPRINT
+INSERT yn32C number
+LOOKUP k
+INSERT lwaZff number
+ASSIGN h4LM 364
+INSERT x1 number
+INSERT pWh number
+INSERT tI number
+ASSIGN cCrl 'AL'

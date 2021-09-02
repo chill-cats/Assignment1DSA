@@ -1,0 +1,20 @@
+INSERT hS5Jnb number
+LOOKUP hS5Jnb
+INSERT wcIAnF number
+LOOKUP wcIAnF
+LOOKUP wcIAnF
+o e
+ASSIGN wcIAnF 185
+INSERT o8m number
+INSERT o3f string
+PRINT
+INSERT cT6Dh number
+PRINT
+INSERT bxTj string
+LOOKUP o3f
+INSERT sb number
+INSERT vPVWz number
+INSERT r1Q7 number
+INSERT vzE4D number
+INSERT e string
+INSERT burT number

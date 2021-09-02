@@ -1,0 +1,6 @@
+daOjb m
+LOOKUP rne_
+INSERT cjn string
+PRINT
+INSERT s string
+END

@@ -1,0 +1,9 @@
+INSERT d_g4 string
+PRINT
+INSERT gbXR string
+RPRINT
+INSERT kL number
+BEGIN
+r8isE cu
+INSERT s6Qjq string
+END

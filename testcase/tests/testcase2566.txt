@@ -1,0 +1,25 @@
+INSERT cW76D string
+INSERT qeo0 number
+INSERT hbz number
+LOOKUP qeo0
+ASSIGN qeo0 'un'
+INSERT va string
+INSERT hK70O string
+ASSIGN hbz 658
+INSERT vX string
+BEGIN
+ASSIGN qeo0 hK70O
+INSERT x string
+ASSIGN cW76D va
+INSERT yRb string
+BEGIN
+INSERT d04gu number
+INSERT x7TtRF number
+INSERT ha4H string
+INSERT sPQ5EO number
+INSERT wQHE number
+INSERT n number
+RPRINT
+INSERT uIgTj number
+INSERT qB1 number
+ASSIGN sPQ5EO 81

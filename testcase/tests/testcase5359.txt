@@ -1,0 +1,4 @@
+INSERT ihXXmp string
+BEGIN
+INSERT l6 string
+END

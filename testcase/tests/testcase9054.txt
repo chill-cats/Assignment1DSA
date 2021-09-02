@@ -1,0 +1,11 @@
+INSERT ppMT7F string
+INSERT s number
+INSERT ru number
+INSERT sm number
+ASSIGN s sm
+INSERT gog number
+END
+zlq uoF7
+INSERT y5J string
+INSERT kupRx number
+INSERT hdCj string

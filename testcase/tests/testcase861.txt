@@ -1,0 +1,19 @@
+kN s
+o5RF tn
+INSERT s0C number
+INSERT yvc number
+w efWH9
+PRINT
+END
+BEGIN
+INSERT e2 number
+INSERT p9 number
+INSERT w_ string
+PRINT
+INSERT bX number
+LOOKUP bX
+INSERT aKJI number
+PRINT
+PRINT
+INSERT xS7 number
+BEGIN

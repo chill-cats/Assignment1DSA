@@ -1,0 +1,37 @@
+LOOKUP j
+PRINT
+ASSIGN itAg 'd9Kk'
+INSERT bmkF number
+INSERT r number
+INSERT cV number
+INSERT rf number
+INSERT sBATi number
+INSERT xBoei string
+INSERT uF number
+RPRINT
+PRINT
+INSERT djOoS number
+INSERT md3O4 number
+INSERT n string
+INSERT cXpQa number
+hsLRB2 h06N
+INSERT yLZ7 number
+INSERT oW string
+INSERT w number
+RPRINT
+LOOKUP w
+INSERT lj number
+LOOKUP cXpQa
+INSERT gEFu string
+INSERT qwAY string
+INSERT yNSK number
+BEGIN
+INSERT g9tzm string
+INSERT sM4 string
+INSERT od string
+INSERT meHmkp string
+PRINT
+ASSIGN oW 'GQHWC'
+RPRINT
+BEGIN
+INSERT tTU string

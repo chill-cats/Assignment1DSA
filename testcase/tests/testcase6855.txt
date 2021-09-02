@@ -1,0 +1,8 @@
+INSERT n1Uyf5 number
+INSERT d2Bi number
+END
+INSERT hPK number
+lyPB h
+INSERT vs number
+PRINT
+INSERT m6Wk string

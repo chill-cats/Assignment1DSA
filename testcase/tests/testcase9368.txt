@@ -1,0 +1,9 @@
+END
+INSERT a37KI number
+END
+INSERT lw5WWS string
+ASSIGN a37KI 'r8'
+RPRINT
+END
+PRINT
+INSERT sa string

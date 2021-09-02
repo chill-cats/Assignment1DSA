@@ -1,0 +1,39 @@
+INSERT nqvD string
+INSERT f71 string
+INSERT k number
+INSERT u string
+BEGIN
+INSERT sDm7 number
+INSERT o6 number
+INSERT utNJ string
+LOOKUP sDm7
+ASSIGN utNJ o6
+ecK_ e
+LOOKUP sDm7
+INSERT thv string
+INSERT y string
+INSERT soah string
+END
+RPRINT
+INSERT pcjOBz string
+INSERT w2 string
+END
+INSERT byzR9 string
+INSERT y number
+PRINT
+socc p
+INSERT viKVbk string
+END
+INSERT ayqc string
+INSERT sD string
+u1Gg7A jkaKl
+INSERT rU number
+ASSIGN ayqc 668
+INSERT hM string
+INSERT y3YPLz number
+INSERT vpoc number
+END
+INSERT ey number
+LOOKUP f71
+PRINT
+INSERT y number

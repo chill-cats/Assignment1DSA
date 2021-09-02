@@ -1,0 +1,24 @@
+INSERT axuH string
+INSERT yDB number
+INSERT xECCWS string
+INSERT jOJO number
+INSERT u1gU string
+PRINT
+ASSIGN u1gU 628
+RPRINT
+INSERT bfg string
+INSERT e0 number
+INSERT uR string
+INSERT k number
+INSERT lzic string
+INSERT haGzf number
+INSERT bo string
+INSERT ts string
+INSERT z number
+PRINT
+INSERT nK1tTS number
+INSERT mQjr number
+INSERT nZH_ string
+INSERT iI string
+INSERT gxdi number
+INSERT iBz number

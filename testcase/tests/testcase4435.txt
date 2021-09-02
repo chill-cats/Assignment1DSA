@@ -1,0 +1,9 @@
+RPRINT
+PRINT
+BEGIN
+ASSIGN o 'd'
+INSERT mspLn number
+INSERT a216N number
+INSERT bne number
+INSERT w0z04y string
+INSERT f number

@@ -1,0 +1,6 @@
+INSERT cjwNR number
+INSERT k string
+INSERT y3e string
+ASSIGN k 'Ii'
+RPRINT
+INSERT acB7vb number

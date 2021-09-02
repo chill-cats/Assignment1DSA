@@ -1,0 +1,7 @@
+BEGIN
+INSERT i number
+INSERT sk number
+RPRINT
+INSERT dw number
+BEGIN
+INSERT oS string

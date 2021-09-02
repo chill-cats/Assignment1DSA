@@ -1,0 +1,11 @@
+LOOKUP m6Yb
+INSERT dqD string
+INSERT mHjBW_ number
+INSERT fAoKMK number
+ASSIGN fAoKMK fAoKMK
+LOOKUP fAoKMK
+LOOKUP mHjBW_
+tv68bN fDmmC
+INSERT vQ string
+BEGIN
+INSERT aWjhDE string

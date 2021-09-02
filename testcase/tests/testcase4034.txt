@@ -1,0 +1,32 @@
+INSERT aBu_ number
+LOOKUP aBu_
+INSERT sB number
+ASSIGN aBu_ 945
+w kcj49
+INSERT ss3V number
+END
+INSERT aXM string
+INSERT b number
+INSERT is number
+INSERT dO number
+INSERT oB string
+INSERT wPt number
+END
+RPRINT
+PRINT
+INSERT bH_ number
+INSERT gAJ number
+INSERT q number
+INSERT i6A string
+ASSIGN ss3V 'kN6q'
+INSERT c6QL8 string
+PRINT
+nSIJz k
+gxFmqg wJ7
+INSERT svqv number
+RPRINT
+ASSIGN aBu_ 771
+INSERT kN number
+INSERT l6 string
+INSERT gD string
+INSERT wLf number

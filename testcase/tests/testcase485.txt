@@ -1,0 +1,6 @@
+INSERT wJuL string
+LOOKUP wJuL
+INSERT teZJSA number
+mp0B qp
+INSERT trlmo3 number
+INSERT u number

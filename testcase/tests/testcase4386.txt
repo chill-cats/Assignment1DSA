@@ -1,0 +1,14 @@
+INSERT gY string
+LOOKUP gY
+INSERT rNid8 string
+END
+INSERT m string
+INSERT l6b number
+LOOKUP gY
+INSERT yvm3 number
+INSERT lq number
+gQ_ mRS
+RPRINT
+INSERT vUR5Mq string
+END
+INSERT wxBm string

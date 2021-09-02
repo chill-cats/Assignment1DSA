@@ -1,0 +1,34 @@
+INSERT cHT_Y number
+INSERT z string
+INSERT fX7DM string
+INSERT qm string
+LOOKUP qm
+INSERT ji string
+eu iYG
+INSERT i number
+INSERT aO string
+INSERT o number
+INSERT h string
+ASSIGN h 'jrMt'
+INSERT j number
+RPRINT
+INSERT j4V number
+INSERT q string
+INSERT nK string
+ASSIGN j4V qm
+INSERT kH number
+INSERT qO number
+INSERT je string
+INSERT i8AdY string
+INSERT kc string
+BEGIN
+INSERT dMf5 number
+INSERT o number
+LOOKUP qO
+uXlHa x
+BEGIN
+p aah4c
+INSERT i string
+INSERT j9q number
+INSERT eOJ number
+INSERT x7 number

@@ -1,0 +1,9 @@
+INSERT y3 string
+ASSIGN y3 y3
+INSERT p0USY string
+INSERT aIrvu string
+ASSIGN y3 'h1k6'
+BEGIN
+INSERT pGqE0t string
+LOOKUP p0USY
+INSERT w1hnYH string

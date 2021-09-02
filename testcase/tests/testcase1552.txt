@@ -1,0 +1,40 @@
+LOOKUP cOxM
+INSERT ojJ number
+LOOKUP ojJ
+INSERT aEcq string
+END
+INSERT q9A number
+INSERT c string
+PRINT
+INSERT p number
+BEGIN
+INSERT siX number
+LOOKUP aEcq
+RPRINT
+END
+INSERT cz number
+ASSIGN c 'nH'
+ASSIGN cz 'v'
+INSERT n number
+INSERT p8N number
+INSERT yIdWEJ number
+END
+INSERT xK number
+RPRINT
+END
+LOOKUP cz
+PRINT
+INSERT zav string
+INSERT gG27wo number
+ASSIGN xK '4W5'
+INSERT b number
+RPRINT
+INSERT ziPt string
+INSERT g_e string
+tMx62 vcP
+LOOKUP p
+INSERT dxRv2l number
+INSERT q number
+ASSIGN n 'lzV'
+INSERT ysjxKR number
+INSERT j string

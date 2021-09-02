@@ -1,0 +1,7 @@
+INSERT kniq number
+INSERT y string
+v c
+BEGIN
+END
+INSERT cFILiN string
+INSERT rlzk number

@@ -1,0 +1,11 @@
+BEGIN
+INSERT xcuZL5 string
+END
+INSERT jsKx string
+INSERT jgSK string
+LOOKUP jgSK
+LOOKUP jsKx
+END
+INSERT nLOo string
+INSERT zf3P number
+INSERT rv number

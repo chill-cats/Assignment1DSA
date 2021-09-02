@@ -1,0 +1,21 @@
+INSERT pXg number
+END
+INSERT ceD string
+INSERT uT number
+INSERT y number
+INSERT is number
+END
+RPRINT
+INSERT aT2 number
+INSERT aWcn string
+LOOKUP is
+LOOKUP pXg
+LOOKUP aWcn
+INSERT l number
+RPRINT
+INSERT v number
+INSERT zRzxeF string
+INSERT sIPp string
+INSERT pQIPG number
+END
+INSERT ih number

@@ -1,0 +1,35 @@
+s1 k
+INSERT a string
+INSERT adNKqu string
+PRINT
+INSERT y number
+LOOKUP adNKqu
+INSERT k2R1A string
+INSERT vqMk string
+END
+INSERT qVfZag number
+INSERT zm string
+INSERT jaTDg string
+INSERT o string
+PRINT
+INSERT eY number
+PRINT
+INSERT e string
+INSERT whqR_ number
+INSERT uLp_B number
+LOOKUP uLp_B
+glevq mePg
+BEGIN
+INSERT az6e number
+INSERT hQ string
+INSERT kIIK string
+INSERT oC number
+INSERT b number
+INSERT eIpio string
+ASSIGN kIIK 'a'
+END
+INSERT wRb number
+RPRINT
+INSERT nsvm5b number
+PRINT
+INSERT b8c string

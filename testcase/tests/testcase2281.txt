@@ -1,0 +1,28 @@
+INSERT n string
+INSERT eRjThZ number
+PRINT
+INSERT hT number
+INSERT pUOD3 string
+INSERT nNkOh number
+INSERT tkGuV5 string
+euUp3 wiGuUG
+ASSIGN eRjThZ 'ARzn'
+INSERT ulvjz_ number
+INSERT dG string
+INSERT bQ4mT8 number
+END
+INSERT oOR number
+INSERT r number
+INSERT pjXko string
+INSERT dP99s number
+RPRINT
+PRINT
+BEGIN
+INSERT g2r number
+LOOKUP tkGuV5
+INSERT xGM string
+ASSIGN dP99s '2IHZ'
+END
+LOOKUP nNkOh
+ASSIGN n g2r
+ASSIGN nNkOh 697

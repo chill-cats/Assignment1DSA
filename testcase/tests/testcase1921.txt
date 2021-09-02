@@ -1,0 +1,9 @@
+INSERT x59dP number
+INSERT wnhB7 number
+INSERT dzYTmw number
+INSERT e1LH string
+LOOKUP dzYTmw
+INSERT izn5k number
+INSERT yDy4 string
+INSERT h string
+BEGIN

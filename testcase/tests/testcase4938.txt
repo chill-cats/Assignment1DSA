@@ -1,0 +1,36 @@
+LOOKUP d7
+INSERT p string
+ASSIGN p 'Qyb'
+PRINT
+PRINT
+INSERT cMG number
+INSERT jBfW string
+RPRINT
+LOOKUP xeRRmF
+INSERT cbwz string
+INSERT uqo8U number
+INSERT xTkAf string
+INSERT hCmiH number
+RPRINT
+INSERT yg8 number
+INSERT i string
+BEGIN
+INSERT wFqAv string
+INSERT n5lpq3 string
+INSERT qL6o number
+PRINT
+INSERT os string
+RPRINT
+INSERT oZ3ZgK number
+END
+RPRINT
+BEGIN
+INSERT iRqg string
+INSERT w3VHTL string
+PRINT
+INSERT q string
+INSERT dXcHN number
+INSERT xDYhx string
+ASSIGN xTkAf 'Xh'
+gTo gWet
+INSERT jOc number

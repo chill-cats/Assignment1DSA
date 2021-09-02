@@ -1,0 +1,29 @@
+INSERT xe3g string
+END
+INSERT j string
+INSERT zat string
+INSERT f number
+INSERT m3v number
+INSERT hmjtW number
+BEGIN
+ASSIGN zat 'f'
+BEGIN
+INSERT xjbwL number
+INSERT zlAMgG string
+INSERT vzcb string
+INSERT mb84 number
+INSERT ya string
+BEGIN
+BEGIN
+INSERT tB5kN4 number
+INSERT gCt4S number
+INSERT py string
+INSERT om6v string
+BEGIN
+INSERT nWgUqG string
+PRINT
+INSERT xE string
+INSERT wa string
+INSERT n3cs string
+PRINT
+PRINT

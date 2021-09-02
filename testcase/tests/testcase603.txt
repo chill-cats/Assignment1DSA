@@ -1,0 +1,15 @@
+INSERT xTU3N string
+INSERT e8iQR number
+INSERT yzPsVm string
+INSERT ePPW number
+INSERT rN6 number
+LOOKUP ePPW
+INSERT e string
+BEGIN
+INSERT xZg3 number
+INSERT t string
+INSERT i string
+INSERT uzCodK number
+INSERT yb string
+INSERT zIE string
+INSERT uEC string

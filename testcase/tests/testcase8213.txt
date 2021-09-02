@@ -1,0 +1,36 @@
+PRINT
+INSERT f string
+INSERT pwwjvk number
+INSERT yp string
+ASSIGN yp 859
+INSERT viYdvF number
+INSERT mC number
+PRINT
+INSERT b string
+INSERT pZN2QF string
+INSERT g4Zv string
+INSERT eHRroh number
+INSERT lKGN number
+INSERT l string
+RPRINT
+BEGIN
+INSERT zHqo string
+LOOKUP pZN2QF
+INSERT iEaNw string
+BEGIN
+ASSIGN b yp
+LOOKUP yp
+INSERT jZ97F number
+INSERT nJ number
+cG tTw
+INSERT w number
+INSERT hl number
+puRp1 wk
+INSERT rTp7a1 string
+INSERT a string
+INSERT o0EY string
+INSERT dd string
+INSERT my47 string
+BEGIN
+INSERT s number
+INSERT nx2p string

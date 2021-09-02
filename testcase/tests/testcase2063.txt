@@ -1,0 +1,40 @@
+fFa8u jMRTS2
+END
+INSERT jF number
+END
+ASSIGN jF 439
+BEGIN
+LOOKUP jF
+BEGIN
+INSERT jgVlO number
+INSERT cAUeA9 string
+INSERT bwiPM string
+ASSIGN cAUeA9 jF
+INSERT e0Y number
+INSERT sp6 string
+END
+RPRINT
+INSERT qx number
+INSERT b8 number
+LOOKUP qx
+yXWWe eMum
+INSERT tUSr string
+BEGIN
+RPRINT
+INSERT w string
+INSERT d string
+INSERT smpw string
+INSERT n0Dt string
+INSERT wq4Dm number
+INSERT pRMc string
+BEGIN
+INSERT d number
+RPRINT
+LOOKUP sp6
+INSERT vQ number
+INSERT hHO string
+LOOKUP d
+INSERT ca6F string
+INSERT mr9J number
+LOOKUP b8
+END

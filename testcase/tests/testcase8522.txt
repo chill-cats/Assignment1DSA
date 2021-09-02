@@ -1,0 +1,37 @@
+INSERT hjU3T9 number
+RPRINT
+END
+INSERT i1 string
+INSERT hWQM string
+LOOKUP i1
+INSERT h4 number
+INSERT yxfRBk number
+END
+RPRINT
+w peN
+INSERT uFN string
+PRINT
+INSERT dhGyf string
+BEGIN
+INSERT j9wa number
+INSERT vQtJp number
+INSERT fKIm number
+INSERT vDiKLr number
+INSERT bU7C string
+INSERT z_FI number
+INSERT tmDRY number
+s0cb9z ysS
+INSERT w number
+RPRINT
+PRINT
+INSERT xEBf string
+INSERT j number
+INSERT v number
+PRINT
+INSERT a number
+INSERT jMokDC number
+INSERT kG number
+INSERT gz number
+INSERT bp number
+INSERT nFjV string
+END

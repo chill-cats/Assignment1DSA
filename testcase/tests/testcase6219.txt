@@ -1,0 +1,28 @@
+INSERT ol string
+END
+INSERT osj string
+INSERT gENpLI string
+END
+INSERT pE string
+INSERT ntOss string
+INSERT ug string
+END
+PRINT
+INSERT eWuH string
+INSERT dRP3U number
+PRINT
+INSERT cbg number
+INSERT i number
+INSERT q number
+END
+ASSIGN pE 805
+LOOKUP dRP3U
+ASSIGN cbg 'Vg'
+END
+RPRINT
+RPRINT
+RPRINT
+INSERT rMQ5m string
+INSERT mMKMe6 string
+INSERT xK7l number
+INSERT pqtO string

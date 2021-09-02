@@ -1,0 +1,15 @@
+INSERT u number
+INSERT qn string
+BEGIN
+INSERT fhBXhi string
+BEGIN
+INSERT sW string
+INSERT nHMt3 string
+INSERT jud number
+INSERT gXt9Y number
+INSERT c number
+ASSIGN nHMt3 'P5'
+RPRINT
+BEGIN
+INSERT ulIYr string
+INSERT ndoMZ string

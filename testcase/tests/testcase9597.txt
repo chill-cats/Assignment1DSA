@@ -1,0 +1,12 @@
+INSERT s string
+END
+INSERT a number
+g23 t4E
+INSERT iOVXV number
+INSERT rkx4x number
+END
+INSERT gR4I number
+RPRINT
+RPRINT
+INSERT wbD4 string
+INSERT tCKV number

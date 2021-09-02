@@ -1,0 +1,22 @@
+PRINT
+RPRINT
+PRINT
+dXz y
+BEGIN
+RPRINT
+INSERT pjHS8 string
+BEGIN
+INSERT pEpFUZ number
+LOOKUP pEpFUZ
+INSERT qCwwQ number
+ASSIGN qCwwQ qCwwQ
+PRINT
+RPRINT
+INSERT s string
+LOOKUP pEpFUZ
+LOOKUP y
+INSERT dnnz3 string
+hG5E sT
+INSERT qdH3 number
+INSERT z0 number
+PRINT

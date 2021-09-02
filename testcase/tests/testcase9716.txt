@@ -1,0 +1,24 @@
+INSERT e6 number
+INSERT yot1S number
+INSERT xxibIs string
+INSERT sYedt string
+INSERT aqO string
+INSERT cj2QbP string
+INSERT pAh0r0 string
+LOOKUP sYedt
+INSERT rTkGP number
+INSERT jspt1 number
+ASSIGN rTkGP 392
+INSERT dec4_ number
+INSERT wVEZd string
+ASSIGN wVEZd 69
+INSERT xUF string
+INSERT obo6 number
+PRINT
+INSERT m5ra number
+INSERT zY string
+INSERT y number
+LOOKUP m5ra
+INSERT q string
+RPRINT
+RPRINT

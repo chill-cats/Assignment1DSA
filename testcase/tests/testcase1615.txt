@@ -1,0 +1,25 @@
+PRINT
+INSERT aHNciV number
+INSERT z string
+oT tWLY2
+INSERT qG number
+INSERT f string
+INSERT nWAg2 string
+RPRINT
+INSERT bT4em string
+h32i w
+END
+INSERT viRn number
+INSERT a7lZ1 string
+INSERT j7D0v number
+LOOKUP a7lZ1
+INSERT iH string
+INSERT qUAlMJ string
+INSERT nhj5 number
+INSERT rk number
+xwx h
+RPRINT
+INSERT h8 string
+INSERT yrmz number
+ASSIGN aHNciV yrmz
+LOOKUP yrmz

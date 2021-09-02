@@ -1,0 +1,30 @@
+INSERT b string
+END
+INSERT zg6Pqa string
+INSERT qhMO_ string
+ASSIGN qhMO_ 667
+INSERT t9ZzoE number
+INSERT y1PiT3 string
+PRINT
+INSERT i3ibm string
+INSERT ek string
+INSERT wIWde string
+INSERT kHnHa number
+INSERT j string
+INSERT aqzngM string
+LOOKUP i3ibm
+INSERT v3M86 string
+RPRINT
+INSERT meBD string
+INSERT pUk7 number
+END
+INSERT ofzRD string
+PRINT
+INSERT oqE string
+INSERT z2I number
+INSERT ymiL43 string
+INSERT r number
+INSERT ujS5 string
+INSERT lV4p number
+PRINT
+INSERT zUcH number

@@ -1,0 +1,29 @@
+INSERT q string
+PRINT
+INSERT smMpI number
+INSERT h number
+ASSIGN q 'Em7a'
+INSERT f string
+BEGIN
+us dW
+INSERT nCM number
+INSERT i number
+INSERT aO2S string
+INSERT tn number
+INSERT h string
+INSERT abJ string
+INSERT aeOqbm number
+ASSIGN abJ abJ
+INSERT uDM string
+INSERT v string
+e chN7fa
+BEGIN
+INSERT v string
+INSERT lx string
+RPRINT
+INSERT oxbuwz number
+iIN o9ZV
+PRINT
+LOOKUP nCM
+INSERT gr number
+BEGIN

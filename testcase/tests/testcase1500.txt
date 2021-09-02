@@ -1,0 +1,12 @@
+INSERT iB string
+PRINT
+INSERT e string
+INSERT oQ string
+END
+INSERT w1d number
+INSERT gH string
+INSERT sOG number
+BEGIN
+INSERT ktoLlw string
+END
+INSERT xojWn string

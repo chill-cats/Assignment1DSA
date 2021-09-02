@@ -1,0 +1,19 @@
+PRINT
+INSERT ctX number
+INSERT rQMi string
+INSERT gE string
+INSERT dEM0X1 number
+ASSIGN ctX 'b'
+INSERT u string
+INSERT rr number
+RPRINT
+BEGIN
+BEGIN
+END
+INSERT z string
+PRINT
+INSERT bRQA number
+INSERT sYrPb number
+INSERT f number
+el89 r5nr
+jj p

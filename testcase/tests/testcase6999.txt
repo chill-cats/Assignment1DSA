@@ -1,0 +1,10 @@
+ASSIGN bGAV5 281
+INSERT v string
+RPRINT
+uu_ zeaGJ
+INSERT l2xM string
+BEGIN
+RPRINT
+LOOKUP v
+ASSIGN l2xM 'f1'
+INSERT lHCl0y string

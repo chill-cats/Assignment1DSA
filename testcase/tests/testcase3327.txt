@@ -1,0 +1,14 @@
+PRINT
+PRINT
+INSERT j2C string
+INSERT y number
+INSERT zZU string
+INSERT s string
+LOOKUP y
+INSERT a string
+INSERT s string
+LOOKUP y
+LOOKUP s
+LOOKUP zZU
+INSERT nx string
+INSERT ctIP number

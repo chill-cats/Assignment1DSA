@@ -1,0 +1,36 @@
+INSERT bsDs string
+INSERT gd2l number
+INSERT jM3fNs number
+RPRINT
+INSERT q_oA number
+INSERT k0XKcu number
+PRINT
+INSERT dDpS string
+INSERT jB3 string
+LOOKUP jM3fNs
+RPRINT
+INSERT dKRO5l string
+ASSIGN jM3fNs q_oA
+INSERT teyLF string
+INSERT wJUW string
+INSERT r string
+PRINT
+INSERT sXI1K string
+INSERT gom1 number
+INSERT i number
+INSERT y3 number
+BEGIN
+END
+INSERT t4ZqKf number
+PRINT
+LOOKUP y3
+END
+omTZ9 cw_rF
+INSERT oVdaNU number
+INSERT lGo69 number
+INSERT yjyi string
+INSERT d number
+INSERT br5m number
+INSERT mvGG_ string
+INSERT tfwFw string
+LOOKUP t4ZqKf

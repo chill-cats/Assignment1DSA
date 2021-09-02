@@ -1,0 +1,39 @@
+INSERT aoxl string
+END
+PRINT
+INSERT gUt9 number
+INSERT tr3HS string
+INSERT s string
+ASSIGN tr3HS 144
+INSERT f string
+INSERT qpZiIx string
+ASSIGN tr3HS 'e5'
+INSERT rIg7D string
+INSERT wxipSI string
+PRINT
+INSERT sWPZ3 string
+INSERT fVSM97 string
+BEGIN
+PRINT
+INSERT n string
+ASSIGN pZC1K 877
+INSERT o string
+INSERT mV0cpu number
+LOOKUP n
+INSERT yq string
+INSERT u8U6Eu number
+INSERT vRrOi string
+INSERT jqPo number
+INSERT ksF number
+INSERT f5 number
+INSERT zCbSDG number
+INSERT r number
+PRINT
+INSERT kKzQLL number
+INSERT j2 string
+INSERT hrnGe string
+wFq9 iWh
+INSERT v string
+LOOKUP ksF
+INSERT kXG96 string
+BEGIN

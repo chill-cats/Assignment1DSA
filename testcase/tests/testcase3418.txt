@@ -1,0 +1,13 @@
+INSERT vkvFIe number
+ASSIGN vkvFIe vkvFIe
+INSERT pH number
+END
+INSERT mLTnun number
+END
+PRINT
+INSERT hHl number
+INSERT wsfK number
+INSERT bF string
+RPRINT
+INSERT eAu number
+INSERT j number

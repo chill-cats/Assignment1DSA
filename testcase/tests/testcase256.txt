@@ -1,0 +1,5 @@
+INSERT mp string
+LOOKUP mp
+INSERT lmXm string
+INSERT sh string
+PRINT

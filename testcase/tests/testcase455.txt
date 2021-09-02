@@ -1,0 +1,40 @@
+PRINT
+INSERT l number
+PRINT
+INSERT mZT number
+LOOKUP l
+BEGIN
+ASSIGN l 432
+ASSIGN l 'C'
+INSERT jEuwk number
+INSERT iOyVlH string
+ASSIGN jEuwk 'z'
+RPRINT
+INSERT u6_ string
+BEGIN
+INSERT nw8 number
+INSERT c_FIo string
+INSERT nKP string
+INSERT fF number
+BEGIN
+INSERT rWvjsl string
+END
+RPRINT
+INSERT t3SEn number
+INSERT z8F string
+INSERT vq string
+PRINT
+RPRINT
+INSERT gDJB number
+INSERT q5JPzD number
+INSERT ex number
+ASSIGN vq u6_
+RPRINT
+END
+INSERT op6hF number
+h yh
+g gh
+INSERT gZ9p string
+INSERT u string
+ASSIGN n4NZji 1199
+INSERT soHm string

@@ -1,0 +1,17 @@
+RPRINT
+mJ rWS
+INSERT jQe string
+INSERT nVtcpf number
+INSERT kvkM3a number
+LOOKUP kvkM3a
+INSERT qCB number
+INSERT o number
+INSERT r number
+LOOKUP kvkM3a
+INSERT wXyS string
+INSERT tbhXBQ number
+LOOKUP jQe
+INSERT ob string
+INSERT obv string
+RPRINT
+INSERT w number

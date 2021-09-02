@@ -1,0 +1,21 @@
+PRINT
+ASSIGN pBbePb 'eh0'
+INSERT s string
+INSERT oHuimb string
+INSERT cfJ number
+INSERT opExfd number
+END
+INSERT t0DZ number
+INSERT fe string
+INSERT oGbW number
+INSERT qFL6 number
+PRINT
+END
+LOOKUP qFL6
+INSERT l9 number
+INSERT cmMd number
+ASSIGN oGbW 'WX '
+LOOKUP oGbW
+BEGIN
+LOOKUP oGbW
+INSERT bgG7E9 string

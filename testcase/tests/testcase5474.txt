@@ -1,0 +1,10 @@
+INSERT v3 number
+INSERT aucG number
+INSERT ckM number
+LOOKUP v3
+BEGIN
+INSERT o string
+INSERT y82w3O string
+f2eLt mo
+INSERT zA9 number
+m f0c67

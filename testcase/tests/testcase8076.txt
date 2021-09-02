@@ -1,0 +1,30 @@
+LOOKUP p4d
+INSERT ttdyIx string
+INSERT wZ string
+PRINT
+INSERT afrK number
+BEGIN
+INSERT e_Rc number
+INSERT cTCpl string
+LOOKUP wZ
+INSERT lhf number
+LOOKUP lhf
+RPRINT
+INSERT tX string
+INSERT uOED_4 string
+RPRINT
+END
+INSERT v number
+INSERT tC91qx number
+BEGIN
+RPRINT
+END
+INSERT os number
+INSERT itBl number
+INSERT ghaRO number
+INSERT au7 number
+INSERT d string
+END
+INSERT b number
+END
+BEGIN

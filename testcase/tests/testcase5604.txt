@@ -1,0 +1,13 @@
+INSERT xz6Z string
+INSERT v609 number
+i hin
+LOOKUP v609
+INSERT bVL string
+INSERT nX number
+INSERT msGI string
+INSERT bx string
+INSERT hmq0 number
+PRINT
+PRINT
+INSERT ajC string
+INSERT fZGB string

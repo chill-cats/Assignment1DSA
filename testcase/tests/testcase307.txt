@@ -1,0 +1,8 @@
+INSERT w8E number
+INSERT wa3p string
+PRINT
+i b
+INSERT sXHmLE number
+ASSIGN wa3p 'Ba9u'
+INSERT m string
+INSERT pd3Mu string

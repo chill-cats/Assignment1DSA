@@ -1,0 +1,19 @@
+INSERT b number
+PRINT
+INSERT uKzzt number
+ASSIGN uKzzt 'to7Ea'
+INSERT iiKC number
+END
+ASSIGN b '96oCq'
+INSERT y number
+INSERT m number
+LOOKUP y
+INSERT g string
+BEGIN
+INSERT lGx0j7 string
+INSERT aaAr8 string
+INSERT qxRcY string
+INSERT hPqEXk string
+INSERT uozP0 number
+INSERT el2F5 string
+LOOKUP qxRcY

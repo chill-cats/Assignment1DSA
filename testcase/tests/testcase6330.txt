@@ -1,0 +1,36 @@
+INSERT mDaB number
+ASSIGN mDaB 893
+INSERT g number
+INSERT ie number
+END
+INSERT ru number
+INSERT lg number
+LOOKUP mDaB
+hDcnF f
+INSERT oQLry number
+PRINT
+i bLzZ
+INSERT f6p string
+INSERT m2 string
+c aUw
+INSERT n1XABT string
+INSERT k_d number
+BEGIN
+INSERT ay1OT number
+END
+INSERT hPgv number
+ASSIGN m2 ay1OT
+END
+RPRINT
+INSERT p string
+INSERT bc7 string
+INSERT jgqT string
+INSERT hNZ1v number
+INSERT jB string
+INSERT baQ number
+INSERT iwVM7 string
+RPRINT
+INSERT nm string
+INSERT il7B26 number
+INSERT fu0v number
+INSERT cW number

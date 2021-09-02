@@ -1,0 +1,21 @@
+INSERT o2 number
+INSERT g number
+ASSIGN o2 1094
+END
+INSERT pcU number
+RPRINT
+INSERT t_ number
+INSERT d string
+INSERT zfHpi7 string
+dAp e5
+q qU
+INSERT f2DjJb number
+INSERT j5z_ms number
+ASSIGN g 'sL'
+INSERT oS number
+PRINT
+INSERT v string
+LOOKUP v
+INSERT iHp7Ku string
+BEGIN
+INSERT du_L number

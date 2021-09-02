@@ -1,0 +1,26 @@
+INSERT if number
+PRINT
+INSERT ze string
+sqr fRXt
+RPRINT
+RPRINT
+INSERT sxa number
+INSERT gf string
+RPRINT
+END
+BEGIN
+RPRINT
+BEGIN
+INSERT p string
+INSERT mxa6 string
+LOOKUP sxa
+INSERT p number
+INSERT nY string
+INSERT sB number
+LOOKUP p
+INSERT vqBw string
+INSERT uo2Z number
+ASSIGN mxa6 949
+INSERT yt8ZFL string
+INSERT o string
+ASSIGN yt8ZFL 63

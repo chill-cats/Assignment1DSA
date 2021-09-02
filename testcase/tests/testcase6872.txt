@@ -1,0 +1,27 @@
+END
+BEGIN
+INSERT pXV5 number
+INSERT i string
+INSERT p number
+INSERT geSPJ string
+END
+RPRINT
+INSERT ailE77 number
+ASSIGN pXV5 'r8'
+INSERT tlKf string
+INSERT lv string
+INSERT c53 string
+INSERT i53VRL number
+INSERT sUfAU string
+INSERT gt number
+INSERT aBKx number
+BEGIN
+END
+INSERT pS_HyA number
+INSERT aUu3H number
+END
+LOOKUP lv
+INSERT ky6m73 string
+e lz
+RPRINT
+END

@@ -1,0 +1,31 @@
+BEGIN
+INSERT e0FEO number
+ASSIGN e0FEO 'Cm'
+INSERT jIc8Hr number
+INSERT qC number
+END
+PRINT
+bm f
+vU b3LrT
+INSERT d string
+ASSIGN d 1211
+INSERT b4NLX string
+PRINT
+INSERT g string
+INSERT nv4GyD string
+INSERT q3mmP number
+RPRINT
+INSERT tB number
+INSERT zyDP7 number
+INSERT bB string
+ASSIGN e0FEO 'Xu'
+END
+PRINT
+INSERT p number
+ASSIGN bB 'VjZCM'
+INSERT w8Z number
+INSERT hUy number
+LOOKUP bB
+PRINT
+RPRINT
+INSERT wVjl number

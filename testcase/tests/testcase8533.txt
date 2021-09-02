@@ -1,0 +1,19 @@
+INSERT nLOj string
+INSERT dC05T string
+kiU gkUh
+INSERT vIa2xg number
+INSERT hxCqlS string
+ASSIGN dC05T nLOj
+INSERT o string
+BEGIN
+INSERT vB string
+INSERT vDjBF number
+INSERT nf string
+BEGIN
+LOOKUP dC05T
+ASSIGN nf ' K'
+RPRINT
+INSERT iUVKOn number
+LOOKUP iUVKOn
+INSERT y64O number
+PRINT

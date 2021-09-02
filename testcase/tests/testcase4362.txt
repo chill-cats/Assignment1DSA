@@ -1,0 +1,11 @@
+ASSIGN i 'W'
+INSERT k string
+INSERT lwzbxY string
+INSERT v string
+INSERT k string
+INSERT s number
+END
+RPRINT
+END
+INSERT nKA number
+PRINT

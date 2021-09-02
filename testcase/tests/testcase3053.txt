@@ -1,0 +1,21 @@
+INSERT phd number
+END
+PRINT
+INSERT bJ string
+INSERT s string
+PRINT
+INSERT j string
+LOOKUP bJ
+INSERT ddq5 number
+RPRINT
+RPRINT
+INSERT zNB3yA string
+PRINT
+INSERT sgD string
+LOOKUP phd
+INSERT s number
+INSERT sAwM36 number
+INSERT rFFYB number
+PRINT
+END
+PRINT

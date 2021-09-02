@@ -1,0 +1,8 @@
+INSERT j_wg number
+INSERT mDpVI string
+ASSIGN j_wg 'UpNI'
+l t
+i m
+INSERT vilxM string
+INSERT h string
+xMp1km mvTua

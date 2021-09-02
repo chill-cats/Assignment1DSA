@@ -1,0 +1,11 @@
+INSERT e number
+INSERT v string
+INSERT zStvU number
+RPRINT
+ASSIGN v v
+RPRINT
+INSERT asC string
+LOOKUP asC
+INSERT tg string
+RPRINT
+INSERT cep3z string

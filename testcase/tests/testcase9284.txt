@@ -1,0 +1,5 @@
+LOOKUP enz_4
+INSERT s4IWFi string
+INSERT o number
+INSERT uKz string
+o q

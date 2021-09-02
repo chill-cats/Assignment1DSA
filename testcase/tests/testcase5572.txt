@@ -1,0 +1,30 @@
+BEGIN
+LOOKUP c
+PRINT
+END
+END
+INSERT g6 number
+INSERT fkHV6 number
+BEGIN
+INSERT qXF7 number
+LOOKUP qXF7
+INSERT ms number
+END
+INSERT hv8ky number
+PRINT
+INSERT cO number
+INSERT aY number
+INSERT p string
+INSERT j string
+INSERT n14NTo string
+LOOKUP qXF7
+INSERT hpAgs2 string
+BEGIN
+BEGIN
+END
+END
+qk09 qV4gC
+END
+INSERT q0Az number
+END
+END

@@ -1,0 +1,38 @@
+INSERT kR number
+vmf edl
+END
+LOOKUP kR
+BEGIN
+INSERT c string
+INSERT w string
+r mr5CF
+INSERT qM string
+END
+ASSIGN c w
+INSERT ujvYo number
+INSERT dY3pig string
+INSERT vN number
+ASSIGN c ujvYo
+INSERT hqah number
+INSERT gpw8oJ number
+INSERT wxqb string
+INSERT x string
+INSERT z5VKFg number
+LOOKUP qM
+BEGIN
+RPRINT
+INSERT hUQv number
+ASSIGN qM 'SHsuT'
+INSERT eDB string
+INSERT o7q525 number
+INSERT f number
+iiSyU sgDV
+INSERT aXAAl number
+INSERT d string
+LOOKUP vN
+INSERT zDR number
+INSERT xo9fd0 number
+PRINT
+INSERT pJ5c string
+INSERT uGj string
+RPRINT

@@ -1,0 +1,28 @@
+RPRINT
+INSERT hgu9 string
+BEGIN
+INSERT tCF number
+LOOKUP tCF
+INSERT a number
+PRINT
+BEGIN
+INSERT qiXZNu string
+INSERT kt0k number
+INSERT yUa number
+LOOKUP tCF
+RPRINT
+d9gD z9
+INSERT kfyUm string
+INSERT qreB number
+INSERT e string
+LOOKUP tCF
+ASSIGN qreB 'Tlaf'
+RPRINT
+RPRINT
+INSERT ab8 string
+END
+END
+INSERT vk6Ab number
+INSERT ld0CsC string
+bzNFw9 hXP
+ASSIGN tCF kfyUm

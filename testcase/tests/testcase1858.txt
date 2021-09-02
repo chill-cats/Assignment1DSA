@@ -1,0 +1,28 @@
+ASSIGN od 'c9'
+INSERT gr string
+INSERT qw4 string
+INSERT nMnMd number
+INSERT jePhOv string
+INSERT xSyX6 string
+INSERT dCi string
+INSERT ef number
+INSERT w string
+INSERT osCDct number
+INSERT bz number
+RPRINT
+BEGIN
+END
+INSERT jR9L string
+INSERT u3x number
+INSERT fH number
+INSERT u9 number
+RPRINT
+BEGIN
+BEGIN
+END
+INSERT ob string
+INSERT e6FD string
+RPRINT
+INSERT wZbV number
+INSERT h number
+LOOKUP wZbV

@@ -1,0 +1,4 @@
+INSERT etqME7 string
+LOOKUP etqME7
+INSERT lNQ string
+INSERT mY string

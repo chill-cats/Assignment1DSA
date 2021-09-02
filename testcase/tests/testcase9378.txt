@@ -1,0 +1,27 @@
+LOOKUP jA
+INSERT poJjB number
+LOOKUP poJjB
+INSERT jQLZr number
+INSERT jR8 string
+PRINT
+RPRINT
+INSERT eiHA number
+LOOKUP jR8
+INSERT qXWmUO string
+INSERT m number
+BEGIN
+PRINT
+INSERT wK string
+INSERT r6N8 string
+INSERT iL number
+INSERT hR40Dn string
+INSERT szw number
+INSERT j string
+ASSIGN j 967
+INSERT wEVmmL string
+RPRINT
+END
+RPRINT
+PRINT
+PRINT
+INSERT lFZw string

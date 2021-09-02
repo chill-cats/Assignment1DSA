@@ -1,0 +1,16 @@
+INSERT m number
+PRINT
+INSERT bw string
+INSERT nUprJ string
+ASSIGN bw 'Zv'
+END
+INSERT qr number
+BEGIN
+INSERT wwFy string
+END
+END
+INSERT pkhxH9 number
+INSERT n6 number
+INSERT ex0bD string
+INSERT lFi string
+INSERT kJzd string

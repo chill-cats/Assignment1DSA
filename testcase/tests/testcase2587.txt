@@ -1,0 +1,10 @@
+INSERT kv number
+INSERT sWer number
+INSERT tHKO number
+BEGIN
+ASSIGN tHKO 723
+RPRINT
+INSERT g2yAh string
+INSERT nvr number
+INSERT j number
+lSsDN tfeN

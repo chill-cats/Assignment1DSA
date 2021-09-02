@@ -1,0 +1,3 @@
+ASSIGN m 'J'
+INSERT cwM1C7 string
+END

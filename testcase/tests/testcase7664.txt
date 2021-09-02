@@ -1,0 +1,23 @@
+INSERT i5UJ string
+kAEhF wiZ
+PRINT
+INSERT b string
+END
+INSERT qTeVIJ number
+INSERT qZB number
+ASSIGN i5UJ 'c2'
+RPRINT
+INSERT kTx2Sh string
+INSERT x7s string
+zT2kvC vo
+INSERT zcMvhu number
+BEGIN
+LOOKUP i5UJ
+RPRINT
+INSERT jxZIU number
+INSERT yy number
+INSERT et4 string
+BEGIN
+INSERT bwrzDa string
+INSERT c0oGjG number
+ASSIGN i5UJ 145

@@ -1,0 +1,9 @@
+INSERT trb string
+INSERT wD0MbX string
+INSERT phJcaD number
+PRINT
+INSERT qwTJC0 number
+PRINT
+BEGIN
+INSERT amemy3 number
+LOOKUP phJcaD

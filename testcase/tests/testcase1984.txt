@@ -1,0 +1,27 @@
+ASSIGN c1L 'wdyF'
+RPRINT
+RPRINT
+INSERT kCSuJM string
+INSERT hFw number
+INSERT x number
+INSERT z2Z string
+INSERT o number
+INSERT odT2 string
+PRINT
+RPRINT
+INSERT nL number
+LOOKUP kCSuJM
+INSERT qbM number
+LOOKUP hFw
+INSERT hy number
+INSERT j string
+INSERT s2s number
+INSERT kLKP number
+INSERT sQO number
+BEGIN
+INSERT w number
+INSERT glvYl6 number
+INSERT a4Sl string
+INSERT v string
+LOOKUP vsoTp
+PRINT

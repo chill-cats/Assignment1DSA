@@ -1,0 +1,7 @@
+INSERT lceUg string
+BEGIN
+INSERT wb string
+INSERT j8g string
+PRINT
+p vX
+INSERT jW23 string

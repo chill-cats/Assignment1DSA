@@ -1,0 +1,16 @@
+RPRINT
+INSERT oS2 number
+BEGIN
+END
+INSERT yLVext string
+INSERT fxv string
+ASSIGN fxv 'sFoa'
+INSERT jdHk string
+INSERT zl4e number
+INSERT t number
+END
+INSERT pK number
+END
+INSERT y string
+INSERT r string
+INSERT h67 number

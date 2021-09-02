@@ -1,0 +1,15 @@
+INSERT fSDe_ number
+bsp z
+INSERT g6X number
+LOOKUP g6X
+INSERT z3 string
+INSERT qKTQwe number
+INSERT lN8 number
+LOOKUP fSDe_
+INSERT srLMX string
+INSERT tom5Wv number
+BEGIN
+INSERT a string
+INSERT ka8Let string
+INSERT sN string
+ASSIGN tom5Wv 874

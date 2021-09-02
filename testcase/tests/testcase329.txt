@@ -1,0 +1,24 @@
+INSERT lb string
+INSERT mzl_ number
+INSERT m string
+LOOKUP lb
+END
+PRINT
+END
+INSERT zeACfa string
+PRINT
+INSERT o number
+END
+INSERT dFe string
+INSERT j_pf9M string
+ASSIGN zeACfa m
+INSERT exZNc number
+INSERT bt0ko string
+INSERT js string
+syi eExDX
+ASSIGN dFe lb
+INSERT fo5NBv string
+END
+czld wx
+INSERT i number
+INSERT r0eB number

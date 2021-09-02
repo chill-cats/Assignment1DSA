@@ -1,0 +1,26 @@
+RPRINT
+ASSIGN ugr 'Z'
+INSERT d number
+BEGIN
+INSERT kFJNd number
+RPRINT
+INSERT nyEqJQ string
+BEGIN
+RPRINT
+PRINT
+INSERT sp string
+ASSIGN nyEqJQ 'p'
+INSERT y_xo string
+ASSIGN d 'A4prj'
+INSERT y string
+INSERT hkGb number
+LOOKUP hkGb
+INSERT di string
+INSERT lTys number
+PRINT
+RPRINT
+ASSIGN d 942
+BEGIN
+LOOKUP sp
+PRINT
+INSERT dMh_4 string

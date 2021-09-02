@@ -1,0 +1,30 @@
+INSERT rc_ number
+INSERT pZ0Zk string
+ASSIGN rc_ '1'
+INSERT gv8 string
+INSERT w8FkX number
+INSERT m0PJm string
+INSERT chBgc0 string
+INSERT jwtf number
+END
+PRINT
+INSERT hVx string
+INSERT rxq9 number
+END
+RPRINT
+INSERT nyOh number
+INSERT ddF7o number
+END
+INSERT exxoCT number
+ASSIGN hVx 1008
+RPRINT
+ASSIGN jwtf 659
+INSERT oN string
+INSERT w2EN string
+INSERT dqOno5 string
+END
+INSERT aaL string
+INSERT h string
+RPRINT
+INSERT aOizuo number
+LOOKUP exxoCT

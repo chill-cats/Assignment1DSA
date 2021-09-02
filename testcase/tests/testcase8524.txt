@@ -1,0 +1,13 @@
+INSERT pM string
+INSERT l number
+INSERT qTz number
+INSERT y string
+INSERT pC5KI number
+INSERT ar8q number
+LOOKUP daLQ
+INSERT sCU string
+END
+INSERT qCWe4 string
+PRINT
+INSERT k9va number
+INSERT c6Xtw string

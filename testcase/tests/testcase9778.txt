@@ -1,0 +1,31 @@
+INSERT eAj8gl string
+ASSIGN eAj8gl eAj8gl
+INSERT ov3U3 number
+LOOKUP eAj8gl
+ASSIGN eAj8gl 'c'
+ASSIGN eAj8gl 'OIo'
+INSERT mK2 number
+BEGIN
+INSERT qKGfA7 string
+INSERT kkOKb string
+END
+INSERT ar string
+PRINT
+INSERT p44iy string
+INSERT a number
+ASSIGN kkOKb kkOKb
+BEGIN
+ASSIGN eAj8gl 44
+INSERT be3cVs number
+INSERT w string
+INSERT w number
+LOOKUP kkOKb
+INSERT n9 number
+INSERT nqTrna string
+INSERT py string
+ASSIGN a 'zX0W'
+INSERT d number
+INSERT nKdKnj number
+ASSIGN a ' 1i'
+INSERT rW string
+PRINT

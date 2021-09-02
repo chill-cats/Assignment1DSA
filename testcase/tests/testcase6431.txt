@@ -1,0 +1,4 @@
+INSERT ogFQW number
+LOOKUP ogFQW
+INSERT lE number
+INSERT r number

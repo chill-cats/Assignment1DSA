@@ -1,0 +1,28 @@
+INSERT x string
+INSERT i99xG number
+INSERT pXU1L string
+INSERT bNjxvV string
+INSERT n number
+INSERT pf4ZW string
+PRINT
+INSERT g string
+INSERT nI number
+ASSIGN i99xG 'xuT'
+BEGIN
+INSERT dvNfnF number
+INSERT uop9 number
+INSERT bWq number
+INSERT h4CdP string
+q l
+INSERT n1rk string
+INSERT wE0q number
+INSERT tONCW string
+INSERT u number
+RPRINT
+INSERT hdDZ7X string
+INSERT i number
+BEGIN
+END
+INSERT uV string
+INSERT x number
+PRINT

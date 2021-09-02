@@ -1,0 +1,9 @@
+INSERT x6 number
+INSERT l string
+INSERT sJJH number
+frc0v okVD
+INSERT jA number
+INSERT m number
+PRINT
+INSERT knRf number
+LOOKUP x6

@@ -1,0 +1,3 @@
+INSERT mP8RJ string
+BEGIN
+LOOKUP mP8RJ

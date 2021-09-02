@@ -1,0 +1,12 @@
+INSERT c number
+ASSIGN c 'by'
+INSERT hTRnZt number
+INSERT tI_aA number
+PRINT
+END
+INSERT dX9Nm8 string
+BEGIN
+INSERT m number
+INSERT f3 number
+INSERT siCN1 number
+INSERT szp number

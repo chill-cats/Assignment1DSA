@@ -1,0 +1,5 @@
+RPRINT
+INSERT rul0 string
+BEGIN
+INSERT xY string
+PRINT

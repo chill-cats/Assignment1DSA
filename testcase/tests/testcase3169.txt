@@ -1,0 +1,27 @@
+INSERT jUYz string
+INSERT fFyMmg string
+RPRINT
+INSERT raPR6 string
+INSERT uk number
+INSERT lH number
+ASSIGN uk jUYz
+ASSIGN lH fFyMmg
+END
+INSERT tnpB9o number
+INSERT nytPj string
+RPRINT
+INSERT foj string
+PRINT
+INSERT uOOFl number
+INSERT j84Cc5 number
+INSERT i5Hvdl number
+INSERT mvAu_ number
+INSERT usN_d7 string
+INSERT c number
+INSERT n4q8b number
+END
+LOOKUP uk
+INSERT o string
+INSERT o9h50 number
+ASSIGN lH 252
+RPRINT

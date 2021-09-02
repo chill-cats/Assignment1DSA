@@ -1,0 +1,21 @@
+INSERT dS8 string
+LOOKUP dS8
+INSERT t number
+INSERT sBjwl string
+END
+LOOKUP dS8
+END
+INSERT hNWq string
+LOOKUP dS8
+INSERT f string
+INSERT z8bTp string
+LOOKUP f
+INSERT wXkH string
+INSERT ng string
+INSERT unSHj2 string
+PRINT
+INSERT pdHh7 string
+INSERT n string
+INSERT pdl0I string
+ujw wALC
+END

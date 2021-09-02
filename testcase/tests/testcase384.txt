@@ -1,0 +1,9 @@
+LOOKUP br3T
+INSERT x number
+INSERT vvAN string
+PRINT
+INSERT tFEa number
+RPRINT
+INSERT n8KQ number
+INSERT k string
+INSERT bAeW string

@@ -1,0 +1,25 @@
+INSERT v11PF9 number
+INSERT u02 string
+INSERT yAI572 number
+INSERT tDk string
+INSERT dOEg number
+END
+INSERT gJ string
+INSERT b7yOxd string
+RPRINT
+ASSIGN v11PF9 447
+ASSIGN gJ u02
+LOOKUP u02
+INSERT r_S_RY string
+sc r
+RPRINT
+INSERT o number
+INSERT c_GZ number
+END
+INSERT ahbzV number
+INSERT q2 number
+LOOKUP b7yOxd
+INSERT evmo number
+INSERT m1 string
+PRINT
+INSERT sOfz9A string

@@ -1,0 +1,6 @@
+BEGIN
+INSERT i0x2 number
+INSERT mo5E string
+INSERT n string
+INSERT j_MR string
+INSERT g_TZ number

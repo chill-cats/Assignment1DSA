@@ -1,0 +1,33 @@
+END
+INSERT wZL string
+PRINT
+BEGIN
+INSERT iO7 string
+ASSIGN wZL iO7
+LOOKUP wZL
+INSERT z7moTp number
+INSERT e number
+INSERT hG string
+BEGIN
+INSERT cShT number
+RPRINT
+INSERT rW string
+INSERT xiSmu number
+END
+INSERT oM number
+END
+INSERT iUhe number
+INSERT vwDK5X string
+LOOKUP hG
+INSERT f number
+INSERT jARVf string
+INSERT q string
+LOOKUP iO7
+INSERT kwJX number
+INSERT fZw string
+INSERT wzSuSR number
+INSERT pCi number
+PRINT
+INSERT s7rqW number
+END
+INSERT jKc4 string

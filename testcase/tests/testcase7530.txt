@@ -1,0 +1,13 @@
+ASSIGN f 471
+INSERT qtElY string
+INSERT yNj number
+ASSIGN qtElY 786
+INSERT adTpar string
+INSERT ccA number
+INSERT t7DB number
+INSERT h number
+BEGIN
+ASSIGN qtElY adTpar
+INSERT acoF number
+g nBJVu
+PRINT

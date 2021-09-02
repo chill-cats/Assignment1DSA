@@ -1,0 +1,11 @@
+ASSIGN lA3qC5 'Pw'
+INSERT kGk string
+INSERT reE string
+INSERT ug08 number
+INSERT cs1PH string
+INSERT h number
+END
+RPRINT
+INSERT zbfBN_ number
+RPRINT
+PRINT

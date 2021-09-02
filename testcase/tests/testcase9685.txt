@@ -1,0 +1,4 @@
+RPRINT
+INSERT q6x number
+INSERT bWao string
+INSERT s number

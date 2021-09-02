@@ -1,0 +1,11 @@
+INSERT n string
+INSERT d6 number
+INSERT tZcaa number
+PRINT
+INSERT eHHef number
+END
+INSERT h string
+PRINT
+RPRINT
+INSERT c string
+RPRINT

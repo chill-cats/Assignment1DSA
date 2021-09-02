@@ -1,0 +1,33 @@
+INSERT b1ApJ number
+INSERT d number
+INSERT qh9V number
+INSERT mx5Fio string
+BEGIN
+INSERT qovQ number
+vg sSEkKC
+BEGIN
+INSERT tg number
+INSERT l string
+INSERT hw1dZd string
+PRINT
+INSERT s_ number
+INSERT wmEKPR string
+INSERT iUFPj number
+INSERT aSx string
+INSERT to number
+INSERT bSS string
+INSERT keHPrv number
+INSERT b string
+iKW fa
+INSERT rUTorv string
+INSERT xFR string
+INSERT y_zMX number
+INSERT bzc number
+INSERT i4ON string
+ASSIGN rUTorv keHPrv
+INSERT m string
+INSERT vq number
+ASSIGN d 'V1'
+END
+LOOKUP bzc
+RPRINT

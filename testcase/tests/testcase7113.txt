@@ -1,0 +1,21 @@
+INSERT iujdm string
+LOOKUP iujdm
+mE l
+LOOKUP iujdm
+PRINT
+INSERT xBy2 number
+INSERT dl6Smz string
+INSERT b number
+ASSIGN xBy2 55
+BEGIN
+BEGIN
+oeKRWZ o6
+INSERT o number
+INSERT dyh3H number
+INSERT m string
+END
+INSERT l number
+INSERT yq string
+INSERT z907 string
+INSERT r string
+END

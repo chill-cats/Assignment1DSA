@@ -1,0 +1,27 @@
+LOOKUP x2Y
+INSERT i string
+INSERT fs_6y number
+INSERT zZbfS1 string
+gep rYe
+INSERT dzoG string
+BEGIN
+INSERT yR number
+INSERT u number
+ASSIGN dzoG 86
+INSERT j number
+END
+INSERT h8 string
+INSERT ogMp number
+PRINT
+INSERT fE0v string
+INSERT slJry number
+INSERT tpw number
+INSERT ri_83t string
+INSERT rFuY1 number
+BEGIN
+END
+INSERT y string
+INSERT rWMn string
+INSERT oJtr number
+LOOKUP ri_83t
+INSERT nD0Lq number

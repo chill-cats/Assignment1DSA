@@ -1,0 +1,36 @@
+INSERT k number
+INSERT fqK string
+INSERT nGuh string
+INSERT z3u34y number
+INSERT pQkS number
+INSERT oL string
+INSERT h8_i number
+zuOH c2m
+INSERT s string
+ASSIGN s z3u34y
+PRINT
+INSERT i string
+BEGIN
+INSERT jn8 string
+PRINT
+LOOKUP h8_i
+PRINT
+RPRINT
+LOOKUP h8_i
+caB j
+b o0
+BEGIN
+ASSIGN h8_i 472
+ASSIGN s 'bgQu'
+INSERT sA string
+INSERT o8Sc9 number
+BEGIN
+PRINT
+INSERT duEAr number
+INSERT lont5 string
+PRINT
+INSERT s63 string
+INSERT q0Ca string
+INSERT k1 string
+PRINT
+END

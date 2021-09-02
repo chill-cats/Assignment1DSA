@@ -1,0 +1,27 @@
+INSERT f string
+PRINT
+LOOKUP f
+INSERT rF number
+INSERT k6UrQ5 number
+INSERT jSrA8 string
+INSERT nn number
+ASSIGN rF 'dKfq'
+PRINT
+INSERT eD4 string
+BEGIN
+INSERT mWVvmK number
+LOOKUP eD4
+INSERT gjJRB string
+INSERT gZ string
+xT9C iW0Xl
+END
+PRINT
+INSERT ha string
+INSERT r string
+INSERT qEI string
+INSERT fu string
+RPRINT
+INSERT fwDj string
+INSERT ug number
+INSERT n8b number
+INSERT k4JM_ string

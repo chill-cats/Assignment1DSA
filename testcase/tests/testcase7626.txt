@@ -1,0 +1,25 @@
+INSERT h number
+LOOKUP h
+LOOKUP h
+INSERT a1 number
+RPRINT
+RPRINT
+INSERT zI number
+hxySk mCB
+INSERT rc string
+ASSIGN zI 961
+INSERT ms number
+INSERT k number
+RPRINT
+RPRINT
+INSERT iBCPj string
+INSERT v5T number
+INSERT xsV string
+ASSIGN ms 1198
+LOOKUP xsV
+PRINT
+INSERT qo number
+LOOKUP zI
+INSERT gP number
+INSERT uq string
+ee_yQ si

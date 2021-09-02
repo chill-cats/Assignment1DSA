@@ -1,0 +1,31 @@
+INSERT oIFkiM number
+INSERT nvF string
+INSERT h number
+INSERT ow6H number
+RPRINT
+END
+INSERT ecDd number
+INSERT j number
+INSERT vCOfq number
+INSERT t number
+INSERT aTEv string
+INSERT uVP0 string
+INSERT p08 number
+INSERT i0hdbj string
+INSERT bz string
+PRINT
+INSERT yy number
+INSERT lAs4 string
+INSERT w number
+ASSIGN ecDd oIFkiM
+LOOKUP w
+ASSIGN bz lAs4
+RPRINT
+INSERT n number
+LOOKUP w
+BEGIN
+INSERT rUZr string
+m4 uFMP
+INSERT wsYG string
+INSERT mgz number
+ASSIGN t 'bmd'

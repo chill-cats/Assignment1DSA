@@ -1,0 +1,21 @@
+INSERT lP string
+INSERT e string
+INSERT vdxfTK string
+ASSIGN z lP
+wynB wJD9
+ASSIGN vdxfTK 1017
+INSERT yWy string
+ASSIGN e 'PwBSr'
+LOOKUP vdxfTK
+INSERT kTB string
+ASSIGN yWy 1237
+RPRINT
+INSERT jpbk number
+hFde za
+INSERT e5W7P string
+RPRINT
+INSERT yW89 string
+BEGIN
+INSERT n1WmbC number
+END
+INSERT hz number

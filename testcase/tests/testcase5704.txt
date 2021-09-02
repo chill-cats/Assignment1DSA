@@ -1,0 +1,9 @@
+INSERT opg number
+INSERT cPpGT string
+INSERT o string
+LOOKUP cPpGT
+RPRINT
+BEGIN
+END
+INSERT b5 number
+INSERT uGUQ9l string

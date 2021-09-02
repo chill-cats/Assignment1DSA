@@ -1,0 +1,31 @@
+INSERT dCW number
+INSERT bu4c9 string
+INSERT tD number
+INSERT rtmK string
+INSERT cxd2 number
+INSERT arK0F string
+INSERT f2oi1q number
+INSERT tWM0Z6 string
+INSERT wZKv number
+INSERT mTn string
+INSERT pFGz0 string
+LOOKUP dCW
+INSERT gjlb1 number
+INSERT i string
+RPRINT
+INSERT nIE number
+INSERT mtNgY0 string
+INSERT twEHU number
+INSERT f4Yv string
+INSERT x string
+INSERT aAuWA2 string
+BEGIN
+INSERT hW number
+INSERT i string
+INSERT v78cF string
+RPRINT
+s cuNlBB
+END
+INSERT gl string
+INSERT blKs6O number
+INSERT qxeB number

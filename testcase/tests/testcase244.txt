@@ -1,0 +1,29 @@
+oqv pWBzgy
+LOOKUP mo
+INSERT otg1DU string
+RPRINT
+INSERT qlx9 string
+ASSIGN otg1DU 328
+INSERT a string
+END
+INSERT h number
+END
+INSERT inT string
+PRINT
+ASSIGN qlx9 'q8q'
+LOOKUP inT
+INSERT vmj59o string
+INSERT idO number
+INSERT rTgqu number
+ASSIGN vmj59o 946
+BEGIN
+INSERT ug_sY6 number
+RPRINT
+INSERT c number
+INSERT psP number
+LOOKUP inT
+ASSIGN inT 795
+INSERT y79 string
+INSERT kOaWQz number
+INSERT q string
+INSERT h string

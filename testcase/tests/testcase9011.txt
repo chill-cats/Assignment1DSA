@@ -1,0 +1,11 @@
+INSERT c string
+ASSIGN c 689
+INSERT k number
+INSERT wh2DU number
+INSERT mpP string
+INSERT f2 number
+INSERT r number
+PRINT
+PRINT
+INSERT lQi string
+INSERT nxAhs0 number

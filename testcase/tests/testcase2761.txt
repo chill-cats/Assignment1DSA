@@ -1,0 +1,33 @@
+INSERT eXZ2 string
+INSERT iv string
+INSERT u1 string
+INSERT hIA number
+END
+LOOKUP u1
+INSERT o2DjG string
+INSERT gQd string
+if23 aCV
+INSERT hSlxS number
+INSERT pmJ string
+END
+INSERT lqsw string
+INSERT lwuh string
+INSERT c number
+INSERT i number
+INSERT oW8yHs string
+INSERT pFyn number
+PRINT
+LOOKUP gQd
+INSERT cYkJ string
+INSERT d_z string
+INSERT jkz string
+END
+LOOKUP hIA
+INSERT x054G string
+vPg9Yl kLYfi7
+ASSIGN eXZ2 x054G
+INSERT pj string
+INSERT sKh string
+INSERT u87c string
+INSERT opt string
+INSERT hXrJ number

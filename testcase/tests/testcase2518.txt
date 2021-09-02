@@ -1,0 +1,14 @@
+INSERT dD string
+PRINT
+PRINT
+INSERT mLUcG number
+ASSIGN dD 'Z8l'
+INSERT nS8S string
+LOOKUP mLUcG
+INSERT h number
+RPRINT
+LOOKUP nS8S
+ASSIGN dD 404
+INSERT oCmo string
+wjeY c4
+LOOKUP h

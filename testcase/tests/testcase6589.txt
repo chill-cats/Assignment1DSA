@@ -1,0 +1,35 @@
+INSERT pvw0zS string
+INSERT e string
+INSERT dJApzv string
+INSERT mX string
+RPRINT
+INSERT kfb number
+INSERT imOlUJ string
+INSERT bx4W number
+INSERT cE8j string
+LOOKUP bx4W
+PRINT
+INSERT sWG13 string
+INSERT pT number
+INSERT eCjiXT number
+BEGIN
+BEGIN
+LOOKUP eCjiXT
+INSERT uj6v number
+INSERT u string
+LOOKUP dJApzv
+ASSIGN sWG13 'YFO'
+INSERT lC string
+INSERT wJl number
+INSERT gYYWi6 string
+INSERT iWJi string
+INSERT d2nj number
+INSERT xGdW string
+INSERT euUYah string
+INSERT nJmQEw string
+RPRINT
+INSERT u string
+BEGIN
+RPRINT
+END
+INSERT yyM3e3 string

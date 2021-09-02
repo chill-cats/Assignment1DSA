@@ -1,0 +1,25 @@
+INSERT rx string
+LOOKUP rx
+BEGIN
+PRINT
+LOOKUP rx
+INSERT bMm6 string
+INSERT nD number
+INSERT oE number
+INSERT j8x string
+INSERT pR6g7 string
+INSERT rLLm string
+RPRINT
+INSERT yDQCY string
+INSERT xXL3 string
+INSERT fxS5c7 number
+INSERT vHJC string
+INSERT dpCn number
+BEGIN
+ASSIGN tH4YL 579
+INSERT mXdN6 number
+BEGIN
+BEGIN
+INSERT mh number
+PRINT
+INSERT nfns string

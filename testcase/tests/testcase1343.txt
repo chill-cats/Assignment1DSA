@@ -1,0 +1,7 @@
+LOOKUP gnl
+INSERT f number
+ASSIGN f 534
+END
+INSERT nl string
+INSERT y string
+uqcUvy nLRrS

@@ -1,0 +1,8 @@
+END
+INSERT awLApD number
+INSERT t string
+LOOKUP t
+PRINT
+INSERT rsLHY number
+BEGIN
+INSERT s1 number

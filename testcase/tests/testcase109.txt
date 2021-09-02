@@ -1,0 +1,32 @@
+INSERT q number
+INSERT bC number
+INSERT eJcX string
+INSERT nAaAv string
+qmsWBQ gQ42
+INSERT rag string
+yurvN vh4sA
+INSERT s1X number
+INSERT i number
+END
+LOOKUP s1X
+INSERT zCJa number
+e uz
+INSERT gc6Q number
+ASSIGN i 1237
+INSERT hAVnc string
+INSERT qmZ string
+INSERT adIOj number
+l4X tDU
+PRINT
+LOOKUP s1X
+END
+BEGIN
+INSERT pO string
+INSERT lFQcQH string
+g1 iAw3
+LOOKUP lFQcQH
+BEGIN
+LOOKUP nAaAv
+INSERT rVe string
+ASSIGN hAVnc '9TZv'
+INSERT mY7 string

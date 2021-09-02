@@ -1,0 +1,25 @@
+PRINT
+INSERT jWqtg number
+INSERT rlLPNq number
+INSERT eXGX string
+LOOKUP eXGX
+INSERT vbSLSY string
+INSERT laEk string
+INSERT t number
+ASSIGN jWqtg t
+INSERT egZT number
+INSERT tG4 number
+INSERT ioIdi number
+INSERT xPb9g string
+INSERT vo number
+INSERT cAkj string
+INSERT hZP number
+INSERT q number
+INSERT rvP9Y number
+PRINT
+RPRINT
+INSERT iMZp number
+INSERT s string
+INSERT yHkN number
+INSERT lEl string
+osH s

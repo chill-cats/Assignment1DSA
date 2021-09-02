@@ -1,0 +1,26 @@
+PRINT
+INSERT lgNU6 number
+INSERT qnP85 string
+RPRINT
+pgZ d3E
+INSERT uEbU9 number
+INSERT m5 string
+ASSIGN uEbU9 uEbU9
+INSERT y0ub number
+PRINT
+BEGIN
+INSERT hMVg string
+BEGIN
+INSERT hXrT string
+LOOKUP qnP85
+INSERT l number
+INSERT sEVU4 number
+INSERT a number
+INSERT b string
+INSERT bd6zn number
+INSERT tYQyY string
+INSERT j6 number
+ASSIGN lgNU6 b
+PRINT
+INSERT uR3 number
+ASSIGN uEbU9 tYQyY

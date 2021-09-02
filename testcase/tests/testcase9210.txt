@@ -1,0 +1,16 @@
+xJASOb xX_
+INSERT m_ number
+INSERT cYVY8 number
+ASSIGN m_ cYVY8
+ASSIGN m_ cYVY8
+INSERT uO string
+END
+INSERT rpM number
+INSERT l string
+INSERT rP0 number
+BEGIN
+INSERT a string
+PRINT
+LOOKUP uO
+INSERT nbiasQ string
+INSERT zG string

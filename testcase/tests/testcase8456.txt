@@ -1,0 +1,9 @@
+INSERT pYdF number
+BEGIN
+INSERT fO6Mc4 number
+INSERT xyatQ1 string
+INSERT gDmR string
+INSERT ytd number
+PRINT
+INSERT zMmG string
+ASSIGN zMmG xyatQ1

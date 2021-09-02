@@ -1,0 +1,25 @@
+INSERT r5 string
+INSERT vhrO number
+INSERT vOrvM string
+ASSIGN vhrO 'F'
+INSERT rr8Ps string
+u6Z x_7Qt4
+INSERT k3Fz string
+INSERT ys string
+RPRINT
+INSERT mDb number
+INSERT wx1u number
+INSERT jyrw_I number
+INSERT gzXN number
+LOOKUP r5
+INSERT bTQ number
+INSERT jUD string
+LOOKUP r5
+INSERT hD number
+PRINT
+PRINT
+INSERT eHEy string
+RPRINT
+INSERT oi2_j string
+INSERT r52cEB string
+INSERT e string

@@ -1,0 +1,26 @@
+INSERT ij1 number
+INSERT d56TLw string
+RPRINT
+INSERT ek string
+INSERT c7B number
+INSERT udel number
+tM srcxAu
+INSERT cJPD string
+INSERT qpf number
+BEGIN
+INSERT ueVSl string
+INSERT n9Dvc number
+INSERT laBGu string
+BEGIN
+ASSIGN cJPD 708
+PRINT
+giieT9 z
+INSERT oRN_sV number
+INSERT fu number
+ASSIGN n9Dvc cJPD
+PRINT
+INSERT vK0 string
+LOOKUP ueVSl
+END
+xcn hgaPw
+RPRINT

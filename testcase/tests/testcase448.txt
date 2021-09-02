@@ -1,0 +1,29 @@
+INSERT vuE number
+INSERT h string
+INSERT vFG number
+INSERT hhZs string
+INSERT f string
+INSERT kBo number
+INSERT rXQ number
+INSERT pBP number
+INSERT e string
+INSERT r2 number
+PRINT
+RPRINT
+INSERT jcNMh string
+LOOKUP vuE
+oBCxp0 gfG
+LOOKUP e
+INSERT m1Zn string
+INSERT xM3m number
+wkU1Y icC
+INSERT cTs2q_ string
+INSERT dv number
+INSERT iX92 number
+ASSIGN kBo 'cJ'
+INSERT yK string
+INSERT f6VpGu string
+INSERT kMv number
+INSERT k number
+INSERT yON string
+INSERT d2GZp string

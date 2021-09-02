@@ -1,0 +1,19 @@
+BEGIN
+INSERT dGzv number
+LOOKUP dGzv
+INSERT o8K5XL string
+INSERT vL_u number
+hvg5 hvMt
+INSERT c string
+PRINT
+INSERT paXbs2 string
+INSERT o string
+INSERT oA6 string
+RPRINT
+INSERT xi1y string
+ASSIGN b c
+INSERT y1cJ6 number
+LOOKUP xi1y
+INSERT rW8vax string
+INSERT y string
+INSERT hQ string

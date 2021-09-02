@@ -1,0 +1,22 @@
+BEGIN
+aNl s
+RPRINT
+PRINT
+INSERT sgtfeC number
+PRINT
+INSERT dsWM string
+LOOKUP dsWM
+BEGIN
+RPRINT
+END
+END
+INSERT t6y number
+INSERT cNEP string
+INSERT bQ4fqx number
+ASSIGN bQ4fqx 730
+END
+INSERT ewdLVP string
+END
+INSERT m2l string
+INSERT mMSP3f number
+INSERT m number

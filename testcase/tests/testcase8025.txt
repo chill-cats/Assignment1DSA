@@ -1,0 +1,4 @@
+INSERT n string
+INSERT n5q string
+ASSIGN n5q 662
+wO os

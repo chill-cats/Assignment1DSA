@@ -1,0 +1,6 @@
+INSERT gy string
+BEGIN
+INSERT fQaEP number
+LOOKUP gy
+RPRINT
+INSERT rAOV string

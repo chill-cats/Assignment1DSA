@@ -1,0 +1,32 @@
+INSERT h3 number
+INSERT oa4zS number
+INSERT iDb number
+END
+PRINT
+LOOKUP h3
+INSERT koD number
+LOOKUP oa4zS
+END
+INSERT zc3 string
+INSERT h string
+INSERT jG string
+ASSIGN zc3 oa4zS
+PRINT
+INSERT g number
+RPRINT
+RPRINT
+RPRINT
+INSERT r string
+RPRINT
+INSERT sl number
+INSERT rxIeJ_ string
+INSERT yose string
+INSERT dl number
+INSERT n string
+INSERT vdo3J number
+INSERT hfd string
+INSERT vjjo number
+INSERT yA3 string
+INSERT qm number
+INSERT uXO number
+INSERT bl3 number

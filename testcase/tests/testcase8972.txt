@@ -1,0 +1,18 @@
+INSERT h9Di string
+END
+INSERT uiU number
+INSERT abX89K string
+INSERT dru7n1 number
+INSERT tes7zR number
+INSERT oGJ number
+RPRINT
+INSERT aGnN number
+PRINT
+INSERT h72 string
+INSERT cSZN string
+INSERT pEviM number
+INSERT e_3 string
+LOOKUP dru7n1
+INSERT h string
+LOOKUP e_3
+LOOKUP h

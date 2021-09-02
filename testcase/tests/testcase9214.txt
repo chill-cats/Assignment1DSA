@@ -1,0 +1,17 @@
+INSERT b_ToHC string
+INSERT igDpNs number
+INSERT nNKL number
+z6F15 zKQg6
+INSERT c number
+INSERT sKEm5 number
+INSERT gtB string
+INSERT gCy number
+BEGIN
+oNI qCFQF
+LOOKUP b_ToHC
+RPRINT
+INSERT o number
+RPRINT
+INSERT v5N6G string
+ASSIGN gCy v5N6G
+PRINT

@@ -1,0 +1,25 @@
+INSERT w string
+INSERT ft string
+INSERT k35K8 string
+INSERT tQtM string
+INSERT q20DA string
+INSERT m4 number
+INSERT ehq1Cb number
+PRINT
+END
+INSERT q83NO number
+END
+INSERT h string
+LOOKUP ehq1Cb
+INSERT xBkUj string
+ASSIGN tQtM 1187
+yXg ox
+INSERT ys string
+INSERT nzx number
+INSERT sKuu string
+INSERT hbPIXA number
+INSERT p string
+INSERT sHo0Zv number
+INSERT cqHR3l string
+BEGIN
+INSERT kzruJJ string

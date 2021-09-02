@@ -1,0 +1,18 @@
+INSERT vZ_lpe number
+END
+RPRINT
+INSERT oYKd string
+INSERT gYVAmk string
+BEGIN
+INSERT h number
+INSERT msPBt number
+INSERT zBiHK string
+INSERT ySL0jf string
+INSERT gaq string
+ASSIGN zBiHK 157
+INSERT syV number
+INSERT w number
+INSERT ugA string
+PRINT
+BEGIN
+LOOKUP oYKd

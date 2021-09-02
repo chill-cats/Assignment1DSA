@@ -1,0 +1,14 @@
+INSERT tYxmC number
+INSERT kSe6B string
+INSERT e number
+INSERT vTz number
+BEGIN
+PRINT
+RPRINT
+ASSIGN tYxmC 'q'
+INSERT k_p72 string
+pc hI
+END
+INSERT vcyZ string
+INSERT zcU1 number
+ASSIGN rvqx 'Fmq'

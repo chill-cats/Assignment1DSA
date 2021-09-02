@@ -1,0 +1,16 @@
+END
+gu ej
+PRINT
+INSERT eBC9 number
+INSERT rJgswW string
+RPRINT
+LOOKUP rJgswW
+PRINT
+ASSIGN eBC9 197
+PRINT
+RPRINT
+RPRINT
+BEGIN
+INSERT elshn number
+INSERT qMh string
+INSERT qwqSNe number

@@ -1,0 +1,23 @@
+INSERT kcsNmc string
+INSERT nQvF number
+INSERT ch string
+INSERT dRz number
+LOOKUP nQvF
+INSERT xNKZI string
+INSERT k number
+LOOKUP nQvF
+INSERT lt string
+INSERT t string
+INSERT h string
+LOOKUP h
+INSERT g8Z6 number
+PRINT
+LOOKUP kcsNmc
+ASSIGN xNKZI dRz
+RPRINT
+INSERT oQ string
+INSERT eqOOu string
+INSERT kl string
+INSERT gCm number
+INSERT i number
+l cb

@@ -1,0 +1,38 @@
+INSERT w3lwI number
+INSERT mN string
+INSERT pibq string
+RPRINT
+PRINT
+BEGIN
+INSERT jg string
+LOOKUP w3lwI
+RPRINT
+END
+INSERT zBeL string
+INSERT iFhtB string
+INSERT aHko number
+INSERT gU string
+INSERT a_yWM string
+INSERT cliywt number
+BEGIN
+INSERT sM number
+INSERT e number
+ASSIGN jg zBeL
+INSERT x string
+BEGIN
+INSERT fif9fu number
+PRINT
+INSERT k string
+INSERT icl string
+INSERT xxjZ3 number
+INSERT pGJNE number
+PRINT
+RPRINT
+RPRINT
+INSERT xtvB string
+INSERT mh string
+END
+END
+INSERT gz4nYI string
+INSERT qbAiy number
+INSERT t number

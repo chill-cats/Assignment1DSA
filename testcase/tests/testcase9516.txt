@@ -1,0 +1,14 @@
+RPRINT
+INSERT s number
+ASSIGN s 540
+BEGIN
+BEGIN
+INSERT zyv number
+ASSIGN zyv 'd'
+PRINT
+INSERT tLVEw number
+INSERT n2losJ string
+BEGIN
+LOOKUP zyv
+INSERT iqEdE number
+LOOKUP tLVEw

@@ -1,0 +1,19 @@
+INSERT l string
+END
+RPRINT
+ASSIGN l 'd3'
+PRINT
+xA aYB
+INSERT z number
+INSERT gS string
+INSERT mwMk number
+RPRINT
+INSERT lB8kq number
+LOOKUP l
+BEGIN
+LOOKUP mwMk
+PRINT
+INSERT nHSah number
+INSERT hG string
+zifGv fXwzU
+INSERT mBnO number

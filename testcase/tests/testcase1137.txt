@@ -1,0 +1,36 @@
+INSERT y7Hm string
+INSERT byF8WO string
+INSERT zL string
+eI s
+INSERT vsZQsv string
+ASSIGN y7Hm 'spyth'
+BEGIN
+LOOKUP y7Hm
+RPRINT
+INSERT cwl4R6 string
+INSERT wJDYgG string
+ASSIGN byF8WO zL
+INSERT fYG6 string
+INSERT x number
+INSERT zTGx string
+INSERT s string
+INSERT g0G string
+INSERT qCfN number
+INSERT oy number
+INSERT bX number
+RPRINT
+INSERT evgXW string
+INSERT pD string
+INSERT u number
+LOOKUP wJDYgG
+INSERT qlOq string
+BEGIN
+INSERT t_YQFY number
+PRINT
+INSERT jNWLIm number
+RPRINT
+INSERT nbnF4c string
+INSERT kvw string
+LOOKUP y7Hm
+INSERT l number
+INSERT j string

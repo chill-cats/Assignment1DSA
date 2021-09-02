@@ -1,0 +1,11 @@
+INSERT iel string
+INSERT uKN string
+INSERT iDpim string
+INSERT kL number
+END
+INSERT a3 number
+INSERT qrne string
+INSERT i6koi number
+END
+BEGIN
+END

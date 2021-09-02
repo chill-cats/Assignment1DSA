@@ -1,0 +1,24 @@
+BEGIN
+RPRINT
+INSERT mZWsh string
+INSERT tx number
+INSERT mamR string
+INSERT eJ string
+LOOKUP mamR
+INSERT dQTT number
+LOOKUP dQTT
+END
+INSERT s5X_O string
+INSERT wvGJ number
+INSERT re string
+INSERT jJrklm string
+PRINT
+BEGIN
+END
+INSERT sLdQEh number
+INSERT lWwe2O number
+INSERT ok string
+INSERT q string
+INSERT w number
+INSERT s string
+LOOKUP tx

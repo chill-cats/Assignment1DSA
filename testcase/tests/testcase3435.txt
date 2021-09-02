@@ -1,0 +1,10 @@
+RPRINT
+INSERT eC2s number
+END
+INSERT sr string
+INSERT mU string
+w_lf nu
+INSERT i6RB number
+LOOKUP i6RB
+INSERT c string
+INSERT tKIT string

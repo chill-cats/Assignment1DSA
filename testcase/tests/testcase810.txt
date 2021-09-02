@@ -1,0 +1,35 @@
+INSERT mY number
+INSERT eAbO7 number
+INSERT y string
+INSERT bMI string
+INSERT nDa number
+INSERT cDOdrB string
+RPRINT
+INSERT lVE string
+PRINT
+PRINT
+RPRINT
+LOOKUP eAbO7
+INSERT uOq number
+PRINT
+INSERT kjV number
+INSERT qK string
+INSERT y string
+INSERT cw string
+INSERT w string
+INSERT qxPS8f string
+INSERT k26M string
+INSERT uSfj number
+RPRINT
+INSERT ugICwT string
+INSERT x string
+END
+INSERT z1f number
+ASSIGN w 768
+xl d
+INSERT olGA string
+INSERT wzAm9 number
+INSERT dIImLL string
+LOOKUP z1f
+RPRINT
+INSERT xT number

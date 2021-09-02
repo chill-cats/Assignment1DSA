@@ -1,0 +1,40 @@
+INSERT ctuGc string
+ASSIGN ctuGc 'oMx'
+INSERT p_mz number
+INSERT ow number
+END
+ASSIGN p_mz 'rDME'
+INSERT ybuDk number
+INSERT jWfc6V string
+INSERT e string
+INSERT iFX26 number
+INSERT s0Ucze string
+INSERT maYXF string
+INSERT lh string
+INSERT nL6i string
+INSERT vsE6fb string
+LOOKUP vsE6fb
+INSERT yV8XXw string
+INSERT yt number
+INSERT j3Wv string
+ASSIGN qI jWfc6V
+INSERT y3rJxb number
+INSERT fkj0zt number
+drzPY k72ni
+ASSIGN e '6A0u'
+LOOKUP iFX26
+INSERT r2 number
+INSERT rbpu number
+INSERT y string
+END
+END
+INSERT y string
+INSERT qVKka string
+LOOKUP ctuGc
+INSERT s9 string
+ASSIGN lh 1029
+LOOKUP rbpu
+END
+INSERT cClz string
+INSERT xlHsiM number
+INSERT gd number

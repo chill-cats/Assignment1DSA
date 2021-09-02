@@ -1,0 +1,30 @@
+LOOKUP slL06_
+RPRINT
+INSERT oqg number
+INSERT nxaK string
+INSERT eoFx5 number
+PRINT
+INSERT hXLwn number
+INSERT hAMNX number
+INSERT iq string
+INSERT o string
+INSERT j8v number
+ASSIGN hAMNX j8v
+PRINT
+INSERT j0wFD number
+INSERT ytga string
+END
+LOOKUP ytga
+INSERT gdGjM number
+END
+ASSIGN o 'O'
+END
+INSERT tU string
+h b
+LOOKUP o
+PRINT
+RPRINT
+END
+INSERT wM string
+INSERT n7 number
+INSERT q6 string

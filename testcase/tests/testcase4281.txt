@@ -1,0 +1,17 @@
+LOOKUP v0AWzB
+INSERT rw number
+LOOKUP rw
+INSERT qw string
+INSERT dQ4 string
+INSERT qHV string
+RPRINT
+INSERT qPCzV number
+LOOKUP qw
+INSERT cv0 string
+END
+INSERT h string
+LOOKUP cv0
+RPRINT
+INSERT tr6 number
+INSERT axicf number
+lZ npm

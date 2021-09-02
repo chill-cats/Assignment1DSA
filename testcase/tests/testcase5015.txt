@@ -1,0 +1,10 @@
+INSERT wW8 number
+INSERT tNQ42T number
+INSERT qF string
+ASSIGN qF 'gN'
+INSERT k number
+INSERT sctI string
+INSERT qRmNAD number
+END
+PRINT
+RPRINT

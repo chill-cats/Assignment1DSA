@@ -1,0 +1,13 @@
+BEGIN
+LOOKUP wZ
+ASSIGN baqX 178
+RPRINT
+INSERT dP string
+INSERT nb number
+INSERT zYj9B_ number
+INSERT m0 string
+INSERT u6par string
+INSERT q string
+ASSIGN dP '9v'
+INSERT ejTS string
+INSERT hyiaiZ string

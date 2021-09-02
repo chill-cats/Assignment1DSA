@@ -1,0 +1,8 @@
+INSERT q string
+INSERT d string
+PRINT
+INSERT v string
+END
+INSERT l72 string
+m3O oI
+INSERT sD number

@@ -1,0 +1,32 @@
+INSERT p1 string
+INSERT yTHV number
+BEGIN
+PRINT
+LOOKUP p1
+INSERT yNSq string
+INSERT sW number
+INSERT gOm9z string
+ASSIGN gOm9z 'EjYM3'
+INSERT h6 string
+INSERT uEuR string
+INSERT aYhoj number
+INSERT vF string
+INSERT t string
+BEGIN
+END
+RPRINT
+INSERT hVf3 number
+INSERT pwB string
+INSERT vopqC string
+INSERT l5 string
+INSERT r3Xt number
+ASSIGN gOm9z '6b '
+INSERT akK number
+INSERT k9 number
+INSERT xKx number
+LOOKUP sW
+RPRINT
+BEGIN
+BEGIN
+PRINT
+INSERT mL number

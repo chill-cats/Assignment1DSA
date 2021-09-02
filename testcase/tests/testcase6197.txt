@@ -1,0 +1,26 @@
+INSERT b39 string
+INSERT jOJ string
+ASSIGN jOJ b39
+INSERT aQfUwJ number
+INSERT h number
+LOOKUP aQfUwJ
+INSERT lJwjVg number
+END
+INSERT eXhv string
+INSERT ygn number
+END
+INSERT tw string
+INSERT f3H number
+PRINT
+INSERT xi7sAu string
+END
+INSERT lGS number
+INSERT ze3s number
+INSERT f string
+INSERT x string
+INSERT sWSG string
+PRINT
+END
+BEGIN
+INSERT if4q string
+INSERT cp6 string

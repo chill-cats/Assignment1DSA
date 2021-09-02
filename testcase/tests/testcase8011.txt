@@ -1,0 +1,9 @@
+INSERT n string
+PRINT
+RPRINT
+INSERT p number
+pUtL2_ aZ
+PRINT
+LOOKUP n
+INSERT ay string
+INSERT ffJ string

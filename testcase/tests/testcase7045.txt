@@ -1,0 +1,35 @@
+PRINT
+INSERT jdB1 string
+INSERT z1 string
+INSERT kooD6W number
+INSERT mEbkF number
+INSERT ncHP string
+INSERT qVi number
+RPRINT
+INSERT dJVix number
+INSERT bf4y string
+INSERT uz number
+INSERT q number
+INSERT a_ string
+INSERT rxt23 number
+INSERT xijST string
+INSERT gzVdK number
+RPRINT
+BEGIN
+RPRINT
+INSERT k string
+ASSIGN mEbkF 'c'
+LOOKUP uz
+LOOKUP qVi
+END
+ASSIGN gzVdK k
+INSERT h number
+PRINT
+INSERT y42 number
+PRINT
+INSERT tOC string
+INSERT aI0nly number
+LOOKUP qVi
+INSERT vrTO4r number
+INSERT acM string
+INSERT y string

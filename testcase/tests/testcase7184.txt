@@ -1,0 +1,40 @@
+INSERT jZ number
+LOOKUP jZ
+END
+INSERT r2pF number
+INSERT ovMavN string
+INSERT wvsOf number
+RPRINT
+PRINT
+uphN lY
+INSERT s string
+INSERT ddKg string
+LOOKUP ovMavN
+END
+ASSIGN ovMavN 749
+BEGIN
+INSERT lsSu number
+INSERT q4b7 number
+END
+INSERT zZ5 string
+INSERT ltReO number
+PRINT
+INSERT gD3 string
+INSERT p string
+PRINT
+LOOKUP q4b7
+k jm
+INSERT dhKCjm string
+INSERT s string
+INSERT yGvfRM number
+END
+INSERT nMDcG number
+INSERT vUQd1m string
+INSERT z4ifn number
+INSERT mBS8b number
+END
+LOOKUP yGvfRM
+LOOKUP z4ifn
+INSERT yGdm string
+INSERT yp number
+LOOKUP jZ

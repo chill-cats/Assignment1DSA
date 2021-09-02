@@ -1,0 +1,25 @@
+LOOKUP yw
+ASSIGN iR 'Y'
+END
+INSERT wa3 string
+INSERT f string
+INSERT orQ7 number
+ASSIGN orQ7 '4UVm'
+xLc jHl3
+PRINT
+INSERT qpBUO string
+INSERT qpCU3 string
+PRINT
+INSERT tDD string
+INSERT pN2 string
+INSERT y8rN number
+LOOKUP tDD
+INSERT eiK number
+INSERT zNhB number
+ASSIGN wa3 qpBUO
+LOOKUP zNhB
+INSERT mkJMY6 number
+bqqkQ gLkeHO
+INSERT mAEm string
+INSERT t_ string
+ASSIGN vSyaq 1107

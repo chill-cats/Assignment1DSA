@@ -1,0 +1,8 @@
+BEGIN
+INSERT i_5MIB string
+INSERT s0Q number
+INSERT ikrL string
+RPRINT
+RPRINT
+PRINT
+INSERT jToIJ number

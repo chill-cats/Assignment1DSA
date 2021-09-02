@@ -1,0 +1,40 @@
+INSERT ouJu string
+LOOKUP ouJu
+INSERT noR string
+INSERT yRjUQc number
+zOSJ_ jLfIi
+INSERT isi string
+ASSIGN ouJu 946
+INSERT vQ55 number
+LOOKUP yRjUQc
+INSERT iVLzQO string
+INSERT vm7K number
+END
+INSERT xHk7 string
+INSERT nh number
+END
+LOOKUP nh
+INSERT fO7T number
+INSERT l6zo string
+xi wgzPF
+RPRINT
+END
+INSERT ix string
+INSERT e4gcNn string
+LOOKUP noR
+zS i
+BEGIN
+INSERT c string
+PRINT
+INSERT hD string
+INSERT asq4 string
+INSERT yE number
+INSERT w string
+INSERT iEpc number
+INSERT v string
+INSERT o string
+INSERT v20L number
+END
+INSERT niAfm string
+INSERT yp string
+INSERT zT number

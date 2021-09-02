@@ -1,0 +1,40 @@
+INSERT lM number
+INSERT cbFR number
+LOOKUP lM
+END
+INSERT olKx string
+INSERT azldG string
+INSERT sBJ number
+ASSIGN sBJ lM
+INSERT hd string
+BEGIN
+BEGIN
+RPRINT
+INSERT zY_yu string
+INSERT pD string
+ASSIGN lM lM
+INSERT g8PTgp number
+INSERT rX string
+RPRINT
+INSERT bmHh2_ string
+ASSIGN bmHh2_ 849
+lpx dti
+INSERT s string
+INSERT r number
+INSERT dvYJ number
+j7d5TE bVYnLc
+INSERT qKw8 string
+PRINT
+INSERT qVif_ string
+PRINT
+INSERT mW8o number
+INSERT aOybr string
+s0oA i
+INSERT a1L_Gt string
+INSERT kAEYse string
+RPRINT
+INSERT m_ string
+ASSIGN hd 'Ac1'
+ASSIGN mW8o '97h'
+fPL eif5c
+INSERT zh number

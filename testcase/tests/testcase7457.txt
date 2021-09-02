@@ -1,0 +1,20 @@
+INSERT qNF number
+LOOKUP qNF
+INSERT lJ string
+pIn sRnHG
+INSERT jaSM number
+END
+INSERT iW8LP string
+INSERT b string
+INSERT w string
+INSERT j string
+INSERT d2_l number
+x z
+PRINT
+INSERT qgS4O number
+INSERT jHou number
+ASSIGN qgS4O 1000
+LOOKUP lJ
+INSERT r495 number
+bGJF0 l
+INSERT l string

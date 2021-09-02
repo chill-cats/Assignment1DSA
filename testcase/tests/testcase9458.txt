@@ -1,0 +1,33 @@
+INSERT h6 string
+LOOKUP h6
+INSERT uM9lf7 string
+LOOKUP uM9lf7
+INSERT g_8x number
+BEGIN
+END
+INSERT c number
+INSERT sGNNZ string
+INSERT b string
+INSERT tTCA0q number
+INSERT yCK6v number
+INSERT aKAsk3 number
+INSERT vxsUn number
+PRINT
+INSERT eSw number
+eaLJ hjR
+INSERT sR number
+INSERT t6 number
+INSERT pRU string
+INSERT n string
+INSERT h0Wtep string
+PRINT
+INSERT xqpu number
+INSERT oEKVE string
+END
+voHZ7 af
+INSERT z69hoo string
+INSERT k number
+lFitJ g9
+LOOKUP pRU
+INSERT vAfk string
+INSERT fCZq string

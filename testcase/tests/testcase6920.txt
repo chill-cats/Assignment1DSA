@@ -1,0 +1,26 @@
+INSERT dn string
+INSERT vM string
+RPRINT
+INSERT m string
+LOOKUP vM
+PRINT
+INSERT d string
+BEGIN
+INSERT aRbv string
+PRINT
+INSERT h_T number
+INSERT sk number
+ASSIGN dn aRbv
+INSERT yy number
+ASSIGN vM 'd'
+LOOKUP aRbv
+PRINT
+LOOKUP sk
+PRINT
+INSERT cnJz string
+INSERT opP_R number
+LOOKUP sk
+RPRINT
+INSERT eXfV string
+INSERT zFGmmF string
+INSERT q string

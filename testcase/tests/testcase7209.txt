@@ -1,0 +1,26 @@
+INSERT i6oK number
+samZd jA
+PRINT
+RPRINT
+INSERT dAPRPM string
+LOOKUP i6oK
+INSERT vY number
+LOOKUP dAPRPM
+INSERT fxD6XB string
+RPRINT
+PRINT
+INSERT uj number
+INSERT w7H9d number
+INSERT nUm string
+INSERT ofhny string
+BEGIN
+ar w6f
+LOOKUP nUm
+RPRINT
+LOOKUP fxD6XB
+INSERT gGCv number
+INSERT fdkFR number
+INSERT wSVs number
+INSERT lAYg9 string
+INSERT mwR3P string
+END

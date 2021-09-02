@@ -1,0 +1,39 @@
+END
+INSERT fF6h string
+INSERT t5Xqy number
+INSERT iFnbE number
+INSERT vYv number
+INSERT e string
+INSERT iST string
+INSERT iBL string
+PRINT
+LOOKUP vYv
+INSERT rIpHcr string
+INSERT zm_yJA string
+LOOKUP rIpHcr
+INSERT nExVr3 string
+INSERT rN number
+INSERT qSC3Wl number
+INSERT dJ string
+RPRINT
+INSERT onsVh2 number
+LOOKUP qSC3Wl
+RPRINT
+INSERT rnNcw string
+ASSIGN qSC3Wl 1020
+PRINT
+PRINT
+wO el7
+INSERT kHmz number
+INSERT cfD string
+INSERT kTr_ string
+BEGIN
+INSERT x9 number
+PRINT
+INSERT mG_ string
+INSERT v5cIR4 number
+INSERT t_NyB number
+END
+INSERT u string
+PRINT
+PRINT

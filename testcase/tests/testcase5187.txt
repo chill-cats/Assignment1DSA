@@ -1,0 +1,25 @@
+INSERT zvQZ string
+INSERT pouJF3 string
+BEGIN
+END
+INSERT j8pjtO number
+INSERT jI8_T2 number
+INSERT uHaP number
+INSERT dQ4SAR string
+RPRINT
+INSERT vVRz number
+LOOKUP vVRz
+INSERT wQV string
+INSERT vBA number
+RPRINT
+INSERT mX number
+INSERT yiY string
+INSERT l62 number
+INSERT l_5 string
+INSERT mow2 string
+INSERT yp string
+RPRINT
+INSERT yKgayt string
+INSERT s0oo number
+INSERT l number
+INSERT foD string

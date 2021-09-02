@@ -1,0 +1,12 @@
+INSERT xAb number
+INSERT f5SPGa number
+INSERT k string
+INSERT x_BUv number
+ASSIGN f5SPGa 567
+INSERT e7g_l string
+INSERT z8pKb string
+BEGIN
+INSERT jWif string
+INSERT n number
+INSERT r string
+BEGIN

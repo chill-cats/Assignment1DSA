@@ -1,0 +1,30 @@
+INSERT wgW string
+LOOKUP wgW
+RPRINT
+BEGIN
+LOOKUP wgW
+INSERT d4jq string
+INSERT jh number
+INSERT nu string
+INSERT aiu number
+INSERT cT string
+END
+INSERT jc2A number
+BEGIN
+INSERT p string
+INSERT uMkZ number
+INSERT q string
+INSERT dYVFO number
+INSERT hHXJG number
+PRINT
+INSERT jr number
+RPRINT
+INSERT elYX6v number
+END
+INSERT miBV number
+INSERT jO0 number
+ASSIGN miBV q
+INSERT jGt number
+END
+INSERT qA number
+INSERT wX string

@@ -1,0 +1,36 @@
+INSERT dch string
+INSERT s_UI number
+INSERT nhchE string
+INSERT hp6vs2 string
+INSERT cJ5X9m number
+INSERT hbGrI string
+BEGIN
+INSERT i5h string
+ASSIGN nhchE 'QLuyM'
+riC18 t
+INSERT f_ number
+gHa w9hw
+INSERT tDOKLb number
+ASSIGN tDOKLb hbGrI
+INSERT nXg string
+INSERT gYzF_ string
+INSERT bBf67K string
+END
+INSERT uoLW3 number
+INSERT meZzX number
+ASSIGN bBf67K f_
+INSERT qg number
+INSERT s string
+ASSIGN i5h tDOKLb
+LOOKUP s_UI
+BEGIN
+LOOKUP cJ5X9m
+INSERT oIFOa string
+ed cg
+PRINT
+INSERT vIgWbc number
+INSERT rCpT number
+INSERT qL number
+LOOKUP gYzF_
+INSERT g number
+BEGIN

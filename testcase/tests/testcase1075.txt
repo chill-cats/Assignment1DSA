@@ -1,0 +1,24 @@
+RPRINT
+INSERT ldGPtE number
+INSERT ai string
+RPRINT
+END
+INSERT q number
+LOOKUP q
+LOOKUP ldGPtE
+END
+INSERT z string
+INSERT aRc number
+INSERT x string
+INSERT wl2 number
+LOOKUP aRc
+INSERT ce3s number
+INSERT q9p2 string
+RPRINT
+INSERT s number
+INSERT sr9 string
+LOOKUP ai
+ASSIGN q 903
+INSERT nO4o number
+END
+INSERT jK_MF number

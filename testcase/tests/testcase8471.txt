@@ -1,0 +1,25 @@
+INSERT nNF8M number
+INSERT sdTWep number
+INSERT fZv2 number
+INSERT b_8A1i number
+INSERT kUdiL number
+LOOKUP b_8A1i
+END
+INSERT asPCI string
+INSERT r string
+LOOKUP bGgZ
+PRINT
+ASSIGN fZv2 612
+INSERT qx1 string
+INSERT qIBr number
+INSERT c number
+INSERT mFhP5 string
+INSERT aS number
+INSERT b number
+INSERT fNimvI string
+END
+INSERT i number
+INSERT epny number
+END
+INSERT j number
+INSERT jQyA43 string

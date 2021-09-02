@@ -1,0 +1,12 @@
+INSERT w string
+INSERT wegZ9k number
+LOOKUP w
+RPRINT
+INSERT nd1 number
+INSERT t0FLL string
+INSERT fTG string
+ASSIGN t0FLL 659
+PRINT
+INSERT gN number
+ASSIGN wegZ9k '6d'
+INSERT ocpAiB string

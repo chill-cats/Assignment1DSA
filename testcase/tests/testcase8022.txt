@@ -1,0 +1,36 @@
+INSERT eP string
+BEGIN
+PRINT
+PRINT
+LOOKUP eP
+INSERT fQ8 number
+INSERT oWiv string
+INSERT sl6R number
+INSERT g3eN number
+INSERT skh string
+INSERT q_ number
+RPRINT
+INSERT iJ number
+END
+INSERT wTLMw number
+INSERT yb string
+INSERT z4Y number
+INSERT fbIS string
+INSERT emBs string
+INSERT vxs number
+INSERT rSYr string
+RPRINT
+INSERT iUqbC string
+INSERT jmbr0 string
+PRINT
+INSERT v string
+INSERT a7LjIp number
+RPRINT
+LOOKUP g3eN
+INSERT fo8 number
+ASSIGN fo8 1003
+LOOKUP fbIS
+BEGIN
+INSERT vVIIv number
+INSERT fyeY number
+PRINT

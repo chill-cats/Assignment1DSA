@@ -1,0 +1,29 @@
+INSERT aAbY string
+INSERT wrf number
+INSERT qtF6k string
+INSERT z0qsjI string
+INSERT ttv number
+eMi dhRL_
+INSERT kHvX string
+INSERT fRkE string
+END
+INSERT i4D number
+INSERT vB number
+INSERT m string
+RPRINT
+INSERT kq5N number
+INSERT jp3g_ string
+INSERT sR8P string
+ASSIGN kq5N 318
+ASSIGN kHvX '8rB6k'
+INSERT fa string
+RPRINT
+BEGIN
+LOOKUP wrf
+INSERT wa number
+INSERT cL string
+INSERT aW5o number
+ASSIGN vB 748
+RPRINT
+ASSIGN kq5N 'ryp'
+PRINT

@@ -1,0 +1,35 @@
+ASSIGN x 'G'
+j sx55
+INSERT n8 string
+INSERT tIP2MG number
+PRINT
+LOOKUP n8
+INSERT n string
+INSERT kc string
+PRINT
+INSERT xCi string
+INSERT i8d string
+INSERT uUH string
+ASSIGN i8d 'jVv'
+INSERT xzk number
+END
+INSERT lePz string
+INSERT b2cRs string
+PRINT
+ASSIGN lePz b2cRs
+LOOKUP tIP2MG
+INSERT tH string
+INSERT e0kS66 number
+INSERT haes number
+BEGIN
+INSERT ua string
+bx x
+END
+INSERT ljdQ string
+RPRINT
+END
+ASSIGN uUH 669
+INSERT ou2 number
+LOOKUP e0kS66
+INSERT lks number
+INSERT r string

@@ -1,0 +1,23 @@
+INSERT mttq number
+INSERT bBX string
+BEGIN
+INSERT mUFl string
+INSERT v40lpq string
+INSERT h4D number
+END
+RPRINT
+ASSIGN h4D h4D
+INSERT xA number
+LOOKUP v40lpq
+LOOKUP v40lpq
+INSERT su7xo number
+BEGIN
+INSERT zh number
+INSERT ePbiN string
+INSERT qwfwKr string
+INSERT aF number
+INSERT lomDr string
+LOOKUP h4D
+INSERT koB0b number
+END
+ASSIGN ePbiN 406

@@ -1,0 +1,35 @@
+RPRINT
+ASSIGN a 775
+INSERT qtf number
+INSERT di number
+INSERT nk number
+INSERT tAn string
+INSERT m1ZkN number
+INSERT co number
+LOOKUP co
+PRINT
+INSERT q number
+INSERT sbQSax string
+PRINT
+INSERT r330O string
+INSERT qJKrDI string
+INSERT jfVRDf number
+INSERT u number
+INSERT b6yHu number
+INSERT k5bc number
+INSERT xZ string
+RPRINT
+INSERT xO0 string
+INSERT yC6 string
+INSERT rl12k number
+INSERT hy string
+INSERT yX77AE number
+INSERT rTPJkg number
+INSERT j71V5 string
+PRINT
+INSERT h_k string
+INSERT eUO number
+INSERT xnaeqo number
+yrNX am6D3
+INSERT cJNUsV string
+INSERT fnnP number

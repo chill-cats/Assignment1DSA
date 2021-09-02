@@ -1,0 +1,9 @@
+INSERT cxLrx number
+INSERT eF number
+INSERT cjmsF number
+INSERT je number
+INSERT yFWVMt string
+INSERT fW3 number
+INSERT bFnL number
+INSERT ug string
+PRINT

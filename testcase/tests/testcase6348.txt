@@ -1,0 +1,15 @@
+n4o h5k
+INSERT mC82 string
+RPRINT
+INSERT iXEP8 string
+INSERT q number
+INSERT i8ib7 string
+INSERT m95Z_ string
+LOOKUP m95Z_
+INSERT hBkLeX number
+INSERT yz1LX_ number
+PRINT
+INSERT j0Y number
+RPRINT
+INSERT yA number
+INSERT nrKpg string

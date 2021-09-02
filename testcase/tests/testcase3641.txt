@@ -1,0 +1,18 @@
+INSERT xPVS number
+ASSIGN xPVS 955
+INSERT xe6nN number
+INSERT r string
+INSERT ootls string
+ASSIGN ootls 'Dn0Nc'
+bQ cwmzG
+INSERT sBiIV number
+INSERT q9ZfiP number
+END
+INSERT i2Hf string
+INSERT wd number
+RPRINT
+INSERT lUwFD number
+INSERT y number
+INSERT p9c93 number
+INSERT nqL0 string
+PRINT

@@ -1,0 +1,10 @@
+INSERT cxr string
+INSERT jeZ9kN number
+END
+INSERT oBxx string
+RPRINT
+INSERT d6VG number
+BEGIN
+END
+PRINT
+INSERT q6_n number

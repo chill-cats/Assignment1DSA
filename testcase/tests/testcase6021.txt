@@ -1,0 +1,32 @@
+INSERT wW number
+LOOKUP wW
+END
+LOOKUP wW
+j y4Ts
+BEGIN
+INSERT lpD string
+INSERT rCj string
+INSERT tTv number
+END
+INSERT yK6 number
+INSERT n number
+LOOKUP n
+INSERT m number
+INSERT d93Y number
+RPRINT
+c u
+INSERT l_zz number
+INSERT s string
+INSERT l73nFF number
+tLqz aiM
+INSERT cEor string
+LOOKUP yK6
+INSERT aZ string
+LOOKUP yK6
+PRINT
+LOOKUP c
+INSERT jryzVs number
+INSERT pkY string
+PRINT
+INSERT e5 number
+INSERT vIu string

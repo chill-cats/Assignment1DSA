@@ -1,0 +1,38 @@
+INSERT wd4 string
+END
+ASSIGN wd4 1039
+PRINT
+LOOKUP wd4
+INSERT xVII4y string
+INSERT chnxl string
+ASSIGN wd4 'vrYVz'
+LOOKUP rkvZZM
+INSERT a number
+INSERT e0IbUK string
+ysFJ g
+BEGIN
+INSERT j5jd8 string
+RPRINT
+INSERT a7 string
+RPRINT
+INSERT hXw number
+PRINT
+INSERT bWx3s number
+INSERT twWyq number
+INSERT u string
+INSERT hMmv6 string
+INSERT rppGZ number
+END
+LOOKUP e0IbUK
+INSERT sx1ut string
+INSERT gE9 number
+INSERT yYOQ number
+INSERT vDK number
+INSERT qZWn number
+INSERT zj2X number
+LOOKUP vDK
+RPRINT
+v xR
+INSERT dD number
+INSERT hR3Tr string
+PRINT

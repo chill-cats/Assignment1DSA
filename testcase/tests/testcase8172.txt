@@ -1,0 +1,7 @@
+INSERT tL string
+INSERT zsJJ4F string
+BEGIN
+INSERT jKCaa number
+INSERT tuY number
+INSERT ySZo number
+PRINT

@@ -1,0 +1,33 @@
+INSERT cq number
+LOOKUP cq
+INSERT yU string
+ASSIGN cq 249
+INSERT fB string
+INSERT uNg string
+dE3 o
+rILnR aM
+RPRINT
+INSERT u string
+INSERT p number
+INSERT rhcn string
+INSERT h3oIX number
+INSERT l string
+jY jN0M14
+INSERT lvAQz number
+INSERT chDZ number
+LOOKUP cq
+BEGIN
+ASSIGN uNg 332
+INSERT ijLbw_ string
+BEGIN
+INSERT bWtNXw string
+PRINT
+INSERT nUeN string
+ASSIGN yU 895
+PRINT
+INSERT sNS3 number
+PRINT
+INSERT tAZT2 number
+j liL
+INSERT zEYGn string
+INSERT lwIHWg number

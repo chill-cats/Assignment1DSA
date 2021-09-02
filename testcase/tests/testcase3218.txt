@@ -1,0 +1,4 @@
+LOOKUP t
+PRINT
+ASSIGN dzbLtL 458
+INSERT l number

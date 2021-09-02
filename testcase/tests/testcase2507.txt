@@ -1,0 +1,18 @@
+BEGIN
+INSERT bpL number
+ASSIGN bpL 'S'
+INSERT l5c number
+INSERT r number
+INSERT e number
+END
+PRINT
+INSERT c954 string
+BEGIN
+INSERT lR3 number
+INSERT q6x string
+INSERT evXWK string
+LOOKUP c954
+ASSIGN q6x 38
+INSERT cvrGpn string
+RPRINT
+BEGIN

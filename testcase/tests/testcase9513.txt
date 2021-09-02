@@ -1,0 +1,10 @@
+INSERT o number
+LOOKUP o
+INSERT kD string
+INSERT xaph string
+INSERT sia_G string
+INSERT nV9p3 number
+INSERT zSZo string
+INSERT cQ6 string
+INSERT fgeXl5 string
+PRINT

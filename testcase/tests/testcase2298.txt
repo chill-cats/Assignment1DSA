@@ -1,0 +1,19 @@
+INSERT mMx string
+ASSIGN mMx '17'
+INSERT vmrmiV number
+INSERT m number
+INSERT cd string
+INSERT d number
+LOOKUP cd
+PRINT
+ASSIGN m mMx
+INSERT oH2D9 number
+INSERT tO number
+RPRINT
+INSERT j7 number
+END
+INSERT i number
+INSERT v1AFbZ string
+INSERT b number
+INSERT jBuB0 number
+INSERT bT number

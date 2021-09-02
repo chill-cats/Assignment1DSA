@@ -1,0 +1,22 @@
+PRINT
+ASSIGN hUe0 '2Y'
+INSERT s_hbO number
+xa u7yi
+INSERT bNPw number
+ASSIGN s_hbO bNPw
+INSERT yfSM3 number
+INSERT yH string
+INSERT r_ string
+BEGIN
+INSERT yyno number
+END
+rZM5Q bS
+BEGIN
+INSERT cZZbc string
+INSERT zbRi string
+INSERT iUOH5 number
+INSERT bCFg string
+LOOKUP yfSM3
+INSERT r2Ze string
+INSERT lRg string
+ASSIGN yH yfSM3

@@ -1,0 +1,23 @@
+INSERT a string
+ASSIGN a 'w'
+INSERT zxe string
+END
+INSERT ogp string
+INSERT w3CJGF number
+INSERT tB4YNN string
+INSERT yQzrBm number
+INSERT uKD string
+RPRINT
+INSERT bLzUGS string
+INSERT bVQt number
+INSERT iY string
+INSERT gW number
+INSERT p string
+INSERT j number
+INSERT vg8 string
+INSERT vhOcZ number
+PRINT
+INSERT o0DXX number
+INSERT v number
+INSERT hi7OS string
+BEGIN

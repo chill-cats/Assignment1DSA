@@ -1,0 +1,23 @@
+INSERT e number
+PRINT
+BEGIN
+INSERT e string
+INSERT l string
+INSERT sL string
+INSERT s7 string
+INSERT qZ20 number
+INSERT u8 number
+PRINT
+END
+INSERT dbj6 number
+INSERT madt string
+END
+PRINT
+INSERT vvifo string
+LOOKUP madt
+INSERT w number
+INSERT n1 number
+INSERT wwQL string
+INSERT l number
+INSERT lVicWO string
+PRINT

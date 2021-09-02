@@ -1,0 +1,31 @@
+INSERT eao4 number
+INSERT g4Mih string
+INSERT dI string
+END
+BEGIN
+LOOKUP g4Mih
+LOOKUP eao4
+ASSIGN g4Mih 'iEjJG'
+INSERT ka10Z string
+INSERT wISc string
+INSERT yA string
+PRINT
+INSERT dMJ_C string
+INSERT o string
+INSERT zhl number
+LOOKUP dI
+INSERT zq_j string
+INSERT r number
+INSERT aK9O string
+PRINT
+INSERT qE string
+INSERT ntHC number
+INSERT v string
+INSERT gevnkO string
+INSERT vM string
+INSERT m string
+INSERT r string
+INSERT kuJ number
+BEGIN
+ASSIGN gevnkO dMJ_C
+INSERT c number

@@ -1,0 +1,22 @@
+BEGIN
+INSERT ph string
+INSERT hWLT number
+PRINT
+INSERT r string
+LOOKUP ph
+LOOKUP ph
+INSERT d8f number
+LOOKUP r
+INSERT moQC number
+INSERT oigt4 number
+INSERT oI9_hs string
+INSERT ecRbM1 number
+INSERT c5JJzO number
+RPRINT
+INSERT y9 string
+INSERT j string
+INSERT n string
+INSERT z1Jgs string
+INSERT pjT number
+INSERT g string
+INSERT iCb0 string

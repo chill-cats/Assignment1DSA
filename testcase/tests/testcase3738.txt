@@ -1,0 +1,32 @@
+INSERT lC string
+INSERT b3Gr number
+xId vDas
+INSERT fd73oG string
+INSERT yB string
+INSERT al number
+INSERT nB number
+INSERT rR number
+INSERT v2fZw string
+INSERT b4oF8 string
+BEGIN
+INSERT xK string
+INSERT y string
+INSERT h1 string
+INSERT l8c3lE number
+INSERT xV2 string
+LOOKUP h1
+INSERT zQFG string
+INSERT u number
+ASSIGN zNo 'uxZ5z'
+PRINT
+PRINT
+INSERT hA string
+PRINT
+ASSIGN v2fZw 'WmO'
+RPRINT
+RPRINT
+i bX
+INSERT fJOS8j number
+INSERT jD9_7 number
+END
+INSERT uG1 string

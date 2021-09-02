@@ -1,0 +1,32 @@
+LOOKUP v3t
+INSERT jbu string
+INSERT t98 number
+INSERT mSBBDx string
+ASSIGN jbu jbu
+ASSIGN jbu 1157
+INSERT c9Sx string
+INSERT nT6ImL number
+INSERT nMmq string
+INSERT gYGho2 string
+RPRINT
+INSERT lBvonr number
+RPRINT
+RPRINT
+INSERT xu4T string
+BEGIN
+INSERT fm string
+INSERT oJnG number
+tU zCK3
+ASSIGN c9Sx 'OCR'
+ASSIGN mSBBDx c9Sx
+INSERT zO number
+PRINT
+END
+INSERT o string
+RPRINT
+INSERT q string
+LOOKUP lBvonr
+INSERT nDll string
+PRINT
+INSERT s string
+PRINT

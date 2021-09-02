@@ -1,0 +1,27 @@
+INSERT bKn_Zi number
+INSERT y number
+INSERT r string
+RPRINT
+INSERT mEZ7O number
+INSERT lQUMM number
+ASSIGN bKn_Zi 299
+INSERT v0b string
+PRINT
+PRINT
+INSERT h5VY9i string
+INSERT a3ZJ string
+INSERT jT string
+INSERT y string
+RPRINT
+INSERT oDq3 number
+INSERT pKCNjN string
+INSERT ttzT95 number
+INSERT obCP1 number
+INSERT qno number
+INSERT dAk number
+END
+INSERT hz string
+INSERT utyWYG number
+INSERT cMfD number
+LOOKUP h5VY9i
+ASSIGN bKn_Zi 'RTV'

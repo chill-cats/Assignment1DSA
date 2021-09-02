@@ -1,0 +1,11 @@
+BEGIN
+INSERT y2Z number
+INSERT zj3S string
+INSERT eKy_AG string
+INSERT wE number
+INSERT zNF string
+INSERT j string
+INSERT cUQDNo number
+INSERT m8xWFG string
+INSERT d string
+INSERT qm number

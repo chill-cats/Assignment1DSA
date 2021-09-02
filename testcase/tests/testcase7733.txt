@@ -1,0 +1,9 @@
+ASSIGN lLe 'VPdsg'
+INSERT s number
+INSERT f string
+LOOKUP s
+INSERT eydbQI number
+RPRINT
+PRINT
+PRINT
+INSERT bVUW number

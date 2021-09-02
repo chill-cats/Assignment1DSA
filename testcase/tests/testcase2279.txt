@@ -1,0 +1,38 @@
+INSERT g string
+RPRINT
+INSERT pV number
+RPRINT
+INSERT q5Z string
+INSERT fgcNbg string
+ASSIGN pV 'RfhW2'
+INSERT mw string
+INSERT g number
+INSERT y7 string
+INSERT oz number
+INSERT ky string
+INSERT m_IIK number
+INSERT h string
+INSERT snY number
+INSERT fj number
+INSERT ah3C number
+RPRINT
+INSERT m string
+END
+INSERT dvZ string
+rp d_d1
+RPRINT
+LOOKUP q5Z
+INSERT gxj5 string
+INSERT c0P number
+PRINT
+BEGIN
+INSERT l string
+INSERT qK817 number
+INSERT e3nu number
+LOOKUP gxj5
+INSERT n7d string
+INSERT iS4 number
+RPRINT
+gi0 b1wDpL
+INSERT v2 string
+END

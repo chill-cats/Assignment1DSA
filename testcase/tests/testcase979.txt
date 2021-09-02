@@ -1,0 +1,16 @@
+INSERT iWOCLC number
+INSERT dbTQz string
+LOOKUP dbTQz
+PRINT
+LOOKUP iWOCLC
+INSERT ntl number
+INSERT ybto string
+BEGIN
+INSERT x number
+INSERT yKM4B number
+INSERT eTxZJM number
+INSERT tVY8m number
+BEGIN
+s4vT n
+INSERT sT number
+END

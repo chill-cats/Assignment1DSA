@@ -1,0 +1,14 @@
+INSERT vcS string
+INSERT uqXH string
+ASSIGN uqXH 1167
+LOOKUP vcS
+INSERT a number
+INSERT eexTf number
+c7K9 q2SRM
+BEGIN
+INSERT qR number
+ASSIGN eexTf 1224
+INSERT uv string
+ASSIGN uqXH 944
+ASSIGN uqXH ' jmpR'
+INSERT zjfyBD number

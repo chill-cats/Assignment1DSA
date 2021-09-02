@@ -1,0 +1,31 @@
+END
+INSERT jS string
+RPRINT
+END
+BEGIN
+RPRINT
+INSERT s7XY number
+LOOKUP jS
+INSERT oni string
+INSERT zE25 number
+END
+LOOKUP s7XY
+INSERT h6 string
+BEGIN
+ASSIGN oni 'oej'
+INSERT wE number
+INSERT gS string
+l csek
+INSERT iWiV number
+INSERT y number
+END
+INSERT m string
+BEGIN
+END
+BEGIN
+INSERT lnDc number
+ASSIGN oni 'LhFZI'
+INSERT n number
+INSERT aJv string
+END
+END

@@ -1,0 +1,29 @@
+u ou3u8g
+INSERT bKHM string
+INSERT dBy number
+END
+INSERT lB number
+PRINT
+ASSIGN lB lB
+PRINT
+INSERT eeF number
+END
+INSERT v number
+RPRINT
+INSERT tltW4F string
+PRINT
+INSERT yCl string
+INSERT cY number
+INSERT d number
+ASSIGN dBy 'dd'
+INSERT afPi string
+INSERT s string
+INSERT xKo string
+INSERT yi6z string
+BEGIN
+INSERT zL string
+INSERT pkbV string
+INSERT kRSkps string
+PRINT
+INSERT daE6w string
+INSERT cxM string

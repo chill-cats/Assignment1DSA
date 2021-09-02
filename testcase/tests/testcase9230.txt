@@ -1,0 +1,31 @@
+INSERT p4RH7 number
+INSERT r_Kx string
+INSERT cv number
+INSERT wS number
+INSERT dqyA number
+BEGIN
+INSERT akt string
+INSERT rl number
+INSERT m number
+INSERT iX2hj string
+INSERT pV string
+INSERT mKI string
+INSERT t6W string
+INSERT zOvQV string
+INSERT sc number
+INSERT iv32q string
+INSERT mJ number
+LOOKUP t6W
+PRINT
+INSERT u string
+RPRINT
+END
+INSERT aE5E string
+INSERT ujU number
+INSERT nWe string
+INSERT xOx string
+INSERT p33rG number
+INSERT b6e number
+INSERT tJ number
+PRINT
+PRINT

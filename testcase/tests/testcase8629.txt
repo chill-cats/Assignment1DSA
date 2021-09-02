@@ -1,0 +1,36 @@
+INSERT p string
+PRINT
+INSERT pl6sD number
+INSERT s number
+LOOKUP p
+ASSIGN p 1216
+INSERT kjmB7 number
+ASSIGN p s
+INSERT ulG3 number
+INSERT cIxCrH string
+INSERT gI number
+INSERT beb number
+INSERT zA string
+INSERT gBfP string
+INSERT t string
+INSERT vWB string
+INSERT u number
+INSERT sAv number
+INSERT mA number
+INSERT t string
+INSERT e string
+PRINT
+INSERT vtsY string
+INSERT oWwgSH string
+INSERT z5 number
+INSERT yxAP string
+INSERT d_a number
+INSERT azxYKK number
+INSERT nR1 string
+INSERT okqC number
+ASSIGN cIxCrH 149
+s dWsuoJ
+INSERT r string
+LOOKUP t
+INSERT yqXw number
+INSERT k number

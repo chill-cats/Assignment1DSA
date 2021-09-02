@@ -1,0 +1,40 @@
+INSERT sWnm0 string
+INSERT mAi number
+INSERT zZ7y number
+INSERT c3 number
+BEGIN
+INSERT hdL6 string
+INSERT jp string
+INSERT rPaQO string
+LOOKUP c3
+RPRINT
+INSERT zw string
+INSERT jt string
+INSERT oKnIo number
+RPRINT
+END
+END
+PRINT
+END
+INSERT jQCs string
+LOOKUP jp
+END
+END
+vhAQLf n4
+END
+RPRINT
+END
+RPRINT
+INSERT lg number
+INSERT qw4SLN string
+INSERT af string
+e9IjxQ jB2lQD
+INSERT eV string
+INSERT gP number
+ASSIGN zw 876
+INSERT xD9jLb string
+INSERT gTn4h number
+BEGIN
+ASSIGN xD9jLb 'fL'
+INSERT rID number
+INSERT ms number

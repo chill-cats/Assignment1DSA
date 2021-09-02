@@ -1,0 +1,13 @@
+INSERT oLN1De number
+beT yKhT
+PRINT
+INSERT u0 string
+INSERT fH7taG number
+LOOKUP oLN1De
+INSERT griNyB number
+INSERT ioW string
+INSERT m9pet number
+INSERT yJnVR string
+LOOKUP m9pet
+BEGIN
+RPRINT

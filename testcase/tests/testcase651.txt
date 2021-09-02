@@ -1,0 +1,28 @@
+INSERT zE number
+INSERT b string
+RPRINT
+PRINT
+BEGIN
+INSERT jIGcES number
+INSERT d6alYs string
+INSERT zu9 string
+INSERT dIc number
+INSERT mQ4 string
+RPRINT
+INSERT bNa8 number
+INSERT uHatm3 number
+INSERT ju string
+INSERT ht number
+INSERT t5Md string
+INSERT x string
+INSERT kGLG7O number
+PRINT
+INSERT rZ string
+INSERT mjxa string
+INSERT ea_zO number
+LOOKUP zu9
+RPRINT
+INSERT e number
+ASSIGN e 219
+INSERT lFd string
+ASSIGN jIGcES 'g'

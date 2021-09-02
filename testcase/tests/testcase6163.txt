@@ -1,0 +1,28 @@
+ASSIGN s41EMs 1120
+yRe4 ht
+INSERT qdI string
+INSERT o number
+INSERT h_3s5 number
+INSERT h94QpV string
+RPRINT
+INSERT fd number
+INSERT yU string
+INSERT g number
+INSERT g0ks string
+INSERT w4sfR string
+INSERT bQ string
+INSERT fAlz9o string
+INSERT yI string
+INSERT rP61q string
+INSERT an number
+INSERT yfN7 number
+INSERT o5F4mV number
+INSERT dIOEk string
+LOOKUP o5F4mV
+INSERT us string
+INSERT m number
+INSERT n number
+INSERT s_a2 number
+PRINT
+INSERT fjsb string
+RPRINT

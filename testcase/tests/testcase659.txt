@@ -1,0 +1,5 @@
+INSERT bbwiJ string
+BEGIN
+INSERT kg number
+INSERT nVR number
+INSERT x2VS string

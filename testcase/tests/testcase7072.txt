@@ -1,0 +1,38 @@
+PRINT
+PRINT
+LOOKUP tsI
+INSERT f string
+INSERT ubcjli string
+LOOKUP ubcjli
+INSERT qKq number
+iGc eUFRiT
+INSERT lL string
+fg tu
+INSERT a2TX8 number
+INSERT eqDh string
+INSERT fMjUUC string
+RPRINT
+INSERT rTvU string
+INSERT wrT5sO string
+INSERT sYb4mv number
+INSERT vcHi number
+INSERT s number
+INSERT iPa9Ch string
+INSERT jIg number
+INSERT m string
+PRINT
+glTbJY l04J
+INSERT c5q string
+INSERT hD76mS string
+ASSIGN hD76mS 'cUIe'
+INSERT uAm330 number
+INSERT g0Gm9f number
+PRINT
+INSERT dH number
+INSERT y string
+INSERT r string
+INSERT q5b string
+INSERT sd5DL number
+INSERT uTSbe string
+INSERT f string
+LOOKUP jIg

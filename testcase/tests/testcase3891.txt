@@ -1,0 +1,13 @@
+RPRINT
+BEGIN
+INSERT q_9_r string
+INSERT jDrQ number
+INSERT i0b string
+INSERT rvL3Oq string
+PRINT
+INSERT qc8CaU number
+INSERT dWg string
+INSERT zi string
+INSERT eZlT number
+LOOKUP i0b
+PRINT

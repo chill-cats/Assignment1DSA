@@ -1,0 +1,3 @@
+PRINT
+INSERT wC number
+INSERT mcU number

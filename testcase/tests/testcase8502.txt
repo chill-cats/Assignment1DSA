@@ -1,0 +1,35 @@
+RPRINT
+INSERT u number
+INSERT tlidF number
+ASSIGN u tlidF
+INSERT kKEYhc string
+INSERT otXUK string
+LOOKUP kKEYhc
+INSERT lZiEQ number
+INSERT yUan string
+END
+PRINT
+INSERT wFB5lk number
+END
+LOOKUP tlidF
+INSERT v number
+END
+RPRINT
+INSERT hdL string
+INSERT yr string
+ASSIGN yUan 'fB'
+INSERT sW27z string
+INSERT maQImq number
+INSERT aDNNSy number
+INSERT oTDdl number
+INSERT d3KD3D string
+INSERT jAnPvF string
+INSERT b string
+INSERT hems string
+LOOKUP hems
+LOOKUP u
+PRINT
+INSERT oyDJ string
+INSERT cY number
+LOOKUP maQImq
+INSERT d number

@@ -1,0 +1,23 @@
+bd avBn
+INSERT l string
+INSERT l_ofEp string
+INSERT r number
+INSERT q string
+LOOKUP q
+INSERT c string
+END
+INSERT zq4yIo string
+INSERT s8W string
+INSERT vZUvy string
+INSERT n number
+PRINT
+INSERT wpaIOA string
+INSERT x number
+INSERT mH number
+INSERT f string
+INSERT nWW string
+INSERT tN7oA string
+ASSIGN wpaIOA nWW
+PRINT
+ASSIGN l mH
+END

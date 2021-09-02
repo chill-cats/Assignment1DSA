@@ -1,0 +1,14 @@
+INSERT v number
+INSERT kcxt string
+INSERT gr2 number
+RPRINT
+BEGIN
+INSERT h string
+INSERT u6i number
+INSERT cDr5d5 string
+w54 m5
+INSERT uWtj number
+ASSIGN gr2 kcxt
+INSERT b4Vjw string
+fMfS xLjy3
+INSERT kM string

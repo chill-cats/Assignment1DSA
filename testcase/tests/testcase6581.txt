@@ -1,0 +1,29 @@
+INSERT c0iL number
+INSERT gRgpQ number
+LOOKUP c0iL
+aAy rBNT1q
+PRINT
+INSERT qZQHd number
+ASSIGN qZQHd 369
+INSERT glj string
+ASSIGN c0iL qZQHd
+ASSIGN gRgpQ qZQHd
+INSERT f number
+ASSIGN gRgpQ glj
+END
+INSERT g2 number
+ASSIGN qZQHd 'WdM'
+ASSIGN g2 'JM'
+INSERT i9i number
+INSERT fpLFqI string
+ASSIGN gRgpQ 'dWg'
+BEGIN
+ASSIGN fpLFqI gRgpQ
+RPRINT
+INSERT q string
+BEGIN
+INSERT cCAC_ number
+INSERT w number
+BEGIN
+INSERT yAhAi string
+INSERT qlI number

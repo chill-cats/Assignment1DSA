@@ -1,0 +1,39 @@
+INSERT i4 number
+BEGIN
+INSERT ka string
+INSERT c6 string
+f t
+INSERT zBpV number
+INSERT b number
+PRINT
+INSERT m number
+INSERT kt5 string
+PRINT
+PRINT
+INSERT aBMdX number
+INSERT xfFC8 number
+LOOKUP zm
+RPRINT
+LOOKUP i4
+INSERT h number
+INSERT zW number
+INSERT q0d2jF string
+INSERT b6S44 string
+INSERT wtsphY string
+INSERT en number
+INSERT m3P_ number
+INSERT kSB4 string
+INSERT p2G string
+INSERT h number
+INSERT gOM number
+RPRINT
+INSERT k number
+RPRINT
+BEGIN
+END
+INSERT ea string
+INSERT mgF5Hn number
+op nUY1f
+INSERT d number
+INSERT qr string
+INSERT nM string

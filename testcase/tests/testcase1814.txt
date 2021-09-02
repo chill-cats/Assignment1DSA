@@ -1,0 +1,24 @@
+INSERT kr38h number
+END
+INSERT ik1 number
+RPRINT
+LOOKUP ik1
+PRINT
+ASSIGN kr38h kr38h
+INSERT hI9Osn string
+RPRINT
+INSERT i20mv string
+RPRINT
+LOOKUP i20mv
+INSERT lyePL string
+INSERT sDo6 number
+ASSIGN i20mv hI9Osn
+LOOKUP xA
+ASSIGN kr38h 'fxuSM'
+INSERT x number
+END
+INSERT nfV38y number
+INSERT fEShNl number
+PRINT
+INSERT p1sg4r string
+INSERT aA string

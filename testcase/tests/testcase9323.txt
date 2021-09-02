@@ -1,0 +1,26 @@
+INSERT u416q1 string
+PRINT
+INSERT m_CK string
+INSERT grdCL string
+INSERT e1 number
+INSERT y4a number
+INSERT vWN string
+INSERT ydB string
+INSERT f number
+PRINT
+INSERT j string
+INSERT ejC5h number
+ASSIGN u416q1 191
+INSERT qyF string
+INSERT k4 number
+INSERT q string
+INSERT n8ixqh number
+INSERT jg9 string
+PRINT
+INSERT gdkNB number
+LOOKUP j
+INSERT xeE1O number
+INSERT r number
+PRINT
+INSERT n2N number
+INSERT hYMCag number

@@ -1,0 +1,37 @@
+INSERT lb string
+INSERT cS8 string
+INSERT v string
+LOOKUP v
+ASSIGN v cS8
+INSERT r8L_ string
+INSERT eZ number
+INSERT a9dAh5 string
+INSERT y1PslX string
+xwsZk u19
+ASSIGN lb 'UVD'
+RPRINT
+INSERT t string
+ASSIGN r8L_ eZ
+INSERT emEn5n string
+INSERT i number
+INSERT neHK number
+INSERT duHF1 number
+INSERT oPc number
+INSERT wN4fYB number
+INSERT oUnK string
+RPRINT
+ASSIGN i 'k'
+ASSIGN lb 'JK'
+INSERT lw string
+ASSIGN cS8 475
+INSERT aEYdI string
+INSERT wU number
+INSERT yBG string
+PRINT
+PRINT
+INSERT pr number
+snge r7p
+ASSIGN oUnK v
+INSERT t string
+INSERT iEgmER string
+INSERT uVs string

@@ -1,0 +1,37 @@
+INSERT rs5C5 number
+PRINT
+LOOKUP rs5C5
+INSERT gHCP string
+INSERT b1uxB number
+INSERT cSBQZb string
+PRINT
+INSERT gly0a string
+RPRINT
+PRINT
+LOOKUP gHCP
+INSERT lt0 string
+LOOKUP cSBQZb
+BEGIN
+END
+BEGIN
+ASSIGN gly0a 'z'
+RPRINT
+RPRINT
+INSERT w_ string
+PRINT
+END
+INSERT tH_nN string
+RPRINT
+INSERT gR32 string
+INSERT vHdlt string
+INSERT xfPe number
+RPRINT
+INSERT oC number
+LOOKUP vHdlt
+LOOKUP tH_nN
+LOOKUP oC
+INSERT m string
+INSERT l string
+PRINT
+INSERT wnK number
+BEGIN

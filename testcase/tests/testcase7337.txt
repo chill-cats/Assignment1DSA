@@ -1,0 +1,15 @@
+ASSIGN p 'eP'
+BEGIN
+BEGIN
+LOOKUP f
+INSERT wC string
+INSERT lgL number
+INSERT j number
+INSERT i string
+RPRINT
+INSERT s string
+INSERT gQ1S string
+INSERT glmaIP string
+INSERT k6 number
+zN n
+LOOKUP s

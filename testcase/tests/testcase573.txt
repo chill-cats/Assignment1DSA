@@ -1,0 +1,13 @@
+INSERT z6DWz number
+INSERT esZ4ve number
+INSERT a59A2 string
+INSERT v number
+END
+INSERT u number
+rfw0AU c9f
+BEGIN
+INSERT iaD4lO string
+LOOKUP esZ4ve
+INSERT cTRY number
+RPRINT
+BEGIN

@@ -1,0 +1,11 @@
+RPRINT
+LOOKUP v
+INSERT qsH1__ string
+INSERT ll_6 string
+INSERT gA string
+END
+INSERT y_S number
+BEGIN
+INSERT z2 number
+RPRINT
+INSERT y number

@@ -1,0 +1,37 @@
+INSERT j4cN number
+LOOKUP j4cN
+RPRINT
+INSERT u7Kcoi number
+END
+INSERT hdjdf string
+PRINT
+LOOKUP u7Kcoi
+INSERT oOV number
+END
+LOOKUP oOV
+PRINT
+INSERT ds number
+PRINT
+ASSIGN oOV 'lxp'
+INSERT a string
+RPRINT
+INSERT tKeN string
+PRINT
+INSERT quH number
+INSERT zsmcy number
+BEGIN
+INSERT wGU number
+INSERT vWwfLh number
+LOOKUP ds
+INSERT sIh1EG number
+INSERT zTbb string
+INSERT r number
+pw1 q
+INSERT grrDia string
+INSERT iu number
+INSERT c1UFK number
+INSERT i string
+INSERT eLeRCO string
+INSERT oP string
+INSERT m number
+INSERT aObM7h string

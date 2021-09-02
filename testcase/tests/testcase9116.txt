@@ -1,0 +1,33 @@
+RPRINT
+BEGIN
+END
+INSERT dIgMrw number
+PRINT
+BEGIN
+END
+ASSIGN dIgMrw 'ql'
+ASSIGN dIgMrw 836
+INSERT iX string
+INSERT wgKh number
+ASSIGN wgKh 641
+INSERT ylA string
+INSERT v8Xh string
+RPRINT
+INSERT x6dGW number
+i_0 oc19hw
+LOOKUP dIgMrw
+BEGIN
+INSERT hd_OI string
+INSERT zjle number
+INSERT a2vn6_ number
+INSERT tJxKP string
+INSERT ks number
+INSERT w number
+INSERT vwL number
+jKFf f3
+INSERT vV string
+ASSIGN wgKh 1157
+INSERT o7yLVu number
+INSERT heLSy string
+INSERT lrglic number
+ASSIGN lrglic '8I'

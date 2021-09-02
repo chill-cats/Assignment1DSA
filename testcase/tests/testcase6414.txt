@@ -1,0 +1,13 @@
+INSERT qDR string
+INSERT md string
+INSERT wEh string
+INSERT kcK string
+INSERT bge number
+INSERT z_ number
+INSERT efBj string
+LOOKUP bge
+INSERT eJp string
+RPRINT
+END
+INSERT baOqx string
+RPRINT

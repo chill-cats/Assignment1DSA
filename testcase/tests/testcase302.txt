@@ -1,0 +1,36 @@
+END
+INSERT dXI0h number
+END
+INSERT m number
+INSERT v string
+INSERT n string
+INSERT y number
+INSERT jy73 number
+INSERT bj9W string
+INSERT wuX73 string
+INSERT n number
+END
+INSERT xlg string
+INSERT pk string
+INSERT xx string
+INSERT m number
+LOOKUP y
+ASSIGN jy73 '4Fx'
+INSERT n8a0 string
+END
+INSERT yFKM number
+INSERT cihzd number
+bVR c
+INSERT sn number
+INSERT b4E7y2 number
+INSERT oMVP number
+INSERT pP string
+INSERT wa22 number
+INSERT nKg4nQ string
+END
+INSERT a38s number
+INSERT q9pF number
+INSERT kx6b string
+INSERT ti number
+INSERT zCVbZM number
+ASSIGN a38s 'W r'

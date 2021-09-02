@@ -1,0 +1,18 @@
+INSERT c1bgo8 number
+RPRINT
+n2qT2E g0m
+END
+INSERT cTEiLu string
+INSERT akro number
+END
+RPRINT
+END
+INSERT f9tK number
+INSERT ysE4 string
+INSERT rJ0 string
+END
+INSERT v number
+INSERT tg8d number
+ASSIGN ysE4 f9tK
+INSERT d number
+INSERT vLshq number

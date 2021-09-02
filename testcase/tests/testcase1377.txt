@@ -1,0 +1,21 @@
+RPRINT
+INSERT pO number
+INSERT iadCQb string
+INSERT g75w1 number
+INSERT bb string
+PRINT
+ASSIGN g75w1 bb
+INSERT yLlz5 number
+ASSIGN pO 733
+INSERT h number
+INSERT qV number
+RPRINT
+INSERT oZLyp number
+RPRINT
+INSERT qx4Fg string
+RPRINT
+v sai
+INSERT y number
+INSERT geMpjB number
+INSERT iqCff string
+INSERT aUMp9 string

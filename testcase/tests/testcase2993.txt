@@ -1,0 +1,30 @@
+INSERT nxitms string
+INSERT xpDNne number
+PRINT
+PRINT
+INSERT bCYHI string
+INSERT hwFQu string
+INSERT mNuwS string
+INSERT ekGI number
+END
+ASSIGN ekGI 'p0SA'
+END
+RPRINT
+INSERT yNp string
+INSERT s_X string
+INSERT pO string
+INSERT x1yYh number
+INSERT fMY1bm number
+PRINT
+INSERT x number
+INSERT se2yyO string
+INSERT p string
+PRINT
+INSERT hGtz54 number
+ASSIGN rV4 490
+RPRINT
+INSERT xAf1Yt string
+ASSIGN r5 'sVXO'
+LOOKUP x1yYh
+PRINT
+RPRINT

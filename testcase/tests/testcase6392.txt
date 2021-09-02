@@ -1,0 +1,16 @@
+INSERT h_QGdY string
+END
+RPRINT
+RPRINT
+END
+LOOKUP h_QGdY
+INSERT mw string
+BEGIN
+INSERT jKmi string
+pa i
+INSERT eS string
+INSERT aYkT string
+INSERT v number
+INSERT fd3K number
+INSERT dNX string
+LOOKUP mw

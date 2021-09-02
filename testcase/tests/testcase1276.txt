@@ -1,0 +1,12 @@
+nC hl
+BEGIN
+PRINT
+INSERT b9ii string
+ASSIGN b9ii 1103
+INSERT ma8 number
+INSERT wiudiZ number
+INSERT lS string
+BEGIN
+BEGIN
+ASSIGN wiudiZ b9ii
+ASSIGN lS 'WBn'

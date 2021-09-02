@@ -1,0 +1,14 @@
+INSERT rn9_b number
+ASSIGN rn9_b '1a'
+INSERT eh number
+INSERT df0 string
+INSERT rWlO3 string
+BEGIN
+LOOKUP eh
+RPRINT
+ASSIGN df0 'mt5'
+INSERT fYU string
+INSERT hSh string
+INSERT req string
+og5Y s
+END

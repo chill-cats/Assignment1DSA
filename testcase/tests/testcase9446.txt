@@ -1,0 +1,5 @@
+INSERT mh number
+BEGIN
+INSERT x2ocz string
+INSERT mCZLs string
+LOOKUP x2ocz

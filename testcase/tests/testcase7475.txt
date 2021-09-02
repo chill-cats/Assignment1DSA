@@ -1,0 +1,22 @@
+LOOKUP q4L
+e6wyfQ nRSZF
+INSERT b4 string
+INSERT hHM4 string
+ASSIGN hHM4 'F6SUU'
+INSERT ya number
+INSERT od string
+RPRINT
+INSERT df string
+RPRINT
+INSERT oTgWRv number
+END
+INSERT rpA3C string
+INSERT wz52x string
+INSERT kB1gnI string
+INSERT hcnm4 string
+INSERT abc1Wu string
+INSERT djvOzC number
+INSERT aJG number
+ASSIGN od aJG
+BEGIN
+END

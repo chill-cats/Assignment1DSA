@@ -1,0 +1,26 @@
+END
+INSERT sSN_ string
+INSERT sZB string
+ASSIGN sZB 'AI'
+INSERT d0CQWH string
+INSERT gL6MpA string
+INSERT jNHJb string
+BEGIN
+INSERT qf number
+INSERT z string
+INSERT ntpYPE string
+INSERT moSRb string
+INSERT j8qt number
+INSERT nmLXmJ number
+INSERT gIpK string
+RPRINT
+ASSIGN sSN_ 600
+LOOKUP gL6MpA
+ASSIGN nmLXmJ 'l5Yom'
+LOOKUP gL6MpA
+END
+INSERT gorSa7 string
+ASSIGN sZB 623
+INSERT sayu8y string
+INSERT vlh string
+ASSIGN gL6MpA 'qqn8y'

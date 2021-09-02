@@ -1,0 +1,24 @@
+INSERT q number
+INSERT wVS string
+INSERT fg6m string
+RPRINT
+PRINT
+INSERT mbW28 string
+INSERT ql number
+INSERT y51z number
+INSERT q number
+LOOKUP y51z
+PRINT
+RPRINT
+INSERT ufMc4 number
+BEGIN
+INSERT kiP9x string
+LOOKUP wVS
+INSERT doBfS string
+INSERT lYH number
+PRINT
+m q6q_A
+RPRINT
+INSERT bU string
+INSERT zQ6B4J string
+LOOKUP zQ6B4J

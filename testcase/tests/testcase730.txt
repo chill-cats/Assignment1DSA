@@ -1,0 +1,39 @@
+LOOKUP x5r
+ru kc3mk
+INSERT vw0D_H number
+INSERT b string
+BEGIN
+INSERT uA number
+INSERT k9sIj number
+END
+LOOKUP k9sIj
+RPRINT
+INSERT dkC5Fw number
+INSERT gEu9P_ string
+qSacx8 mif
+INSERT npRDv number
+INSERT kw string
+LOOKUP k9sIj
+INSERT rnKhpU number
+INSERT eLxBl3 string
+PRINT
+INSERT jcVWQ0 number
+BEGIN
+INSERT mJF number
+INSERT kjL string
+INSERT eZeMW string
+LOOKUP k9sIj
+RPRINT
+INSERT jJ1c number
+INSERT we number
+INSERT k number
+INSERT q1SE string
+bW4tO e
+PRINT
+LOOKUP rnKhpU
+ASSIGN npRDv 762
+PRINT
+INSERT kTwE number
+INSERT iffSa number
+RPRINT
+kKb7eD kh

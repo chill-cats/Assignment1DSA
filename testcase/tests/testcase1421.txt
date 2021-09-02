@@ -1,0 +1,9 @@
+PRINT
+ASSIGN yuixX 1051
+INSERT dn string
+INSERT igV3mU string
+INSERT l string
+INSERT i number
+BEGIN
+RPRINT
+INSERT iN string

@@ -1,0 +1,13 @@
+INSERT q number
+INSERT wi6oQ string
+PRINT
+INSERT le string
+INSERT fZ string
+ASSIGN wi6oQ 530
+INSERT zl7 number
+END
+INSERT nX9v6 string
+END
+INSERT jk1 string
+INSERT u string
+END

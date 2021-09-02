@@ -1,0 +1,37 @@
+PRINT
+INSERT klAl35 string
+LOOKUP klAl35
+RPRINT
+INSERT b5K number
+ASSIGN b5K klAl35
+RPRINT
+BEGIN
+RPRINT
+INSERT hHXH string
+INSERT ex string
+INSERT yQZWy number
+INSERT iVMB string
+INSERT eGrCQA number
+INSERT apdY number
+INSERT t number
+INSERT q string
+INSERT mvb number
+INSERT r string
+INSERT cB2WVc number
+END
+INSERT zbE string
+INSERT hM string
+INSERT rC6hF string
+BEGIN
+BEGIN
+INSERT g string
+INSERT ru string
+LOOKUP eGrCQA
+INSERT bGgrr number
+INSERT i1 string
+INSERT n string
+rx3S9i pN6
+INSERT rD number
+INSERT cMvT string
+INSERT n number
+INSERT rvY number

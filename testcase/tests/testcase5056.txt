@@ -1,0 +1,34 @@
+INSERT t number
+INSERT g5AUT number
+LOOKUP g5AUT
+hJm imlnm
+INSERT rouYT string
+INSERT o5 string
+INSERT vw string
+INSERT i5KU string
+INSERT c number
+INSERT n number
+INSERT sL number
+INSERT utv string
+INSERT ux number
+PRINT
+RPRINT
+BEGIN
+INSERT b number
+LOOKUP rouYT
+END
+INSERT morJ number
+END
+INSERT ulHVEM number
+INSERT wSP number
+INSERT qh_3 number
+BEGIN
+INSERT jQl number
+INSERT hNLq number
+END
+INSERT qXKHE number
+PRINT
+BEGIN
+INSERT v string
+INSERT qVuH string
+LOOKUP jQl

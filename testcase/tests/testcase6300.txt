@@ -1,0 +1,7 @@
+INSERT yYOC number
+INSERT l1 number
+LOOKUP l1
+INSERT dKuL1Z number
+INSERT ntLM number
+INSERT deR string
+END

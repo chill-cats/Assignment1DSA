@@ -1,0 +1,16 @@
+PRINT
+INSERT tg_s9Z number
+INSERT fosb_ string
+INSERT noTBy string
+nMYtis j_i
+RPRINT
+PRINT
+INSERT f4 number
+INSERT p string
+END
+BEGIN
+ASSIGN p 1103
+INSERT vmxR string
+INSERT a3Q string
+END
+INSERT c1xE string

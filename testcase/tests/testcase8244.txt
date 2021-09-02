@@ -1,0 +1,20 @@
+INSERT mds1rf string
+BEGIN
+INSERT wa1 string
+RPRINT
+INSERT a number
+INSERT sV string
+INSERT hw number
+LOOKUP mds1rf
+INSERT b8Fykm number
+END
+INSERT u4icM string
+RPRINT
+INSERT cuNG number
+INSERT kpL21 string
+INSERT mT number
+END
+RPRINT
+END
+ASSIGN mT hw
+INSERT iHp string

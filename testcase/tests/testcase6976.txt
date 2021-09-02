@@ -1,0 +1,33 @@
+INSERT ubS string
+RPRINT
+BEGIN
+LOOKUP ubS
+RPRINT
+INSERT ay8EjK number
+uJ1NM oR
+PRINT
+INSERT k number
+INSERT up number
+INSERT so string
+INSERT l_ number
+INSERT k4xMLL number
+END
+INSERT kRHf string
+INSERT vI7aq number
+INSERT l4 number
+INSERT sf7gAG number
+INSERT lV6 number
+BEGIN
+LOOKUP lV6
+INSERT iYnR number
+INSERT mx string
+INSERT c number
+INSERT i1VIr string
+INSERT uZd3 string
+INSERT tR9 string
+LOOKUP sf7gAG
+PRINT
+INSERT d number
+INSERT qZIvqu string
+INSERT dev6r string
+ASSIGN kRHf lV6

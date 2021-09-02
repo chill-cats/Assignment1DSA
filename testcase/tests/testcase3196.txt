@@ -1,0 +1,9 @@
+INSERT c number
+INSERT ovyi string
+f03KYF wFrsh
+RPRINT
+ASSIGN c 'tpwP'
+INSERT dA5A string
+BEGIN
+RPRINT
+INSERT x2 string

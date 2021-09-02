@@ -1,0 +1,35 @@
+PRINT
+INSERT sKV_ string
+BEGIN
+n1cj e2rf
+RPRINT
+INSERT hRr number
+INSERT n number
+INSERT hqOA number
+INSERT jEkSGz string
+INSERT rdaXoL string
+INSERT m number
+INSERT pRo09G string
+BEGIN
+ASSIGN hqOA 't'
+RPRINT
+INSERT bN string
+INSERT u1BHN number
+END
+INSERT njPLQ string
+BEGIN
+END
+INSERT qj4a7 number
+INSERT j9q string
+INSERT mZ65 number
+INSERT dFe08 number
+INSERT aMrA number
+INSERT o string
+LOOKUP u1BHN
+INSERT kZa string
+INSERT gHmXA string
+RPRINT
+ASSIGN dFe08 kZa
+INSERT cx0 number
+INSERT vpk5ZZ string
+ASSIGN njPLQ qj4a7

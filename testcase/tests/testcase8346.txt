@@ -1,0 +1,32 @@
+INSERT uHF number
+INSERT zw4 number
+BEGIN
+INSERT s number
+INSERT b9_Cz string
+INSERT kvvmMK string
+RPRINT
+END
+INSERT aQlgKZ string
+END
+INSERT cjPa number
+INSERT mnJ number
+INSERT j string
+BEGIN
+INSERT fS string
+INSERT qWPf number
+INSERT v number
+INSERT t5t7S number
+LOOKUP b9_Cz
+INSERT tOqaX number
+INSERT fRv2PM string
+INSERT iM3e9 string
+LOOKUP kvvmMK
+INSERT kvdK6 number
+ASSIGN kvdK6 qWPf
+LOOKUP qWPf
+INSERT wm string
+INSERT yK2G string
+END
+BEGIN
+INSERT y string
+INSERT tFnz number

@@ -1,0 +1,6 @@
+INSERT a string
+BEGIN
+BEGIN
+INSERT voA number
+RPRINT
+INSERT yWkHkB string

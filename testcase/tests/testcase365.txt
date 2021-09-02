@@ -1,0 +1,35 @@
+INSERT dv3xI string
+INSERT v number
+INSERT sh0 string
+RPRINT
+INSERT py number
+LOOKUP v
+INSERT v string
+LOOKUP v
+LOOKUP dv3xI
+ASSIGN dv3xI 'KsI'
+INSERT mAB string
+BEGIN
+INSERT xhFKx string
+INSERT xML number
+b u2KnjU
+INSERT grvPE number
+BEGIN
+INSERT ki string
+INSERT uCxR2 string
+BEGIN
+INSERT rLRt number
+d plus8I
+INSERT jg string
+INSERT fr number
+INSERT v9LT string
+INSERT ptd4 string
+END
+INSERT u number
+BEGIN
+INSERT lOn9C string
+PRINT
+INSERT t string
+INSERT dhIE string
+INSERT p string
+BEGIN

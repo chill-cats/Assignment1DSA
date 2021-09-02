@@ -1,0 +1,12 @@
+LOOKUP iyPP
+INSERT lk string
+INSERT r number
+INSERT d number
+INSERT c number
+ASSIGN d 621
+INSERT x string
+INSERT tYWl string
+INSERT tM number
+INSERT sN number
+BEGIN
+INSERT f0t number

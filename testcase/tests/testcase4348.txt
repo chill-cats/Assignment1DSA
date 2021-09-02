@@ -1,0 +1,9 @@
+INSERT w6vKH string
+LOOKUP w6vKH
+INSERT haoCzN number
+INSERT wjUxH number
+INSERT qGO9lk string
+RPRINT
+INSERT m number
+INSERT rJ5Css string
+INSERT ggIr number

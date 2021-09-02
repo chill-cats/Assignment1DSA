@@ -1,0 +1,37 @@
+INSERT yT6AED string
+LOOKUP yT6AED
+INSERT fKZIs string
+INSERT eev9Jn string
+PRINT
+RPRINT
+END
+END
+BEGIN
+INSERT gL_gk number
+LOOKUP eev9Jn
+INSERT eQ string
+LOOKUP fKZIs
+ASSIGN gL_gk 'X4xEo'
+INSERT ooI3U string
+INSERT zK string
+RPRINT
+INSERT vWc string
+BEGIN
+LOOKUP vWc
+END
+BEGIN
+INSERT g2_I string
+INSERT zkwW32 number
+t k_id
+LOOKUP vWc
+INSERT d number
+INSERT d69 string
+INSERT u number
+INSERT wwroU4 number
+INSERT o0sMCA string
+PRINT
+INSERT eR4iOB number
+INSERT cduig string
+RPRINT
+INSERT y4wSM string
+LOOKUP d69

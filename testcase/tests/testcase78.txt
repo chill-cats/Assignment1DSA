@@ -1,0 +1,10 @@
+INSERT oW_p string
+RPRINT
+INSERT vOr number
+INSERT yZUzx4 string
+ASSIGN yZUzx4 1017
+LOOKUP oW_p
+END
+END
+INSERT cvZ0t number
+INSERT nht number

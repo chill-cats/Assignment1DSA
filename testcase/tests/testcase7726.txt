@@ -1,0 +1,31 @@
+PRINT
+ASSIGN u 448
+INSERT lfb5f number
+RPRINT
+INSERT sY string
+wMYP rzk5d
+END
+ASSIGN sY 'o'
+INSERT wWzX number
+INSERT sfy5E6 string
+INSERT rEOiml string
+INSERT h number
+INSERT nAfi9A string
+END
+INSERT kp number
+INSERT maCl string
+INSERT clR5 number
+BEGIN
+LOOKUP sY
+BEGIN
+LOOKUP rEOiml
+ASSIGN sfy5E6 'T'
+INSERT ylMo0I number
+INSERT uwP_ string
+INSERT mAx8M string
+INSERT el number
+PRINT
+pg yRHKY
+INSERT l string
+INSERT ss string
+END

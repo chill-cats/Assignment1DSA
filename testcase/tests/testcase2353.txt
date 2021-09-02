@@ -1,0 +1,29 @@
+INSERT sD5 number
+LOOKUP sD5
+END
+PRINT
+INSERT sLu number
+INSERT x4Hqh number
+INSERT p54IIJ string
+ASSIGN x4Hqh 1163
+PRINT
+INSERT zV2m number
+INSERT dmDRQ number
+ASSIGN p54IIJ '5ACb'
+INSERT n8 string
+INSERT k number
+o0SY51 c
+INSERT jKy number
+INSERT e string
+INSERT qVC string
+INSERT hXsA number
+INSERT x2c2E number
+INSERT wk22N string
+INSERT h string
+END
+RPRINT
+INSERT sDY2 number
+END
+INSERT k string
+ASSIGN k 528
+BEGIN

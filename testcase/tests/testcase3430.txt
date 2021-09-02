@@ -1,0 +1,33 @@
+BEGIN
+INSERT qdb string
+INSERT x4Pv number
+INSERT z21qvo number
+INSERT bI number
+INSERT uvxdC string
+END
+INSERT kM8e string
+INSERT mHP number
+INSERT f number
+INSERT l number
+INSERT auSE number
+BEGIN
+INSERT hy number
+INSERT mq7 string
+aBgw kH
+INSERT ndX number
+RPRINT
+INSERT ykk8 number
+PRINT
+INSERT w string
+END
+INSERT rGwe number
+ASSIGN f 960
+INSERT j number
+INSERT r0 number
+INSERT zwLPv0 string
+INSERT mq number
+INSERT ocXzeo string
+INSERT rEMwQV string
+INSERT dm number
+INSERT dfsmwU string
+END

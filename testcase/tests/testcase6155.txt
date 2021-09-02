@@ -1,0 +1,25 @@
+INSERT paIOJZ number
+INSERT pX1 string
+PRINT
+END
+INSERT fH number
+INSERT tTPvZ string
+INSERT e number
+ASSIGN e tTPvZ
+INSERT g2b number
+INSERT s8LDF number
+INSERT m8K number
+INSERT c5QiSw string
+INSERT hS string
+BEGIN
+ASSIGN paIOJZ 751
+INSERT i string
+RPRINT
+INSERT eejq number
+ASSIGN eejq 'U0uH'
+INSERT iYn number
+PRINT
+INSERT q string
+INSERT oU string
+INSERT m number
+END

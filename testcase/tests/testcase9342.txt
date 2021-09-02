@@ -1,0 +1,30 @@
+INSERT stBKZg string
+INSERT y string
+INSERT iFnPa number
+INSERT e5ypEp number
+LOOKUP e5ypEp
+END
+INSERT bhRi98 number
+INSERT cyex number
+LOOKUP stBKZg
+ztVTJO lF
+INSERT eaQcO number
+RPRINT
+ASSIGN cyex '73'
+INSERT m9o string
+END
+rsnnJ t6id
+INSERT hoCm number
+INSERT t number
+END
+INSERT kjuH number
+INSERT ofhib number
+LOOKUP e5ypEp
+INSERT hCS number
+PRINT
+INSERT bKb number
+INSERT b string
+ASSIGN kjuH 1202
+END
+INSERT o1QvXl number
+BEGIN

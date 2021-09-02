@@ -1,0 +1,11 @@
+INSERT s number
+INSERT xkq number
+ASSIGN xkq 'oX'
+ASSIGN s '68E'
+INSERT imNk string
+BEGIN
+INSERT i number
+INSERT zv string
+END
+INSERT uR string
+INSERT u string

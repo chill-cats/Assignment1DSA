@@ -1,0 +1,7 @@
+INSERT p number
+INSERT kcA string
+RPRINT
+INSERT uELV2 number
+INSERT j number
+INSERT pGQnX string
+LOOKUP pGQnX

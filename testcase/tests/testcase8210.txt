@@ -1,0 +1,40 @@
+INSERT kKAv string
+INSERT o2vlxU number
+INSERT gMVgzH number
+BEGIN
+INSERT g string
+INSERT rx8X9h number
+INSERT k string
+ASSIGN g 272
+INSERT rLtyXk string
+LOOKUP rLtyXk
+INSERT a number
+INSERT vwHp number
+END
+INSERT pD number
+BEGIN
+INSERT h0K string
+INSERT otQ2 number
+PRINT
+INSERT z_tsc number
+LOOKUP ut7x7
+INSERT rKLZ6i string
+END
+INSERT a number
+INSERT b string
+INSERT aK2 number
+BEGIN
+INSERT l number
+INSERT qhGP number
+INSERT mLO6P string
+INSERT zFz number
+LOOKUP rKLZ6i
+INSERT b string
+INSERT el string
+INSERT jn number
+INSERT mcB number
+INSERT m string
+ASSIGN kKAv 724
+INSERT t number
+INSERT n2y string
+q r3n

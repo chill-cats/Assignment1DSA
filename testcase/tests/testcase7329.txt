@@ -1,0 +1,33 @@
+INSERT alTqDP number
+INSERT u6 string
+BEGIN
+LOOKUP u6
+LOOKUP u6
+INSERT er number
+INSERT e string
+INSERT oNY number
+INSERT m string
+INSERT pbtfAV number
+INSERT lDqi1w number
+INSERT b0y string
+INSERT ta17 number
+INSERT m string
+INSERT rfZl number
+INSERT iM9K string
+INSERT c number
+INSERT xZnZFV string
+INSERT wWyEu number
+END
+INSERT wAW2x string
+PRINT
+INSERT t number
+INSERT r8G_36 string
+INSERT yHbK8 number
+ASSIGN e lDqi1w
+ASSIGN e ta17
+PRINT
+ASSIGN er b0y
+INSERT e string
+INSERT zq string
+INSERT cNVfc number
+ASSIGN c 453

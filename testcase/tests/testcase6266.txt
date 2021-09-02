@@ -1,0 +1,6 @@
+PRINT
+INSERT lXXa7 number
+INSERT gIR string
+PRINT
+INSERT q1gX6_ number
+INSERT s number

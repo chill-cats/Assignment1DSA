@@ -1,0 +1,38 @@
+INSERT udtCd string
+INSERT opl number
+INSERT eyuJ9 string
+INSERT yaWP4J number
+INSERT k_G_Vp string
+PRINT
+LOOKUP opl
+INSERT k string
+INSERT f1m5 number
+END
+PRINT
+INSERT qdO string
+LOOKUP yaWP4J
+INSERT frFB string
+INSERT n number
+INSERT c string
+END
+INSERT j86 string
+BEGIN
+INSERT cD string
+INSERT fsRfb string
+LOOKUP qdO
+INSERT ctz string
+INSERT mrzY6 number
+PRINT
+INSERT rS_b string
+INSERT g_rMY0 string
+RPRINT
+INSERT b36D1B string
+INSERT rBMwC number
+LOOKUP qdO
+BEGIN
+INSERT g string
+PRINT
+ASSIGN fsRfb 1161
+INSERT bGUC number
+INSERT tHTj number
+INSERT cx1bHp number

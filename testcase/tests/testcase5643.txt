@@ -1,0 +1,10 @@
+INSERT rA number
+LOOKUP rA
+INSERT h string
+END
+INSERT sm string
+INSERT fZAfyA number
+RPRINT
+INSERT rNCD string
+INSERT rIRFMZ string
+INSERT iJFBZR number

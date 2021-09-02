@@ -1,0 +1,11 @@
+END
+INSERT z number
+RPRINT
+INSERT mde string
+PRINT
+INSERT jt string
+INSERT z number
+ASSIGN z z
+INSERT f number
+INSERT bVF4w number
+d0g_ u1

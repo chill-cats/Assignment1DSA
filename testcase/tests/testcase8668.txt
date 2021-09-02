@@ -1,0 +1,30 @@
+PRINT
+INSERT iwv string
+INSERT fQs number
+INSERT pWdyoP number
+INSERT vMVwOO string
+INSERT k0 string
+LOOKUP fQs
+RPRINT
+INSERT gUt number
+INSERT pEwFPn string
+INSERT n5UGc string
+INSERT xg8 string
+INSERT ekGZQ number
+INSERT pT string
+INSERT sQ string
+INSERT uRH string
+INSERT r string
+INSERT egie string
+PRINT
+INSERT baY0FJ string
+RPRINT
+INSERT fiZM number
+INSERT eAt1 number
+LOOKUP xg8
+INSERT h number
+BEGIN
+INSERT uWIMYP number
+INSERT aeS number
+PRINT
+INSERT wZTsC4 string

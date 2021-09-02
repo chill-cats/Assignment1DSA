@@ -1,0 +1,13 @@
+BEGIN
+INSERT jGRK number
+INSERT t string
+INSERT ptF number
+INSERT tjec string
+PRINT
+INSERT p3 string
+p3pFQ r
+INSERT bhm string
+INSERT s number
+wW9yQs hm
+ASSIGN ptF '9kJ'
+INSERT g_ number

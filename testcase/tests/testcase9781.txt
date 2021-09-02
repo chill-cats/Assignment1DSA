@@ -1,0 +1,7 @@
+RPRINT
+ASSIGN x 802
+PRINT
+INSERT pq number
+ASSIGN pq 1127
+INSERT pw99 string
+ASSIGN gPI1 '9ogY'

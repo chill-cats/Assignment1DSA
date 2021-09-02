@@ -1,0 +1,6 @@
+INSERT lTje string
+ASSIGN lTje 820
+BEGIN
+INSERT gYb number
+ASSIGN gYb 'a'
+INSERT xzt number

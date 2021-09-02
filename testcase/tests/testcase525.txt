@@ -1,0 +1,13 @@
+INSERT f string
+INSERT iFhuv number
+INSERT iW number
+INSERT loi string
+END
+ASSIGN iFhuv '71'
+INSERT tF string
+END
+INSERT fCGXJ number
+ASSIGN iW 'e'
+RPRINT
+ASSIGN iW 418
+INSERT oDHM number

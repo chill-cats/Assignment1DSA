@@ -1,0 +1,11 @@
+INSERT hvZ string
+INSERT yNuz string
+INSERT q0kJ string
+INSERT il number
+INSERT oPt number
+PRINT
+INSERT u number
+INSERT s string
+RPRINT
+INSERT rp number
+INSERT wOc5uR number

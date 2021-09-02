@@ -1,0 +1,8 @@
+END
+ASSIGN kd '4'
+INSERT c string
+LOOKUP c
+INSERT q number
+INSERT zLNg string
+BEGIN
+INSERT y number

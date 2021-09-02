@@ -1,0 +1,35 @@
+INSERT hvNl7Z number
+INSERT kt string
+PRINT
+ASSIGN kt hvNl7Z
+INSERT yDd number
+INSERT p4riYz string
+INSERT m09gZR number
+INSERT zs number
+RPRINT
+INSERT vfCL string
+INSERT cRiyI number
+INSERT wfF number
+INSERT s32mu string
+RPRINT
+LOOKUP s32mu
+INSERT q5TQS string
+PRINT
+INSERT ygsn_C number
+INSERT sQVf string
+BEGIN
+PRINT
+INSERT ykp string
+RPRINT
+INSERT e number
+hB_GfA qQ19J
+INSERT l string
+INSERT dk number
+INSERT xSiu string
+BEGIN
+INSERT tY string
+INSERT k2Luy number
+INSERT vUyNQs number
+INSERT wkB number
+INSERT g7z8 string
+INSERT qQ0 string

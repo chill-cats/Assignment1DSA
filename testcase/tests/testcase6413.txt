@@ -1,0 +1,36 @@
+BEGIN
+INSERT vMO string
+INSERT q number
+INSERT mwKp string
+BEGIN
+INSERT p_HI4 number
+INSERT hD string
+INSERT uDoCDY number
+LOOKUP uDoCDY
+INSERT c number
+INSERT ve2v string
+INSERT go6 string
+INSERT q number
+PRINT
+ASSIGN p_HI4 1125
+INSERT o number
+INSERT e number
+INSERT wV2xQ number
+INSERT adb7n9 number
+INSERT z7XHZd number
+ASSIGN adb7n9 527
+END
+INSERT aZ number
+PRINT
+LOOKUP e
+PRINT
+INSERT nKB string
+eMjTO hlcm9E
+INSERT a string
+INSERT n number
+s9jI gLP8l
+INSERT oI number
+END
+INSERT ya8uO number
+uw dGz
+ASSIGN oI 'b'

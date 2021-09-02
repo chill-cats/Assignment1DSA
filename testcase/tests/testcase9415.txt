@@ -1,0 +1,17 @@
+PRINT
+INSERT mXyE number
+INSERT q number
+INSERT gjH string
+INSERT xQsQdI number
+PRINT
+INSERT p number
+INSERT pI number
+ASSIGN gjH 1136
+PRINT
+INSERT pXD number
+LOOKUP mXyE
+INSERT sdxqAf string
+BEGIN
+BEGIN
+BEGIN
+INSERT vSYd string

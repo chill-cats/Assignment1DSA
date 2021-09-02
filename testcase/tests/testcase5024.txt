@@ -1,0 +1,13 @@
+RPRINT
+INSERT obJDDa number
+INSERT m2t string
+END
+INSERT p number
+PRINT
+INSERT jCo number
+END
+RPRINT
+INSERT k string
+INSERT f string
+INSERT vGVT string
+INSERT qB3FI string

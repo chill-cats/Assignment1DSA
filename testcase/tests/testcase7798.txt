@@ -1,0 +1,26 @@
+BEGIN
+INSERT t number
+BEGIN
+LOOKUP t
+INSERT x3 string
+INSERT oL1Sk string
+INSERT zR string
+INSERT r number
+INSERT a7Fo9K number
+INSERT n6 string
+INSERT xp string
+INSERT n number
+END
+BEGIN
+LOOKUP xp
+END
+vPS3nU sEj
+END
+INSERT o number
+INSERT jkk number
+INSERT vO string
+INSERT d5IwrG string
+INSERT qJlyKz number
+RPRINT
+INSERT c6 number
+jbV fdd

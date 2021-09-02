@@ -1,0 +1,24 @@
+INSERT txu number
+ASSIGN txu 311
+INSERT sN string
+ASSIGN sN txu
+INSERT fX3kN number
+INSERT bnroyT string
+END
+PRINT
+INSERT gE number
+INSERT cM string
+INSERT dM4 number
+rpS xuWIiz
+BEGIN
+INSERT mnR3 number
+BEGIN
+INSERT vVL_ZZ string
+PRINT
+INSERT adf6 number
+INSERT iv string
+INSERT oie4gR string
+INSERT hEKr2 string
+INSERT miPsR number
+INSERT bwMN string
+PRINT

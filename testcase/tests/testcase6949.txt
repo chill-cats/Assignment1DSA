@@ -1,0 +1,11 @@
+PRINT
+PRINT
+INSERT eB3 string
+INSERT dkvLG1 number
+RPRINT
+INSERT adU number
+ASSIGN t7Tr eB3
+INSERT brDH number
+INSERT h string
+END
+INSERT k number

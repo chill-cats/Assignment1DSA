@@ -1,0 +1,8 @@
+INSERT xjFS_ string
+PRINT
+INSERT ns string
+INSERT l5li7 number
+INSERT kn5wZg string
+END
+INSERT viR string
+INSERT tPxdd_ string

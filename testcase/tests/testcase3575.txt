@@ -1,0 +1,16 @@
+u zs
+LOOKUP a
+INSERT q string
+END
+INSERT eR string
+INSERT v string
+INSERT a4YIL number
+LOOKUP q
+INSERT e08eq number
+INSERT tLny2g number
+ASSIGN tLny2g 'RuO'
+INSERT jA string
+BEGIN
+INSERT rjnJuj string
+ASSIGN zsN 940
+ASSIGN jA 217

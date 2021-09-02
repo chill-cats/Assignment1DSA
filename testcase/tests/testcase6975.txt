@@ -1,0 +1,39 @@
+BEGIN
+BEGIN
+LOOKUP wBS8a
+mCrV ri3bq5
+INSERT fKF string
+RPRINT
+INSERT cUZi6 number
+PRINT
+INSERT nwMDp string
+INSERT yiCUZ number
+INSERT v number
+INSERT d3AF string
+INSERT xXlswC string
+PRINT
+END
+INSERT l3QT4 number
+PRINT
+INSERT p string
+INSERT pT number
+INSERT cwko6p string
+INSERT q2 string
+INSERT q4 string
+INSERT qUCciv number
+INSERT sa number
+INSERT m3 string
+INSERT puup number
+INSERT p string
+INSERT py number
+INSERT mrN string
+w_Z a9MUBD
+INSERT uc string
+RPRINT
+INSERT tI3A number
+INSERT it number
+BEGIN
+END
+ASSIGN fKF 1186
+INSERT sE1 string
+ASSIGN sa '9'

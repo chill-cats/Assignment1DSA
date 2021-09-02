@@ -1,0 +1,40 @@
+zFmVM qgvR
+INSERT cSi number
+INSERT mStI string
+INSERT d number
+u qUkkkm
+LOOKUP mStI
+PRINT
+INSERT nu3U number
+INSERT jzb3E string
+INSERT tr number
+INSERT x string
+vQw2 d
+INSERT eVp string
+INSERT tT1GP string
+INSERT u9kh number
+INSERT q number
+INSERT o5Cx string
+INSERT rhF string
+INSERT ek number
+INSERT hDdOWp string
+RPRINT
+INSERT pw93s string
+PRINT
+INSERT s4rCQV string
+INSERT rNxH number
+INSERT l number
+INSERT bM75K9 number
+INSERT tM9Ir number
+RPRINT
+INSERT zG1BI number
+INSERT pZ string
+INSERT p30nkS string
+END
+LOOKUP jzb3E
+INSERT nXRk5 number
+INSERT eUbX number
+END
+LOOKUP hDdOWp
+LOOKUP jzb3E
+INSERT aqd1Nu string

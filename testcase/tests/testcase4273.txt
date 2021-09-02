@@ -1,0 +1,29 @@
+LOOKUP s3NCO
+INSERT dx number
+INSERT c string
+LOOKUP c
+INSERT e2F string
+INSERT vV4e0 string
+INSERT o01 number
+e0o ajD
+INSERT eQiL number
+INSERT a49G string
+INSERT m number
+INSERT h6hY number
+xeD vn
+END
+BEGIN
+PRINT
+INSERT fCVAM9 number
+INSERT j number
+END
+INSERT tq number
+INSERT mnjz number
+PRINT
+INSERT pOpXI string
+INSERT b0X9 number
+PRINT
+RPRINT
+h91e bTQca
+INSERT cqbi string
+INSERT icBh number

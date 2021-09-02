@@ -1,0 +1,14 @@
+INSERT bN number
+INSERT yGsX number
+INSERT tOfB number
+INSERT b2L number
+INSERT s string
+INSERT mkV number
+PRINT
+INSERT c number
+ASSIGN tOfB mkV
+LOOKUP b2L
+INSERT q string
+LOOKUP b2L
+z sCT
+RPRINT

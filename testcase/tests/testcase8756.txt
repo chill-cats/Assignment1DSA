@@ -1,0 +1,27 @@
+INSERT j number
+LOOKUP j
+INSERT r number
+PRINT
+INSERT mCJUlP string
+ASSIGN r mCJUlP
+INSERT bNd0 string
+INSERT kE number
+RPRINT
+INSERT dm1ME1 number
+INSERT lqYwG9 string
+INSERT r string
+INSERT pmvn8p number
+INSERT z3 number
+INSERT dRGj number
+ASSIGN z3 183
+INSERT za number
+RPRINT
+INSERT bu string
+INSERT n0SCb string
+BEGIN
+END
+INSERT qibG number
+INSERT lem string
+INSERT rzL string
+ASSIGN mCJUlP '1'
+INSERT v5suF string

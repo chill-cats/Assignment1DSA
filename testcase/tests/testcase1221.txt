@@ -1,0 +1,11 @@
+INSERT f string
+INSERT rSYxt number
+INSERT aimSY string
+INSERT lzTN string
+RPRINT
+PRINT
+END
+INSERT e number
+INSERT warz number
+PRINT
+LOOKUP aimSY

@@ -1,0 +1,39 @@
+BEGIN
+INSERT y4or number
+INSERT o number
+LOOKUP o
+RPRINT
+INSERT fMPUH0 number
+q rmqc
+RPRINT
+INSERT tJ number
+INSERT k2Z number
+INSERT rRgZb number
+INSERT sZ9ts number
+RPRINT
+INSERT wrEP_ string
+INSERT kH string
+INSERT sAhbuv number
+INSERT xgc_ number
+INSERT d5 number
+END
+BEGIN
+INSERT kzTt string
+LOOKUP y4or
+INSERT xPhHR3 number
+INSERT jjAH string
+INSERT b number
+LOOKUP y4or
+INSERT beGh_ number
+LOOKUP b
+INSERT aQw4Ra number
+BEGIN
+END
+ASSIGN sZ9ts 'cl'
+RPRINT
+INSERT eTLAM string
+INSERT kv59KE string
+INSERT ubJ string
+INSERT qBsH string
+INSERT qDOH string
+INSERT jE string

@@ -1,0 +1,24 @@
+END
+ASSIGN a 438
+PRINT
+INSERT nd number
+END
+ASSIGN nd 1128
+INSERT i7YWx number
+ASSIGN nd nd
+INSERT oc number
+INSERT dboZP number
+ASSIGN oc 1221
+INSERT chg string
+PRINT
+RPRINT
+INSERT xWiZmH string
+INSERT hpBlb8 string
+INSERT q string
+zfyly aGZ_Ri
+INSERT nHj83 number
+LOOKUP xWiZmH
+LOOKUP nd
+INSERT aLo number
+INSERT b4Zp1t number
+END

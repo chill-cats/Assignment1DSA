@@ -1,0 +1,14 @@
+LOOKUP h_9Q
+INSERT eF5 string
+INSERT vS0Fv string
+INSERT qFVO string
+INSERT wJgnKZ string
+INSERT j6E8 string
+INSERT x3 string
+ASSIGN vS0Fv qFVO
+RPRINT
+INSERT agqz string
+INSERT keXk8_ number
+ASSIGN x3 qFVO
+INSERT kfBHH string
+INSERT nK number

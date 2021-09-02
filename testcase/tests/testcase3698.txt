@@ -1,0 +1,34 @@
+BEGIN
+LOOKUP u
+LOOKUP fBkQ
+INSERT oQA number
+INSERT x string
+LOOKUP x
+RPRINT
+INSERT ufmS9P string
+RPRINT
+vn4 jI
+INSERT bH4s5n number
+LOOKUP oQA
+INSERT a4Jz0S number
+ASSIGN ufmS9P ufmS9P
+mU57 tTu
+INSERT nmnN string
+INSERT ybTj string
+INSERT bm string
+INSERT c number
+RPRINT
+ASSIGN bm oQA
+END
+INSERT r string
+INSERT eSp string
+END
+ruNv h
+INSERT dn string
+INSERT k1 number
+INSERT fFvp string
+INSERT lD number
+INSERT hXQma string
+INSERT cZ7jI7 number
+jGSX ibj
+LOOKUP ufmS9P

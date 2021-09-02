@@ -1,0 +1,8 @@
+INSERT p string
+LOOKUP p
+INSERT mXw8l number
+INSERT s3J number
+ASSIGN s3J 451
+INSERT b number
+INSERT h1 number
+INSERT w string

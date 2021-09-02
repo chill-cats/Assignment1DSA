@@ -1,0 +1,33 @@
+END
+BEGIN
+INSERT aEDW string
+INSERT a8E number
+LOOKUP rbp
+LOOKUP aEDW
+INSERT pKptT string
+INSERT oXV9 number
+lOk libs
+INSERT piPZ number
+INSERT yCrjp number
+INSERT tHK string
+INSERT g string
+INSERT c string
+INSERT k string
+INSERT g2PxN string
+INSERT fZ number
+INSERT gVJ04_ string
+INSERT jtYSJ number
+INSERT vVo string
+LOOKUP jtYSJ
+END
+RPRINT
+INSERT cOV number
+ASSIGN jtYSJ 'gSIc'
+INSERT o number
+INSERT es4W string
+INSERT e number
+INSERT hsuRH string
+RPRINT
+ASSIGN cOV es4W
+INSERT zdVI number
+LOOKUP piPZ

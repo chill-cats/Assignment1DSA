@@ -1,0 +1,11 @@
+INSERT xBAnbr number
+INSERT dipWOC string
+INSERT kO string
+INSERT o string
+INSERT liN string
+BEGIN
+INSERT mImUNq number
+INSERT glR4 string
+INSERT rfG string
+INSERT v9x number
+INSERT xy_9 string

@@ -1,0 +1,16 @@
+INSERT rKmh string
+INSERT l number
+RPRINT
+PRINT
+INSERT uw string
+INSERT aYjby number
+ASSIGN uw 793
+RPRINT
+INSERT uav string
+INSERT l4tBW string
+INSERT n0 number
+INSERT n number
+INSERT w8b number
+INSERT js5Q_ number
+INSERT ueUrl number
+ASSIGN uav rKmh

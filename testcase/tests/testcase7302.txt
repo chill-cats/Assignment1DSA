@@ -1,0 +1,40 @@
+INSERT kN5 number
+INSERT f number
+RPRINT
+END
+BEGIN
+INSERT rQs4t string
+INSERT z number
+ASSIGN f 'a'
+INSERT uZXv string
+gMkB sjpqx
+ASSIGN kN5 kN5
+LOOKUP kN5
+BEGIN
+yO1XLF vzvT7
+INSERT p_KM9 number
+INSERT yy string
+INSERT twfbr number
+INSERT su number
+RPRINT
+INSERT xAInt string
+INSERT nQZ number
+RPRINT
+ASSIGN p_KM9 kN5
+INSERT ykWXRQ number
+INSERT hIT string
+INSERT vcOUTA number
+END
+INSERT xE9N0 string
+INSERT z_TN7 string
+LOOKUP xE9N0
+INSERT a number
+INSERT w string
+LOOKUP p_KM9
+RPRINT
+ASSIGN yy 342
+INSERT gO number
+RPRINT
+INSERT h number
+INSERT ab string
+LOOKUP z

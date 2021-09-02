@@ -1,0 +1,40 @@
+INSERT tca number
+INSERT w67e string
+ASSIGN w67e tca
+INSERT xX6 number
+INSERT x string
+INSERT wPR_2t string
+END
+INSERT hAN number
+INSERT l2qNSY string
+INSERT m number
+aEN1UY aKVJAy
+INSERT w number
+INSERT phT string
+ASSIGN x phT
+INSERT yCl string
+INSERT y0 number
+INSERT rGflN number
+ASSIGN tca l2qNSY
+INSERT sq number
+INSERT fRa3w_ number
+INSERT qZQl string
+INSERT f string
+INSERT r2mC string
+INSERT hbt4T string
+INSERT b number
+RPRINT
+ASSIGN hbt4T 'V'
+INSERT nVcBBs number
+INSERT gxf number
+INSERT wWR2p number
+INSERT f number
+RPRINT
+RPRINT
+INSERT jsaXP number
+BEGIN
+INSERT p string
+INSERT gj number
+BEGIN
+INSERT gEu7 string
+INSERT qc string

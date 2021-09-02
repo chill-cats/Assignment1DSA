@@ -1,0 +1,11 @@
+INSERT li string
+INSERT gj string
+INSERT kQ string
+INSERT wOGHQs string
+INSERT c1si string
+BEGIN
+LOOKUP wOGHQs
+RPRINT
+nklzI w
+END
+RPRINT

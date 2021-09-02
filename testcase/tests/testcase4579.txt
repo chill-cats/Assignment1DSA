@@ -1,0 +1,23 @@
+PRINT
+INSERT vCkHjs string
+INSERT ey number
+INSERT xI number
+END
+INSERT s number
+INSERT fLwO4F string
+ASSIGN xI ey
+INSERT dLiG number
+INSERT o7DKi string
+PRINT
+ASSIGN o7DKi dLiG
+INSERT k number
+END
+BEGIN
+INSERT sWoy number
+LOOKUP k
+INSERT lx number
+LOOKUP k
+dB2Bk yic_tl
+INSERT kf9 number
+BEGIN
+INSERT oj3t number

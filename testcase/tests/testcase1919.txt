@@ -1,0 +1,31 @@
+INSERT zRNU string
+INSERT mieTGu string
+END
+ASSIGN mieTGu 't6O'
+END
+INSERT qM number
+INSERT pHjQ string
+INSERT uKNkdT number
+INSERT ty8 number
+INSERT g string
+INSERT jbAVQq number
+LOOKUP pHjQ
+RPRINT
+gr e6
+INSERT eyswv string
+INSERT c string
+PRINT
+INSERT jcEax string
+m aeAif
+INSERT ffA string
+INSERT atxG6 string
+INSERT s9 number
+INSERT htQh number
+INSERT sbxUf string
+RPRINT
+INSERT vjER number
+INSERT wI3 string
+END
+INSERT h number
+LOOKUP h
+INSERT q7iM string

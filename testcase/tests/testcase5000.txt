@@ -1,0 +1,17 @@
+INSERT f4 string
+INSERT z3_1t2 number
+INSERT a number
+RPRINT
+INSERT f number
+zi cbi64A
+vdm g2e_AD
+INSERT gKg number
+INSERT hhg string
+ASSIGN z3_1t2 343
+INSERT bl number
+INSERT kn string
+INSERT phezQE number
+INSERT qH number
+END
+BEGIN
+ASSIGN f4 'c'

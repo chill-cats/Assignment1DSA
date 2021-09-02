@@ -1,0 +1,37 @@
+INSERT n3cf number
+INSERT xAq number
+INSERT vWY number
+INSERT kORZ string
+INSERT fWsNn string
+ASSIGN kORZ vWY
+INSERT lN8VGA string
+INSERT wE string
+LOOKUP wE
+INSERT vUNB string
+INSERT f number
+INSERT gjWYsM string
+INSERT s number
+RPRINT
+RPRINT
+INSERT xQv number
+ASSIGN vUNB 'fZA'
+PRINT
+INSERT zAPx number
+INSERT s string
+INSERT yGi string
+BEGIN
+INSERT x4M string
+LOOKUP zAPx
+INSERT nlT8Pt number
+BEGIN
+INSERT xW number
+LOOKUP zAPx
+INSERT g_5N number
+ASSIGN xAq '99z'
+INSERT d string
+ASSIGN vUNB 'EuGyP'
+INSERT d4royG number
+INSERT bdv8R number
+PRINT
+ASSIGN lN8VGA vWY
+INSERT wkx string

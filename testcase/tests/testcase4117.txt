@@ -1,0 +1,9 @@
+INSERT qmK_b number
+INSERT zHg string
+INSERT aSg number
+END
+PRINT
+INSERT oZi number
+INSERT ojwNhc string
+LOOKUP zHg
+INSERT rps number

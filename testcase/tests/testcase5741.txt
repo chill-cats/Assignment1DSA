@@ -1,0 +1,26 @@
+INSERT zqK string
+INSERT r_QeJ number
+ASSIGN rCTf1 991
+INSERT i3t number
+INSERT kTgp string
+INSERT mb00 string
+PRINT
+INSERT hOCb string
+INSERT h string
+BEGIN
+INSERT fA1 string
+INSERT u number
+INSERT mRCMO string
+INSERT j string
+INSERT uNsW string
+END
+INSERT o1e number
+INSERT suA number
+INSERT idq9W string
+INSERT d string
+LOOKUP mb00
+fN q
+INSERT fFZP number
+INSERT mR3F string
+INSERT kf number
+LOOKUP i3t

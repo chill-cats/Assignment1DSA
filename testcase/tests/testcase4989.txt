@@ -1,0 +1,13 @@
+LOOKUP bTe7ac
+INSERT obwRph string
+INSERT tSVyyP string
+LOOKUP obwRph
+INSERT c number
+INSERT msLo string
+INSERT iZSHAZ number
+INSERT wTf4g number
+INSERT h string
+INSERT xlHr number
+INSERT gXV string
+INSERT pDens number
+ASSIGN pDens 'F3'

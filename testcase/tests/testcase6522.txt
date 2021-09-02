@@ -1,0 +1,18 @@
+nXc eR1a5m
+INSERT q string
+INSERT t5zh number
+ASSIGN q 'ZnP52'
+vS qUAHW
+INSERT xn string
+INSERT gDg1 number
+END
+RPRINT
+INSERT fII string
+INSERT krM2 number
+LOOKUP q
+LOOKUP fII
+INSERT fVnfr string
+INSERT v5eM_ number
+INSERT wYJtfw string
+INSERT gH string
+INSERT dYgMt number

@@ -1,0 +1,33 @@
+INSERT w number
+INSERT x string
+INSERT im6H6 number
+ASSIGN x 951
+BEGIN
+INSERT h_I string
+INSERT tVc80 string
+ASSIGN x 1165
+INSERT e1Ve6T string
+INSERT iYv number
+INSERT ehze number
+RPRINT
+INSERT jTK7F number
+yAvyS6 pmJD
+ASSIGN jTK7F 'Eg'
+INSERT ly1QT string
+END
+hqq eik
+INSERT qbcNyW string
+INSERT a7 string
+INSERT pcITD number
+INSERT u string
+INSERT l number
+INSERT s number
+INSERT f5fQF string
+INSERT iL number
+RPRINT
+RPRINT
+ASSIGN f5fQF h_I
+INSERT w string
+INSERT q string
+INSERT ltWr string
+PRINT

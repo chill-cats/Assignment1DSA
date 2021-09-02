@@ -1,0 +1,3 @@
+BEGIN
+ASSIGN c 841
+INSERT g3toI string

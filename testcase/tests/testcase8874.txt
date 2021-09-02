@@ -1,0 +1,7 @@
+ASSIGN p8B5G 'Ck1m1'
+INSERT z number
+RPRINT
+INSERT bkwt number
+INSERT j string
+INSERT jde string
+END

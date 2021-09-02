@@ -1,0 +1,10 @@
+INSERT kuqym string
+RPRINT
+INSERT m string
+INSERT rojo number
+END
+LOOKUP kuqym
+INSERT bY string
+INSERT wC string
+BEGIN
+INSERT wocR6 string

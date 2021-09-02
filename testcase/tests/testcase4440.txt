@@ -1,0 +1,18 @@
+INSERT sqQI string
+PRINT
+INSERT gH string
+INSERT k number
+INSERT glb number
+ASSIGN gH sqQI
+BEGIN
+INSERT eCzSN9 string
+LOOKUP gH
+INSERT eh string
+INSERT ksK2aP string
+INSERT lbRU string
+INSERT v3Bu number
+INSERT i string
+INSERT p number
+BEGIN
+INSERT iV number
+RPRINT

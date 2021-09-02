@@ -1,0 +1,15 @@
+INSERT wAhX number
+END
+END
+INSERT adG7 string
+BEGIN
+INSERT pvS number
+INSERT n string
+RPRINT
+BEGIN
+cb tM0K
+END
+LOOKUP wAhX
+ASSIGN adG7 652
+INSERT d3m string
+INSERT mMJ string

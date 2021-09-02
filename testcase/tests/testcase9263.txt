@@ -1,0 +1,23 @@
+RPRINT
+INSERT s5k string
+BEGIN
+PRINT
+INSERT tH string
+INSERT vR number
+LOOKUP tH
+INSERT z5nc number
+INSERT iIkj0g number
+ASSIGN iIkj0g 166
+INSERT pGh_w number
+INSERT uY string
+INSERT yT0zt number
+INSERT knfSe9 number
+INSERT ehlE0B string
+INSERT hpxCRB number
+RPRINT
+BEGIN
+INSERT twAFqQ number
+INSERT kY4g6k string
+INSERT kkN string
+RPRINT
+INSERT n2 string

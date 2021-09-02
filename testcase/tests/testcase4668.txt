@@ -1,0 +1,33 @@
+INSERT wPf number
+ax yqszD2
+iHaHJ jCB
+INSERT jcF number
+INSERT cW number
+INSERT t string
+INSERT u_8W number
+ASSIGN jcF 1161
+PRINT
+INSERT smsI string
+INSERT jV string
+INSERT nmeW7 string
+END
+INSERT nMvW5 string
+INSERT pvMG string
+BEGIN
+INSERT ro number
+INSERT m_SYq string
+INSERT l number
+RPRINT
+INSERT b string
+INSERT f7kHz string
+LOOKUP u_8W
+INSERT qw number
+END
+INSERT k1eu number
+LOOKUP ro
+INSERT mVA string
+INSERT hCxVyq number
+INSERT aK number
+INSERT xQS string
+INSERT bpH number
+INSERT nBh number

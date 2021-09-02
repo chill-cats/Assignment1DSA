@@ -1,0 +1,14 @@
+INSERT qxFa number
+INSERT k_iaY number
+ASSIGN k_iaY 'T3'
+BEGIN
+PRINT
+RPRINT
+INSERT rB6 number
+INSERT fLVZ1X number
+INSERT zy number
+INSERT tXAJma number
+END
+PRINT
+INSERT vaJKU string
+INSERT d number

@@ -1,0 +1,15 @@
+INSERT biF string
+INSERT lT2 string
+PRINT
+INSERT xtr6 number
+BEGIN
+LOOKUP lT2
+INSERT m string
+INSERT bJh3r string
+INSERT r number
+INSERT p86cpc number
+INSERT vuH0d string
+INSERT e7G string
+LOOKUP p86cpc
+BEGIN
+PRINT

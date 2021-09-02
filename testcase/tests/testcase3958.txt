@@ -1,0 +1,7 @@
+INSERT tEvK string
+END
+RPRINT
+RPRINT
+RPRINT
+INSERT ev number
+INSERT x0B6 number

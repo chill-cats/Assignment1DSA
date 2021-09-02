@@ -1,0 +1,32 @@
+INSERT o string
+RPRINT
+INSERT w string
+RPRINT
+INSERT ezPf79 number
+INSERT wtQW string
+INSERT ks302K number
+RPRINT
+END
+kZW16 kdX1x
+INSERT wFt number
+ASSIGN wtQW 741
+bhZ8K fR
+INSERT u_V number
+INSERT yZ string
+INSERT pSpE_W string
+INSERT g5AK8 string
+PRINT
+END
+ASSIGN wtQW 107
+INSERT i1 string
+INSERT fp5 number
+INSERT iEz6 string
+LOOKUP g5AK8
+ASSIGN xYCjk yZ
+BEGIN
+INSERT eK number
+INSERT hjqML string
+INSERT e string
+INSERT pt string
+LOOKUP pSpE_W
+INSERT uozwR string

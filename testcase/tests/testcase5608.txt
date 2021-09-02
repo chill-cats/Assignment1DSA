@@ -1,0 +1,12 @@
+ASSIGN eyE 585
+INSERT md0 string
+ASSIGN md0 'o'
+LOOKUP md0
+INSERT ed1I number
+LOOKUP md0
+LOOKUP md0
+LOOKUP md0
+RPRINT
+BEGIN
+uU l6d
+BEGIN

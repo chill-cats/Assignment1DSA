@@ -1,0 +1,16 @@
+INSERT mBBKI string
+ASSIGN mBBKI ' '
+INSERT k string
+INSERT fIdApS number
+INSERT o string
+INSERT vjkkCd number
+INSERT gd39 number
+END
+INSERT nf45 string
+INSERT eM_Yt string
+INSERT fG2U string
+END
+INSERT rT28 string
+INSERT c number
+LOOKUP mBBKI
+INSERT ht8YH number

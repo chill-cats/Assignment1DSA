@@ -1,0 +1,18 @@
+INSERT b string
+INSERT aWq67F string
+RPRINT
+INSERT w number
+INSERT d string
+INSERT k6T number
+INSERT j string
+INSERT rF8OQ number
+INSERT q_mk number
+INSERT o_ string
+END
+ASSIGN b b
+INSERT ekiaxp number
+INSERT g string
+INSERT d number
+INSERT l string
+LOOKUP g
+INSERT x2Tz string

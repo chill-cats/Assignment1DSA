@@ -1,0 +1,24 @@
+INSERT lLKz string
+INSERT zZv number
+RPRINT
+INSERT h string
+INSERT ci number
+fc gDva
+LOOKUP ci
+PRINT
+INSERT k8 string
+INSERT kJe number
+INSERT nP number
+INSERT h9 number
+INSERT oZ string
+INSERT q string
+INSERT e string
+LOOKUP ci
+pV eoQQyZ
+PRINT
+BEGIN
+INSERT dRiPQ number
+INSERT a2gV string
+INSERT cL8 number
+INSERT qY6wS number
+INSERT lA number

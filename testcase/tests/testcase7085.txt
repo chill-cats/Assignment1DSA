@@ -1,0 +1,16 @@
+INSERT hiRh_c number
+INSERT nfAX string
+BEGIN
+INSERT mx number
+INSERT on_Wak number
+INSERT nU5mmX number
+INSERT zYq string
+RPRINT
+END
+INSERT u number
+ASSIGN hiRh_c '2G'
+LOOKUP nU5mmX
+LOOKUP zYq
+LOOKUP zYq
+INSERT d number
+INSERT nor number

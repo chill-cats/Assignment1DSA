@@ -1,0 +1,30 @@
+RPRINT
+RPRINT
+ASSIGN iDbd4e 'OKHu'
+INSERT k0 string
+INSERT eOn0y number
+INSERT wZhf8N number
+INSERT qsm3a string
+INSERT boW string
+RPRINT
+INSERT k string
+INSERT fZ number
+INSERT gPlxJ string
+BEGIN
+END
+INSERT mM string
+ASSIGN qsm3a '5'
+LOOKUP mM
+BEGIN
+INSERT qmn6AA number
+INSERT uks2VX number
+BEGIN
+INSERT t06M8y number
+vtX st
+INSERT xt number
+INSERT gHmw string
+i8mY31 a
+INSERT h7hL6S number
+INSERT dpTe number
+b1Fu0 h
+PRINT

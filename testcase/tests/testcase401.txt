@@ -1,0 +1,29 @@
+PRINT
+fX4ht l
+BEGIN
+INSERT c__Ce_ number
+soiZxF a
+INSERT tQ1 number
+INSERT o2Wm6 string
+INSERT b2 number
+INSERT l5U string
+ASSIGN tQ1 b2
+RPRINT
+INSERT aUsI number
+INSERT aHwZjp number
+RPRINT
+INSERT w number
+INSERT qH3o number
+INSERT l7tXJ number
+INSERT b0W5S string
+LOOKUP l5U
+INSERT ywlp string
+INSERT leagho number
+INSERT mzfwW number
+INSERT nf6Va string
+INSERT zL2FI string
+PRINT
+INSERT hT string
+INSERT roR3P0 number
+INSERT r string
+INSERT z number

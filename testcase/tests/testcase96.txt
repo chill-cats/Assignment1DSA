@@ -1,0 +1,13 @@
+INSERT sA4 number
+INSERT ghkk number
+RPRINT
+INSERT qrnK3c number
+INSERT z string
+ASSIGN qA 'Ui3P'
+PRINT
+INSERT wMYN26 string
+INSERT v4mc string
+BEGIN
+PRINT
+LOOKUP v4mc
+INSERT sE string

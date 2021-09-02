@@ -1,0 +1,21 @@
+INSERT o number
+INSERT syl5N string
+INSERT d string
+eD b
+INSERT j number
+RPRINT
+PRINT
+LOOKUP j
+INSERT s3 string
+INSERT agjPt string
+ASSIGN agjPt 'dd'
+PRINT
+INSERT q string
+INSERT tr number
+RPRINT
+INSERT j string
+INSERT iv number
+INSERT lRE string
+ASSIGN j 'PYTa'
+LOOKUP j
+PRINT

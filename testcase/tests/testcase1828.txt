@@ -1,0 +1,38 @@
+dBce ol3L
+PRINT
+INSERT ya string
+INSERT jfeC number
+PRINT
+INSERT h string
+INSERT aFX number
+ASSIGN h 'UEHM'
+INSERT c string
+BEGIN
+INSERT zH string
+RPRINT
+INSERT wG number
+INSERT lD427 string
+ASSIGN h 488
+INSERT hwYl number
+LOOKUP aFX
+ASSIGN c 819
+INSERT lh string
+ASSIGN lD427 'L'
+INSERT iW number
+e0k u1
+INSERT jx number
+INSERT bG5YAr string
+INSERT bv47 string
+ASSIGN lD427 'sSi'
+INSERT rc03K string
+INSERT cpq_ number
+BEGIN
+INSERT jUd string
+INSERT kKA8yJ number
+LOOKUP zH
+INSERT yg0 string
+INSERT qUmjZA string
+INSERT xd string
+LOOKUP yg0
+dm oYt
+INSERT kg number

@@ -1,0 +1,20 @@
+LOOKUP ut
+END
+INSERT oaqNu string
+INSERT n2s number
+INSERT q number
+INSERT jt number
+INSERT bLlT number
+INSERT bE_gf number
+INSERT qaxGN string
+PRINT
+INSERT v4_ number
+ASSIGN q 'F3KiS'
+INSERT xlkJa number
+PRINT
+INSERT c string
+ASSIGN oaqNu 'MEt'
+BEGIN
+INSERT bn1tP string
+BEGIN
+INSERT txmU1 string

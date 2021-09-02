@@ -1,0 +1,10 @@
+INSERT px number
+INSERT mS3eBe number
+INSERT p string
+INSERT pON2Z2 string
+PRINT
+ASSIGN pON2Z2 'dU0d'
+fzw eZ
+PRINT
+INSERT jjV string
+RPRINT

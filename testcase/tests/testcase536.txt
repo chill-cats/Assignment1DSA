@@ -1,0 +1,35 @@
+RPRINT
+INSERT ks6 string
+INSERT mq number
+INSERT kZ number
+INSERT sYMY string
+INSERT t string
+PRINT
+BEGIN
+INSERT np string
+LOOKUP kZ
+INSERT jtO number
+INSERT kzPd string
+INSERT p4J string
+INSERT oo2Tl number
+ASSIGN kZ mq
+INSERT mMmQag string
+END
+BEGIN
+RPRINT
+lv b1v
+vkK63y qV_P
+INSERT co2C number
+INSERT mdmqe number
+BEGIN
+END
+INSERT pJ number
+INSERT zHJ string
+BEGIN
+INSERT wh string
+LOOKUP zHJ
+INSERT sg_1 string
+g cbI004
+INSERT fquA0 string
+INSERT mWp string
+LOOKUP co2C

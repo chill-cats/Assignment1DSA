@@ -1,0 +1,15 @@
+BEGIN
+END
+INSERT eB string
+LOOKUP eB
+INSERT ga number
+BEGIN
+INSERT a number
+INSERT z7OoKW number
+INSERT i0tY number
+BEGIN
+ASSIGN eB 'M7'
+END
+INSERT mtzyxw number
+ASSIGN ga ga
+LOOKUP a

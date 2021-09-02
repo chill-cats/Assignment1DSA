@@ -1,0 +1,17 @@
+END
+INSERT grkqM2 number
+ASSIGN grkqM2 grkqM2
+INSERT ar string
+INSERT k0gz string
+PRINT
+ASSIGN grkqM2 ar
+LOOKUP grkqM2
+INSERT pC string
+INSERT sXgIgJ number
+LOOKUP k0gz
+jgvt dgz63i
+INSERT wwH number
+INSERT pTZC6s number
+INSERT iRB string
+INSERT q number
+END

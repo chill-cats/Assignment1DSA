@@ -1,0 +1,3 @@
+LOOKUP fZGYOz
+INSERT eI number
+LOOKUP eI

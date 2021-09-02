@@ -1,0 +1,29 @@
+INSERT hzfd string
+END
+PRINT
+BEGIN
+INSERT veM number
+INSERT t9JD number
+INSERT z string
+INSERT vrX number
+LOOKUP hzfd
+BEGIN
+INSERT c string
+RPRINT
+INSERT hNXNAH string
+INSERT i string
+INSERT e4QFL0 number
+ASSIGN e4QFL0 t9JD
+INSERT laQuh string
+RPRINT
+INSERT u4uOOD number
+PRINT
+INSERT j1ry number
+INSERT buExS number
+END
+RPRINT
+BEGIN
+INSERT rfn number
+INSERT kv0uXx number
+INSERT oZHm string
+INSERT k017kp string

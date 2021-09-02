@@ -1,0 +1,29 @@
+INSERT thCN string
+INSERT rlK0A string
+LOOKUP thCN
+INSERT zB string
+INSERT n number
+INSERT bnuH number
+INSERT coxBSl number
+ASSIGN n 863
+INSERT uI string
+ASSIGN n coxBSl
+INSERT wm5g number
+INSERT db0Lk number
+INSERT jAiB4 string
+INSERT zvM string
+ASSIGN bnuH 178
+INSERT oTyyEm number
+INSERT giCTtb string
+RPRINT
+BEGIN
+INSERT a string
+RPRINT
+INSERT gpVFUN number
+INSERT ySAog string
+PRINT
+INSERT n3rx number
+INSERT zz number
+INSERT jYrpi string
+INSERT a23G number
+PRINT

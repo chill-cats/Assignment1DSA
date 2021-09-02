@@ -1,0 +1,7 @@
+LOOKUP gf3oT
+INSERT w number
+INSERT p6hD string
+INSERT mk3DiE string
+ASSIGN mk3DiE 'OB'
+RPRINT
+PRINT

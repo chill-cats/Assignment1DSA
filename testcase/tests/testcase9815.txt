@@ -1,0 +1,34 @@
+LOOKUP w
+INSERT qN11 number
+INSERT zvWWq8 number
+PRINT
+bVtXML i16
+ASSIGN qN11 60
+BEGIN
+INSERT e number
+RPRINT
+END
+PRINT
+INSERT tVY string
+INSERT uZ string
+INSERT qtUq number
+END
+END
+INSERT tX number
+LOOKUP gPI
+INSERT jG string
+INSERT b string
+INSERT mP number
+INSERT h string
+INSERT nZQj string
+INSERT ywN4L string
+INSERT tNqG number
+INSERT cIt number
+INSERT q string
+ht x
+END
+INSERT pmycwa number
+f2R rV
+INSERT x5 string
+INSERT k3kB string
+INSERT dop number

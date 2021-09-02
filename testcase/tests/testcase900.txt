@@ -1,0 +1,8 @@
+RPRINT
+ASSIGN uL ' dy'
+INSERT aOG string
+LOOKUP aOG
+INSERT oQR6 string
+PRINT
+LOOKUP aOG
+INSERT p string

@@ -1,0 +1,15 @@
+INSERT qk36f number
+INSERT h number
+END
+ASSIGN h 415
+PRINT
+LOOKUP h
+ASSIGN qk36f 'XmwX'
+ASSIGN qk36f 801
+INSERT sO string
+BEGIN
+INSERT hs string
+RPRINT
+INSERT i string
+INSERT u string
+o1Q0Oe gf

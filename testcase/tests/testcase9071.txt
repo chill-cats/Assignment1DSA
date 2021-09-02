@@ -1,0 +1,7 @@
+INSERT y string
+INSERT r string
+INSERT xz6Qd number
+INSERT j1 string
+INSERT n string
+INSERT zRiIw number
+BEGIN

@@ -1,0 +1,17 @@
+ASSIGN pw3G 1003
+INSERT iQdm string
+INSERT i4y2L number
+RPRINT
+LOOKUP i4y2L
+INSERT mbt number
+INSERT t number
+RPRINT
+azd5u s2cwxL
+ASSIGN t t
+LOOKUP mbt
+RPRINT
+INSERT l_I string
+INSERT w string
+END
+INSERT p string
+ASSIGN i4y2L '1sprC'

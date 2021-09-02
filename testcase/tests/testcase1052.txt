@@ -1,0 +1,7 @@
+BEGIN
+INSERT g number
+INSERT auyGv string
+INSERT oo string
+END
+LOOKUP oo
+INSERT oZ string

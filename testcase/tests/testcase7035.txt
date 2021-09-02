@@ -1,0 +1,12 @@
+END
+INSERT yZ string
+RPRINT
+INSERT ymV string
+INSERT kcSkQ string
+INSERT szB string
+INSERT qsZe7 string
+INSERT rb70L8 number
+INSERT aUhOa5 string
+RPRINT
+ASSIGN qsZe7 759
+INSERT f6DSS7 string

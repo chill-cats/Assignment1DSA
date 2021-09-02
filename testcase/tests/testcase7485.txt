@@ -1,0 +1,8 @@
+PRINT
+INSERT omK string
+INSERT uLUu string
+INSERT m number
+INSERT gts0p number
+ASSIGN m 'nr09M'
+INSERT zFZw number
+INSERT t number

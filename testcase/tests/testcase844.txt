@@ -1,0 +1,3 @@
+INSERT pmpcm string
+INSERT w string
+ASSIGN pmpcm pmpcm

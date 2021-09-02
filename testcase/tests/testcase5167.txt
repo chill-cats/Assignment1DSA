@@ -1,0 +1,18 @@
+INSERT in82kB string
+ASSIGN in82kB 'JU'
+BEGIN
+PRINT
+INSERT kM number
+LOOKUP in82kB
+INSERT v7ww string
+INSERT vbc string
+INSERT sUn number
+INSERT pSO2 string
+INSERT gV string
+ASSIGN vbc 783
+INSERT hYGpav number
+INSERT xVGF2D string
+END
+INSERT iXwi string
+ASSIGN vbc 370
+INSERT e string

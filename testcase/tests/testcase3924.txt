@@ -1,0 +1,30 @@
+BEGIN
+INSERT mVEU number
+LOOKUP mVEU
+INSERT jxI string
+RPRINT
+INSERT jio number
+INSERT s0mE number
+INSERT knb_ number
+LOOKUP mVEU
+LOOKUP jxI
+INSERT sGGl string
+INSERT zUldAz string
+RPRINT
+RPRINT
+INSERT wYs number
+INSERT kKg string
+INSERT i15 string
+RPRINT
+INSERT v string
+RPRINT
+INSERT pHsfH string
+PRINT
+m39hi9 kIzRc
+INSERT kG4 number
+INSERT oUsgC number
+INSERT b9Jl string
+INSERT rVYa string
+INSERT yDf string
+INSERT aByQZz string
+LOOKUP jxI

@@ -1,0 +1,35 @@
+ASSIGN dcl 1153
+INSERT e4MvTB string
+INSERT lmE_ number
+INSERT lHH string
+INSERT zPWjHL number
+LOOKUP lHH
+INSERT t number
+wCK pbua4z
+rEil cC
+INSERT uM number
+INSERT g string
+INSERT rhWPoV string
+INSERT kv string
+INSERT v number
+INSERT rqDYsQ string
+ASSIGN zPWjHL 243
+INSERT eNFvp8 string
+INSERT qLMVy number
+INSERT oA04km string
+LOOKUP kv
+ASSIGN rqDYsQ e4MvTB
+PRINT
+PRINT
+INSERT fwgn string
+gUMvz eO7sM
+INSERT p number
+fJgIv h
+INSERT zm number
+RPRINT
+m lqB
+INSERT hd number
+INSERT pP0 number
+INSERT sCmTG string
+INSERT rJiq number
+INSERT kS5GXB number

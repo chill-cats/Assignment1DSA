@@ -1,0 +1,19 @@
+pDQ ff677z
+ASSIGN i 615
+INSERT gLR number
+ASSIGN gLR gLR
+RPRINT
+INSERT ga number
+INSERT pWW number
+INSERT xSKn number
+INSERT la number
+INSERT lb string
+INSERT iHtO string
+INSERT zv2E3 number
+END
+END
+INSERT ds0yE number
+PRINT
+LOOKUP la
+RPRINT
+INSERT rlV8F9 string

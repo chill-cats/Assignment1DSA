@@ -1,0 +1,10 @@
+RPRINT
+ASSIGN gFC 'N'
+INSERT rnO string
+PRINT
+INSERT eFt9P number
+RPRINT
+RPRINT
+INSERT na3k number
+INSERT yp9o number
+INSERT kUN string

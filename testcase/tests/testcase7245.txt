@@ -1,0 +1,3 @@
+ASSIGN bCIDW 'rC'
+LOOKUP b33Oe
+INSERT yGYN string

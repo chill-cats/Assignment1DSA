@@ -1,0 +1,34 @@
+INSERT n number
+PRINT
+INSERT a number
+INSERT sm string
+INSERT i9Zt string
+INSERT y number
+INSERT ovl4P7 number
+INSERT r string
+END
+INSERT xPt string
+PRINT
+INSERT bIfq number
+INSERT u string
+INSERT e string
+END
+INSERT hMrp1I string
+INSERT i_nGsp number
+INSERT fXh7YA string
+RPRINT
+BEGIN
+INSERT te5 number
+INSERT g string
+INSERT vPJTA string
+INSERT eQKm5 string
+INSERT m string
+INSERT nZ string
+INSERT xT7W number
+RPRINT
+INSERT k number
+INSERT dLmLd6 string
+LOOKUP eQKm5
+END
+INSERT rPhG6 string
+INSERT tzO4C number

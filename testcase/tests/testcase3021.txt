@@ -1,0 +1,19 @@
+LOOKUP wSF
+END
+END
+INSERT wI string
+INSERT yJG1 number
+INSERT tnlhc string
+ASSIGN wI 427
+wA lxJBpl
+LOOKUP tnlhc
+INSERT oVsUE string
+INSERT l string
+INSERT bd number
+INSERT jr string
+INSERT lz7Fw number
+INSERT w number
+INSERT yu6ub number
+INSERT pzCIW string
+INSERT sMKG number
+INSERT hf string

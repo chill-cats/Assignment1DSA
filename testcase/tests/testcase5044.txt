@@ -1,0 +1,26 @@
+RPRINT
+RPRINT
+INSERT hwE string
+RPRINT
+INSERT iFWty string
+INSERT b5dH number
+INSERT xGLT number
+BEGIN
+PRINT
+INSERT wmp number
+INSERT fy string
+INSERT u0fRt string
+INSERT j number
+INSERT upxB number
+ASSIGN u0fRt fy
+INSERT kwEw string
+LOOKUP xGLT
+RPRINT
+INSERT zCd number
+INSERT iQdv string
+INSERT mt6 string
+INSERT sFk string
+BEGIN
+PRINT
+ASSIGN mt6 'Fk'
+INSERT zjlCp number

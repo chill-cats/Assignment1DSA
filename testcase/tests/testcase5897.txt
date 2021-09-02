@@ -1,0 +1,28 @@
+INSERT ivz9U string
+INSERT n0vD string
+INSERT jVV8o number
+RPRINT
+LOOKUP ivz9U
+INSERT v5KU number
+INSERT oPzd string
+RPRINT
+END
+INSERT nM1z number
+INSERT t8j string
+INSERT el4OAu number
+INSERT j56 number
+INSERT q string
+INSERT pQIYpn string
+RPRINT
+INSERT rKiyf number
+INSERT zjCv string
+LOOKUP nM1z
+INSERT dyWB number
+INSERT glay string
+LOOKUP n0vD
+INSERT rLxB5C number
+END
+BEGIN
+INSERT vwOFC number
+LOOKUP pQIYpn
+BEGIN

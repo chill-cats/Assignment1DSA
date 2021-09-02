@@ -1,0 +1,36 @@
+BEGIN
+INSERT inzdIg string
+INSERT s string
+INSERT nSXGvR number
+INSERT i number
+INSERT vLl string
+INSERT rNT9V9 number
+cUe ibjp5
+BEGIN
+LOOKUP i
+ASSIGN s rNT9V9
+INSERT hqKIY number
+INSERT e number
+INSERT u string
+INSERT p4 string
+INSERT nDkAB9 string
+LOOKUP inzdIg
+LOOKUP i
+INSERT lHdA number
+INSERT h6Kpo string
+PRINT
+INSERT zzn6 number
+ASSIGN h6Kpo i
+INSERT nQYPa string
+INSERT iyvP number
+RPRINT
+INSERT kwSV number
+RPRINT
+INSERT qe number
+BEGIN
+END
+INSERT eLAu_ number
+RPRINT
+INSERT pSV5a number
+INSERT bPXV number
+INSERT ehC number

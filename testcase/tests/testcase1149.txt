@@ -1,0 +1,29 @@
+BEGIN
+LOOKUP uMGzeH
+INSERT p number
+INSERT vufCN3 string
+INSERT dUc3MR number
+INSERT sf9jSh string
+INSERT e1Zkok number
+INSERT laj string
+RPRINT
+INSERT yh string
+ASSIGN dUc3MR ' HM'
+INSERT oN5 number
+INSERT mL82 string
+ASSIGN sf9jSh mL82
+INSERT mafJ number
+mEO c5
+INSERT e54czr number
+INSERT nh5uL1 string
+RPRINT
+INSERT brC string
+INSERT x8a number
+PRINT
+INSERT y number
+INSERT g number
+INSERT ej string
+ASSIGN oN5 152
+prI oNjnO
+INSERT ep string
+BEGIN

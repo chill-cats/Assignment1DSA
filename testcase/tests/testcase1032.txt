@@ -1,0 +1,26 @@
+INSERT vab7 string
+INSERT nSVs number
+INSERT o number
+ASSIGN o 'EI '
+INSERT gFw number
+INSERT nl number
+INSERT s string
+cCNJE k5al
+RPRINT
+INSERT zsTLTr string
+INSERT s number
+ASSIGN vab7 s
+INSERT xWm60A string
+INSERT xo string
+ASSIGN gFw 'lHLC6'
+INSERT e string
+ASSIGN e 'FiT'
+INSERT qf string
+INSERT j3fpRw number
+LOOKUP gFw
+INSERT cKzajF number
+INSERT y string
+INSERT y number
+ASSIGN vab7 748
+INSERT of number
+INSERT va string

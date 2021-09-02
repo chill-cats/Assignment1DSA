@@ -1,0 +1,6 @@
+INSERT i number
+INSERT xq string
+INSERT lIKm string
+LOOKUP lIKm
+INSERT b2qyeV number
+INSERT iO number

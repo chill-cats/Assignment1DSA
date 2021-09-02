@@ -1,0 +1,9 @@
+INSERT f string
+END
+RPRINT
+INSERT yd string
+PRINT
+LOOKUP f
+RPRINT
+INSERT gL string
+LOOKUP f

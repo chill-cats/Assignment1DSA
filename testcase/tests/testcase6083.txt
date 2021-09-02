@@ -1,0 +1,17 @@
+INSERT t string
+RPRINT
+BEGIN
+INSERT vI number
+RPRINT
+INSERT vrC string
+PRINT
+INSERT hf number
+INSERT vV5z number
+ASSIGN t 353
+pFrRD2 gnTx
+INSERT lyE number
+INSERT zzf number
+BEGIN
+INSERT xr number
+RPRINT
+END

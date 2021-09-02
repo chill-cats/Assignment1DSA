@@ -1,0 +1,13 @@
+INSERT tXBlI number
+PRINT
+jp hQ
+LOOKUP tXBlI
+INSERT b string
+INSERT fb number
+INSERT a4ac number
+ASSIGN a4ac 'd'
+INSERT on2 number
+BEGIN
+BEGIN
+RPRINT
+PRINT

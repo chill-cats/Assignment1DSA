@@ -1,0 +1,9 @@
+INSERT r number
+INSERT kTd string
+END
+INSERT pWjUrj number
+INSERT p7O string
+BEGIN
+INSERT eE1 string
+END
+LOOKUP p7O

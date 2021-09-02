@@ -1,0 +1,39 @@
+INSERT o string
+INSERT e number
+INSERT o string
+INSERT mX string
+END
+INSERT zGqYm string
+LOOKUP zGqYm
+LOOKUP mX
+PRINT
+PRINT
+INSERT xq string
+INSERT jyPC61 number
+INSERT yX string
+INSERT uz string
+PRINT
+INSERT e5oJri string
+INSERT x number
+INSERT bQ number
+END
+RPRINT
+PRINT
+INSERT iJ6Db number
+RPRINT
+INSERT j8uqyM number
+INSERT bPMN string
+INSERT j string
+INSERT noPKr number
+RPRINT
+INSERT wSGb string
+BEGIN
+INSERT gC string
+RPRINT
+LOOKUP iJ6Db
+RPRINT
+LOOKUP e5oJri
+INSERT l7dDrC string
+INSERT z number
+p wJEQ
+INSERT mH5 number

@@ -1,0 +1,37 @@
+INSERT zu1GCC string
+LOOKUP zu1GCC
+RPRINT
+ASSIGN zu1GCC zu1GCC
+INSERT gPCGx1 string
+INSERT jBWy9E string
+INSERT cK string
+RPRINT
+INSERT c number
+INSERT j_hn string
+ASSIGN jBWy9E 636
+INSERT ek9Mse number
+INSERT gCw8 string
+t iU
+ASSIGN j_hn cK
+END
+INSERT epHEOi number
+INSERT flU4 number
+INSERT q2 string
+INSERT nr string
+INSERT ry4 string
+INSERT gesD string
+INSERT kxxM string
+INSERT o0 string
+ASSIGN cK 'ZUx'
+INSERT c string
+INSERT n string
+INSERT tHGnS string
+INSERT ybUm string
+BEGIN
+INSERT f number
+INSERT xcqY4 number
+ASSIGN jBWy9E cK
+INSERT uM string
+INSERT zNqukd number
+BEGIN
+PRINT

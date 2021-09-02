@@ -1,0 +1,14 @@
+INSERT e number
+INSERT z9B string
+INSERT ioL string
+LOOKUP e
+LOOKUP e
+PRINT
+INSERT k3Y number
+END
+PRINT
+INSERT t2 number
+INSERT a9o number
+INSERT zM string
+INSERT mb6eCq string
+END

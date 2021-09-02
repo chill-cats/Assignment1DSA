@@ -1,0 +1,31 @@
+LOOKUP o
+INSERT dZfh number
+INSERT rE74uB number
+INSERT c string
+INSERT gK number
+INSERT hK string
+INSERT m1 string
+INSERT p number
+RPRINT
+INSERT sXCe2n number
+zoxD pr4G
+RPRINT
+INSERT uY number
+INSERT q number
+INSERT rcx8y string
+END
+RPRINT
+END
+BEGIN
+PRINT
+LOOKUP uY
+INSERT x3jUW number
+LOOKUP p
+INSERT jOSUtf string
+INSERT r2kM number
+INSERT r_l number
+INSERT kLNm string
+INSERT cW3jx string
+INSERT zqsH string
+LOOKUP p
+INSERT xGcK5 number

@@ -1,0 +1,16 @@
+PRINT
+RPRINT
+INSERT xp string
+INSERT n2 number
+PRINT
+BEGIN
+INSERT vxnvn string
+INSERT c8qG0I number
+LOOKUP n2
+LOOKUP c8qG0I
+PRINT
+wTB dOnnR
+BEGIN
+INSERT rcIphK string
+INSERT yn number
+INSERT hNT string

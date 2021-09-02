@@ -1,0 +1,15 @@
+BEGIN
+INSERT d string
+ASSIGN d d
+INSERT bx string
+INSERT s_yY number
+INSERT uBHsE string
+INSERT v67E0 number
+INSERT tOvs number
+INSERT vSSA string
+INSERT q8IOt string
+o43_h c0
+INSERT o number
+INSERT yFfK number
+PRINT
+END

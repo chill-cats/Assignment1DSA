@@ -1,0 +1,21 @@
+INSERT sQ number
+INSERT j_W number
+INSERT q2i string
+INSERT vb string
+INSERT x83a string
+INSERT wX number
+INSERT dpg5G string
+INSERT h9fDa string
+INSERT b string
+INSERT dmEJ number
+END
+RPRINT
+LOOKUP j_W
+PRINT
+PRINT
+INSERT udzsby number
+BEGIN
+RPRINT
+INSERT bxbxP string
+cc f
+INSERT qh7st string

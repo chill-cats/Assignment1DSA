@@ -1,0 +1,39 @@
+LOOKUP w42n3
+INSERT jJDkc string
+INSERT l number
+INSERT b string
+RPRINT
+tb u
+END
+INSERT xf string
+INSERT yz number
+INSERT a number
+stjn3Q nQ
+RPRINT
+END
+xj zqEO
+RPRINT
+INSERT j number
+RPRINT
+INSERT ahG5Xb string
+arMK moq_
+INSERT b string
+INSERT s2 string
+INSERT qaYiPH number
+aB we
+INSERT j string
+INSERT yk string
+INSERT u1Cjb string
+INSERT vkw6k string
+INSERT rLova string
+INSERT m40D string
+ASSIGN b 'ID'
+INSERT leNwE number
+INSERT jG9mw number
+LOOKUP yk
+ASSIGN j0mcUU leNwE
+PRINT
+INSERT mWk string
+END
+fRz8Q qXO
+INSERT wSBMp string

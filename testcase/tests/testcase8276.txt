@@ -1,0 +1,11 @@
+INSERT hbr number
+INSERT q string
+ASSIGN q 964
+INSERT nG number
+INSERT iB number
+LOOKUP hbr
+INSERT a number
+INSERT nyAxOg number
+BEGIN
+INSERT wlRer string
+ASSIGN hbr 'fGOF'

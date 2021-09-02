@@ -1,0 +1,11 @@
+END
+INSERT txQ4 number
+INSERT heOMo number
+RPRINT
+INSERT tukeb number
+INSERT g string
+LOOKUP heOMo
+INSERT j string
+INSERT yAj number
+INSERT ykRI string
+BEGIN

@@ -1,0 +1,20 @@
+INSERT rvt5_ string
+INSERT c1 number
+LOOKUP c1
+INSERT a number
+INSERT p number
+INSERT xYq number
+END
+INSERT lS1CY number
+BEGIN
+LOOKUP p
+INSERT c string
+PRINT
+ASSIGN lS1CY xYq
+END
+INSERT noxHbk string
+RPRINT
+INSERT sOmXVQ string
+INSERT ar string
+INSERT mmfBU string
+INSERT c8O2V string

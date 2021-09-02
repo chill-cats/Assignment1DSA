@@ -1,0 +1,19 @@
+ASSIGN gSj 348
+INSERT i7NX string
+INSERT bcVG1r number
+END
+INSERT f80r number
+LOOKUP i7NX
+INSERT w4reY number
+INSERT oeWI string
+INSERT tti string
+RPRINT
+INSERT vDKrZ string
+INSERT aMQzl string
+INSERT b5_GM_ string
+END
+RPRINT
+INSERT pRpdtJ string
+PRINT
+INSERT v string
+INSERT lNwpY string

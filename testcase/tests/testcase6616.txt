@@ -1,0 +1,8 @@
+ASSIGN b '9'
+lzV y
+s_jJ zbDf
+END
+BEGIN
+INSERT m number
+LOOKUP m
+INSERT scmdM number

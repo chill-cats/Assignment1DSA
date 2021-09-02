@@ -1,0 +1,9 @@
+ASSIGN mrn 1127
+INSERT hX string
+INSERT jDZ9C string
+INSERT ngEBcF string
+ASSIGN ngEBcF hX
+INSERT aJIM number
+INSERT yiL4V string
+INSERT e6D number
+INSERT v string

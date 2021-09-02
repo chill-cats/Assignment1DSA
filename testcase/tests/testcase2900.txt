@@ -1,0 +1,23 @@
+RPRINT
+INSERT pHfr number
+RPRINT
+INSERT bbAoe string
+END
+INSERT s4o number
+INSERT dXijCL string
+INSERT a number
+INSERT y2 string
+BEGIN
+PRINT
+BEGIN
+INSERT uGPj string
+INSERT lTVF number
+LOOKUP a
+INSERT bGQGo string
+PRINT
+INSERT aA string
+INSERT g string
+PRINT
+INSERT n string
+INSERT va1NVE number
+LOOKUP a

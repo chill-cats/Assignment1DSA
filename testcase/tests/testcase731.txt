@@ -1,0 +1,29 @@
+INSERT yb string
+INSERT n3 string
+PRINT
+INSERT e string
+INSERT v4Z number
+INSERT bEi number
+INSERT tZRxmI number
+END
+ASSIGN n3 885
+INSERT sQ string
+INSERT j3Ee number
+BEGIN
+INSERT qyy number
+INSERT aO0 string
+INSERT vkb number
+INSERT f number
+INSERT lsHbA0 string
+RPRINT
+INSERT ia string
+END
+INSERT gYjFeq string
+INSERT y1tO string
+INSERT e number
+PRINT
+LOOKUP qyy
+INSERT nGlrd8 number
+INSERT llgZt number
+INSERT zvldZ string
+LOOKUP llgZt

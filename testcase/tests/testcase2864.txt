@@ -1,0 +1,21 @@
+INSERT zAX number
+INSERT y string
+INSERT hqDIR string
+RPRINT
+END
+bTE o
+INSERT kFL_ number
+LOOKUP hqDIR
+RPRINT
+BEGIN
+jGdST m
+INSERT o string
+INSERT u5o string
+INSERT o number
+INSERT o1r20 number
+INSERT zosQ number
+PRINT
+RPRINT
+ASSIGN o 'Q'
+INSERT xvz number
+INSERT hUVGU4 string

@@ -1,0 +1,9 @@
+INSERT l_ string
+INSERT p9 string
+INSERT rb number
+BEGIN
+INSERT by65W number
+INSERT siKDA string
+PRINT
+INSERT x_MLsR string
+BEGIN

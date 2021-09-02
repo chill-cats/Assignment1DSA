@@ -1,0 +1,20 @@
+xUj u6lS4
+END
+INSERT vHQE number
+PRINT
+INSERT f_A number
+ASSIGN f_A 'DlRC'
+PRINT
+BEGIN
+INSERT kDp_ number
+INSERT g_ number
+INSERT zQ2v number
+INSERT kLQo number
+PRINT
+INSERT kt_v8 string
+INSERT raY number
+INSERT s1ppY string
+INSERT n string
+INSERT ijZ_ string
+RPRINT
+LOOKUP ijZ_

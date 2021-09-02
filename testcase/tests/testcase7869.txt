@@ -1,0 +1,6 @@
+INSERT g number
+LOOKUP g
+RPRINT
+INSERT r5P string
+INSERT yfbrJ number
+INSERT q number

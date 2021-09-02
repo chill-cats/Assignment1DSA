@@ -1,0 +1,2 @@
+INSERT f9zs number
+PRINT

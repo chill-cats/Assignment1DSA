@@ -1,0 +1,18 @@
+INSERT d number
+ASSIGN d 'goOtx'
+PRINT
+INSERT biRb string
+INSERT p number
+INSERT d number
+INSERT mIjsNm number
+INSERT cOOT string
+RPRINT
+INSERT e string
+INSERT tZ8vmM number
+INSERT fo number
+INSERT zC string
+INSERT lSr2 number
+INSERT od number
+INSERT wIzht string
+INSERT j string
+jgo mr

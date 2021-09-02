@@ -1,0 +1,31 @@
+INSERT j9s string
+ASSIGN j9s j9s
+INSERT sa number
+po9C q9
+END
+RPRINT
+INSERT f string
+INSERT ju string
+INSERT aNTIFz number
+INSERT f4 number
+INSERT gFjp1 string
+INSERT bd string
+INSERT cQmw string
+INSERT rO string
+PRINT
+PRINT
+ASSIGN cQmw 'R'
+INSERT sgeYM number
+INSERT tIQr2 number
+LOOKUP f
+INSERT jNV string
+BEGIN
+INSERT eb number
+INSERT i5alz4 number
+INSERT o string
+INSERT exdkrE number
+RPRINT
+INSERT nx string
+INSERT ogenv number
+INSERT v8E string
+INSERT o string

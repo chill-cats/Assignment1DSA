@@ -1,0 +1,11 @@
+RPRINT
+END
+goV mb
+zO vw_RR
+ASSIGN mS 486
+INSERT g6 string
+LOOKUP g6
+BEGIN
+INSERT cryJIN number
+INSERT oC51E string
+END

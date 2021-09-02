@@ -1,0 +1,23 @@
+ASSIGN t4QWd 168
+INSERT mc number
+INSERT c string
+BEGIN
+RPRINT
+PRINT
+INSERT wB string
+INSERT yKYTZ number
+INSERT nn number
+INSERT izyU7 string
+LOOKUP c
+ASSIGN yKYTZ 'H'
+INSERT t1Q string
+INSERT bU12 number
+i zH7nn
+END
+INSERT zXNl string
+INSERT ru string
+LOOKUP nn
+ASSIGN mc 'QU'
+INSERT cyv string
+ASSIGN yKYTZ 'O8a'
+INSERT sF number

@@ -1,0 +1,16 @@
+ASSIGN im 'Ly6'
+LOOKUP u
+INSERT sQS number
+INSERT v string
+END
+RPRINT
+tFMIS pWe
+INSERT yU string
+INSERT kaGNrz number
+INSERT nB5Q string
+RPRINT
+INSERT bLICIj number
+LOOKUP v
+INSERT vx413 number
+INSERT qOej number
+INSERT pe1H number

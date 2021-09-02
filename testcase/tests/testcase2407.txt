@@ -1,0 +1,28 @@
+PRINT
+INSERT aH string
+END
+INSERT s57Xc2 number
+INSERT vUzD number
+BEGIN
+BEGIN
+INSERT kOVrK string
+LOOKUP kOVrK
+INSERT dTGvq string
+INSERT lWXdai number
+PRINT
+PRINT
+LOOKUP s57Xc2
+ASSIGN vUzD s57Xc2
+PRINT
+INSERT gMw string
+LOOKUP vUzD
+INSERT ibnW2z string
+END
+INSERT xPJ number
+BEGIN
+INSERT d string
+INSERT hp string
+INSERT oaqy string
+RPRINT
+INSERT x string
+END

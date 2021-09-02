@@ -1,0 +1,32 @@
+INSERT pv1 string
+INSERT cLRKz number
+LOOKUP cLRKz
+PRINT
+INSERT x number
+INSERT y6 string
+END
+INSERT aJ1F_ string
+PRINT
+INSERT ldCG number
+INSERT r08A string
+INSERT g71 string
+INSERT f number
+INSERT t string
+INSERT du9z_ number
+INSERT ldNc number
+INSERT j number
+INSERT mp2 number
+INSERT lt number
+RPRINT
+INSERT c number
+INSERT j86v number
+INSERT ver number
+INSERT lH string
+INSERT gHj number
+INSERT x string
+INSERT yC7 string
+INSERT n5 number
+INSERT jJneM string
+INSERT pYLua number
+LOOKUP n5
+LOOKUP x

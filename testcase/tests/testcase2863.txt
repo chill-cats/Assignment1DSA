@@ -1,0 +1,17 @@
+INSERT wxyI1t string
+INSERT q0NB45 string
+INSERT q9 number
+ASSIGN q9 930
+INSERT c98Vh string
+INSERT pe4i string
+INSERT dB9ttB number
+INSERT oQNWes number
+INSERT prPuhF string
+RPRINT
+PRINT
+nA vt
+INSERT xY string
+ASSIGN c98Vh ' f'
+INSERT i0vIo string
+RPRINT
+END

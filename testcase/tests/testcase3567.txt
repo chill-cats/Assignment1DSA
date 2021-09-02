@@ -1,0 +1,2 @@
+INSERT cztO string
+INSERT xff4AR number

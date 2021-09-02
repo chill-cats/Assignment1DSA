@@ -1,0 +1,15 @@
+INSERT cBfY string
+INSERT rZ number
+INSERT pF number
+INSERT vN number
+PRINT
+INSERT x number
+INSERT m string
+PRINT
+INSERT yFW string
+INSERT rcbRT string
+INSERT b number
+INSERT wKknz number
+INSERT hno8 string
+END
+RPRINT

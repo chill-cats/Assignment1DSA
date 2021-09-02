@@ -1,0 +1,5 @@
+ASSIGN yk1 'No9'
+END
+LOOKUP qvqfZ
+BEGIN
+ASSIGN ePrR 'C'

@@ -1,0 +1,30 @@
+INSERT xU30 number
+INSERT p number
+BEGIN
+INSERT hBqdye number
+INSERT sVye string
+INSERT suUg6 number
+INSERT lhYFu string
+INSERT nFO string
+LOOKUP hBqdye
+INSERT y string
+INSERT yyOBpP string
+INSERT lU string
+INSERT tfY number
+ASSIGN hBqdye 1146
+PRINT
+LOOKUP xU30
+INSERT v5 string
+t7 ywYqD
+INSERT t string
+INSERT o string
+BEGIN
+INSERT qBYq string
+RPRINT
+INSERT b number
+LOOKUP lU
+n r
+INSERT oEJPy5 string
+INSERT h number
+INSERT vg5 number
+INSERT kEZmk string

@@ -1,0 +1,17 @@
+INSERT w0JJt string
+INSERT e2_Y_ number
+INSERT k7gt4Q string
+INSERT g6 number
+INSERT wPGq string
+INSERT w number
+END
+INSERT gut string
+INSERT wb8yR string
+INSERT rmS string
+INSERT j string
+INSERT zCE string
+eR ckdU2
+INSERT uePEG string
+INSERT vK string
+RPRINT
+BEGIN

@@ -1,0 +1,11 @@
+INSERT yxJhxV number
+INSERT f number
+INSERT i4 string
+BEGIN
+END
+RPRINT
+INSERT rowLY number
+INSERT hPV string
+ASSIGN hPV 'ODDa'
+INSERT yLk5 number
+INSERT zGtGu string

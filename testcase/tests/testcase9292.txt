@@ -1,0 +1,37 @@
+BEGIN
+END
+INSERT kRhV number
+INSERT z string
+INSERT wL0 number
+INSERT cmz number
+INSERT vHrv number
+INSERT i number
+INSERT a_ string
+INSERT zFh string
+INSERT f number
+INSERT xLf number
+LOOKUP cmz
+INSERT qcnOgN number
+INSERT hQS number
+ASSIGN xLf vHrv
+INSERT neqZ string
+ASSIGN vHrv 858
+INSERT cRNo string
+INSERT rr7 string
+INSERT kv4 string
+INSERT sPcWk number
+INSERT k string
+INSERT j number
+INSERT a number
+INSERT oN string
+INSERT e6 string
+RPRINT
+PRINT
+END
+INSERT uoE3v string
+INSERT x number
+END
+INSERT za number
+PRINT
+INSERT njEvu number
+INSERT iEv string

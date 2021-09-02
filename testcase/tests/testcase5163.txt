@@ -1,0 +1,35 @@
+INSERT p number
+LOOKUP p
+INSERT le number
+INSERT twg number
+INSERT xOgbE string
+hjja i9
+INSERT t number
+LOOKUP p
+INSERT xpZ number
+INSERT o2wfl number
+INSERT t number
+INSERT fV string
+BEGIN
+INSERT bzec number
+INSERT bc6g7d string
+INSERT mXBx2j string
+INSERT jNz0yZ number
+END
+PRINT
+INSERT xm string
+ASSIGN xm 879
+INSERT wWi string
+INSERT oCz1 string
+INSERT bNI string
+INSERT gXF string
+LOOKUP wn
+INSERT eyUoY string
+INSERT ee number
+RPRINT
+RPRINT
+INSERT j4oJ number
+INSERT t string
+INSERT pT string
+INSERT gH number
+u ajKsF7

@@ -1,0 +1,32 @@
+PRINT
+INSERT gI string
+INSERT n string
+INSERT rzb2F4 number
+ASSIGN rzb2F4 'DB'
+INSERT u07 number
+INSERT stsIB string
+INSERT eKdq string
+INSERT jXS number
+INSERT lb5r1 number
+LOOKUP u07
+INSERT v1 string
+INSERT a number
+BEGIN
+BEGIN
+ASSIGN a 'vfetw'
+INSERT uHCBO number
+INSERT h9 string
+z tf3dfl
+INSERT da number
+tavf eUvQ
+q7 eXFtl5
+a7J rS
+INSERT nz09f number
+INSERT v number
+INSERT iwPV string
+INSERT b number
+INSERT i5t0O string
+INSERT s0lP5 string
+RPRINT
+INSERT zNZb number
+INSERT h number

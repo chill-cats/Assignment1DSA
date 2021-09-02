@@ -1,0 +1,13 @@
+RPRINT
+jZMk x6q
+LOOKUP d
+BEGIN
+INSERT wLho number
+LOOKUP wLho
+PRINT
+bNb fc5
+INSERT e7lW string
+RPRINT
+INSERT ffkz2 string
+BEGIN
+ASSIGN wLho 898

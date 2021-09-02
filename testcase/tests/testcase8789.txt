@@ -1,0 +1,18 @@
+INSERT edsRI number
+INSERT agp0 string
+INSERT jWmEa6 string
+INSERT xd number
+BEGIN
+END
+hd g
+LOOKUP agp0
+fV_NoG sAi
+INSERT yg4k number
+INSERT l number
+INSERT nP number
+INSERT de string
+INSERT zgY number
+INSERT tO number
+ASSIGN zgY 758
+INSERT iFK67E number
+PRINT

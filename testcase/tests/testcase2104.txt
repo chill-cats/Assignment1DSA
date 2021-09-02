@@ -1,0 +1,6 @@
+INSERT qhTpZ8 string
+INSERT k8xBSZ string
+INSERT vy number
+RPRINT
+INSERT paw number
+INSERT neMEe0 number

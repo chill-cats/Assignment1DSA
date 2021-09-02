@@ -1,0 +1,31 @@
+BEGIN
+RPRINT
+INSERT qtTMm string
+LOOKUP qtTMm
+INSERT bnPQ string
+INSERT lR string
+INSERT ul string
+INSERT ubdvy string
+INSERT sJiaN number
+INSERT nsaNWD number
+INSERT gB16 number
+INSERT hAZ0 number
+INSERT cD3 string
+INSERT dY1l string
+INSERT j3l number
+INSERT vi number
+PRINT
+RPRINT
+END
+BEGIN
+END
+INSERT i number
+INSERT c string
+INSERT vp string
+LOOKUP i
+INSERT azBILl string
+INSERT f string
+INSERT qmYY string
+END
+PRINT
+END

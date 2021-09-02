@@ -1,0 +1,5 @@
+INSERT wgwH1G number
+LOOKUP wgwH1G
+INSERT tOv6u3 string
+ASSIGN wgwH1G 'Mt1i0'
+INSERT j8LDm string

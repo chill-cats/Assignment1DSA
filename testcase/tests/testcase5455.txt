@@ -1,0 +1,39 @@
+INSERT o3M30 string
+INSERT cF string
+INSERT odYP string
+INSERT oGLj4 string
+PRINT
+ASSIGN o3M30 959
+END
+INSERT ja_Y number
+LOOKUP o3M30
+INSERT t number
+ASSIGN odYP 906
+INSERT cG string
+INSERT n_UsiF string
+INSERT i number
+INSERT qr number
+INSERT l2 number
+RPRINT
+ASSIGN qr 'ts'
+BEGIN
+LOOKUP qr
+INSERT d4UBI6 string
+INSERT dfk string
+INSERT bLZRBo string
+INSERT x1EW string
+BEGIN
+BEGIN
+PRINT
+RPRINT
+PRINT
+INSERT kh8 string
+PRINT
+BEGIN
+INSERT qqwO number
+BEGIN
+INSERT xy9Q02 number
+c8AP xOIwO0
+INSERT xIwVt string
+ASSIGN kh8 'fdMda'
+ASSIGN o3M30 'o3G'

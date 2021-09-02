@@ -1,0 +1,9 @@
+INSERT va string
+BEGIN
+INSERT f5jF number
+INSERT v7dvp number
+RPRINT
+PRINT
+INSERT l number
+INSERT t1lyB string
+PRINT

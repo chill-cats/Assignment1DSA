@@ -1,0 +1,20 @@
+END
+RPRINT
+ASSIGN yFrRE 865
+INSERT zy7Qr number
+ASSIGN zy7Qr 'fo'
+RPRINT
+BEGIN
+INSERT pJ8aog string
+LOOKUP pJ8aog
+INSERT y9Gg3 string
+INSERT xveKu number
+INSERT dK0 number
+INSERT yVk string
+INSERT flZ string
+END
+INSERT vo string
+INSERT zrEiA number
+INSERT uWEu string
+INSERT aP string
+LOOKUP zrEiA

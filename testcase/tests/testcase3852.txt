@@ -1,0 +1,6 @@
+RPRINT
+ASSIGN z 873
+INSERT v7 number
+INSERT a5RNQ number
+INSERT gD number
+INSERT z2 number

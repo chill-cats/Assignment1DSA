@@ -1,0 +1,7 @@
+INSERT qmai string
+INSERT i2 string
+INSERT fmX string
+INSERT m string
+ASSIGN i2 392
+ASSIGN i2 491
+END

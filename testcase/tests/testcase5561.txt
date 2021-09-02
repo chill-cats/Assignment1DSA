@@ -1,0 +1,16 @@
+RPRINT
+INSERT t string
+BEGIN
+LOOKUP t
+RPRINT
+INSERT uaij string
+END
+INSERT opBV string
+u osm
+RPRINT
+INSERT p8 string
+INSERT chyL number
+INSERT x102 string
+INSERT yiaZ string
+INSERT fm_B2V number
+INSERT t number

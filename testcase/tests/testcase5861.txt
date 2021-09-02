@@ -1,0 +1,4 @@
+INSERT kZFTr number
+LOOKUP kZFTr
+PRINT
+INSERT qiCW string

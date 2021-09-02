@@ -1,0 +1,17 @@
+INSERT geiJ number
+LOOKUP geiJ
+INSERT pW0A string
+RPRINT
+END
+INSERT zaVpZO string
+INSERT cX string
+INSERT lUsqm string
+PRINT
+INSERT umH number
+INSERT d0TpRS number
+INSERT v number
+INSERT cfmZoL string
+INSERT bY number
+INSERT qLNOY number
+BEGIN
+PRINT

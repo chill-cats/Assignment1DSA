@@ -1,0 +1,28 @@
+END
+BEGIN
+LOOKUP uI
+INSERT z number
+INSERT y2I9A string
+ASSIGN y2I9A 1132
+INSERT jyr72 number
+INSERT v string
+INSERT h_T number
+RPRINT
+INSERT b string
+INSERT d1wqaF number
+INSERT oFFWO9 string
+INSERT eDZ_ string
+END
+BEGIN
+INSERT vc number
+RPRINT
+INSERT q1vC string
+LOOKUP z
+BEGIN
+INSERT xV string
+ppo eqcYA
+INSERT xhrx string
+INSERT rQ number
+INSERT r number
+INSERT zu number
+END

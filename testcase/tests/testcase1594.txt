@@ -1,0 +1,27 @@
+INSERT bZ string
+g hS
+INSERT doj number
+ASSIGN bZ 'g'
+INSERT ru number
+BEGIN
+INSERT lRY number
+INSERT ma string
+INSERT wa_EZ8 string
+INSERT u string
+RPRINT
+BEGIN
+LOOKUP doj
+INSERT oz number
+INSERT hR1 string
+RPRINT
+INSERT gifm string
+INSERT u number
+END
+INSERT dGW number
+LOOKUP hR1
+BEGIN
+RPRINT
+RPRINT
+INSERT g number
+BEGIN
+INSERT v5fsJ2 number

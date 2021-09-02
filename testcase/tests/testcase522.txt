@@ -1,0 +1,4 @@
+INSERT wg string
+PRINT
+INSERT sNE0 number
+PRINT

@@ -1,0 +1,27 @@
+LOOKUP z
+END
+INSERT fhl string
+r3 jE4aB
+INSERT jjD number
+END
+INSERT n9vD1U number
+RPRINT
+RPRINT
+INSERT s9_ number
+INSERT e1za string
+INSERT zy string
+END
+RPRINT
+INSERT vr number
+INSERT q_8te string
+ASSIGN e1za 'Elz2'
+INSERT q string
+INSERT w string
+END
+v_n9 k
+INSERT hgUz string
+PRINT
+BEGIN
+INSERT dvc number
+INSERT goG string
+LOOKUP zy

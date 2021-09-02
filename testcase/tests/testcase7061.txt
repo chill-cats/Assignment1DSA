@@ -1,0 +1,16 @@
+INSERT p2Tv number
+ASSIGN p2Tv p2Tv
+INSERT cdZW4 string
+ASSIGN p2Tv '32'
+ASSIGN cdZW4 '25cNt'
+LOOKUP cdZW4
+ASSIGN cdZW4 'zx'
+INSERT x number
+ASSIGN p2Tv p2Tv
+INSERT tcY3ur string
+INSERT ta24 number
+PRINT
+INSERT f number
+PRINT
+ASSIGN x 'iuP'
+INSERT i string

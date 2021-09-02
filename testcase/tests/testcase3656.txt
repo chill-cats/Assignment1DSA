@@ -1,0 +1,16 @@
+INSERT eKS string
+INSERT yA8fFc number
+INSERT fqWg string
+INSERT fQh string
+INSERT w2 string
+LOOKUP w2
+ASSIGN w2 fQh
+INSERT rP string
+INSERT x5IM8t number
+BEGIN
+END
+END
+RPRINT
+INSERT x3Yx number
+INSERT y number
+RPRINT

@@ -1,0 +1,8 @@
+INSERT oC string
+INSERT qAGl6L number
+INSERT vE number
+END
+INSERT gF4v string
+INSERT p1f string
+LOOKUP qAGl6L
+PRINT

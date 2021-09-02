@@ -1,0 +1,25 @@
+LOOKUP rv
+ASSIGN m_Uh 161
+LOOKUP b9NPkP
+xVzisf mh0
+INSERT luk9 number
+LOOKUP luk9
+BEGIN
+INSERT kaA5 number
+INSERT aNoj4 string
+END
+INSERT ibYTT number
+INSERT eJ string
+INSERT eNIJJ number
+LOOKUP aNoj4
+INSERT ysR number
+n0 b1
+PRINT
+ziDCJ u
+INSERT z9 number
+RPRINT
+INSERT m029RY string
+INSERT zvYv number
+PRINT
+BEGIN
+wo z

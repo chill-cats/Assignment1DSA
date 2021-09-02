@@ -1,0 +1,13 @@
+LOOKUP e42YD2
+INSERT b8Y9IO number
+BEGIN
+INSERT u string
+mY1 w8_p
+v y
+RPRINT
+INSERT z_ number
+INSERT a7wp string
+INSERT egsTrf string
+INSERT mg number
+ASSIGN mg 522
+BEGIN

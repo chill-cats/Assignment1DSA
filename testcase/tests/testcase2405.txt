@@ -1,0 +1,35 @@
+INSERT bPuna string
+INSERT aE string
+INSERT iX0 number
+INSERT gY8ZQq number
+uIJB02 f
+INSERT rpbK9 number
+LOOKUP gY8ZQq
+INSERT a string
+INSERT tpgm number
+BEGIN
+INSERT gSKLob string
+ASSIGN bPuna a
+INSERT d string
+INSERT otjt string
+INSERT ccO string
+INSERT qLjt string
+INSERT c8ioL string
+INSERT okZm string
+INSERT lMth string
+INSERT v7KJeQ number
+LOOKUP gY8ZQq
+RPRINT
+INSERT eY number
+ASSIGN v7KJeQ 242
+PRINT
+INSERT qnd number
+ASSIGN bPuna d
+INSERT uHCSE0 string
+END
+BEGIN
+INSERT a5H number
+LOOKUP okZm
+pk lmn
+INSERT j string
+INSERT wZf number

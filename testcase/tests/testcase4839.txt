@@ -1,0 +1,7 @@
+LOOKUP vvZB1
+INSERT s number
+INSERT reCcOy string
+INSERT f string
+INSERT uYvPH string
+PRINT
+INSERT bRF number

@@ -1,0 +1,38 @@
+INSERT f string
+INSERT a1MtIp number
+INSERT mvi string
+INSERT zoV string
+INSERT jhLv6 number
+END
+LOOKUP f
+INSERT hOTYA string
+INSERT ncN string
+BEGIN
+END
+bqXq o6Cyl_
+BEGIN
+INSERT a number
+INSERT nKgT string
+INSERT mQ8UN string
+INSERT imQAx number
+INSERT eez number
+INSERT yhuPSP string
+INSERT ojA number
+END
+INSERT x string
+INSERT hYg number
+PRINT
+INSERT fCGI string
+p9 yKT
+LOOKUP ncN
+LOOKUP imQAx
+INSERT mGNCI number
+INSERT joo8 number
+INSERT t string
+INSERT lQ8zXN string
+INSERT hsdAvB number
+INSERT lSzZn number
+LOOKUP pj6
+ASSIGN t 1179
+END
+INSERT llw string

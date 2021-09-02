@@ -1,0 +1,27 @@
+INSERT kNE string
+INSERT h2OKZ number
+INSERT r string
+RPRINT
+END
+INSERT zfwf string
+PRINT
+INSERT l number
+INSERT d number
+LOOKUP l
+INSERT d8m string
+iGH odbtD
+INSERT weM string
+INSERT afu number
+INSERT zoSis string
+ASSIGN d 'J'
+LOOKUP kNE
+BEGIN
+ASSIGN kV zfwf
+lN uCXlPO
+ASSIGN r 'A'
+INSERT xonj4j string
+INSERT oa7U string
+RPRINT
+mKe hZn
+INSERT fRi string
+INSERT tWvBf string

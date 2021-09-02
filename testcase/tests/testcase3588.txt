@@ -1,0 +1,27 @@
+INSERT jNHW string
+INSERT r6G_pB string
+INSERT fUUe number
+INSERT df string
+INSERT l number
+LOOKUP r6G_pB
+RPRINT
+END
+INSERT n string
+END
+END
+INSERT b9Dv4w number
+INSERT tjW string
+BEGIN
+INSERT wT string
+END
+LOOKUP b9Dv4w
+RPRINT
+INSERT xvQC string
+PRINT
+INSERT z string
+INSERT gz number
+LOOKUP l
+ASSIGN n n
+INSERT ea number
+INSERT w59LL9 number
+INSERT rh0v string

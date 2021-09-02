@@ -1,0 +1,31 @@
+INSERT gBSyN string
+BEGIN
+INSERT feAFY number
+INSERT qr5M number
+INSERT uG3 number
+INSERT aJ string
+INSERT syLm string
+INSERT da string
+RPRINT
+INSERT kC string
+INSERT hup5yh string
+INSERT jzupSu number
+INSERT c string
+INSERT p number
+INSERT uwn number
+INSERT s number
+ASSIGN hup5yh 1227
+RPRINT
+INSERT vi number
+INSERT kP number
+INSERT vCnAf number
+END
+INSERT hn1h number
+INSERT ovF number
+INSERT rBFT number
+INSERT fa number
+INSERT j number
+INSERT ah4F number
+INSERT t number
+INSERT c0fgb string
+LOOKUP vi

@@ -1,0 +1,29 @@
+PRINT
+INSERT vtn number
+w u
+RPRINT
+LOOKUP vtn
+LOOKUP vtn
+RPRINT
+PRINT
+INSERT na number
+INSERT aXcTc string
+RPRINT
+ASSIGN na 829
+LOOKUP vtn
+cnpw1 uCtY
+INSERT zXsIK string
+INSERT rg5 string
+END
+RPRINT
+BEGIN
+INSERT ynvPc3 string
+INSERT ntu string
+END
+INSERT yV number
+INSERT l number
+ASSIGN yV 'n9tQ'
+INSERT nLEp string
+RPRINT
+END
+INSERT iozEU string

@@ -1,0 +1,16 @@
+INSERT g string
+INSERT kr string
+RPRINT
+RPRINT
+cIj f_ikn
+INSERT sCVAEa string
+INSERT umd string
+INSERT uk number
+LOOKUP uk
+INSERT kj number
+INSERT mL1 number
+INSERT sp35 number
+INSERT vx string
+RPRINT
+INSERT a string
+INSERT eL6Z string

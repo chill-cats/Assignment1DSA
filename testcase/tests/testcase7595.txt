@@ -1,0 +1,7 @@
+PRINT
+PRINT
+PRINT
+INSERT p number
+INSERT y string
+INSERT m number
+BEGIN

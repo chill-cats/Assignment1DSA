@@ -1,0 +1,11 @@
+INSERT pnx number
+PRINT
+INSERT uKZ number
+INSERT g2 string
+END
+INSERT tLv9n number
+LOOKUP g2
+INSERT snYdI string
+PRINT
+o x6FUzC
+INSERT hvIzJ1 number

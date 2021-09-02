@@ -1,0 +1,20 @@
+RPRINT
+INSERT uZ number
+sbg9K aL
+INSERT v string
+RPRINT
+INSERT oKm string
+PRINT
+INSERT yecCj string
+INSERT uPc string
+INSERT p7u string
+INSERT n_k number
+ASSIGN uPc p7u
+BEGIN
+c0 wJGg
+LOOKUP v
+INSERT b0 string
+INSERT rmz string
+INSERT yUe number
+PRINT
+INSERT paJX4 string

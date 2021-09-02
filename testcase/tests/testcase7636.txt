@@ -1,0 +1,21 @@
+INSERT vXqy number
+INSERT zro5I number
+INSERT ens9 string
+INSERT k50_k number
+END
+ASSIGN vXqy 'WPj'
+INSERT ez number
+INSERT r3Iv string
+INSERT hmKi number
+INSERT c string
+PRINT
+INSERT qY number
+INSERT c1XO number
+INSERT bxb string
+RPRINT
+INSERT hbEL number
+RPRINT
+INSERT gqDI string
+INSERT n20Qi string
+LOOKUP hbEL
+ASSIGN hbEL 993

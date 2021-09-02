@@ -1,0 +1,4 @@
+INSERT xt number
+INSERT m number
+LOOKUP m
+v mwOK

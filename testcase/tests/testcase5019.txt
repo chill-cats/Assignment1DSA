@@ -1,0 +1,16 @@
+INSERT b number
+END
+INSERT sON string
+INSERT zaf42 string
+INSERT xp string
+RPRINT
+INSERT z_yL string
+INSERT vSwy number
+ASSIGN zaf42 z_yL
+INSERT tnUiM string
+INSERT a9SJ8z string
+BEGIN
+INSERT nIrI number
+BEGIN
+INSERT mOmtl string
+INSERT vUhHEk string

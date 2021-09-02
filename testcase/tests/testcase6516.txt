@@ -1,0 +1,38 @@
+BEGIN
+INSERT bR2D2C string
+INSERT dJ number
+INSERT lgTHQ3 string
+INSERT fZ9QR string
+BEGIN
+INSERT uok0W number
+LOOKUP bR2D2C
+INSERT ls8E5 number
+INSERT rs_7 string
+INSERT z number
+BEGIN
+INSERT phvn string
+INSERT v number
+INSERT w string
+RPRINT
+INSERT n1zL number
+INSERT ij number
+LOOKUP ij
+RPRINT
+BEGIN
+uaAF6 iRk
+BEGIN
+END
+INSERT el string
+RPRINT
+END
+INSERT n number
+LOOKUP z
+PRINT
+INSERT m number
+INSERT pxP2p string
+INSERT chI0U number
+ASSIGN lgTHQ3 109
+INSERT ye number
+INSERT h number
+BEGIN
+END

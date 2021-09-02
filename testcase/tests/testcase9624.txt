@@ -1,0 +1,39 @@
+BEGIN
+INSERT tROMt number
+LOOKUP tROMt
+PRINT
+LOOKUP tROMt
+LOOKUP tROMt
+LOOKUP tROMt
+INSERT eE8 string
+INSERT bBto4 number
+INSERT j number
+INSERT kuUO3A number
+RPRINT
+INSERT jbeEJ string
+INSERT qCPl8Y string
+ar l8C0j
+BEGIN
+INSERT qP number
+INSERT tlMc string
+LOOKUP eE8
+BEGIN
+INSERT oI1Jg number
+INSERT qJTJlt number
+END
+INSERT cF number
+INSERT oj0jM string
+INSERT vhbLk number
+INSERT uW number
+BEGIN
+RPRINT
+INSERT s string
+ASSIGN oI1Jg 'C8'
+END
+ASSIGN qCPl8Y vhbLk
+INSERT i6l number
+PRINT
+INSERT abkXA2 number
+INSERT m2 string
+INSERT kGGJ3 string
+END

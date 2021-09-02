@@ -1,0 +1,20 @@
+LOOKUP qr
+LOOKUP czy
+INSERT r4F number
+INSERT sCnfh number
+LOOKUP sCnfh
+INSERT f0VcEU string
+ASSIGN f0VcEU 'X'
+INSERT yLHV0 number
+INSERT cl number
+INSERT dhaJis number
+INSERT vxTezg string
+INSERT i7I5GI number
+INSERT z number
+INSERT vJ3F number
+INSERT mOwHD5 number
+INSERT zVh string
+INSERT p number
+INSERT yT number
+LOOKUP vxTezg
+INSERT bMcPPk number

@@ -1,0 +1,13 @@
+INSERT fbC string
+INSERT bf6K number
+INSERT gFs35 number
+INSERT jOEo string
+INSERT tZy0l number
+LOOKUP tZy0l
+INSERT mmbot number
+INSERT e_ string
+INSERT ybDH string
+INSERT jIhqO number
+INSERT sd string
+PRINT
+INSERT vKjPPq number

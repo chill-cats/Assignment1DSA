@@ -1,0 +1,10 @@
+INSERT q string
+INSERT o13K string
+INSERT a number
+LOOKUP a
+INSERT x number
+ASSIGN a q
+INSERT ibD string
+INSERT dQ string
+INSERT x string
+hD9HCz qL

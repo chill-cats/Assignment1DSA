@@ -1,0 +1,36 @@
+INSERT sC7s string
+ASSIGN sC7s 78
+ASSIGN sC7s 'A'
+INSERT oPr number
+INSERT fjfm5 number
+INSERT letN string
+ASSIGN sC7s 'cCJ'
+dlk0d5 r2fOw
+INSERT x string
+PRINT
+END
+BEGIN
+f2 jtxo
+INSERT v1VS string
+INSERT ly number
+INSERT tXeP6Q string
+INSERT eAhhG string
+PRINT
+INSERT e9rC27 string
+ASSIGN e9rC27 318
+BEGIN
+RPRINT
+PRINT
+END
+INSERT hk number
+INSERT nz0y5 string
+INSERT wCiAj number
+INSERT ye string
+PRINT
+INSERT f string
+INSERT dI string
+INSERT qmWFq number
+INSERT plmEz0 string
+END
+INSERT dl number
+INSERT sc string

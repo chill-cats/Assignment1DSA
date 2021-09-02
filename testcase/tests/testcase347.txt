@@ -1,0 +1,17 @@
+INSERT iRhz0f string
+LOOKUP iRhz0f
+INSERT opXs string
+INSERT h9_lm string
+INSERT meqSn number
+LOOKUP opXs
+INSERT t35tp string
+LOOKUP iRhz0f
+PRINT
+INSERT hAbs_P string
+INSERT nC string
+BEGIN
+BEGIN
+PRINT
+INSERT zMy number
+INSERT ud10 string
+INSERT kjw number

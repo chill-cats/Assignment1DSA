@@ -1,0 +1,5 @@
+INSERT n number
+BEGIN
+ASSIGN n 'CFYXN'
+INSERT aByrRY string
+INSERT uiu number

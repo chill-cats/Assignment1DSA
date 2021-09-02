@@ -1,0 +1,24 @@
+INSERT bpji number
+LOOKUP bpji
+INSERT m7 number
+INSERT iP string
+INSERT g2xo string
+ASSIGN g2xo 473
+END
+PRINT
+INSERT x string
+INSERT sSvm string
+RPRINT
+INSERT fNc number
+INSERT s number
+PRINT
+INSERT oai number
+END
+INSERT oqnKP4 string
+BEGIN
+INSERT pDGt string
+INSERT hnbW number
+RPRINT
+INSERT nfL_ string
+END
+INSERT r7U2n6 number

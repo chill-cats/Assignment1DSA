@@ -1,0 +1,22 @@
+INSERT wf8C93 string
+INSERT y number
+INSERT y_cR number
+BEGIN
+LOOKUP y
+ASSIGN y 485
+LOOKUP wf8C93
+BEGIN
+BEGIN
+PRINT
+INSERT pFfv string
+END
+INSERT y85L52 string
+INSERT uTmjqM string
+INSERT tiDtg5 number
+wEQ qra
+INSERT yQEK string
+ASSIGN y_cR 'VZb'
+INSERT l2Id number
+INSERT r string
+INSERT zq string
+INSERT lnOt string

@@ -1,0 +1,37 @@
+INSERT vLQX2 string
+INSERT tQhL string
+LOOKUP tQhL
+INSERT x2Gp number
+ASSIGN vLQX2 'Q5pY'
+END
+INSERT lfuO string
+INSERT wJVFzi string
+PRINT
+END
+INSERT dfgP string
+INSERT iE7 number
+LOOKUP wJVFzi
+END
+INSERT ps string
+END
+INSERT hqSU4Y number
+INSERT zXvXy5 number
+INSERT of string
+INSERT pMf79 number
+INSERT po string
+INSERT dn string
+INSERT hTZwGi number
+INSERT hOw_ number
+BEGIN
+INSERT yBn string
+INSERT sEx8J string
+INSERT wp7Ji string
+INSERT qRaR5 string
+INSERT c number
+INSERT s string
+jn36 zwIn
+PRINT
+INSERT iFmj string
+INSERT hr string
+END
+INSERT jlN string

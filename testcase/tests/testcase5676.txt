@@ -1,0 +1,31 @@
+INSERT hJmt string
+INSERT iH4r number
+LOOKUP hJmt
+INSERT jh string
+INSERT z2HkNA number
+INSERT x4VDS1 number
+INSERT dxND number
+INSERT cat number
+RPRINT
+ASSIGN dxND 'VJ5J'
+BEGIN
+INSERT oax number
+BEGIN
+END
+PRINT
+LOOKUP iH4r
+PRINT
+END
+INSERT f3A7P string
+INSERT lP string
+END
+LOOKUP z2HkNA
+INSERT k4eBif string
+INSERT tDuC string
+INSERT oo7v number
+END
+INSERT y string
+INSERT sV number
+INSERT r5 number
+RPRINT
+INSERT ve9 number

@@ -1,0 +1,33 @@
+INSERT vO number
+BEGIN
+INSERT lMi43 string
+BEGIN
+INSERT h string
+BEGIN
+INSERT o number
+qKWh0 qD6Hu
+INSERT td6l3D number
+INSERT t string
+END
+ASSIGN td6l3D 732
+PRINT
+INSERT jCi1m string
+ASSIGN td6l3D 'pJ4H'
+INSERT p number
+INSERT qE number
+INSERT fNpMKr string
+ASSIGN lMi43 'SQhR'
+INSERT bh string
+LOOKUP lMi43
+ASSIGN o qE
+INSERT jywcx4 number
+PRINT
+END
+INSERT n_kl0 string
+INSERT f_ number
+INSERT hov string
+LOOKUP bh
+INSERT jxggDe number
+RPRINT
+ASSIGN jCi1m 1150
+INSERT f number

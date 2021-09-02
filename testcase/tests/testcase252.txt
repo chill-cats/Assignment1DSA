@@ -1,0 +1,23 @@
+INSERT zq84 string
+INSERT m950s number
+INSERT pft67S string
+INSERT uQl43B number
+RPRINT
+PRINT
+ASSIGN pft67S m950s
+ASSIGN pft67S 'd6E3L'
+END
+END
+END
+INSERT ufhpc2 number
+INSERT e string
+INSERT hCzpR string
+INSERT iL string
+INSERT e1 string
+ASSIGN uQl43B 'L8cw'
+INSERT xVx9_ string
+INSERT g9u number
+PRINT
+END
+INSERT p number
+INSERT jQOSM8 number

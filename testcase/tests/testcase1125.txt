@@ -1,0 +1,13 @@
+INSERT jTmMF string
+INSERT lE number
+RPRINT
+INSERT i string
+END
+INSERT nYSNM string
+PRINT
+RPRINT
+INSERT h1t number
+INSERT p7bA string
+LOOKUP h1t
+INSERT a string
+INSERT o_0Z2n number

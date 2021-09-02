@@ -1,0 +1,15 @@
+INSERT wW5 string
+INSERT h number
+INSERT vLkPYp number
+BEGIN
+END
+INSERT biCe string
+INSERT kG number
+INSERT dKWuWE string
+INSERT tgJw number
+ASSIGN kG 1159
+INSERT zP3 number
+RPRINT
+eVFprf aYx
+ASSIGN kG tgJw
+INSERT f number

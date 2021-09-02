@@ -1,0 +1,10 @@
+ASSIGN h 992
+INSERT fP number
+INSERT g string
+INSERT bnC number
+PRINT
+INSERT y string
+l43mK m9
+END
+END
+ASSIGN g 192

@@ -1,0 +1,2 @@
+INSERT x string
+INSERT njv8 number

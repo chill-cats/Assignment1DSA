@@ -1,0 +1,21 @@
+RPRINT
+INSERT lE9 string
+BEGIN
+INSERT i number
+ASSIGN i 'a5NT'
+RPRINT
+INSERT n string
+INSERT kGQ number
+INSERT nZJ42 number
+END
+pnf5 agM
+BEGIN
+INSERT pbEda number
+LOOKUP n
+INSERT x string
+INSERT kZ string
+INSERT pDAN number
+INSERT t55w2F string
+LOOKUP kGQ
+INSERT z2x string
+INSERT i2I number

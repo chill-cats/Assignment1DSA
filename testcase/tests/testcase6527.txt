@@ -1,0 +1,5 @@
+INSERT hBw_z number
+INSERT l number
+PRINT
+END
+INSERT lZgd string

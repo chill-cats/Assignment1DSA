@@ -1,0 +1,16 @@
+INSERT uz6t number
+INSERT nwIUV number
+PRINT
+INSERT vxpU string
+INSERT xT number
+INSERT wyKJT number
+LOOKUP nwIUV
+LOOKUP wyKJT
+INSERT yD2 number
+INSERT yfmrNW number
+LOOKUP uz6t
+INSERT ll number
+INSERT rSopaw number
+INSERT swZ string
+INSERT z number
+PRINT

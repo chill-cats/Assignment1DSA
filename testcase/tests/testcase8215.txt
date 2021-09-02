@@ -1,0 +1,16 @@
+INSERT p number
+INSERT e_v3a5 string
+RPRINT
+RPRINT
+ASSIGN e_v3a5 e_v3a5
+INSERT m string
+INSERT jkgsfo number
+INSERT aRmC string
+INSERT esoSWs string
+INSERT ykoS number
+BEGIN
+INSERT ea string
+INSERT kBwJJ string
+BEGIN
+INSERT is6a2 number
+INSERT mYWdko number

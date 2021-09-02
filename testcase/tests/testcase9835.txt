@@ -1,0 +1,36 @@
+INSERT sa0 number
+LOOKUP sa0
+INSERT r6T number
+RPRINT
+INSERT tXMAu number
+END
+ASSIGN tXMAu 607
+INSERT aAvJ5 string
+INSERT peW number
+hHobpu ubeR
+INSERT dlju string
+INSERT lYn string
+BEGIN
+END
+RPRINT
+INSERT vib string
+INSERT bWF string
+PRINT
+INSERT tXl number
+RPRINT
+BEGIN
+INSERT m1zd string
+ASSIGN peW tXl
+INSERT g0hxP string
+INSERT rL3B number
+BEGIN
+INSERT k number
+INSERT g69KR string
+ASSIGN tXMAu 36
+LOOKUP sa0
+PRINT
+INSERT k number
+LOOKUP k
+bGgx wr
+INSERT enJ number
+LOOKUP dlju

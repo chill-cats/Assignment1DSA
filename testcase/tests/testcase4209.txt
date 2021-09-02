@@ -1,0 +1,34 @@
+PRINT
+INSERT lMBo string
+ASSIGN lMBo 1027
+INSERT i9 string
+PRINT
+INSERT g string
+INSERT ij number
+INSERT uHl string
+INSERT qQj number
+END
+INSERT uy string
+PRINT
+RPRINT
+INSERT hhFM_2 number
+BEGIN
+PRINT
+INSERT rFTNgb string
+INSERT x2Kxw number
+RPRINT
+LOOKUP lMBo
+lHjjxn fC_
+PRINT
+ASSIGN uHl 'vnJ'
+ASSIGN hhFM_2 uy
+ASSIGN rFTNgb g
+BEGIN
+INSERT d string
+END
+INSERT fOKUn number
+INSERT lF number
+INSERT h8GX number
+INSERT qgU4hT string
+RPRINT
+ASSIGN i9 'SIdou'

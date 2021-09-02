@@ -1,0 +1,20 @@
+BEGIN
+INSERT fg number
+INSERT fo number
+INSERT fW1 number
+INSERT q string
+PRINT
+INSERT s string
+INSERT qwQ8v number
+LOOKUP qwQ8v
+bWIm yJ
+LOOKUP fg
+jCV g
+INSERT gE4K number
+INSERT qP string
+PRINT
+INSERT sNWZWb string
+t vx
+ASSIGN fW1 582
+LOOKUP q
+END

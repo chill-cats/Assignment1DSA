@@ -1,0 +1,37 @@
+INSERT tZ number
+INSERT b3Nr2 string
+INSERT nWNfJ string
+END
+RPRINT
+LOOKUP nWNfJ
+INSERT kw string
+BEGIN
+INSERT xZKti number
+PRINT
+ASSIGN kw xZKti
+INSERT gxJH4v number
+ASSIGN tZ 921
+RPRINT
+LOOKUP tZ
+INSERT oU number
+INSERT pp8 number
+PRINT
+aBP jX
+INSERT tEO number
+INSERT ua5d_ string
+END
+INSERT f8 number
+INSERT mk number
+PRINT
+PRINT
+ASSIGN mk 139
+BEGIN
+ASSIGN mk oU
+PRINT
+INSERT zKDd string
+INSERT kj1 number
+INSERT d string
+PRINT
+INSERT tk string
+ASSIGN pp8 'xhnJ'
+RPRINT

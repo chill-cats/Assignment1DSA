@@ -1,0 +1,27 @@
+INSERT v number
+END
+ASSIGN v 368
+INSERT nCh78 number
+INSERT dD number
+ASSIGN v 393
+INSERT bc string
+INSERT m string
+zQA dkxe6
+PRINT
+END
+INSERT lYQlLI number
+LOOKUP v
+b11DDv udYfQh
+LOOKUP lYQlLI
+ASSIGN nCh78 'oyL'
+PRINT
+INSERT kJlg number
+INSERT gO string
+INSERT p string
+INSERT x number
+RPRINT
+INSERT z1uE string
+RPRINT
+INSERT qb string
+BEGIN
+INSERT jRDLq string

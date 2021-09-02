@@ -1,0 +1,35 @@
+END
+INSERT qJ string
+r41 ywcCV
+INSERT z5S string
+INSERT s8Dffs string
+ASSIGN qJ 169
+INSERT ihAHs string
+RPRINT
+BEGIN
+INSERT fbP number
+INSERT hW string
+INSERT htKji3 string
+LOOKUP htKji3
+INSERT m string
+INSERT nrElTI string
+INSERT soaR number
+ASSIGN nrElTI fbP
+BEGIN
+INSERT c string
+LOOKUP ihAHs
+d m
+INSERT q16 number
+INSERT y number
+INSERT dSH_N string
+INSERT ftUh6Q number
+INSERT vdK4oP string
+INSERT w number
+INSERT pFk number
+ASSIGN w 161
+INSERT c6dlDO number
+INSERT iFF0 number
+END
+INSERT tSL number
+INSERT ouj number
+PRINT

@@ -1,0 +1,16 @@
+PRINT
+BEGIN
+INSERT vtkav number
+PRINT
+INSERT w5frX5 number
+INSERT w_LQ number
+ASSIGN vtkav w_LQ
+INSERT q string
+INSERT ql number
+ASSIGN w_LQ 687
+INSERT xgp string
+LOOKUP w5frX5
+INSERT ls_Q6 string
+RPRINT
+INSERT vh string
+INSERT vY3 number

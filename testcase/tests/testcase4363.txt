@@ -1,0 +1,8 @@
+PRINT
+INSERT hffP string
+RPRINT
+ASSIGN hffP 753
+RPRINT
+INSERT r number
+INSERT zbJ number
+BEGIN

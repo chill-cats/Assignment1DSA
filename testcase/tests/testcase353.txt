@@ -1,0 +1,21 @@
+INSERT d number
+INSERT n number
+INSERT ws string
+INSERT amOa string
+PRINT
+INSERT eg5W string
+INSERT rrBgBF string
+PRINT
+ASSIGN rrBgBF n
+INSERT uDEDg0 number
+INSERT zS number
+END
+BEGIN
+INSERT rrV number
+INSERT ep_u string
+INSERT jfdeOl number
+RPRINT
+ASSIGN eg5W d
+INSERT ixuzh number
+INSERT ww4vy number
+INSERT wVH number

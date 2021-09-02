@@ -1,0 +1,18 @@
+INSERT jX5 number
+RPRINT
+END
+INSERT u0CU3 string
+INSERT e3dUt9 number
+END
+RPRINT
+INSERT ad4GaY number
+ASSIGN u0CU3 '4lEz1'
+BEGIN
+INSERT vn string
+INSERT ftL2ef number
+INSERT r1IU string
+INSERT d0ixWN number
+BEGIN
+RPRINT
+LOOKUP r1IU
+ASSIGN ad4GaY 58

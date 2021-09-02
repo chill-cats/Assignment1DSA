@@ -1,0 +1,15 @@
+LOOKUP vpY
+INSERT q number
+END
+INSERT vR string
+INSERT t string
+END
+LOOKUP q
+INSERT jAp number
+RPRINT
+END
+END
+LOOKUP t
+kzJGNE e
+INSERT ulN number
+PRINT

@@ -1,0 +1,17 @@
+BEGIN
+INSERT n string
+INSERT qs number
+INSERT lTc string
+INSERT tMTV number
+INSERT g number
+INSERT bLP7DP string
+cB3IQ fyVo41
+INSERT gtyaa number
+INSERT iS string
+INSERT xrsxd0 string
+LOOKUP iS
+LOOKUP bLP7DP
+RPRINT
+INSERT o7h3Yq string
+INSERT aN5x string
+BEGIN

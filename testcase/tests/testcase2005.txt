@@ -1,0 +1,39 @@
+INSERT v number
+INSERT mBJ string
+INSERT tPTJ number
+PRINT
+BEGIN
+END
+ASSIGN v 354
+INSERT ghAsY number
+ASSIGN mBJ 950
+INSERT jDP string
+BEGIN
+INSERT myWj number
+INSERT b0mmI number
+INSERT t_qvw number
+INSERT ik number
+INSERT ugbJ string
+INSERT d6JX number
+INSERT b number
+INSERT tsPcPv string
+RPRINT
+INSERT r number
+BEGIN
+INSERT mgXT5l string
+BEGIN
+PRINT
+RPRINT
+INSERT uLF3 string
+INSERT zYXbe number
+INSERT d string
+INSERT vBwwWi string
+INSERT gnfG_m string
+RPRINT
+INSERT zb_ number
+RPRINT
+RPRINT
+INSERT y1y string
+INSERT ldjYD string
+INSERT u3iI3C string
+INSERT lef31 number

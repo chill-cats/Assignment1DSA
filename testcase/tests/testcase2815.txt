@@ -1,0 +1,24 @@
+LOOKUP utPQcr
+INSERT eo number
+INSERT qu0JKZ string
+ASSIGN qu0JKZ eo
+LOOKUP eo
+INSERT b number
+INSERT d0Ue string
+INSERT atg number
+wFD w
+INSERT wOtW number
+INSERT eVb4 string
+INSERT g string
+LOOKUP qu0JKZ
+INSERT z8r6 number
+INSERT aOsI5 string
+INSERT tfphhD string
+INSERT ieSIV number
+END
+INSERT waS number
+RPRINT
+kjjZ ykVp0M
+LOOKUP aOsI5
+INSERT qHd string
+INSERT ay string

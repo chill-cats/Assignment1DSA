@@ -1,0 +1,38 @@
+INSERT zu5 string
+RPRINT
+BEGIN
+LOOKUP zu5
+ASSIGN zu5 '6PM'
+INSERT eNDuwS string
+ASSIGN eNDuwS eNDuwS
+INSERT hDgTl1 number
+RPRINT
+INSERT lSnDW string
+LOOKUP eNDuwS
+pAGM fzt
+lwDC gwnw
+BEGIN
+RPRINT
+INSERT wLN string
+RPRINT
+INSERT qCuR number
+di_VuD il5ko
+END
+INSERT zqM string
+et qJez
+INSERT jIQs string
+INSERT bkgjE6 string
+PRINT
+LOOKUP hDgTl1
+INSERT n number
+INSERT lE number
+ASSIGN zqM lE
+INSERT v string
+END
+INSERT zGO string
+INSERT v string
+INSERT wIo0GQ string
+END
+END
+INSERT jxBt number
+INSERT yr string

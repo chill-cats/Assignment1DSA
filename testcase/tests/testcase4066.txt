@@ -1,0 +1,31 @@
+INSERT jr string
+INSERT eqQ1 number
+INSERT nVaot number
+INSERT cz4u string
+INSERT vLgh number
+ASSIGN nVaot 'GEk'
+BEGIN
+PRINT
+RPRINT
+INSERT zTO string
+LOOKUP cz4u
+INSERT o number
+INSERT aIJE number
+INSERT cy8 number
+INSERT krsuO string
+INSERT pByT string
+INSERT eGs_ number
+INSERT ct_ number
+INSERT lI number
+RPRINT
+INSERT tYL number
+BEGIN
+LOOKUP lI
+INSERT rM number
+RPRINT
+INSERT uAY string
+PRINT
+INSERT v6 number
+INSERT l string
+PRINT
+INSERT f string

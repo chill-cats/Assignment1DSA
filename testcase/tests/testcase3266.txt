@@ -1,0 +1,39 @@
+LOOKUP yaVCLp
+INSERT bAOlT number
+LOOKUP bAOlT
+INSERT z75z string
+INSERT hsXQb number
+INSERT l9rw number
+INSERT wBmqSx string
+BEGIN
+END
+INSERT n number
+PRINT
+INSERT kel string
+PRINT
+INSERT h string
+INSERT wZLhqE number
+INSERT wuW2si number
+RPRINT
+ASSIGN bAOlT 1169
+INSERT t7OO number
+END
+INSERT vPZSO number
+INSERT bwa2 string
+INSERT s8l_0 string
+INSERT x3Tu number
+INSERT yF number
+INSERT uawBS string
+RPRINT
+RPRINT
+RPRINT
+INSERT mt9EQ1 string
+PRINT
+INSERT iWooH9 string
+LOOKUP yF
+BEGIN
+INSERT fvP number
+INSERT w string
+BEGIN
+ASSIGN w 797
+INSERT eOBMI string

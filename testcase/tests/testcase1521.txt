@@ -1,0 +1,8 @@
+INSERT z string
+INSERT xj23pA number
+INSERT n_xh number
+INSERT jSg number
+RPRINT
+INSERT dR7U number
+INSERT bZxu string
+INSERT vRDQT string

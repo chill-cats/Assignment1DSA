@@ -1,0 +1,27 @@
+INSERT cg7N number
+INSERT xxV0kX number
+END
+INSERT o2G string
+INSERT bmMYTa number
+INSERT i string
+INSERT x number
+INSERT i6EATf number
+INSERT vdqMxS number
+INSERT nP2YN number
+INSERT nECa number
+INSERT nXLT number
+INSERT d number
+ASSIGN i6EATf cg7N
+ASSIGN x 972
+PRINT
+PRINT
+INSERT fKctW number
+INSERT yA string
+z i
+PRINT
+INSERT po5xm string
+LOOKUP nP2YN
+BEGIN
+INSERT czy5_ number
+END
+INSERT tv1H string

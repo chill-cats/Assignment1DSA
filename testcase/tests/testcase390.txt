@@ -1,0 +1,30 @@
+INSERT auyZD number
+INSERT gC string
+INSERT mvAK_D number
+INSERT mFP string
+INSERT pvkJpL string
+INSERT gp0pwk string
+INSERT be9 number
+INSERT t number
+LOOKUP auyZD
+INSERT wJi number
+PRINT
+INSERT lpKymM string
+INSERT tkg2a number
+RPRINT
+RPRINT
+ASSIGN gp0pwk 103
+INSERT p number
+BEGIN
+INSERT s51Ia string
+ASSIGN tkg2a 557
+INSERT j6kcHj string
+INSERT zA number
+INSERT wd0 number
+INSERT ms string
+BEGIN
+ASSIGN auyZD 59
+INSERT e6rlg number
+INSERT qNxIdp string
+INSERT gMbHNI number
+BEGIN

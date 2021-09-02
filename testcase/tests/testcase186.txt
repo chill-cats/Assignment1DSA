@@ -1,0 +1,19 @@
+END
+INSERT xT string
+ASSIGN sym xT
+INSERT rUwuS number
+INSERT wGiq number
+INSERT cyXaci number
+INSERT g0toAG number
+INSERT cs string
+RPRINT
+yJz2K nSa6qV
+INSERT m number
+INSERT teCk string
+INSERT qkW number
+LOOKUP wGiq
+PRINT
+INSERT d string
+BEGIN
+RPRINT
+INSERT phP string

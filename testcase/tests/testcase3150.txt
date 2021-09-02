@@ -1,0 +1,40 @@
+INSERT a string
+INSERT bLn number
+INSERT zW number
+INSERT bTMr string
+ASSIGN zW a
+INSERT o_D7 number
+INSERT rTpE string
+INSERT yjxh number
+ASSIGN o_D7 256
+LOOKUP a
+INSERT iOC number
+INSERT dwe string
+INSERT l string
+INSERT pJsl string
+INSERT ksyz string
+INSERT x number
+BEGIN
+LOOKUP ksyz
+INSERT ohnm1 number
+BEGIN
+INSERT w number
+LOOKUP w
+END
+INSERT x7F3sD string
+INSERT dAi string
+INSERT h string
+END
+INSERT p2 number
+INSERT aVum5 number
+INSERT ioeRk number
+ASSIGN dwe 1051
+INSERT e string
+PRINT
+INSERT h6 string
+RPRINT
+ASSIGN aVum5 1123
+INSERT wrFt string
+INSERT e string
+INSERT qCYH number
+jFMrA p

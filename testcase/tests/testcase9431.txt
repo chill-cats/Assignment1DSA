@@ -1,0 +1,36 @@
+INSERT xgZ number
+END
+INSERT fj string
+INSERT pC2_Yi number
+INSERT l string
+INSERT kZT string
+INSERT fAR number
+INSERT pxgtm number
+INSERT g1 string
+INSERT yI string
+INSERT nh string
+PRINT
+INSERT lE string
+INSERT oLoM8 number
+tGIwT yT1
+BEGIN
+INSERT iiQf number
+ASSIGN pxgtm nh
+INSERT xv number
+END
+INSERT ufnLRf string
+INSERT d5j number
+INSERT iu7 number
+INSERT gW string
+LOOKUP l
+INSERT u7bgv number
+LOOKUP u7bgv
+INSERT kxW number
+BEGIN
+PRINT
+INSERT mBd number
+INSERT rx9x string
+END
+INSERT hnHN number
+INSERT dv string
+INSERT u1 number

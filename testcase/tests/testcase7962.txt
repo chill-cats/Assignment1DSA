@@ -1,0 +1,34 @@
+rlY yKC
+INSERT nDfr number
+LOOKUP nDfr
+LOOKUP nDfr
+END
+PRINT
+ASSIGN nDfr 205
+ASSIGN nDfr 'N'
+ASSIGN nDfr 65
+INSERT r string
+INSERT r string
+END
+INSERT wq26 string
+INSERT mPdo1 string
+INSERT m number
+INSERT eIwcl8 string
+LOOKUP wq26
+INSERT rEGnCZ string
+INSERT qW string
+LOOKUP rEGnCZ
+INSERT ln7 string
+INSERT fC57HD string
+PRINT
+BEGIN
+INSERT bazw string
+uL9SUj o3
+INSERT a9v string
+INSERT s7 string
+INSERT g5 string
+INSERT plGeq number
+cs k
+RPRINT
+INSERT m_ijz number
+RPRINT

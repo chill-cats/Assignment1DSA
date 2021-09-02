@@ -1,0 +1,22 @@
+INSERT m number
+INSERT mznM string
+BEGIN
+END
+INSERT scZW number
+INSERT ti string
+LOOKUP m
+ASSIGN scZW scZW
+INSERT spO string
+INSERT zjnbQe number
+INSERT fUx string
+INSERT cgfZM number
+INSERT oyVCjX string
+cqOBe l1inFC
+INSERT ud number
+PRINT
+fX mx
+INSERT j3r string
+INSERT oKV6N number
+RPRINT
+PRINT
+INSERT zkeGC string

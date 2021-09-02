@@ -1,0 +1,29 @@
+INSERT kOS string
+INSERT shCh string
+INSERT n string
+INSERT dbbi string
+INSERT eF number
+INSERT qClVO4 number
+INSERT trC string
+INSERT b number
+LOOKUP egV
+INSERT xElS string
+INSERT z number
+LOOKUP shCh
+RPRINT
+INSERT m string
+INSERT hfd number
+ASSIGN m kOS
+END
+INSERT w4KW string
+INSERT bjyVm string
+INSERT gdgXV number
+INSERT nD string
+ASSIGN hfd 68
+RPRINT
+wTRKB bmJnB
+INSERT qWVtk5 string
+ASSIGN trC 'I'
+PRINT
+INSERT nEw string
+INSERT kDP2 number

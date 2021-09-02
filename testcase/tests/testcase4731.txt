@@ -1,0 +1,23 @@
+RPRINT
+ASSIGN c6XH 1120
+RPRINT
+INSERT wZe5O number
+LOOKUP wZe5O
+INSERT xeMN string
+INSERT j5 string
+LOOKUP j5
+PRINT
+INSERT qDX string
+INSERT naj string
+INSERT j_B number
+INSERT iKPQ81 string
+INSERT v4QSGC string
+END
+INSERT vsNUO number
+INSERT r number
+END
+INSERT pc1Z number
+BEGIN
+zrUO zc
+INSERT ipkt string
+END

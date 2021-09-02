@@ -1,0 +1,18 @@
+INSERT sS string
+INSERT tIlDOt number
+INSERT bJw string
+INSERT wlKnn string
+INSERT z65 string
+END
+INSERT s number
+INSERT ppxThp string
+LOOKUP tIlDOt
+INSERT a7sLOW number
+INSERT ic string
+END
+INSERT x number
+BEGIN
+LOOKUP tIlDOt
+INSERT t8 number
+RPRINT
+goI_ iEx3T

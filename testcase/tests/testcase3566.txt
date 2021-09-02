@@ -1,0 +1,25 @@
+INSERT ipHc string
+INSERT fsc string
+RPRINT
+INSERT ns number
+INSERT hMXNx number
+INSERT lvkVOg string
+INSERT ao41HS number
+END
+INSERT eB string
+INSERT i4xMC string
+INSERT x84b number
+INSERT s number
+INSERT o_J7 string
+INSERT h4zTo string
+INSERT lxTDU4 number
+INSERT p number
+LOOKUP lxTDU4
+INSERT u number
+PRINT
+INSERT nlID number
+INSERT z6v_W8 number
+RPRINT
+ASSIGN ipHc 97
+INSERT xkv string
+INSERT d number

@@ -1,0 +1,15 @@
+LOOKUP rkL7
+INSERT g number
+INSERT e string
+PRINT
+INSERT yumliV string
+yF t
+INSERT era string
+INSERT n60 number
+INSERT w string
+INSERT h string
+INSERT h string
+INSERT q number
+INSERT hFho2e string
+INSERT pPFR0 string
+INSERT kI4 string

@@ -1,0 +1,26 @@
+INSERT uv number
+INSERT vNS string
+INSERT gAAmB string
+INSERT b string
+LOOKUP b
+INSERT aSpzgC number
+BEGIN
+INSERT qCz number
+INSERT z string
+PRINT
+LOOKUP vNS
+PRINT
+END
+BEGIN
+END
+INSERT wP number
+INSERT pebJ string
+PRINT
+RPRINT
+BEGIN
+q jCpMnl
+PRINT
+zMqe jQu
+END
+INSERT oJ number
+INSERT kL string

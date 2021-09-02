@@ -1,0 +1,7 @@
+PRINT
+PRINT
+INSERT fi string
+INSERT u number
+INSERT nzS number
+RPRINT
+INSERT t number

@@ -1,0 +1,26 @@
+INSERT k1g number
+END
+INSERT w string
+RPRINT
+ASSIGN k1g 945
+PRINT
+INSERT v string
+BEGIN
+INSERT cuCzP number
+INSERT aCSGtm string
+BEGIN
+LOOKUP cuCzP
+pF59 bpMLS1
+PRINT
+INSERT drO number
+LOOKUP drO
+ASSIGN aCSGtm 519
+INSERT hHic0 number
+END
+INSERT s number
+INSERT wDK number
+INSERT tqNB string
+ASSIGN drO v
+INSERT ym string
+INSERT oU_2R string
+RPRINT

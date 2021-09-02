@@ -1,0 +1,8 @@
+INSERT gI number
+END
+INSERT wyi1 number
+RPRINT
+END
+INSERT hDn string
+INSERT i number
+INSERT p string

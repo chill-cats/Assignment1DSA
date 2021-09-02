@@ -1,0 +1,24 @@
+RPRINT
+PRINT
+INSERT l2 string
+hdSb e9q8Td
+INSERT r4AE97 number
+INSERT vTb string
+INSERT hV number
+INSERT umchMg string
+INSERT k string
+END
+INSERT wA string
+INSERT xzV number
+LOOKUP k
+RPRINT
+BEGIN
+LOOKUP wA
+BEGIN
+INSERT jhSyw string
+END
+INSERT b7 number
+LOOKUP xzV
+BEGIN
+INSERT mh5 string
+ku bVbDA

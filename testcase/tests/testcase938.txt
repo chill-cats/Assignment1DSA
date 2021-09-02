@@ -1,0 +1,31 @@
+INSERT cy3 string
+ASSIGN cy3 cy3
+LOOKUP cy3
+INSERT x string
+PRINT
+INSERT f60E string
+LOOKUP cy3
+RPRINT
+INSERT hW number
+RPRINT
+INSERT b number
+END
+INSERT w1oEoD number
+END
+INSERT jtfL number
+PRINT
+RPRINT
+INSERT gtCO string
+INSERT t9n4hK number
+INSERT mGTpk number
+INSERT rj9AE string
+y_ f5mH
+INSERT wRvN number
+INSERT z8Q09d string
+INSERT deNGDi string
+INSERT wfDvc7 number
+INSERT x number
+BEGIN
+INSERT rMNm string
+INSERT lz string
+INSERT aPM string

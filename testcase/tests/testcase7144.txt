@@ -1,0 +1,24 @@
+RPRINT
+INSERT pe08mR number
+LOOKUP pe08mR
+INSERT zHo9 number
+INSERT cvUNkf number
+INSERT zgG string
+BEGIN
+RPRINT
+INSERT cvM3yT string
+INSERT r number
+BEGIN
+INSERT w3tLc number
+END
+RPRINT
+INSERT mZ909j number
+INSERT peCabP number
+INSERT m9 number
+PRINT
+PRINT
+INSERT zJqJ string
+INSERT vws string
+BEGIN
+RPRINT
+INSERT o number

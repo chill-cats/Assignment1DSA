@@ -1,0 +1,27 @@
+INSERT i8WX number
+ASSIGN i8WX 'hR'
+LOOKUP i8WX
+END
+ASSIGN i8WX 'IGAf'
+vpkJ4r ivNZwE
+END
+INSERT runr number
+INSERT iPF number
+wU yOsL
+INSERT a number
+INSERT d_ number
+INSERT to number
+PRINT
+INSERT fN4kI string
+INSERT s string
+INSERT zs string
+p1VW m
+BEGIN
+END
+INSERT kOa string
+INSERT wj string
+INSERT o number
+END
+INSERT kMSe number
+RPRINT
+RPRINT

@@ -1,0 +1,6 @@
+INSERT iv number
+ASSIGN iv 'dBL'
+ASSIGN iv iv
+BEGIN
+BEGIN
+INSERT t number

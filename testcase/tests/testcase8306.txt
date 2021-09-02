@@ -1,0 +1,4 @@
+INSERT vquW number
+INSERT kP number
+INSERT i6orI string
+INSERT l number

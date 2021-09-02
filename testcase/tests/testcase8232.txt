@@ -1,0 +1,25 @@
+INSERT emUS string
+RPRINT
+INSERT qs3Sj string
+INSERT gO58 string
+PRINT
+END
+END
+BEGIN
+INSERT e3R string
+PRINT
+INSERT n string
+INSERT tCk string
+INSERT xHp string
+RPRINT
+BEGIN
+PRINT
+INSERT eRJxlX number
+BEGIN
+INSERT arqpA0 string
+ASSIGN emUS 'A'
+RPRINT
+BEGIN
+aR gbb
+LOOKUP eRJxlX
+INSERT xq string

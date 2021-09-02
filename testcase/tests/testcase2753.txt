@@ -1,0 +1,8 @@
+BEGIN
+ASSIGN eIEf 293
+INSERT o7 number
+INSERT eW string
+INSERT ckW string
+LOOKUP eW
+bBWM hc
+INSERT b number

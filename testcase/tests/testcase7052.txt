@@ -1,0 +1,37 @@
+INSERT zMm number
+INSERT y number
+INSERT cD string
+INSERT mtGi number
+INSERT f1 number
+RPRINT
+INSERT jotvy string
+BEGIN
+ja7oQ6 nl
+INSERT p5Dmq8 number
+LOOKUP mtGi
+INSERT br_p string
+LOOKUP jotvy
+INSERT g85IRE string
+RPRINT
+INSERT wf6w string
+INSERT gJkNb number
+ASSIGN mtGi 'Fy5i'
+INSERT yJvFy number
+END
+INSERT t3WF8 number
+INSERT qwOul number
+INSERT s0 number
+BEGIN
+INSERT yms string
+PRINT
+INSERT dx number
+INSERT a number
+INSERT p number
+INSERT w6Q9 number
+BEGIN
+END
+INSERT bu string
+qXd z
+BEGIN
+PRINT
+INSERT h number

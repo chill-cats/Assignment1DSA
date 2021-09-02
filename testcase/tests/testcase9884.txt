@@ -1,0 +1,35 @@
+INSERT h8 number
+INSERT da string
+BEGIN
+LOOKUP da
+LOOKUP h8
+END
+INSERT xS2P string
+INSERT a string
+INSERT s string
+oW_yiM yeTcQ
+INSERT koO number
+BEGIN
+INSERT l string
+INSERT t3 number
+INSERT gX number
+ASSIGN t3 koO
+INSERT fXh9J string
+aUx8FX wE
+qNP w
+INSERT eF string
+BEGIN
+RPRINT
+INSERT dIMjMY string
+INSERT ywvzm number
+INSERT y number
+INSERT khP number
+INSERT fT number
+INSERT kkj string
+BEGIN
+RPRINT
+INSERT v number
+c vbvmZd
+INSERT dRoc_L number
+INSERT fHiA string
+INSERT uQ string

@@ -1,0 +1,14 @@
+INSERT hUDzv string
+INSERT imRR string
+INSERT msf number
+INSERT opeuXy string
+LOOKUP imRR
+LOOKUP opeuXy
+BEGIN
+INSERT adPr number
+BEGIN
+ASSIGN hUDzv 595
+LOOKUP adPr
+INSERT i3z2 string
+BEGIN
+INSERT wf6p number

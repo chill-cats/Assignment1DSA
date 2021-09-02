@@ -1,0 +1,6 @@
+INSERT s string
+RPRINT
+END
+INSERT q4gh number
+INSERT hrSK string
+END

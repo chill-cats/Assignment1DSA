@@ -1,0 +1,14 @@
+ASSIGN rhXT '8f63'
+INSERT z41f number
+INSERT d_ string
+ASSIGN d_ 313
+LOOKUP z41f
+k yq5
+END
+INSERT jWEfRr number
+INSERT y number
+INSERT jq number
+ASSIGN jq jq
+BEGIN
+INSERT r number
+PRINT

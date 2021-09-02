@@ -1,0 +1,38 @@
+INSERT vLK number
+a1 fWN9_
+INSERT qF44s number
+INSERT ruG number
+INSERT oV string
+INSERT q string
+RPRINT
+INSERT wg string
+INSERT z2 number
+mF tOBef
+INSERT pb number
+INSERT mq string
+INSERT rVb number
+LOOKUP oV
+INSERT l75Rgy string
+BEGIN
+INSERT s0GQ number
+LOOKUP l75Rgy
+END
+INSERT oQ8Z1P string
+INSERT l5h string
+INSERT z string
+ASSIGN ruG wg
+INSERT k number
+INSERT vQDfEn string
+INSERT g5k8 string
+INSERT w3 string
+BEGIN
+END
+INSERT hj string
+INSERT qR2l1g string
+END
+INSERT s number
+RPRINT
+INSERT tFM string
+INSERT ayWk string
+INSERT xoj number
+PRINT

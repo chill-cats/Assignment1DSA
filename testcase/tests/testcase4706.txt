@@ -1,0 +1,11 @@
+INSERT yA number
+INSERT kBe7Y number
+INSERT qk number
+LOOKUP qk
+INSERT aDB number
+INSERT b number
+INSERT l string
+LOOKUP aDB
+INSERT qm string
+INSERT ou string
+INSERT iYSW string

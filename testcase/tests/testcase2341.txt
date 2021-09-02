@@ -1,0 +1,15 @@
+INSERT uldDs number
+INSERT oUNMa string
+INSERT rpCL number
+ASSIGN uldDs 'uP'
+PRINT
+RPRINT
+PRINT
+INSERT couWk number
+INSERT cIu0 string
+ASSIGN cIu0 couWk
+xloO9 uD1I0
+INSERT l number
+INSERT bLu number
+BEGIN
+bz acU

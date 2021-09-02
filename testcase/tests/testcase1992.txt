@@ -1,0 +1,14 @@
+INSERT yGr_ number
+INSERT qF string
+PRINT
+RPRINT
+INSERT qn0Q number
+INSERT tu_n number
+INSERT r string
+LOOKUP yGr_
+INSERT b string
+INSERT u01JoD string
+INSERT k0EMZX number
+ASSIGN tu_n 770
+INSERT q string
+RPRINT

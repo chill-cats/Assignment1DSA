@@ -1,0 +1,23 @@
+RPRINT
+INSERT qE string
+END
+INSERT sDY string
+INSERT jOkFi number
+END
+INSERT aSi0IB number
+END
+INSERT jc93jp number
+r2S7 he
+INSERT xh number
+LOOKUP sDY
+INSERT tFwS number
+INSERT nia9 number
+INSERT oSk9P number
+INSERT gfwL2 number
+INSERT vR string
+LOOKUP gfwL2
+INSERT uYg string
+ASSIGN vR '7hBtS'
+ASSIGN xh 'rObm'
+INSERT gLp75 number
+RPRINT

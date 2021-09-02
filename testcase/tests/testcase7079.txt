@@ -1,0 +1,19 @@
+INSERT ySz64 string
+INSERT c7k6i string
+INSERT j number
+LOOKUP j
+INSERT y7 number
+END
+INSERT p number
+INSERT mP number
+INSERT b1RAQR string
+RPRINT
+INSERT u3ok number
+INSERT nRulS string
+PRINT
+BEGIN
+LOOKUP j
+qKR niF2s
+INSERT oDD7 number
+INSERT z0XCZF number
+PRINT

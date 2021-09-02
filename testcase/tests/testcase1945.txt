@@ -1,0 +1,4 @@
+RPRINT
+INSERT tN number
+INSERT r number
+INSERT u string

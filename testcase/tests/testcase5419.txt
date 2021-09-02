@@ -1,0 +1,34 @@
+BEGIN
+zqs twemjO
+INSERT fBh string
+INSERT mW2i number
+END
+INSERT d8 string
+INSERT fSxkmt number
+LOOKUP fBh
+INSERT h string
+INSERT gBcXOQ number
+INSERT j string
+INSERT r string
+INSERT s number
+INSERT e number
+INSERT sd number
+INSERT mG2YT string
+INSERT lbyGZ string
+INSERT rKLw7J number
+INSERT lu5 number
+INSERT eY7nY string
+INSERT lJY8 number
+ASSIGN s e
+INSERT nU string
+INSERT cI number
+BEGIN
+BEGIN
+INSERT lkN string
+INSERT xyqIKe number
+LOOKUP fSxkmt
+INSERT uCxyz number
+INSERT ax_LR number
+PRINT
+RPRINT
+LOOKUP e

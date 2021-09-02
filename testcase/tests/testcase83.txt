@@ -1,0 +1,9 @@
+RPRINT
+INSERT g5zk string
+INSERT c string
+INSERT y number
+END
+INSERT xn string
+iz m3o
+INSERT orFp number
+INSERT v_7t number

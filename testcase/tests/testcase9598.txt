@@ -1,0 +1,18 @@
+INSERT q_kbSQ number
+INSERT bxN6d number
+PRINT
+INSERT uHR number
+LOOKUP bxN6d
+BEGIN
+INSERT f string
+LOOKUP f
+LOOKUP f
+END
+INSERT uDJkaz number
+BEGIN
+INSERT k3ivA string
+INSERT yJIwZN string
+INSERT mm3KIJ string
+INSERT t string
+RPRINT
+INSERT nQ string

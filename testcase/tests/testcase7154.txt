@@ -1,0 +1,18 @@
+PRINT
+BEGIN
+INSERT roaHni number
+BEGIN
+INSERT vuI21 string
+INSERT ubHg number
+INSERT i string
+INSERT x9npzu string
+INSERT x20nK number
+INSERT k string
+INSERT bEuiV string
+INSERT tgcc string
+RPRINT
+INSERT xnu string
+INSERT hFN string
+INSERT ya_C6 string
+INSERT vd37H string
+END

@@ -1,0 +1,5 @@
+INSERT rgj13 number
+INSERT lK number
+RPRINT
+INSERT gx4q8 number
+LOOKUP rgj13

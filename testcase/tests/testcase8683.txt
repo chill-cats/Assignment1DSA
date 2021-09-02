@@ -1,0 +1,6 @@
+INSERT tI number
+INSERT m number
+INSERT xP string
+ASSIGN tI 425
+PRINT
+INSERT y number

@@ -1,0 +1,22 @@
+BEGIN
+INSERT s number
+INSERT qZMIV number
+INSERT dxVxi number
+INSERT zfXxvx number
+INSERT qVRDmZ string
+INSERT d number
+INSERT oO number
+INSERT kLMhOu string
+RPRINT
+INSERT w number
+LOOKUP qVRDmZ
+END
+RPRINT
+BEGIN
+INSERT rOo number
+RPRINT
+INSERT cl number
+INSERT tCW95 string
+INSERT sx string
+PRINT
+INSERT ecr0 string

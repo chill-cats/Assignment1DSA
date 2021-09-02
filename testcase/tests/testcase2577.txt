@@ -1,0 +1,31 @@
+INSERT tD2q number
+INSERT l86 string
+INSERT zuNI string
+INSERT eaiMda number
+INSERT yTg string
+INSERT dQ number
+INSERT z1 number
+INSERT myIy string
+INSERT lx string
+INSERT k2kCAc string
+BEGIN
+LOOKUP zuNI
+END
+LOOKUP tD2q
+INSERT ns6UvP string
+INSERT fJ string
+INSERT zC string
+INSERT x7lPra string
+PRINT
+PRINT
+INSERT aPU string
+END
+LOOKUP zC
+INSERT alpQ string
+INSERT uQWJME string
+INSERT lzicZ string
+BEGIN
+LOOKUP zuNI
+INSERT vTiWI number
+RPRINT
+INSERT h number

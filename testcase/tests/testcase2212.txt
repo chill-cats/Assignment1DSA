@@ -1,0 +1,7 @@
+INSERT sfl string
+INSERT xUpw string
+INSERT o1Kgl string
+INSERT eZ number
+LOOKUP xUpw
+BEGIN
+INSERT cVD string

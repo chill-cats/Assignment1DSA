@@ -1,0 +1,38 @@
+BEGIN
+RPRINT
+BEGIN
+INSERT yFKyTK string
+LOOKUP yFKyTK
+da xdC
+INSERT tvI string
+INSERT v0eByL string
+END
+INSERT iFRn string
+LOOKUP tvI
+INSERT iWg string
+ASSIGN tvI 'AyM0'
+LOOKUP tvI
+RPRINT
+INSERT rKUM0 number
+BEGIN
+PRINT
+INSERT d number
+BEGIN
+PRINT
+INSERT lIn string
+PRINT
+INSERT hqzU number
+ASSIGN d 'I2n'
+INSERT chAidQ number
+INSERT nv2FLz string
+INSERT m number
+BEGIN
+INSERT osHpN5 string
+INSERT gC string
+INSERT iTs string
+BEGIN
+END
+INSERT mC string
+LOOKUP d
+INSERT v number
+END

@@ -1,0 +1,31 @@
+INSERT m_S0 string
+INSERT u2 string
+INSERT b3Px number
+INSERT tSpTDy string
+INSERT q string
+INSERT dkH3xu string
+INSERT hi string
+BEGIN
+INSERT z_0X string
+INSERT e6fTl string
+END
+INSERT jZA number
+INSERT npZBT number
+ASSIGN tSpTDy 'M2s'
+RPRINT
+INSERT d7w string
+INSERT plgqxi string
+INSERT mx18U string
+INSERT n5 number
+INSERT ek string
+INSERT wW string
+INSERT s3 string
+LOOKUP q
+INSERT dhEXu string
+INSERT nvbS3 string
+INSERT iDE number
+RPRINT
+INSERT vN1Dwd number
+INSERT a number
+INSERT azKiC string
+PRINT

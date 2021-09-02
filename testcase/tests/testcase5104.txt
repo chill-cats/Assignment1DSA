@@ -1,0 +1,40 @@
+BEGIN
+INSERT szFI string
+RPRINT
+END
+ASSIGN szFI szFI
+INSERT s string
+INSERT uJMZ string
+LOOKUP uJMZ
+INSERT s71 number
+INSERT j string
+PRINT
+BEGIN
+INSERT mql8 number
+INSERT gT7ctk string
+LOOKUP uJMZ
+INSERT zp0b number
+INSERT kZ string
+INSERT zflw string
+BEGIN
+INSERT f string
+INSERT o number
+END
+BEGIN
+INSERT v string
+INSERT w string
+nR aSEnj
+INSERT be number
+INSERT hZTVa string
+RPRINT
+ASSIGN mql8 298
+INSERT a string
+PRINT
+INSERT gTx string
+INSERT yGi6S number
+e noq_
+INSERT p number
+INSERT iMGu string
+PRINT
+INSERT pTC6Ca string
+END

@@ -1,0 +1,17 @@
+INSERT hw number
+END
+END
+INSERT ruwArN string
+END
+INSERT pd6 number
+INSERT oCRV number
+INSERT w1sM string
+PRINT
+END
+INSERT gmz string
+ASSIGN gmz 935
+INSERT hmMhp3 string
+INSERT e string
+BEGIN
+BEGIN
+LOOKUP oCRV

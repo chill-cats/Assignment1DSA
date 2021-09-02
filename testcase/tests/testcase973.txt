@@ -1,0 +1,23 @@
+INSERT ifX string
+BEGIN
+ASSIGN ifX 'TK6nQ'
+INSERT dvJv number
+LOOKUP ifX
+RPRINT
+INSERT w57WK string
+INSERT zt number
+BEGIN
+INSERT xhwDw string
+sHkuU a2_9y
+INSERT w string
+INSERT bF3h number
+PRINT
+RPRINT
+INSERT slz03L string
+RPRINT
+x0FV ye
+rFBw uxedFN
+ASSIGN slz03L 1103
+INSERT u number
+INSERT d82 number
+BEGIN

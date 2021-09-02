@@ -1,0 +1,20 @@
+INSERT x4 number
+RPRINT
+INSERT x string
+INSERT hph string
+INSERT x string
+INSERT u8A17 number
+RPRINT
+INSERT aWqiR2 string
+PRINT
+END
+sUq qNx4
+INSERT pa0uP string
+END
+INSERT qGB3 string
+INSERT sw46vI string
+INSERT zy number
+INSERT oWbh string
+nY5 i3D
+INSERT v string
+BEGIN

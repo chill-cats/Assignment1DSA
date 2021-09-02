@@ -1,0 +1,7 @@
+INSERT ab9 number
+INSERT clIWUB string
+END
+BEGIN
+BEGIN
+ASSIGN ab9 521
+INSERT eOt3 number

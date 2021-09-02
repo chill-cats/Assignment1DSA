@@ -1,0 +1,35 @@
+INSERT xtxL number
+INSERT t string
+INSERT wUN number
+INSERT dr string
+PRINT
+ASSIGN dr t
+INSERT uY string
+INSERT oav number
+BEGIN
+INSERT jcO number
+RPRINT
+INSERT p number
+INSERT cTi5_S string
+INSERT h7X string
+LOOKUP p
+BEGIN
+LOOKUP h7X
+INSERT p number
+INSERT uAJL number
+ASSIGN oav 42
+INSERT kqZ string
+INSERT cU2 number
+END
+PRINT
+END
+INSERT mR string
+LOOKUP xtxL
+INSERT h8tD0 string
+BEGIN
+ASSIGN dr wUN
+RPRINT
+BEGIN
+END
+INSERT ym1v3j string
+INSERT uylStw string

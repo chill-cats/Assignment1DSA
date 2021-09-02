@@ -1,0 +1,31 @@
+INSERT kc6Bp string
+LOOKUP kc6Bp
+BEGIN
+INSERT oVu1 string
+RPRINT
+INSERT tzsqd number
+INSERT u number
+LOOKUP u
+INSERT jX string
+ASSIGN jX kc6Bp
+INSERT vfil string
+INSERT a string
+INSERT wF number
+PRINT
+INSERT ib number
+INSERT a5Fl string
+INSERT oVVk number
+END
+INSERT utyG number
+INSERT oLSa number
+LOOKUP a
+INSERT k2 number
+RPRINT
+PRINT
+RPRINT
+BEGIN
+BEGIN
+j i5b
+LOOKUP jX
+PRINT
+INSERT eHD string

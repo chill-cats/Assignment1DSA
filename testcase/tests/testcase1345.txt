@@ -1,0 +1,14 @@
+INSERT qK number
+INSERT zHdQ string
+INSERT xCDH number
+INSERT qB96OZ number
+INSERT qeT_hv number
+INSERT f string
+RPRINT
+INSERT v5 number
+INSERT a1AIv number
+INSERT b string
+INSERT yS string
+LOOKUP xCDH
+wo zu
+INSERT oxZZ string

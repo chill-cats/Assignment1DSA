@@ -1,0 +1,33 @@
+INSERT lsfsdG number
+ASSIGN lsfsdG 57
+INSERT xvWHDB number
+INSERT rA number
+PRINT
+INSERT yVFkf string
+INSERT c4C6 number
+INSERT nv string
+ASSIGN xvWHDB c4C6
+INSERT aOy string
+INSERT ynk number
+INSERT xg string
+LOOKUP rA
+INSERT eBez string
+LOOKUP xvWHDB
+INSERT aNEN string
+INSERT lSto8M number
+INSERT jjIDL string
+PRINT
+ASSIGN nv aOy
+RPRINT
+END
+INSERT r number
+END
+mhyPl u2zoR
+INSERT syUVL string
+INSERT vU number
+ijWu v_Z
+INSERT nc7gq string
+INSERT l7zk string
+INSERT izB string
+INSERT zUM string
+PRINT

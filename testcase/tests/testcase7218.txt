@@ -1,0 +1,17 @@
+INSERT bLBFzq string
+END
+INSERT sBTNz string
+ASSIGN sBTNz sBTNz
+BEGIN
+INSERT oCLiWK number
+INSERT lEaRD8 string
+LOOKUP bLBFzq
+BEGIN
+BEGIN
+INSERT ztc string
+INSERT ppcJv string
+INSERT yvr2 number
+LOOKUP ztc
+u pJ21Q
+h9TOUq iIf
+RPRINT

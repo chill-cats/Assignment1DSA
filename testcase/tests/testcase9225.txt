@@ -1,0 +1,4 @@
+INSERT l string
+INSERT eEog number
+ASSIGN l 116
+INSERT sC79 string

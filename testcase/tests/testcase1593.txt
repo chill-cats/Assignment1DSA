@@ -1,0 +1,33 @@
+INSERT dwVE string
+PRINT
+INSERT pNX2Sm string
+PRINT
+BEGIN
+INSERT fVdNr number
+END
+tnf h
+INSERT eEIFkd string
+RPRINT
+BEGIN
+LOOKUP pNX2Sm
+INSERT qFDE9J number
+RPRINT
+LOOKUP dwVE
+INSERT zXvE number
+RPRINT
+PRINT
+END
+BEGIN
+INSERT mPt string
+INSERT gMqo string
+INSERT ltkY string
+INSERT n string
+r4KN nO0Sao
+ASSIGN mPt dwVE
+LOOKUP gMqo
+INSERT t string
+cTD6ZI i
+RPRINT
+INSERT x9 number
+INSERT eOPI string
+INSERT msNU string

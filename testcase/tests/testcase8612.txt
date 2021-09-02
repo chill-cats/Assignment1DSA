@@ -1,0 +1,8 @@
+INSERT v3zq1 string
+PRINT
+BEGIN
+INSERT sJL number
+BEGIN
+LOOKUP v3zq1
+INSERT gQ6p number
+INSERT q string

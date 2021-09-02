@@ -1,0 +1,33 @@
+INSERT vVVZa4 string
+PRINT
+INSERT ujF number
+LOOKUP ujF
+LOOKUP o
+INSERT ixcvo1 number
+z w
+BEGIN
+BEGIN
+INSERT ysG string
+INSERT z1lb string
+INSERT w24 string
+RPRINT
+INSERT h number
+INSERT lGJQ number
+INSERT l string
+PRINT
+INSERT c number
+INSERT hTBcr number
+INSERT rbRL2 string
+BEGIN
+INSERT yJSAMU number
+INSERT m_ string
+INSERT zaK_ string
+LOOKUP l
+PRINT
+LOOKUP lGJQ
+PRINT
+INSERT j5Iu string
+ASSIGN m_ 540
+INSERT x1I string
+INSERT b number
+PRINT

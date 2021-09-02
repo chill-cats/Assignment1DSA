@@ -1,0 +1,12 @@
+INSERT ovRoq string
+INSERT wL8 number
+ASSIGN wL8 637
+INSERT glg1 string
+BEGIN
+LOOKUP wL8
+END
+RPRINT
+INSERT s8rqN string
+INSERT u1FsJv number
+LOOKUP s8rqN
+BEGIN

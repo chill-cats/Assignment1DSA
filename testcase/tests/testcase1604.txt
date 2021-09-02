@@ -1,0 +1,7 @@
+INSERT eXh string
+INSERT z1y2fA number
+ASSIGN z1y2fA 971
+INSERT pRo number
+PRINT
+ASSIGN z1y2fA 1139
+PRINT

@@ -1,0 +1,19 @@
+INSERT ops9I0 string
+RPRINT
+LOOKUP yq41
+RPRINT
+INSERT bVLqE number
+RPRINT
+INSERT tm5axa string
+INSERT svf_J string
+p0pB i4Cl
+INSERT awlGFJ number
+INSERT mmB string
+END
+ASSIGN bVLqE 589
+END
+INSERT leBlz string
+INSERT pA string
+INSERT x number
+INSERT j1JzJ string
+INSERT n number

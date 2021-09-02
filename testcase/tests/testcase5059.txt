@@ -1,0 +1,16 @@
+ASSIGN c 980
+INSERT gC string
+lQ6 ucD
+INSERT fG number
+INSERT t number
+INSERT ah number
+INSERT s1RFFf string
+ASSIGN s1RFFf 699
+INSERT ny string
+INSERT xx8rCc number
+BEGIN
+INSERT rXZ number
+INSERT z string
+INSERT kyMw number
+INSERT lxw3J number
+ASSIGN lxw3J 'nJk'

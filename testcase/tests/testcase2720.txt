@@ -1,0 +1,8 @@
+BEGIN
+INSERT djZ number
+INSERT oiXB number
+END
+INSERT z string
+BEGIN
+BEGIN
+INSERT s number

@@ -1,0 +1,35 @@
+INSERT xxGP string
+INSERT xM number
+INSERT yid number
+ASSIGN yid 1137
+INSERT i2m string
+LOOKUP xM
+END
+INSERT gl string
+INSERT gH string
+ASSIGN b3S9 xxGP
+INSERT j_GGaU string
+INSERT b number
+INSERT t9si number
+ASSIGN j_GGaU 'RCQf7'
+INSERT dCj number
+INSERT g string
+bV_3N6 z9
+dsm_ gbakI
+cK xT
+INSERT j7T5P number
+INSERT qtxbTv string
+INSERT sDFmy4 string
+mW lSyav
+INSERT tRMJ2 number
+LOOKUP gl
+INSERT a number
+INSERT v4m85G string
+INSERT arN8Bo number
+INSERT p string
+INSERT g string
+INSERT yWlgM string
+INSERT uUvq number
+INSERT bN string
+INSERT ma number
+INSERT xMzQ5 string

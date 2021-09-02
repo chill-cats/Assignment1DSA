@@ -1,0 +1,38 @@
+INSERT u3K number
+INSERT g string
+INSERT qii number
+p q7h8
+INSERT nGjFw string
+END
+INSERT pOReVl string
+km8K dNH5Q
+INSERT rV number
+INSERT bbW9 number
+INSERT kj number
+INSERT x6dM number
+PRINT
+INSERT mNp string
+PRINT
+INSERT cn2JaL number
+INSERT g number
+INSERT nH string
+INSERT iycwhM string
+INSERT hKZu number
+INSERT v0G string
+INSERT ua string
+INSERT iFT number
+INSERT we number
+ASSIGN we 982
+ASSIGN qii 'OJ'
+ASSIGN v0G 1126
+RPRINT
+ASSIGN cn2JaL 640
+ASSIGN v0G 738
+INSERT cL string
+BEGIN
+INSERT eJwfvW number
+INSERT g6ODkm string
+BEGIN
+PRINT
+PRINT
+INSERT g_K string

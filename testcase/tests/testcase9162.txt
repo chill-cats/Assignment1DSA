@@ -1,0 +1,17 @@
+INSERT i3 string
+INSERT gt7LL9 string
+PRINT
+INSERT roYd number
+INSERT yknk4 number
+INSERT psY3 number
+ASSIGN yknk4 yknk4
+INSERT v number
+RPRINT
+INSERT rkCKO string
+INSERT g4t89I number
+LOOKUP i3
+INSERT t number
+INSERT upk0K6 string
+ASSIGN rkCKO upk0K6
+BEGIN
+BEGIN

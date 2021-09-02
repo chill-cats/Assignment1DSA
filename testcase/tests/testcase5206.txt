@@ -1,0 +1,19 @@
+ASSIGN bBuuT 'L1cyl'
+h b
+END
+RPRINT
+INSERT y number
+END
+END
+INSERT h_Rju string
+END
+INSERT iHh number
+PRINT
+INSERT s6B string
+INSERT w string
+INSERT tyw6 string
+LOOKUP s6B
+END
+INSERT t number
+INSERT vIw1Sa number
+INSERT d string

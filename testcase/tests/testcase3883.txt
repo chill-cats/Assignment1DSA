@@ -1,0 +1,39 @@
+INSERT f1 number
+INSERT nA4 number
+RPRINT
+RPRINT
+INSERT vK number
+v3mBo bJscYp
+INSERT osI5 number
+PRINT
+INSERT yz4oK number
+RPRINT
+PRINT
+gd hzNF
+END
+INSERT jT string
+INSERT uSfg string
+INSERT qEfD string
+INSERT tGRWc number
+INSERT q string
+INSERT n7 number
+INSERT m string
+INSERT d string
+INSERT vZK string
+INSERT pW number
+INSERT q1LnEK string
+INSERT jos number
+un503I yByX01
+ASSIGN vZK 891
+ASSIGN q1LnEK 89
+INSERT dkh1Uz number
+LOOKUP f1
+INSERT sISeB0 string
+INSERT a7c number
+LOOKUP uSfg
+INSERT fcCnV6 string
+ASSIGN tGRWc d
+PRINT
+INSERT xKwVY string
+INSERT njci string
+INSERT v string

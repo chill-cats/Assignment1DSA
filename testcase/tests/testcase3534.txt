@@ -1,0 +1,39 @@
+INSERT pvCuYi string
+INSERT ejP5g number
+wDC lC3g2
+INSERT isaFr number
+INSERT iE7h number
+END
+INSERT g string
+INSERT y number
+INSERT lrFqHE string
+INSERT r number
+ASSIGN pvCuYi 782
+INSERT b number
+INSERT pzNvu number
+INSERT b_hsOV number
+INSERT h string
+LOOKUP isaFr
+LOOKUP lrFqHE
+INSERT upuMM string
+INSERT d5YHzR number
+RPRINT
+LOOKUP ejP5g
+INSERT hku number
+END
+RPRINT
+BEGIN
+LOOKUP d5YHzR
+BEGIN
+INSERT kRmqH5 number
+INSERT g number
+END
+INSERT eQX string
+INSERT q7 string
+INSERT x number
+END
+INSERT zz number
+pvs8L1 ur63i
+RPRINT
+INSERT ys52 number
+ksLiOM vgeXL

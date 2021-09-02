@@ -1,0 +1,24 @@
+RPRINT
+RPRINT
+INSERT fM string
+INSERT x1maX string
+END
+INSERT tJdvC number
+PRINT
+LOOKUP tJdvC
+INSERT m number
+INSERT yK_gGm number
+INSERT z number
+ASSIGN yK_gGm x1maX
+INSERT jVlQT string
+INSERT ut number
+INSERT cWP number
+INSERT oTH6 number
+INSERT mewlAF string
+END
+si50 w
+INSERT fxwX string
+ASSIGN fM 'bLo'
+INSERT ui number
+INSERT mgU number
+INSERT bi2tNN number

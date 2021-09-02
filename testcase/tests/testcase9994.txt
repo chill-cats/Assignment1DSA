@@ -1,0 +1,5 @@
+hu4n hG
+ASSIGN iqq 1009
+INSERT h number
+INSERT f number
+ASSIGN f 564

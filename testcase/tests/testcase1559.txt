@@ -1,0 +1,20 @@
+INSERT fyZ number
+INSERT q8_9 string
+INSERT jDsLEl string
+INSERT bcm number
+ASSIGN q8_9 966
+END
+INSERT zu number
+u l5D
+ASSIGN q8_9 fyZ
+LOOKUP jDsLEl
+ASSIGN zu 819
+INSERT stga3K string
+INSERT jv string
+INSERT y72SO string
+PRINT
+INSERT q number
+INSERT t2c string
+INSERT yuNM9 number
+INSERT f4 string
+ASSIGN yuNM9 'jUF'

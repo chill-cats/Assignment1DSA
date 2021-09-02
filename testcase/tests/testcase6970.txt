@@ -1,0 +1,37 @@
+INSERT qmi string
+INSERT lE number
+INSERT ppDdtE number
+PRINT
+INSERT djRi string
+INSERT a_z09 number
+LOOKUP qmi
+LOOKUP yZ
+BEGIN
+INSERT oC number
+INSERT etL2 string
+INSERT t48om number
+RPRINT
+LOOKUP ppDdtE
+LOOKUP lE
+INSERT y string
+INSERT w0N string
+END
+INSERT g number
+ASSIGN oC 281
+INSERT otj_ number
+RPRINT
+INSERT w string
+INSERT i number
+INSERT e5Rc string
+INSERT gDD9QR string
+ASSIGN t48om 29
+INSERT tAr number
+zv1 a
+INSERT g5JnW number
+LOOKUP a_z09
+INSERT xYVF number
+INSERT wAp number
+INSERT slmb string
+INSERT xB6k7 number
+INSERT cj9YE number
+ASSIGN djRi w0N

@@ -1,0 +1,16 @@
+LOOKUP yC
+INSERT nm string
+INSERT sz_J string
+INSERT f6 number
+INSERT cHK2L string
+INSERT ka number
+INSERT p string
+INSERT a string
+LOOKUP sz_J
+END
+INSERT n1Du9 string
+RPRINT
+INSERT z number
+ASSIGN p 1093
+INSERT hau string
+INSERT iyzNv string

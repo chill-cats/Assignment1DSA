@@ -1,0 +1,38 @@
+PRINT
+INSERT hWn8V string
+INSERT od4kfx number
+ASSIGN hWn8V 728
+PRINT
+INSERT aM string
+INSERT tH0SYG string
+LOOKUP hWn8V
+INSERT kapmTj string
+LOOKUP tH0SYG
+INSERT y number
+LOOKUP y
+PRINT
+BEGIN
+INSERT z1iLtK number
+INSERT ckpnx string
+INSERT m8r7Tv number
+INSERT v string
+INSERT n number
+BEGIN
+BEGIN
+INSERT m4EyD number
+ASSIGN tH0SYG hWn8V
+INSERT sLfm8 number
+INSERT xANu string
+PRINT
+INSERT uK string
+INSERT lOI5 string
+INSERT mEV string
+INSERT hAAKI number
+INSERT p_ string
+ASSIGN m4EyD m4EyD
+INSERT bna string
+INSERT kqQ7uk string
+INSERT uC69LD string
+INSERT n string
+INSERT ldc_J string
+ASSIGN n 'LyA'

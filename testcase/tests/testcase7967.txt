@@ -1,0 +1,6 @@
+INSERT d number
+END
+INSERT pQFkAg number
+RPRINT
+INSERT wnAexf number
+INSERT xuKN string

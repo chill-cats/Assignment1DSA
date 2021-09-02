@@ -1,0 +1,32 @@
+RPRINT
+INSERT z number
+INSERT dsPjK string
+INSERT y5 string
+INSERT hXvMc number
+INSERT fAh string
+INSERT crbn string
+INSERT ddP string
+INSERT g80C2U string
+INSERT prvMy number
+INSERT xBI number
+ASSIGN dsPjK y5
+INSERT gccBU4 number
+PRINT
+INSERT wUyZ string
+INSERT hxz string
+ASSIGN prvMy 'JC'
+INSERT r string
+INSERT z string
+ASSIGN gccBU4 'K0s'
+INSERT neJ number
+ASSIGN r 960
+INSERT jRxFz string
+LOOKUP hxz
+INSERT ynU string
+INSERT db string
+INSERT eOXkhm number
+PRINT
+INSERT dp0 number
+INSERT e number
+INSERT rS string
+INSERT wD number

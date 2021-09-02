@@ -1,0 +1,27 @@
+INSERT zmt string
+INSERT nDu1Wc string
+END
+INSERT eRBe number
+END
+INSERT kSQ_m number
+INSERT ldK9AC string
+INSERT p string
+BEGIN
+INSERT xQG number
+END
+ASSIGN zmt eRBe
+INSERT roNg number
+INSERT tmju number
+PRINT
+END
+PRINT
+INSERT msjN47 string
+INSERT fyzLu string
+INSERT k string
+INSERT yWDxJH string
+INSERT syWJYp number
+INSERT bDf4L2 number
+INSERT mU number
+PRINT
+END
+PRINT

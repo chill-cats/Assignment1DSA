@@ -1,0 +1,25 @@
+INSERT vohl number
+INSERT bN string
+LOOKUP bN
+END
+aMh4SU spCk
+LOOKUP bN
+INSERT fYg string
+RPRINT
+INSERT dOl number
+INSERT rY6 number
+INSERT xM number
+PRINT
+INSERT ui1dx string
+INSERT dMSnp_ string
+INSERT bj3aUB string
+BEGIN
+INSERT g_ string
+PRINT
+INSERT oP_ number
+INSERT kR4 string
+INSERT c string
+ASSIGN xM 133
+INSERT dCQSM string
+INSERT sCS0H number
+PRINT

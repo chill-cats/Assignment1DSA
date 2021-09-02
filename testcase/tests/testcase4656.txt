@@ -1,0 +1,8 @@
+LOOKUP sPkUs1
+INSERT fTRhH string
+LOOKUP fTRhH
+INSERT zEXEL number
+sUrLk pLTcc
+LOOKUP fTRhH
+INSERT o number
+BEGIN

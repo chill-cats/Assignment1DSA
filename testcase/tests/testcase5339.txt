@@ -1,0 +1,14 @@
+INSERT anL4d number
+INSERT bcor number
+BEGIN
+INSERT kq string
+END
+LOOKUP bcor
+ASSIGN bcor 325
+PRINT
+INSERT tkRn2 string
+RPRINT
+INSERT pnoBZ number
+BEGIN
+INSERT cAsKQc string
+RPRINT

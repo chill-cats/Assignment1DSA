@@ -1,0 +1,3 @@
+LOOKUP jK
+INSERT oD number
+INSERT hEXw string

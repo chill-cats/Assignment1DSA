@@ -1,0 +1,12 @@
+v z41Z
+INSERT gLzY number
+ASSIGN gLzY gLzY
+INSERT nudj number
+INSERT bvHaF number
+RPRINT
+INSERT kx_Ejq number
+END
+LOOKUP gLzY
+INSERT uN4 number
+INSERT a string
+INSERT g string

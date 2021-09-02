@@ -1,0 +1,7 @@
+PRINT
+INSERT oEpMk0 string
+ASSIGN oEpMk0 14
+INSERT lVBmM number
+INSERT t8Zy string
+INSERT cd number
+LOOKUP lVBmM

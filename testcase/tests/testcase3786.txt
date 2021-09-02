@@ -1,0 +1,8 @@
+INSERT j86 string
+PRINT
+INSERT pS58X number
+INSERT av number
+INSERT hMCSJ number
+INSERT lZMBR string
+INSERT fQ string
+INSERT i string

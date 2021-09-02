@@ -1,0 +1,36 @@
+INSERT z number
+INSERT a1Be6q number
+INSERT kn number
+PRINT
+INSERT hJN7 string
+INSERT p number
+RPRINT
+INSERT d0tmw number
+ASSIGN hJN7 'n'
+ASSIGN z 77
+zbr9 tloT
+INSERT d3GSFC number
+INSERT tQ string
+INSERT ciu string
+INSERT x7uQD2 number
+INSERT jL6N string
+INSERT bCCixH string
+INSERT qKPZj number
+INSERT v number
+INSERT s string
+RPRINT
+RPRINT
+END
+BEGIN
+INSERT p number
+INSERT xm9ZBE string
+qrIxPe d
+END
+END
+INSERT kgF5 number
+INSERT f number
+END
+RPRINT
+INSERT zmoGB number
+LOOKUP p
+INSERT cL1 string

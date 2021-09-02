@@ -1,0 +1,31 @@
+INSERT fXMU string
+INSERT hA string
+LOOKUP hA
+PRINT
+RPRINT
+PRINT
+INSERT f2V string
+y0vQ_A hOBxmT
+INSERT mr number
+PRINT
+BEGIN
+INSERT y string
+INSERT aIz number
+END
+INSERT rTrA number
+RPRINT
+eIy gBUw
+INSERT dO_TP string
+INSERT s string
+INSERT jUc5i1 number
+INSERT m string
+INSERT wk string
+INSERT l string
+INSERT mBZq number
+ASSIGN jUc5i1 'weR'
+LOOKUP y
+INSERT qoD9 string
+INSERT tv5Y3I string
+INSERT c number
+INSERT hFI number
+INSERT xN2wWJ number

@@ -1,0 +1,31 @@
+END
+INSERT qpxn44 string
+INSERT m number
+INSERT g3fs string
+INSERT cP number
+INSERT fnN3 string
+INSERT nyQz string
+ASSIGN g3fs 'fb'
+BEGIN
+INSERT miLM7 number
+INSERT kB number
+RPRINT
+INSERT t number
+INSERT qatCc string
+END
+INSERT ftZ string
+INSERT e number
+RPRINT
+ASSIGN e 408
+ASSIGN nyQz 'QvUJS'
+RPRINT
+LOOKUP cP
+INSERT j708 number
+INSERT qqC string
+INSERT io8 number
+INSERT mvpEmN number
+BEGIN
+END
+INSERT g1 number
+INSERT h string
+INSERT xa number

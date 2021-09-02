@@ -1,0 +1,8 @@
+INSERT ucro3e number
+INSERT om number
+INSERT y56kJ string
+INSERT eX_ number
+INSERT mZb string
+PRINT
+INSERT efc string
+LOOKUP efc

@@ -1,0 +1,5 @@
+INSERT pkz number
+ASSIGN pkz pkz
+INSERT kLAla number
+INSERT twCA number
+INSERT bs6 string

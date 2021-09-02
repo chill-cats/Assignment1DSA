@@ -1,0 +1,12 @@
+INSERT kO3K number
+BEGIN
+INSERT zLdv number
+INSERT c string
+ASSIGN zLdv kO3K
+PRINT
+INSERT e9z52 string
+RPRINT
+PRINT
+ASSIGN kO3K 999
+rt cP9P
+INSERT qY number

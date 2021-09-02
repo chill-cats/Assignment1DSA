@@ -1,0 +1,10 @@
+INSERT x number
+gxz3a xX6V1u
+INSERT tsp number
+INSERT y0tOsS number
+INSERT ka8f number
+INSERT zsdmu string
+END
+INSERT fFRFlq string
+LOOKUP fFRFlq
+PRINT

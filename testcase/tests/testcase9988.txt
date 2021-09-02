@@ -1,0 +1,30 @@
+INSERT l_q number
+END
+INSERT jHsM number
+INSERT yZsUJg string
+INSERT bCtTka number
+INSERT plrW4 string
+INSERT lMe6W9 string
+ASSIGN bCtTka 1189
+INSERT lfZr number
+PRINT
+INSERT sj string
+INSERT qCkb string
+RPRINT
+PRINT
+INSERT cV6 number
+INSERT vyKZ12 number
+INSERT z8HTdh string
+INSERT bY string
+BEGIN
+BEGIN
+INSERT gEv number
+INSERT q5B string
+RPRINT
+INSERT rj string
+INSERT loN6 number
+INSERT jJi number
+BEGIN
+BEGIN
+INSERT r1 number
+INSERT z8ZzV string

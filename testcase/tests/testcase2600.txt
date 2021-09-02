@@ -1,0 +1,13 @@
+INSERT j_fz3 number
+END
+INSERT sj number
+INSERT pxM6G string
+LOOKUP sj
+LOOKUP j_fz3
+PRINT
+INSERT mPYT number
+RPRINT
+INSERT ypmK string
+INSERT zTQ string
+INSERT bBm8M3 string
+BEGIN

@@ -1,0 +1,20 @@
+INSERT w3E number
+END
+INSERT vz7uVP string
+INSERT h8oR number
+ASSIGN h8oR 838
+INSERT y number
+ASSIGN w3E 'RLn'
+LOOKUP h8oR
+RPRINT
+END
+INSERT q7KXj string
+INSERT bvjF4A string
+RPRINT
+sfzkSp eNTE_W
+INSERT kiBTr string
+END
+INSERT ieu7 string
+INSERT lA6 string
+END
+INSERT yqF string

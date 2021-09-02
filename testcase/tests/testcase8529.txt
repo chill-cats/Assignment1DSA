@@ -1,0 +1,17 @@
+RPRINT
+RPRINT
+INSERT aME number
+INSERT wRlGYo string
+PRINT
+INSERT i32 string
+INSERT v number
+ASSIGN aME v
+LOOKUP i32
+INSERT fCw number
+INSERT b5hTD string
+END
+END
+INSERT jDDhj string
+INSERT qQ9W string
+INSERT m number
+INSERT xtn string

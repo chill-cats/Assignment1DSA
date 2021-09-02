@@ -1,0 +1,33 @@
+LOOKUP phB5d
+INSERT pL string
+INSERT o5VlpR number
+INSERT noTcHm string
+LOOKUP o5VlpR
+PRINT
+INSERT y string
+INSERT vGXTNh string
+PRINT
+ASSIGN noTcHm 280
+INSERT dX5 string
+INSERT asl string
+END
+INSERT d number
+INSERT eP number
+ASSIGN d o5VlpR
+RPRINT
+INSERT bpZCp string
+INSERT dNWJ string
+LOOKUP dX5
+RPRINT
+PRINT
+LOOKUP bpZCp
+INSERT qw8GG string
+INSERT t string
+INSERT v string
+LOOKUP pL
+INSERT guerF number
+LOOKUP y
+INSERT fmMc string
+INSERT btbNY string
+ASSIGN y y
+BEGIN

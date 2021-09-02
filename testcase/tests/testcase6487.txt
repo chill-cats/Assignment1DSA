@@ -1,0 +1,33 @@
+INSERT oDTABX string
+END
+INSERT cOrrBr string
+BEGIN
+LOOKUP cOrrBr
+INSERT ksUrZa number
+LOOKUP oDTABX
+INSERT tdQ number
+INSERT jB6As number
+END
+INSERT fIW number
+INSERT ql string
+INSERT xWf string
+BEGIN
+INSERT sa3 number
+ASSIGN ql '8D'
+INSERT nuIdoU number
+INSERT aOu7x number
+INSERT znMXyO number
+INSERT j string
+INSERT iOLEn5 string
+PRINT
+INSERT kd8ZZN string
+RPRINT
+INSERT eMtHt string
+INSERT jEqwCr string
+ASSIGN oDTABX 372
+PRINT
+LOOKUP kd8ZZN
+INSERT k string
+INSERT l2Wi string
+INSERT uV string
+INSERT ldtv string

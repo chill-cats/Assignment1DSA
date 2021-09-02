@@ -1,0 +1,34 @@
+INSERT eMz string
+RPRINT
+INSERT bICD0p number
+ASSIGN bICD0p 'cfN7R'
+BEGIN
+INSERT uNQiF string
+LOOKUP uNQiF
+INSERT t number
+INSERT x8 string
+INSERT knebld string
+INSERT bWnr string
+INSERT sR string
+ASSIGN sR bICD0p
+INSERT sU string
+BEGIN
+INSERT v5MOZi string
+RPRINT
+LOOKUP uNQiF
+INSERT gV string
+INSERT c string
+INSERT fyReNw number
+h dIQp
+INSERT c2II number
+bPEor e
+BEGIN
+PRINT
+INSERT qxP string
+ASSIGN fyReNw 42
+LOOKUP t
+INSERT jrB string
+fY tolSrk
+INSERT j string
+INSERT p number
+END

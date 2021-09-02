@@ -1,0 +1,34 @@
+INSERT u03cup string
+INSERT nM string
+ASSIGN u03cup u03cup
+INSERT t0 string
+INSERT z85R1A number
+INSERT bPshR9 number
+INSERT diy number
+PRINT
+INSERT iBR1K string
+INSERT x string
+INSERT o3 number
+INSERT rIsB string
+INSERT atLc_y string
+INSERT faWuu string
+END
+ASSIGN atLc_y z85R1A
+RPRINT
+RPRINT
+INSERT cN8C number
+INSERT fYQZv string
+INSERT z number
+RPRINT
+END
+ASSIGN cN8C 33
+BEGIN
+END
+INSERT z string
+ASSIGN o3 'CeimR'
+BEGIN
+INSERT qQH number
+INSERT caE string
+INSERT bUdd number
+END
+INSERT oaroT number

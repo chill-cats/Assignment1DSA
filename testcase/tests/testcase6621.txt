@@ -1,0 +1,11 @@
+INSERT pdoe number
+ASSIGN pdoe 564
+INSERT d4Ynq1 number
+INSERT l string
+INSERT etf string
+INSERT tsRY string
+INSERT llY number
+ASSIGN d4Ynq1 tsRY
+INSERT t string
+INSERT sp number
+INSERT uSC3 number

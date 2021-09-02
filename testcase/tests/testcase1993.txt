@@ -1,0 +1,11 @@
+INSERT h string
+INSERT r6ca string
+INSERT sA0 string
+INSERT pf string
+INSERT v number
+INSERT qQR9 string
+PRINT
+INSERT rs number
+INSERT dy1 string
+ASSIGN rs 'p3l'
+END

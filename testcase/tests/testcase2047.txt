@@ -1,0 +1,34 @@
+RPRINT
+RPRINT
+INSERT x number
+INSERT p1SQ number
+INSERT lhLsV string
+BEGIN
+INSERT kT string
+INSERT s5Du string
+INSERT jH string
+INSERT aq number
+ASSIGN x 252
+END
+INSERT h number
+PRINT
+INSERT d string
+INSERT vHq5Uz string
+INSERT sd string
+ASSIGN h 908
+RPRINT
+INSERT qDHfcG number
+INSERT im2 number
+INSERT o1KPg string
+INSERT s number
+INSERT m7 number
+INSERT c string
+INSERT j number
+INSERT i6E string
+ASSIGN m7 79
+INSERT yC number
+INSERT s number
+aE3 qTLp
+RPRINT
+END
+BEGIN

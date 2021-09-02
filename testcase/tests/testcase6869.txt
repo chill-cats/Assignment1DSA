@@ -1,0 +1,19 @@
+INSERT xR string
+INSERT rBSX number
+INSERT j8 string
+INSERT fD7 number
+RPRINT
+INSERT nCaf number
+hgWr tcl0S
+RPRINT
+INSERT rNw0 string
+LOOKUP xR
+INSERT cb number
+INSERT g number
+BEGIN
+LOOKUP rNw0
+INSERT m string
+INSERT uJCjs number
+INSERT k6 number
+END
+INSERT cccw number

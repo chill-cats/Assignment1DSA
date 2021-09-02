@@ -1,0 +1,12 @@
+LOOKUP gFG
+INSERT hux string
+INSERT rgb number
+INSERT h string
+BEGIN
+INSERT tdkhZ5 number
+INSERT rQ string
+PRINT
+RPRINT
+INSERT t number
+INSERT zr string
+INSERT vck string

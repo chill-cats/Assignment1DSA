@@ -1,0 +1,35 @@
+INSERT bFdd number
+END
+INSERT j6e number
+INSERT s3w string
+INSERT nn0 string
+RPRINT
+ASSIGN nn0 372
+ASSIGN j6e 1046
+INSERT nSb8 string
+LOOKUP s3w
+jY y
+BEGIN
+INSERT f_w string
+END
+INSERT iH number
+nHEUMD oq6
+INSERT hC60 string
+INSERT a number
+BEGIN
+INSERT u string
+INSERT vk3 string
+END
+INSERT lT string
+INSERT vco0yf number
+RPRINT
+ASSIGN f_w nSb8
+INSERT t number
+INSERT mY string
+INSERT p number
+END
+PRINT
+INSERT oLF string
+INSERT bdd string
+INSERT fV8o number
+END

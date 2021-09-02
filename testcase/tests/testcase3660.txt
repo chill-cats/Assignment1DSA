@@ -1,0 +1,38 @@
+PRINT
+ASSIGN oy 'eKzUo'
+PRINT
+LOOKUP lUC_E
+ASSIGN iyZKlo 'x'
+INSERT eI9H string
+INSERT o number
+sg_ iH
+z0 zZ
+PRINT
+LOOKUP eI9H
+INSERT w6EX string
+hwS ec
+LOOKUP eI9H
+BEGIN
+BEGIN
+ASSIGN w6EX 'lHXh'
+INSERT d6G string
+INSERT o string
+END
+INSERT myd string
+INSERT lJSGq number
+INSERT c number
+INSERT lj string
+RPRINT
+INSERT mxRLiQ string
+INSERT fqEE1e number
+INSERT tMvau string
+INSERT gkUTKY number
+INSERT pBGLE string
+INSERT n number
+LOOKUP o
+INSERT wWE9 number
+INSERT i string
+BEGIN
+INSERT dja2 string
+INSERT l string
+INSERT ozx2AL number

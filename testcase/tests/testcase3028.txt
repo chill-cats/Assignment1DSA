@@ -1,0 +1,7 @@
+INSERT kh string
+INSERT aWOb number
+INSERT na number
+BEGIN
+INSERT yazS number
+INSERT iyQy number
+INSERT jzepB number

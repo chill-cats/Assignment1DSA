@@ -1,0 +1,14 @@
+INSERT oGvC8n string
+zahFgR cHJ
+INSERT vda95 string
+INSERT bqA string
+INSERT qg number
+INSERT hw0Nd number
+INSERT wdh7Nc number
+LOOKUP bqA
+PRINT
+END
+LOOKUP bqA
+INSERT rMA4Gv number
+RPRINT
+INSERT ak4feC number

@@ -1,0 +1,21 @@
+RPRINT
+INSERT g number
+INSERT hl string
+PRINT
+INSERT rL number
+ASSIGN hl rL
+LOOKUP hl
+s o8s7
+PRINT
+BEGIN
+LOOKUP g
+gV rCACS
+BEGIN
+END
+INSERT eGJEE8 number
+INSERT lPZj number
+INSERT z2 number
+INSERT uD6ypK string
+cM ubQg
+PRINT
+INSERT v number

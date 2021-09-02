@@ -1,0 +1,9 @@
+PRINT
+INSERT jn number
+INSERT b string
+INSERT jgf string
+INSERT r3lK string
+INSERT odM6kG string
+BEGIN
+INSERT oh number
+INSERT kK number

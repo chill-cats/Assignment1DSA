@@ -1,0 +1,21 @@
+LOOKUP k
+INSERT c1w1B string
+INSERT rIThsO number
+LOOKUP rIThsO
+INSERT vL number
+BEGIN
+ASSIGN rIThsO 'QJM4'
+LOOKUP vL
+ASSIGN vL rIThsO
+INSERT ltUac string
+INSERT iBPz8 number
+PRINT
+INSERT vO3 string
+INSERT zNyE5 string
+ASSIGN ltUac 565
+ASSIGN c1w1B c1w1B
+INSERT xJ8aGY string
+yvaNwb s
+INSERT i string
+INSERT hgmss string
+PRINT

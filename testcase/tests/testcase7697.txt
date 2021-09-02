@@ -1,0 +1,33 @@
+INSERT x string
+END
+INSERT g9 string
+INSERT fB string
+INSERT ekzW number
+INSERT tn number
+BEGIN
+LOOKUP ekzW
+END
+RPRINT
+END
+ASSIGN tn 379
+PRINT
+INSERT d string
+LOOKUP x
+INSERT jHCG string
+END
+INSERT sZnhy string
+END
+BEGIN
+INSERT aSw number
+PRINT
+INSERT jNWgj string
+ASSIGN aSw 740
+INSERT e string
+BEGIN
+INSERT xUxoWy string
+INSERT de string
+LOOKUP tn
+INSERT j0wXbk string
+RPRINT
+INSERT sI string
+PRINT

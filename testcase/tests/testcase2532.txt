@@ -1,0 +1,29 @@
+PRINT
+INSERT j number
+INSERT ihu6 number
+ASSIGN j 492
+INSERT n1RdJq number
+PRINT
+RPRINT
+INSERT z_Sy number
+INSERT gOu number
+d xw
+ASSIGN gOu 463
+INSERT q string
+INSERT w6cZ number
+ASSIGN q '9 '
+INSERT a number
+INSERT h5iCwm number
+BEGIN
+RPRINT
+LOOKUP gOu
+LOOKUP z_Sy
+PRINT
+INSERT s7G_zJ string
+INSERT l string
+INSERT hH number
+INSERT oB string
+INSERT aMVfy9 number
+INSERT bVPcA string
+LOOKUP w6cZ
+RPRINT

@@ -1,0 +1,11 @@
+RPRINT
+INSERT tZx string
+d hm
+INSERT mn2tV number
+END
+PRINT
+BEGIN
+INSERT irp number
+INSERT hdk number
+INSERT h0 number
+INSERT n string

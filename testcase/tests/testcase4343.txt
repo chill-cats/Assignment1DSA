@@ -1,0 +1,29 @@
+PRINT
+INSERT zgFH number
+INSERT v5lUuO string
+INSERT xZ string
+LOOKUP xZ
+INSERT qco number
+INSERT ia string
+INSERT v23V5a number
+INSERT q string
+END
+INSERT u6kfpc number
+INSERT r number
+INSERT c number
+ASSIGN zgFH c
+INSERT p5 string
+INSERT x number
+w p
+INSERT hZLN7m string
+BEGIN
+INSERT k number
+PRINT
+PRINT
+INSERT uO string
+INSERT g_ string
+INSERT w string
+INSERT wD string
+BEGIN
+INSERT gD2o9C number
+INSERT qi7_ number

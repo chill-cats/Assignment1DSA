@@ -1,0 +1,6 @@
+INSERT nEbwO number
+LOOKUP nEbwO
+INSERT dQeNKU number
+BEGIN
+LOOKUP nEbwO
+RPRINT

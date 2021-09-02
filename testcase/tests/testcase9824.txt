@@ -1,0 +1,5 @@
+END
+PRINT
+ASSIGN dmnA 227
+ASSIGN fbySaW 1006
+INSERT wnC string

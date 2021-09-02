@@ -1,0 +1,25 @@
+INSERT qowtR0 string
+BEGIN
+LOOKUP qowtR0
+INSERT eZ0m string
+BEGIN
+i_ g
+ASSIGN qowtR0 qowtR0
+INSERT ySdNEd string
+ASSIGN ySdNEd '1'
+RPRINT
+INSERT koEyZ string
+INSERT a string
+INSERT v0ekGx string
+INSERT bPiS number
+ASSIGN bPiS ySdNEd
+hNMlR fnU
+PRINT
+ASSIGN v0ekGx 628
+INSERT rnb number
+PRINT
+INSERT seLZ8 string
+INSERT yw string
+INSERT vVb number
+INSERT j8bkRO string
+PRINT

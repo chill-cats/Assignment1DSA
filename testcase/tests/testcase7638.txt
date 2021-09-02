@@ -1,0 +1,2 @@
+INSERT vN_ string
+PRINT

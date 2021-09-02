@@ -1,0 +1,20 @@
+INSERT w string
+BEGIN
+INSERT va string
+INSERT u number
+INSERT kAF92 string
+INSERT iG string
+INSERT g5 string
+INSERT dt56 number
+PRINT
+INSERT h number
+LOOKUP dt56
+INSERT koQrf string
+INSERT vFe string
+INSERT mDa number
+INSERT h3k string
+INSERT wpKnq number
+LOOKUP dt56
+INSERT ezVT string
+INSERT fS0 string
+BEGIN

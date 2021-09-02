@@ -1,0 +1,36 @@
+END
+INSERT sDhtG number
+INSERT it number
+INSERT vKoh9 number
+INSERT n8 number
+INSERT b number
+INSERT sB_xDt number
+INSERT zS number
+INSERT clN number
+INSERT jKQ number
+INSERT lqUBF number
+INSERT rq string
+INSERT tUt9 number
+INSERT s6US string
+LOOKUP clN
+INSERT u7rE number
+ASSIGN rq lqUBF
+INSERT ot4yKw number
+INSERT scwL number
+INSERT pC number
+INSERT cuP number
+INSERT f3H5h string
+INSERT qGdOq string
+INSERT vmNcj string
+ASSIGN zS n8
+INSERT z6Cwh string
+RPRINT
+INSERT rYVrqN string
+INSERT eCi_Yl string
+LOOKUP scwL
+INSERT b4IU number
+INSERT h0 string
+INSERT p2Y7h string
+INSERT eyAhnV number
+y nReI1C
+INSERT y string

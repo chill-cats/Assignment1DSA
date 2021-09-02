@@ -1,0 +1,34 @@
+INSERT dDn string
+LOOKUP dDn
+INSERT zJ string
+PRINT
+INSERT w4lD5 string
+INSERT g string
+INSERT yDJcN string
+INSERT vL number
+PRINT
+INSERT jN number
+PRINT
+INSERT u string
+INSERT l string
+INSERT eNRYg string
+LOOKUP eNRYg
+INSERT eQ number
+END
+INSERT x6Q number
+INSERT mu number
+INSERT n number
+INSERT b2Oj number
+INSERT zqRl number
+INSERT yT number
+INSERT tIMm number
+ASSIGN eNRYg zqRl
+INSERT ofepf string
+INSERT l number
+INSERT kGs string
+LOOKUP vL
+INSERT i string
+END
+INSERT ds number
+LOOKUP x6Q
+INSERT eg number

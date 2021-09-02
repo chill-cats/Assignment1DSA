@@ -1,0 +1,31 @@
+INSERT pb number
+INSERT aVD number
+INSERT fObJ number
+INSERT hbbzPG number
+INSERT m number
+INSERT d2 string
+INSERT qADN8J number
+INSERT yzBwfo number
+RPRINT
+ygm0 gYN0
+LOOKUP hbbzPG
+RPRINT
+ASSIGN yzBwfo hbbzPG
+END
+LOOKUP hbbzPG
+INSERT kGA number
+INSERT q string
+PRINT
+INSERT hTc number
+INSERT et2 string
+INSERT bhTNtL string
+LOOKUP et2
+INSERT r string
+INSERT t1xn string
+INSERT dX4 string
+INSERT lxv string
+INSERT gzV string
+INSERT y8 number
+INSERT wex string
+INSERT pQRpW6 string
+BEGIN

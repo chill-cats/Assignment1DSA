@@ -1,0 +1,31 @@
+LOOKUP o
+INSERT gPzR string
+PRINT
+INSERT pt string
+INSERT fS number
+INSERT eFmwr string
+INSERT rf_6 number
+LOOKUP gPzR
+INSERT mcBYUD string
+LOOKUP x
+END
+INSERT dbBs number
+LOOKUP mcBYUD
+INSERT xJsh string
+PRINT
+INSERT v string
+INSERT wwhKV number
+INSERT a9FI7j string
+INSERT bJD2nM number
+ASSIGN pt pt
+INSERT cauMWn string
+INSERT drtT string
+INSERT dNXI0 string
+INSERT iZYA number
+INSERT sdq number
+INSERT q5D number
+INSERT b number
+BEGIN
+INSERT um number
+LOOKUP dbBs
+INSERT y string

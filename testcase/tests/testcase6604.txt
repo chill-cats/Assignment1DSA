@@ -1,0 +1,5 @@
+INSERT qxqKZO number
+PRINT
+PRINT
+PRINT
+INSERT l1qIZ string

@@ -1,0 +1,12 @@
+INSERT xt number
+INSERT e2j number
+INSERT n string
+END
+jy0 cjQ
+INSERT jNt string
+INSERT uLW4K number
+INSERT buUCh string
+INSERT m12X string
+INSERT b number
+INSERT x4 number
+LOOKUP x4

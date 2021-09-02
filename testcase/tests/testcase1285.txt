@@ -1,0 +1,8 @@
+INSERT sm string
+INSERT rvA number
+INSERT yd string
+INSERT s2z number
+INSERT hDao number
+LOOKUP rvA
+INSERT rNjf number
+tpMB6r iVoG

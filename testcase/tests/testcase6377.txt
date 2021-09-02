@@ -1,0 +1,6 @@
+INSERT i number
+INSERT haBH string
+INSERT vP number
+q wGQ
+INSERT ug string
+INSERT yNuBRO string

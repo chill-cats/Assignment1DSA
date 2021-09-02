@@ -1,0 +1,31 @@
+INSERT nxZJ number
+LOOKUP nxZJ
+LOOKUP bT_
+INSERT gpaz number
+INSERT ghy0vr number
+INSERT d string
+INSERT qYwM_ string
+INSERT yN4n string
+RPRINT
+ASSIGN qYwM_ 'J4O2E'
+RPRINT
+INSERT y string
+INSERT jB string
+INSERT cL number
+INSERT cAgxcT string
+INSERT vOBZ0 string
+LOOKUP qYwM_
+INSERT l number
+INSERT ub string
+BEGIN
+END
+INSERT bqTA string
+INSERT t string
+BEGIN
+INSERT wn string
+INSERT n2T2A number
+ASSIGN jB 'JG a'
+INSERT yy6 number
+INSERT mK number
+PRINT
+INSERT dVVE string

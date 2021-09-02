@@ -1,0 +1,38 @@
+END
+PRINT
+INSERT tussDm number
+END
+INSERT t number
+INSERT dGC2 number
+lAS rgo5FN
+INSERT w number
+INSERT oaLWak number
+ASSIGN tussDm 307
+INSERT oBUU number
+END
+PRINT
+ASSIGN oBUU 219
+BEGIN
+pS2 l
+INSERT t7b7H6 number
+INSERT fT number
+INSERT tS2 string
+INSERT isd string
+INSERT cz4 number
+zX mN3y
+INSERT z string
+RPRINT
+INSERT oGddS number
+INSERT hN number
+RPRINT
+BEGIN
+ASSIGN t t
+LOOKUP t
+vZRD x
+l xV
+INSERT dy number
+INSERT m8ZtP string
+INSERT a_enIJ string
+INSERT azyD string
+RPRINT
+INSERT e string

@@ -1,0 +1,14 @@
+RPRINT
+INSERT ce number
+INSERT x string
+BEGIN
+BEGIN
+ASSIGN x ce
+INSERT cB6 string
+INSERT fY4w number
+INSERT gn3u string
+ASSIGN cB6 gn3u
+INSERT gCPVRV number
+INSERT a0qqF string
+INSERT rb number
+LOOKUP x

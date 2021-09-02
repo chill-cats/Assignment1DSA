@@ -1,0 +1,13 @@
+INSERT pVzq7 number
+ASSIGN pVzq7 'g3sPF'
+LOOKUP pVzq7
+INSERT d number
+END
+INSERT xL number
+PRINT
+INSERT cVK number
+ASSIGN pVzq7 573
+END
+INSERT sq number
+INSERT hRxS string
+INSERT e1G number

@@ -1,0 +1,27 @@
+BEGIN
+INSERT t69B number
+INSERT vjhhu string
+INSERT v4a6Fd number
+INSERT yX9AM7 number
+INSERT um string
+INSERT lr1j string
+INSERT qmZd string
+INSERT x5Mpj string
+PRINT
+INSERT rtU3qn string
+INSERT ajyy string
+RPRINT
+INSERT rvIP2 string
+LOOKUP ajyy
+dD1 zI
+INSERT eOtX5 string
+INSERT eiSTx string
+INSERT utjo number
+INSERT z56go number
+ASSIGN yX9AM7 414
+INSERT f4 number
+INSERT mCx7_f number
+INSERT jUbUZX string
+INSERT wqEx string
+INSERT yo number
+LOOKUP t69B

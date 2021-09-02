@@ -1,0 +1,36 @@
+RPRINT
+INSERT pog string
+RPRINT
+u jip
+PRINT
+LOOKUP pog
+PRINT
+LOOKUP pog
+BEGIN
+LOOKUP pog
+ASSIGN pog 'ho1K6'
+INSERT maE8 string
+INSERT ib number
+INSERT d number
+INSERT l_5D number
+INSERT nYdlu number
+INSERT qK number
+INSERT dtvOx string
+INSERT pBjk string
+RPRINT
+INSERT r_ string
+ASSIGN ib qK
+INSERT ukQ0A string
+INSERT iZ0yzL string
+BEGIN
+INSERT gvA number
+LOOKUP l_5D
+BEGIN
+BEGIN
+INSERT iLC3g string
+INSERT aM number
+INSERT iL number
+wJOs pckXNs
+INSERT q number
+ASSIGN l_5D 'T'
+INSERT twDJ number

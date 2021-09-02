@@ -1,0 +1,14 @@
+PRINT
+INSERT siOq string
+INSERT q2TW number
+INSERT iMSZP number
+RPRINT
+END
+BEGIN
+END
+INSERT ep9T string
+INSERT pSzQOS number
+INSERT jJz number
+INSERT y5WE string
+INSERT f number
+LOOKUP f

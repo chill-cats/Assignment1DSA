@@ -1,0 +1,16 @@
+INSERT h number
+INSERT pujjQ6 string
+PRINT
+INSERT dv number
+ASSIGN dv dv
+ASSIGN dv '1mDVz'
+LOOKUP dv
+INSERT fntop string
+ASSIGN h 931
+INSERT ca string
+BEGIN
+INSERT c1NY number
+INSERT iJDM string
+END
+INSERT rU2Nc string
+BEGIN

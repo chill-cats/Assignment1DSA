@@ -1,0 +1,33 @@
+lpt8g qeXNcE
+INSERT p0now string
+INSERT yqeDBo number
+INSERT xg_9k1 string
+INSERT apfR58 number
+INSERT v string
+INSERT m string
+ASSIGN y8h5 955
+INSERT mtZN number
+INSERT pLtlK string
+INSERT ybPJq string
+INSERT xz3 number
+LOOKUP apfR58
+RPRINT
+END
+INSERT ymD number
+INSERT z number
+LOOKUP pLtlK
+PRINT
+ASSIGN m 650
+INSERT m7vZ string
+INSERT wf5 string
+ASSIGN wf5 '7d'
+INSERT row string
+END
+INSERT v7j1P number
+END
+INSERT wLnj number
+PRINT
+INSERT acdJ string
+INSERT y1c number
+INSERT bBg number
+BEGIN

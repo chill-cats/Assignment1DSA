@@ -1,0 +1,25 @@
+INSERT kgzMb string
+PRINT
+INSERT wl string
+ASSIGN kgzMb 'I1G'
+END
+INSERT pOVh number
+ASSIGN wl kgzMb
+INSERT dak string
+INSERT qF string
+INSERT p_ number
+INSERT v2tY number
+INSERT gwX string
+END
+INSERT l string
+INSERT vaJUFp number
+INSERT yr number
+END
+INSERT xVATDV number
+INSERT p8xI string
+INSERT bH number
+INSERT mXNd string
+ASSIGN xVATDV bH
+INSERT vPMi number
+INSERT rOQRhb string
+INSERT e number

@@ -1,0 +1,23 @@
+LOOKUP aF
+INSERT r_ string
+INSERT rI8e string
+INSERT lFRjcD string
+INSERT e2xV number
+ASSIGN e2xV lFRjcD
+BEGIN
+INSERT ia_i5m number
+INSERT u string
+INSERT f7K string
+INSERT v number
+RPRINT
+INSERT owj_ number
+PRINT
+INSERT o string
+INSERT cP0J_8 string
+INSERT lEPVv string
+RPRINT
+INSERT rTH string
+INSERT dSm1 string
+INSERT n number
+RPRINT
+INSERT bU string

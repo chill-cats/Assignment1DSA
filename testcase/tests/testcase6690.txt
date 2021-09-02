@@ -1,0 +1,15 @@
+INSERT ornIY number
+cG4N6g n2GWK
+p kAFF0q
+INSERT ir3aj0 number
+LOOKUP ornIY
+INSERT qtX string
+INSERT i number
+END
+BEGIN
+INSERT a35dZH string
+BEGIN
+INSERT cB number
+BEGIN
+PRINT
+INSERT uq7 string

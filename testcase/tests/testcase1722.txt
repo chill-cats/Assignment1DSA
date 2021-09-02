@@ -1,0 +1,15 @@
+PRINT
+INSERT ewNQ number
+PRINT
+INSERT wsS number
+INSERT zH number
+INSERT jRVW number
+RPRINT
+INSERT y number
+PRINT
+INSERT ni string
+LOOKUP zH
+ASSIGN wsS ewNQ
+INSERT k0Lak string
+LOOKUP ni
+INSERT xI9WV number

@@ -1,0 +1,34 @@
+INSERT mL number
+INSERT dyJh string
+INSERT m number
+END
+INSERT z6K number
+INSERT t number
+INSERT zA5on string
+INSERT nCu6u number
+INSERT elc9q number
+ASSIGN nCu6u t
+ASSIGN nCu6u '8B'
+INSERT q number
+INSERT xZ2 string
+INSERT wC7U string
+INSERT s number
+ASSIGN m 794
+END
+INSERT eu number
+INSERT x string
+INSERT gHn string
+INSERT kK88Pv number
+INSERT wf9bS number
+INSERT mF4d string
+INSERT m string
+INSERT t number
+INSERT bMifJ number
+RPRINT
+INSERT wci number
+INSERT h string
+INSERT j1g number
+INSERT dPdFz1 number
+END
+INSERT pD number
+INSERT v string

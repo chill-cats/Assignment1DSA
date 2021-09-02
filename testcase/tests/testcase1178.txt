@@ -1,0 +1,24 @@
+LOOKUP t
+INSERT s81 number
+INSERT u9gR number
+INSERT qqVmq string
+INSERT so80v string
+PRINT
+INSERT nJU9vo number
+BEGIN
+INSERT kGM string
+LOOKUP s81
+ASSIGN u9gR qqVmq
+RPRINT
+LOOKUP u9gR
+INSERT jIkEYt string
+INSERT z2A9 string
+INSERT d string
+INSERT o_Nh number
+INSERT hvq string
+INSERT yKYz number
+INSERT bjw string
+INSERT l string
+p t0u
+LOOKUP so80v
+BEGIN

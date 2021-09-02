@@ -1,0 +1,38 @@
+END
+PRINT
+LOOKUP t
+INSERT mpUy12 string
+INSERT s0ntn string
+RPRINT
+ASSIGN s0ntn 'J'
+INSERT qAo number
+INSERT mEugGJ number
+INSERT uAiMs number
+INSERT iX4nZ number
+INSERT o number
+INSERT cJoZuM string
+INSERT doQg string
+INSERT bBf number
+INSERT y string
+INSERT jHm string
+INSERT gYjvRu number
+INSERT qnh5 number
+INSERT b string
+INSERT lkTz string
+d8sA y
+INSERT vX number
+LOOKUP jHm
+INSERT g4 string
+INSERT k_I string
+INSERT ze4wG string
+INSERT i7 string
+INSERT b5qq number
+BEGIN
+BEGIN
+ASSIGN mpUy12 't1v'
+INSERT wkn number
+INSERT sBBQU number
+INSERT hrYmY string
+ASSIGN sBBQU 441
+PRINT
+INSERT t7TZT string

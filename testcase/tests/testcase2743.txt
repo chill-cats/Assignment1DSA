@@ -1,0 +1,37 @@
+INSERT t number
+INSERT ovDy string
+BEGIN
+LOOKUP t
+INSERT zK number
+INSERT vU number
+PRINT
+INSERT co string
+INSERT jLLel number
+INSERT bCd number
+PRINT
+END
+INSERT xcIt0g number
+INSERT vD3 number
+BEGIN
+INSERT nwjzOo string
+INSERT jfvTg number
+BEGIN
+INSERT qI9Yc number
+END
+BEGIN
+INSERT nx4Y string
+PRINT
+INSERT yAN number
+INSERT wLu9Rs number
+h zh
+INSERT mNYL number
+INSERT gMPTk number
+INSERT uABi number
+LOOKUP gMPTk
+INSERT t6V string
+INSERT e8ru number
+INSERT cL6s number
+INSERT a2 number
+INSERT t number
+INSERT jTpP7 number
+ASSIGN ovDy gMPTk

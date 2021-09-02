@@ -1,0 +1,4 @@
+INSERT n9l0R string
+PRINT
+INSERT r number
+BEGIN

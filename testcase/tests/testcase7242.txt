@@ -1,0 +1,31 @@
+PRINT
+INSERT uHuY number
+INSERT zIrW string
+INSERT nq string
+ASSIGN zIrW 'sQrCw'
+PRINT
+BEGIN
+RPRINT
+f2FrI a
+LOOKUP zIrW
+INSERT f7 number
+LOOKUP f7
+RPRINT
+INSERT aWQwzo string
+INSERT e number
+END
+INSERT mJ string
+INSERT tyQA string
+END
+INSERT iqx number
+RPRINT
+INSERT t number
+INSERT q7 string
+INSERT fgAjRd number
+RPRINT
+INSERT gv number
+INSERT b string
+INSERT fE_ number
+INSERT bCjG1 string
+INSERT y string
+END

@@ -1,0 +1,40 @@
+INSERT pn9W string
+INSERT rcvOA number
+INSERT lNDIM9 number
+RPRINT
+INSERT s string
+LOOKUP rcvOA
+INSERT qp5Ww number
+INSERT r number
+END
+INSERT bGKU string
+INSERT dd number
+RPRINT
+INSERT r number
+INSERT hoeomO number
+INSERT zRJSRL string
+INSERT joB5_ string
+ri wX
+INSERT aZytO number
+LOOKUP lNDIM9
+INSERT vOHg string
+ul6B qjzuxq
+INSERT xytB1 number
+RPRINT
+ASSIGN pn9W 1129
+INSERT mo number
+INSERT pj2bu number
+lD chLez
+INSERT eN3 string
+LOOKUP hoeomO
+go gp
+BEGIN
+INSERT hCTXpE string
+PRINT
+RPRINT
+RPRINT
+INSERT dRxu string
+BEGIN
+INSERT u4 string
+INSERT yat number
+LOOKUP s

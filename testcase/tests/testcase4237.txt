@@ -1,0 +1,9 @@
+INSERT d number
+BEGIN
+INSERT uw number
+INSERT ejJLWu string
+INSERT vQc8Am string
+INSERT vI number
+INSERT sjZZo number
+BEGIN
+RPRINT

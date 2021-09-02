@@ -1,0 +1,3 @@
+INSERT k string
+LOOKUP k
+INSERT neJ string

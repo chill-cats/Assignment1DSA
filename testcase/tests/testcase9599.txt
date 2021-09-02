@@ -1,0 +1,19 @@
+INSERT uSm number
+INSERT tbS string
+BEGIN
+INSERT x5Vo number
+LOOKUP tbS
+lEIx tc7V
+ASSIGN uSm 'lV'
+INSERT tGnu7 string
+RPRINT
+INSERT xs number
+INSERT ibD47h number
+INSERT yyVc number
+INSERT kG number
+INSERT fC string
+INSERT kYsF string
+INSERT m5I number
+INSERT wqlp06 number
+INSERT x1us4 number
+INSERT pGEIs string

@@ -1,0 +1,10 @@
+LOOKUP t
+PRINT
+INSERT pvtu number
+LOOKUP pvtu
+INSERT oR string
+INSERT fWbl number
+INSERT xRR number
+RPRINT
+INSERT zKpl string
+INSERT a8oe string

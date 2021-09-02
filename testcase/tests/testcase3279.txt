@@ -1,0 +1,6 @@
+END
+INSERT a number
+INSERT rhVFCh number
+END
+ASSIGN a 572
+END

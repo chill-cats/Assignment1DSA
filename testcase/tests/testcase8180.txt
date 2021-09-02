@@ -1,0 +1,29 @@
+INSERT qcFBcw number
+LOOKUP qcFBcw
+INSERT a8Pkl number
+RPRINT
+LOOKUP qcFBcw
+INSERT oQs number
+INSERT d number
+INSERT t string
+ASSIGN a8Pkl d
+INSERT paUF3 string
+LOOKUP d
+INSERT crUh string
+INSERT bAaVqD string
+PRINT
+INSERT x number
+END
+INSERT wEe number
+INSERT nc6I string
+RPRINT
+RPRINT
+INSERT mX0 number
+INSERT r string
+q05 dV
+RPRINT
+PRINT
+INSERT rOu string
+LOOKUP wEe
+INSERT x5 string
+INSERT iQTf string

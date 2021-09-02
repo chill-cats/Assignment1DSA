@@ -1,0 +1,7 @@
+INSERT c string
+INSERT s string
+BEGIN
+INSERT gr60s number
+INSERT bx number
+ASSIGN c 'vE'
+BEGIN

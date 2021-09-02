@@ -1,0 +1,30 @@
+RPRINT
+RPRINT
+INSERT lA string
+INSERT q8 string
+INSERT bYBvsD number
+INSERT zkOel_ number
+LOOKUP bYBvsD
+BEGIN
+INSERT iIxH string
+INSERT u0pE string
+LOOKUP lA
+INSERT tiX string
+END
+PRINT
+END
+INSERT p6 number
+LOOKUP q8
+END
+INSERT j string
+INSERT d9C string
+INSERT zTPuQ string
+INSERT yZ_ number
+INSERT osoE string
+INSERT tTw string
+RPRINT
+INSERT t4tXC string
+ASSIGN d9C u0pE
+BEGIN
+INSERT y1LDaP number
+END

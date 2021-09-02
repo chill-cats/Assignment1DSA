@@ -1,0 +1,38 @@
+INSERT dQzc string
+INSERT mO number
+ASSIGN mO 'ms'
+INSERT ywZdIq string
+INSERT wsze string
+INSERT buUeQx string
+RPRINT
+INSERT vqvyMi string
+INSERT f4I7rH number
+INSERT dm string
+ASSIGN dQzc wsze
+END
+INSERT s8 number
+INSERT iIQZW number
+INSERT an number
+END
+RPRINT
+i8P1 bGSK9
+INSERT yVdTfj string
+INSERT xCV number
+INSERT py string
+INSERT begV string
+RPRINT
+RPRINT
+END
+INSERT ph number
+INSERT xvT_sp string
+LOOKUP f_
+INSERT sznuxi number
+END
+PRINT
+INSERT bPZjf3 string
+PRINT
+INSERT b number
+LOOKUP iIQZW
+INSERT mIk number
+INSERT kqlxET number
+INSERT zx string

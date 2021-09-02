@@ -1,0 +1,25 @@
+INSERT wkJ string
+RPRINT
+v1EfIn j_PVG
+INSERT i string
+ASSIGN wkJ i
+RPRINT
+RPRINT
+INSERT ticO9W string
+INSERT p number
+INSERT oyl string
+PRINT
+INSERT wSL number
+INSERT vU1R string
+ASSIGN vU1R 'ud'
+INSERT iW string
+INSERT e0av string
+INSERT t number
+INSERT bRy number
+INSERT sQ6 number
+INSERT eK string
+ASSIGN wkJ 949
+PRINT
+PRINT
+INSERT g string
+INSERT he_Bm number

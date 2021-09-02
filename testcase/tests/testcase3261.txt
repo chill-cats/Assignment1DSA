@@ -1,0 +1,40 @@
+INSERT i number
+INSERT fO string
+END
+INSERT zFyNU number
+LOOKUP fO
+ASSIGN zFyNU i
+PRINT
+INSERT yU string
+INSERT s number
+INSERT t string
+INSERT mSK string
+INSERT r26 number
+INSERT o number
+PRINT
+INSERT ioPZq number
+INSERT p number
+INSERT o4zND number
+INSERT a number
+INSERT zP string
+PRINT
+INSERT suo string
+RPRINT
+LOOKUP o4zND
+INSERT qz number
+PRINT
+INSERT i1y number
+INSERT oAl8D number
+INSERT cTV number
+RPRINT
+PRINT
+RPRINT
+LOOKUP cTV
+INSERT v8G number
+INSERT zH2Ql string
+INSERT gWT string
+INSERT xn number
+INSERT iM string
+INSERT v7 string
+END
+INSERT c number

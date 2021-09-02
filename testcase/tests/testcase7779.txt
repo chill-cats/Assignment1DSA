@@ -1,0 +1,24 @@
+INSERT pU number
+PRINT
+INSERT xJoE3m number
+INSERT z number
+LOOKUP xJoE3m
+BEGIN
+ASSIGN z 1083
+INSERT j number
+INSERT nj string
+INSERT mdX number
+INSERT st string
+INSERT zdzal string
+ASSIGN z 'Y7'
+INSERT t_L number
+pw c
+INSERT c460 string
+INSERT fcFuW string
+PRINT
+INSERT qp number
+INSERT gXNY7E number
+ASSIGN qp 1035
+INSERT tDomNE string
+INSERT gt4Ko string
+INSERT l string

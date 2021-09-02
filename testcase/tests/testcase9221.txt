@@ -1,0 +1,13 @@
+INSERT zM number
+INSERT qmK string
+ASSIGN zM 515
+INSERT cUfoG number
+INSERT cpP string
+INSERT jF7 string
+INSERT kTA string
+INSERT h5U number
+PRINT
+INSERT oa28E6 number
+LOOKUP jF7
+INSERT q9ze string
+INSERT rR string

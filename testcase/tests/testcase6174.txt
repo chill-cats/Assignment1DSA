@@ -1,0 +1,39 @@
+INSERT g5l8Y string
+INSERT la string
+INSERT bB7 string
+ASSIGN g5l8Y la
+LOOKUP g5l8Y
+INSERT kuIFiD string
+INSERT ehRnkV string
+INSERT gZ8ANW number
+tOgumw gk6BKJ
+INSERT tUf2sU number
+INSERT aAB string
+ASSIGN aAB 825
+INSERT f_7A number
+BEGIN
+INSERT oee string
+RPRINT
+PRINT
+INSERT hSX99X string
+INSERT khY0 number
+ASSIGN gZ8ANW 672
+ASSIGN kuIFiD g5l8Y
+RPRINT
+INSERT aR string
+LOOKUP tUf2sU
+INSERT k3Lji string
+INSERT d string
+PRINT
+INSERT f73Y string
+INSERT xY8xO number
+INSERT kg number
+INSERT olOZKF string
+qx v05
+RPRINT
+INSERT rL39oK number
+INSERT vaf number
+PRINT
+INSERT vX number
+ASSIGN khY0 aR
+END

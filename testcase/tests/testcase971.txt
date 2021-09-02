@@ -1,0 +1,23 @@
+RPRINT
+INSERT ndt5f string
+INSERT c number
+RPRINT
+INSERT k0h9Z number
+END
+INSERT hR number
+INSERT c string
+INSERT jr string
+ASSIGN k0h9Z 'o'
+INSERT ii1fD number
+BEGIN
+INSERT beOHgt number
+END
+BEGIN
+INSERT uq number
+INSERT u number
+INSERT r1 number
+mjN3np jy
+INSERT vG71 number
+INSERT yz_ string
+INSERT kv3zG string
+INSERT aY number

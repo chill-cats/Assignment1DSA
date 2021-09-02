@@ -1,0 +1,8 @@
+PRINT
+INSERT x0dgi number
+INSERT hzt number
+PRINT
+ASSIGN x0dgi x0dgi
+RPRINT
+PRINT
+INSERT qPeS0o string

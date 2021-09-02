@@ -1,0 +1,15 @@
+INSERT m9NKP4 number
+INSERT peyB5 number
+INSERT cxp string
+INSERT vtmOx string
+INSERT f string
+ASSIGN vtmOx 182
+INSERT kVLs string
+INSERT u30 string
+INSERT vaEz string
+INSERT fA number
+PRINT
+INSERT w3 string
+INSERT wefU_ string
+END
+END

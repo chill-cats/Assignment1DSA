@@ -1,0 +1,17 @@
+INSERT v string
+ASSIGN v 705
+END
+INSERT yAT2rY number
+dfr9I kpvkKa
+INSERT oyItw string
+no2Agk l7KVT
+INSERT uFhr string
+INSERT zPWU5N number
+ASSIGN zPWU5N 'Og'
+LOOKUP v
+ASSIGN zPWU5N 1119
+INSERT at number
+INSERT dzP number
+END
+INSERT h string
+END

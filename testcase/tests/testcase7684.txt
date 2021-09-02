@@ -1,0 +1,13 @@
+INSERT bxr string
+ASSIGN bxr 187
+INSERT q string
+INSERT dTsX string
+INSERT z5Y string
+INSERT a string
+INSERT ed8 number
+PRINT
+LOOKUP a
+BEGIN
+INSERT jpS string
+INSERT h8 string
+INSERT jXFKs number

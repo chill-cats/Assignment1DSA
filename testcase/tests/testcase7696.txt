@@ -1,0 +1,40 @@
+ASSIGN wCoiu '0N'
+INSERT hEeoV4 string
+LOOKUP hEeoV4
+ASSIGN hEeoV4 200
+INSERT qW number
+INSERT jI string
+ASSIGN jI 16
+INSERT z2uC string
+INSERT e number
+INSERT z string
+INSERT j7x string
+LOOKUP e
+LOOKUP hEeoV4
+INSERT zrR62 string
+INSERT p0gv string
+INSERT k7PfZ number
+ASSIGN jI 1214
+INSERT kU number
+INSERT kAMPP number
+INSERT fj number
+PRINT
+o0 km1_
+BEGIN
+INSERT oEN string
+LOOKUP k7PfZ
+PRINT
+INSERT zfEE number
+INSERT mo number
+END
+INSERT kz9bF8 number
+INSERT rkIBR string
+dXJMPS lNRB
+INSERT pQ7jyc string
+INSERT sLLFWW number
+INSERT zTibWH string
+INSERT i7IX string
+PRINT
+LOOKUP sLLFWW
+END
+INSERT iI string

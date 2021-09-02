@@ -1,0 +1,3 @@
+INSERT us number
+ASSIGN us 'Ne'
+LOOKUP us

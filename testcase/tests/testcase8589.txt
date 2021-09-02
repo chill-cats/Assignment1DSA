@@ -1,0 +1,18 @@
+BEGIN
+INSERT y string
+PRINT
+INSERT j2_2V string
+INSERT n number
+INSERT j87KoZ number
+ASSIGN y j2_2V
+INSERT xYq_ number
+INSERT zW8U19 number
+INSERT kPZ string
+INSERT tkv string
+PRINT
+BEGIN
+INSERT nHNIRs number
+RPRINT
+INSERT eE number
+INSERT sEA number
+INSERT l string

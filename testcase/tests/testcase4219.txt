@@ -1,0 +1,27 @@
+INSERT js7uF string
+RPRINT
+INSERT nF string
+INSERT t number
+INSERT by number
+INSERT t96U string
+ASSIGN sZAdC 1039
+RPRINT
+BEGIN
+END
+PRINT
+INSERT llaQ string
+ASSIGN nF llaQ
+INSERT jhb1 number
+INSERT s string
+INSERT c13NXC number
+INSERT vGdsnv number
+INSERT lAfndO number
+INSERT w string
+RPRINT
+PRINT
+PRINT
+PRINT
+INSERT hQI61 number
+INSERT hmAxj string
+ASSIGN nF by
+INSERT uON number

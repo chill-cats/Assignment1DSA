@@ -1,0 +1,20 @@
+BEGIN
+INSERT idzBIw number
+RPRINT
+INSERT sS string
+INSERT jEk number
+INSERT jfE string
+INSERT uP number
+INSERT z number
+INSERT qcTMAh number
+INSERT cG1AlD string
+ASSIGN qcTMAh 226
+INSERT eWHq string
+INSERT ap number
+INSERT c2Ql2D string
+INSERT wPxdWP string
+ASSIGN idzBIw 383
+PRINT
+LOOKUP wPxdWP
+INSERT wJqF_ string
+BEGIN

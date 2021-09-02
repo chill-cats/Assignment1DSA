@@ -1,0 +1,34 @@
+RPRINT
+INSERT jC2U string
+END
+ASSIGN jC2U jC2U
+INSERT bH8oF8 number
+INSERT grQC17 number
+INSERT nCXQk string
+END
+LOOKUP nCXQk
+INSERT qBGU number
+LOOKUP nCXQk
+INSERT d1cPW number
+ASSIGN grQC17 qBGU
+INSERT dK number
+INSERT i4_ number
+LOOKUP nCXQk
+INSERT bDY string
+INSERT oM9GR string
+INSERT r number
+cPlhBG fLXPy
+PRINT
+RPRINT
+PRINT
+INSERT jC number
+INSERT vF99zP number
+INSERT ghF7 number
+RPRINT
+INSERT tZG string
+INSERT asI number
+q j
+END
+INSERT uABy6 string
+LOOKUP d1cPW
+BEGIN

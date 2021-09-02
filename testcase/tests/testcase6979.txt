@@ -1,0 +1,14 @@
+INSERT oXU number
+k qx
+INSERT kLKXW string
+INSERT ugj number
+LOOKUP kLKXW
+ASSIGN oXU 925
+INSERT h number
+LOOKUP kLKXW
+INSERT y number
+RPRINT
+BEGIN
+INSERT xN number
+INSERT c8f8a8 string
+INSERT y number

@@ -1,0 +1,14 @@
+INSERT iwTf9 string
+INSERT nK number
+INSERT sp_PSJ number
+END
+INSERT mNJ99 number
+INSERT y string
+INSERT mM number
+INSERT c string
+INSERT fy number
+BEGIN
+INSERT soVnMY number
+INSERT u string
+PRINT
+INSERT qe string

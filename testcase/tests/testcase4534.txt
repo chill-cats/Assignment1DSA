@@ -1,0 +1,19 @@
+END
+INSERT tHZ number
+ASSIGN tHZ tHZ
+BEGIN
+END
+INSERT tpaKa number
+btFJ tFxpi
+INSERT w string
+ASSIGN tpaKa 35
+INSERT ghoZpw string
+INSERT o number
+PRINT
+INSERT dfL string
+INSERT t3 string
+ASSIGN tpaKa 756
+INSERT hw44 number
+INSERT a string
+LOOKUP o
+ASSIGN w dfL

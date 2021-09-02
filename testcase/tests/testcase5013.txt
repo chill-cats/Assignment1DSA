@@ -1,0 +1,19 @@
+ASSIGN eo3IJ 567
+INSERT v number
+INSERT ulcvL3 number
+INSERT k number
+LOOKUP v
+LOOKUP sa
+INSERT s3r2 number
+PRINT
+INSERT q4sL string
+m wVR
+INSERT z4C number
+INSERT kbH number
+RPRINT
+BEGIN
+INSERT oDctxo number
+BEGIN
+INSERT yA number
+INSERT hv6EJS string
+INSERT x3Je6 string

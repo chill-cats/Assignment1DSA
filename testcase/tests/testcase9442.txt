@@ -1,0 +1,19 @@
+RPRINT
+PRINT
+INSERT xe string
+INSERT br4s number
+INSERT jn4orZ string
+INSERT lqKz string
+LOOKUP jn4orZ
+BEGIN
+INSERT z number
+INSERT seBW number
+BEGIN
+INSERT r string
+LOOKUP seBW
+ASSIGN br4s 'U7GM8'
+INSERT w string
+INSERT fj string
+INSERT k number
+INSERT lGfHI string
+INSERT lzaUpQ string

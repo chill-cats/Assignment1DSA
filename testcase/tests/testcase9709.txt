@@ -1,0 +1,21 @@
+INSERT qkjK number
+BEGIN
+INSERT wxGf7 string
+INSERT pHB8I string
+LOOKUP wxGf7
+PRINT
+INSERT nwwyPa string
+INSERT xWhLrT number
+INSERT sj number
+INSERT k4kUX4 string
+PRINT
+END
+RPRINT
+INSERT j string
+LOOKUP e2
+pDp g5xKy
+RPRINT
+INSERT z string
+INSERT a number
+INSERT e number
+ASSIGN wxGf7 nwwyPa

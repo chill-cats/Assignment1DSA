@@ -1,0 +1,16 @@
+INSERT rtQniq string
+LOOKUP rtQniq
+INSERT l number
+INSERT lAHup number
+INSERT wn number
+RPRINT
+INSERT tkp3 number
+INSERT gdft2O string
+INSERT g_ string
+LOOKUP lAHup
+INSERT qZG7 string
+INSERT nusF number
+END
+INSERT q6p number
+INSERT cQYDV7 string
+vUf ip

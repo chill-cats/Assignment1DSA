@@ -1,0 +1,6 @@
+INSERT pzMGLI number
+INSERT koC string
+RPRINT
+INSERT tjBu number
+INSERT fOjDP number
+END

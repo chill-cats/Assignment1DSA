@@ -1,0 +1,15 @@
+PRINT
+INSERT u string
+INSERT d string
+INSERT g number
+INSERT avExM number
+ASSIGN u d
+RPRINT
+LOOKUP u
+INSERT eCtmf6 number
+END
+INSERT hpZK1t string
+BEGIN
+PRINT
+INSERT ywP number
+PRINT

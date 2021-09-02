@@ -1,0 +1,30 @@
+INSERT d string
+INSERT ybSR string
+INSERT b number
+INSERT kQ5 string
+INSERT mZ number
+LOOKUP kQ5
+END
+INSERT acAV string
+INSERT x string
+RPRINT
+INSERT qL string
+INSERT pZdf_x string
+INSERT p number
+INSERT kMII6 string
+INSERT aNyJM number
+END
+ASSIGN ybSR 'KHZM'
+q m1Z
+INSERT s number
+INSERT dWsawn string
+END
+INSERT ti5 string
+INSERT zcNb string
+LOOKUP acAV
+INSERT lEFAP number
+LOOKUP d
+INSERT g number
+END
+INSERT fPDxrm string
+INSERT bL52IJ string

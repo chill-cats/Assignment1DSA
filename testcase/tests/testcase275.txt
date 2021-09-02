@@ -1,0 +1,18 @@
+INSERT okgSX number
+INSERT xrL number
+RPRINT
+INSERT rYF number
+BEGIN
+ASSIGN rYF 'fGD'
+PRINT
+INSERT voy5TC string
+INSERT eK string
+INSERT bR number
+INSERT fVTMD string
+INSERT q9I number
+INSERT xwpnW string
+INSERT gqA string
+PRINT
+INSERT kvWX string
+INSERT fBQBF string
+INSERT l7YP number

@@ -1,0 +1,37 @@
+INSERT m string
+INSERT jror1h string
+INSERT kgZL string
+INSERT mG54y1 string
+END
+INSERT vWvj3M string
+END
+BEGIN
+INSERT keJT number
+ASSIGN keJT 'z'
+BEGIN
+INSERT hDdq9 string
+INSERT qJQ number
+ASSIGN jror1h 384
+INSERT brOoZ string
+INSERT gk string
+INSERT rA0 string
+BEGIN
+INSERT jqZ number
+INSERT k5lI number
+INSERT u number
+INSERT cBG string
+INSERT dw string
+ixy i
+INSERT s number
+END
+END
+BEGIN
+INSERT s3Y3 number
+INSERT jW string
+BEGIN
+BEGIN
+BEGIN
+END
+INSERT nCEy number
+LOOKUP mG54y1
+PRINT

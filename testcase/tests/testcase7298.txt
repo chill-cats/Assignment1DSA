@@ -1,0 +1,38 @@
+RPRINT
+INSERT jHk string
+INSERT mQpl string
+BEGIN
+INSERT kHx0V number
+PRINT
+INSERT mhrd7 string
+LOOKUP mQpl
+INSERT u4FS number
+INSERT nhNz6 string
+PRINT
+ASSIGN kHx0V kHx0V
+INSERT zLIfH number
+LOOKUP mhrd7
+END
+END
+END
+INSERT r string
+pk0 y6jeI
+INSERT rcbl6_ string
+INSERT bBKN3e string
+ASSIGN mQpl 415
+RPRINT
+INSERT vSc string
+LOOKUP vSc
+INSERT xQk number
+INSERT xEl9Dq string
+INSERT y0FTsw string
+END
+END
+INSERT a9 number
+END
+INSERT vo number
+RPRINT
+INSERT kvKB number
+INSERT h52R string
+INSERT zE string
+INSERT iz string

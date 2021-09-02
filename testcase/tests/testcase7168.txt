@@ -1,0 +1,25 @@
+INSERT ao number
+INSERT u5 number
+ASSIGN u5 338
+INSERT i1Bfu0 string
+INSERT wGH number
+PRINT
+BEGIN
+INSERT xFwZE number
+BEGIN
+INSERT k73ddk number
+INSERT iE string
+LOOKUP wGH
+INSERT t2v string
+INSERT j number
+LOOKUP xFwZE
+RPRINT
+INSERT yWpRA string
+INSERT eY number
+INSERT i string
+INSERT z string
+INSERT aQ2 number
+sWH fw
+PRINT
+INSERT hplEMa string
+ASSIGN k73ddk i

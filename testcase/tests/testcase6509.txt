@@ -1,0 +1,37 @@
+ASSIGN y 1112
+INSERT vHnh string
+END
+INSERT cSXq number
+INSERT oaG number
+INSERT td_D number
+INSERT tAd7iD string
+INSERT rk string
+INSERT j6vx string
+INSERT j2KV string
+INSERT v_eBd5 number
+INSERT k string
+INSERT p number
+INSERT g3 string
+INSERT r_e number
+INSERT wKKI1 number
+INSERT zN string
+INSERT hel number
+INSERT tG number
+ASSIGN tAd7iD 716
+BEGIN
+INSERT ta1jO number
+p9O i
+INSERT g4K number
+PRINT
+END
+END
+INSERT zS6rA number
+LOOKUP wKKI1
+INSERT dNCL number
+END
+RPRINT
+INSERT fI number
+RPRINT
+INSERT wJ string
+INSERT s1Tlx number
+RPRINT

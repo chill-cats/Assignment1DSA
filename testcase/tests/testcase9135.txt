@@ -1,0 +1,34 @@
+tkCe h
+INSERT lerx number
+PRINT
+RPRINT
+INSERT tMN0m string
+ASSIGN lerx lerx
+INSERT sF number
+INSERT fqyI number
+INSERT qY number
+INSERT yZ7 number
+INSERT llNAn number
+INSERT mD4 string
+PRINT
+INSERT dFNXq8 string
+RPRINT
+END
+RPRINT
+INSERT cY number
+BEGIN
+INSERT nxul1 string
+LOOKUP llNAn
+INSERT fN7ID number
+INSERT eM string
+LOOKUP dFNXq8
+INSERT spQG number
+INSERT iYOak number
+RPRINT
+BEGIN
+LOOKUP tMN0m
+BEGIN
+aDx q
+INSERT bvP string
+PRINT
+INSERT c string

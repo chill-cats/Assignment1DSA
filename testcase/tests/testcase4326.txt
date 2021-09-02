@@ -1,0 +1,36 @@
+INSERT mBo string
+INSERT qiS number
+INSERT dpi2oi string
+LOOKUP dpi2oi
+END
+INSERT l_C string
+INSERT l5Ym number
+INSERT dztn4 string
+END
+INSERT xnr2nZ string
+INSERT gjX string
+INSERT p4g string
+INSERT iaLyH number
+INSERT t number
+ASSIGN xnr2nZ p4g
+yb mWKfh6
+INSERT u number
+RPRINT
+oUenJ_ t0VPmp
+INSERT kvu number
+ASSIGN t '9 '
+BEGIN
+INSERT kT4eB number
+ASSIGN kT4eB 'mgIaS'
+END
+ASSIGN iaLyH 'W1'
+LOOKUP dpi2oi
+INSERT u3 number
+INSERT jJf number
+INSERT aK0k string
+LOOKUP v
+INSERT jn number
+fG_F kywRR
+INSERT wDj6s number
+INSERT v_X string
+INSERT mh3hx string

@@ -1,0 +1,33 @@
+h7T rkYIsu
+INSERT w number
+INSERT rIiwk string
+INSERT f5oqll number
+ASSIGN f5oqll w
+INSERT zVR string
+INSERT tjJoji number
+INSERT sPvX number
+INSERT qUi number
+BEGIN
+ASSIGN qUi 'ew5V'
+INSERT a3 string
+INSERT kXa string
+liXCUu ja
+INSERT drmEd string
+LOOKUP qUi
+INSERT u7 string
+INSERT mcWo string
+INSERT y number
+END
+INSERT hw string
+INSERT mt9GZ number
+d wJb1
+INSERT i number
+INSERT xDMpvc number
+INSERT iY number
+ASSIGN mcWo i
+RPRINT
+INSERT d8mPt string
+INSERT e9M string
+ks2E eJKg
+LOOKUP u7
+INSERT s0k number

@@ -1,0 +1,18 @@
+INSERT t5Vgg6 string
+INSERT pzUS number
+ASSIGN pzUS t5Vgg6
+INSERT xlvZR string
+INSERT eYuj0 string
+INSERT n string
+INSERT jDca string
+LOOKUP eYuj0
+ASSIGN t5Vgg6 718
+INSERT khLY string
+BEGIN
+ASSIGN khLY xlvZR
+INSERT eddi number
+INSERT cJOG4A number
+ASSIGN bJa '33'
+INSERT t number
+INSERT ym2 string
+INSERT ep7PJ number

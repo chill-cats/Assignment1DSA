@@ -1,0 +1,10 @@
+BEGIN
+INSERT i4 string
+END
+INSERT sO2tN0 number
+PRINT
+INSERT t number
+ASSIGN sO2tN0 i4
+INSERT q number
+RPRINT
+INSERT a_ number

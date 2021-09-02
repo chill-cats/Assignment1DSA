@@ -1,0 +1,27 @@
+LOOKUP dkLns
+INSERT zLQo number
+INSERT h number
+PRINT
+RPRINT
+INSERT xPSD1 string
+INSERT aLNcHs number
+PRINT
+INSERT i number
+INSERT b8cdZ number
+ASSIGN i 201
+INSERT oIV string
+INSERT tA string
+dhv fxYB
+INSERT yjHPCX string
+LOOKUP i
+INSERT sYVfD number
+END
+INSERT h number
+ASSIGN sYVfD 'Y'
+PRINT
+END
+INSERT rqNFwt number
+INSERT op0Rr number
+INSERT b string
+INSERT gEtc number
+INSERT xQf string

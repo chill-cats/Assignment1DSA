@@ -1,0 +1,8 @@
+INSERT k string
+INSERT i string
+INSERT e string
+INSERT l1nbl string
+RPRINT
+END
+INSERT hdNe string
+BEGIN

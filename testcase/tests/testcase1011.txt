@@ -1,0 +1,13 @@
+INSERT u_fZxA string
+INSERT zvfT number
+ASSIGN zvfT 'rk'
+INSERT cRE0 string
+END
+PRINT
+INSERT ipq8h3 string
+INSERT m string
+RPRINT
+RPRINT
+INSERT i12c string
+INSERT crzmwb number
+INSERT em32 string

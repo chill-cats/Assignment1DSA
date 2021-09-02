@@ -1,0 +1,4 @@
+INSERT rO_p0 number
+INSERT fEfEH number
+BEGIN
+ASSIGN f 949

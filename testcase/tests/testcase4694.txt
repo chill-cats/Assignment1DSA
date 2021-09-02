@@ -1,0 +1,22 @@
+INSERT j7 string
+RPRINT
+END
+INSERT fTd1X number
+ASSIGN j7 837
+INSERT s string
+INSERT j8S65t number
+INSERT lvZv number
+INSERT ypkkS7 string
+RPRINT
+INSERT sePC_J number
+ASSIGN sePC_J 395
+RPRINT
+BEGIN
+INSERT nqsg string
+LOOKUP s
+INSERT tm5 number
+INSERT cUs number
+INSERT jYfo number
+INSERT gbBe8l number
+INSERT h string
+INSERT hxEpTX string

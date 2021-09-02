@@ -1,0 +1,19 @@
+INSERT bd0 number
+INSERT srOzkB string
+INSERT aTNx number
+RPRINT
+INSERT lH_SM number
+RPRINT
+xGR uB0R
+INSERT dh number
+END
+INSERT kS9 string
+LOOKUP bd0
+LOOKUP dh
+LOOKUP lH_SM
+INSERT hVRz string
+BEGIN
+INSERT jns0I number
+END
+INSERT wnVhZ string
+INSERT qzfiw number

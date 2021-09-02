@@ -1,0 +1,26 @@
+INSERT z string
+END
+INSERT l string
+INSERT xcZnq string
+LOOKUP xcZnq
+INSERT tBrMp string
+BEGIN
+cyR3Zf uO5Q
+INSERT m string
+LOOKUP m
+INSERT ph_ number
+INSERT l number
+INSERT uMB string
+RPRINT
+LOOKUP l
+INSERT x number
+INSERT eS number
+INSERT rf9zOR string
+INSERT sVp9t string
+ASSIGN rf9zOR 115
+INSERT kfe number
+INSERT wmO string
+INSERT tfPbv string
+PRINT
+INSERT jfsFI number
+BEGIN

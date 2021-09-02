@@ -1,0 +1,25 @@
+nvvr fSJcc8
+INSERT zVkw number
+INSERT sjY number
+INSERT jQAVo number
+INSERT q34 number
+INSERT r string
+INSERT wJ7 string
+INSERT ai string
+INSERT y string
+INSERT b number
+INSERT o0m string
+INSERT gDUT string
+INSERT n2 number
+INSERT tnlKol string
+INSERT jId6p number
+INSERT lqG number
+rR hqR
+END
+END
+LOOKUP sjY
+ASSIGN o0m 1103
+INSERT ii number
+INSERT d47 string
+RPRINT
+INSERT ckdhiK number

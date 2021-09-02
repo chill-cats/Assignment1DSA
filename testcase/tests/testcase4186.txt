@@ -1,0 +1,23 @@
+RPRINT
+INSERT ezOcwR string
+INSERT jwTj74 string
+RPRINT
+BEGIN
+INSERT g_n number
+INSERT m string
+RPRINT
+LOOKUP g_n
+INSERT ngXh number
+INSERT vgOj string
+BEGIN
+INSERT m9_w string
+INSERT mJyB string
+END
+BEGIN
+INSERT lJ number
+INSERT u4R string
+RPRINT
+INSERT mKj43 string
+INSERT tgyYhK string
+INSERT nGE string
+RPRINT

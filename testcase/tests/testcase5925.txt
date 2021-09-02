@@ -1,0 +1,6 @@
+INSERT v_Pm string
+INSERT pq string
+INSERT s01ySm string
+ASSIGN pq 547
+INSERT w number
+INSERT mrf0 number

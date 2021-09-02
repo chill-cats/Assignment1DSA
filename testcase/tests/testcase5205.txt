@@ -1,0 +1,32 @@
+INSERT xucip string
+END
+INSERT mGG string
+INSERT h number
+INSERT g3X string
+BEGIN
+BEGIN
+INSERT ms6p string
+INSERT x number
+ASSIGN g3X 795
+INSERT z number
+INSERT fSW string
+INSERT gE string
+RPRINT
+PRINT
+INSERT e3yaiV string
+INSERT beZO5 number
+INSERT eh number
+INSERT yyf0 number
+PRINT
+LOOKUP yyf0
+INSERT q number
+BEGIN
+INSERT p46m string
+ASSIGN x 'jk'
+RPRINT
+PRINT
+INSERT q number
+g yHgIW
+INSERT kLt3 number
+BEGIN
+RPRINT

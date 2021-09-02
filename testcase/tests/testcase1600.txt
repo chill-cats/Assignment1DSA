@@ -1,0 +1,30 @@
+INSERT jlwqzS string
+INSERT oxZBtD number
+INSERT d number
+RPRINT
+INSERT qK number
+INSERT a number
+ASSIGN d 579
+END
+PRINT
+INSERT dudb number
+INSERT gbj number
+INSERT k string
+INSERT acvGge number
+INSERT bc string
+INSERT o number
+INSERT sI8A number
+INSERT fy string
+INSERT c string
+BEGIN
+INSERT td string
+BEGIN
+ASSIGN fy '94'
+INSERT yGSm number
+BEGIN
+BEGIN
+LOOKUP a
+INSERT zqA string
+INSERT e string
+INSERT z2 number
+INSERT r5Imp string

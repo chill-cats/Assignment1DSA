@@ -1,0 +1,25 @@
+BEGIN
+INSERT kuO number
+INSERT vcd string
+INSERT eM string
+INSERT r number
+BEGIN
+INSERT sFTx string
+ASSIGN sFTx 622
+INSERT xj string
+LOOKUP r
+RPRINT
+BEGIN
+INSERT ydR5G9 number
+LOOKUP sFTx
+PRINT
+END
+END
+INSERT xLm number
+INSERT ggI2 string
+INSERT rGhpyN string
+INSERT lBv string
+INSERT k1QTaK number
+INSERT sIh number
+INSERT rk string
+PRINT

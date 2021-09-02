@@ -1,0 +1,32 @@
+INSERT kUn4Kf string
+INSERT ewEPvr number
+INSERT caeG string
+INSERT sHjAV number
+END
+INSERT qoY number
+ASSIGN ewEPvr 'nVB'
+END
+INSERT x0GXL number
+PRINT
+ASSIGN qoY 633
+INSERT bNo number
+INSERT w string
+LOOKUP kUn4Kf
+BEGIN
+INSERT boB8sw string
+INSERT vkQOX number
+BEGIN
+INSERT oY3wO string
+RPRINT
+INSERT kZZE string
+END
+END
+INSERT o number
+ASSIGN o 868
+INSERT z568 number
+PRINT
+ASSIGN vkQOX 79
+INSERT gxTmA string
+PRINT
+INSERT aaI9N string
+INSERT dUzYt string

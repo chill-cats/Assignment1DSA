@@ -1,0 +1,27 @@
+kNSWY gy
+i6_MI zq
+RPRINT
+INSERT pQkktD number
+END
+INSERT n72F number
+INSERT aIqgtN string
+INSERT u1x1oc string
+END
+INSERT b string
+LOOKUP aIqgtN
+ASSIGN b 260
+INSERT wYP4 string
+r y_
+INSERT yanhaJ string
+INSERT uBb_ number
+BEGIN
+LOOKUP pF_
+INSERT fb7 number
+INSERT elz number
+INSERT vphzI number
+ASSIGN u1x1oc vphzI
+BEGIN
+INSERT q9 string
+RPRINT
+INSERT g6ooEf string
+INSERT n2Iz number

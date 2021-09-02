@@ -1,0 +1,31 @@
+INSERT p string
+RPRINT
+INSERT qmFAF number
+RPRINT
+ASSIGN qmFAF 1124
+INSERT k string
+INSERT s4V string
+INSERT a number
+INSERT nIS number
+INSERT k string
+INSERT eC string
+INSERT m4fQ string
+INSERT dr9oQ number
+INSERT qo74o number
+INSERT oo4 number
+INSERT i string
+INSERT rNkKr number
+ASSIGN s4V i
+INSERT brolY string
+INSERT iq string
+INSERT aGD number
+INSERT k_01L number
+RPRINT
+INSERT yL string
+INSERT vMSj_ number
+INSERT izy0qe string
+LOOKUP a
+dhve wE
+INSERT u8 string
+PRINT
+INSERT vd string

@@ -1,0 +1,23 @@
+INSERT h9P number
+ASSIGN h9P h9P
+INSERT wr number
+BEGIN
+BEGIN
+INSERT smK number
+INSERT ff4om3 string
+INSERT hoCnUy string
+ASSIGN ff4om3 'IA'
+ASSIGN h9P 707
+ASSIGN smK 1145
+INSERT w string
+END
+INSERT iyc240 number
+BEGIN
+INSERT uHz number
+INSERT q8 number
+INSERT sZK32 number
+INSERT dg number
+INSERT ofh string
+INSERT zbMK string
+INSERT ak1jy1 number
+INSERT qYB83 string

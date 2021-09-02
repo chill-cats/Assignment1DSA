@@ -1,0 +1,16 @@
+INSERT lh number
+INSERT iNMugl string
+INSERT n string
+INSERT rhVIlW string
+INSERT b_ number
+INSERT njh2B7 string
+ASSIGN iNMugl 411
+INSERT sRnSA number
+INSERT mKpCvt number
+INSERT vohu number
+BEGIN
+INSERT uC number
+INSERT mt number
+PRINT
+INSERT to string
+LOOKUP n

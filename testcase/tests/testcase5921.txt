@@ -1,0 +1,33 @@
+BEGIN
+PRINT
+INSERT vFW number
+ASSIGN vFW 288
+PRINT
+PRINT
+PRINT
+INSERT kM number
+END
+LOOKUP kM
+INSERT nkpJqa string
+INSERT gx number
+INSERT i string
+END
+ASSIGN gx i
+LOOKUP kM
+INSERT y string
+INSERT i string
+END
+INSERT kX number
+INSERT vZ number
+LOOKUP i
+LOOKUP kM
+INSERT kh number
+INSERT z8T number
+z ld
+ASSIGN y 2
+INSERT y string
+INSERT mNvD number
+END
+ASSIGN vFW y
+INSERT tE number
+BEGIN

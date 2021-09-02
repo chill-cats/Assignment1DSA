@@ -1,0 +1,15 @@
+PRINT
+INSERT tYP string
+BEGIN
+ASSIGN tYP tYP
+INSERT odu number
+INSERT lUpgV3 string
+INSERT wL number
+INSERT hua number
+INSERT irnpWQ number
+b7Sbr mxYmL
+d6F sMk0K
+INSERT fKEI6S string
+LOOKUP lUpgV3
+END
+INSERT bnowkF number

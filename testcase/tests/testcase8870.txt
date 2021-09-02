@@ -1,0 +1,21 @@
+INSERT y string
+INSERT s7IH number
+INSERT eM string
+BEGIN
+BEGIN
+LOOKUP y
+ASSIGN y 349
+END
+LOOKUP s7IH
+RPRINT
+END
+INSERT xx_FA number
+INSERT mJio string
+INSERT gX9 number
+INSERT w3BCyE string
+INSERT m_SL string
+INSERT uPUF7 number
+ASSIGN m_SL 'jk'
+INSERT oo string
+INSERT eY number
+eX s

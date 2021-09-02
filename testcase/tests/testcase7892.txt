@@ -1,0 +1,12 @@
+PRINT
+INSERT eqOGWZ number
+INSERT g string
+INSERT klhIew string
+INSERT qSam number
+RPRINT
+INSERT b string
+INSERT qe number
+PRINT
+INSERT tYukE0 string
+RPRINT
+ASSIGN qe 359

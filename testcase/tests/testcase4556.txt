@@ -1,0 +1,38 @@
+ufUCg lw0
+END
+PRINT
+INSERT qKct number
+PRINT
+LOOKUP qKct
+BEGIN
+INSERT xim0xK number
+END
+BEGIN
+ASSIGN xim0xK qKct
+INSERT bu string
+ASSIGN qKct '8x3h5'
+PRINT
+RPRINT
+PRINT
+f xvsz
+INSERT s number
+END
+INSERT mq0k number
+INSERT fOqn number
+INSERT u7 string
+ASSIGN mq0k qKct
+INSERT iNPY4p number
+INSERT rPinp0 number
+INSERT uR2cS string
+PRINT
+INSERT t3Tx string
+LOOKUP t3Tx
+INSERT ai number
+RPRINT
+INSERT aj5w number
+INSERT j3N string
+INSERT vB9 number
+INSERT buEFG number
+RPRINT
+qKIH y
+BEGIN

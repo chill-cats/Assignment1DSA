@@ -1,0 +1,38 @@
+ASSIGN t 'Batb'
+h7gP v9aruc
+INSERT gnRk string
+ASSIGN gnRk gnRk
+INSERT aS number
+vFa w
+ASSIGN aS 'cJxh'
+INSERT v09 number
+INSERT ogu string
+INSERT zhY number
+ASSIGN ogu ogu
+INSERT fH string
+RPRINT
+BEGIN
+BEGIN
+LOOKUP zhY
+INSERT o5I number
+INSERT z1aVX string
+INSERT lOH number
+INSERT qRXt number
+ndZgVd k
+INSERT qD number
+RPRINT
+LOOKUP zhY
+INSERT wQL string
+INSERT s4 string
+INSERT x9T number
+INSERT qExm number
+LOOKUP fH
+INSERT qucnEH string
+INSERT lSap number
+xKFX mPi
+INSERT fp string
+INSERT mgGM3 string
+INSERT oq number
+RPRINT
+INSERT y5 number
+ASSIGN qExm '3F9W'

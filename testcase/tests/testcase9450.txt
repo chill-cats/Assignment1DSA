@@ -1,0 +1,6 @@
+l eiweAH
+INSERT iiaKq string
+INSERT eyap0j number
+PRINT
+ASSIGN eyap0j 'iT7'
+PRINT

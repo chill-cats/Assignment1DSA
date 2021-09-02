@@ -1,0 +1,35 @@
+ASSIGN wZQF4 485
+kR6E2 x
+INSERT dCzpRM number
+INSERT r number
+INSERT vKN string
+INSERT zJY number
+qsTp yu_
+INSERT v6y number
+INSERT pDF string
+PRINT
+INSERT mfH number
+INSERT c0p9E string
+LOOKUP dCzpRM
+INSERT f string
+PRINT
+END
+ASSIGN v6y 95
+INSERT jZ3sD number
+INSERT xO string
+INSERT uTCrg string
+END
+INSERT x number
+INSERT zBgt number
+LOOKUP r
+INSERT co string
+INSERT u number
+LOOKUP zJY
+INSERT j6J number
+END
+INSERT vt6 string
+INSERT aOul string
+ASSIGN zJY v6y
+INSERT d string
+INSERT li string
+INSERT h9QWl9 number

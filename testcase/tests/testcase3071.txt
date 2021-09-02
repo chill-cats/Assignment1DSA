@@ -1,0 +1,27 @@
+INSERT l1 number
+PRINT
+ASSIGN l1 l1
+INSERT uz number
+END
+RPRINT
+INSERT bq9tGh number
+PRINT
+INSERT dWsfw string
+INSERT blU string
+RPRINT
+INSERT p6_uss number
+INSERT lluanz string
+PRINT
+INSERT udteJ7 number
+LOOKUP lluanz
+INSERT c number
+INSERT r string
+ASSIGN lluanz 70
+INSERT hI string
+INSERT tsOaR number
+END
+BEGIN
+INSERT gv number
+RPRINT
+INSERT o string
+INSERT mczp number

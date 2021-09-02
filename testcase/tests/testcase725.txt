@@ -1,0 +1,28 @@
+INSERT xPO7 number
+INSERT l6U521 number
+INSERT zJXEE number
+INSERT u7 number
+END
+INSERT tB number
+INSERT kRBgl string
+ASSIGN l6U521 239
+PRINT
+INSERT a string
+INSERT lbHW string
+INSERT oHI string
+INSERT fHqD number
+INSERT z string
+PRINT
+ASSIGN a 978
+PRINT
+INSERT bm string
+INSERT kj number
+BEGIN
+END
+INSERT hS number
+INSERT mL2 string
+rmUFR8 evfg6y
+INSERT iFeq string
+INSERT x number
+INSERT bX string
+INSERT hC string

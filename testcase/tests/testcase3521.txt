@@ -1,0 +1,3 @@
+INSERT sptud number
+PRINT
+INSERT s718Uq number

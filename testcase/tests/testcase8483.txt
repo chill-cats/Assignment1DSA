@@ -1,0 +1,29 @@
+INSERT x70R number
+INSERT q string
+INSERT iOqv string
+INSERT lV string
+INSERT tCF0 number
+INSERT e number
+ASSIGN x70R lV
+INSERT wjefiD number
+PRINT
+RPRINT
+INSERT gMEerK number
+INSERT z5 string
+INSERT tg number
+END
+INSERT b3Zkz string
+INSERT wYh number
+LOOKUP lV
+RPRINT
+INSERT vGAD number
+INSERT mbdAi number
+RPRINT
+ASSIGN z5 412
+INSERT cH5D4c string
+INSERT hXWBbj number
+INSERT h6dn string
+INSERT h1e string
+INSERT k number
+RPRINT
+INSERT anip number

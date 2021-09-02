@@ -1,0 +1,17 @@
+INSERT l52 number
+LOOKUP l52
+RPRINT
+BEGIN
+INSERT daW number
+INSERT aRQgw number
+RPRINT
+INSERT guTz number
+INSERT hj21C number
+END
+INSERT vE9jX string
+INSERT k string
+INSERT ynM string
+LOOKUP ynM
+RPRINT
+INSERT qCErs0 string
+INSERT mfRN number

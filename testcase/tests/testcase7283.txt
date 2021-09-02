@@ -1,0 +1,4 @@
+ppd5c ecyHJ
+INSERT tmbo8 string
+INSERT euZMQ string
+ASSIGN euZMQ tmbo8

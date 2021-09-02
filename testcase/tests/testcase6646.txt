@@ -1,0 +1,13 @@
+INSERT kJjr0W number
+BEGIN
+INSERT keW string
+INSERT rwhPm string
+INSERT uNq7Y string
+PRINT
+INSERT nwT string
+INSERT gTtqmp number
+BEGIN
+LOOKUP kJjr0W
+LOOKUP rwhPm
+END
+INSERT lG7 string

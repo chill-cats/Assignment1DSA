@@ -1,0 +1,17 @@
+q9iK k5_
+INSERT w string
+INSERT pXDMaS number
+INSERT nHYI string
+BEGIN
+INSERT vAkJ number
+INSERT pQFuQv number
+INSERT yZ number
+PRINT
+INSERT g number
+ASSIGN g w
+BEGIN
+LOOKUP yZ
+INSERT uZ string
+INSERT tHz string
+INSERT o string
+INSERT y4 string

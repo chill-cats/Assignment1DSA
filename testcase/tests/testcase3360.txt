@@ -1,0 +1,7 @@
+INSERT zd string
+INSERT tvsZ number
+INSERT hsieK number
+PRINT
+INSERT evD number
+LOOKUP hsieK
+INSERT qu string

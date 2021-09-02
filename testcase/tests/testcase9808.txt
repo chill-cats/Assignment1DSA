@@ -1,0 +1,19 @@
+RPRINT
+LOOKUP aXq
+INSERT tc1YAC string
+RPRINT
+INSERT e1 string
+INSERT oT number
+INSERT y22Zn2 string
+INSERT yXm string
+INSERT ruuweO number
+INSERT jM number
+RPRINT
+z trd2
+INSERT gL string
+RPRINT
+INSERT rE string
+PRINT
+INSERT orApdK string
+INSERT uy1j string
+INSERT gr string

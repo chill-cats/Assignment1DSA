@@ -1,0 +1,25 @@
+LOOKUP feyW
+INSERT si9Mq string
+INSERT hO89y number
+RPRINT
+INSERT gtQDP3 string
+END
+INSERT vLN5 string
+INSERT lqY string
+INSERT kUdRF number
+hHLra jD
+qKR g
+d bMeZ8
+LOOKUP si9Mq
+ASSIGN si9Mq 'EyN'
+BEGIN
+RPRINT
+INSERT j string
+END
+BEGIN
+INSERT l number
+ASSIGN lqY si9Mq
+END
+INSERT dXX6 number
+ASSIGN hO89y 'IbjHT'
+INSERT rJu number

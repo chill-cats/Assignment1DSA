@@ -1,0 +1,28 @@
+INSERT sgVxvc string
+LOOKUP sgVxvc
+INSERT bX string
+INSERT yj number
+INSERT st string
+INSERT jlGT string
+INSERT i number
+INSERT n7x string
+INSERT px4f string
+LOOKUP bX
+INSERT iTm number
+INSERT jhPva0 number
+INSERT q number
+END
+LOOKUP yj
+INSERT t2If number
+PRINT
+INSERT ga string
+INSERT u3 string
+xdkZib n
+ASSIGN t2If i
+BEGIN
+PRINT
+INSERT ikQqaS string
+e kqfCh5
+INSERT c string
+INSERT d number
+ASSIGN ga ikQqaS

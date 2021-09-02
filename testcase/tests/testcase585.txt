@@ -1,0 +1,4 @@
+INSERT qKi string
+INSERT e3u5 number
+ASSIGN e3u5 'F3'
+INSERT bFJ4 number

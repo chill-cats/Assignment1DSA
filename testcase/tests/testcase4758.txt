@@ -1,0 +1,7 @@
+BEGIN
+INSERT o6p number
+END
+PRINT
+INSERT h_s string
+BEGIN
+INSERT ce number

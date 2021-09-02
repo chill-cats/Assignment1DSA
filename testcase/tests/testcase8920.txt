@@ -1,0 +1,14 @@
+x nSop_
+LOOKUP p3e3J
+INSERT viAK number
+INSERT xUR string
+INSERT vl6D string
+INSERT amfzp0 string
+PRINT
+INSERT lD number
+ASSIGN amfzp0 amfzp0
+BEGIN
+INSERT yw4 number
+INSERT i string
+PRINT
+PRINT

@@ -1,0 +1,14 @@
+INSERT yP string
+END
+INSERT xoJ string
+INSERT agNmAI string
+PRINT
+LOOKUP xoJ
+INSERT yFB4 number
+INSERT r1C8FM number
+INSERT oTCdd string
+LOOKUP yFB4
+RPRINT
+INSERT k string
+END
+ASSIGN agNmAI yP

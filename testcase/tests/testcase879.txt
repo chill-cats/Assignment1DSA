@@ -1,0 +1,38 @@
+INSERT wgQg string
+RPRINT
+LOOKUP wgQg
+RPRINT
+INSERT u6v6fU number
+INSERT oHYK number
+INSERT dNg string
+ASSIGN oHYK '7al'
+BEGIN
+PRINT
+INSERT t string
+INSERT r3 string
+INSERT zT string
+RPRINT
+RPRINT
+END
+BEGIN
+LOOKUP d
+INSERT nONNl number
+INSERT fGt string
+INSERT b number
+BEGIN
+INSERT p string
+INSERT rNH number
+INSERT qc number
+END
+INSERT zKcS string
+BEGIN
+END
+INSERT pV string
+INSERT aJ string
+INSERT h_N number
+INSERT dj string
+RPRINT
+INSERT lxqyO number
+INSERT pE3CTx number
+ASSIGN t b
+INSERT amVe string

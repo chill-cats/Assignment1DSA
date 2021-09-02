@@ -1,0 +1,20 @@
+ASSIGN sdwK 'k J'
+INSERT iySK string
+INSERT u705 number
+INSERT k15 string
+LOOKUP u705
+INSERT a51 string
+INSERT it number
+PRINT
+PRINT
+INSERT v number
+INSERT zMIJAu number
+INSERT ep string
+PRINT
+INSERT cf string
+INSERT e6rDS number
+END
+LOOKUP yArZiC
+INSERT j string
+INSERT fN string
+INSERT n number

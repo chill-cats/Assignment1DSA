@@ -1,0 +1,15 @@
+INSERT aDvU59 string
+INSERT wd string
+INSERT yzg number
+INSERT tt number
+INSERT gTHYQ number
+RPRINT
+BEGIN
+RPRINT
+RPRINT
+INSERT d string
+ASSIGN aDvU59 '39qR'
+ASSIGN d 549
+INSERT f string
+INSERT dUQY string
+BEGIN

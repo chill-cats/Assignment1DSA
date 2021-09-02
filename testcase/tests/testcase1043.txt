@@ -1,0 +1,25 @@
+INSERT eafR91 number
+INSERT q0yxF number
+INSERT c4 number
+INSERT zc string
+INSERT wMDJk number
+INSERT dZc5 number
+PRINT
+INSERT gahG1 string
+INSERT c number
+INSERT dPO string
+ASSIGN wMDJk 265
+ASSIGN wMDJk 'I8'
+PRINT
+LOOKUP q0yxF
+PRINT
+INSERT lyg string
+INSERT t_qm number
+INSERT g9 string
+INSERT wXnN number
+INSERT cYAL string
+END
+RPRINT
+END
+INSERT w number
+LOOKUP l5vUfn

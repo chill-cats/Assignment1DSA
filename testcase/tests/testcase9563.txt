@@ -1,0 +1,34 @@
+INSERT nC6zh9 number
+INSERT m string
+INSERT b0Y2 number
+PRINT
+ASSIGN b0Y2 'O ib'
+LOOKUP nC6zh9
+INSERT y number
+INSERT sRCK string
+INSERT k0BWf string
+INSERT zFQd number
+INSERT ttCmz string
+RPRINT
+INSERT bpm96 number
+INSERT f number
+INSERT hdz string
+LOOKUP m
+INSERT pCa string
+INSERT v82 number
+ASSIGN bpm96 nC6zh9
+INSERT q1gjZ1 number
+BEGIN
+INSERT d0_ string
+INSERT rb string
+END
+INSERT o number
+INSERT z string
+INSERT vSPe4p number
+PRINT
+END
+INSERT c7SX number
+INSERT d string
+INSERT k2 number
+INSERT zWGV number
+INSERT b string

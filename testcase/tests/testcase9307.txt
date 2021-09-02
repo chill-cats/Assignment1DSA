@@ -1,0 +1,22 @@
+INSERT k string
+INSERT uIz string
+INSERT x7 number
+PRINT
+PRINT
+INSERT cZ string
+INSERT orS number
+INSERT cx1 number
+BEGIN
+INSERT hicAh1 number
+LOOKUP hicAh1
+END
+INSERT si string
+INSERT o string
+INSERT g_ number
+INSERT xzzW string
+INSERT uz number
+PRINT
+ASSIGN si 804
+INSERT c6pb string
+END
+exNAIH xpghze

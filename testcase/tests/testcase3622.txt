@@ -1,0 +1,8 @@
+INSERT zphYV string
+PRINT
+INSERT wo number
+INSERT cQq string
+PRINT
+INSERT w4s string
+INSERT gqqyN string
+BEGIN

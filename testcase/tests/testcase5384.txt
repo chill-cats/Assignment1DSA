@@ -1,0 +1,38 @@
+INSERT yE0gv number
+INSERT zYS number
+RPRINT
+INSERT fw1eV number
+INSERT p1 string
+INSERT h3 string
+INSERT vP3T8 string
+RPRINT
+BEGIN
+INSERT sY6s6 string
+INSERT q_ string
+LOOKUP sY6s6
+INSERT oMj string
+END
+RPRINT
+dA1z6J v_1cFR
+LOOKUP q_
+INSERT ksc string
+INSERT yl string
+INSERT hg string
+END
+INSERT hNw number
+INSERT a5nGC number
+INSERT umkOC string
+INSERT rrVlE string
+INSERT rV string
+LOOKUP a5nGC
+PRINT
+END
+INSERT xHub5 number
+INSERT mC4 number
+INSERT nonuJ1 number
+RPRINT
+INSERT l0nEC number
+INSERT r number
+INSERT fo number
+INSERT yG number
+RPRINT

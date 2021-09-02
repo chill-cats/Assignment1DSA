@@ -1,0 +1,8 @@
+RPRINT
+INSERT wnMy number
+INSERT chB_ string
+lFgCDV ieCasP
+INSERT jv6_q string
+LOOKUP wnMy
+INSERT l7 number
+BEGIN

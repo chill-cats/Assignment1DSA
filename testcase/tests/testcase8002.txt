@@ -1,0 +1,34 @@
+INSERT yb5o string
+INSERT n string
+INSERT kUbe string
+RPRINT
+RPRINT
+INSERT lw number
+INSERT rFjUw string
+INSERT lVbI number
+LOOKUP kUbe
+INSERT uP string
+INSERT tZLvL string
+RPRINT
+INSERT m_y number
+ASSIGN kUbe lVbI
+RPRINT
+PRINT
+INSERT t number
+INSERT wdusjl string
+RPRINT
+INSERT nI5 number
+RPRINT
+INSERT a string
+PRINT
+r75K a5
+hUWQ4j no44Cf
+INSERT xWH number
+LOOKUP rFjUw
+INSERT z7rmE number
+INSERT yhUhU5 string
+INSERT kI string
+INSERT xAM string
+BEGIN
+RPRINT
+ASSIGN xWH a

@@ -1,0 +1,35 @@
+INSERT g string
+INSERT sv string
+BEGIN
+INSERT b number
+INSERT i string
+PRINT
+INSERT f number
+PRINT
+INSERT mnB0 string
+INSERT pThNQ string
+INSERT dH number
+ASSIGN dH b
+INSERT jt number
+INSERT mA5jag number
+INSERT qs number
+INSERT p string
+ASSIGN qs i
+INSERT jp2 string
+INSERT wC number
+LOOKUP wC
+INSERT kG7P string
+INSERT z9jF string
+INSERT w3Q number
+INSERT e number
+ASSIGN i mA5jag
+INSERT oGYQ number
+ASSIGN mA5jag oGYQ
+INSERT uXKfEu number
+INSERT fRI number
+INSERT lWmRP number
+LOOKUP sv
+END
+INSERT fcT string
+INSERT dCv string
+END

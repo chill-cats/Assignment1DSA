@@ -1,0 +1,22 @@
+ASSIGN e 679
+INSERT do_J string
+INSERT ksC number
+RPRINT
+INSERT gl3 string
+INSERT r2cC number
+INSERT pv string
+INSERT n number
+INSERT eN4g string
+BEGIN
+INSERT ki9W string
+PRINT
+INSERT bv string
+END
+END
+ASSIGN ki9W r2cC
+INSERT sR3q number
+INSERT bphc2 number
+INSERT g string
+BEGIN
+INSERT p number
+INSERT dy string

@@ -1,0 +1,3 @@
+INSERT a string
+RPRINT
+INSERT gw string

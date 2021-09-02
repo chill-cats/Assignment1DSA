@@ -1,0 +1,7 @@
+INSERT isFsT number
+PRINT
+INSERT bnf number
+ASSIGN bnf '2T5Y4'
+INSERT n string
+RPRINT
+BEGIN

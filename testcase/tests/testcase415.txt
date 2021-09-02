@@ -1,0 +1,29 @@
+iGtk spXR
+INSERT s string
+INSERT dM string
+INSERT i0ak number
+INSERT yePkRU number
+RPRINT
+INSERT luzS string
+INSERT fnUh string
+ASSIGN luzS 563
+INSERT u24o0v number
+INSERT xy7 number
+END
+INSERT jfGWPb string
+END
+INSERT jAXezQ number
+INSERT vT string
+BEGIN
+p dv
+INSERT fIFWeK number
+INSERT xCVjY4 string
+INSERT omhv string
+RPRINT
+INSERT gLB number
+RPRINT
+INSERT mrXccn number
+RPRINT
+INSERT qHG string
+ASSIGN s yePkRU
+ASSIGN fIFWeK mrXccn

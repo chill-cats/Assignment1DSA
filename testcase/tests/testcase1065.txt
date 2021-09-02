@@ -1,0 +1,19 @@
+INSERT h1 number
+INSERT b5MX number
+INSERT o string
+INSERT aPX number
+RPRINT
+INSERT mU number
+END
+INSERT ezSQ number
+END
+LOOKUP b5MX
+ASSIGN aPX 743
+LOOKUP ezSQ
+INSERT oBZU number
+RPRINT
+INSERT pzFT number
+bdea0j l_V_DY
+LOOKUP h1
+INSERT pkDgQa number
+INSERT bZk1mj number

@@ -1,0 +1,25 @@
+END
+INSERT pnR number
+LOOKUP pnR
+INSERT iYf number
+LOOKUP iYf
+INSERT zD7 number
+INSERT p number
+END
+INSERT dVz number
+INSERT cl8bC string
+END
+INSERT f8fQQm string
+INSERT d2zN2 number
+INSERT mJ number
+INSERT hQmIn_ string
+gHX jtWC
+INSERT t string
+INSERT wrJpE string
+RPRINT
+LOOKUP f8fQQm
+INSERT rLa number
+INSERT azG string
+INSERT etE9 string
+INSERT gAe9U number
+PRINT

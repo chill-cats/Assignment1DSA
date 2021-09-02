@@ -1,0 +1,30 @@
+INSERT sI string
+INSERT a number
+INSERT a4m9pY string
+END
+INSERT gV string
+LOOKUP sI
+INSERT fvN_BM number
+ASSIGN a a
+INSERT yq number
+INSERT kD string
+INSERT lrv5r string
+eT cLD2
+END
+INSERT xbCnuX number
+INSERT lQ number
+PRINT
+INSERT qYNt number
+ASSIGN yq 'NUOxC'
+INSERT lvA number
+RPRINT
+LOOKUP lQ
+PRINT
+INSERT uh2vl7 number
+INSERT ewS string
+z nU6I
+INSERT crj string
+INSERT bQG5d number
+INSERT nM number
+INSERT bM5A number
+PRINT

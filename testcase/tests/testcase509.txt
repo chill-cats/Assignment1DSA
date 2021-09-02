@@ -1,0 +1,26 @@
+PRINT
+d1C d846
+END
+INSERT uElxu number
+END
+INSERT iojDL string
+INSERT qJwh number
+INSERT tYf string
+RPRINT
+ASSIGN tYf tYf
+END
+INSERT q string
+INSERT n93 number
+RPRINT
+INSERT vsq number
+INSERT i number
+RPRINT
+BEGIN
+INSERT d string
+BEGIN
+INSERT gjsDvG number
+INSERT ab string
+LOOKUP gjsDvG
+INSERT u0erS string
+INSERT g number
+RPRINT

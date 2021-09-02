@@ -1,0 +1,17 @@
+PRINT
+INSERT c3ClF2 string
+INSERT j6LKll number
+PRINT
+INSERT tu string
+INSERT cH6 string
+PRINT
+INSERT b string
+INSERT zV string
+INSERT aQb number
+BEGIN
+INSERT wYxu string
+BEGIN
+PRINT
+LOOKUP b
+INSERT vMDD number
+LOOKUP c3ClF2

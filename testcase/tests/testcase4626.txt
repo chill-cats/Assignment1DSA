@@ -1,0 +1,18 @@
+RPRINT
+INSERT e78TV string
+ASSIGN e78TV 'ZhPkS'
+INSERT s5 string
+INSERT fF0 number
+INSERT c0 number
+INSERT gZ4r number
+RPRINT
+PRINT
+BEGIN
+LOOKUP e78TV
+INSERT w_3 string
+LOOKUP s5
+yM bsk
+h rQ
+ASSIGN w_3 734
+INSERT upuICn string
+INSERT d number

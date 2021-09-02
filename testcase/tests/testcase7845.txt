@@ -1,0 +1,27 @@
+t w_gnOY
+INSERT zra number
+ASSIGN zra 769
+INSERT aRdAE number
+INSERT y7b string
+INSERT zMAyCx number
+INSERT szvBxt string
+INSERT k string
+INSERT dTMJTl string
+INSERT f5KO number
+INSERT jQT string
+INSERT uQmj string
+INSERT raab number
+END
+INSERT z number
+INSERT q number
+d kBWIz
+INSERT y string
+sk cC
+LOOKUP zMAyCx
+LOOKUP y7b
+LOOKUP dTMJTl
+INSERT c number
+INSERT p4 string
+RPRINT
+BEGIN
+INSERT bXHz number

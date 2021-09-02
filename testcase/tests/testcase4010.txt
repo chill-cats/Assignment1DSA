@@ -1,0 +1,30 @@
+PRINT
+y w
+LOOKUP o1
+INSERT zPGK3g number
+LOOKUP zPGK3g
+INSERT pGM29T number
+INSERT s94 number
+INSERT qdg number
+mAg b
+INSERT uwhEc string
+BEGIN
+INSERT z number
+INSERT p0aZ string
+ASSIGN p0aZ 928
+INSERT mx number
+INSERT y number
+ASSIGN qdg pGM29T
+INSERT o number
+ASSIGN pGM29T z
+INSERT mpR1FH number
+INSERT e_1pi string
+END
+PRINT
+INSERT c string
+INSERT jm8zwI string
+INSERT b string
+ASSIGN p0aZ 'Y'
+END
+PRINT
+INSERT x_1Le9 number

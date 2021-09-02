@@ -1,0 +1,30 @@
+ASSIGN nEZ 786
+LOOKUP e
+LOOKUP kV
+INSERT l number
+INSERT wgBO number
+LOOKUP wgBO
+BEGIN
+INSERT w number
+INSERT x6mBMa number
+RPRINT
+INSERT eznS string
+INSERT yFR_wo string
+ASSIGN l 'm3r'
+INSERT tNkl string
+RPRINT
+INSERT dHsV5 number
+ASSIGN x6mBMa 538
+INSERT xF string
+INSERT dKo1m string
+END
+END
+INSERT tN string
+INSERT qCL number
+RPRINT
+LOOKUP xF
+INSERT xJxL number
+INSERT pyWI number
+INSERT tVreB string
+INSERT zHR0p string
+INSERT bJ string

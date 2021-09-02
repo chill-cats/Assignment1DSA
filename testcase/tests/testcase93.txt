@@ -1,0 +1,40 @@
+INSERT wA8 number
+INSERT x number
+INSERT tAej number
+END
+INSERT q4A number
+INSERT j0B4nq number
+INSERT dwd number
+INSERT f string
+ASSIGN q4A f
+INSERT n7j number
+INSERT x number
+INSERT xvhofE number
+INSERT lVf9_h number
+INSERT sBc7C number
+INSERT lnU number
+INSERT d0AUn number
+LOOKUP x
+RPRINT
+PRINT
+INSERT u number
+ASSIGN dwd 493
+LOOKUP u
+INSERT fsUM string
+LOOKUP d0AUn
+p8L zRnbBz
+ASSIGN q4A wA8
+INSERT cw number
+RPRINT
+INSERT jHpi number
+LOOKUP fsUM
+INSERT c2w8N string
+INSERT v string
+INSERT z number
+INSERT tHi_ string
+PRINT
+PRINT
+INSERT v6gqQT string
+INSERT nA6Q number
+INSERT ml number
+INSERT dMg number

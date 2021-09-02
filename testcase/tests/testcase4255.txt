@@ -1,0 +1,20 @@
+ASSIGN iCr 'prK1'
+INSERT uhd number
+END
+INSERT k number
+INSERT s string
+INSERT e string
+LOOKUP uhd
+INSERT gwyB string
+END
+INSERT yl3XCD string
+INSERT aYZwO number
+INSERT y9A number
+INSERT t string
+RPRINT
+INSERT k string
+INSERT mBAET string
+INSERT k9pGj string
+INSERT bE number
+INSERT jnCh string
+INSERT bpXR9 string

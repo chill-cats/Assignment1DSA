@@ -1,0 +1,18 @@
+INSERT sKNH string
+ASSIGN sKNH 1217
+ASSIGN sKNH '3Br'
+INSERT nz6dXR number
+yQtL gnla
+INSERT dKEx1z number
+INSERT z7UzWr string
+INSERT pM0R string
+INSERT d string
+RPRINT
+INSERT n3jt string
+INSERT jau string
+BEGIN
+ASSIGN z7UzWr 1206
+INSERT v string
+INSERT etJmpd number
+INSERT k number
+RPRINT

@@ -1,0 +1,24 @@
+BEGIN
+INSERT stp string
+INSERT f_Joh string
+BEGIN
+LOOKUP stp
+INSERT u number
+INSERT y number
+BEGIN
+INSERT qozK number
+INSERT xBhcey string
+LOOKUP f_Joh
+INSERT c string
+INSERT pl4eV string
+INSERT dprs number
+INSERT da6Hg string
+INSERT oD2 string
+INSERT g number
+INSERT oh9J number
+LOOKUP pl4eV
+INSERT g number
+INSERT vfEBdX string
+INSERT kw1 string
+INSERT uamr7m string
+a69 v7

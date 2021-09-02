@@ -1,0 +1,14 @@
+ASSIGN tUDF 13
+LOOKUP fd
+RPRINT
+INSERT ygBp string
+LOOKUP ygBp
+BEGIN
+INSERT yg4jeQ string
+BEGIN
+INSERT f1_ number
+INSERT x2y string
+INSERT hxCu number
+INSERT z number
+efmmJp fbK
+INSERT wRsl_ number

@@ -1,0 +1,22 @@
+INSERT f_ string
+INSERT m number
+INSERT bW number
+BEGIN
+BEGIN
+INSERT jbgH number
+INSERT rH string
+INSERT wq string
+INSERT kzQg string
+INSERT gvj number
+END
+INSERT i string
+INSERT xq number
+PRINT
+END
+PRINT
+RPRINT
+INSERT cPr_3 number
+INSERT cl9eaK string
+INSERT pF number
+INSERT kXD number
+INSERT nP number

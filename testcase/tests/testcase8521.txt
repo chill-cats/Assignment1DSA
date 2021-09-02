@@ -1,0 +1,40 @@
+INSERT dIA string
+INSERT dRM string
+INSERT pIBm string
+INSERT veW3 string
+RPRINT
+INSERT uFr number
+INSERT u string
+INSERT f43nj8 string
+RPRINT
+ASSIGN dRM f43nj8
+INSERT bto string
+LOOKUP pIBm
+INSERT y86Pmm string
+PRINT
+LOOKUP dRM
+ASSIGN dIA uFr
+INSERT zm9UR string
+RPRINT
+ASSIGN dIA dRM
+INSERT n2 number
+INSERT a number
+END
+INSERT eldQBS string
+INSERT c1u number
+RPRINT
+INSERT k number
+v9 mB
+PRINT
+INSERT tow string
+INSERT hErnj_ number
+INSERT s1T1 string
+INSERT fzsgT number
+INSERT nCvgfE number
+PRINT
+INSERT n string
+INSERT wYyU number
+INSERT icq number
+INSERT jf6lOy number
+RPRINT
+INSERT pZ string

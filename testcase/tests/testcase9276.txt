@@ -1,0 +1,8 @@
+INSERT y2VxRZ string
+RPRINT
+INSERT w number
+eZHjU z
+LOOKUP y2VxRZ
+INSERT cyfSI number
+INSERT nnu8 number
+ASSIGN cyfSI nnu8

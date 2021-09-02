@@ -1,0 +1,10 @@
+INSERT vjWrv string
+INSERT t1 number
+INSERT v number
+INSERT vB string
+INSERT y24v string
+PRINT
+INSERT kKjKdI number
+RPRINT
+END
+INSERT l8YGJi string

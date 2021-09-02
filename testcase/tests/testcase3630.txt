@@ -1,0 +1,28 @@
+INSERT nS string
+INSERT uX string
+RPRINT
+INSERT kCl_Ug number
+ASSIGN nS 'vy'
+INSERT v number
+LOOKUP v
+INSERT jobsU number
+BEGIN
+INSERT gng9YR number
+INSERT saP4G string
+INSERT bZ string
+RPRINT
+INSERT d52 number
+ASSIGN kCl_Ug 'T6  '
+INSERT gtP1r number
+INSERT z string
+INSERT ilXCi number
+INSERT hYCFa string
+ASSIGN hYCFa 755
+LOOKUP bZ
+INSERT l_5Dh string
+END
+INSERT w7R number
+INSERT c number
+INSERT hi6jql string
+INSERT qIwViO string
+PRINT

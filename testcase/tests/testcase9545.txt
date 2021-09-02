@@ -1,0 +1,20 @@
+END
+INSERT y number
+INSERT w number
+INSERT ziYtX number
+INSERT hp2BP9 number
+ASSIGN hp2BP9 y
+ASSIGN w 544
+INSERT kep3vW number
+LOOKUP w
+INSERT tdOY string
+BEGIN
+INSERT tG string
+END
+INSERT qJ number
+PRINT
+PRINT
+INSERT g number
+INSERT rW number
+INSERT idi0g string
+INSERT fa string

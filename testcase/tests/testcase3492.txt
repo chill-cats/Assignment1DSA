@@ -1,0 +1,9 @@
+INSERT m7 string
+LOOKUP m7
+INSERT cIq string
+INSERT k2D string
+wcm aQ
+RPRINT
+INSERT k4 number
+PRINT
+INSERT b2LZS string

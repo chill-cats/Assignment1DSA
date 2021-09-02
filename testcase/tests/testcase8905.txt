@@ -1,0 +1,15 @@
+BEGIN
+INSERT yzs string
+INSERT lQRj string
+INSERT qduB string
+INSERT b46 string
+INSERT tL number
+aK5m s
+INSERT zl number
+INSERT kiZPX number
+ASSIGN qduB kiZPX
+ASSIGN kiZPX 'x'
+INSERT w string
+INSERT mNjGF number
+INSERT qod5C number
+INSERT b2InX number

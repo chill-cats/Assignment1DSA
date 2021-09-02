@@ -1,0 +1,11 @@
+INSERT cYn number
+INSERT tIs number
+yyF e
+INSERT i9SfG string
+INSERT f6fO number
+LOOKUP f6fO
+INSERT pv_Bwe number
+INSERT qow string
+INSERT aESBy string
+END
+PRINT

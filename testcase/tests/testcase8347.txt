@@ -1,0 +1,35 @@
+INSERT x string
+LOOKUP x
+INSERT uKNqC number
+INSERT g5rqXv number
+INSERT aKWli string
+INSERT bx string
+INSERT wV string
+INSERT uXJ number
+BEGIN
+INSERT f7UsI number
+ASSIGN uXJ g5rqXv
+INSERT h number
+INSERT h number
+qJw3B sUtU5
+INSERT jzWg string
+tfHu jI
+END
+INSERT i number
+INSERT m5FT number
+INSERT m number
+RPRINT
+bBNy cwapcE
+INSERT gwJxJM string
+INSERT mI6 number
+INSERT ozN string
+INSERT o number
+INSERT tOB1j number
+lKKzK yGcDyY
+INSERT t3H number
+INSERT qIjV string
+INSERT ztBXR string
+INSERT oEgc string
+INSERT siWXO number
+INSERT bgAciX number
+INSERT uoHt string

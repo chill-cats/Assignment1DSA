@@ -1,0 +1,17 @@
+INSERT zb26 number
+INSERT orcQnG number
+RPRINT
+RPRINT
+INSERT hPVE9C string
+INSERT kgLSk number
+LOOKUP orcQnG
+INSERT iPk number
+INSERT jR string
+END
+INSERT rJ number
+INSERT ch number
+ASSIGN rJ 'RD'
+LOOKUP kgLSk
+INSERT v number
+INSERT z6z string
+LOOKUP iPk

@@ -1,0 +1,25 @@
+INSERT d3_ string
+BEGIN
+INSERT s79 number
+PRINT
+LOOKUP d3_
+RPRINT
+LOOKUP d3_
+RPRINT
+INSERT kC string
+INSERT tBo string
+INSERT cE1 string
+END
+INSERT c number
+LOOKUP s79
+INSERT xGy number
+INSERT tkN4 number
+RPRINT
+rPbYiJ y
+INSERT kdy number
+INSERT mgBSEK string
+INSERT lh string
+INSERT nxRey number
+k6W u_
+INSERT zbbjwm string
+INSERT t number

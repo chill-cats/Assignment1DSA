@@ -1,0 +1,9 @@
+END
+BEGIN
+INSERT v number
+INSERT p number
+INSERT kKzA string
+END
+INSERT rr string
+INSERT vts9i string
+INSERT l6DIo number

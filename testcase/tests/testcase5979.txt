@@ -1,0 +1,38 @@
+INSERT nlV number
+PRINT
+INSERT tvU_e number
+LOOKUP tvU_e
+INSERT zKh_qM string
+RPRINT
+INSERT ua string
+BEGIN
+LOOKUP nlV
+INSERT sLHg7N number
+INSERT zespFi string
+BEGIN
+INSERT glC0u number
+INSERT o number
+INSERT u number
+INSERT scSiC_ string
+ASSIGN tvU_e 'eW'
+PRINT
+INSERT dx string
+INSERT q number
+INSERT zq8 string
+p2zDw gj3IX
+PRINT
+INSERT l string
+LOOKUP dx
+ASSIGN nlV u
+INSERT w number
+PRINT
+INSERT l1Z3n number
+INSERT h number
+INSERT tqi7w2 number
+INSERT coL number
+INSERT m number
+RPRINT
+INSERT w string
+INSERT tRkc string
+INSERT m1IeP string
+INSERT qHM6xM number

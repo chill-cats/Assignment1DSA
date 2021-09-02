@@ -1,0 +1,26 @@
+INSERT fiNmi string
+LOOKUP fiNmi
+RPRINT
+i iP1B0m
+END
+INSERT yr9Vt string
+INSERT dBEn number
+ASSIGN dBEn 464
+zPSIs cYnp
+ASSIGN yr9Vt 'SVLv'
+PRINT
+RPRINT
+ASSIGN yr9Vt 'o'
+INSERT jL4O number
+BEGIN
+END
+PRINT
+LOOKUP yr9Vt
+END
+INSERT o7EFF string
+INSERT s number
+INSERT hSB8l6 number
+RPRINT
+INSERT vobGz string
+END
+BEGIN

@@ -1,0 +1,40 @@
+BEGIN
+RPRINT
+INSERT vz_K number
+INSERT yN46K number
+INSERT w number
+INSERT wF number
+INSERT unX number
+RPRINT
+INSERT y string
+INSERT r_JhLb string
+PRINT
+LOOKUP y
+w0Uv sU8
+PRINT
+PRINT
+INSERT qP1e number
+INSERT xHp5i8 number
+ASSIGN vz_K '9'
+yFr l7r74
+PRINT
+INSERT imJ94z string
+ASSIGN y 533
+INSERT q number
+INSERT rsvt9t string
+INSERT x string
+BEGIN
+ASSIGN x 662
+INSERT xQ80xX number
+INSERT nZad string
+ASSIGN wF q
+INSERT x number
+INSERT iz string
+INSERT w02 number
+INSERT fur6Pd string
+INSERT izkyoP number
+INSERT hP5 string
+INSERT dAcaW string
+INSERT u14YbB string
+ASSIGN r_JhLb 'J'
+INSERT lmmC number

@@ -1,0 +1,19 @@
+INSERT wF number
+BEGIN
+INSERT xYC number
+INSERT pK string
+INSERT gX5ER string
+END
+LOOKUP xYC
+LOOKUP xYC
+INSERT fN number
+INSERT t string
+RPRINT
+INSERT uHjjEd string
+INSERT rmqI string
+INSERT yjQ number
+PRINT
+INSERT iQQjGP string
+RPRINT
+RPRINT
+RPRINT

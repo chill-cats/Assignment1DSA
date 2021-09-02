@@ -1,0 +1,26 @@
+INSERT braxuP string
+INSERT ujk number
+INSERT e number
+INSERT ttNIP string
+INSERT l4 string
+RPRINT
+ASSIGN braxuP ttNIP
+INSERT nf string
+be dBVBE
+sB3kTu m
+INSERT zXd9 number
+m aSojOA
+PRINT
+INSERT btbjT number
+INSERT vf2lRY number
+INSERT fZ5vQ string
+END
+jCRV ms
+LOOKUP vf2lRY
+ASSIGN ttNIP 1082
+INSERT rusHVA number
+INSERT j string
+cq s0q
+INSERT e2R string
+INSERT x_5amc number
+INSERT jk7eLs string

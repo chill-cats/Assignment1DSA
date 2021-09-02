@@ -1,0 +1,13 @@
+INSERT s string
+INSERT q0LdaQ string
+INSERT eX number
+RPRINT
+LOOKUP q0LdaQ
+INSERT j_ number
+INSERT g57N string
+PRINT
+INSERT p number
+END
+PRINT
+INSERT rb_t string
+INSERT bbrhCT string

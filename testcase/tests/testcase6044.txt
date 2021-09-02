@@ -1,0 +1,26 @@
+INSERT cyKlLV string
+INSERT tM9hmY string
+INSERT ghT number
+LOOKUP cyKlLV
+INSERT mPP number
+BEGIN
+INSERT fq number
+BEGIN
+INSERT j number
+BEGIN
+END
+INSERT e string
+INSERT i number
+INSERT oRfb6R string
+INSERT v number
+RPRINT
+ASSIGN j '792'
+INSERT bpSXI string
+INSERT mnJEa number
+INSERT ue string
+INSERT aqiF4y number
+INSERT iSeNy string
+INSERT bscZ6r string
+INSERT bwZr2H string
+RPRINT
+ASSIGN o cyKlLV

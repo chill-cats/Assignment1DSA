@@ -1,0 +1,24 @@
+INSERT rG number
+INSERT eC number
+INSERT xw2L_ string
+INSERT ya number
+BEGIN
+LOOKUP ya
+INSERT uJm string
+INSERT uC number
+INSERT kL number
+INSERT rLv1Z string
+INSERT zIp_0R string
+INSERT qmgi number
+INSERT u5PSh number
+lgKp ognX9
+RPRINT
+END
+BEGIN
+LOOKUP uC
+INSERT qD2sB string
+INSERT uEO number
+ASSIGN lnEEJ 1089
+RPRINT
+INSERT zAvT number
+INSERT pUH number

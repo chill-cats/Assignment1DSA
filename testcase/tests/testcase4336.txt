@@ -1,0 +1,3 @@
+PRINT
+INSERT kTKaU number
+INSERT npJM string

@@ -1,0 +1,29 @@
+INSERT m string
+pA hHIN
+INSERT kVg number
+PRINT
+ASSIGN kVg 349
+INSERT hFWFe number
+PRINT
+INSERT pU number
+INSERT tCtOc number
+INSERT rHa string
+INSERT x number
+INSERT v0eT3 number
+k0m4 amhQj0
+LOOKUP v0eT3
+ASSIGN tCtOc 'Y'
+LOOKUP x
+INSERT asVG string
+INSERT xn string
+INSERT iigR string
+INSERT aYs string
+INSERT p string
+PRINT
+INSERT wvyiS string
+INSERT sdz string
+INSERT qUg string
+INSERT qzYHfH number
+ASSIGN pU 'Wk'
+PRINT
+INSERT aHu number

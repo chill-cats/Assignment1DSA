@@ -1,0 +1,17 @@
+INSERT zYvT number
+ASSIGN zYvT 302
+INSERT wrqkf number
+INSERT q9 number
+INSERT vx string
+INSERT zY number
+LOOKUP wrqkf
+END
+INSERT h2 number
+INSERT aNX2t number
+INSERT c number
+LOOKUP c
+ASSIGN h2 q9
+PRINT
+ASSIGN aNX2t 420
+INSERT mxpE number
+INSERT tSDTdz number

@@ -1,0 +1,24 @@
+ASSIGN u3qp 'iioLJ'
+pW7 n4ZuF
+INSERT kqP string
+RPRINT
+ASSIGN kqP 'Vg'
+INSERT i41 string
+INSERT x number
+END
+LOOKUP kqP
+INSERT gr number
+INSERT ngy number
+RPRINT
+INSERT sGH string
+END
+BEGIN
+END
+INSERT vIfo string
+BEGIN
+INSERT opPb_6 string
+INSERT eX4m4x number
+LOOKUP opPb_6
+END
+PRINT
+INSERT um0if string

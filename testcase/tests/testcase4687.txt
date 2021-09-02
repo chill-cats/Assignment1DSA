@@ -1,0 +1,36 @@
+INSERT ew_RRV string
+INSERT pX2yL number
+INSERT pvK number
+PRINT
+BEGIN
+PRINT
+INSERT h number
+INSERT rFo number
+INSERT qmz string
+INSERT iWT4y number
+INSERT o8O number
+END
+LOOKUP o8O
+INSERT wEpbfX number
+PRINT
+INSERT lB number
+INSERT sih string
+BEGIN
+INSERT si string
+INSERT sKV number
+LOOKUP o8O
+ASSIGN sKV 'Y8TE'
+INSERT pt string
+INSERT fjW number
+INSERT i3 string
+INSERT qmy string
+INSERT gR number
+INSERT z string
+BEGIN
+INSERT n string
+BEGIN
+INSERT rKzBo number
+RPRINT
+INSERT jFPOU string
+INSERT bNmLZs number
+END

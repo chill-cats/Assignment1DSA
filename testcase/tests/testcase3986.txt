@@ -1,0 +1,6 @@
+INSERT z3kg number
+INSERT husB number
+ASSIGN z3kg z3kg
+RPRINT
+END
+INSERT e string

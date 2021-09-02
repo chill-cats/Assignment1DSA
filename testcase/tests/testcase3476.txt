@@ -1,0 +1,7 @@
+INSERT yO8 number
+PRINT
+INSERT mpf number
+BEGIN
+INSERT zoZ string
+ASSIGN yO8 zoZ
+INSERT fNp3 string

@@ -1,0 +1,15 @@
+INSERT u string
+BEGIN
+PRINT
+INSERT htZHUf number
+LOOKUP sHb
+END
+INSERT m string
+INSERT oS number
+INSERT oQ string
+LOOKUP oQ
+ASSIGN oQ 695
+INSERT x5 number
+INSERT s number
+END
+INSERT icZ string

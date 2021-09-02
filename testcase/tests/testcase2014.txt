@@ -1,0 +1,4 @@
+INSERT cU8 string
+INSERT zcy15 string
+INSERT t_ string
+ASSIGN cU8 879

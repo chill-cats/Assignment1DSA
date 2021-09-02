@@ -1,0 +1,29 @@
+BEGIN
+INSERT f number
+BEGIN
+INSERT cLA_rd string
+INSERT s string
+INSERT ig string
+INSERT oYxZH string
+END
+INSERT mB3 number
+INSERT aB number
+RPRINT
+INSERT jPPtS number
+RPRINT
+INSERT hnaf number
+INSERT rLXCjA number
+INSERT caVjp4 string
+INSERT hyr string
+PRINT
+END
+ASSIGN oYxZH 'l67'
+INSERT fE string
+INSERT gh string
+RPRINT
+INSERT yU number
+INSERT tGY4E number
+ASSIGN cLA_rd 'x'
+INSERT k number
+INSERT d number
+INSERT dC7FK string

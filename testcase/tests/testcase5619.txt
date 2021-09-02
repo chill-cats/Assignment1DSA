@@ -1,0 +1,15 @@
+ASSIGN plA '0'
+LOOKUP tCZm4
+PRINT
+INSERT ndPI string
+ASSIGN ndPI 'absC'
+INSERT uH string
+INSERT dA3A string
+INSERT uh4rnB number
+INSERT edUL number
+RPRINT
+RPRINT
+b2Gu nu
+INSERT qY0z number
+INSERT gCUH number
+PRINT

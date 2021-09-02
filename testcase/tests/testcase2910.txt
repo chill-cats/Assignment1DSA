@@ -1,0 +1,13 @@
+BEGIN
+INSERT nexDg number
+INSERT t7 string
+i6 hLey0
+INSERT vYWp string
+INSERT et string
+INSERT yCtmhm number
+INSERT uc number
+INSERT hk7_ number
+LOOKUP vYWp
+INSERT y_uL0R number
+RPRINT
+INSERT eBsk7 string

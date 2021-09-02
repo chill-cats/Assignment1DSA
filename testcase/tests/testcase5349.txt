@@ -1,0 +1,37 @@
+LOOKUP ezPhG
+RPRINT
+INSERT fWx6k5 string
+INSERT y8 number
+INSERT aQOm number
+BEGIN
+PRINT
+ASSIGN y8 1010
+INSERT kJ number
+END
+ASSIGN aQOm aQOm
+RPRINT
+INSERT biSUW5 number
+PRINT
+INSERT a9 number
+BEGIN
+INSERT yV number
+BEGIN
+INSERT ndpajb number
+PRINT
+PRINT
+INSERT xo number
+END
+INSERT n string
+ASSIGN jR biSUW5
+LOOKUP fWx6k5
+INSERT v number
+BEGIN
+INSERT qp number
+RPRINT
+INSERT eyHI string
+INSERT n0pr number
+INSERT m0w number
+INSERT rGl string
+END
+INSERT yfzZu string
+ASSIGN rGl 1

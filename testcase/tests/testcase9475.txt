@@ -1,0 +1,12 @@
+INSERT suV4 number
+INSERT ijD number
+INSERT yA number
+END
+INSERT xcSTm number
+INSERT n5mC number
+INSERT mGap string
+INSERT jlyJg string
+BEGIN
+INSERT tsEWI string
+ASSIGN yA 654
+INSERT r string

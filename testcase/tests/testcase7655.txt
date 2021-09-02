@@ -1,0 +1,24 @@
+LOOKUP wNdP
+END
+INSERT ootKq string
+INSERT o8VqAO number
+INSERT ezhEQI string
+INSERT w_lm36 number
+LOOKUP ootKq
+INSERT qn string
+INSERT j number
+ASSIGN ezhEQI 910
+INSERT rfK2 string
+BEGIN
+BEGIN
+INSERT qnFt string
+INSERT iXMI2 string
+ASSIGN qnFt 'gzrFt'
+INSERT cfuyXL string
+END
+INSERT wodVq number
+INSERT vCJHic string
+INSERT vy5o number
+RPRINT
+RPRINT
+RPRINT

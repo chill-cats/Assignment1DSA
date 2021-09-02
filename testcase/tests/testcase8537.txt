@@ -1,0 +1,14 @@
+RPRINT
+END
+BEGIN
+INSERT bKBb number
+INSERT lM string
+INSERT t9 number
+INSERT cru string
+INSERT kwZScH string
+INSERT o0p string
+INSERT rox2cv number
+INSERT p3y number
+END
+PRINT
+INSERT mmCs number

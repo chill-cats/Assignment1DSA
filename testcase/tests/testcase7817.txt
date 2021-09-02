@@ -1,0 +1,25 @@
+RPRINT
+INSERT i_9ksc number
+INSERT m7 string
+ASSIGN m7 'Wtn1e'
+END
+INSERT y4qPH string
+INSERT d number
+INSERT z0 number
+BEGIN
+INSERT hmxER number
+END
+PRINT
+yJNv q
+INSERT g4X_bU number
+INSERT eGv4v number
+ASSIGN hmxER '3J5'
+INSERT aPb number
+INSERT r8mM5W number
+INSERT jiLSIF string
+BEGIN
+INSERT xqe number
+INSERT fWm string
+INSERT cqwcz string
+INSERT n string
+PRINT

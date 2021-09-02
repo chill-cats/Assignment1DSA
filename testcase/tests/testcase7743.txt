@@ -1,0 +1,21 @@
+INSERT m_ string
+LOOKUP m_
+INSERT x1WE2g number
+INSERT lk9M string
+ASSIGN m_ m_
+INSERT gsePC number
+BEGIN
+INSERT cup string
+ASSIGN cup 74
+INSERT rJ string
+INSERT evi string
+END
+LOOKUP lk9M
+INSERT mW string
+INSERT l number
+INSERT ic0W number
+LOOKUP m_
+INSERT l number
+INSERT w_fbe number
+mnHvY sK_e
+INSERT y number

@@ -1,0 +1,37 @@
+posR j
+END
+ASSIGN r 1198
+INSERT g number
+INSERT q string
+INSERT gnb string
+PRINT
+ASSIGN gnb g
+INSERT x number
+INSERT kg string
+INSERT vVm string
+RPRINT
+INSERT mx number
+ASSIGN kg mx
+z zn
+INSERT qLMUOW string
+RPRINT
+BEGIN
+INSERT c25 number
+INSERT rD number
+BEGIN
+LOOKUP q
+INSERT x5 number
+BEGIN
+END
+INSERT aEl number
+INSERT jf number
+BEGIN
+INSERT l string
+BEGIN
+INSERT nal string
+INSERT yhCc string
+RPRINT
+INSERT stU1bZ number
+INSERT jIP number
+INSERT xb_ number
+INSERT ho number

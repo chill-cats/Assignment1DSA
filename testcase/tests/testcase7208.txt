@@ -1,0 +1,40 @@
+BEGIN
+INSERT dzrNYl string
+END
+ASSIGN dzrNYl 'Uc A'
+ASSIGN dzrNYl 738
+INSERT sp number
+BEGIN
+INSERT t9EMjB string
+INSERT mq string
+ASSIGN mq t9EMjB
+END
+BEGIN
+ASSIGN sp 883
+INSERT oL_TQ string
+INSERT zk number
+LOOKUP mq
+INSERT v number
+INSERT yPZo5 number
+BEGIN
+INSERT e number
+RPRINT
+PRINT
+INSERT d number
+INSERT pn9 number
+BEGIN
+INSERT b7Gv6 string
+INSERT ct68Cg number
+BEGIN
+RPRINT
+ASSIGN t9EMjB mq
+INSERT nmh number
+INSERT aRiJ string
+INSERT wJFl string
+INSERT t number
+RPRINT
+slN4r h
+LOOKUP mq
+INSERT hbTlx number
+INSERT lSH3q number
+RPRINT

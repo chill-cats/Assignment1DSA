@@ -1,0 +1,24 @@
+BEGIN
+INSERT qZ7Ry8 number
+INSERT zRdN string
+INSERT dir number
+INSERT b77Is string
+INSERT d string
+INSERT deWs string
+INSERT j72m1l string
+INSERT xLVGZ string
+INSERT xUUF41 string
+END
+RPRINT
+LOOKUP j72m1l
+INSERT zMqc string
+INSERT sY string
+INSERT uc_m string
+PRINT
+INSERT dfc string
+PRINT
+INSERT nx string
+INSERT fA0H string
+INSERT dC1 number
+oa rt
+RPRINT

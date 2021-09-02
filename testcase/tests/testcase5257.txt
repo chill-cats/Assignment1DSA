@@ -1,0 +1,33 @@
+INSERT wR9CTz string
+ASSIGN wR9CTz 507
+INSERT fpi number
+RPRINT
+RPRINT
+INSERT hKL string
+LOOKUP fpi
+BEGIN
+LOOKUP fpi
+END
+BEGIN
+INSERT h number
+INSERT iwIvU number
+INSERT r number
+INSERT f string
+BEGIN
+PRINT
+PRINT
+LOOKUP h
+END
+INSERT ltzWLf number
+INSERT gO3a string
+INSERT np1x7 number
+INSERT oL number
+LOOKUP hKL
+INSERT tZfQkf number
+INSERT aa2Fm number
+RPRINT
+RPRINT
+INSERT kPukGJ number
+INSERT mIT number
+INSERT ft0h string
+INSERT lF8uFp string

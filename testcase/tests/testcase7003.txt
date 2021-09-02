@@ -1,0 +1,9 @@
+END
+INSERT aw number
+INSERT sk4 number
+INSERT pgy string
+INSERT qNXNjO number
+ASSIGN pgy 'nl'
+INSERT a8bS number
+INSERT nG number
+BEGIN

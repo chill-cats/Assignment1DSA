@@ -1,0 +1,25 @@
+INSERT i string
+INSERT iq number
+INSERT p number
+INSERT lH1 number
+INSERT gkYM_X number
+INSERT smy8LL number
+INSERT x string
+INSERT h string
+INSERT i6DSmm string
+LOOKUP iq
+INSERT a string
+INSERT fTn number
+ASSIGN i '7jEQB'
+INSERT u number
+INSERT c string
+wLfySp p4
+END
+INSERT qxI number
+PRINT
+ASSIGN fTn i6DSmm
+RPRINT
+ASSIGN i 'BBvC'
+INSERT gYo string
+ASSIGN i 'NZV'
+END

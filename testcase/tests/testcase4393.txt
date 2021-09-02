@@ -1,0 +1,20 @@
+INSERT a number
+ASSIGN a 820
+INSERT mu5 string
+INSERT k number
+INSERT ipCL string
+INSERT i7 number
+PRINT
+INSERT fB number
+INSERT x string
+RPRINT
+ASSIGN ipCL x
+INSERT fM number
+BEGIN
+INSERT e0Lr5d number
+RPRINT
+END
+mcNcrI zrXZgQ
+PRINT
+cDtE p6
+BEGIN

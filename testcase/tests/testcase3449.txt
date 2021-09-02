@@ -1,0 +1,9 @@
+BEGIN
+ASSIGN q 207
+INSERT nx5gkF number
+ASSIGN nx5gkF 'evVD'
+RPRINT
+INSERT eZQ1vi number
+END
+PRINT
+BEGIN

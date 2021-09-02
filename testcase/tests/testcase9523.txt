@@ -1,0 +1,35 @@
+uWLid1 c8Ch66
+INSERT d1I number
+INSERT y1 number
+INSERT mjtHb string
+INSERT eDHF string
+RPRINT
+LOOKUP d1I
+PRINT
+INSERT x string
+RPRINT
+INSERT s9 string
+LOOKUP eDHF
+INSERT g number
+INSERT r string
+INSERT mo string
+PRINT
+INSERT h string
+ASSIGN r 1175
+ASSIGN d1I 'FB'
+INSERT adpX string
+INSERT zA2 string
+INSERT nDRUCg string
+LOOKUP r
+RPRINT
+END
+RPRINT
+INSERT tqZAs string
+INSERT fjg4qn number
+INSERT i48_ number
+INSERT j number
+PRINT
+LOOKUP adpX
+INSERT o number
+INSERT eowFhC string
+INSERT e string

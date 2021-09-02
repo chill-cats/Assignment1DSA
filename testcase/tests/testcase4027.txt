@@ -1,0 +1,5 @@
+pvaN5W pBd
+INSERT v string
+INSERT nB string
+INSERT tU number
+ASSIGN nB 397

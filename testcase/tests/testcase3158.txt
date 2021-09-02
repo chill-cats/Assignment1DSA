@@ -1,0 +1,16 @@
+INSERT dqy4 number
+INSERT p string
+INSERT qU string
+INSERT kA2r number
+ASSIGN p dqy4
+INSERT ivn5 string
+fNv lC
+INSERT cR string
+RPRINT
+LOOKUP qU
+INSERT u string
+PRINT
+INSERT oHQRf string
+INSERT oqrSSh number
+INSERT c string
+INSERT v2N string

@@ -1,0 +1,32 @@
+INSERT tpP string
+INSERT p number
+INSERT xAcL number
+INSERT h number
+INSERT tjQ string
+INSERT j string
+INSERT uE8f string
+INSERT c number
+INSERT fHJ8kp number
+INSERT xXD string
+INSERT h number
+INSERT aNyU number
+ASSIGN xXD 664
+INSERT x7 number
+ASSIGN uE8f uE8f
+PRINT
+INSERT wnwZ string
+INSERT cN number
+LOOKUP tpP
+END
+INSERT iGXRqm number
+INSERT e number
+INSERT w number
+INSERT sZre number
+INSERT oKBS string
+INSERT eP3Z string
+LOOKUP x7
+PRINT
+INSERT j number
+LOOKUP j
+INSERT gJ string
+c7MHCb xc

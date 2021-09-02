@@ -1,0 +1,9 @@
+END
+END
+BEGIN
+INSERT dDo string
+LOOKUP dDo
+INSERT o number
+ASSIGN o 1003
+INSERT n2NQp number
+PRINT

@@ -1,0 +1,35 @@
+INSERT qMGfS string
+INSERT zN47GF number
+INSERT hdr number
+INSERT po0 string
+LOOKUP po0
+RPRINT
+INSERT rQQ number
+BEGIN
+LOOKUP po0
+INSERT vKLVdl number
+INSERT dRQNa number
+END
+ASSIGN vKLVdl hdr
+LOOKUP hdr
+INSERT ustud number
+ASSIGN dRQNa qMGfS
+INSERT ku string
+BEGIN
+jsjG9g oO3pn9
+END
+INSERT ymKfZ string
+INSERT wZCo string
+INSERT ayqbk string
+INSERT xzjXpU number
+INSERT iC70SW number
+INSERT on string
+INSERT cKgt string
+INSERT yG string
+END
+ASSIGN zN47GF 502
+hT9te e
+lKWor or
+INSERT w7NlIn string
+INSERT m1 number
+INSERT foky8V string

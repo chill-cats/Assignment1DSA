@@ -1,0 +1,7 @@
+INSERT m6r number
+ASSIGN m6r 1203
+INSERT obooVw string
+END
+END
+INSERT x0u5am number
+INSERT a9lu4 number

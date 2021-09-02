@@ -1,0 +1,13 @@
+INSERT nfjP number
+INSERT z0ul string
+INSERT hTfDX string
+INSERT pf string
+BEGIN
+END
+INSERT p number
+INSERT jdntPh number
+RPRINT
+LOOKUP nfjP
+END
+INSERT kU2p string
+INSERT yfv number

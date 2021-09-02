@@ -1,0 +1,30 @@
+INSERT aFbMH string
+LOOKUP i
+INSERT cJV string
+INSERT d number
+INSERT tL number
+INSERT p string
+INSERT dmf number
+LOOKUP tL
+END
+INSERT jNavb string
+ASSIGN tL 'vE'
+END
+RPRINT
+INSERT vm2K number
+ASSIGN d dmf
+RPRINT
+INSERT gV_f8C number
+RPRINT
+i idPXlR
+END
+END
+INSERT a7sZ3 string
+ASSIGN aFbMH dmf
+g n
+RPRINT
+RPRINT
+INSERT yzQo number
+LOOKUP tL
+INSERT hN0m5 number
+INSERT c string

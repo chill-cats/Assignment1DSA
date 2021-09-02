@@ -1,0 +1,6 @@
+INSERT uel string
+INSERT hFF7 string
+INSERT qLDsmq string
+LOOKUP qLDsmq
+ASSIGN hFF7 700
+INSERT qlET number

@@ -1,0 +1,18 @@
+INSERT jVou number
+LOOKUP jVou
+INSERT gXwp number
+INSERT y_hFBi string
+INSERT uTAU9 number
+INSERT iluL string
+END
+INSERT lf string
+INSERT juJL string
+INSERT tlfK number
+INSERT eO9CYs string
+INSERT wY0AS number
+INSERT yF6 string
+r t6
+LOOKUP jVou
+BEGIN
+INSERT bRxYia string
+LOOKUP tlfK

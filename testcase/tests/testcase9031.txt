@@ -1,0 +1,20 @@
+INSERT pAuD8 string
+INSERT gVyY number
+INSERT wWUS string
+INSERT d9 string
+INSERT b string
+INSERT pfh number
+END
+RPRINT
+INSERT nFY0 string
+INSERT xDnPo string
+LOOKUP pfh
+k z
+ASSIGN xDnPo 685
+INSERT wWO2 string
+zZwX srK
+INSERT rr number
+BEGIN
+LOOKUP nFY0
+INSERT k number
+mCPNG1 r

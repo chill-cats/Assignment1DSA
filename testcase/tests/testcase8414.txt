@@ -1,0 +1,18 @@
+INSERT zw string
+BEGIN
+INSERT z2 string
+INSERT l1_ number
+ASSIGN zw l1_
+INSERT tnAjd number
+RPRINT
+END
+RPRINT
+RPRINT
+INSERT x string
+INSERT zRXWX number
+END
+INSERT oPtnfV number
+INSERT bB98Q string
+INSERT cqJ_wP string
+LOOKUP zw
+v trk

@@ -1,0 +1,37 @@
+RPRINT
+INSERT gOZVS number
+INSERT dNgom string
+INSERT hjYaJ string
+ASSIGN gOZVS 433
+BEGIN
+INSERT v3H number
+RPRINT
+END
+RPRINT
+LOOKUP v3H
+LOOKUP gOZVS
+INSERT iT2E8c string
+INSERT fQ number
+l44 e4XRAf
+ASSIGN hjYaJ 1050
+x3 tV
+INSERT eNJlof string
+INSERT uFr number
+RPRINT
+INSERT vyF string
+LOOKUP v3H
+INSERT a number
+ASSIGN gOZVS 261
+INSERT yZB7 string
+ASSIGN v3H yZB7
+INSERT kSILY number
+PRINT
+INSERT pzUm string
+INSERT s number
+INSERT sm number
+END
+END
+INSERT sk string
+INSERT zJKTE string
+INSERT rUjZqn string
+INSERT faJS_ string

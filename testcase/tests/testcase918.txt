@@ -1,0 +1,5 @@
+ASSIGN b4G 933
+INSERT pbJhoM number
+INSERT k string
+INSERT m string
+INSERT v number

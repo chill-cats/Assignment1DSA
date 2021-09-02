@@ -1,0 +1,18 @@
+LOOKUP r58a
+ASSIGN fKd5s 1224
+INSERT x number
+END
+BEGIN
+RPRINT
+LOOKUP x
+END
+PRINT
+ASSIGN x 1194
+ASSIGN x 242
+INSERT b26GH number
+INSERT r string
+INSERT s number
+hktdnm s7
+INSERT qh number
+END
+BEGIN

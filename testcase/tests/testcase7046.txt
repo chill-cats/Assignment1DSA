@@ -1,0 +1,39 @@
+RPRINT
+INSERT bGev number
+BEGIN
+INSERT s9zcHl string
+BEGIN
+END
+INSERT l number
+PRINT
+INSERT sgmT number
+INSERT d string
+LOOKUP sgmT
+ouI oLy7
+INSERT xfiat string
+INSERT fQ string
+END
+INSERT da string
+RPRINT
+INSERT k number
+ASSIGN sgmT 1045
+LOOKUP k
+BEGIN
+INSERT tid number
+INSERT lGg6T8 string
+INSERT lqmiiw number
+PRINT
+INSERT i number
+END
+INSERT fQf number
+INSERT x7eDeD number
+RPRINT
+INSERT pJf7 string
+PRINT
+INSERT rTWGT number
+INSERT wJ string
+INSERT i string
+INSERT ws string
+INSERT px number
+INSERT vIe number
+INSERT d string

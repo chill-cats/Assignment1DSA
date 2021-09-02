@@ -1,0 +1,9 @@
+INSERT vLH0d number
+INSERT b3lY_ number
+INSERT hM_Oqq number
+INSERT c8 number
+RPRINT
+LOOKUP hM_Oqq
+INSERT sbJ4 number
+ASSIGN vLH0d 92
+INSERT yjt90H string

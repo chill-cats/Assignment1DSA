@@ -1,0 +1,31 @@
+aO btaLyU
+INSERT fp7Zj number
+t9 spcleT
+ASSIGN fp7Zj fp7Zj
+INSERT aglkKO string
+INSERT qH number
+INSERT kqK number
+INSERT eC string
+END
+INSERT iT3J5 number
+INSERT z string
+INSERT gVH_ number
+RPRINT
+BEGIN
+INSERT v number
+INSERT ts number
+ASSIGN qH 'XSNch'
+INSERT fDqGE number
+INSERT eI string
+INSERT ncJi number
+BEGIN
+INSERT sA number
+INSERT ciX8V8 string
+INSERT t string
+INSERT nYEczk number
+INSERT f string
+LOOKUP gVH_
+INSERT uv number
+INSERT ufUo number
+INSERT vIzD number
+LOOKUP v

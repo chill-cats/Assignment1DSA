@@ -1,0 +1,11 @@
+INSERT nVdWwT string
+BEGIN
+INSERT dQVh number
+INSERT ka number
+INSERT rPJ string
+LOOKUP ka
+INSERT xXp number
+INSERT l string
+ASSIGN l '7jjHi'
+INSERT g_jXA string
+INSERT rH string

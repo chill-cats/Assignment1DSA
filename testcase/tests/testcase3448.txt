@@ -1,0 +1,9 @@
+INSERT z5CT string
+INSERT nTY4o string
+INSERT vZ string
+LOOKUP vZ
+s aM63a
+INSERT qPz number
+INSERT q0Ftvt number
+BEGIN
+PRINT

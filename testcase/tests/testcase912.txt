@@ -1,0 +1,21 @@
+INSERT aD5 number
+INSERT b4d5 string
+vnX7d j
+INSERT ysg number
+INSERT m number
+INSERT xBw string
+INSERT etX0 string
+BEGIN
+INSERT xI2Tf number
+LOOKUP aD5
+RPRINT
+INSERT uZpo number
+LOOKUP etX0
+END
+INSERT f9UN number
+INSERT zmTh number
+END
+INSERT n string
+INSERT bM string
+INSERT gS6tJ number
+PRINT

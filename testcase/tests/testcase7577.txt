@@ -1,0 +1,32 @@
+INSERT dXT string
+RPRINT
+END
+INSERT c75C number
+INSERT x6ku number
+INSERT tFm string
+ASSIGN x6ku 'llif'
+INSERT qDW string
+INSERT wuj_ko number
+ASSIGN c75C 'kHz'
+INSERT qNlHM string
+INSERT yRvdMM number
+INSERT rSRH string
+INSERT mGaL string
+ASSIGN mGaL mGaL
+INSERT jV9Anf string
+INSERT vsU4V5 string
+ASSIGN qNlHM 'oCtxC'
+RPRINT
+vpp kV
+INSERT cX number
+BEGIN
+ASSIGN rSRH '6E'
+ASSIGN jV9Anf 'E2E'
+INSERT lrq string
+INSERT cpeQ string
+INSERT y2C number
+RPRINT
+INSERT p string
+INSERT h1hj string
+INSERT pW number
+INSERT q5MN string

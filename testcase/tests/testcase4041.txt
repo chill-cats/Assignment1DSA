@@ -1,0 +1,23 @@
+PRINT
+INSERT gqT number
+END
+INSERT eygd number
+END
+INSERT inyXU number
+LOOKUP inyXU
+RPRINT
+INSERT k7Zc string
+RPRINT
+LOOKUP inyXU
+RPRINT
+INSERT fuuy number
+INSERT taPOb number
+RPRINT
+INSERT qWLk number
+BEGIN
+pAv gNzt_n
+INSERT kj number
+INSERT o0 string
+INSERT wpiaiq string
+INSERT d number
+PRINT

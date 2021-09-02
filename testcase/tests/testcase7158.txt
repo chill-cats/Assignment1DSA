@@ -1,0 +1,10 @@
+RPRINT
+INSERT z8FCi string
+LOOKUP z8FCi
+INSERT eYef number
+INSERT xez string
+ASSIGN xez z8FCi
+INSERT i string
+INSERT zu number
+INSERT x string
+END

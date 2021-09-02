@@ -1,0 +1,25 @@
+INSERT eGN number
+INSERT p string
+INSERT v4PB number
+INSERT aZjFLl string
+END
+ASSIGN aZjFLl 887
+INSERT lQMYKB number
+INSERT bgj string
+INSERT i number
+END
+INSERT d string
+INSERT bsGv number
+INSERT dy3 number
+INSERT drB number
+uJ uUt1
+INSERT wj number
+LOOKUP dy3
+INSERT ikHvY1 string
+INSERT q number
+INSERT gZ3dBR string
+RPRINT
+BEGIN
+INSERT z97Nv string
+INSERT yKNgpc number
+INSERT eIzbb string

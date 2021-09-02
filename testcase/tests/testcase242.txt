@@ -1,0 +1,40 @@
+PRINT
+BEGIN
+INSERT e number
+INSERT uYo3 string
+END
+INSERT f string
+INSERT qmE0sj string
+INSERT aqj number
+PRINT
+INSERT oalUp string
+INSERT gOn4BA string
+INSERT b9PQDR number
+LOOKUP f
+INSERT amKjco string
+PRINT
+PRINT
+INSERT gpNX number
+RPRINT
+RPRINT
+RPRINT
+BEGIN
+END
+PRINT
+INSERT gSoQ2 number
+INSERT jRl number
+INSERT jis string
+ASSIGN b9PQDR 'iW'
+INSERT w string
+ASSIGN jRl jis
+INSERT f8P number
+BEGIN
+INSERT t_K4XE number
+INSERT pPUkk number
+LOOKUP u
+RPRINT
+LOOKUP t_K4XE
+INSERT bt_ number
+LOOKUP oalUp
+BEGIN
+INSERT dNntJ string

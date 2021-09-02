@@ -1,0 +1,35 @@
+INSERT vkxTZ7 string
+PRINT
+INSERT zPi6L string
+INSERT v5ZX string
+INSERT d0YM number
+ASSIGN zPi6L 385
+ASSIGN zPi6L 'MkO6'
+INSERT dMZ9 number
+RPRINT
+ASSIGN v5ZX d0YM
+RPRINT
+INSERT apG number
+INSERT fH0 string
+INSERT ky number
+END
+INSERT af string
+INSERT jv string
+PRINT
+END
+LOOKUP d0YM
+INSERT cX7E string
+INSERT fD string
+eA1a i1mnqR
+INSERT b3z9N string
+LOOKUP cX7E
+END
+INSERT w number
+INSERT ehG string
+INSERT thsaf string
+PRINT
+BEGIN
+INSERT o1 number
+LOOKUP d0YM
+INSERT gm string
+END

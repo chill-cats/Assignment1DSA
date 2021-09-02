@@ -1,0 +1,24 @@
+INSERT tRVJ number
+RPRINT
+INSERT g string
+RPRINT
+INSERT maASZS number
+BEGIN
+ASSIGN vbCrmh 'zqK'
+ASSIGN maASZS 589
+INSERT bD number
+INSERT x number
+PRINT
+INSERT vki string
+INSERT a number
+ASSIGN bD vki
+END
+INSERT mK number
+qXx2b yt
+INSERT q string
+INSERT nT string
+PRINT
+PRINT
+INSERT tR string
+INSERT eaX string
+INSERT pKxA number

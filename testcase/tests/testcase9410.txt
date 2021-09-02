@@ -1,0 +1,11 @@
+ASSIGN y31g 904
+INSERT cAw string
+INSERT fkpDtE number
+LOOKUP cAw
+PRINT
+INSERT r string
+INSERT xSrRl number
+INSERT djL string
+INSERT jO number
+ASSIGN jO jO
+INSERT wr string

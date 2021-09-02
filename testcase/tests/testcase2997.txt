@@ -1,0 +1,26 @@
+INSERT kA number
+INSERT f0wy number
+INSERT f string
+INSERT lQ string
+INSERT zM string
+INSERT p number
+END
+END
+END
+RPRINT
+INSERT s number
+BEGIN
+INSERT aTsSC number
+INSERT ednp6 string
+INSERT eGzV number
+ASSIGN lQ 349
+INSERT emRXj number
+INSERT kM number
+INSERT pz string
+INSERT ktQYAR number
+RPRINT
+END
+INSERT yAG string
+LOOKUP ednp6
+INSERT vTP number
+ASSIGN f0wy s

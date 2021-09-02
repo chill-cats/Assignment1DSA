@@ -1,0 +1,20 @@
+LOOKUP hI5
+INSERT t3Vte9 string
+INSERT hx number
+ASSIGN t3Vte9 hx
+END
+INSERT noark string
+INSERT zKf string
+INSERT jw number
+INSERT obZl string
+INSERT p945M string
+INSERT kN number
+INSERT g2d_ string
+INSERT iEAY3 string
+LOOKUP zKf
+INSERT gRGXQn number
+INSERT xEr_ string
+INSERT n string
+BEGIN
+INSERT kU number
+INSERT z96E number

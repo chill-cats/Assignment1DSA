@@ -1,0 +1,27 @@
+INSERT o string
+RPRINT
+INSERT hsp string
+BEGIN
+RPRINT
+BEGIN
+LOOKUP hsp
+INSERT aEw number
+INSERT rEeez1 number
+INSERT vWMo3 number
+INSERT wF_ number
+INSERT i0n number
+INSERT hmMChR string
+END
+INSERT sgnWso string
+RPRINT
+INSERT jW number
+INSERT qv6 string
+INSERT yCwFR7 number
+END
+INSERT u string
+INSERT tjT number
+LOOKUP i0n
+INSERT hXdH string
+INSERT bbW number
+ASSIGN qv6 825
+INSERT jIbW_k number

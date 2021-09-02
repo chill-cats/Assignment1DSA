@@ -1,0 +1,18 @@
+INSERT uMa string
+RPRINT
+INSERT x number
+PRINT
+ASSIGN uMa 203
+INSERT vb number
+INSERT gPA number
+INSERT oY2nL number
+INSERT iEFxl string
+INSERT tMr_ number
+ASSIGN tMr_ 828
+RPRINT
+jelm0 ucSi
+BEGIN
+INSERT r string
+LOOKUP r
+INSERT q string
+INSERT w8be string

@@ -1,0 +1,5 @@
+PRINT
+INSERT irE string
+END
+END
+INSERT i string

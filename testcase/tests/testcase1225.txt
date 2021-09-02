@@ -1,0 +1,15 @@
+LOOKUP ah
+ASSIGN zvkw 699
+RPRINT
+INSERT hP7SL string
+INSERT bXYTHO number
+PRINT
+INSERT oQo number
+ASSIGN hP7SL 'Ek'
+INSERT yf string
+INSERT ft740 number
+ASSIGN bXYTHO 'md'
+INSERT jP6e1 number
+INSERT p74 number
+END
+INSERT coyN string

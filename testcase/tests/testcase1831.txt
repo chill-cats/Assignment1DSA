@@ -1,0 +1,27 @@
+INSERT kXp string
+INSERT brV3y number
+INSERT vW4H number
+RPRINT
+INSERT lJ string
+INSERT m7Q string
+INSERT woji5 number
+INSERT nFIPev string
+INSERT xC6S number
+INSERT jfcDZb number
+ASSIGN vW4H vW4H
+INSERT iEXWh number
+INSERT y number
+INSERT nuy number
+INSERT pT7V string
+INSERT swM number
+INSERT nPt number
+INSERT tf number
+INSERT h string
+INSERT ps string
+INSERT q string
+INSERT c string
+INSERT jxRp string
+ASSIGN xC6S 999
+INSERT hru1 string
+PRINT
+INSERT pIDOzJ string

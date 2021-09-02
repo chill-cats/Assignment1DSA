@@ -1,0 +1,27 @@
+INSERT oFiba string
+INSERT rZp number
+INSERT keK number
+INSERT o7 string
+INSERT yz string
+LOOKUP o7
+INSERT kj number
+INSERT cmZ string
+INSERT b number
+INSERT wv5H number
+INSERT o string
+BEGIN
+LOOKUP wv5H
+ASSIGN o7 'N7fT'
+LOOKUP oFiba
+BEGIN
+INSERT dqgLwr number
+INSERT l number
+RPRINT
+INSERT pbI number
+END
+PRINT
+BEGIN
+rnwK rHrGhp
+BEGIN
+BEGIN
+BEGIN

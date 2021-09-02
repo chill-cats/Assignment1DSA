@@ -1,0 +1,26 @@
+INSERT c5 number
+INSERT j9hPtK number
+INSERT cN number
+INSERT rgc string
+PRINT
+INSERT xe1 number
+INSERT jun string
+INSERT ykQ string
+INSERT sW_ot string
+END
+INSERT p8Q number
+INSERT bVyhGE number
+END
+BEGIN
+INSERT qc number
+INSERT oDts string
+PRINT
+INSERT c5F string
+INSERT wcE string
+INSERT xl number
+LOOKUP c5F
+INSERT rdKk string
+ASSIGN bVyhGE jun
+INSERT uO string
+LOOKUP c5
+INSERT zivb number

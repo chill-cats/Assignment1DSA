@@ -1,0 +1,19 @@
+wg2iT5 z
+INSERT gkZgR string
+INSERT kdQ number
+RPRINT
+RPRINT
+wdD ez8TM
+ASSIGN gkZgR 'ER'
+ASSIGN kdQ kdQ
+INSERT u string
+INSERT aQ number
+LOOKUP kdQ
+INSERT hIpy number
+INSERT bXvjz string
+INSERT vUfV string
+INSERT no string
+INSERT tUbY number
+LOOKUP bXvjz
+END
+INSERT yN0MW string

@@ -1,0 +1,9 @@
+RPRINT
+INSERT ufKR1 string
+ASSIGN ufKR1 'Zi'
+PRINT
+INSERT l1 string
+INSERT uA string
+INSERT xeDYSo number
+INSERT mSKuh string
+RPRINT

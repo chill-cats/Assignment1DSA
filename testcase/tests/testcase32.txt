@@ -1,0 +1,37 @@
+INSERT h string
+INSERT hhk string
+ASSIGN hhk h
+INSERT p9m string
+RPRINT
+INSERT eP string
+RPRINT
+ASSIGN hhk hhk
+INSERT lMScr string
+INSERT m4 number
+INSERT meemEG number
+PRINT
+INSERT t number
+RPRINT
+INSERT ftf number
+INSERT jjb3C number
+INSERT wSghlH number
+INSERT cQB1 string
+INSERT qbFo string
+ASSIGN t 'B'
+PRINT
+END
+INSERT id string
+INSERT u number
+INSERT txWv7 string
+INSERT uPsI string
+ASSIGN hhk 27
+PRINT
+LOOKUP h
+INSERT mJ string
+INSERT q number
+INSERT oaDZmZ number
+INSERT k4U number
+LOOKUP p9m
+LOOKUP id
+END
+RPRINT

@@ -1,0 +1,22 @@
+INSERT oIyZrm number
+BEGIN
+LOOKUP oIyZrm
+INSERT ep number
+INSERT gdy number
+INSERT iWjw0j string
+INSERT puiXd6 number
+INSERT z number
+ASSIGN oIyZrm 'Cv '
+INSERT n number
+INSERT t7aLWZ number
+INSERT m4l number
+INSERT wKG3Q number
+INSERT nrY string
+INSERT gfQCs string
+INSERT kuMM number
+INSERT deElJ number
+ASSIGN gdy 212
+END
+ASSIGN kuMM 'Q'
+LOOKUP iWjw0j
+INSERT m1Hq string

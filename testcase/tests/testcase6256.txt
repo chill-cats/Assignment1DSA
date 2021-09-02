@@ -1,0 +1,10 @@
+INSERT b number
+INSERT dBokeS string
+END
+BEGIN
+INSERT sO2Ut string
+PRINT
+LOOKUP dBokeS
+INSERT kpVB string
+INSERT zQ string
+INSERT nmkQY8 number

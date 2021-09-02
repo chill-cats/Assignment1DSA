@@ -1,0 +1,15 @@
+INSERT vR82 string
+INSERT xb number
+INSERT qIg number
+lwZ vEUL
+jBV l5rPF
+INSERT akj number
+INSERT pB string
+ASSIGN pB 871
+RPRINT
+INSERT xcxm3 number
+INSERT pia0K2 string
+INSERT tUQUJ number
+LOOKUP qIg
+INSERT sz number
+BEGIN

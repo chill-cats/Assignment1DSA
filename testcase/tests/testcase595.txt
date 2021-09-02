@@ -1,0 +1,23 @@
+ASSIGN keRL 23
+INSERT zw2O3T string
+INSERT cC string
+LOOKUP zw2O3T
+INSERT w string
+INSERT l number
+LOOKUP cC
+INSERT uGj string
+INSERT wS565a number
+INSERT uWgCQ_ string
+END
+INSERT yy1IX6 string
+INSERT hVN string
+LOOKUP zw2O3T
+INSERT sB string
+INSERT r5pH9 number
+INSERT kKBea number
+INSERT h7 number
+INSERT qfA number
+INSERT o string
+INSERT mc number
+INSERT qdWu number
+ASSIGN uGj 'G'

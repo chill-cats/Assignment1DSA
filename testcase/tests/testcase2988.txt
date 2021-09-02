@@ -1,0 +1,6 @@
+INSERT esF string
+PRINT
+ASSIGN esF 613
+INSERT rIrN6 number
+BEGIN
+INSERT gCmFpH string

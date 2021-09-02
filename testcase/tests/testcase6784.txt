@@ -1,0 +1,16 @@
+INSERT e number
+t4PGW u
+RPRINT
+BEGIN
+INSERT xV5h number
+pn1M fA
+RPRINT
+RPRINT
+END
+LOOKUP xV5h
+INSERT t9 string
+INSERT hT number
+INSERT u string
+LOOKUP t9
+INSERT rlnBar number
+INSERT kFk string

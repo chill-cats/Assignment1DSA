@@ -1,0 +1,5 @@
+INSERT nAo string
+INSERT ld string
+INSERT qAjN string
+INSERT h number
+INSERT c string

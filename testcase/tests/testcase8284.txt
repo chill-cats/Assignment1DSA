@@ -1,0 +1,13 @@
+ASSIGN t 1003
+BEGIN
+INSERT tkCm84 string
+INSERT dSDb9v number
+INSERT oA number
+jg w
+INSERT ab string
+ASSIGN oA 1052
+INSERT oTHn number
+PRINT
+INSERT evU3cO number
+INSERT nkTmA string
+INSERT pA number

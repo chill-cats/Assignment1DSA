@@ -1,0 +1,7 @@
+ASSIGN xWOLX '2'
+PRINT
+INSERT i_X number
+INSERT ioG number
+INSERT d number
+INSERT k5FW number
+INSERT xKo46 number

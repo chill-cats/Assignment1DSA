@@ -1,0 +1,19 @@
+INSERT jt number
+INSERT e string
+uk3h vYT
+INSERT v string
+LOOKUP v
+INSERT t string
+INSERT jlgf string
+INSERT h number
+RPRINT
+INSERT mbW number
+ASSIGN e 'B'
+RPRINT
+INSERT u string
+INSERT qhdgyB string
+INSERT dTx string
+INSERT tKvSM4 string
+BEGIN
+ASSIGN u 1104
+BEGIN

@@ -1,0 +1,40 @@
+INSERT d5 number
+PRINT
+INSERT r2eE number
+INSERT uC3u string
+INSERT w string
+INSERT iM number
+PRINT
+INSERT dm3 number
+INSERT fo string
+o8xeJo a
+LOOKUP dm3
+INSERT pY number
+INSERT wtP number
+ASSIGN wtP 'xA'
+INSERT c number
+INSERT ay7XLT string
+INSERT zLWI string
+INSERT qX9O string
+INSERT y6IhmV string
+INSERT q2_ number
+INSERT tQIH6O string
+INSERT w67y1 string
+INSERT n0 number
+INSERT ndjs number
+INSERT z number
+ASSIGN w67y1 'Yn'
+INSERT tQABgf number
+INSERT j3gl string
+RPRINT
+INSERT w number
+INSERT t2NTK number
+RPRINT
+BEGIN
+INSERT nXt0 number
+INSERT tKkl string
+INSERT yU string
+INSERT sDTRkQ number
+jb dil7
+BEGIN
+INSERT iW string

@@ -1,0 +1,2 @@
+INSERT tc number
+INSERT xq number

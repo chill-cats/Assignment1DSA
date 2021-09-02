@@ -1,0 +1,24 @@
+INSERT g8t number
+ASSIGN g8t g8t
+INSERT bA number
+INSERT ojuHC string
+INSERT k string
+ASSIGN k 1194
+ASSIGN k ' A4'
+INSERT og string
+RPRINT
+INSERT e number
+END
+PRINT
+RPRINT
+INSERT gAd number
+INSERT k7U number
+INSERT k9nl string
+ASSIGN k7U 1167
+INSERT q number
+INSERT cS string
+INSERT z2ak number
+INSERT k2GUC number
+INSERT sgpj number
+INSERT d3 number
+INSERT qYnlk number

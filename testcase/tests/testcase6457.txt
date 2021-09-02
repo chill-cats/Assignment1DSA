@@ -1,0 +1,22 @@
+END
+BEGIN
+INSERT fe string
+INSERT jh9Tqy number
+INSERT ss number
+LOOKUP jh9Tqy
+RPRINT
+INSERT v string
+INSERT fmY number
+INSERT x string
+INSERT jKv0Q number
+INSERT t number
+ASSIGN jKv0Q 446
+INSERT hV8rK_ number
+INSERT iM number
+INSERT am number
+BEGIN
+INSERT m6 string
+INSERT mmG number
+INSERT is number
+INSERT nP number
+INSERT a string

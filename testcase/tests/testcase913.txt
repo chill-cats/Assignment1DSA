@@ -1,0 +1,4 @@
+INSERT mb number
+RPRINT
+RPRINT
+INSERT tGQ string

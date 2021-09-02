@@ -1,0 +1,36 @@
+INSERT ws88Hn string
+LOOKUP ws88Hn
+LOOKUP ws88Hn
+INSERT gH8s number
+INSERT aMtH number
+INSERT onV number
+INSERT oG3al string
+BEGIN
+END
+INSERT b string
+INSERT bBPLlW string
+INSERT vRA9fw number
+ASSIGN ws88Hn b
+INSERT xR string
+LOOKUP vRA9fw
+nXGd bs
+BEGIN
+INSERT fjifl number
+BEGIN
+INSERT godGN number
+INSERT zi7DE string
+PRINT
+INSERT p number
+INSERT qz number
+INSERT lsMZ string
+INSERT y number
+INSERT dDYWv1 string
+INSERT tofr6 number
+INSERT x string
+INSERT swT number
+INSERT w5ZHuo number
+INSERT e string
+ASSIGN swT 'M'
+INSERT pdbr string
+INSERT oF string
+END

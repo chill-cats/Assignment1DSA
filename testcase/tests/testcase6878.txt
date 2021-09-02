@@ -1,0 +1,6 @@
+INSERT eB string
+f3zc5 rT6
+INSERT hy string
+RPRINT
+INSERT vlnD number
+INSERT nLPQd string

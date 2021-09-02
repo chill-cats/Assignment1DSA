@@ -1,0 +1,11 @@
+INSERT axS number
+INSERT r string
+ASSIGN axS 305
+BEGIN
+INSERT eJ string
+INSERT kMi number
+zKjH nY
+INSERT lJmqDL number
+INSERT lL_3tc string
+ASSIGN lJmqDL 341
+INSERT r2V string

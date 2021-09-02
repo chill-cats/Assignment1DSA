@@ -1,0 +1,33 @@
+INSERT hxEfO number
+INSERT wpgk number
+INSERT p_Lk string
+INSERT lUl string
+INSERT yZ number
+INSERT yk39BW number
+ASSIGN yk39BW hxEfO
+INSERT d number
+PRINT
+INSERT lbZ number
+INSERT sG number
+END
+INSERT xR5 string
+END
+RPRINT
+ASSIGN d xR5
+RPRINT
+INSERT x string
+RPRINT
+BEGIN
+LOOKUP yk39BW
+PRINT
+oMn j2xWDh
+INSERT eCSP string
+INSERT btDrcY string
+INSERT a string
+INSERT jTb7T string
+RPRINT
+LOOKUP lbZ
+INSERT d number
+END
+INSERT e string
+INSERT yZhqc number

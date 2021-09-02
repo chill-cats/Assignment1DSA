@@ -1,0 +1,16 @@
+INSERT xr5A2 string
+INSERT kfARc7 string
+PRINT
+PRINT
+INSERT dS string
+PRINT
+INSERT fr string
+LOOKUP kfARc7
+INSERT k number
+INSERT fckl number
+ASSIGN kfARc7 'eAP'
+INSERT j number
+END
+INSERT jh4d string
+INSERT drapQi string
+INSERT dW string

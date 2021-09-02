@@ -1,0 +1,9 @@
+INSERT q number
+END
+INSERT bzqOV number
+INSERT pNrsVa string
+INSERT pNppMo number
+INSERT hl number
+ASSIGN bzqOV pNrsVa
+PRINT
+INSERT vV9M6v string

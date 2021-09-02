@@ -1,0 +1,15 @@
+INSERT wwDu number
+END
+INSERT oe string
+INSERT kj8__i string
+INSERT oYLZVD number
+INSERT wNc string
+LOOKUP wwDu
+nG r1y
+LOOKUP oYLZVD
+INSERT qIDwEr string
+RPRINT
+INSERT o8 number
+INSERT vN1 string
+INSERT ssjO string
+PRINT

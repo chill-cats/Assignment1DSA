@@ -1,0 +1,13 @@
+PRINT
+END
+INSERT mvB_ string
+INSERT q_n string
+ASSIGN q_n q_n
+INSERT z5Ful string
+INSERT rhyvEX number
+u97 jhNnNx
+RPRINT
+INSERT qZ number
+INSERT s string
+INSERT crP_j string
+BEGIN

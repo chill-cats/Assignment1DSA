@@ -1,0 +1,7 @@
+PRINT
+BEGIN
+INSERT z string
+END
+END
+INSERT s number
+INSERT mdLm number

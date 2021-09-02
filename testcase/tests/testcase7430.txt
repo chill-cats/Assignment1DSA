@@ -1,0 +1,19 @@
+INSERT bKe string
+PRINT
+INSERT be3LA string
+INSERT zUw4 number
+INSERT m number
+INSERT m4 number
+INSERT wW09u4 number
+INSERT hE number
+RPRINT
+INSERT lSG number
+INSERT i191nf string
+INSERT rGDbi number
+INSERT ysl8a string
+INSERT c string
+LOOKUP bKe
+INSERT gmGO number
+INSERT c string
+END
+INSERT mR9b number

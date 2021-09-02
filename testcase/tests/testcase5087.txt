@@ -1,0 +1,20 @@
+END
+LOOKUP lCQ
+INSERT gil string
+ASSIGN gil gil
+INSERT iS number
+PRINT
+INSERT tgJ number
+INSERT oPZW string
+INSERT j string
+ASSIGN iS iS
+INSERT zW number
+INSERT h number
+INSERT xTFpC string
+INSERT h4cJBy number
+BEGIN
+INSERT fA2Xe string
+RPRINT
+INSERT okJi string
+LOOKUP gHNhoa
+INSERT o string

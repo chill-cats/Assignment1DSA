@@ -1,0 +1,3 @@
+LOOKUP s
+INSERT eQ2E number
+INSERT tYJy number

@@ -1,0 +1,18 @@
+PRINT
+PRINT
+INSERT aS5v number
+INSERT z0f string
+xU9 q
+INSERT bM83 number
+k sT
+LOOKUP aS5v
+INSERT jHPD string
+ASSIGN bM83 835
+RPRINT
+INSERT vR9U string
+ASSIGN jHPD 422
+INSERT jG3xf string
+INSERT r9paI number
+INSERT vK6 number
+INSERT qdSPJo string
+PRINT

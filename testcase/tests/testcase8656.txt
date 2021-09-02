@@ -1,0 +1,31 @@
+INSERT tsSk string
+BEGIN
+INSERT nYV number
+INSERT p string
+INSERT p number
+INSERT oebxo number
+INSERT s string
+INSERT kA4 string
+INSERT nZ number
+INSERT wbqAd number
+INSERT j string
+INSERT nMwy string
+LOOKUP tsSk
+INSERT besLVk string
+INSERT qC8iP string
+INSERT lC29Z2 string
+RPRINT
+RPRINT
+INSERT fx1PO number
+INSERT p number
+INSERT iU number
+END
+INSERT t7a number
+INSERT dxhbiJ string
+RPRINT
+PRINT
+BEGIN
+INSERT kL0 number
+INSERT a number
+INSERT w string
+INSERT w string

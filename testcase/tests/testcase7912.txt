@@ -1,0 +1,36 @@
+INSERT c string
+RPRINT
+INSERT stc string
+INSERT yfn string
+PRINT
+INSERT xGojT string
+PRINT
+INSERT w string
+INSERT e number
+END
+ASSIGN e 302
+BEGIN
+INSERT sz number
+INSERT hk string
+INSERT jb5BZ string
+INSERT mV8n string
+INSERT p4Pck_ string
+INSERT n8l string
+RPRINT
+END
+INSERT qAYb number
+INSERT z8m number
+RPRINT
+ASSIGN qAYb 386
+INSERT mZ number
+INSERT r number
+INSERT jatqN string
+LOOKUP e
+iIv i4
+INSERT wPInhR string
+INSERT c number
+RPRINT
+INSERT xTGx_ string
+ASSIGN jatqN p4Pck_
+INSERT aNY4jn string
+INSERT cBWL string

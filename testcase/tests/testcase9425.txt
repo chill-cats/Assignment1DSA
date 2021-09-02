@@ -1,0 +1,35 @@
+END
+BEGIN
+INSERT hy_ number
+INSERT fM number
+INSERT xf string
+PRINT
+ASSIGN hy_ 'S'
+PRINT
+INSERT lTe31o number
+RPRINT
+aBcSy dpS
+RPRINT
+PRINT
+INSERT d0uM string
+INSERT e_ssEV string
+INSERT lGhHb number
+BEGIN
+END
+INSERT q string
+INSERT rT number
+INSERT ijKZqC string
+INSERT pHkyqS number
+INSERT e9 string
+INSERT lNytTZ number
+INSERT sUM string
+INSERT mm number
+INSERT i2UaS string
+INSERT j0m string
+END
+INSERT aL3H number
+INSERT ly7ALR string
+BEGIN
+BEGIN
+INSERT j string
+PRINT

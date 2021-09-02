@@ -1,0 +1,34 @@
+INSERT s_V string
+INSERT dXa string
+INSERT ghhyT0 string
+INSERT vAkWXL string
+INSERT l string
+BEGIN
+INSERT xtz number
+INSERT zF number
+LOOKUP dXa
+INSERT hLPQ string
+INSERT t0EA string
+RPRINT
+INSERT u number
+RPRINT
+LOOKUP s_V
+d1sl cztMWu
+END
+INSERT lwhl7 string
+INSERT hSlS string
+END
+ASSIGN t0EA 628
+INSERT weO79 number
+ASSIGN xtz zF
+PRINT
+RPRINT
+BEGIN
+INSERT mI string
+INSERT x2 string
+INSERT bz79cO number
+PRINT
+INSERT nLD string
+INSERT cQ string
+h3VZ qewcA
+INSERT tVcJ44 number

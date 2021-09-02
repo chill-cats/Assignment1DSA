@@ -1,0 +1,9 @@
+INSERT son5 string
+INSERT a6jL string
+LOOKUP a6jL
+INSERT shHrp string
+y r
+PRINT
+INSERT uT number
+INSERT ar string
+INSERT mlQbmf string

@@ -1,0 +1,14 @@
+INSERT f string
+INSERT tuL number
+END
+INSERT jQxGP string
+LOOKUP tuL
+BEGIN
+f l
+END
+INSERT kdVB number
+INSERT ip_F6n string
+LOOKUP tuL
+j3 uwEZ
+RPRINT
+INSERT mU4TeM number

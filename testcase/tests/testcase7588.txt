@@ -1,0 +1,21 @@
+ASSIGN jUmk 918
+INSERT w string
+INSERT aX number
+INSERT nn number
+LOOKUP nn
+INSERT j_Nrf9 string
+END
+INSERT elhB2 string
+INSERT gur number
+INSERT fXW number
+INSERT va number
+INSERT rNIyqX number
+END
+INSERT omOcg string
+ASSIGN aX 'JgUkR'
+LOOKUP omOcg
+END
+INSERT yo string
+END
+kO30 c
+INSERT mJ string

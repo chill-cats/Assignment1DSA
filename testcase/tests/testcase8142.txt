@@ -1,0 +1,30 @@
+INSERT d0 string
+BEGIN
+INSERT n number
+BEGIN
+INSERT bjf0 string
+INSERT aQ6 number
+RPRINT
+INSERT eSQ string
+INSERT d number
+INSERT x string
+INSERT ya4Ydo string
+ASSIGN ya4Ydo d0
+RPRINT
+RPRINT
+INSERT n number
+INSERT veA number
+INSERT kW string
+INSERT aeBYon number
+INSERT gOQQ number
+INSERT wOE string
+INSERT i number
+END
+INSERT yhY string
+BEGIN
+INSERT n2Um7_ string
+INSERT sEhu string
+LOOKUP bjf0
+INSERT jVo number
+RPRINT
+INSERT w5sL number

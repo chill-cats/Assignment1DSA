@@ -1,0 +1,10 @@
+INSERT ce0k string
+INSERT j number
+INSERT pF string
+INSERT c string
+ASSIGN ce0k c
+INSERT za string
+RPRINT
+INSERT hFgiDr string
+INSERT n number
+INSERT mFndch number

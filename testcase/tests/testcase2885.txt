@@ -1,0 +1,34 @@
+INSERT sts number
+INSERT xLT string
+INSERT i string
+BEGIN
+RPRINT
+INSERT yxt_N string
+INSERT bSXs2 number
+LOOKUP xLT
+PRINT
+INSERT rk5HuF string
+ASSIGN sts 1222
+END
+BEGIN
+INSERT u number
+INSERT bSl string
+INSERT e71_ string
+INSERT lkUlx number
+INSERT vgJl number
+xB5a1 pw
+LOOKUP lkUlx
+PRINT
+INSERT e_JxS number
+PRINT
+INSERT zO string
+INSERT nFPC string
+PRINT
+INSERT i7ehJ string
+LOOKUP e_JxS
+ASSIGN xLT 409
+INSERT dT3oLm string
+INSERT t number
+INSERT o string
+INSERT a number
+INSERT u number

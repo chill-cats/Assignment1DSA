@@ -1,0 +1,6 @@
+END
+INSERT l number
+ASSIGN l 1005
+INSERT rpSke5 string
+END
+INSERT vhDjbV string

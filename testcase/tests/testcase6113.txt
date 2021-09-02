@@ -1,0 +1,30 @@
+INSERT rpL82V number
+INSERT muZ string
+ASSIGN rpL82V 445
+LOOKUP rpL82V
+INSERT q_iqPv string
+INSERT n number
+END
+END
+PRINT
+INSERT fKW2PT number
+ASSIGN n 'Ze'
+INSERT txLE number
+BEGIN
+BEGIN
+INSERT u7Ni string
+LOOKUP u7Ni
+INSERT jp number
+LOOKUP n
+duYj z2
+INSERT vq5Q_ string
+INSERT tpUm7L number
+INSERT fr string
+INSERT uB6Cl6 number
+LOOKUP tpUm7L
+INSERT q string
+INSERT wDP string
+INSERT iZ92P string
+INSERT kL number
+ASSIGN rpL82V kL
+RPRINT

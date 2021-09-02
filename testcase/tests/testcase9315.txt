@@ -1,0 +1,12 @@
+ASSIGN a0o 744
+INSERT ai string
+PRINT
+INSERT e_A5 string
+LOOKUP e_A5
+INSERT xG6 number
+END
+INSERT n50am number
+INSERT aKnPQh number
+INSERT oCQS string
+z5Rz lyGYO
+BEGIN

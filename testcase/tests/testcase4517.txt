@@ -1,0 +1,40 @@
+RPRINT
+RPRINT
+INSERT hMBc number
+INSERT zM number
+INSERT m string
+LOOKUP hMBc
+RPRINT
+RPRINT
+INSERT vr number
+BEGIN
+PRINT
+INSERT r number
+INSERT rt string
+INSERT tv number
+INSERT o2 number
+RPRINT
+PRINT
+INSERT dp string
+INSERT g04 string
+INSERT hLcne number
+INSERT u number
+INSERT ubG75O string
+INSERT m number
+RPRINT
+INSERT jca number
+END
+INSERT u03 number
+PRINT
+uZQ mIk
+INSERT h_seT number
+INSERT ucB string
+INSERT uGuL string
+INSERT eMg number
+INSERT ic string
+INSERT f number
+INSERT kj number
+INSERT wJnp5P number
+LOOKUP o2
+INSERT tm9 string
+BEGIN

@@ -1,0 +1,27 @@
+RPRINT
+INSERT jg3 number
+INSERT w string
+INSERT y number
+ASSIGN jg3 259
+RPRINT
+vl5QU p
+INSERT caD7Bw string
+INSERT dq0OF string
+END
+RPRINT
+LOOKUP w
+INSERT iJYaG8 number
+RPRINT
+INSERT icwk number
+INSERT suABa number
+INSERT u string
+ASSIGN iJYaG8 'Ec6UN'
+INSERT wD33 number
+INSERT bK7HEA string
+INSERT zOui number
+INSERT jzD number
+INSERT pv string
+BEGIN
+INSERT aKq number
+INSERT o number
+INSERT z number

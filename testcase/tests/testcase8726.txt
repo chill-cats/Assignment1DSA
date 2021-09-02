@@ -1,0 +1,11 @@
+INSERT pCHhOy number
+INSERT v string
+RPRINT
+INSERT f number
+PRINT
+INSERT u8jw7 number
+INSERT opRgZ string
+INSERT vTxR7 number
+INSERT wYCQ string
+END
+INSERT zeIztX string

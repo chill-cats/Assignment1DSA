@@ -1,0 +1,36 @@
+INSERT pE8 string
+j_ tk
+ASSIGN pE8 1161
+INSERT e3 string
+o mGCQt0
+INSERT nk number
+INSERT cdVtw_ string
+INSERT hsuf6 number
+END
+INSERT ou4j string
+INSERT nfqvI string
+INSERT f number
+INSERT uZe1 string
+INSERT i number
+RPRINT
+ASSIGN pE8 1156
+INSERT uFM number
+INSERT yvAUt string
+INSERT kv number
+INSERT vC8 string
+INSERT bkhJ7_ number
+INSERT jzM9 string
+LOOKUP ou4j
+RPRINT
+INSERT t number
+INSERT f0_hU string
+INSERT q string
+INSERT l string
+INSERT jQ string
+INSERT i number
+lNZO2C bFM2
+INSERT pb string
+INSERT u3h string
+INSERT uL0MJ number
+PRINT
+INSERT r number

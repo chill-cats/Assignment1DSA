@@ -1,0 +1,40 @@
+END
+INSERT s05b string
+PRINT
+INSERT l_2D string
+INSERT cFOpj number
+BEGIN
+INSERT xUt string
+INSERT zZ4m string
+INSERT i2b7 number
+INSERT cVjn number
+INSERT p string
+INSERT oBX number
+INSERT lD7BmB number
+INSERT yAg_J number
+PRINT
+iz hYF8
+INSERT nz number
+INSERT huYNp number
+hf lhy8z
+INSERT rM8 number
+INSERT iLviZG string
+INSERT nLK string
+INSERT syNIzb number
+LOOKUP p
+ASSIGN yAg_J p
+END
+RPRINT
+LOOKUP syNIzb
+INSERT uQkZP9 number
+hG3Dp c0frY
+INSERT n6b string
+INSERT pl3Xb string
+INSERT mYRNP number
+INSERT g7Lbm number
+RPRINT
+INSERT d string
+INSERT p string
+INSERT j number
+INSERT pir_K number
+BEGIN

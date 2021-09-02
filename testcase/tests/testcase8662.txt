@@ -1,0 +1,29 @@
+PRINT
+PRINT
+END
+INSERT svTPI string
+LOOKUP svTPI
+INSERT ji0r string
+INSERT ygQs number
+mIjTJx jDNCS
+INSERT ue string
+LOOKUP ygQs
+INSERT g string
+ASSIGN ue 'o5Ey'
+INSERT l6g string
+ASSIGN ygQs ji0r
+RPRINT
+INSERT a number
+END
+INSERT e string
+PRINT
+RPRINT
+LOOKUP a
+RPRINT
+ASSIGN g 1089
+END
+ASSIGN ji0r '4Mvr'
+PRINT
+PRINT
+RPRINT
+INSERT yUwU number

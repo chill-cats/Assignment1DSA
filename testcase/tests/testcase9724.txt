@@ -1,0 +1,31 @@
+PRINT
+INSERT ndAAbl string
+INSERT c4V1 string
+INSERT jT2W number
+INSERT o string
+INSERT z8n number
+BEGIN
+INSERT p number
+INSERT bC string
+INSERT qj number
+INSERT f string
+INSERT s89DO7 string
+INSERT n string
+INSERT acuZg number
+INSERT de string
+LOOKUP o
+INSERT sz number
+INSERT tPoYy_ number
+INSERT s string
+RPRINT
+BEGIN
+INSERT mpc string
+END
+INSERT ud_k number
+PRINT
+INSERT pmziQ string
+INSERT yr number
+INSERT hHJp number
+END
+INSERT q1lv38 number
+INSERT sR0 string

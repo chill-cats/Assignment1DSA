@@ -1,0 +1,37 @@
+INSERT n2WlV number
+PRINT
+twHp32 w0
+INSERT tbr number
+INSERT fc2LVz number
+INSERT n6O3 string
+INSERT t9 number
+ASSIGN n6O3 9
+INSERT rlq number
+INSERT gf number
+END
+INSERT mWzt5y string
+LOOKUP rlq
+INSERT f number
+INSERT avSHH number
+PRINT
+ASSIGN rlq 128
+INSERT p_wS string
+END
+INSERT yTqd number
+END
+LOOKUP g
+INSERT wq string
+BEGIN
+INSERT ikQH number
+PRINT
+LOOKUP tRFv_
+INSERT y number
+BEGIN
+INSERT yflN string
+END
+RPRINT
+INSERT u string
+INSERT uq string
+INSERT pTZ number
+INSERT jTK number
+INSERT lNS number

@@ -1,0 +1,4 @@
+INSERT yig string
+INSERT bdmE string
+INSERT vgP number
+INSERT jzOnK number

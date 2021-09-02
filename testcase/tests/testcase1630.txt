@@ -1,0 +1,23 @@
+INSERT mgjRqu number
+LOOKUP mgjRqu
+ASSIGN mgjRqu '9Zb'
+ASSIGN mgjRqu 799
+INSERT hRuT2 number
+INSERT kSMJw string
+LOOKUP mgjRqu
+INSERT vz number
+INSERT wkXQ string
+INSERT qEXwK string
+INSERT f number
+INSERT u2ozn string
+INSERT p number
+qHj4z mN
+INSERT aIv number
+END
+INSERT a number
+INSERT o2 string
+INSERT i string
+INSERT bUS number
+INSERT p number
+BEGIN
+RPRINT

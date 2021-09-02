@@ -1,0 +1,10 @@
+END
+ASSIGN vqln6 1131
+END
+BEGIN
+INSERT afMw6r number
+ASSIGN afMw6r 'M2'
+BEGIN
+INSERT q_xc number
+PRINT
+INSERT h7DwFl number

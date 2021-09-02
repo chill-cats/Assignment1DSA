@@ -1,0 +1,10 @@
+RPRINT
+END
+f s7F
+INSERT y6zM string
+INSERT l string
+INSERT eCKBF8 number
+ASSIGN l eCKBF8
+INSERT aFUUel string
+INSERT hv number
+INSERT cWK7u number

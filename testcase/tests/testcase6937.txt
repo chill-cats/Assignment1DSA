@@ -1,0 +1,36 @@
+INSERT lU number
+INSERT xS number
+INSERT zpbk7 string
+END
+PRINT
+END
+RPRINT
+INSERT m0QblR string
+INSERT uz2So number
+INSERT e4LLq number
+INSERT cNa9 string
+RPRINT
+INSERT jPq string
+LOOKUP cNa9
+INSERT nmnB number
+ASSIGN jPq 'L'
+INSERT nX_I0 number
+RPRINT
+PRINT
+ASSIGN m0QblR cNa9
+INSERT qrnY number
+ASSIGN e4LLq jPq
+INSERT p number
+INSERT qv number
+INSERT i number
+tNFN fphh
+ASSIGN zpbk7 i
+INSERT fAOV string
+LOOKUP p
+RPRINT
+INSERT bGU2v number
+INSERT sD string
+INSERT fL number
+INSERT pQ1YGv string
+INSERT hWCP string
+ASSIGN jPq hWCP

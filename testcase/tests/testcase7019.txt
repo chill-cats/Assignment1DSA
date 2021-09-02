@@ -1,0 +1,15 @@
+INSERT oxKW string
+ASSIGN oxKW 101
+END
+INSERT qFw string
+INSERT g string
+INSERT sn number
+ASSIGN qFw qFw
+INSERT z number
+ASSIGN g '8ZD9'
+PRINT
+INSERT ss string
+LOOKUP qFw
+INSERT axkO number
+ASSIGN sn 641
+INSERT hfT number

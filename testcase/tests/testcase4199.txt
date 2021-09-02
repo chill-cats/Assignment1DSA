@@ -1,0 +1,15 @@
+INSERT lC number
+INSERT zZ number
+INSERT wK string
+INSERT l35VKP number
+ASSIGN zZ 'tas'
+INSERT lq4 number
+INSERT o9V6 number
+ASSIGN wK 971
+cG2o hQAYQ
+INSERT q number
+RPRINT
+INSERT q8DAfW string
+INSERT xhNMbD number
+INSERT lc10IF string
+END

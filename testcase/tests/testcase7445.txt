@@ -1,0 +1,37 @@
+INSERT gjB2 string
+y sEff
+INSERT vJoA number
+INSERT aqW9C number
+vSea xr
+INSERT nuw string
+o mS0Eh
+INSERT pv4V9k string
+ecuuW s
+INSERT ot string
+INSERT xWP4N number
+INSERT kSv number
+INSERT p3hQ string
+BEGIN
+LOOKUP pv4V9k
+INSERT oc string
+INSERT h string
+END
+RPRINT
+INSERT e7c string
+INSERT wpKS number
+INSERT nL string
+INSERT v string
+INSERT g number
+INSERT xvX number
+LOOKUP kSv
+INSERT kAK number
+PRINT
+ASSIGN e7c h
+INSERT dI4C number
+INSERT nxI number
+pN1 q3puz
+BEGIN
+RPRINT
+INSERT cpKXOQ string
+BEGIN
+LOOKUP dI4C

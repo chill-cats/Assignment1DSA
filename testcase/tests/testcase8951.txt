@@ -1,0 +1,17 @@
+BEGIN
+INSERT s number
+ASSIGN s s
+PRINT
+INSERT f2X number
+INSERT hrO number
+INSERT cfF string
+INSERT oc04kn string
+INSERT iTTi4 number
+ASSIGN hrO oc04kn
+INSERT z number
+LOOKUP z
+LOOKUP cfF
+LOOKUP s
+INSERT s string
+INSERT uHAnh string
+INSERT b number

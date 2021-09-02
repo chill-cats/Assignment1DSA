@@ -1,0 +1,13 @@
+INSERT soflrd number
+INSERT hNZcOY string
+BEGIN
+INSERT w3 string
+INSERT hawV number
+INSERT agf number
+INSERT cb6k number
+INSERT p1kS5 string
+RPRINT
+LOOKUP hNZcOY
+INSERT tP3n string
+INSERT xrrR1 string
+PRINT

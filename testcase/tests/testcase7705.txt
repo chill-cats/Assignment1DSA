@@ -1,0 +1,32 @@
+INSERT u number
+LOOKUP u
+INSERT jO1c number
+INSERT hlRX string
+ASSIGN u u
+RPRINT
+INSERT aDA string
+INSERT g4V number
+LOOKUP g4V
+BEGIN
+INSERT rZc number
+INSERT gkl number
+INSERT t string
+ASSIGN rZc 'FR4Z'
+INSERT q string
+RPRINT
+INSERT j number
+INSERT mukJO string
+END
+INSERT g number
+ASSIGN hlRX 688
+INSERT mvW number
+r8 uZ
+RPRINT
+INSERT zcW2V string
+INSERT f number
+PRINT
+INSERT kzH number
+LOOKUP aDA
+INSERT iUW string
+PRINT
+PRINT

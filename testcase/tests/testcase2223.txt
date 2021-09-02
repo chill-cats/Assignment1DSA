@@ -1,0 +1,19 @@
+INSERT q7OX number
+PRINT
+INSERT imA number
+RPRINT
+PRINT
+LOOKUP imA
+INSERT bRfY string
+INSERT z1DnEM string
+ASSIGN bRfY 1070
+END
+INSERT cb8GS number
+INSERT n string
+INSERT cTXrE number
+c8k lcLt
+INSERT t5GNl string
+INSERT eh0LR string
+ASSIGN cTXrE 859
+BEGIN
+INSERT etMMU number

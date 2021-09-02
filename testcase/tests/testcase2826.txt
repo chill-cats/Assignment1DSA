@@ -1,0 +1,32 @@
+BEGIN
+PRINT
+lv lB
+LOOKUP sDnPRF
+INSERT i9Jj number
+INSERT tCXc string
+INSERT kPIzMP number
+INSERT j_6hOj number
+INSERT fKIb_U number
+ASSIGN fKIb_U '6lY41'
+INSERT v string
+INSERT g number
+LOOKUP tCXc
+INSERT uZ3 number
+RPRINT
+INSERT tL string
+INSERT yvd string
+INSERT o number
+INSERT w string
+INSERT kf3QHU number
+INSERT kcZ number
+INSERT phutz number
+INSERT jTRHi number
+RPRINT
+LOOKUP w
+INSERT xA string
+INSERT pLPEOp number
+END
+LOOKUP i9Jj
+INSERT h number
+INSERT ah_G string
+INSERT c number

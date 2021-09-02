@@ -1,0 +1,9 @@
+INSERT pwwE7 number
+INSERT iaNN number
+INSERT yGYv number
+PRINT
+PRINT
+PRINT
+INSERT zeOC6 number
+INSERT f7q string
+END

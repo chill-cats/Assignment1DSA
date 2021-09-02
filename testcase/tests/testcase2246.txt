@@ -1,0 +1,27 @@
+INSERT h number
+RPRINT
+INSERT aetVC number
+INSERT mA7t88 string
+RPRINT
+INSERT tz string
+INSERT i number
+PRINT
+PRINT
+INSERT z string
+INSERT jtMJ string
+END
+LOOKUP h
+RPRINT
+BEGIN
+ASSIGN mA7t88 aetVC
+INSERT dlm number
+INSERT p string
+INSERT so04Ye number
+BEGIN
+RPRINT
+INSERT oF number
+INSERT m string
+ASSIGN aetVC 'WeXA'
+INSERT liy string
+END
+INSERT yc08Z number

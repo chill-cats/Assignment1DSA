@@ -1,0 +1,34 @@
+PRINT
+PRINT
+INSERT iio number
+RPRINT
+INSERT dN string
+INSERT c string
+INSERT v number
+INSERT bPTwkt string
+eR5 hb
+INSERT nyJf8t number
+INSERT yX_ number
+INSERT b1kEw string
+BEGIN
+BEGIN
+INSERT nOC4Y number
+LOOKUP v
+INSERT h string
+INSERT rs number
+INSERT ll6fQ number
+INSERT e number
+INSERT aPMVU number
+nL i7sc
+eomRa6 v
+INSERT lNz string
+INSERT aRRXn_ string
+PRINT
+ASSIGN aRRXn_ 'CV'
+INSERT wY1kC string
+RPRINT
+END
+BEGIN
+END
+INSERT q5Ce number
+INSERT io25 string

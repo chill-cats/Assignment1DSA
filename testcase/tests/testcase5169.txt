@@ -1,0 +1,33 @@
+INSERT oC number
+INSERT hf number
+INSERT n82Fz string
+PRINT
+BEGIN
+INSERT sCm number
+ASSIGN n82Fz n82Fz
+INSERT cO_UcQ number
+fbD4 z
+INSERT xxm string
+INSERT i number
+INSERT r string
+INSERT cnG number
+INSERT x6yeXL string
+ASSIGN cO_UcQ 974
+INSERT jAvEPk string
+INSERT km number
+INSERT wbLG number
+INSERT fQN_RL number
+INSERT n_RS string
+INSERT pxvkwl string
+INSERT j string
+RPRINT
+END
+PRINT
+INSERT baeg number
+INSERT m string
+INSERT yJ6s string
+INSERT n string
+END
+INSERT ogS number
+INSERT zCnym number
+INSERT dWb6l string

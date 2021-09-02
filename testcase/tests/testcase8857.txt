@@ -1,0 +1,37 @@
+INSERT b number
+INSERT wA string
+INSERT q string
+ASSIGN q 699
+INSERT b number
+INSERT wehz string
+BEGIN
+INSERT fYg7l string
+RPRINT
+INSERT qA1r string
+INSERT rx number
+INSERT bX number
+INSERT gR number
+INSERT qsaN number
+INSERT aOe number
+INSERT z_41 number
+INSERT zkXe number
+INSERT rKw0jX number
+mc2Oe qDjxZ
+PRINT
+LOOKUP wA
+pzIr7 bl
+INSERT ysQq8 string
+wsIw7 f1
+g0B ey
+ASSIGN rx 'U'
+BEGIN
+INSERT fPHH string
+INSERT mD number
+INSERT b8 number
+INSERT k number
+INSERT rUU number
+INSERT ocLf string
+LOOKUP qsaN
+INSERT knQu9 number
+ASSIGN zkXe '86gb'
+BEGIN

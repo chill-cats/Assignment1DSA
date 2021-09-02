@@ -1,0 +1,37 @@
+END
+INSERT u0zIq number
+INSERT ftLYF number
+INSERT i6MaVh number
+INSERT q string
+INSERT pyoBS string
+PRINT
+INSERT dxZ8z number
+INSERT bY string
+LOOKUP q
+END
+PRINT
+INSERT eDfk number
+INSERT aYtzD string
+INSERT vi string
+BEGIN
+INSERT hwEU string
+INSERT x string
+END
+INSERT jYyw8 number
+INSERT m52w number
+RPRINT
+RPRINT
+INSERT b number
+INSERT pc9M1 number
+INSERT k number
+BEGIN
+RPRINT
+INSERT e string
+INSERT dh609A string
+INSERT z2CRl number
+RPRINT
+INSERT s_v string
+INSERT aN string
+INSERT a string
+INSERT l string
+END

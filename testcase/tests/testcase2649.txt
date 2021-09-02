@@ -1,0 +1,8 @@
+INSERT bDk string
+INSERT v2uT number
+q39 c1V0yE
+ASSIGN bDk v2uT
+INSERT ozYGw_ string
+INSERT j string
+INSERT sk7ZO8 number
+INSERT t string

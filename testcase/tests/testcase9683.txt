@@ -1,0 +1,30 @@
+END
+LOOKUP heMUO
+INSERT t string
+INSERT tOeh string
+INSERT uk string
+END
+END
+INSERT iGS8Fe number
+INSERT z string
+INSERT c string
+INSERT l704C number
+INSERT veQ number
+INSERT aBN9U string
+RPRINT
+INSERT tFyn8a string
+INSERT oAUhW number
+INSERT sd string
+INSERT on number
+BEGIN
+INSERT hQ7 number
+RPRINT
+INSERT eM string
+END
+INSERT wNd number
+END
+RPRINT
+INSERT i number
+INSERT u8K string
+INSERT pXgGY string
+BEGIN

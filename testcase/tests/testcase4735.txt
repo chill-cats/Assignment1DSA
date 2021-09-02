@@ -1,0 +1,32 @@
+PRINT
+LOOKUP x_Ekp5
+INSERT eEN string
+PRINT
+INSERT fOt8 string
+INSERT bJim63 number
+INSERT mAr string
+INSERT gckh number
+INSERT jmLPE string
+BEGIN
+INSERT l number
+INSERT t number
+RPRINT
+INSERT peE34L number
+RPRINT
+INSERT t number
+INSERT q number
+END
+PRINT
+INSERT oRGC number
+PRINT
+INSERT jrae string
+PRINT
+INSERT ch string
+INSERT kI9j string
+LOOKUP fOt8
+INSERT nxlx7 number
+INSERT liKM string
+INSERT lewy number
+INSERT k69XD string
+INSERT s string
+INSERT k number

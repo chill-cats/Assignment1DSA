@@ -1,0 +1,29 @@
+INSERT zq string
+BEGIN
+INSERT a5f5a string
+INSERT s number
+LOOKUP a5f5a
+INSERT q string
+INSERT lz90jd string
+LOOKUP q
+PRINT
+INSERT p3e_ string
+INSERT b3u string
+INSERT mrz number
+END
+PRINT
+INSERT mcIx string
+PRINT
+RPRINT
+INSERT oi string
+INSERT zo number
+LOOKUP q
+INSERT s number
+LOOKUP mcIx
+BEGIN
+INSERT k number
+INSERT om2ZQv number
+INSERT tkI number
+INSERT hS string
+INSERT j string
+INSERT gb1Ui number

@@ -1,0 +1,23 @@
+ASSIGN t6n 590
+END
+INSERT xfct5 string
+INSERT jOG string
+INSERT zWp9Ii string
+INSERT velBUT string
+INSERT psCoNa string
+INSERT a2R string
+LOOKUP psCoNa
+END
+INSERT l5_Pp string
+ASSIGN psCoNa 'tTj'
+INSERT gHY2E string
+RPRINT
+INSERT q4HG string
+ASSIGN a2R 973
+INSERT cSCSq_ number
+INSERT dxYO5 string
+INSERT rU string
+BEGIN
+INSERT lF_ number
+BEGIN
+INSERT dDp string

@@ -1,0 +1,40 @@
+INSERT oV string
+INSERT j number
+INSERT ky7m9 number
+INSERT klE9MG number
+INSERT rz89Od number
+ASSIGN j 'M'
+INSERT ubNPs number
+INSERT rsJci9 number
+INSERT t5 number
+INSERT o3F6 number
+BEGIN
+INSERT i2 number
+INSERT aPGRpb string
+LOOKUP gG
+INSERT d2vd string
+END
+INSERT gMw string
+ASSIGN d2vd 952
+ASSIGN oV 'hSixA'
+INSERT oAG number
+INSERT qdt number
+RPRINT
+INSERT z string
+INSERT oqULJr string
+INSERT eErpI number
+INSERT eXAd string
+BEGIN
+PRINT
+INSERT a string
+INSERT j string
+INSERT gLJ number
+INSERT u string
+x t
+END
+INSERT eNs string
+INSERT yxn0da string
+INSERT lKnNO number
+sh icRT
+INSERT zHVbSq string
+END

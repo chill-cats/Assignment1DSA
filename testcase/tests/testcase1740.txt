@@ -1,0 +1,38 @@
+INSERT w number
+INSERT a string
+INSERT uR59T string
+INSERT h3W number
+INSERT m4 string
+INSERT cBgde string
+INSERT riAE string
+INSERT u number
+kk6 wvx
+INSERT eTh number
+INSERT v string
+INSERT tB9 number
+qrNq gv
+INSERT t string
+LOOKUP m1
+INSERT jG0 string
+INSERT uABh string
+LOOKUP cBgde
+INSERT aa string
+INSERT ifH_M string
+t6DGtn dH
+INSERT lRK string
+INSERT pEkyO number
+INSERT jo number
+ASSIGN iZ 'OI'
+LOOKUP ifH_M
+INSERT xwmFD6 string
+INSERT awCJmM string
+INSERT uc2OG number
+INSERT ob15 string
+END
+INSERT glp string
+BEGIN
+INSERT y string
+INSERT z_9a number
+LOOKUP awCJmM
+INSERT wsT number
+BEGIN

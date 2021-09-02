@@ -1,0 +1,25 @@
+INSERT e number
+INSERT qBV string
+INSERT ckt string
+LOOKUP e
+PRINT
+INSERT h string
+INSERT tR string
+INSERT tQbWN string
+INSERT wg5dL string
+INSERT riwXuQ number
+PRINT
+BEGIN
+INSERT zf5JE string
+xZS hOpr3
+ASSIGN zf5JE 'y'
+INSERT bcFk number
+INSERT f number
+INSERT k number
+INSERT t_B number
+r6 kENe
+INSERT sKoO string
+INSERT q4 string
+INSERT wZc number
+END
+RPRINT

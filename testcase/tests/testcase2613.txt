@@ -1,0 +1,14 @@
+LOOKUP oUyYR
+INSERT dm string
+ASSIGN dm dm
+INSERT g3 number
+egFW5 cadv
+RPRINT
+PRINT
+LOOKUP g3
+INSERT dRmn string
+INSERT m0NnnO string
+INSERT gsOO_r string
+INSERT l8f number
+INSERT mu_C string
+PRINT

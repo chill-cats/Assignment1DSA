@@ -1,0 +1,29 @@
+INSERT j96 number
+ASSIGN aGLa 1011
+INSERT f6 string
+INSERT sY string
+INSERT hekr49 number
+ASSIGN hekr49 866
+INSERT h7vC number
+INSERT r9b_ string
+INSERT ex0C string
+INSERT aRn string
+END
+BEGIN
+INSERT x8tP2g number
+INSERT y3akU number
+PRINT
+INSERT jUXsSC string
+INSERT rxI number
+INSERT z8R string
+PRINT
+PRINT
+INSERT v number
+INSERT l number
+LOOKUP f6
+ASSIGN x8tP2g 'uuU'
+INSERT cNtR60 string
+INSERT jpiE string
+BEGIN
+INSERT yAb string
+BEGIN

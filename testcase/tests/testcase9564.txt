@@ -1,0 +1,28 @@
+INSERT tOPMhj number
+RPRINT
+INSERT r1 number
+INSERT z string
+INSERT hWL3a2 string
+INSERT f__ number
+INSERT e_T number
+LOOKUP hWL3a2
+ASSIGN r1 tOPMhj
+END
+INSERT od number
+RPRINT
+INSERT n string
+INSERT o number
+INSERT xBb_2H number
+END
+INSERT jQznYS string
+slpKWk n4
+BEGIN
+INSERT rIJbZJ string
+PRINT
+INSERT p7XKW string
+n9F0 e
+PRINT
+INSERT dnpEX string
+INSERT r string
+INSERT a1uF0 number
+INSERT rWr string

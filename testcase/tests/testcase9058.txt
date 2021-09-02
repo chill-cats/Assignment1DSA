@@ -1,0 +1,18 @@
+END
+INSERT gZhao9 number
+INSERT vGpGF number
+INSERT u3 number
+INSERT wdVB string
+END
+INSERT ek string
+INSERT m string
+ASSIGN u3 'bWk'
+END
+INSERT jUkTXQ string
+INSERT e61v4E string
+ASSIGN e61v4E 'zG'
+INSERT hF_ string
+j qI
+LOOKUP jUkTXQ
+INSERT bj number
+END

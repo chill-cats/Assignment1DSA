@@ -1,0 +1,25 @@
+INSERT eCmUU number
+ASSIGN eCmUU 702
+INSERT nj number
+INSERT gWKj string
+INSERT o string
+INSERT w18 string
+END
+INSERT uhSLz string
+PRINT
+INSERT c string
+END
+INSERT lD_cuL number
+BEGIN
+INSERT cn number
+INSERT px number
+INSERT hvDN1 string
+PRINT
+LOOKUP w18
+INSERT q_ string
+INSERT ktH2i string
+INSERT beH string
+ct n1B
+INSERT f4LrQ number
+RPRINT
+INSERT j string

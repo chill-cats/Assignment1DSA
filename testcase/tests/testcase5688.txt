@@ -1,0 +1,19 @@
+INSERT g number
+INSERT bUPO string
+RPRINT
+INSERT kOxa string
+LOOKUP bUPO
+INSERT xDe string
+xDS c6g
+PRINT
+INSERT kktY string
+PRINT
+u qprL
+END
+INSERT wSa string
+INSERT jaO string
+INSERT sW number
+npwV lV
+PRINT
+INSERT wI string
+ASSIGN wI wI

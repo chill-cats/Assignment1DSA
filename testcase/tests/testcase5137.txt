@@ -1,0 +1,25 @@
+INSERT i number
+INSERT qP string
+INSERT gTfq string
+INSERT l6 string
+INSERT tIfL0 string
+END
+INSERT f string
+PRINT
+INSERT ysJD5i string
+BEGIN
+ASSIGN l6 'AB'
+INSERT z number
+ASSIGN z 'qA4'
+INSERT tM_Jh string
+INSERT kxeB string
+INSERT w_gTy0 string
+END
+ASSIGN z 'U'
+BEGIN
+LOOKUP zb
+INSERT i string
+INSERT l string
+END
+INSERT fz string
+PRINT

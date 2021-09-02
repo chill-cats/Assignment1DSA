@@ -1,0 +1,6 @@
+INSERT j number
+INSERT lJ number
+END
+INSERT aFV7 string
+BEGIN
+END

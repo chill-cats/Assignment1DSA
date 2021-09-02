@@ -1,0 +1,7 @@
+INSERT g9n number
+RPRINT
+END
+RPRINT
+PRINT
+PRINT
+INSERT pC number

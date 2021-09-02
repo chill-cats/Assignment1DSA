@@ -1,0 +1,36 @@
+INSERT rW number
+INSERT wn2jNz number
+INSERT n string
+INSERT q number
+INSERT munJff string
+INSERT z string
+sfh nAA2
+INSERT z number
+INSERT sJ7 string
+END
+INSERT f string
+INSERT ukZMOO number
+INSERT fiV9v number
+INSERT vB9F7F number
+maXwb7 ooRfH
+INSERT tKShqm number
+INSERT yr string
+BEGIN
+INSERT uNMhRO number
+LOOKUP uNMhRO
+INSERT mTJG number
+INSERT zVKy string
+INSERT hZ1H number
+INSERT hfvap string
+INSERT gj number
+INSERT ukm8t number
+INSERT c0 number
+n_QF6H w
+INSERT sVQx string
+INSERT cOr number
+LOOKUP zVKy
+INSERT y2ZSp string
+PRINT
+ASSIGN zVKy ukZMOO
+INSERT oI5_ string
+ASSIGN vB9F7F oI5_

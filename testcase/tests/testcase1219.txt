@@ -1,0 +1,4 @@
+INSERT iCSi string
+INSERT tB43D number
+LOOKUP iCSi
+INSERT g string

@@ -1,0 +1,17 @@
+INSERT jHCk number
+BEGIN
+INSERT h string
+INSERT t string
+PRINT
+RPRINT
+INSERT tELl string
+INSERT z string
+INSERT mbBNi number
+PRINT
+ASSIGN z jHCk
+INSERT q string
+INSERT i number
+END
+INSERT zUx number
+INSERT qk number
+BEGIN

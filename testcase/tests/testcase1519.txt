@@ -1,0 +1,34 @@
+LOOKUP x
+INSERT g number
+ASSIGN g g
+INSERT z string
+INSERT blAn string
+INSERT whjaC_ string
+INSERT pKoaKp string
+INSERT pFUeFz number
+END
+INSERT n_m string
+BEGIN
+tK uaqC
+INSERT sGOqd string
+INSERT hRZ number
+INSERT usa string
+LOOKUP z
+ASSIGN n_m pFUeFz
+INSERT tI8 string
+INSERT aWFzZx string
+INSERT zS string
+INSERT j95yC number
+INSERT cr string
+INSERT g number
+INSERT hLQf_L string
+PRINT
+INSERT k_X number
+END
+LOOKUP n8h5O
+INSERT hKBc string
+RPRINT
+INSERT vW string
+BEGIN
+INSERT l0 string
+INSERT e number

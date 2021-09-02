@@ -1,0 +1,8 @@
+INSERT z string
+INSERT g string
+ASSIGN zV6c9K 't'
+PRINT
+INSERT pL7J8i number
+BEGIN
+INSERT udZ string
+INSERT dCCby number

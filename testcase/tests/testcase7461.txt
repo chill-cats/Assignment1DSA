@@ -1,0 +1,38 @@
+INSERT wQnv string
+INSERT iCjT number
+ASSIGN wQnv 78
+INSERT iN0h string
+m xvj7C
+LOOKUP iN0h
+PRINT
+END
+mb u6y_o
+ASSIGN iCjT 150
+j20Swx tg
+INSERT ocirn number
+INSERT b_ string
+INSERT rNpiBm number
+INSERT wNg number
+INSERT kLIV number
+INSERT n number
+INSERT c9vE string
+RPRINT
+ASSIGN rNpiBm iN0h
+INSERT vu5qx string
+INSERT mcev2 string
+pE2NCL wHu
+INSERT xBS string
+INSERT yKN1 string
+INSERT hYg number
+LOOKUP mcev2
+INSERT kKB number
+INSERT quA_ number
+INSERT mqvTLs string
+PRINT
+INSERT rTPo number
+INSERT mod string
+ASSIGN r4p9 'L4'
+INSERT w_G69 string
+LOOKUP wQnv
+END
+LOOKUP quA_

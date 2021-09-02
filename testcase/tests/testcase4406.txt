@@ -1,0 +1,15 @@
+INSERT bmvI string
+LOOKUP bmvI
+INSERT kvM number
+INSERT gtuZ2E number
+INSERT sqh string
+PRINT
+INSERT b number
+ASSIGN kvM 1212
+END
+INSERT xnD string
+INSERT a number
+BEGIN
+INSERT tpaNDZ string
+INSERT q number
+RPRINT

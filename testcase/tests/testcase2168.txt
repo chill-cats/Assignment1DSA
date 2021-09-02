@@ -1,0 +1,33 @@
+INSERT jclI string
+INSERT yqqV string
+END
+ASSIGN yqqV jclI
+RPRINT
+INSERT xPHPB number
+END
+INSERT x string
+END
+RPRINT
+INSERT mn string
+INSERT lTDuR string
+INSERT k string
+END
+PRINT
+INSERT sS string
+INSERT bVU string
+LOOKUP lTDuR
+INSERT oJR string
+BEGIN
+BEGIN
+PRINT
+INSERT dJ_ number
+INSERT nJ string
+BEGIN
+INSERT ti number
+INSERT rKBm1G string
+INSERT dalrd number
+BEGIN
+INSERT nezrhE number
+PRINT
+rJoRN s5
+INSERT yT string

@@ -1,0 +1,37 @@
+INSERT dL string
+BEGIN
+LOOKUP dL
+INSERT tO string
+INSERT iP string
+INSERT g number
+INSERT yNZ number
+INSERT bZ string
+INSERT gTl number
+RPRINT
+INSERT qRBTXt number
+END
+LOOKUP yNZ
+INSERT snO string
+INSERT i string
+INSERT co7N string
+INSERT aL6n string
+INSERT yM2g string
+INSERT l number
+j7NPk b
+INSERT s number
+INSERT k8 number
+INSERT j6orP string
+INSERT luNMm number
+INSERT iDq number
+BEGIN
+ztLcju n0B05A
+INSERT ynN number
+INSERT g5UR string
+INSERT fBi string
+RPRINT
+RPRINT
+RPRINT
+LOOKUP bZ
+RPRINT
+INSERT ii string
+INSERT tV number

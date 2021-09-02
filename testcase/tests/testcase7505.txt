@@ -1,0 +1,20 @@
+INSERT q string
+LOOKUP q
+LOOKUP q
+INSERT mh8rWt number
+INSERT j12gCF number
+INSERT e number
+INSERT m31R string
+INSERT t01TEd number
+xcZA w16LyG
+END
+END
+RPRINT
+INSERT ts5 number
+INSERT dpuk number
+INSERT oa string
+INSERT gsVjp string
+INSERT mi number
+LOOKUP mi
+INSERT nj number
+INSERT s string

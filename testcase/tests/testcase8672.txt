@@ -1,0 +1,36 @@
+ASSIGN kpe 796
+INSERT w number
+INSERT y06Lq string
+INSERT nkLEQ number
+INSERT ag string
+INSERT r string
+INSERT aj7 number
+PRINT
+RPRINT
+BEGIN
+INSERT qC3 number
+BEGIN
+PRINT
+END
+INSERT vp1 string
+INSERT dYdce4 number
+END
+RPRINT
+INSERT qWl8F6 number
+INSERT vJ string
+INSERT yk6 number
+INSERT g number
+INSERT n62O number
+ASSIGN qWl8F6 606
+INSERT p9xzpW string
+INSERT y0a9V string
+INSERT sfMTiJ string
+INSERT me string
+PRINT
+INSERT iWXdGH string
+INSERT f8XS number
+INSERT oJd number
+BEGIN
+INSERT waX number
+INSERT tMA number
+RPRINT

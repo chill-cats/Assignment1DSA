@@ -1,0 +1,17 @@
+INSERT pii string
+INSERT yg number
+INSERT h7nH2h string
+INSERT ox6q string
+INSERT kGe number
+INSERT pt number
+INSERT pyDMrs string
+LOOKUP ox6q
+INSERT i string
+PRINT
+RPRINT
+INSERT w string
+BEGIN
+INSERT c string
+pSi atqz
+INSERT pSB9B string
+INSERT zq_G string

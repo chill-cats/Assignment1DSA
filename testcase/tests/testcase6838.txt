@@ -1,0 +1,40 @@
+vG uY
+INSERT tO string
+INSERT wT number
+BEGIN
+RPRINT
+INSERT b8p1e number
+INSERT n string
+INSERT b_unT string
+ASSIGN b8p1e b_unT
+nBNl i
+INSERT no7EL string
+END
+INSERT e number
+RPRINT
+INSERT rGzoT number
+INSERT oj number
+ASSIGN oj oj
+PRINT
+INSERT rH2SE number
+PRINT
+INSERT l3j3Z number
+INSERT iNAoP string
+END
+INSERT k3eR number
+ASSIGN b_unT 1219
+BEGIN
+RPRINT
+INSERT eLNeFL number
+RPRINT
+INSERT re number
+INSERT mz6Qc string
+INSERT fJ3 number
+LOOKUP re
+INSERT qHKERa number
+INSERT rmC5z string
+RPRINT
+INSERT yP number
+INSERT d number
+RPRINT
+BEGIN

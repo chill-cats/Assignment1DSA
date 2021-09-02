@@ -1,0 +1,7 @@
+INSERT gq9 number
+INSERT g string
+PRINT
+INSERT cBE number
+INSERT r number
+INSERT c string
+INSERT a number

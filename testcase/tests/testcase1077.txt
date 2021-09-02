@@ -1,0 +1,12 @@
+INSERT k string
+LOOKUP k
+INSERT a4 number
+INSERT fi number
+INSERT v number
+mK rrpfV
+INSERT u number
+INSERT gC4 number
+INSERT sWXq string
+BEGIN
+INSERT e8tJMZ number
+INSERT pMuOG number

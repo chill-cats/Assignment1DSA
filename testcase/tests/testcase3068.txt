@@ -1,0 +1,40 @@
+INSERT w string
+INSERT oAhwU string
+INSERT aEYy number
+INSERT iF string
+RPRINT
+INSERT twjSjD number
+INSERT kq3py number
+LOOKUP kq3py
+ASSIGN kq3py iF
+INSERT yxX3 number
+INSERT kgDe string
+INSERT shFOKL string
+INSERT tyxe string
+INSERT n8Fvy number
+INSERT lx08 number
+INSERT t number
+INSERT zQ string
+INSERT bL string
+INSERT y string
+INSERT q number
+INSERT tRL number
+INSERT kCO string
+INSERT u number
+RPRINT
+RPRINT
+INSERT m string
+INSERT uu7e1 number
+INSERT dp_u14 string
+RPRINT
+INSERT yYsDE string
+PRINT
+INSERT osdQ9 string
+INSERT zgxMK number
+INSERT l6J number
+INSERT sF5 number
+INSERT q7O string
+INSERT bZ string
+INSERT kh5N string
+INSERT aun number
+INSERT zXeR number

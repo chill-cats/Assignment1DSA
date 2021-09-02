@@ -1,0 +1,36 @@
+INSERT t string
+LOOKUP t
+INSERT g string
+INSERT r number
+END
+INSERT w string
+END
+INSERT t0S8m string
+LOOKUP w
+INSERT j6xDH string
+INSERT u number
+LOOKUP w
+INSERT i9 string
+BEGIN
+INSERT i8Dpr string
+INSERT bmDDd string
+INSERT bvDO_q string
+RPRINT
+INSERT wknce string
+INSERT g4 number
+INSERT fEm07 string
+INSERT lqudIF number
+INSERT t number
+INSERT m_mL9 number
+INSERT wskV string
+BEGIN
+PRINT
+END
+INSERT yzL string
+ASSIGN i8Dpr 996
+INSERT pmLZ string
+RPRINT
+RPRINT
+LOOKUP wknce
+INSERT qh number
+END

@@ -1,0 +1,32 @@
+INSERT c1CqhG number
+INSERT n8Q4J number
+INSERT qGA2JP number
+INSERT yU9 string
+INSERT au string
+INSERT y0 number
+LOOKUP qGA2JP
+INSERT mB6 number
+INSERT oq1 string
+PRINT
+PRINT
+ASSIGN c1CqhG 'Dy2Hg'
+INSERT z7Blv5 number
+RPRINT
+INSERT eSN5 number
+INSERT gR1 string
+PRINT
+PRINT
+INSERT oI number
+LOOKUP c1CqhG
+RPRINT
+PRINT
+ASSIGN c1CqhG 232
+INSERT i42 number
+LOOKUP c1CqhG
+hd xH_FB
+INSERT nmJcR string
+ASSIGN qGA2JP 'H'
+INSERT lezEIJ string
+RPRINT
+PRINT
+INSERT eFS string

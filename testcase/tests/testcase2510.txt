@@ -1,0 +1,3 @@
+INSERT y string
+INSERT bS7 string
+PRINT

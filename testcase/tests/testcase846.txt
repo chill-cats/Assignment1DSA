@@ -1,0 +1,35 @@
+INSERT dwLp string
+INSERT vKc string
+INSERT zY1Ni string
+BEGIN
+INSERT bfxg number
+INSERT iB string
+INSERT jAlB number
+INSERT twl5 number
+PRINT
+k iKdda
+INSERT ts9H5 string
+PRINT
+INSERT ls string
+RPRINT
+INSERT a_FY number
+BEGIN
+END
+INSERT qYtNm number
+INSERT dh8xx7 number
+LOOKUP dwLp
+BEGIN
+INSERT nH number
+BEGIN
+PRINT
+INSERT rc number
+PRINT
+BEGIN
+INSERT n3P string
+INSERT ly number
+INSERT c0 string
+INSERT zFAu string
+INSERT cu number
+INSERT a7_qDS number
+INSERT cDZRN string
+ASSIGN ts9H5 '8ezL'

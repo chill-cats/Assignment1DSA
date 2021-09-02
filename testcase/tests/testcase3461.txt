@@ -1,0 +1,21 @@
+INSERT hvSR number
+LOOKUP hvSR
+INSERT vp number
+RPRINT
+PRINT
+INSERT wNXK number
+INSERT kIs number
+INSERT k number
+INSERT qS number
+INSERT z number
+INSERT s number
+ASSIGN s k
+INSERT qpS number
+INSERT mx string
+LOOKUP qpS
+RPRINT
+INSERT a number
+LOOKUP kIs
+xZev iWW
+ASSIGN s 'A'
+INSERT s80nQ number

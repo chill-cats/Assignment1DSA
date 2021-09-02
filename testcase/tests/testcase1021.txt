@@ -1,0 +1,35 @@
+END
+INSERT mK77Va string
+END
+END
+INSERT l7 number
+INSERT zY string
+INSERT v6o7N5 string
+INSERT qcL string
+INSERT vh string
+BEGIN
+INSERT a5p5 string
+END
+INSERT jHCw number
+INSERT vq1 string
+INSERT xR number
+END
+RPRINT
+INSERT sA string
+RPRINT
+INSERT xg9z4 number
+INSERT uCB number
+INSERT tuwQn string
+LOOKUP v6o7N5
+u98_ aplD
+INSERT oW8nr number
+PRINT
+RPRINT
+INSERT bHX9 string
+END
+INSERT yQ number
+ASSIGN vq1 'qNF'
+INSERT rohHS number
+BEGIN
+INSERT n9 number
+INSERT pT string

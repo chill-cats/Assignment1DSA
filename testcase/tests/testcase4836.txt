@@ -1,0 +1,14 @@
+INSERT pplH number
+INSERT tVX number
+PRINT
+INSERT fOlchv number
+INSERT reZz string
+INSERT iU number
+kXz flRb
+INSERT dpJLoD number
+LOOKUP tVX
+END
+RPRINT
+ASSIGN reZz tVX
+INSERT u7hqr number
+INSERT mGULpg number

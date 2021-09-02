@@ -1,0 +1,9 @@
+INSERT jo061 number
+END
+iRDm vUR
+INSERT bV0 string
+END
+LOOKUP bV0
+INSERT qGzLSX number
+INSERT ls6 string
+LOOKUP jo061

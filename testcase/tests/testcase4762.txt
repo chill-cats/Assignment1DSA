@@ -1,0 +1,25 @@
+INSERT hS string
+BEGIN
+RPRINT
+INSERT xB string
+INSERT lb number
+INSERT c number
+INSERT u number
+INSERT mSPn string
+ASSIGN c 1125
+INSERT g number
+INSERT tY string
+PRINT
+INSERT orSk number
+INSERT rOmq string
+BEGIN
+INSERT dJy number
+INSERT ny string
+ASSIGN dJy 'VOlQ'
+INSERT gq9 string
+INSERT zwRVs5 number
+INSERT j string
+INSERT vi66yt string
+INSERT pYyhS string
+BEGIN
+INSERT iBBJ number

@@ -1,0 +1,27 @@
+INSERT bC3mj string
+INSERT lZIL number
+RPRINT
+LOOKUP lZIL
+INSERT gtu0 number
+INSERT r string
+INSERT v1 number
+INSERT g1TMgz number
+INSERT sWeL string
+INSERT yMWg string
+INSERT xuSd number
+INSERT c2B number
+xR mlF
+RPRINT
+END
+PRINT
+INSERT sZuPM string
+INSERT hVMPP string
+INSERT zh string
+INSERT u string
+INSERT sYDgwl string
+INSERT bc string
+LOOKUP c2B
+PRINT
+INSERT t4z string
+RPRINT
+INSERT l number

@@ -1,0 +1,4 @@
+INSERT i4z number
+LOOKUP i4z
+INSERT iHaLi number
+INSERT cK string

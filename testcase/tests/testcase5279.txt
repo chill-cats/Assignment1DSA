@@ -1,0 +1,23 @@
+INSERT j1Vv number
+ASSIGN j1Vv 617
+INSERT lrT number
+INSERT z string
+INSERT xlEeit number
+END
+END
+BEGIN
+INSERT wu6VYY string
+INSERT xZ number
+BEGIN
+INSERT tJn8 string
+PRINT
+INSERT hVmpq number
+INSERT q3v string
+END
+INSERT o string
+LOOKUP o
+LOOKUP xlEeit
+INSERT oWh6 number
+ASSIGN z 1161
+cny vRd
+INSERT r string

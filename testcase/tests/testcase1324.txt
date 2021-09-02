@@ -1,0 +1,32 @@
+INSERT nVAH number
+INSERT nvg number
+INSERT s string
+ASSIGN nVAH 533
+ASSIGN hKWPXT 202
+INSERT gbKz string
+guA h
+INSERT y number
+ASSIGN y 'NDA'
+PRINT
+INSERT dprLd number
+INSERT uENcPp string
+INSERT x string
+INSERT o5a8A number
+RPRINT
+INSERT iLy number
+INSERT xkcK string
+INSERT t_qDVy string
+INSERT ifyLV9 string
+INSERT xmwm number
+INSERT vK string
+INSERT hzk8 number
+INSERT uSQKM string
+INSERT kpzWJ string
+ASSIGN o5a8A 474
+INSERT c string
+END
+INSERT zJV string
+INSERT s8 string
+INSERT z number
+INSERT vh2A string
+INSERT v number

@@ -1,0 +1,20 @@
+vgD c4aSb
+INSERT v9j string
+INSERT y number
+INSERT rgj string
+RPRINT
+INSERT fFz string
+END
+g nzeE
+ASSIGN y rgj
+kZjeu1 qbcGbM
+INSERT bBZ6 string
+LOOKUP v9j
+RPRINT
+INSERT lDr number
+INSERT cMEX number
+INSERT n5xZ number
+RPRINT
+INSERT kETRVw string
+RPRINT
+INSERT yh number

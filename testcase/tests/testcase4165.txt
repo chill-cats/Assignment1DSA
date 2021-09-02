@@ -1,0 +1,35 @@
+INSERT vf9P string
+INSERT iZEAx number
+END
+INSERT pLbK2 string
+INSERT b4U string
+INSERT iHjAb string
+ASSIGN iZEAx '5I'
+INSERT l3 number
+LOOKUP pLbK2
+INSERT hz string
+INSERT b2BrtQ number
+LOOKUP iHjAb
+hYBJ zvO
+LOOKUP vf9P
+INSERT dwU0 string
+INSERT yi string
+INSERT gf number
+LOOKUP l3
+INSERT lLZC7M number
+INSERT pFrso7 number
+INSERT n9r0 string
+INSERT uC string
+BEGIN
+INSERT k string
+PRINT
+INSERT pE8c number
+INSERT jk_ number
+INSERT lUE0I number
+sugLC r
+INSERT cY string
+ASSIGN vf9P 297
+BEGIN
+INSERT z2FpS number
+INSERT j4u6 number
+INSERT ps number

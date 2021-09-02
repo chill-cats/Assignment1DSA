@@ -1,0 +1,3 @@
+INSERT alS string
+LOOKUP alS
+BEGIN

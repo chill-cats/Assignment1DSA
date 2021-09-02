@@ -1,0 +1,12 @@
+INSERT m number
+INSERT tSMd number
+INSERT pdn string
+INSERT etI96y number
+ASSIGN tSMd 352
+INSERT tl0 string
+INSERT y51j number
+PRINT
+INSERT v2 number
+INSERT se string
+INSERT gRP number
+INSERT tYbg number

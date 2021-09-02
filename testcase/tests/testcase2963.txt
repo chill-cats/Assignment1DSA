@@ -1,0 +1,26 @@
+BEGIN
+INSERT afUDXC number
+INSERT aae_rJ number
+LOOKUP aae_rJ
+INSERT g5qM string
+INSERT qqEe number
+INSERT b0R6b number
+r0pUoA lT
+yIoLY o26
+INSERT zE string
+INSERT rWoSw string
+LOOKUP g5qM
+RPRINT
+ASSIGN rWoSw g5qM
+INSERT gc string
+LOOKUP aae_rJ
+PRINT
+INSERT vJ3 string
+INSERT u string
+INSERT nDr number
+INSERT e_S_ae string
+BEGIN
+RPRINT
+INSERT n number
+ASSIGN rWoSw rWoSw
+INSERT lUtHA string

@@ -1,0 +1,25 @@
+INSERT wRJg2 string
+INSERT si string
+ASSIGN si '9'
+INSERT kf string
+END
+INSERT dmlXQg number
+RPRINT
+INSERT hoS string
+END
+BEGIN
+INSERT e_Qm string
+INSERT zgZsa number
+INSERT l6e number
+INSERT y0X string
+LOOKUP kf
+INSERT xVBO number
+PRINT
+INSERT x3 number
+LOOKUP l6e
+INSERT oPE number
+INSERT snK string
+ASSIGN x3 1095
+BEGIN
+INSERT oP string
+RPRINT

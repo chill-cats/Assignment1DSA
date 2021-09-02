@@ -1,0 +1,39 @@
+LOOKUP bLi17h
+END
+LOOKUP j
+RPRINT
+kyRAN tWCO
+INSERT wvC string
+INSERT k_a string
+INSERT ce string
+BEGIN
+INSERT p string
+INSERT r8lI number
+lOUk j
+INSERT g4e string
+INSERT zkFYuD number
+INSERT xpWG number
+INSERT xfVsn string
+LOOKUP g4e
+ASSIGN p 500
+INSERT hS5fBT number
+INSERT aMnDwR number
+PRINT
+BEGIN
+LOOKUP xpWG
+PRINT
+INSERT zoW8 number
+ASSIGN xpWG 735
+LOOKUP r8lI
+END
+INSERT lwNcq number
+RPRINT
+INSERT x string
+PRINT
+LOOKUP wvC
+INSERT qrUg number
+INSERT vf string
+INSERT eY number
+INSERT dn number
+INSERT ddS2I8 number
+INSERT uzr string

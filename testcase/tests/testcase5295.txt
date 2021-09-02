@@ -1,0 +1,26 @@
+INSERT vr number
+INSERT y9CWx1 string
+INSERT sB6F6D string
+LOOKUP vr
+ahEQ eMJk
+INSERT zPiR number
+INSERT zn string
+BEGIN
+INSERT oTcz4 number
+INSERT z8e string
+INSERT bv string
+INSERT jMmTg string
+INSERT yytI string
+END
+INSERT d83F1 number
+INSERT jC9I number
+INSERT w9zO string
+INSERT gt number
+INSERT gcxi4A string
+INSERT yG string
+END
+INSERT jQ string
+ASSIGN jQ 'o5j0l'
+PRINT
+LOOKUP yytI
+INSERT qfEc6w number

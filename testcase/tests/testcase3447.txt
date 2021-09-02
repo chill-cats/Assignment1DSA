@@ -1,0 +1,8 @@
+INSERT n number
+INSERT cn string
+INSERT qELy4u number
+INSERT dx2W7 string
+ASSIGN cn 'sOF'
+INSERT eZ8 string
+INSERT wNL6o string
+INSERT b5Ji string

@@ -1,0 +1,8 @@
+INSERT gWIIh string
+PRINT
+INSERT pN7hz string
+LOOKUP pN7hz
+INSERT eL number
+INSERT xnz string
+RPRINT
+PRINT

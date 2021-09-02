@@ -1,0 +1,17 @@
+INSERT z number
+INSERT lhKS number
+INSERT fM1 string
+LOOKUP lhKS
+INSERT q number
+INSERT qmIc number
+INSERT g93G number
+INSERT uyGZOH number
+ASSIGN fM1 'FwM'
+INSERT x7 string
+e tYNvqQ
+END
+LOOKUP fM1
+INSERT rFe_k string
+RPRINT
+INSERT uV2 string
+END

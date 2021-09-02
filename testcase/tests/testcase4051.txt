@@ -1,0 +1,13 @@
+INSERT mf4q string
+INSERT zPJ string
+LOOKUP zPJ
+INSERT vP number
+LOOKUP mf4q
+INSERT b8XmY4 string
+mjyb vt
+RPRINT
+INSERT hn4jI string
+INSERT gMmT string
+ASSIGN vP 1112
+INSERT h4fA string
+INSERT zexD number

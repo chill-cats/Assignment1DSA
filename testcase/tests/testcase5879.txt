@@ -1,0 +1,16 @@
+BEGIN
+BEGIN
+END
+ASSIGN qJkF 733
+INSERT gC string
+END
+ASSIGN gC '9'
+INSERT dXO number
+INSERT v_Y number
+INSERT wnsn string
+RPRINT
+INSERT oys string
+INSERT xuQ number
+ep m
+PRINT
+ASSIGN dXO 'kr'

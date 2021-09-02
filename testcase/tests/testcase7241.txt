@@ -1,0 +1,28 @@
+END
+INSERT c string
+INSERT mLF8 number
+ASSIGN mLF8 '4IGVz'
+INSERT uQZ2 string
+INSERT m4e number
+RPRINT
+LOOKUP mLF8
+BEGIN
+INSERT yHZEg string
+INSERT gmGlZ string
+INSERT wcC number
+INSERT uc number
+INSERT ewQvl number
+RPRINT
+INSERT cn string
+INSERT c850k6 string
+INSERT wPIlUk number
+INSERT rG string
+INSERT xa number
+INSERT hT8g number
+BEGIN
+INSERT vh number
+PRINT
+INSERT leoY13 number
+RPRINT
+INSERT qHq3 number
+INSERT xrN string

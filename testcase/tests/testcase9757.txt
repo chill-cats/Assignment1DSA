@@ -1,0 +1,26 @@
+LOOKUP n4ch
+INSERT dOeWP number
+PRINT
+ASSIGN dOeWP 747
+INSERT zapT number
+ASSIGN zapT 886
+INSERT amHV string
+END
+INSERT o_61F string
+INSERT g string
+INSERT gVYk string
+BEGIN
+INSERT rHC number
+INSERT wXai8S number
+INSERT a6Idxs number
+LOOKUP a6Idxs
+INSERT m number
+INSERT vbE number
+v qs6
+INSERT pu number
+INSERT zSw number
+INSERT b number
+LOOKUP m
+INSERT vPcx string
+END
+INSERT p0JHKP number

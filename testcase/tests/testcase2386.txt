@@ -1,0 +1,18 @@
+RPRINT
+PRINT
+INSERT b5nZ number
+s uM
+INSERT m number
+BEGIN
+INSERT bKQv string
+ASSIGN bKQv 949
+INSERT e number
+ASSIGN b5nZ 'D'
+itSG mHl
+BEGIN
+INSERT gn string
+INSERT w7ge string
+RPRINT
+INSERT ko number
+RPRINT
+INSERT uVSt string

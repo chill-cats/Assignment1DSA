@@ -1,0 +1,38 @@
+INSERT woTc string
+INSERT qvIu number
+PRINT
+INSERT s string
+ASSIGN woTc 'Zf5'
+INSERT z string
+ASSIGN woTc 126
+INSERT eS48 number
+INSERT t8 string
+PRINT
+INSERT p string
+RPRINT
+INSERT y number
+LOOKUP y
+INSERT lY string
+INSERT cPPOE string
+INSERT qwyYiP number
+RPRINT
+INSERT yT string
+INSERT cb string
+INSERT p6 string
+ASSIGN lY 'St'
+INSERT lr number
+BEGIN
+INSERT e string
+END
+INSERT u3gja number
+INSERT bl5 string
+INSERT oC5akL number
+INSERT p string
+INSERT vPE string
+BEGIN
+INSERT lcZ number
+t1 gHp
+INSERT s7Rwg string
+INSERT hD string
+LOOKUP woTc
+INSERT nL number

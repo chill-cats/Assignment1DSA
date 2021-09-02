@@ -1,0 +1,7 @@
+INSERT dVwJ3 number
+INSERT e string
+RPRINT
+INSERT hZw string
+INSERT usLCi number
+INSERT oUak number
+INSERT lJab2T number

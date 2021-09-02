@@ -1,0 +1,4 @@
+INSERT mjJ number
+INSERT xBhK6 string
+INSERT avWQH string
+RPRINT

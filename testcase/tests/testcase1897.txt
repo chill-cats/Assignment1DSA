@@ -1,0 +1,29 @@
+ASSIGN x 94
+INSERT fs number
+PRINT
+ASSIGN fs 'E'
+BEGIN
+PRINT
+INSERT k2 number
+INSERT wk_ number
+INSERT dLbWA number
+BEGIN
+fDz_b yb5hgz
+INSERT pPF string
+INSERT dHvLg string
+INSERT reTkm number
+INSERT hF string
+INSERT o string
+INSERT yF8A string
+ASSIGN wk_ 'NjL4N'
+RPRINT
+INSERT no9j string
+INSERT v string
+INSERT u number
+INSERT bAgoHM number
+BEGIN
+INSERT p number
+INSERT lzdjT8 string
+END
+rPfd9 iinGf
+INSERT oeErp number

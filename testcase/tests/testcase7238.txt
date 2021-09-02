@@ -1,0 +1,30 @@
+INSERT p string
+INSERT p07 number
+INSERT puGV number
+LOOKUP puGV
+RPRINT
+jY xr12
+INSERT i string
+INSERT cE number
+ASSIGN p i
+ASSIGN p 'y'
+INSERT cB15MG string
+ASSIGN i 'uVr'
+INSERT beF4H string
+INSERT iiyvD string
+INSERT uLuF string
+INSERT u number
+LOOKUP u
+LOOKUP iiyvD
+INSERT h string
+INSERT n number
+INSERT u string
+INSERT sNG number
+INSERT qbKWpH string
+PRINT
+INSERT tf number
+INSERT oeJQ number
+INSERT o number
+INSERT b string
+INSERT b string
+INSERT rKd number

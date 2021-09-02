@@ -1,0 +1,29 @@
+r n39xf
+INSERT sn number
+INSERT yz798 number
+INSERT w3JGc string
+RPRINT
+LOOKUP sn
+RPRINT
+INSERT nO7tR string
+BEGIN
+RPRINT
+ASSIGN sn nO7tR
+ASSIGN yz798 nO7tR
+END
+INSERT zN number
+INSERT oOUg number
+INSERT pl number
+RPRINT
+INSERT ogfoDA number
+INSERT e string
+INSERT ksMUTE number
+LOOKUP w3JGc
+INSERT aN number
+INSERT iCvZY number
+ASSIGN sn 'KQsRs'
+INSERT p7WrZ string
+RPRINT
+INSERT aXC9 string
+INSERT xSvlH number
+INSERT l string

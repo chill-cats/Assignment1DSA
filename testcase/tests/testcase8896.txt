@@ -1,0 +1,38 @@
+LOOKUP ngM
+INSERT mxLmha string
+ASSIGN mxLmha 884
+INSERT n_H number
+RPRINT
+INSERT aMWY number
+INSERT lC96 string
+LOOKUP lC96
+INSERT u number
+INSERT p number
+INSERT j05N number
+INSERT bdq8Q number
+INSERT dj number
+INSERT g string
+INSERT gr number
+END
+INSERT yBViK number
+INSERT gb string
+INSERT c_1 number
+INSERT iRlF string
+RPRINT
+RPRINT
+INSERT dj number
+PRINT
+RPRINT
+INSERT aiG string
+ASSIGN gb '8D8g'
+LOOKUP gr
+vP bUqgzW
+END
+LOOKUP c_1
+LOOKUP dj
+PRINT
+RPRINT
+ASSIGN iRlF 'vg'
+INSERT ue number
+END
+RPRINT

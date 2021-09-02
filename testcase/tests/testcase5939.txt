@@ -1,0 +1,37 @@
+INSERT s5Zu string
+INSERT ixL1 string
+INSERT it string
+LOOKUP ixL1
+BEGIN
+INSERT xsTmb number
+INSERT zTS string
+LOOKUP s5Zu
+INSERT o0 number
+ASSIGN ixL1 it
+LOOKUP zTS
+INSERT xG string
+INSERT n8_L1U string
+INSERT p55 number
+INSERT kWe number
+END
+LOOKUP xG
+PRINT
+RPRINT
+dEP uHT9
+INSERT k string
+yqof z
+INSERT eKn number
+INSERT u6J string
+INSERT y9SlHj number
+INSERT d9R number
+INSERT py number
+RPRINT
+INSERT a70U number
+LOOKUP o0
+INSERT bUd number
+nnj n2G8w0
+LOOKUP kWe
+END
+INSERT hcDDw number
+INSERT iahD string
+RPRINT

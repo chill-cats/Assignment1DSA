@@ -1,0 +1,18 @@
+LOOKUP jn
+INSERT rGg string
+j dQ__
+INSERT bg9 string
+INSERT q number
+INSERT h1Z5_F number
+INSERT pc0 number
+INSERT hI_p number
+INSERT elAN4L number
+PRINT
+INSERT jGYE4q number
+LOOKUP elAN4L
+RPRINT
+INSERT yJ2 number
+PRINT
+PRINT
+BEGIN
+INSERT aaH number

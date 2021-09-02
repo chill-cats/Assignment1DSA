@@ -1,0 +1,34 @@
+INSERT y_i string
+INSERT z number
+INSERT xjS number
+INSERT k7Wm string
+ASSIGN xjS xjS
+LOOKUP xjS
+INSERT uj8WN number
+INSERT ic8k7f string
+RPRINT
+INSERT aZK63 string
+INSERT rZxg9 string
+RPRINT
+INSERT jKc02s number
+INSERT g8d string
+INSERT bqBA number
+RPRINT
+INSERT mgLJrx string
+RPRINT
+INSERT rGH2K string
+INSERT r string
+END
+BEGIN
+lm x1dM
+LOOKUP xjS
+INSERT m string
+END
+INSERT w string
+END
+oMXeeW c2zU
+INSERT v2 number
+RPRINT
+INSERT gTK number
+INSERT hgS number
+RPRINT

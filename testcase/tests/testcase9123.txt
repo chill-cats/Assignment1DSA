@@ -1,0 +1,20 @@
+LOOKUP pFQG
+INSERT pFm number
+INSERT gfaW string
+INSERT h3I string
+INSERT zgH number
+INSERT z9Hl6R number
+INSERT uyg string
+INSERT kG1O string
+INSERT xuDj75 number
+INSERT oD_y string
+ASSIGN uyg oD_y
+INSERT iE number
+INSERT kYHC string
+END
+jvI y5I
+PRINT
+ASSIGN xuDj75 416
+INSERT qT number
+INSERT dnDHU string
+INSERT q number

@@ -1,0 +1,32 @@
+INSERT quoB number
+INSERT sBJ6Y string
+INSERT iJ string
+INSERT ak number
+INSERT z86B string
+INSERT mwo number
+LOOKUP ak
+INSERT h number
+INSERT d number
+INSERT eFb number
+INSERT ph string
+RPRINT
+INSERT l_9 string
+INSERT kPvSv string
+RPRINT
+INSERT qVDh number
+INSERT tXib number
+LOOKUP kPvSv
+INSERT a718E string
+INSERT e string
+nz y
+INSERT y string
+INSERT j number
+INSERT qd number
+BEGIN
+END
+LOOKUP eFb
+INSERT mnPLUg number
+INSERT m string
+END
+k_2Y vXOr
+INSERT o number

@@ -1,0 +1,21 @@
+INSERT eS string
+LOOKUP eS
+INSERT i number
+BEGIN
+ASSIGN eS i
+INSERT gBNM number
+bPGEXY a39qwa
+INSERT x number
+BEGIN
+INSERT sJxc string
+INSERT snG number
+INSERT pzl5 number
+PRINT
+INSERT rA string
+INSERT t4z7 number
+INSERT cq number
+INSERT cuuvV number
+INSERT yxcZ number
+INSERT jxIY string
+END
+PRINT

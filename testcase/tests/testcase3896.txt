@@ -1,0 +1,16 @@
+PRINT
+PRINT
+LOOKUP p
+INSERT gsE number
+BEGIN
+INSERT s string
+INSERT eH string
+PRINT
+INSERT u number
+END
+INSERT ozM string
+u j3frMA
+RPRINT
+INSERT xuk string
+INSERT zoHl3 string
+RPRINT

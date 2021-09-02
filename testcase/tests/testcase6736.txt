@@ -1,0 +1,24 @@
+INSERT pp1c number
+BEGIN
+INSERT uo number
+INSERT tkfrF number
+INSERT oYP number
+INSERT ei8O number
+iYO xNm
+LOOKUP tkfrF
+INSERT rK4O9 string
+INSERT x string
+LOOKUP uo
+INSERT eScmo string
+INSERT f number
+INSERT uQn number
+INSERT pqFLz string
+END
+INSERT sUHQ4x string
+LOOKUP pqFLz
+INSERT vtTm number
+PRINT
+INSERT cQ string
+INSERT ropp number
+INSERT a1 string
+END

@@ -1,0 +1,22 @@
+INSERT nylhQ number
+INSERT h number
+RPRINT
+INSERT pXaF string
+LOOKUP h
+RPRINT
+PRINT
+ASSIGN h pXaF
+INSERT rxG number
+INSERT cRm string
+INSERT z string
+BEGIN
+LOOKUP z
+INSERT p string
+INSERT x string
+INSERT zQ number
+INSERT oED string
+END
+LOOKUP z
+INSERT qWmCO4 number
+INSERT kYyAzH string
+INSERT j number

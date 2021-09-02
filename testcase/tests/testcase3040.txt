@@ -1,0 +1,33 @@
+BEGIN
+INSERT e string
+ASSIGN e e
+INSERT sh6a string
+RPRINT
+INSERT dG number
+PRINT
+INSERT u5H number
+INSERT kj number
+INSERT zg7 string
+INSERT mT2Id number
+INSERT vdG825 number
+INSERT flCTV number
+INSERT fFYj string
+INSERT nNwe string
+RPRINT
+INSERT qU81dJ number
+PRINT
+INSERT wU_sMw number
+INSERT h number
+INSERT vDA string
+LOOKUP nNwe
+INSERT z4p number
+INSERT s string
+BEGIN
+INSERT rTzqkL string
+c1wU08 toxP
+BEGIN
+PRINT
+ASSIGN s 539
+INSERT x61 number
+BEGIN
+RPRINT

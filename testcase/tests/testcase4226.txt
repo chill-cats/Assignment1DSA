@@ -1,0 +1,31 @@
+INSERT ePQK6 number
+INSERT uNt0fT string
+INSERT q6WiP string
+BEGIN
+LOOKUP ePQK6
+INSERT tBVfZU number
+LOOKUP ePQK6
+INSERT ua string
+INSERT yPJSIy number
+ASSIGN tBVfZU 945
+ASSIGN yPJSIy 1087
+i9e uj9
+INSERT dG number
+INSERT tgEgb string
+INSERT vmwTCs string
+INSERT fs4iIc string
+m tt
+INSERT k number
+INSERT j0 number
+INSERT mxIr number
+INSERT qWYtCX string
+LOOKUP yPJSIy
+INSERT q number
+INSERT wF number
+INSERT rZyM string
+LOOKUP wF
+INSERT kc6yW string
+INSERT o string
+INSERT ykg string
+INSERT zI string
+INSERT mjfZm number

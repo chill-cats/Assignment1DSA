@@ -1,0 +1,25 @@
+INSERT idBB number
+INSERT d string
+INSERT nIje string
+RPRINT
+PRINT
+INSERT fH string
+INSERT uDE8 string
+END
+fYtYod e
+INSERT l4t string
+INSERT ugs number
+INSERT cq0E number
+INSERT sxWn number
+INSERT hrtTn number
+INSERT fW number
+INSERT z5YX number
+LOOKUP fW
+INSERT k number
+INSERT hUU string
+ASSIGN uDE8 idBB
+INSERT vZB number
+BEGIN
+INSERT i5mB2 number
+INSERT xe number
+PRINT

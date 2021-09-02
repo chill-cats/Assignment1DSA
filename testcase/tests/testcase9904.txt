@@ -1,0 +1,5 @@
+END
+RPRINT
+INSERT z string
+END
+LOOKUP z

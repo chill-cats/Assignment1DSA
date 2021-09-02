@@ -1,0 +1,36 @@
+INSERT rlOmp number
+END
+INSERT lcmvL number
+INSERT f string
+ASSIGN lcmvL f
+INSERT fO0jJE number
+INSERT xgt number
+BEGIN
+INSERT dr_p string
+LOOKUP lcmvL
+INSERT s string
+ASSIGN f '0uV '
+PRINT
+INSERT oSP string
+INSERT lr2 string
+e b1q
+INSERT yI string
+BEGIN
+INSERT hq string
+INSERT yBD number
+BEGIN
+INSERT v number
+INSERT uP_HN number
+INSERT vsku string
+toF5_z kF7dm6
+ASSIGN s '5C'
+PRINT
+INSERT pGW_ number
+RPRINT
+INSERT hJ0 number
+INSERT lnRBCK string
+END
+INSERT gK string
+INSERT j number
+BEGIN
+INSERT vv string

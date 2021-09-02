@@ -1,0 +1,8 @@
+INSERT vR string
+ASSIGN vR 'Lc4T'
+INSERT n string
+INSERT lBRh string
+INSERT goS8zM number
+INSERT mS number
+INSERT atyP string
+BEGIN

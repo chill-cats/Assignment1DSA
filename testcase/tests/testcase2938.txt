@@ -1,0 +1,6 @@
+INSERT h string
+PRINT
+yiT5d3 evzOzi
+INSERT dFBFL string
+INSERT p number
+RPRINT

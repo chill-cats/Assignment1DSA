@@ -1,0 +1,36 @@
+ASSIGN iE3 379
+END
+PRINT
+INSERT vf7V string
+INSERT q number
+INSERT dJh string
+ASSIGN vf7V 'Ddp'
+INSERT fhvHAN string
+INSERT pH_ number
+gV1 f0
+INSERT y string
+INSERT gqZDv number
+c067c eZbe
+END
+INSERT x string
+INSERT izccrE string
+INSERT eExIvW number
+INSERT fCG string
+INSERT m string
+INSERT cmr number
+INSERT hSI number
+INSERT nwiRU number
+ASSIGN gqZDv 299
+INSERT jro8 number
+PRINT
+INSERT j string
+INSERT oHx3 string
+INSERT t string
+INSERT osH number
+INSERT z number
+LOOKUP t
+INSERT oh string
+INSERT bjC number
+INSERT b number
+INSERT xCX number
+INSERT lg7Hqg number

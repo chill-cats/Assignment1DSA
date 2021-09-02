@@ -1,0 +1,6 @@
+LOOKUP uG
+INSERT zWS number
+PRINT
+BEGIN
+LOOKUP zWS
+INSERT uE string

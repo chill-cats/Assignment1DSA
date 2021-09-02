@@ -1,0 +1,39 @@
+END
+PRINT
+PRINT
+LOOKUP r
+wQNM0Q gJ5wLD
+INSERT phMcE number
+INSERT eG5zD string
+INSERT w6oEc string
+BEGIN
+BEGIN
+INSERT ykQnS number
+INSERT fLBL1P string
+INSERT c string
+INSERT g0HK_ number
+INSERT fSl7p string
+INSERT cw4 string
+INSERT jT string
+INSERT nJDtAk string
+INSERT oQaC33 number
+ASSIGN ykQnS '4XmfV'
+INSERT i5 number
+INSERT joo string
+INSERT gBx number
+INSERT ftmW0 number
+PRINT
+INSERT xiI string
+END
+INSERT z6B_F number
+INSERT wxB string
+PRINT
+INSERT oQvKW string
+END
+PRINT
+LOOKUP eG5zD
+INSERT m number
+INSERT rRZB string
+INSERT b79 number
+BEGIN
+INSERT bEC string

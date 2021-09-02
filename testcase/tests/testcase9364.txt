@@ -1,0 +1,29 @@
+ASSIGN e 386
+ASSIGN mKB8 1209
+INSERT dd5q string
+LOOKUP dd5q
+INSERT kT string
+INSERT pK number
+INSERT bdXGJ number
+ASSIGN pK 'I'
+INSERT x0Ab string
+aeVAV lo4
+INSERT pkY number
+PRINT
+LOOKUP x0Ab
+BEGIN
+PRINT
+PRINT
+INSERT hR number
+INSERT btX2Q number
+INSERT xFr string
+ASSIGN xFr 791
+LOOKUP bdXGJ
+PRINT
+INSERT w string
+INSERT jf number
+INSERT wqoM number
+END
+gxa r
+INSERT mz4 string
+INSERT p number

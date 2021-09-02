@@ -1,0 +1,26 @@
+INSERT dNR9 number
+INSERT es number
+INSERT zB4F1 string
+ASSIGN dNR9 'cY'
+ASSIGN zB4F1 '4ag'
+INSERT g4 string
+INSERT p string
+INSERT m string
+INSERT fs_p6 string
+LOOKUP fs_p6
+INSERT qtcQh number
+INSERT zR5Im string
+INSERT luD4K string
+nL tso
+INSERT t number
+INSERT tUp number
+INSERT i string
+INSERT ahy8bF number
+INSERT hggD6h number
+INSERT w number
+END
+INSERT f52fO string
+ASSIGN f52fO ahy8bF
+BEGIN
+RPRINT
+INSERT rn6f number

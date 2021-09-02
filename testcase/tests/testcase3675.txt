@@ -1,0 +1,34 @@
+ao33 upWpj4
+INSERT rBc number
+INSERT p_5C number
+INSERT r string
+ASSIGN r 'FEe'
+INSERT fqXU number
+ASSIGN p_5C 17
+INSERT j903z string
+INSERT y string
+INSERT u number
+BEGIN
+RPRINT
+PRINT
+INSERT qvV number
+INSERT gyE number
+INSERT ymi number
+END
+INSERT s number
+INSERT aMR string
+INSERT zeQA string
+LOOKUP qvV
+RPRINT
+INSERT pq string
+INSERT nhd number
+INSERT v number
+INSERT ryR string
+INSERT ioocbb string
+BEGIN
+INSERT eHgf string
+INSERT o8eb string
+BEGIN
+ASSIGN o8eb eHgf
+BEGIN
+INSERT zc string

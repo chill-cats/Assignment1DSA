@@ -1,0 +1,11 @@
+INSERT j number
+RPRINT
+BEGIN
+INSERT x1jLJ9 number
+INSERT wdH number
+INSERT et_0 number
+INSERT wIP number
+INSERT fPDAh string
+wE rgjP4
+END
+ASSIGN wdH j

@@ -1,0 +1,20 @@
+ASSIGN b_ 'g'
+BEGIN
+INSERT u number
+PRINT
+RPRINT
+INSERT vPZ string
+INSERT zEyC string
+INSERT m4dv string
+INSERT k number
+m_ gjMb
+LOOKUP m4dv
+END
+INSERT q08vA string
+PRINT
+INSERT uypxhn number
+RPRINT
+INSERT qwg number
+INSERT ytGNR string
+INSERT aA string
+INSERT d2pyXh number

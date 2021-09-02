@@ -1,0 +1,13 @@
+END
+PRINT
+INSERT tWdLC number
+BEGIN
+BEGIN
+PRINT
+ASSIGN tWdLC 801
+INSERT yOUQIM string
+RPRINT
+INSERT c5vp4E string
+INSERT t number
+INSERT zpv2 number
+INSERT hCf string

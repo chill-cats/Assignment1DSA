@@ -1,0 +1,14 @@
+PRINT
+INSERT wnW0A number
+INSERT mHA0 string
+INSERT lD4Rd number
+INSERT fLdQq string
+PRINT
+INSERT uwP string
+RPRINT
+INSERT t string
+INSERT fg0lj number
+END
+INSERT jm6 string
+LOOKUP lD4Rd
+INSERT cTk4kM string

@@ -1,0 +1,5 @@
+INSERT xm2 string
+INSERT vrBM number
+INSERT p86iW string
+INSERT raSH number
+INSERT h number

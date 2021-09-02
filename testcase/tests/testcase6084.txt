@@ -1,0 +1,11 @@
+INSERT q1Yo2 number
+ASSIGN c 682
+INSERT nf string
+INSERT jVMSf string
+INSERT qOezzK string
+ASSIGN nf jVMSf
+INSERT i0 string
+RPRINT
+INSERT tCTzxZ string
+INSERT hGrbLD string
+INSERT eE8 string

@@ -1,0 +1,14 @@
+o iWzaw
+INSERT k number
+INSERT yNm string
+INSERT goqJ number
+INSERT h number
+LOOKUP yNm
+INSERT aDAbm number
+INSERT b number
+LOOKUP h
+INSERT eKYmE number
+RPRINT
+ASSIGN aDAbm 19
+END
+INSERT gaFy string

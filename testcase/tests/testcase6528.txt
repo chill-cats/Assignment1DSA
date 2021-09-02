@@ -1,0 +1,23 @@
+INSERT p_KS number
+INSERT fm4P3m number
+INSERT k number
+INSERT gS string
+INSERT eH string
+lXQ q
+BEGIN
+RPRINT
+END
+INSERT tABLKG number
+RPRINT
+INSERT jEI string
+INSERT tPq number
+yTJ iK17Z
+INSERT gAo string
+RPRINT
+INSERT oAUzvl number
+INSERT hGS3 string
+ASSIGN tABLKG p_KS
+INSERT mHD number
+INSERT f number
+INSERT g string
+INSERT cH string

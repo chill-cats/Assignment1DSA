@@ -1,0 +1,39 @@
+INSERT ntO string
+INSERT e string
+END
+END
+p l
+INSERT db6 string
+INSERT vQf_p string
+LOOKUP vQf_p
+RPRINT
+BEGIN
+END
+INSERT cZj27C number
+ASSIGN cZj27C e
+INSERT c0m string
+INSERT aF number
+INSERT fI number
+INSERT f19S string
+INSERT p7 number
+INSERT iwlS number
+INSERT t number
+END
+INSERT uGcPI string
+INSERT srs number
+PRINT
+lFq tNsB
+INSERT uQ_a string
+INSERT q1B2 number
+RPRINT
+INSERT t4q_K number
+BEGIN
+ASSIGN uQ_a 299
+INSERT gM string
+ge w2Arp
+BEGIN
+RPRINT
+END
+INSERT y0 number
+INSERT lG_8nX string
+pY0Q wIu6DY

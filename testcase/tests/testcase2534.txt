@@ -1,0 +1,3 @@
+INSERT kV6t string
+INSERT nUiHCr number
+LOOKUP nUiHCr

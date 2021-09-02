@@ -1,0 +1,30 @@
+INSERT yK string
+INSERT il7j number
+INSERT wL string
+LOOKUP yK
+INSERT w string
+INSERT a string
+INSERT w number
+RPRINT
+ASSIGN w 'gCzjI'
+INSERT hLW6O string
+INSERT bPMug string
+RPRINT
+INSERT m string
+LOOKUP m
+LOOKUP a
+INSERT v number
+INSERT he3Ob string
+END
+LOOKUP bPMug
+INSERT g string
+END
+s p0Ly81
+END
+INSERT h7d number
+q xC6Tyl
+INSERT hl number
+INSERT z0mwM5 string
+LOOKUP z0mwM5
+BEGIN
+INSERT gz7Qk string

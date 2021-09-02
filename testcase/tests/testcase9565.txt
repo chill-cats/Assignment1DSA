@@ -1,0 +1,14 @@
+INSERT vH string
+INSERT s string
+INSERT v number
+ASSIGN s 'LR6'
+INSERT ac number
+RPRINT
+INSERT hxEZI number
+omwFx sC_
+BEGIN
+PRINT
+INSERT hxV number
+INSERT j number
+RPRINT
+INSERT g6 number

@@ -1,0 +1,12 @@
+LOOKUP n
+INSERT xFfYb number
+BEGIN
+INSERT jGK string
+INSERT pAw3u0 number
+END
+PRINT
+BEGIN
+END
+INSERT tckpa number
+INSERT lbdq6 number
+INSERT aPY string

@@ -1,0 +1,34 @@
+END
+INSERT s number
+INSERT uPcsVu number
+INSERT bDl02 number
+LOOKUP bDl02
+INSERT d number
+RPRINT
+INSERT lFvC string
+LOOKUP uPcsVu
+LOOKUP d
+INSERT uvu number
+INSERT pWZ number
+INSERT aufQur string
+INSERT foGt string
+LOOKUP aufQur
+INSERT bP4 string
+pgvX mwm4PI
+INSERT o6wY number
+RPRINT
+INSERT w string
+INSERT tz number
+ASSIGN foGt 28
+RPRINT
+ASSIGN bP4 526
+INSERT cQMcf1 number
+INSERT v number
+INSERT psx string
+INSERT zkH number
+INSERT g number
+INSERT bJjI string
+kK8 rhX
+ASSIGN lFvC 'iPkr'
+INSERT lV string
+INSERT b2 number

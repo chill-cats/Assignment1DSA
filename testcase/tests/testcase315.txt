@@ -1,0 +1,13 @@
+INSERT pg5H string
+INSERT c7j string
+END
+INSERT y string
+INSERT r0E3 string
+INSERT a number
+y t
+RPRINT
+INSERT fKoR string
+BEGIN
+LOOKUP fKoR
+ASSIGN pg5H y
+INSERT fdan_d string

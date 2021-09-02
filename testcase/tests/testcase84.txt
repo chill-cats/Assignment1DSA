@@ -1,0 +1,35 @@
+INSERT l string
+END
+LOOKUP l
+INSERT ql number
+INSERT oPcI string
+m6V pjUGc
+ASSIGN oPcI 558
+INSERT dA number
+LOOKUP oPcI
+ASSIGN l oPcI
+BEGIN
+ASSIGN l 'j'
+INSERT aA number
+END
+INSERT vt string
+INSERT iv7wQ number
+INSERT qPTh string
+ASSIGN dA oPcI
+INSERT cZ number
+RPRINT
+INSERT ezmO number
+INSERT a string
+INSERT yTzCdQ string
+INSERT jg number
+INSERT kmFuW string
+INSERT z3q6 string
+INSERT b number
+INSERT jbm string
+INSERT upJZ9Z number
+PRINT
+INSERT xxq8U string
+BEGIN
+INSERT is string
+LOOKUP is
+INSERT oh6 string

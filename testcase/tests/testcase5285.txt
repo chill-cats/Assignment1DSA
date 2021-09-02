@@ -1,0 +1,24 @@
+END
+INSERT u_5A number
+INSERT xjMu1 number
+INSERT tt string
+kPxH5C qo7jZ8
+LOOKUP u_5A
+RPRINT
+INSERT p96A string
+e is_TmL
+INSERT j number
+INSERT qGnGob string
+INSERT au1 string
+INSERT nvw string
+LOOKUP nvw
+LOOKUP p96A
+INSERT dDUuU number
+INSERT lO2J string
+LOOKUP tt
+INSERT wsHi string
+PRINT
+LOOKUP nvw
+PRINT
+INSERT k number
+BEGIN

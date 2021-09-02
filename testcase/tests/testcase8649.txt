@@ -1,0 +1,4 @@
+INSERT tRdwYw number
+ASSIGN tRdwYw 'z41cp'
+mx ozen
+LOOKUP tRdwYw

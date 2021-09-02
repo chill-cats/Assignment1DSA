@@ -1,0 +1,20 @@
+INSERT o number
+INSERT z string
+INSERT ruE_A number
+INSERT r7QDar number
+INSERT c5 string
+INSERT yq3I string
+INSERT rTL string
+PRINT
+BEGIN
+cx_ cGy0
+ASSIGN ruE_A 'W'
+PRINT
+END
+INSERT mfcNvH string
+END
+RPRINT
+ASSIGN rTL 'n1'
+ASSIGN mfcNvH 'wwb'
+INSERT nCm string
+END

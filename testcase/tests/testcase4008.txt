@@ -1,0 +1,4 @@
+LOOKUP bM
+INSERT sCqZ number
+ASSIGN sCqZ '54agY'
+INSERT hb string

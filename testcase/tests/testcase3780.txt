@@ -1,0 +1,28 @@
+ASSIGN sBU '3nWe'
+INSERT j9HZ1R string
+RPRINT
+ASSIGN j9HZ1R j9HZ1R
+INSERT jF_ string
+d_J vc
+INSERT rLUcX number
+INSERT kDvb number
+END
+ASSIGN kDvb 702
+BEGIN
+END
+INSERT pxPu number
+INSERT wZ number
+PRINT
+INSERT qOpWdI string
+INSERT rEE number
+INSERT cCd string
+LOOKUP cCd
+INSERT eilj number
+RPRINT
+LOOKUP kDvb
+END
+INSERT vHyt number
+INSERT a6Ltx6 string
+INSERT dhbnd number
+ASSIGN jF_ 'y'
+BEGIN

@@ -1,0 +1,38 @@
+INSERT h9Zh number
+INSERT it2XbN string
+ASSIGN h9Zh 606
+ASSIGN dAlq0i 1012
+INSERT q string
+INSERT inQgDa string
+INSERT jvhi number
+LOOKUP x
+RPRINT
+INSERT ckCq number
+INSERT gi7qy string
+END
+INSERT dd number
+BEGIN
+INSERT ovTy number
+RPRINT
+INSERT lg string
+RPRINT
+ASSIGN jvhi 380
+INSERT pvN number
+INSERT c number
+INSERT v number
+RPRINT
+INSERT x4S5h number
+INSERT jpM number
+INSERT jv67Lk string
+z9 f
+INSERT z9Zy number
+INSERT ulaw number
+INSERT o0y string
+INSERT rS0 string
+INSERT r number
+LOOKUP jpM
+s o
+INSERT aVh string
+PRINT
+INSERT akn058 string
+BEGIN

@@ -1,0 +1,13 @@
+INSERT b string
+INSERT g7E string
+RPRINT
+BEGIN
+INSERT lTpc9 string
+INSERT iTuFk number
+INSERT bdpI number
+INSERT uD number
+INSERT vxG string
+n cUpN1
+INSERT mrE8 string
+INSERT gJdA string
+RPRINT

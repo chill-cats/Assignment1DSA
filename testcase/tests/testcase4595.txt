@@ -1,0 +1,25 @@
+LOOKUP zR0g
+INSERT d0IU string
+INSERT bFMaKh number
+INSERT rv number
+INSERT cC string
+RPRINT
+INSERT kV6N string
+INSERT bFYn string
+INSERT k2D number
+INSERT v string
+v vz4G0
+LOOKUP kV6N
+INSERT x32uNg number
+ASSIGN bFYn 'mai'
+INSERT g string
+INSERT e number
+INSERT ks number
+vcV ocaKU
+INSERT sGOpO number
+INSERT opV2Xb number
+INSERT nwJ string
+INSERT c number
+INSERT c string
+INSERT gmKQt2 string
+INSERT sRz number

@@ -1,0 +1,35 @@
+INSERT can number
+INSERT pk number
+INSERT ki6QU string
+BEGIN
+dsa mLYeMr
+INSERT d_lP string
+INSERT v4J9 string
+INSERT jbR number
+INSERT xq61f string
+INSERT i number
+LOOKUP ki6QU
+LOOKUP jbR
+INSERT l5 string
+INSERT qUBK string
+LOOKUP tic
+INSERT tMMtRd string
+LOOKUP d_lP
+END
+INSERT iJoxwG number
+ASSIGN tMMtRd 287
+PRINT
+INSERT bdqe number
+INSERT z7 string
+INSERT h7ks number
+LOOKUP pk
+INSERT dRgWm3 string
+INSERT i string
+BEGIN
+PRINT
+INSERT h07 number
+INSERT oij string
+INSERT orQRk number
+INSERT gNT string
+INSERT oD7VG string
+END

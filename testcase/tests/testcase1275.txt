@@ -1,0 +1,36 @@
+INSERT y3KpMi string
+INSERT sL5S number
+INSERT yB number
+INSERT mp6ljN string
+INSERT mdmbU number
+LOOKUP mp6ljN
+LOOKUP sL5S
+PRINT
+ASSIGN y3KpMi y3KpMi
+PRINT
+END
+ASSIGN mdmbU y3KpMi
+INSERT tHfl9q number
+INSERT k8lO number
+INSERT r string
+ASSIGN mp6ljN sL5S
+INSERT eXB_7o string
+INSERT gw number
+INSERT wG89Ph string
+oul6C wwF
+ASSIGN wG89Ph tHfl9q
+BEGIN
+INSERT p7l string
+INSERT dyJ5L number
+INSERT bRA number
+LOOKUP mdmbU
+INSERT bf string
+INSERT eYVeqs number
+i ue31C
+INSERT oQvC24 number
+INSERT wc number
+INSERT x number
+PRINT
+INSERT vSJF number
+BEGIN
+LOOKUP y3KpMi

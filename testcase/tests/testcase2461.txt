@@ -1,0 +1,17 @@
+ASSIGN bpX7w 999
+INSERT j string
+INSERT rBSl number
+INSERT dtT string
+LOOKUP j
+PRINT
+INSERT eE6 string
+LOOKUP dtT
+INSERT s2EJM number
+INSERT o number
+INSERT j string
+cL09Oc r5VXTh
+INSERT nMM number
+ASSIGN eE6 176
+INSERT x string
+BEGIN
+INSERT xvit73 string

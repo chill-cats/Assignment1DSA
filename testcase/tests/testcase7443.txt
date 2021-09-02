@@ -1,0 +1,36 @@
+INSERT pC5eXp string
+ASSIGN pC5eXp 1185
+INSERT s number
+INSERT n string
+INSERT plT_ string
+INSERT oxoy number
+LOOKUP pC5eXp
+LOOKUP oxoy
+INSERT fdc1 string
+INSERT c string
+LOOKUP pC5eXp
+BEGIN
+INSERT osxeuR number
+INSERT lr number
+INSERT y string
+INSERT iQ number
+INSERT yIZYR string
+INSERT b number
+INSERT yD61b number
+INSERT cC string
+INSERT qvKN number
+INSERT g3IB string
+END
+BEGIN
+iw mcydhS
+INSERT zDCB number
+INSERT of16 string
+LOOKUP osxeuR
+INSERT gWM string
+LOOKUP lr
+INSERT vn_Zs number
+INSERT eck number
+INSERT sd5R number
+END
+ASSIGN yD61b 'Ss6g'
+BEGIN

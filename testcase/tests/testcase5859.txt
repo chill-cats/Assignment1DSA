@@ -1,0 +1,13 @@
+INSERT jyqN string
+INSERT nx string
+INSERT eFsyn string
+INSERT o number
+INSERT a number
+LOOKUP a
+INSERT dpF4S7 number
+INSERT qy string
+BEGIN
+END
+PRINT
+ASSIGN jyqN 303
+ASSIGN o 87

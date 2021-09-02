@@ -1,0 +1,21 @@
+INSERT zvUGHg string
+INSERT q string
+BEGIN
+ASSIGN zvUGHg 30
+PRINT
+INSERT wbp string
+INSERT r number
+INSERT un string
+INSERT i number
+INSERT o string
+BEGIN
+BEGIN
+uPotmv tCfGx
+ASSIGN o un
+BEGIN
+INSERT mxMwZE string
+LOOKUP zvUGHg
+BEGIN
+INSERT px0Bzv number
+INSERT pVn number
+BEGIN

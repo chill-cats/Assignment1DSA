@@ -1,0 +1,35 @@
+LOOKUP w
+INSERT m0pSua string
+END
+ASSIGN m0pSua 270
+BEGIN
+INSERT k06IEM number
+INSERT vq number
+INSERT dHNE number
+INSERT hOJ8VJ string
+INSERT nRq string
+INSERT tWH string
+INSERT dB5X number
+INSERT gHzVPB string
+RPRINT
+INSERT f string
+LOOKUP dHNE
+PRINT
+INSERT mG number
+INSERT v number
+END
+ASSIGN dHNE dHNE
+END
+INSERT s_o string
+INSERT qFS string
+LOOKUP dB5X
+INSERT sq7 string
+INSERT cQr0 number
+INSERT x string
+INSERT zD string
+INSERT c number
+INSERT azc number
+INSERT thx string
+INSERT e string
+INSERT r9D number
+RPRINT

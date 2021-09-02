@@ -1,0 +1,11 @@
+INSERT yK number
+INSERT zJ5J number
+INSERT pkMk string
+INSERT cs number
+BEGIN
+INSERT rr number
+INSERT fL number
+PRINT
+INSERT i string
+INSERT cAIjc string
+INSERT iyNDqZ string

@@ -1,0 +1,19 @@
+INSERT rR number
+LOOKUP rR
+PRINT
+LOOKUP rR
+INSERT s_vx number
+END
+INSERT kXjc number
+ASSIGN rR 'ifaY'
+INSERT pqr string
+INSERT zHY string
+INSERT lK string
+PRINT
+END
+BEGIN
+INSERT yf6 string
+INSERT e0c number
+INSERT ewGQ string
+BEGIN
+ASSIGN rR 965

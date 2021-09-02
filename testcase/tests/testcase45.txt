@@ -1,0 +1,26 @@
+INSERT uzN number
+ASSIGN uzN 609
+INSERT hi string
+BEGIN
+INSERT j string
+BEGIN
+INSERT y9VM string
+RPRINT
+INSERT j2 number
+RPRINT
+INSERT llt number
+INSERT p string
+INSERT qPan number
+PRINT
+PRINT
+ASSIGN p 'n3uHH'
+RPRINT
+INSERT s6aYv7 string
+INSERT se number
+INSERT aQibl3 string
+INSERT oG3ci string
+INSERT p7q string
+INSERT qB1I number
+INSERT y9I number
+INSERT u2B2 number
+INSERT scP string

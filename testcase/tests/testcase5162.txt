@@ -1,0 +1,10 @@
+LOOKUP aZv
+BEGIN
+INSERT gchZy number
+INSERT bm string
+RPRINT
+INSERT te number
+END
+INSERT hZaDcU number
+RPRINT
+INSERT nwMj number

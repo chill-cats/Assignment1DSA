@@ -1,0 +1,11 @@
+INSERT m number
+END
+INSERT n string
+INSERT itwk7 number
+LOOKUP m
+INSERT lcCc number
+INSERT b5pNR number
+INSERT m string
+INSERT rdP number
+ASSIGN m 'hzI'
+INSERT kRa number

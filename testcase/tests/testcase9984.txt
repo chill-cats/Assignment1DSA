@@ -1,0 +1,14 @@
+INSERT uK number
+INSERT o9fC2 number
+INSERT m string
+INSERT ey31 string
+BEGIN
+INSERT pF1e5L number
+END
+ASSIGN uK pF1e5L
+INSERT y7GD1 number
+INSERT ktHbM number
+INSERT m number
+BEGIN
+INSERT e number
+INSERT uy string

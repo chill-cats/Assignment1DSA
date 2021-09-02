@@ -1,0 +1,8 @@
+INSERT kAPE2 string
+INSERT m44 string
+END
+END
+INSERT m_6g number
+INSERT gxB518 number
+BEGIN
+LOOKUP m44

@@ -1,0 +1,23 @@
+INSERT v02a number
+LOOKUP v02a
+INSERT yFng0i string
+INSERT ikY number
+jjDtNK zju
+END
+RPRINT
+RPRINT
+RPRINT
+INSERT l7 number
+INSERT ez string
+ASSIGN yKslI '5la'
+INSERT rtZn5 number
+RPRINT
+INSERT tR_6 number
+ASSIGN ikY 'aj6'
+nt p0
+INSERT oeV2c string
+INSERT sZY number
+INSERT xbPnJ number
+BEGIN
+INSERT ysrd number
+INSERT lhzuPz number

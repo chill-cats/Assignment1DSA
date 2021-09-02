@@ -1,0 +1,13 @@
+INSERT kE string
+INSERT vnVo number
+INSERT xXDrj string
+INSERT h number
+ASSIGN vnVo 'cKbm'
+INSERT g7Wbo number
+INSERT yGjwc string
+PRINT
+INSERT rgzqa string
+END
+INSERT va string
+INSERT dsG15 string
+INSERT gXUXl number

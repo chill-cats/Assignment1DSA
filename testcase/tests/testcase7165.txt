@@ -1,0 +1,20 @@
+INSERT g2 string
+END
+END
+INSERT ktQ string
+ASSIGN ktQ ktQ
+INSERT r4d string
+INSERT xBY7h string
+INSERT zltw string
+INSERT p3 string
+INSERT jWTlzE string
+INSERT c string
+LOOKUP zltw
+INSERT j number
+RPRINT
+INSERT tpQD number
+INSERT cDjKK string
+INSERT uQOYfX string
+PRINT
+ASSIGN jWTlzE zltw
+END

@@ -1,0 +1,4 @@
+INSERT lq string
+INSERT tvx number
+LOOKUP tvx
+PRINT

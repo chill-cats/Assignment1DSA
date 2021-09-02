@@ -1,0 +1,30 @@
+k vBhSP
+INSERT uEZSrr number
+INSERT vbKvI number
+INSERT j3lR string
+BEGIN
+INSERT dKs number
+INSERT fXS number
+INSERT n6ySBZ number
+INSERT zPtj8S number
+INSERT oNH4O string
+s cU5Qs
+INSERT c string
+LOOKUP uEZSrr
+BEGIN
+INSERT fjv2xQ string
+INSERT fr_vmg number
+INSERT fInS string
+RPRINT
+BEGIN
+ASSIGN fjv2xQ 1174
+aunx qijR
+ASSIGN fjv2xQ fr_vmg
+BEGIN
+PRINT
+BEGIN
+INSERT gn number
+ohAu a5su
+END
+BEGIN
+BEGIN

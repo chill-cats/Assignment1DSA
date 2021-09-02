@@ -1,0 +1,19 @@
+mOJTlJ oxUag9
+BEGIN
+ASSIGN qr 540
+INSERT dB3D number
+lP47VC ypV5v5
+INSERT aWnLaf string
+INSERT nX3 string
+INSERT y number
+cu0F iT0pe
+INSERT axN string
+LOOKUP axN
+END
+RPRINT
+LOOKUP aWnLaf
+INSERT fC number
+INSERT kTSn8 string
+INSERT i string
+RPRINT
+INSERT q3 string

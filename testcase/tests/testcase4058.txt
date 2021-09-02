@@ -1,0 +1,24 @@
+INSERT sCkTqN string
+INSERT ciN string
+INSERT yt string
+INSERT jyi string
+RPRINT
+INSERT yEzU9S number
+nW e2fb
+RPRINT
+INSERT ik6p number
+INSERT zaUs number
+LOOKUP ik6p
+ASSIGN yt ik6p
+RPRINT
+INSERT m9yw number
+END
+END
+RPRINT
+INSERT z string
+PRINT
+END
+INSERT xLQ string
+INSERT pqMLZn number
+BEGIN
+RPRINT

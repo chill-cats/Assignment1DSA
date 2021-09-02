@@ -1,0 +1,24 @@
+INSERT gHx number
+INSERT lq4jSS number
+INSERT nN_C0M string
+INSERT qtJMnu string
+a sUw
+INSERT dt0W string
+END
+INSERT x number
+INSERT lFTh string
+LOOKUP nN_C0M
+BEGIN
+INSERT kBX number
+LOOKUP kBX
+INSERT x8DKJ number
+INSERT tCv string
+ASSIGN x8DKJ '5w0P'
+INSERT pW string
+INSERT bFw string
+END
+BEGIN
+INSERT brCT number
+BEGIN
+INSERT zDN0Gp string
+INSERT jHeC string

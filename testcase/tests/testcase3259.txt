@@ -1,0 +1,6 @@
+INSERT la9 string
+INSERT y8 number
+INSERT mhL_ number
+INSERT a number
+PRINT
+INSERT mAmXH number

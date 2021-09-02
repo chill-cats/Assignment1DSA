@@ -1,0 +1,12 @@
+INSERT hu number
+INSERT q number
+RPRINT
+INSERT sM_an number
+INSERT o number
+PRINT
+INSERT adKK number
+INSERT jknq number
+INSERT upiaGc number
+INSERT yvB string
+INSERT dy number
+PRINT

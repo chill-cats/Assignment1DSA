@@ -1,0 +1,17 @@
+INSERT sXH string
+PRINT
+ASSIGN sXH 967
+RPRINT
+INSERT g6Yy string
+INSERT sfjXB number
+INSERT wa number
+INSERT w number
+INSERT zbQ number
+INSERT cOR string
+RPRINT
+INSERT mxGzGT string
+RPRINT
+BEGIN
+INSERT mGs number
+INSERT h number
+INSERT nc number

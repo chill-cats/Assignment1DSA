@@ -1,0 +1,23 @@
+BEGIN
+INSERT pz1Q8s string
+INSERT a2Yn string
+INSERT e number
+INSERT zUcZwl string
+END
+END
+bxW9v nPVmp
+xcq67 eJbLn
+INSERT rcyKs number
+RPRINT
+INSERT yT string
+INSERT dQmL string
+INSERT hiN1A string
+ASSIGN zUcZwl 842
+BEGIN
+INSERT cE string
+LOOKUP a2Yn
+INSERT gDJ number
+INSERT lfKY string
+INSERT kk string
+INSERT ihDk2 string
+LOOKUP ihDk2

@@ -1,0 +1,10 @@
+BEGIN
+INSERT nLuA string
+END
+INSERT uFq9Q string
+INSERT i3OQ number
+ASSIGN nLuA nLuA
+INSERT r_Pos number
+z9g jF_
+RPRINT
+INSERT mm string

@@ -1,0 +1,20 @@
+PRINT
+INSERT d70O number
+INSERT sSGcdh number
+INSERT iA number
+INSERT lkZ string
+INSERT wMa string
+INSERT yfWi number
+ASSIGN d70O '2qZG'
+LOOKUP sSGcdh
+INSERT m2w6 string
+INSERT xdP number
+INSERT h7AH string
+INSERT tW number
+INSERT mk9Pm number
+LOOKUP wMa
+BEGIN
+ASSIGN sSGcdh wMa
+INSERT hjA number
+ASSIGN yfWi 657
+INSERT c number

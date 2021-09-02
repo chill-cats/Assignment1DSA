@@ -1,0 +1,36 @@
+INSERT j2KCsN number
+INSERT rR string
+PRINT
+RPRINT
+kuFd yXTiVf
+INSERT m1a string
+INSERT ovC9 string
+LOOKUP ovC9
+INSERT o string
+ASSIGN m1a rR
+LOOKUP rR
+RPRINT
+INSERT aI string
+ASSIGN ovC9 'uHAH'
+INSERT y number
+INSERT ub string
+RPRINT
+PRINT
+INSERT zI number
+ASSIGN rR 674
+INSERT kgoxNx number
+END
+INSERT nI2nqU number
+END
+INSERT nsnq string
+INSERT n4eezF string
+INSERT lv number
+RPRINT
+ASSIGN lv 'aAsMs'
+INSERT wM string
+INSERT yZgS number
+INSERT aIq number
+RPRINT
+INSERT o_NilP string
+INSERT as string
+BEGIN

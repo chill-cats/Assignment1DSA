@@ -1,0 +1,20 @@
+RPRINT
+RPRINT
+INSERT e string
+INSERT r number
+RPRINT
+INSERT nv number
+RPRINT
+INSERT mMT string
+INSERT g number
+PRINT
+INSERT m number
+INSERT kfam number
+INSERT wS string
+BEGIN
+INSERT kcT string
+INSERT zI_QTC number
+BEGIN
+INSERT eJVD number
+INSERT pq number
+INSERT y string

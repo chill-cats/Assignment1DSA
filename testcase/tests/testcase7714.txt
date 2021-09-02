@@ -1,0 +1,34 @@
+LOOKUP t
+INSERT s number
+INSERT bzjQ number
+INSERT d3a string
+LOOKUP s
+INSERT mYQ9ob string
+INSERT p6f number
+INSERT rzuPCS string
+INSERT tGN3 string
+INSERT veuq number
+INSERT j4C1Kq string
+BEGIN
+tnvN9 f
+INSERT lkWI1Q string
+INSERT xAcq string
+RPRINT
+kNZl tYa
+sj2xTd ehut
+INSERT aZ_7XU string
+INSERT pgZ number
+INSERT i33qgM string
+BEGIN
+INSERT ui number
+INSERT bt number
+INSERT h9n string
+BEGIN
+INSERT mITg0O string
+BEGIN
+INSERT kh2m string
+END
+PRINT
+PRINT
+LOOKUP ui
+ASSIGN xAcq 't'

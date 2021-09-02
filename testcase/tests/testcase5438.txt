@@ -1,0 +1,36 @@
+INSERT j06 number
+INSERT b number
+PRINT
+INSERT vB number
+RPRINT
+INSERT iiQJN string
+INSERT fo_ number
+INSERT f6 number
+INSERT h3fM number
+LOOKUP f6
+END
+RPRINT
+PRINT
+RPRINT
+LOOKUP f6
+INSERT dR03 number
+INSERT wZ2 string
+INSERT uvkc number
+RPRINT
+INSERT cEuTF9 string
+RPRINT
+INSERT n number
+INSERT lEj number
+INSERT dTs number
+INSERT tQQ string
+ASSIGN fo_ 975
+BEGIN
+RPRINT
+ASSIGN vB vB
+gI8cz fLa
+ASSIGN lEj 1185
+RPRINT
+INSERT nrV8 string
+t tk
+LOOKUP cEuTF9
+END

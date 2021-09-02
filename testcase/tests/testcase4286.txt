@@ -1,0 +1,11 @@
+INSERT m string
+ASSIGN m 225
+eoKnlA m
+INSERT nD number
+INSERT lN string
+INSERT qQIH number
+LOOKUP m
+INSERT eL number
+INSERT jW string
+INSERT xryK number
+INSERT hT42A string

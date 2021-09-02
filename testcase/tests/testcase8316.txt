@@ -1,0 +1,35 @@
+INSERT hyj string
+END
+END
+INSERT zxQwgw number
+ASSIGN zxQwgw 909
+LOOKUP zxQwgw
+LOOKUP hyj
+RPRINT
+ASSIGN hyj zxQwgw
+INSERT a5G number
+BEGIN
+INSERT kOk5 number
+ASSIGN zxQwgw a5G
+INSERT gyjZn string
+INSERT quD number
+PRINT
+INSERT oxr9d string
+INSERT pLPXrc string
+INSERT tO3vjL number
+INSERT tJNp string
+LOOKUP tO3vjL
+INSERT rnl5wI number
+LOOKUP a5G
+INSERT fS number
+INSERT fSCG9 number
+INSERT f number
+INSERT eMZZ98 number
+PRINT
+INSERT r6FZ number
+INSERT yM_D string
+INSERT i1H06J string
+INSERT bQ string
+INSERT sq1 string
+INSERT b number
+INSERT fAYx string

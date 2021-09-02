@@ -1,0 +1,27 @@
+INSERT nqh string
+INSERT bC number
+RPRINT
+ASSIGN nqh 983
+INSERT yeU5Uu string
+INSERT uY number
+INSERT gu string
+RPRINT
+END
+wms9A zjDR
+INSERT h string
+INSERT kI string
+INSERT oxiwC number
+END
+INSERT oZC string
+INSERT f string
+INSERT w7cJRO string
+INSERT m number
+LOOKUP w7cJRO
+INSERT g string
+END
+ASSIGN w7cJRO nqh
+INSERT x6ar1 number
+BEGIN
+INSERT i4 number
+yJBqs jLrF
+INSERT v string

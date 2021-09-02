@@ -1,0 +1,10 @@
+INSERT cbw1 string
+INSERT o string
+INSERT tx number
+INSERT nW8eub string
+RPRINT
+INSERT s4W2xn number
+RPRINT
+INSERT g number
+INSERT a number
+PRINT

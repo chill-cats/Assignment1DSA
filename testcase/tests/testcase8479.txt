@@ -1,0 +1,31 @@
+aRCw p
+INSERT cT string
+INSERT jUv number
+LOOKUP cT
+BEGIN
+END
+INSERT dpwC number
+INSERT p number
+RPRINT
+LOOKUP p
+INSERT qNJFWB string
+INSERT tn number
+xqgf p
+INSERT kv4 number
+LOOKUP kv4
+INSERT u string
+INSERT h number
+BEGIN
+END
+INSERT t number
+LOOKUP tn
+PRINT
+INSERT cXW number
+RPRINT
+PRINT
+BEGIN
+PRINT
+o cfS
+END
+ASSIGN dpwC 1064
+ASSIGN jUv 1104

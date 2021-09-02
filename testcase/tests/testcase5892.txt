@@ -1,0 +1,16 @@
+INSERT gs number
+RPRINT
+INSERT zohHpK string
+INSERT knXhJ string
+INSERT ml number
+ASSIGN gs 'jpB'
+INSERT m number
+LOOKUP ml
+INSERT kdIGtm string
+BEGIN
+INSERT dgz5CX string
+INSERT eAE8kB string
+INSERT l string
+INSERT nGcr number
+ASSIGN dgz5CX '1okKP'
+INSERT uKaA string

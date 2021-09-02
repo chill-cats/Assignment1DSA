@@ -1,0 +1,38 @@
+INSERT ej3M string
+INSERT ptMrR number
+INSERT zx58Q string
+INSERT c5 number
+mTKZVI qfjz
+INSERT vU number
+PRINT
+INSERT dg1H6w number
+INSERT h3S string
+END
+END
+INSERT k string
+INSERT hY2F8S string
+INSERT dMwY string
+INSERT t0_V string
+INSERT jmyi string
+PRINT
+INSERT dldC number
+INSERT pWPv string
+END
+INSERT qBUrqe number
+INSERT huSS number
+INSERT zYBp number
+INSERT sBd number
+INSERT jiX5VO number
+LOOKUP pWPv
+PRINT
+INSERT cdo string
+INSERT z_d9 string
+INSERT g number
+ASSIGN zx58Q 36
+INSERT t3Mc9 number
+INSERT fqroL number
+INSERT ojZix6 number
+INSERT bz number
+RPRINT
+INSERT kDUlfY number
+INSERT ydPGK number

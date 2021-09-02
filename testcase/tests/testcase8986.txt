@@ -1,0 +1,21 @@
+INSERT eo string
+INSERT y50B_T number
+INSERT rpBa string
+INSERT i_Y number
+INSERT dD5 number
+INSERT a number
+INSERT y4LyE number
+END
+BEGIN
+INSERT qEejC number
+BEGIN
+INSERT t number
+LOOKUP u
+INSERT mTimj number
+bbP4Rj k
+INSERT pX_i number
+END
+INSERT iEm3s number
+INSERT e string
+PRINT
+INSERT z9eX number

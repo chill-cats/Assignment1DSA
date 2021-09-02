@@ -1,0 +1,39 @@
+INSERT gpay number
+INSERT oAEn number
+INSERT bgCHd number
+RPRINT
+ASSIGN oAEn 'dpQ7'
+INSERT nuWO number
+INSERT mnNFAK string
+INSERT d7SHm_ number
+RPRINT
+INSERT sR string
+INSERT x number
+BEGIN
+INSERT tjfD6N string
+END
+INSERT oX number
+BEGIN
+PRINT
+LOOKUP oAEn
+INSERT v string
+INSERT dEe string
+INSERT f number
+INSERT dxUME string
+PRINT
+INSERT cG number
+INSERT qp3 string
+y0VbE t
+INSERT ek2O string
+INSERT sklK string
+INSERT y string
+INSERT kP7an string
+BEGIN
+BEGIN
+RPRINT
+ASSIGN v 95
+PRINT
+ASSIGN x ek2O
+INSERT sy2ZJx number
+ASSIGN dEe 141
+END

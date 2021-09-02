@@ -1,0 +1,25 @@
+INSERT uks string
+INSERT qC7 number
+RPRINT
+INSERT b9G string
+PRINT
+RPRINT
+INSERT l string
+INSERT qNxQ string
+INSERT ftdqQ number
+LOOKUP qC7
+INSERT hr number
+BEGIN
+ASSIGN b9G '5'
+INSERT eKMe string
+INSERT pSS number
+INSERT tp7wL number
+INSERT d83uvi string
+INSERT xF number
+LOOKUP eKMe
+END
+BEGIN
+INSERT gXr number
+ASSIGN pSS 'niZuw'
+INSERT ong0 string
+INSERT sv73Y number

@@ -1,0 +1,35 @@
+INSERT xCWLF string
+INSERT nUf string
+INSERT m8I number
+INSERT nZkO number
+INSERT l7 number
+LOOKUP l7
+PRINT
+INSERT p number
+INSERT pK string
+INSERT mMZ8g number
+END
+LOOKUP m8I
+INSERT i string
+INSERT bH5Q string
+sRc26R nS
+PRINT
+BEGIN
+INSERT f_DiA string
+RPRINT
+INSERT g number
+INSERT xjT string
+INSERT gOGV55 number
+END
+INSERT hhtxh number
+LOOKUP g
+BEGIN
+PRINT
+INSERT wU2y9N string
+INSERT iq string
+w1tuL_ ya
+INSERT av number
+nyTR fGCGG
+pmcB tCq
+INSERT cIDkA number
+INSERT kpi number

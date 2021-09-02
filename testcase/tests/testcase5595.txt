@@ -1,0 +1,40 @@
+INSERT ad string
+INSERT dt string
+INSERT h3yS number
+BEGIN
+INSERT a2Gz number
+INSERT rFq number
+INSERT ld9NG string
+BEGIN
+INSERT lY8 number
+INSERT lf3 string
+INSERT vef string
+BEGIN
+INSERT q1Llj string
+LOOKUP rFq
+INSERT acbFr string
+INSERT sT6Xr number
+INSERT y5K number
+INSERT swHr string
+BEGIN
+INSERT s8F number
+INSERT ui string
+INSERT yc number
+INSERT oO string
+INSERT riQP number
+INSERT pn string
+ASSIGN riQP '4c3Z'
+INSERT h string
+INSERT vJ8a string
+PRINT
+RPRINT
+PRINT
+RPRINT
+BEGIN
+ASSIGN ui 149
+ASSIGN y5K ad
+INSERT qhu number
+INSERT bLf number
+INSERT k number
+LOOKUP riQP
+INSERT dTj string

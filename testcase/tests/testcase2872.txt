@@ -1,0 +1,37 @@
+INSERT m string
+INSERT rV2 string
+INSERT z number
+INSERT jjgZg number
+RPRINT
+INSERT c8lWn string
+INSERT cLLH string
+INSERT k7BU string
+INSERT l1lIZF number
+INSERT i number
+RPRINT
+LOOKUP k7BU
+RPRINT
+ASSIGN rV2 692
+END
+LOOKUP cLLH
+INSERT iSA2X string
+INSERT iQlye number
+INSERT y5 string
+INSERT sG3O number
+INSERT yTkyns number
+INSERT z0I string
+BEGIN
+INSERT cfHTAT number
+END
+RPRINT
+INSERT s number
+INSERT fVU string
+INSERT w string
+ASSIGN w '6dez'
+ASSIGN w cLLH
+INSERT fbl string
+INSERT oDDEE string
+INSERT p45 string
+RPRINT
+END
+INSERT lX number

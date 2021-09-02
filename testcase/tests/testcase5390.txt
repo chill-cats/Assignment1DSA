@@ -1,0 +1,32 @@
+INSERT sEpBQ number
+tAYcg rF0GmA
+INSERT qbzEE string
+INSERT ts number
+ASSIGN ts ts
+INSERT tu string
+INSERT qx number
+BEGIN
+INSERT aq9r number
+END
+INSERT vI2 number
+LOOKUP ts
+ASSIGN vI2 552
+LOOKUP qbzEE
+INSERT dGt8 number
+INSERT u5c string
+INSERT s string
+INSERT dhhG string
+RPRINT
+INSERT r number
+INSERT iMtsm string
+INSERT b9s number
+INSERT vLrBQl string
+INSERT l string
+END
+INSERT j number
+INSERT laYTkZ number
+fVDm w
+INSERT hEd string
+INSERT co string
+LOOKUP vLrBQl
+INSERT ogmB string

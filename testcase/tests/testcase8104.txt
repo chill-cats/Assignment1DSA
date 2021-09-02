@@ -1,0 +1,19 @@
+RPRINT
+INSERT yVBm number
+ASSIGN yVBm 112
+INSERT lOtcV6 string
+INSERT o string
+INSERT gqQudR number
+INSERT j string
+RPRINT
+INSERT jM string
+INSERT stnBX number
+INSERT yBs string
+INSERT y3TE7g number
+RPRINT
+INSERT awR2q number
+PRINT
+INSERT z string
+INSERT zTGsU string
+INSERT lWH5O number
+INSERT vh number

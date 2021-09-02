@@ -1,0 +1,26 @@
+RPRINT
+LOOKUP jP
+BEGIN
+INSERT fh number
+INSERT iax number
+PRINT
+PRINT
+INSERT xSsy number
+LOOKUP iax
+INSERT a number
+INSERT uF number
+INSERT mP string
+INSERT y number
+INSERT mjcAzZ string
+INSERT y number
+RPRINT
+BEGIN
+INSERT rSO7 number
+INSERT i string
+INSERT kIT0 number
+INSERT dSB number
+INSERT pqumuZ number
+PRINT
+INSERT blI string
+END
+dt dS_4c7

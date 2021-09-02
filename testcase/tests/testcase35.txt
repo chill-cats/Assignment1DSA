@@ -1,0 +1,28 @@
+INSERT aG string
+PRINT
+INSERT tnba string
+INSERT g1 number
+yB de
+INSERT yAn number
+END
+INSERT nH string
+INSERT nRcoM string
+ASSIGN nRcoM 'xL 1Y'
+END
+INSERT sw string
+INSERT md number
+END
+LOOKUP nH
+LOOKUP md
+RPRINT
+BEGIN
+RPRINT
+INSERT cWlOQ string
+INSERT n string
+j0 r4A4z
+INSERT f number
+PRINT
+d q2Ho
+INSERT s number
+INSERT yIRRL number
+INSERT ia string

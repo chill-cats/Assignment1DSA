@@ -1,0 +1,11 @@
+INSERT s string
+BEGIN
+INSERT hysd string
+BEGIN
+INSERT s string
+RPRINT
+PRINT
+END
+INSERT nHR2 number
+RPRINT
+INSERT zDdPM6 string

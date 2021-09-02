@@ -1,0 +1,15 @@
+INSERT c string
+END
+INSERT unKIor number
+INSERT sL string
+INSERT rtl number
+ASSIGN unKIor 936
+INSERT uqC2U8 number
+INSERT x6 number
+INSERT hO number
+INSERT sRzil string
+ikkci eJsI
+INSERT mp7A8 number
+INSERT p3BAs string
+RPRINT
+BEGIN

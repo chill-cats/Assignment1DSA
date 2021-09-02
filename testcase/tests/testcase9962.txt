@@ -1,0 +1,9 @@
+INSERT fyK string
+INSERT z95E8A string
+RPRINT
+INSERT bTXF number
+INSERT rVs8c number
+BEGIN
+PRINT
+INSERT dnu number
+RPRINT

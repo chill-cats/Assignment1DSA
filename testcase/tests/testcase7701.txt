@@ -1,0 +1,30 @@
+INSERT i string
+PRINT
+RPRINT
+ASSIGN i i
+INSERT q number
+INSERT ij9 number
+RPRINT
+INSERT bPti string
+INSERT fB string
+INSERT rI number
+PRINT
+INSERT oN string
+PRINT
+INSERT p string
+INSERT a7t number
+INSERT aU string
+INSERT dbeN number
+INSERT vg string
+INSERT q1c35Q string
+INSERT n string
+INSERT xk3 number
+INSERT m2CT number
+BEGIN
+INSERT qB0kW number
+RPRINT
+END
+RPRINT
+RPRINT
+INSERT ciAXV string
+LOOKUP p

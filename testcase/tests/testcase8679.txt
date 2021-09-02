@@ -1,0 +1,14 @@
+INSERT z3 string
+PRINT
+INSERT qRIinF number
+INSERT o string
+RPRINT
+BEGIN
+INSERT yVc number
+INSERT x296O string
+INSERT eGBQq string
+INSERT avz number
+LOOKUP z3
+INSERT wS number
+INSERT i1Z number
+INSERT wEj string

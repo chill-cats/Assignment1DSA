@@ -1,0 +1,12 @@
+INSERT fKdw string
+INSERT be string
+INSERT f string
+INSERT elqt number
+BEGIN
+LOOKUP elqt
+PRINT
+INSERT a8P3 number
+END
+BEGIN
+BEGIN
+LOOKUP f

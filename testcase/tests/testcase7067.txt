@@ -1,0 +1,13 @@
+END
+INSERT v string
+INSERT yq number
+INSERT n1 string
+INSERT vE string
+INSERT nfgA string
+INSERT v string
+INSERT n string
+INSERT rmal string
+INSERT b number
+INSERT w8D string
+ASSIGN n nfgA
+INSERT iW5ir string

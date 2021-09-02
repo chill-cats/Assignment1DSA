@@ -1,0 +1,18 @@
+RPRINT
+PRINT
+INSERT h number
+INSERT tSXM9 string
+INSERT l number
+BEGIN
+PRINT
+RPRINT
+INSERT hn number
+BEGIN
+INSERT mZNS string
+PRINT
+INSERT ju string
+INSERT ga string
+INSERT rz number
+RPRINT
+INSERT c5 number
+LOOKUP ju

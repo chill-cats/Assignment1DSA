@@ -1,0 +1,10 @@
+INSERT rSWOWF string
+RPRINT
+INSERT jtd number
+INSERT s string
+END
+BEGIN
+INSERT iq number
+INSERT kTMDrS string
+LOOKUP rSWOWF
+yrw_I rB

@@ -1,0 +1,12 @@
+RPRINT
+RPRINT
+INSERT hlRRrK string
+RPRINT
+INSERT k3 number
+INSERT gTs number
+INSERT rt9a string
+ASSIGN hlRRrK 'LALc'
+INSERT i49ET number
+rAeu nFedoq
+END
+INSERT m string

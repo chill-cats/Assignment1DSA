@@ -1,0 +1,17 @@
+INSERT x string
+l igPMD
+INSERT i string
+END
+INSERT fW04qt number
+INSERT ubJ4U4 string
+INSERT rc_9_ number
+INSERT fmYAs_ number
+INSERT nrbH0 string
+ASSIGN ubJ4U4 i
+PRINT
+INSERT ze string
+INSERT cN1fIF number
+INSERT hqFpd number
+PRINT
+RPRINT
+INSERT s7 number

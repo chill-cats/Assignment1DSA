@@ -1,0 +1,23 @@
+INSERT i string
+INSERT aJMl number
+RPRINT
+INSERT gaY string
+INSERT h7rftJ string
+INSERT mpETGR number
+INSERT vkM1 string
+INSERT dtrB64 string
+INSERT dwkeL number
+PRINT
+INSERT bVns number
+LOOKUP aJMl
+INSERT mfKRe number
+INSERT ptEZg number
+INSERT dA8NqL string
+INSERT mETb number
+RPRINT
+INSERT u0d number
+INSERT ggFJN1 number
+INSERT wNQO string
+END
+BEGIN
+INSERT i number

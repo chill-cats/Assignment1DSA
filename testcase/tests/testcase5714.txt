@@ -1,0 +1,24 @@
+INSERT bdz7 number
+BEGIN
+INSERT p91PUM number
+ASSIGN bdz7 p91PUM
+INSERT rmV string
+LOOKUP rmV
+ASSIGN v bdz7
+INSERT m6mmo string
+INSERT t0aWu string
+BEGIN
+END
+INSERT cfddp string
+INSERT ez number
+PRINT
+INSERT gf number
+INSERT pi2gz string
+INSERT vOL number
+RPRINT
+INSERT w8yDu string
+LOOKUP pi2gz
+INSERT h3qcg string
+PRINT
+END
+PRINT

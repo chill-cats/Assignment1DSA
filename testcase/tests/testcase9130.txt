@@ -1,0 +1,11 @@
+ASSIGN tI0v 772
+u rVV4r
+LOOKUP wA9
+INSERT raO number
+PRINT
+INSERT qBF1RL number
+LOOKUP raO
+ASSIGN raO 'V'
+BEGIN
+iA u
+INSERT pmu7 number

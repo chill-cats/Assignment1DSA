@@ -1,0 +1,39 @@
+PRINT
+INSERT eWFBBZ string
+INSERT stU number
+LOOKUP stU
+INSERT sLA_ number
+INSERT q number
+INSERT j0gIkT number
+zVLPn rIGa
+INSERT e0zK string
+t bm
+INSERT i6p4x5 string
+RPRINT
+LOOKUP sLA_
+INSERT u string
+RPRINT
+BEGIN
+INSERT sw string
+INSERT b string
+INSERT iEg number
+INSERT w0mAj number
+uSq vGgQjk
+INSERT fM7 number
+INSERT luF3 number
+INSERT eJQ string
+INSERT r0vCo number
+INSERT ptVp string
+INSERT gS7eN number
+INSERT lWAhpT number
+RPRINT
+INSERT mzh9Y number
+INSERT uTNs number
+INSERT hnRan string
+INSERT jJ99Z number
+RPRINT
+ASSIGN sLA_ 'sYjXc'
+END
+LOOKUP stU
+INSERT c string
+INSERT tqUJ0 number

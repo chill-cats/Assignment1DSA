@@ -1,0 +1,36 @@
+INSERT tf string
+LOOKUP tf
+BEGIN
+INSERT vtR6VS number
+INSERT z5W string
+ASSIGN vtR6VS 870
+INSERT yH0X string
+INSERT kpKC5 number
+INSERT xM1ShT number
+INSERT cBaL string
+ASSIGN tf 1175
+INSERT f1 number
+INSERT pEHH number
+INSERT w4gta string
+INSERT s number
+i7 hjN
+PRINT
+INSERT xik string
+INSERT se4 string
+END
+INSERT m number
+END
+INSERT r5hf string
+INSERT fhHuFr string
+INSERT iKUAL number
+INSERT fD6 string
+INSERT x number
+ASSIGN tf xM1ShT
+INSERT nZ string
+PRINT
+PRINT
+INSERT f number
+BEGIN
+uSsH7b y
+INSERT wY string
+INSERT r string

@@ -1,0 +1,27 @@
+INSERT f5nI string
+INSERT u52C string
+INSERT uJ number
+INSERT pcIfL number
+INSERT vQ number
+bzIpa rtLrT
+INSERT x3d string
+INSERT iS number
+INSERT qYw string
+INSERT zZ string
+INSERT sCeN string
+INSERT k number
+INSERT i9j string
+INSERT pMg number
+INSERT qkcT string
+PRINT
+INSERT g number
+INSERT apr string
+END
+ASSIGN qYw i9j
+BEGIN
+INSERT s string
+INSERT tj number
+BEGIN
+END
+INSERT o string
+INSERT tC58j number

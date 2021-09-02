@@ -1,0 +1,19 @@
+INSERT rQdLr number
+ASSIGN rQdLr rQdLr
+PRINT
+BEGIN
+RPRINT
+LOOKUP rQdLr
+INSERT ndq string
+INSERT unS number
+RPRINT
+INSERT lZFv string
+BEGIN
+INSERT wKR number
+RPRINT
+INSERT g number
+INSERT rC number
+PRINT
+INSERT vy number
+INSERT uA number
+LOOKUP vy

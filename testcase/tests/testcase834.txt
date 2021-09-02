@@ -1,0 +1,7 @@
+INSERT wce number
+INSERT ni9 string
+INSERT m7uR5 string
+INSERT nkQmmo number
+END
+INSERT oRBm00 string
+LOOKUP ni9

@@ -1,0 +1,15 @@
+INSERT zy number
+lQ a
+RPRINT
+INSERT jCs7 string
+INSERT blX7LX number
+INSERT bA string
+INSERT mQ95pe string
+BEGIN
+INSERT wjmu number
+END
+LOOKUP mQ95pe
+INSERT drU number
+LOOKUP zy
+LOOKUP drU
+LOOKUP wjmu

@@ -1,0 +1,17 @@
+LOOKUP r
+INSERT yH string
+INSERT d9fW string
+INSERT k number
+INSERT hPy string
+LOOKUP yH
+INSERT y_YB string
+BEGIN
+LOOKUP y_YB
+hG celqAO
+INSERT kF1JL number
+ASSIGN kF1JL 922
+INSERT x string
+INSERT wju number
+INSERT xcoSP string
+INSERT x number
+INSERT e0ORkV string

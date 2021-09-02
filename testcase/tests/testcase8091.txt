@@ -1,0 +1,5 @@
+INSERT t8 number
+PRINT
+END
+BEGIN
+INSERT b7DV_t string

@@ -1,0 +1,31 @@
+RPRINT
+INSERT b9s string
+INSERT gC string
+INSERT xS string
+BEGIN
+INSERT lVs number
+INSERT nA number
+RPRINT
+INSERT tWhLK string
+INSERT dct string
+ASSIGN nA b9s
+INSERT z3m string
+INSERT jdyATD string
+ASSIGN jdyATD jdyATD
+INSERT f8 string
+t ffPC
+INSERT fS string
+INSERT nQ6 number
+PRINT
+INSERT uXS1 string
+RPRINT
+INSERT vse2wK number
+INSERT f66gyE number
+INSERT zp string
+INSERT bwFz number
+PRINT
+RPRINT
+INSERT uf string
+ez lEbd
+LOOKUP uXS1
+RPRINT

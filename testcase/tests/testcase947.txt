@@ -1,0 +1,23 @@
+BEGIN
+INSERT u number
+INSERT zd7 string
+INSERT dTKYH string
+END
+ASSIGN dTKYH zd7
+LOOKUP dTKYH
+INSERT kfsc number
+END
+INSERT x number
+INSERT mJRGBJ string
+INSERT okZPR string
+kYJ nhDf
+ASSIGN x 'N8YJu'
+INSERT iH number
+INSERT yuv number
+cuGJf xihhP
+INSERT yHHLSu number
+END
+phyQk0 dC2H
+PRINT
+RPRINT
+INSERT ey7_g3 string

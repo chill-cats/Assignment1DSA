@@ -1,0 +1,15 @@
+LOOKUP yw
+LOOKUP yo
+END
+INSERT egZN number
+INSERT lZHRnH string
+LOOKUP lZHRnH
+INSERT wzy string
+PRINT
+BEGIN
+PRINT
+INSERT cqF string
+LOOKUP cqF
+INSERT zwpO9 string
+ASSIGN zwpO9 egZN
+LOOKUP cqF

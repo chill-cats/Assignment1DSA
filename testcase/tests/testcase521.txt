@@ -1,0 +1,37 @@
+wcf n
+BEGIN
+INSERT li8U number
+INSERT vMfHdK number
+INSERT a string
+hpeEL9 p7
+INSERT w0AaYm string
+INSERT v string
+PRINT
+mp8 vj
+RPRINT
+INSERT iOA number
+t9PTH eip
+ASSIGN vMfHdK 845
+INSERT nK number
+jxHAO iTxv
+INSERT vGu4EO number
+INSERT iiWh string
+BEGIN
+ASSIGN a vGu4EO
+INSERT jpoWVR string
+INSERT o286 number
+INSERT ggr0 string
+PRINT
+INSERT s string
+INSERT aOj string
+RPRINT
+INSERT gD string
+INSERT fK number
+INSERT qmLsu number
+END
+INSERT dQ_I number
+BEGIN
+INSERT bJPlnM number
+LOOKUP qmLsu
+INSERT xd_D string
+END

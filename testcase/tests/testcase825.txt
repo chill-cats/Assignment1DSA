@@ -1,0 +1,31 @@
+INSERT g string
+l4em rAONx
+LOOKUP g
+e kVu
+LOOKUP g
+RPRINT
+INSERT nbHx number
+RPRINT
+BEGIN
+INSERT pMc3 number
+BEGIN
+INSERT dEw6GC number
+PRINT
+INSERT a7BUO number
+INSERT iW_Jg string
+RPRINT
+PRINT
+INSERT fZ number
+RPRINT
+INSERT uD7 string
+INSERT gW number
+ASSIGN dEw6GC '1USb'
+ASSIGN dEw6GC 'Q8'
+INSERT e5Qtn number
+LOOKUP nbHx
+INSERT dUi string
+INSERT d859 number
+INSERT qYZn string
+LOOKUP pMc3
+END
+BEGIN

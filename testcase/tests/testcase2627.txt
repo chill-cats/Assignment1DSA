@@ -1,0 +1,3 @@
+ASSIGN n0 56
+g u047O
+ASSIGN tII9 'MGuC'

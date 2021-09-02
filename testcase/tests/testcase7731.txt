@@ -1,0 +1,17 @@
+INSERT b number
+INSERT dTcGDJ string
+INSERT ij4_Ns number
+n2FjK xNep
+PRINT
+INSERT dTPQ7 string
+INSERT q number
+INSERT hchJq string
+ASSIGN ij4_Ns 'lhF7'
+INSERT f6qw string
+INSERT w number
+INSERT bjEE0J number
+ASSIGN dTPQ7 385
+INSERT q string
+INSERT nxg0sJ string
+END
+BEGIN

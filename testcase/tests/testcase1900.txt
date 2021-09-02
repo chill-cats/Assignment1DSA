@@ -1,0 +1,7 @@
+INSERT bPzMzN string
+INSERT nR number
+INSERT n string
+PRINT
+INSERT tRO string
+INSERT jg54 number
+INSERT x9 string

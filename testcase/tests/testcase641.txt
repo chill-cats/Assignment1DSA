@@ -1,0 +1,21 @@
+ASSIGN yhr 147
+INSERT vr string
+INSERT n5I number
+INSERT pT string
+INSERT sDCf string
+INSERT x9 string
+joLs3 o
+INSERT a string
+ASSIGN n5I 1064
+END
+INSERT wda14 number
+INSERT nllwgJ number
+INSERT r7 number
+INSERT q2l string
+PRINT
+INSERT zkn number
+RPRINT
+RPRINT
+INSERT b number
+PRINT
+INSERT v string

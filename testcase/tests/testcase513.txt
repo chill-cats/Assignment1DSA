@@ -1,0 +1,36 @@
+INSERT q1JL6 number
+BEGIN
+INSERT u1_lzV string
+INSERT jGG string
+INSERT v6Fz number
+INSERT l string
+ASSIGN l v6Fz
+INSERT x number
+ASSIGN u1_lzV 'nU8m0'
+BEGIN
+INSERT yhi1u1 string
+END
+INSERT a number
+END
+LOOKUP l
+BEGIN
+INSERT oirCHC number
+INSERT fYWCo string
+LOOKUP l
+INSERT g_J number
+INSERT gs string
+INSERT onQbNK number
+INSERT rzlS6 number
+PRINT
+PRINT
+INSERT m string
+INSERT no number
+LOOKUP a
+PRINT
+LOOKUP yhi1u1
+INSERT ncohOq string
+y a
+INSERT kId number
+END
+INSERT yMvo number
+INSERT cO string

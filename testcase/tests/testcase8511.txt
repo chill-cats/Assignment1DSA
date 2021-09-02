@@ -1,0 +1,30 @@
+INSERT dwDJ number
+LOOKUP dwDJ
+INSERT yLtN number
+INSERT bf string
+LOOKUP yLtN
+INSERT j number
+RPRINT
+INSERT iCXG number
+RPRINT
+LOOKUP dwDJ
+g0Prv lu
+INSERT h number
+INSERT g5K string
+INSERT m7Fk string
+END
+LOOKUP bf
+INSERT t5uhu string
+ci hoMDd
+INSERT oW79X string
+INSERT mbFU2T number
+ASSIGN mbFU2T g5K
+INSERT rK number
+LOOKUP yLtN
+RPRINT
+ASSIGN rK bf
+END
+INSERT dU2 number
+INSERT eF string
+INSERT vqo3Qj string
+BEGIN

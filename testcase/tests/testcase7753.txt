@@ -1,0 +1,11 @@
+INSERT ibL number
+INSERT k string
+INSERT h9 number
+PRINT
+END
+INSERT hK string
+BEGIN
+INSERT nHpgb string
+PRINT
+END
+INSERT k string

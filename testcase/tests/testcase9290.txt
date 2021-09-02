@@ -1,0 +1,10 @@
+INSERT r number
+INSERT lG1_sF number
+END
+ASSIGN lG1_sF 466
+RPRINT
+INSERT g string
+RPRINT
+INSERT zE98 number
+INSERT mpL string
+INSERT uSK string

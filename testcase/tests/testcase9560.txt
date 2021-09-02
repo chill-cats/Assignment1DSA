@@ -1,0 +1,18 @@
+LOOKUP mSY8Vh
+ePa iQC
+INSERT kz9L number
+INSERT e string
+INSERT pSs string
+INSERT a string
+INSERT x string
+INSERT f string
+PRINT
+INSERT mRw number
+INSERT as1M number
+RPRINT
+INSERT wbI number
+END
+INSERT yw0f string
+INSERT j1 string
+INSERT iRp03 number
+INSERT cP4 string

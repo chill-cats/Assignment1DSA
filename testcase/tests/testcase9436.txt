@@ -1,0 +1,27 @@
+END
+INSERT kz0p number
+rqXS9 bFx81
+BEGIN
+INSERT g80UZ string
+INSERT aBOi number
+INSERT v_Sjh number
+ASSIGN g80UZ kz0p
+INSERT rkwmK string
+ASSIGN rkwmK 482
+LOOKUP g80UZ
+INSERT qC03jQ number
+INSERT k0 string
+RPRINT
+INSERT wul5n number
+INSERT g number
+INSERT gVw string
+INSERT tm string
+LOOKUP k0
+BEGIN
+gpiv vJMY
+ASSIGN g80UZ v_Sjh
+of4N vB4
+ASSIGN g80UZ 664
+BEGIN
+INSERT ne_p string
+INSERT f number

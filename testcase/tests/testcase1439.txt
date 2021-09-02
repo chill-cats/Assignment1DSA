@@ -1,0 +1,14 @@
+INSERT kXdVKl number
+INSERT qo48Uv string
+tU u5
+INSERT o3_0zi number
+INSERT qRFon0 string
+LOOKUP qRFon0
+ASSIGN qRFon0 qo48Uv
+INSERT dv string
+INSERT n number
+LOOKUP n
+INSERT uitS string
+ASSIGN qo48Uv 'L1Nb'
+bEZS yIAk_
+LOOKUP qo48Uv

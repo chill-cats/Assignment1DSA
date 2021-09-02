@@ -1,0 +1,29 @@
+INSERT iV3 string
+rsByh cN7R
+INSERT brhnD string
+INSERT hBxUM number
+INSERT aH4 number
+INSERT x string
+INSERT phk string
+gGxtpf o4e
+INSERT s3ABj number
+LOOKUP brhnD
+END
+INSERT yR1Sj number
+ASSIGN iV3 brhnD
+INSERT cI string
+RPRINT
+LOOKUP hBxUM
+INSERT utL9Y string
+BEGIN
+INSERT af5wmt number
+INSERT c2 number
+INSERT wG string
+INSERT lJxW string
+INSERT gLahw number
+INSERT qo number
+PRINT
+BEGIN
+LOOKUP lJxW
+INSERT jnlNh number
+INSERT d1 number

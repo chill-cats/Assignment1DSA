@@ -1,0 +1,7 @@
+BEGIN
+END
+ASSIGN hwELu 'DVX'
+BEGIN
+RPRINT
+INSERT nQ number
+INSERT c number

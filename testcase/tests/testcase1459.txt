@@ -1,0 +1,29 @@
+INSERT de string
+LOOKUP de
+INSERT go3 string
+INSERT lMth number
+INSERT pDdBUp string
+INSERT pykuO number
+RPRINT
+INSERT fRpyJ string
+INSERT zyx string
+INSERT t7 number
+INSERT sm string
+RPRINT
+INSERT bouelb string
+INSERT cXGxQ number
+INSERT yh36y number
+INSERT aeZly number
+END
+mH3XiQ acFJZd
+ASSIGN aeZly 731
+LOOKUP pDdBUp
+INSERT tJT string
+INSERT bLI string
+ASSIGN fRpyJ 106
+INSERT p3btNb number
+INSERT iqPAAv number
+RPRINT
+INSERT cK string
+INSERT z string
+INSERT i number

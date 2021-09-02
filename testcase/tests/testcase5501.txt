@@ -1,0 +1,15 @@
+INSERT tVC number
+END
+INSERT rxh6_X string
+ASSIGN rxh6_X 881
+INSERT n8P string
+PRINT
+ASSIGN rxh6_X rxh6_X
+INSERT qz string
+INSERT rLDQi number
+LOOKUP tVC
+INSERT rv number
+wDuDAO jfpJkP
+LOOKUP n8P
+jx uR
+INSERT ox2U9Q number

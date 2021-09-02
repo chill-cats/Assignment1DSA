@@ -1,0 +1,36 @@
+PRINT
+PRINT
+INSERT u string
+INSERT wi string
+INSERT ha number
+PRINT
+xDEVbq rG
+INSERT rOB3 string
+INSERT pO6 string
+ASSIGN u wi
+LOOKUP rOB3
+ASSIGN u rOB3
+INSERT nNx number
+RPRINT
+INSERT j string
+INSERT uh string
+BEGIN
+RPRINT
+PRINT
+INSERT vhAkw number
+BEGIN
+INSERT fc4 number
+INSERT zS0_7n string
+o pQsm
+INSERT prrY1P number
+INSERT v number
+RPRINT
+BEGIN
+INSERT q8cs string
+INSERT f number
+INSERT wkZl6r string
+INSERT swT number
+INSERT h string
+INSERT nv4 number
+RPRINT
+BEGIN

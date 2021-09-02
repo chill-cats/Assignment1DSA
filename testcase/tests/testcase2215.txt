@@ -1,0 +1,17 @@
+INSERT qMzo string
+END
+RPRINT
+PRINT
+LOOKUP qMzo
+RPRINT
+INSERT fx0Yt number
+INSERT yA number
+INSERT xpRG number
+END
+LOOKUP yA
+INSERT j number
+INSERT q_91h number
+INSERT u19c string
+INSERT rYdC number
+INSERT thTbv string
+INSERT d number

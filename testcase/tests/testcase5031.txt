@@ -1,0 +1,24 @@
+INSERT c9Jkw string
+r81wf0 l7
+INSERT ddr string
+INSERT t string
+INSERT rH_8Qz string
+INSERT gMoa string
+END
+INSERT zJ string
+uZ18 xK4UH
+BEGIN
+INSERT zGCJLE number
+END
+INSERT mFhLU number
+RPRINT
+ASSIGN in_ 'u'
+INSERT w1cI string
+END
+RPRINT
+LOOKUP zGCJLE
+INSERT mIEHh9 number
+INSERT mvRR string
+PRINT
+INSERT oKLQ number
+INSERT iET number

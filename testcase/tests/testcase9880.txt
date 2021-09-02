@@ -1,0 +1,37 @@
+END
+INSERT pWB_Zp number
+INSERT bcwczx number
+INSERT n string
+INSERT fK string
+INSERT i string
+INSERT vF string
+INSERT c9 string
+INSERT vsD7Cd number
+RPRINT
+PRINT
+RPRINT
+LOOKUP vF
+INSERT xoRD_b string
+INSERT eV string
+END
+INSERT lgr0 number
+INSERT hj string
+PRINT
+BEGIN
+END
+INSERT pm string
+ASSIGN lgr0 c9
+END
+END
+INSERT az5fo string
+ioi9K nM
+INSERT xdP7c number
+BEGIN
+INSERT vBr string
+INSERT iif string
+PRINT
+INSERT gay string
+INSERT jvMti number
+zH7 mj
+INSERT b_ string
+END

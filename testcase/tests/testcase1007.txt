@@ -1,0 +1,7 @@
+INSERT pKmI number
+INSERT zBSA number
+INSERT cEK number
+INSERT uw number
+ASSIGN uw 'Q3'
+INSERT lBhWk string
+INSERT w number

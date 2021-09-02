@@ -1,0 +1,18 @@
+END
+PRINT
+INSERT mEaS string
+LOOKUP mEaS
+INSERT bP number
+INSERT ovj_ string
+LOOKUP mEaS
+ASSIGN mEaS mEaS
+INSERT l string
+INSERT q string
+INSERT zFr4F string
+INSERT bdLA string
+RPRINT
+BEGIN
+RPRINT
+INSERT zbjn string
+INSERT xSw number
+INSERT fVmw string

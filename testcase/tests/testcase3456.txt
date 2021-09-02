@@ -1,0 +1,9 @@
+INSERT qw8R number
+INSERT zEN number
+INSERT ag string
+INSERT tM2Z number
+INSERT y string
+INSERT cFpJ number
+BEGIN
+INSERT xrr number
+INSERT gw6rH number

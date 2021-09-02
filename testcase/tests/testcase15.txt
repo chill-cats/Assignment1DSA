@@ -1,0 +1,26 @@
+BEGIN
+INSERT zhCbtH number
+INSERT j string
+LOOKUP j
+BEGIN
+RPRINT
+INSERT tMC number
+INSERT i42ULS number
+INSERT asbV string
+INSERT tlO number
+INSERT rBPgfI number
+INSERT eNyhs number
+ASSIGN tMC tMC
+INSERT zP string
+INSERT y number
+BEGIN
+INSERT tdc number
+uO8O r
+LOOKUP asbV
+LOOKUP tdc
+RPRINT
+INSERT uT string
+INSERT v string
+END
+END
+RPRINT

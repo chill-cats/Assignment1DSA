@@ -1,0 +1,37 @@
+INSERT l4du string
+INSERT q number
+INSERT a6P number
+LOOKUP q
+PRINT
+INSERT j string
+INSERT j string
+n9Y q
+BEGIN
+INSERT i9an2 number
+ASSIGN a6P 'F'
+INSERT sihsu string
+tiQ y_
+INSERT z string
+END
+END
+RPRINT
+INSERT q number
+INSERT w string
+INSERT urW3sG number
+INSERT mwP number
+INSERT fHU string
+INSERT heV number
+INSERT hIe number
+z vyRg6A
+INSERT hI7 number
+END
+BEGIN
+INSERT voLbQ string
+INSERT aEGUNZ number
+INSERT lZND number
+INSERT tt9H number
+INSERT zGjna7 string
+PRINT
+INSERT mf number
+LOOKUP l4du
+INSERT g0Id string

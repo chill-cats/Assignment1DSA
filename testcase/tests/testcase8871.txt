@@ -1,0 +1,8 @@
+INSERT oFUd6J number
+INSERT x number
+RPRINT
+INSERT bOGgDb string
+RPRINT
+INSERT it number
+INSERT o string
+INSERT v7oB number

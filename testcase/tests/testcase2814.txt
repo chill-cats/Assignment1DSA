@@ -1,0 +1,22 @@
+INSERT u8t number
+BEGIN
+INSERT vb6 number
+INSERT yS8 string
+LOOKUP vb6
+LOOKUP vb6
+INSERT dIJEe string
+BEGIN
+BEGIN
+INSERT aJ string
+INSERT w number
+INSERT qLeML number
+INSERT uTldJ string
+LOOKUP uTldJ
+RPRINT
+INSERT e number
+BEGIN
+LOOKUP w
+INSERT y number
+INSERT l number
+INSERT wADDK number
+RPRINT

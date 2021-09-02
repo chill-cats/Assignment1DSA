@@ -1,0 +1,31 @@
+INSERT pC3 string
+BEGIN
+INSERT xAF number
+LOOKUP xAF
+INSERT dZbsOn string
+INSERT mrYkI5 number
+INSERT xUm string
+INSERT oSyLNf string
+INSERT iMUdXC number
+INSERT q7jRKf string
+INSERT nD number
+END
+INSERT nV5 string
+RPRINT
+cjg jB
+INSERT eNL3 number
+INSERT ng0LG string
+END
+RPRINT
+INSERT in4b number
+ASSIGN eNL3 'F'
+INSERT bWGt string
+INSERT w3g string
+PRINT
+PRINT
+INSERT aBR1 string
+INSERT u4 number
+INSERT gMJst number
+INSERT lf string
+ASSIGN u4 59
+END

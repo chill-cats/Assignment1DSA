@@ -1,0 +1,25 @@
+eDKZ8 pvRx
+INSERT ntlND string
+INSERT nVknpI number
+ASSIGN ntlND ntlND
+INSERT ipx string
+INSERT oCffH number
+INSERT ipIlA0 string
+LOOKUP ntlND
+INSERT o1 number
+INSERT m number
+INSERT uBfdH string
+INSERT fC5 number
+INSERT v string
+ASSIGN uBfdH nVknpI
+INSERT kpZp string
+PRINT
+INSERT eEB number
+PRINT
+INSERT hvBvR string
+RPRINT
+RPRINT
+INSERT lIQUy number
+INSERT jZ3SL number
+INSERT jPYpz string
+RPRINT

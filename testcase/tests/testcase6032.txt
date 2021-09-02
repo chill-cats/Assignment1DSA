@@ -1,0 +1,20 @@
+INSERT vGr number
+INSERT cHZU string
+INSERT qmL7 number
+INSERT wSK1 number
+INSERT c number
+ASSIGN wSK1 'z'
+PRINT
+INSERT qCwI number
+PRINT
+INSERT pGeL string
+INSERT tiac_ number
+INSERT facc number
+LOOKUP wSK1
+BEGIN
+INSERT eeO0S string
+INSERT rUf number
+BEGIN
+LOOKUP pGeL
+RPRINT
+INSERT ve string

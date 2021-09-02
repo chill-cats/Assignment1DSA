@@ -1,0 +1,33 @@
+INSERT h446X6 number
+ASSIGN h446X6 h446X6
+BEGIN
+INSERT g string
+INSERT nIjut string
+cpydDe p
+RPRINT
+INSERT l3wN string
+INSERT yEYGB number
+BEGIN
+INSERT ct_L number
+INSERT u7 string
+LOOKUP h446X6
+BEGIN
+INSERT mr string
+INSERT v60oYi string
+INSERT aNWcNO number
+INSERT djvjsb number
+INSERT qPe1Nj number
+END
+INSERT fFAz string
+INSERT ivNT number
+INSERT xYx9 string
+END
+INSERT kAOq5p string
+INSERT b9i string
+INSERT zz number
+END
+PRINT
+ASSIGN yEYGB 'nGI'
+INSERT pk number
+INSERT vVdD string
+BEGIN

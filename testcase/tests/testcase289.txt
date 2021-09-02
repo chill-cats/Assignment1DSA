@@ -1,0 +1,25 @@
+INSERT a_E number
+LOOKUP a_E
+PRINT
+INSERT mN string
+jR7u mh
+INSERT ljNC string
+INSERT ilYC string
+INSERT e6cFx number
+INSERT qyGV number
+INSERT jxtbYl string
+INSERT m number
+INSERT jAR number
+INSERT qq9 number
+INSERT gCD7 number
+INSERT up string
+indf bgE
+INSERT kfIv string
+INSERT zQ string
+RPRINT
+INSERT u string
+BEGIN
+INSERT bo1bKr number
+INSERT sXMq3w string
+END
+BEGIN

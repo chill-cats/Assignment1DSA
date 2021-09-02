@@ -1,0 +1,26 @@
+INSERT x number
+INSERT xHfyI string
+LOOKUP x
+BEGIN
+INSERT r number
+END
+BEGIN
+INSERT dKS8 string
+ASSIGN xHfyI 189
+LOOKUP dKS8
+LOOKUP dKS8
+INSERT mgD string
+INSERT yur1nu string
+ASSIGN r yur1nu
+INSERT ry3ZfF string
+BEGIN
+END
+INSERT n string
+INSERT nrzj number
+END
+INSERT qE string
+INSERT jj8mo number
+END
+BEGIN
+INSERT qKyT number
+PRINT

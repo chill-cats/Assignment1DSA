@@ -1,0 +1,15 @@
+x5wiy zVpE
+INSERT z string
+INSERT s string
+INSERT sGlfP string
+ASSIGN s sGlfP
+INSERT wWXx string
+PRINT
+INSERT ryjkYg string
+RPRINT
+BEGIN
+LOOKUP ryjkYg
+INSERT woGSYy string
+INSERT iv number
+END
+INSERT kl string

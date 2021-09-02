@@ -1,0 +1,37 @@
+INSERT eNU number
+PRINT
+LOOKUP eNU
+INSERT fkgsd string
+INSERT uTH number
+INSERT d string
+END
+PRINT
+INSERT nBI7CT string
+INSERT j number
+ASSIGN nBI7CT 191
+INSERT vnYDu number
+END
+INSERT k string
+INSERT fiVfF string
+INSERT fCornK string
+INSERT kefy number
+INSERT dK number
+PRINT
+INSERT p number
+PRINT
+INSERT lj5liC number
+INSERT qaas number
+ASSIGN fkgsd 911
+INSERT yeh8 number
+INSERT xt string
+INSERT nfVczR number
+ASSIGN vnYDu ' AV6'
+INSERT hid number
+INSERT m75 number
+INSERT vbSUk string
+BEGIN
+INSERT f1 number
+INSERT kF number
+BEGIN
+INSERT t string
+LOOKUP fCornK

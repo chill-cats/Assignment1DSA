@@ -1,0 +1,27 @@
+INSERT remNk number
+BEGIN
+INSERT gz string
+PRINT
+END
+LOOKUP gz
+RPRINT
+END
+INSERT hepn number
+INSERT oNLFl string
+INSERT h9_sHj string
+INSERT s9 string
+RPRINT
+INSERT zjsPw0 number
+LOOKUP zjsPw0
+END
+e gETB
+INSERT d4 number
+RPRINT
+END
+END
+END
+PRINT
+LOOKUP gz
+INSERT nFP number
+END
+LOOKUP nFP

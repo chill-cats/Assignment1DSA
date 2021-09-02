@@ -1,0 +1,27 @@
+INSERT rT string
+END
+INSERT pLqTZ1 string
+ASSIGN rT 'ilZh'
+INSERT yk string
+INSERT y0 string
+INSERT yu string
+INSERT kAU string
+INSERT rhle6B string
+INSERT z3MP string
+INSERT wCME number
+ASSIGN z3MP yk
+PRINT
+BEGIN
+LOOKUP kAU
+INSERT or string
+END
+INSERT dNXY string
+INSERT vZaIm_ number
+INSERT kGgLR string
+INSERT w number
+RPRINT
+INSERT fQ string
+PRINT
+RPRINT
+INSERT obIHHw string
+INSERT oU number

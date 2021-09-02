@@ -1,0 +1,34 @@
+INSERT l2 string
+LOOKUP l2
+INSERT oi string
+PRINT
+INSERT bm string
+LOOKUP l2
+INSERT tpY9 number
+INSERT v string
+INSERT rR1 string
+INSERT kDIu36 string
+END
+INSERT l1H number
+ztY nOe3
+RPRINT
+INSERT dSko number
+INSERT y8 string
+ASSIGN l2 oi
+INSERT s0o number
+INSERT tS9 number
+INSERT wSw2 number
+ASSIGN l2 's c'
+LOOKUP l2
+PRINT
+INSERT tDmVaD number
+INSERT k0C3u number
+INSERT tMS number
+INSERT jXG string
+INSERT s string
+LOOKUP oi
+BEGIN
+INSERT gN8b6s number
+INSERT nVv94 number
+ASSIGN l2 'tRb6'
+ASSIGN tS9 429

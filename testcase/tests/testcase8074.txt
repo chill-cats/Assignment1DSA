@@ -1,0 +1,36 @@
+INSERT qL number
+INSERT gBlNM number
+ASSIGN qL '3'
+INSERT fSyh number
+INSERT rq string
+LOOKUP fSyh
+INSERT ap5p number
+pCkbV l
+INSERT seJw string
+INSERT q0Y number
+INSERT rm number
+cpT u_
+BEGIN
+INSERT fV37Ud string
+INSERT csRD number
+INSERT kbrP7 number
+INSERT s3crf number
+pTTIk2 y3Pmt
+PRINT
+INSERT yZy number
+INSERT i string
+BEGIN
+PRINT
+LOOKUP i
+INSERT d number
+ASSIGN rm rm
+INSERT kS number
+RPRINT
+INSERT jZsFs3 string
+PRINT
+INSERT vDKrP number
+eng bI
+INSERT djT string
+INSERT sN number
+INSERT flpWP number
+LOOKUP ap5p

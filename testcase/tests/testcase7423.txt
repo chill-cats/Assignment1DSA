@@ -1,0 +1,37 @@
+INSERT mAS number
+INSERT ddF number
+INSERT pgr string
+INSERT g string
+INSERT dR number
+ASSIGN qb mAS
+ASSIGN ddF 'bes3j'
+INSERT ef string
+INSERT c0 number
+END
+INSERT n string
+INSERT sYGm string
+BEGIN
+INSERT cM string
+ASSIGN g 29
+BEGIN
+INSERT jdXO string
+INSERT isGcHL number
+INSERT ld number
+INSERT wMbj7 number
+INSERT d8Lk string
+END
+END
+BEGIN
+LOOKUP jdXO
+LOOKUP pgr
+p mn5z
+INSERT pybK8 string
+RPRINT
+INSERT tUz string
+INSERT qIBeUu number
+END
+INSERT uaH string
+INSERT hYYKL number
+PRINT
+INSERT ycOe9 number
+INSERT iD string

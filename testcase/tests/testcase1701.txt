@@ -1,0 +1,36 @@
+INSERT fhn string
+INSERT xUloBT number
+INSERT c5cX7 string
+RPRINT
+LOOKUP xUloBT
+INSERT sZ string
+INSERT fQhck string
+INSERT xyPH string
+uQUM jZMP1
+iLR6 lwV
+INSERT ig6tK_ string
+INSERT qD2zDA number
+PRINT
+LOOKUP ig6tK_
+INSERT zX string
+INSERT h3igDj number
+INSERT e number
+INSERT lE string
+ASSIGN h3igDj zX
+ASSIGN fQhck xyPH
+INSERT qOks1Z string
+INSERT gvVV string
+INSERT kf_B66 number
+INSERT z string
+PRINT
+PRINT
+INSERT iCEDZp number
+PRINT
+INSERT p99 number
+INSERT b9M9 number
+INSERT v01 number
+INSERT cvr7P number
+PRINT
+LOOKUP zX
+LOOKUP v01
+INSERT xe string

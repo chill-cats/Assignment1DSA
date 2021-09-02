@@ -1,0 +1,28 @@
+INSERT lzzeEW number
+END
+LOOKUP lzzeEW
+RPRINT
+INSERT kve number
+PRINT
+INSERT u number
+END
+INSERT qTLuk string
+INSERT gOo number
+PRINT
+ASSIGN qTLuk 'yMH8A'
+INSERT o51FD number
+ASSIGN u 834
+LOOKUP kve
+INSERT xiiM string
+INSERT eq6 number
+INSERT u_p4DF number
+INSERT y96u number
+INSERT h string
+INSERT xBTXl string
+INSERT p8 number
+LOOKUP gOo
+INSERT dfuem string
+INSERT nHqkSQ number
+INSERT ilrfN string
+PRINT
+INSERT yK number

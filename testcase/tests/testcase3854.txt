@@ -1,0 +1,5 @@
+RPRINT
+INSERT hbYwg_ number
+INSERT t3YvNv number
+INSERT rpitg string
+ASSIGN hbYwg_ t3YvNv

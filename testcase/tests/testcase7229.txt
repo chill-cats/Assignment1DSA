@@ -1,0 +1,26 @@
+INSERT rQeRlC number
+INSERT o9IVO3 number
+INSERT oln73h string
+INSERT u1 number
+INSERT elqcv_ string
+ASSIGN u1 u1
+INSERT pm string
+INSERT iIXL string
+INSERT cK6 string
+INSERT g8xml0 number
+INSERT oC3w_t string
+PRINT
+INSERT h string
+RPRINT
+PRINT
+INSERT lk number
+INSERT sqbvR string
+INSERT yZcn string
+ASSIGN elqcv_ rQeRlC
+PRINT
+END
+INSERT gWRj number
+END
+INSERT u2Cs3_ number
+PRINT
+RPRINT

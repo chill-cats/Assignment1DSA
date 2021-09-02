@@ -1,0 +1,22 @@
+BEGIN
+END
+INSERT jhEfOD string
+INSERT zp number
+LOOKUP zp
+ASSIGN zp 'bgi5'
+INSERT zjxJ string
+BEGIN
+ASSIGN zp jhEfOD
+INSERT drw string
+INSERT rC string
+ASSIGN jhEfOD 1219
+INSERT kj1Z number
+BEGIN
+INSERT y string
+INSERT v string
+LOOKUP zp
+PRINT
+INSERT mWCl string
+iIlXYW g
+INSERT fBuV number
+INSERT m8 number

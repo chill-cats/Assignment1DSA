@@ -1,0 +1,36 @@
+INSERT nKqRV string
+LOOKUP nKqRV
+INSERT mg string
+INSERT jSyZjJ string
+INSERT d number
+INSERT dW9Qq number
+INSERT zmslqT string
+INSERT t number
+INSERT xCJZIf string
+RPRINT
+END
+LOOKUP zmslqT
+LOOKUP jSyZjJ
+INSERT aco0O number
+RPRINT
+END
+INSERT c number
+INSERT xK number
+INSERT gu number
+INSERT xOGM string
+PRINT
+INSERT c5o number
+INSERT g string
+ol eb
+INSERT y0W string
+INSERT bw string
+INSERT x0AU string
+INSERT ifndQ string
+ASSIGN dW9Qq 'gRW'
+ASSIGN g 136
+hS hPCUGI
+INSERT f number
+INSERT d number
+INSERT lIM number
+PRINT
+INSERT pgr95 string

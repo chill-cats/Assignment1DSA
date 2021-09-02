@@ -1,0 +1,17 @@
+INSERT sdcH string
+INSERT i0Trw number
+LOOKUP i0Trw
+INSERT pfxv string
+LOOKUP pfxv
+INSERT k number
+PRINT
+BEGIN
+END
+INSERT p string
+INSERT j string
+INSERT dlXu number
+INSERT l3 string
+INSERT bX7 string
+RPRINT
+INSERT zSIxa number
+INSERT v3 string

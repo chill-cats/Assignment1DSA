@@ -1,0 +1,6 @@
+ASSIGN yMYPZ 797
+RPRINT
+INSERT gpaCe string
+INSERT jEa string
+INSERT vxDRee string
+INSERT fKRTpl number

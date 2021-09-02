@@ -1,0 +1,26 @@
+INSERT pDeQ string
+RPRINT
+INSERT w string
+LOOKUP w
+ASSIGN pDeQ 'UM'
+END
+BEGIN
+ASSIGN w '6C'
+END
+INSERT mTWOX number
+INSERT voi number
+INSERT ii number
+INSERT kUez string
+INSERT y string
+RPRINT
+INSERT nL string
+INSERT tjBa string
+ASSIGN mTWOX 614
+END
+INSERT cLA number
+pwww zTg
+INSERT yk2L string
+INSERT hKp2p string
+INSERT o number
+PRINT
+INSERT om0IB number

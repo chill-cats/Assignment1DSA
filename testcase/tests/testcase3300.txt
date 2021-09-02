@@ -1,0 +1,26 @@
+PRINT
+INSERT h number
+INSERT yOww0b string
+INSERT pyG number
+INSERT zMEJJC string
+INSERT q0I_H number
+INSERT eh26z string
+INSERT jeWCWP string
+INSERT cj number
+ASSIGN h 918
+ASSIGN q0I_H 'mnks'
+INSERT wT number
+INSERT gJG string
+INSERT dmYe number
+INSERT qB7Q string
+BEGIN
+INSERT lN5QWV number
+LOOKUP yOww0b
+INSERT s number
+PRINT
+INSERT g string
+ASSIGN wT 1079
+INSERT nM0 string
+INSERT pp number
+INSERT ckllwB number
+INSERT gz number

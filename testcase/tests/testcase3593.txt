@@ -1,0 +1,36 @@
+INSERT dYd_eN string
+INSERT u number
+LOOKUP dYd_eN
+BEGIN
+INSERT kKB number
+END
+INSERT r9 string
+RPRINT
+INSERT ni6 number
+PRINT
+INSERT zMX number
+ASSIGN ni6 ni6
+h9 qAsz
+PRINT
+ASSIGN zMX 387
+INSERT vwJi37 string
+LOOKUP zMX
+INSERT aU1Q string
+RPRINT
+k yBZ
+INSERT kY string
+LOOKUP kY
+INSERT waJ0m9 string
+INSERT t6 number
+INSERT v string
+LOOKUP u
+ASSIGN kKB 'Q93'
+INSERT e string
+INSERT utyfW number
+RPRINT
+BEGIN
+RPRINT
+BEGIN
+LOOKUP t6
+INSERT lrEgl number
+INSERT o14zwe string

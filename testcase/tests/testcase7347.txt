@@ -1,0 +1,24 @@
+RPRINT
+INSERT qSk3z number
+ASSIGN qSk3z 'dhq7'
+INSERT g2AfJ string
+LOOKUP g2AfJ
+INSERT cZs string
+INSERT mZ number
+INSERT n number
+INSERT dfp0X string
+END
+BEGIN
+INSERT w16 number
+ASSIGN cZs qSk3z
+END
+BEGIN
+INSERT s1ZKu string
+LOOKUP n
+LOOKUP mZ
+INSERT nc__D string
+BEGIN
+ASSIGN mZ n
+INSERT w3Z5Z number
+PRINT
+END

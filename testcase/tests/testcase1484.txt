@@ -1,0 +1,13 @@
+RPRINT
+END
+INSERT ySwpQ number
+INSERT pn_ string
+INSERT g number
+LOOKUP pn_
+LOOKUP ySwpQ
+INSERT fD number
+BEGIN
+INSERT p9 number
+lO3 n1Uxgc
+INSERT xEAuPO number
+ASSIGN pn_ '53Vd'

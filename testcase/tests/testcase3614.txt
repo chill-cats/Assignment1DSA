@@ -1,0 +1,18 @@
+INSERT pXxH string
+INSERT foR number
+INSERT hn number
+INSERT z number
+PRINT
+END
+PRINT
+INSERT d5Vr string
+INSERT w8fNL6 string
+INSERT c6 number
+RPRINT
+ASSIGN z 594
+INSERT pH string
+INSERT jUCp string
+INSERT pz number
+INSERT d string
+PRINT
+INSERT m number

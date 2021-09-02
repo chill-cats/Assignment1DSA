@@ -1,0 +1,23 @@
+INSERT g number
+INSERT fr60 string
+INSERT fmJP3 number
+INSERT nBTCN number
+PRINT
+y qGS
+INSERT jy string
+INSERT g4oTD number
+INSERT bR5Xeh number
+PRINT
+LOOKUP nBTCN
+zaYf t_mf19
+INSERT tXB string
+INSERT sZEK string
+INSERT e5pZ1m string
+END
+INSERT utOH6Y string
+INSERT u number
+INSERT t string
+swCUjV q690X
+ASSIGN fmJP3 311
+LOOKUP bR5Xeh
+RPRINT

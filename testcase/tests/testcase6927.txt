@@ -1,0 +1,17 @@
+INSERT b string
+INSERT wH number
+ASSIGN b 202
+INSERT nUM2 string
+PRINT
+INSERT x number
+PRINT
+LOOKUP x
+INSERT pZ1a_c string
+INSERT qWcxd string
+LOOKUP b
+ASSIGN nUM2 'kmm'
+INSERT dEJq6 string
+INSERT k string
+oqdi bO4A
+INSERT nCQyS string
+INSERT fm78kR number

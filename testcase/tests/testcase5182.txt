@@ -1,0 +1,32 @@
+INSERT c_6Pux number
+BEGIN
+INSERT l4Y number
+PRINT
+RPRINT
+RPRINT
+LOOKUP c_6Pux
+INSERT xM2LME string
+INSERT xMx9 number
+INSERT uaQ number
+ASSIGN c_6Pux 1237
+INSERT nEkBd number
+LOOKUP l4Y
+INSERT eg35 string
+INSERT i number
+INSERT dDoSF string
+LOOKUP dDoSF
+END
+cqJm aoiX9J
+RPRINT
+PRINT
+INSERT q string
+INSERT uIAy4x string
+INSERT qQHRUH number
+INSERT w number
+INSERT n number
+INSERT irAE number
+INSERT aY string
+END
+dMRe is4
+INSERT n59T string
+BEGIN

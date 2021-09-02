@@ -1,0 +1,25 @@
+INSERT p string
+ASSIGN p p
+END
+INSERT v number
+INSERT iAbL_U number
+RPRINT
+INSERT biX7f number
+ASSIGN biX7f 849
+ASSIGN biX7f iAbL_U
+INSERT rySR string
+INSERT qV string
+INSERT zz number
+ASSIGN zz 'a'
+INSERT l string
+INSERT dAY string
+INSERT hBqgXp string
+f6V xa5i1
+INSERT hsVe6E string
+INSERT pr1G number
+LOOKUP pr1G
+INSERT el string
+im zg
+ASSIGN biX7f 'V64W'
+INSERT vc number
+END

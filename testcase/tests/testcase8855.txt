@@ -1,0 +1,39 @@
+LOOKUP b0QPeh
+LOOKUP ztv
+INSERT bsxL number
+PRINT
+INSERT q2 string
+ASSIGN bsxL bsxL
+INSERT qS4 string
+PRINT
+INSERT cjs85 string
+INSERT d3o8 number
+LOOKUP qS4
+INSERT unws number
+INSERT b string
+INSERT bYOV number
+INSERT pN string
+INSERT uO number
+PRINT
+INSERT f number
+INSERT oE8 string
+LOOKUP cjs85
+LOOKUP gRB
+INSERT elYvma string
+INSERT p1h1 string
+INSERT eEx number
+INSERT k2j string
+INSERT rS number
+INSERT iV string
+pw7t xCn
+INSERT bcuCb string
+INSERT q string
+BEGIN
+INSERT b string
+INSERT yrV4 number
+INSERT sOeMF number
+RPRINT
+END
+INSERT vz_ number
+INSERT w_v string
+BEGIN

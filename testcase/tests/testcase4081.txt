@@ -1,0 +1,33 @@
+LOOKUP i80
+LOOKUP nzEx
+INSERT y_L7f number
+INSERT bVd string
+INSERT cdgM_X number
+ASSIGN bVd 'FcAO'
+BEGIN
+PRINT
+INSERT e_z string
+INSERT jj43y number
+INSERT uQ4yg number
+INSERT tXntg number
+PRINT
+INSERT p string
+INSERT l string
+PRINT
+ASSIGN tXntg 'zAgdA'
+INSERT c0pj7V number
+ASSIGN uQ4yg bVd
+PRINT
+INSERT nm string
+INSERT gr number
+RPRINT
+INSERT srn string
+RPRINT
+INSERT s string
+INSERT i number
+PRINT
+PRINT
+INSERT bq string
+BEGIN
+INSERT hRTF string
+INSERT tp string

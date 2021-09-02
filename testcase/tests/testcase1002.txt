@@ -1,0 +1,18 @@
+BEGIN
+INSERT psN number
+INSERT lzxY string
+INSERT t_ number
+INSERT ugRY5 number
+ASSIGN ugRY5 psN
+klXLBg f
+RPRINT
+INSERT p string
+BEGIN
+INSERT uCtA string
+INSERT uWzZ string
+INSERT q string
+INSERT iZ1f number
+LOOKUP t_
+INSERT k number
+INSERT b_MRY number
+INSERT ewQ5JC string

@@ -1,0 +1,19 @@
+INSERT kS string
+INSERT i number
+PRINT
+INSERT lJVW number
+BEGIN
+INSERT t string
+LOOKUP i
+INSERT g1xgmu number
+INSERT twQ6 string
+INSERT qfQ4U4 string
+cuxy j
+BEGIN
+INSERT mYfF17 number
+INSERT n58b string
+INSERT bqT5Y number
+LOOKUP bqT5Y
+RPRINT
+INSERT gb_oY number
+ASSIGN g1xgmu 'yF'

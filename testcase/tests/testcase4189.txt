@@ -1,0 +1,11 @@
+INSERT w2SrWx number
+INSERT iZrrk string
+ASSIGN iZrrk iZrrk
+INSERT w4H number
+LOOKUP w2SrWx
+BEGIN
+INSERT u8Noq number
+INSERT rDWN7 string
+INSERT f string
+INSERT qcoH string
+INSERT nnmYW3 number

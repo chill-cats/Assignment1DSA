@@ -1,0 +1,28 @@
+INSERT k string
+END
+INSERT h number
+BEGIN
+INSERT pJ string
+INSERT aJzbP string
+INSERT oENr number
+INSERT j5QT3d string
+INSERT sPaTn string
+PRINT
+INSERT hmbXH string
+kd_ bI
+INSERT udIWZ string
+INSERT vE7 number
+RPRINT
+ASSIGN oENr 141
+INSERT w string
+INSERT fx string
+END
+INSERT q5U9v string
+INSERT dB1dN string
+RPRINT
+INSERT snhHa string
+RPRINT
+LOOKUP fx
+LOOKUP dj
+ASSIGN j5QT3d 'ILeh'
+INSERT cyHNsv number

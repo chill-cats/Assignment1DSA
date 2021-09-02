@@ -1,0 +1,12 @@
+BEGIN
+INSERT pz string
+END
+INSERT c number
+BEGIN
+INSERT x_mh string
+INSERT uvb string
+INSERT kz number
+ASSIGN uvb kz
+RPRINT
+INSERT fi string
+BEGIN

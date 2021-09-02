@@ -1,0 +1,30 @@
+INSERT j number
+INSERT hKI number
+LOOKUP hKI
+LOOKUP hKI
+INSERT r5NK string
+INSERT f9qbEw string
+INSERT oDJ string
+INSERT dls number
+INSERT pJ string
+INSERT ph string
+INSERT qa number
+PRINT
+END
+INSERT ttO3 number
+END
+ASSIGN qa ph
+h_UW nc
+PRINT
+INSERT c_z string
+INSERT mz1FtX number
+ASSIGN mz1FtX 1009
+INSERT s6mr string
+INSERT t string
+INSERT smDt number
+kcRYi gfic
+INSERT u5 string
+ASSIGN t 'dm'
+INSERT vbv number
+INSERT lZP04g number
+INSERT ql string

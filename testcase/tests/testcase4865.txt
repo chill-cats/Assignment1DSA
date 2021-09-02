@@ -1,0 +1,22 @@
+INSERT k_G string
+PRINT
+END
+INSERT kih7M0 number
+RPRINT
+INSERT rF0 number
+ASSIGN rF0 k_G
+LOOKUP rF0
+INSERT nXc string
+INSERT yP3P string
+eE ltLq
+INSERT nHERtm number
+RPRINT
+INSERT re number
+INSERT qFR number
+INSERT qD string
+hp121w qT
+INSERT egV0ER string
+INSERT lJkL number
+PRINT
+INSERT n string
+LOOKUP qFR

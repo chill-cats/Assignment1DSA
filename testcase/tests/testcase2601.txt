@@ -1,0 +1,4 @@
+INSERT nzhE number
+INSERT d string
+INSERT h number
+ASSIGN nzhE 'FuO'

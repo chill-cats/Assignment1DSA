@@ -1,0 +1,19 @@
+INSERT geNX string
+RPRINT
+INSERT da4r string
+RPRINT
+END
+INSERT j string
+INSERT m string
+END
+LOOKUP m
+ASSIGN m 'Uz'
+INSERT ulCBPo number
+INSERT qu2B9G number
+INSERT bdoh number
+INSERT r5H87q number
+INSERT hvrr string
+aKoSdq nH
+INSERT t number
+INSERT xxu number
+INSERT zipFE7 number

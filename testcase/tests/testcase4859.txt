@@ -1,0 +1,4 @@
+LOOKUP dlml
+RPRINT
+INSERT fn5jp number
+END

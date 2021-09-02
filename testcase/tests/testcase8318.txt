@@ -1,0 +1,28 @@
+INSERT rTKZ string
+INSERT eZN number
+INSERT v1Ou73 number
+INSERT a6 string
+INSERT mw5TA string
+INSERT agEHY string
+INSERT f number
+ASSIGN v1Ou73 a6
+ASSIGN mw5TA 431
+INSERT eV1t string
+INSERT wGvE0 number
+ASSIGN v1Ou73 861
+INSERT c string
+PRINT
+xDD jU3
+LOOKUP f
+LOOKUP agEHY
+INSERT f7yfP string
+RPRINT
+INSERT hoaGAU string
+INSERT f string
+INSERT x5_Hs number
+INSERT jY number
+INSERT bW number
+BEGIN
+END
+INSERT e number
+INSERT mDhCz string

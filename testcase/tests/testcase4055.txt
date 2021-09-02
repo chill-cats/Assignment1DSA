@@ -1,0 +1,17 @@
+INSERT rir string
+PRINT
+INSERT i string
+INSERT n2y string
+INSERT sL number
+INSERT r string
+INSERT jI number
+INSERT oAYk0h number
+END
+INSERT j5yas string
+INSERT aY string
+PRINT
+INSERT suFG number
+INSERT h_J4 number
+INSERT p1 number
+LOOKUP suFG
+PRINT

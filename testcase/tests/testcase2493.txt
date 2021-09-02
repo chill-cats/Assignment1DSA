@@ -1,0 +1,20 @@
+INSERT az string
+INSERT n3Xez string
+RPRINT
+RPRINT
+INSERT csRkwC number
+INSERT si2gwj number
+PRINT
+INSERT vuRF3w string
+LOOKUP vuRF3w
+INSERT mf number
+ASSIGN mf 'bNSbf'
+PRINT
+INSERT q1 string
+RPRINT
+PRINT
+INSERT zlGx0h string
+ASSIGN zlGx0h 578
+BEGIN
+INSERT ibtPu number
+INSERT yW number

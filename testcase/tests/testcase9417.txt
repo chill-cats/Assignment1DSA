@@ -1,0 +1,31 @@
+INSERT i number
+h_ y
+INSERT lNgCy9 number
+INSERT pI string
+INSERT cXMW string
+INSERT dDzRj string
+INSERT vr string
+INSERT x string
+INSERT yp string
+PRINT
+INSERT ye1XgH string
+INSERT k number
+INSERT to string
+RPRINT
+LOOKUP pI
+INSERT gQywM number
+END
+LOOKUP k
+INSERT c string
+INSERT xB string
+END
+INSERT k8 string
+ASSIGN vr x
+INSERT n string
+INSERT r string
+END
+y di3
+ASSIGN gQywM 'r'
+END
+INSERT a string
+INSERT fa number

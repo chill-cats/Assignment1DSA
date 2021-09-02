@@ -1,0 +1,11 @@
+INSERT v0v string
+INSERT w string
+BEGIN
+END
+INSERT p number
+INSERT rn string
+END
+INSERT z6HS number
+RPRINT
+PRINT
+g_avUI psX

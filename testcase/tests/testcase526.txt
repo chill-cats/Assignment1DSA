@@ -1,0 +1,22 @@
+LOOKUP fO
+INSERT w0T9 string
+eUFMrO e
+ASSIGN w0T9 1094
+INSERT g number
+INSERT hE3chT number
+INSERT iUp string
+LOOKUP iUp
+INSERT xtf number
+ASSIGN hE3chT 116
+INSERT fvj5S number
+INSERT p_Rm number
+RPRINT
+ASSIGN fvj5S xtf
+INSERT o5xF number
+INSERT qNLR number
+INSERT i string
+END
+f mqUTu
+INSERT o string
+INSERT y number
+PRINT

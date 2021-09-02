@@ -1,0 +1,15 @@
+PRINT
+INSERT yV number
+INSERT nTtO number
+ASSIGN nTtO 499
+LOOKUP yV
+END
+RPRINT
+INSERT c number
+INSERT cs0XA string
+INSERT xqBoI number
+INSERT bOc number
+INSERT wAn string
+INSERT yblfIZ number
+INSERT mnOL number
+INSERT ox number

@@ -1,0 +1,8 @@
+BEGIN
+BEGIN
+INSERT td_V string
+p5DOM nEU
+INSERT wgOfI number
+INSERT jPg number
+PRINT
+END

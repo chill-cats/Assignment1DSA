@@ -1,0 +1,11 @@
+INSERT bM number
+INSERT r string
+BEGIN
+INSERT hmcXiJ number
+INSERT ij number
+ASSIGN ij 'FeZ J'
+INSERT r number
+INSERT v9 string
+INSERT lX number
+INSERT cBqG number
+BEGIN

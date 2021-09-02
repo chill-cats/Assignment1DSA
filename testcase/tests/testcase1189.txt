@@ -1,0 +1,15 @@
+INSERT pE68t string
+INSERT utenKT string
+END
+PRINT
+wLYtC jfmvrC
+INSERT qC string
+INSERT h2 string
+INSERT mKfK1 number
+ASSIGN pE68t mKfK1
+BEGIN
+INSERT oeobi string
+INSERT hLpe number
+INSERT zHi number
+INSERT w string
+BEGIN

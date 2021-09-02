@@ -1,0 +1,34 @@
+x e6AwzE
+INSERT uvj6d number
+INSERT g string
+BEGIN
+LOOKUP uvj6d
+INSERT s string
+END
+BEGIN
+lx muoL5
+INSERT dTNqXe number
+wFIOZL ctrY
+INSERT sg string
+INSERT bXs string
+INSERT q string
+INSERT oV string
+ASSIGN dTNqXe s
+INSERT xlxXB string
+INSERT s number
+INSERT p6dhav number
+INSERT gMs2N number
+INSERT jQa string
+INSERT cbS string
+INSERT kq9g number
+LOOKUP cbS
+ASSIGN sg sg
+x yVVK2
+INSERT m number
+INSERT iECB number
+INSERT qLITod number
+RPRINT
+INSERT c number
+END
+INSERT qBni string
+BEGIN

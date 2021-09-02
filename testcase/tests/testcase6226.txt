@@ -1,0 +1,25 @@
+INSERT h number
+INSERT sqk string
+ASSIGN sqk 145
+INSERT uk3 number
+INSERT kIJFe3 string
+INSERT zsq string
+INSERT hGKe number
+INSERT lOSI string
+LOOKUP kIJFe3
+INSERT fxU number
+RPRINT
+INSERT t string
+INSERT d1d2hb number
+INSERT zSlJMd string
+INSERT e string
+INSERT y6D string
+INSERT anh string
+END
+ASSIGN kIJFe3 653
+PRINT
+RPRINT
+INSERT b number
+INSERT oC number
+INSERT uX string
+BEGIN

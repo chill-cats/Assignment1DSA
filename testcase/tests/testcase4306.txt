@@ -1,0 +1,20 @@
+LOOKUP rKet
+INSERT ujhWm number
+ijF wS
+INSERT pmnh4P number
+INSERT wV number
+ASSIGN ujhWm 1128
+INSERT rEq8 string
+INSERT pFu number
+INSERT uplHb number
+INSERT iwKiN string
+ASSIGN pFu 1221
+BEGIN
+INSERT oO string
+INSERT eqHRww string
+INSERT sv number
+INSERT aHHu8 string
+INSERT jVi number
+INSERT pcavW string
+INSERT pkb number
+RPRINT

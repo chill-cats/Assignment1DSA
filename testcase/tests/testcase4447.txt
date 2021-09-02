@@ -1,0 +1,23 @@
+RPRINT
+INSERT n6n4L number
+INSERT i_ number
+END
+INSERT aY4eUx number
+INSERT g number
+BEGIN
+INSERT xueql string
+INSERT t8 string
+BEGIN
+INSERT hiEfC number
+INSERT wpN string
+LOOKUP i_
+END
+INSERT vD string
+INSERT jf6t string
+BEGIN
+INSERT k number
+LOOKUP jf6t
+INSERT px string
+ASSIGN wpN 'n45u'
+INSERT cAWbY string
+INSERT jx string

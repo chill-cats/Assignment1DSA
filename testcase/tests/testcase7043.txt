@@ -1,0 +1,13 @@
+INSERT kLT3z string
+v ichi
+INSERT t string
+INSERT mLM number
+ASSIGN t kLT3z
+INSERT e17A string
+INSERT bs89 string
+INSERT xdl string
+INSERT kZswd number
+INSERT xEq number
+PRINT
+ASSIGN xuc '08'
+ASSIGN mLM 262

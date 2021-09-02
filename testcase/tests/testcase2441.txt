@@ -1,0 +1,31 @@
+INSERT c number
+ASSIGN c 'nx'
+INSERT hM8vN string
+LOOKUP c
+INSERT dL string
+INSERT c3Lx0z string
+ASSIGN hM8vN 491
+INSERT sV string
+RPRINT
+END
+INSERT boaQw3 string
+INSERT iF number
+LOOKUP boaQw3
+LOOKUP sV
+INSERT vUN8Z number
+PRINT
+INSERT b string
+INSERT sQiS string
+INSERT fO9F number
+INSERT lM8cRW number
+RPRINT
+INSERT nG string
+LOOKUP dL
+INSERT qV string
+LOOKUP qV
+INSERT yFf7we number
+INSERT x number
+g zEwST
+PRINT
+INSERT d number
+RPRINT

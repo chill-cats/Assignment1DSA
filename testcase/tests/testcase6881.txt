@@ -1,0 +1,19 @@
+INSERT p number
+INSERT sVJSM number
+ASSIGN p sVJSM
+END
+RPRINT
+dnzBO cXub
+INSERT s string
+INSERT u6Q string
+ASSIGN s s
+INSERT d number
+INSERT ksynX number
+PRINT
+LOOKUP ksynX
+BEGIN
+INSERT xrVVK string
+INSERT aO number
+INSERT ti1KUj number
+INSERT c string
+ASSIGN xrVVK p

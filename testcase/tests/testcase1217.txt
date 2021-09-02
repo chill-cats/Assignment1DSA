@@ -1,0 +1,18 @@
+BEGIN
+PRINT
+INSERT quJQJz string
+INSERT p string
+INSERT ogHp string
+INSERT ntBU string
+INSERT rC string
+LOOKUP p
+INSERT ve number
+INSERT mOq86m number
+PRINT
+INSERT uI string
+INSERT t8_ number
+INSERT s number
+LOOKUP uI
+INSERT k number
+INSERT p string
+INSERT s string

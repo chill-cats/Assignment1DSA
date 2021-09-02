@@ -1,0 +1,9 @@
+RPRINT
+INSERT soXqV string
+END
+PRINT
+INSERT ll number
+INSERT mhgX number
+INSERT f string
+INSERT utd number
+INSERT f number

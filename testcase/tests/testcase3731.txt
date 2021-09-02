@@ -1,0 +1,17 @@
+INSERT u string
+INSERT h_o9sj string
+INSERT wW4wmn number
+LOOKUP h_o9sj
+INSERT f string
+INSERT w string
+INSERT jO number
+ASSIGN jO w
+INSERT nG string
+INSERT jhaG8 number
+BEGIN
+INSERT nPCE string
+PRINT
+INSERT dd number
+INSERT f string
+LOOKUP f
+INSERT v3M string

@@ -1,0 +1,37 @@
+INSERT gDcL number
+INSERT hof1yK number
+saEf eHijpC
+PRINT
+INSERT urw number
+RPRINT
+INSERT z3r string
+INSERT grT string
+LOOKUP hof1yK
+ASSIGN gDcL z3r
+fZ iP
+ASSIGN z3r grT
+ASSIGN hof1yK 'SS'
+RPRINT
+RPRINT
+INSERT yt number
+PRINT
+INSERT v6Y23 number
+INSERT gM string
+INSERT bFxS number
+BEGIN
+INSERT cJbVXb number
+INSERT qNnT0 string
+RPRINT
+INSERT l1x4db number
+INSERT jufnX string
+RPRINT
+INSERT jHuuox number
+PRINT
+LOOKUP gM
+qh g9
+INSERT oJPHg string
+INSERT jy number
+INSERT mm number
+INSERT xBY number
+PRINT
+INSERT lLKtKg string

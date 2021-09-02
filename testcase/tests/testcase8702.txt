@@ -1,0 +1,13 @@
+INSERT r string
+INSERT t string
+INSERT cU3 number
+LOOKUP r
+PRINT
+INSERT zg number
+INSERT rSKW75 string
+kkvV myCrbh
+INSERT o number
+PRINT
+INSERT fC number
+INSERT lrlkB string
+INSERT osD string

@@ -1,0 +1,34 @@
+RPRINT
+INSERT x number
+INSERT n5Y number
+BEGIN
+LOOKUP x
+RPRINT
+INSERT meIb number
+INSERT uHtvJi number
+END
+INSERT yPYmm number
+ASSIGN x 'Zp3'
+INSERT k8V number
+INSERT hcMKol string
+PRINT
+INSERT lPCO9 string
+INSERT gv0 number
+INSERT nR string
+INSERT cwgnU number
+ASSIGN n5Y 718
+ASSIGN meIb 3
+ASSIGN k8V 'oQ'
+w ntfBH
+INSERT lPf number
+hELaU7 pa
+INSERT bMkbr string
+uxlkyf gc
+INSERT l9X4v string
+INSERT arYE number
+INSERT ji number
+LOOKUP cwgnU
+INSERT mgmeq number
+INSERT ok number
+INSERT c number
+INSERT r5Td number

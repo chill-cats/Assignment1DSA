@@ -1,0 +1,27 @@
+INSERT pFwH string
+INSERT i string
+INSERT xv_ number
+INSERT oz9j number
+INSERT red string
+ASSIGN pFwH 'HO0Rl'
+ASSIGN i 323
+LOOKUP xv_
+INSERT lR number
+BEGIN
+LOOKUP red
+INSERT d3Eg number
+INSERT ijav number
+INSERT o2 string
+ASSIGN lR 'CO'
+RPRINT
+INSERT q string
+INSERT pbUkCI number
+INSERT xXZ string
+INSERT cLU string
+RPRINT
+BEGIN
+END
+RPRINT
+INSERT nH string
+INSERT rn string
+INSERT m2Vj number

@@ -1,0 +1,24 @@
+INSERT o_ax4 string
+ASSIGN o_ax4 'p'
+INSERT kyUC string
+INSERT cLn string
+INSERT tUbg0 number
+ASSIGN cLn 'H'
+INSERT iTvG number
+RPRINT
+an qq
+g3 iTwc
+INSERT qyA string
+INSERT oamRoF number
+INSERT f03E number
+INSERT muVI number
+INSERT ntrF string
+INSERT sdc number
+INSERT gt string
+END
+BEGIN
+INSERT d7oPxp number
+INSERT aBR number
+END
+INSERT iPQ0b string
+PRINT

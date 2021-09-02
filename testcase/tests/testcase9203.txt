@@ -1,0 +1,28 @@
+RPRINT
+INSERT y string
+ASSIGN y y
+ASSIGN y 874
+ASSIGN y 'RTPX'
+LOOKUP y
+INSERT uT number
+RPRINT
+RPRINT
+INSERT cm9 string
+INSERT hVj string
+PRINT
+BEGIN
+INSERT l8YE string
+INSERT mV string
+LOOKUP l8YE
+INSERT h64kA string
+ASSIGN y 73
+INSERT i string
+j hTY
+LOOKUP hVj
+INSERT mpE3Fi number
+INSERT soPng number
+lPz6Vl g8iox
+INSERT tdmlnD number
+aKF gfUm
+INSERT qbm string
+INSERT aCJrLF string

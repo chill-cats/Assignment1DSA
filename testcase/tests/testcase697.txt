@@ -1,0 +1,32 @@
+ASSIGN w0 398
+INSERT dbx string
+INSERT uDv number
+BEGIN
+RPRINT
+BEGIN
+PRINT
+INSERT u1tLn string
+INSERT ofY0 string
+LOOKUP dbx
+INSERT r9pvvh number
+RPRINT
+INSERT tz number
+LOOKUP dbx
+INSERT y3 number
+k bS
+pKN9 i33y
+LOOKUP r9pvvh
+INSERT szAA number
+PRINT
+BEGIN
+INSERT f number
+END
+INSERT k number
+INSERT wIImis number
+INSERT x number
+INSERT p9 string
+PRINT
+INSERT rltvY number
+INSERT sUo95 string
+INSERT xT7Q number
+aRJ qBYrQ

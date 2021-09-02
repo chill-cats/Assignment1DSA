@@ -1,0 +1,26 @@
+INSERT b number
+INSERT sPJV09 string
+END
+INSERT wO_j number
+INSERT drsU number
+LOOKUP drsU
+INSERT ec72C string
+RPRINT
+INSERT xSaA number
+INSERT pSg number
+LOOKUP xSaA
+PRINT
+INSERT xit number
+INSERT ph9 number
+INSERT gSI26 number
+INSERT v1AMQ7 number
+INSERT gnq string
+INSERT u string
+END
+INSERT fJ5 number
+INSERT bMPPf string
+RPRINT
+INSERT e number
+INSERT tU string
+INSERT vENg string
+INSERT bvKf string

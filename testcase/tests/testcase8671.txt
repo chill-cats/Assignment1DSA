@@ -1,0 +1,37 @@
+INSERT m number
+INSERT rZgJT number
+RPRINT
+ASSIGN rZgJT m
+RPRINT
+INSERT gebMV number
+INSERT am2v string
+INSERT mB3 string
+INSERT u string
+INSERT pyCEb number
+RPRINT
+INSERT ptpd string
+RPRINT
+INSERT e number
+INSERT v string
+END
+RPRINT
+INSERT u number
+END
+INSERT o number
+INSERT v string
+INSERT f string
+INSERT iJ string
+END
+BEGIN
+INSERT lyYB1C string
+BEGIN
+RPRINT
+INSERT jAjK string
+INSERT u0cjk string
+INSERT vR3XB string
+END
+INSERT e3UUcb number
+INSERT nb4U number
+INSERT jZiyK number
+INSERT y_XPO number
+ASSIGN u0cjk 'w'

@@ -1,0 +1,9 @@
+INSERT n string
+INSERT q9o string
+INSERT um3Egr string
+INSERT c string
+ASSIGN um3Egr um3Egr
+INSERT itj string
+INSERT p_ string
+BEGIN
+INSERT b5Tw2 number

@@ -1,0 +1,13 @@
+INSERT yO8 string
+INSERT cph string
+RPRINT
+INSERT yLYlCn number
+LOOKUP cph
+ASSIGN yLYlCn yO8
+ASSIGN yO8 '8'
+INSERT gvEsX8 number
+ASSIGN gvEsX8 'lWb'
+INSERT tC number
+INSERT c string
+INSERT qn number
+INSERT nW6z string

@@ -1,0 +1,19 @@
+INSERT n6 number
+INSERT sD number
+RPRINT
+INSERT kf string
+END
+k h
+RPRINT
+ASSIGN sD 'iOT1'
+INSERT w string
+INSERT zV4T2 number
+INSERT e1 number
+INSERT f string
+INSERT j9NAi string
+INSERT aFb1 number
+INSERT vWYn number
+ASSIGN vWYn 'G9uW'
+INSERT p number
+ASSIGN zV4T2 kf
+INSERT eRXTe number

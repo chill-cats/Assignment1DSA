@@ -1,0 +1,26 @@
+INSERT j string
+INSERT dYqjH number
+LOOKUP j
+INSERT i string
+END
+PRINT
+INSERT qS7qi string
+INSERT o string
+INSERT eAHegg number
+INSERT nv3A string
+INSERT nhOX3L string
+INSERT fbWAZ string
+ASSIGN qS7qi 1129
+INSERT jgo number
+PRINT
+INSERT aVF number
+INSERT jYhC string
+INSERT r9ix0 string
+INSERT xN number
+INSERT gG string
+INSERT bHaYv string
+INSERT myS number
+INSERT mi string
+x0 x9a
+LOOKUP aVF
+ASSIGN o 400

@@ -1,0 +1,11 @@
+INSERT lx2nLx string
+INSERT o_R6Z string
+BEGIN
+INSERT c number
+INSERT nPr string
+END
+PRINT
+INSERT n number
+INSERT lirw number
+END
+INSERT kaCRKU number

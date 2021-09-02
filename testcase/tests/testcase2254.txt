@@ -1,0 +1,40 @@
+INSERT mv88 number
+INSERT pc number
+INSERT f9tf string
+INSERT ppt0L number
+INSERT g string
+INSERT xu_rnn string
+INSERT ucgpk string
+INSERT oHyB number
+INSERT itTFr string
+INSERT f5 number
+INSERT u number
+END
+INSERT iMK string
+wR lS
+tO cn7J
+INSERT gEZNg number
+INSERT cL string
+PRINT
+INSERT e number
+END
+INSERT toI6pf number
+INSERT xWar string
+INSERT fpB number
+INSERT pCzWAL string
+PRINT
+END
+INSERT w number
+INSERT i number
+INSERT cEA string
+INSERT b number
+END
+END
+INSERT cNcn number
+ASSIGN g ppt0L
+INSERT iFhw number
+BEGIN
+LOOKUP pc
+INSERT qTu string
+LOOKUP g
+INSERT yYHxQP string

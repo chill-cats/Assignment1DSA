@@ -1,0 +1,32 @@
+BEGIN
+INSERT vjD number
+INSERT ujy number
+INSERT axoGJ number
+INSERT g2do number
+LOOKUP ujy
+INSERT qk number
+LOOKUP ujy
+INSERT h5T string
+ASSIGN axoGJ 'Fb'
+RPRINT
+INSERT bHocE string
+jko v
+tIBmp ul8Jh3
+INSERT o number
+INSERT p3m number
+INSERT aX string
+INSERT g4iUrw number
+pXL8 q
+END
+INSERT l number
+LOOKUP qk
+RPRINT
+INSERT oNisZ string
+INSERT p number
+END
+PRINT
+INSERT gR_wzH number
+INSERT k0o0A string
+LOOKUP qk
+END
+INSERT fsuSNr number

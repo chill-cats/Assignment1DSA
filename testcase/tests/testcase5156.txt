@@ -1,0 +1,16 @@
+PRINT
+INSERT j string
+INSERT jv7lg string
+INSERT bi string
+RPRINT
+INSERT a string
+INSERT dcm number
+INSERT f_a string
+PRINT
+tvOSe imMO
+INSERT zIRW string
+INSERT kIK string
+LOOKUP bi
+LOOKUP f_a
+INSERT i string
+INSERT mEEg number

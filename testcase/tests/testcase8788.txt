@@ -1,0 +1,35 @@
+INSERT v string
+INSERT q number
+RPRINT
+PRINT
+INSERT dWJ number
+INSERT nG6RB number
+INSERT p number
+INSERT gMgIdQ number
+INSERT fucMKE number
+ASSIGN dWJ 'Yzq3M'
+INSERT jp4c9 string
+END
+INSERT lxo1hv string
+INSERT hu3KVt string
+INSERT q7nmp number
+INSERT ll string
+PRINT
+INSERT lnQ string
+INSERT aGzPLD number
+INSERT kAD8 number
+INSERT d number
+RPRINT
+BEGIN
+INSERT m string
+INSERT dTxaLi number
+INSERT cWHYE number
+END
+END
+LOOKUP aGzPLD
+INSERT q string
+INSERT oQtO0 string
+INSERT xhh string
+INSERT qStU5 number
+INSERT dGAN2 string
+INSERT pJN number

@@ -1,0 +1,20 @@
+INSERT eZ string
+l9u7Si r
+ASSIGN eZ 'Xek'
+INSERT uyy7lD number
+RPRINT
+LOOKUP eAM
+LOOKUP eZ
+INSERT d number
+INSERT uj3ieP string
+RPRINT
+INSERT j string
+RPRINT
+PRINT
+INSERT l_ZvDa number
+INSERT tRhT string
+INSERT cw2y string
+INSERT fj number
+INSERT k5rcz1 string
+INSERT l9 string
+ASSIGN l9 'M '

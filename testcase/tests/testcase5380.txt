@@ -1,0 +1,39 @@
+INSERT y string
+INSERT rSd_qS number
+INSERT mQD string
+LOOKUP y
+INSERT hF string
+ASSIGN mQD 'X'
+RPRINT
+y aPu
+END
+INSERT i_ number
+INSERT ye string
+RPRINT
+INSERT cdn3 string
+INSERT t number
+END
+INSERT aKbA string
+INSERT ixbk number
+INSERT iNnQ number
+INSERT z1dY2e string
+INSERT c number
+ASSIGN c z1dY2e
+INSERT hI6ud number
+INSERT q3vlyK number
+INSERT sPI number
+ASSIGN sPI sPI
+ASSIGN i_ hI6ud
+INSERT zuv number
+INSERT z04 number
+ASSIGN y z04
+PRINT
+INSERT wuxug number
+END
+INSERT v number
+RPRINT
+INSERT uvm string
+ASSIGN q3vlyK rSd_qS
+INSERT niFtb number
+END
+INSERT mep string

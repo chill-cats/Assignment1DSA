@@ -1,0 +1,31 @@
+INSERT wwQ string
+INSERT aTQF0 string
+INSERT p string
+INSERT q04 number
+INSERT dQe string
+BEGIN
+ASSIGN wwQ aTQF0
+INSERT m6 number
+RPRINT
+ulo lt
+INSERT pIb number
+RPRINT
+ASSIGN q04 1181
+INSERT c1Tr string
+LOOKUP p
+INSERT p4w string
+INSERT o number
+INSERT ipAnwT string
+k6V bIw3JM
+INSERT ke2Q number
+BEGIN
+END
+INSERT lpsI string
+RPRINT
+RPRINT
+INSERT h number
+INSERT pW number
+INSERT dN2otY string
+INSERT bOhHSQ number
+INSERT pp4_vh number
+INSERT lPRL98 string

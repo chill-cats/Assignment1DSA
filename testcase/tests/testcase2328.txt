@@ -1,0 +1,40 @@
+INSERT vKL number
+INSERT jQM number
+INSERT qBjWcY number
+ASSIGN jQM 'A7sUG'
+INSERT d_HCQZ number
+INSERT u string
+INSERT j7df string
+INSERT uET string
+INSERT nivCt number
+INSERT ope string
+INSERT xB string
+INSERT n string
+INSERT o_RfJ7 number
+LOOKUP xB
+INSERT rG7OTA number
+INSERT s_ string
+INSERT tmcSE string
+b s
+BEGIN
+INSERT i number
+INSERT dC string
+RPRINT
+LOOKUP d_HCQZ
+INSERT bG4 string
+ASSIGN nivCt '0'
+PRINT
+INSERT ta string
+INSERT z string
+k nOmY
+INSERT q1 number
+INSERT xVu_1 string
+INSERT soGxn string
+ASSIGN j7df jQM
+ASSIGN o_RfJ7 1042
+INSERT m0 number
+INSERT bv number
+RPRINT
+INSERT pk_O string
+INSERT bEY5 number
+INSERT wc6JnV string

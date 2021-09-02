@@ -1,0 +1,18 @@
+INSERT ozkNnR string
+INSERT og number
+INSERT i number
+INSERT bWtRUn string
+INSERT hE string
+INSERT d number
+RPRINT
+INSERT eDuy number
+LOOKUP i
+INSERT oe number
+INSERT dI string
+INSERT g1kl number
+INSERT aG string
+ASSIGN i dI
+END
+ASSIGN g1kl 'Fj'
+INSERT d7Q string
+BEGIN

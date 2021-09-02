@@ -1,0 +1,38 @@
+ASSIGN e0wO4 34
+INSERT u3wW number
+INSERT wq number
+INSERT uf string
+INSERT sBX6 string
+INSERT xh number
+INSERT dCnyb string
+INSERT a number
+INSERT r string
+RPRINT
+INSERT w9r number
+INSERT jMMc number
+INSERT qL number
+INSERT oZgW number
+INSERT j string
+ASSIGN j '1'
+INSERT iq string
+INSERT k string
+ASSIGN dCnyb 'iTx'
+l f
+INSERT pgs string
+RPRINT
+PRINT
+INSERT n number
+INSERT zy7fRj string
+PRINT
+PRINT
+END
+INSERT zO string
+INSERT dgjlV number
+PRINT
+INSERT yhZw1w number
+ASSIGN zO dgjlV
+INSERT dn8P7 number
+INSERT wpNr string
+INSERT pptgy string
+RPRINT
+gSbL cMubyQ

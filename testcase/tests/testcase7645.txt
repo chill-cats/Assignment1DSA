@@ -1,0 +1,31 @@
+LOOKUP pQlD_r
+INSERT iH0ljQ string
+INSERT k number
+INSERT rxY number
+PRINT
+efuDK xU_
+INSERT gh16h string
+INSERT xGhy string
+INSERT xRtwI5 string
+PRINT
+INSERT z string
+INSERT tCd number
+INSERT xsF3i string
+END
+INSERT vckgV number
+PRINT
+LOOKUP rxY
+INSERT zyHNFI string
+INSERT sW number
+LOOKUP xRtwI5
+INSERT aWVDo number
+INSERT zpM number
+INSERT qg number
+INSERT f string
+END
+ASSIGN f 402
+INSERT dgV string
+END
+END
+INSERT bNV7GX string
+BEGIN

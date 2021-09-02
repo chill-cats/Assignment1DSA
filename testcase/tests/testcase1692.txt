@@ -1,0 +1,32 @@
+eJ yM
+INSERT ohJkN number
+INSERT ktY string
+INSERT vm number
+PRINT
+INSERT s5 string
+BEGIN
+rF aecpR
+PRINT
+INSERT jPOSVB number
+INSERT vh number
+INSERT wPO string
+vcb_5_ mU
+INSERT qOWy string
+INSERT w9iOs string
+BEGIN
+ASSIGN w 167
+PRINT
+LOOKUP ohJkN
+LOOKUP wPO
+LOOKUP w9iOs
+INSERT ur254 string
+INSERT yF9U string
+INSERT gjt string
+LOOKUP jPOSVB
+INSERT my number
+INSERT zL84B3 number
+END
+INSERT oq string
+INSERT vw4k string
+INSERT l number
+END

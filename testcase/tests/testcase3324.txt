@@ -1,0 +1,7 @@
+END
+INSERT yu number
+RPRINT
+INSERT o number
+INSERT h5R string
+INSERT o number
+LOOKUP o

@@ -1,0 +1,29 @@
+INSERT ykdqcG string
+INSERT llnns string
+LOOKUP llnns
+LOOKUP ykdqcG
+INSERT hY number
+INSERT uVcUK number
+ASSIGN llnns ykdqcG
+INSERT c number
+INSERT wUqfl string
+INSERT pQoSPV number
+INSERT lF10 string
+ASSIGN wUqfl c
+RPRINT
+INSERT rQHN string
+INSERT cxO4g string
+ASSIGN ykdqcG 164
+INSERT c string
+INSERT imyF string
+INSERT g7YJn string
+INSERT z string
+BEGIN
+INSERT yJ8 number
+RPRINT
+ASSIGN llnns ykdqcG
+INSERT pXc1 string
+RPRINT
+INSERT d string
+INSERT vr8lm number
+RPRINT

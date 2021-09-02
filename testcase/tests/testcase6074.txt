@@ -1,0 +1,15 @@
+INSERT kbL number
+INSERT hW string
+LOOKUP hW
+LOOKUP kbL
+INSERT kNnO number
+INSERT khvI number
+INSERT gybWB4 number
+INSERT yvqF1 number
+ASSIGN kNnO gybWB4
+INSERT rC5e number
+INSERT eEvZ string
+RPRINT
+PRINT
+INSERT mWxsUV string
+INSERT fkI2 string

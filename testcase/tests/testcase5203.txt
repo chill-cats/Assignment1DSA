@@ -1,0 +1,36 @@
+INSERT dbL string
+PRINT
+RPRINT
+BEGIN
+nox g
+INSERT mr0Pio string
+INSERT su1GZm string
+LOOKUP mr0Pio
+INSERT x number
+INSERT kZ4 number
+INSERT mcjCXc string
+INSERT hi number
+ASSIGN x mr0Pio
+INSERT gexaQ string
+INSERT aLf14Z number
+INSERT lEN number
+INSERT rspp number
+ASSIGN aLf14Z 'C8L'
+e3wI utnRv
+INSERT rI7gD number
+INSERT s4Mt number
+INSERT y8VtH string
+PRINT
+INSERT k string
+PRINT
+LOOKUP rI7gD
+PRINT
+RPRINT
+ASSIGN gexaQ 457
+INSERT pe7 number
+INSERT oknI6 string
+INSERT st6 number
+INSERT eGP9 string
+INSERT kCAB number
+PRINT
+INSERT syh3q number

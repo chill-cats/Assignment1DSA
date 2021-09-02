@@ -1,0 +1,4 @@
+INSERT u number
+INSERT dWgx number
+PRINT
+INSERT v number

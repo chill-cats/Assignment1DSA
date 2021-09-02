@@ -1,0 +1,9 @@
+PRINT
+INSERT a_ag6 string
+INSERT d2eaZ number
+LOOKUP a_ag6
+INSERT yIGwTI string
+END
+INSERT zPJsD string
+INSERT sk string
+INSERT liO4z number

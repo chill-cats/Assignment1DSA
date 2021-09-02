@@ -1,0 +1,31 @@
+LOOKUP iz01R
+BEGIN
+INSERT v_j number
+INSERT z number
+RPRINT
+INSERT j string
+INSERT cs5A5e number
+INSERT lp number
+INSERT g1UiWr number
+RPRINT
+INSERT h string
+INSERT hj number
+ASSIGN cs5A5e '0bR'
+INSERT baq string
+INSERT dcb string
+v2dAk3 kjf
+LOOKUP b
+INSERT bUPHWA number
+ASSIGN hj 'WAqW'
+PRINT
+INSERT b number
+INSERT sJ number
+INSERT xiCO7a number
+BEGIN
+INSERT fWAR number
+INSERT d611f string
+INSERT uZG84 string
+vL cD5g
+INSERT knmVO number
+PRINT
+INSERT an string

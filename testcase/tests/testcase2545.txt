@@ -1,0 +1,22 @@
+INSERT lvNI string
+INSERT p string
+LOOKUP p
+INSERT dFamG string
+INSERT tuBeRz string
+RPRINT
+INSERT t number
+INSERT iJlxRP number
+INSERT ve string
+INSERT f8 string
+LOOKUP dFamG
+BEGIN
+INSERT x string
+PRINT
+RPRINT
+INSERT b string
+LOOKUP tuBeRz
+RPRINT
+INSERT uMjPB string
+INSERT rJ number
+bo6 jgeEdP
+INSERT pB number

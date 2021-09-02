@@ -1,0 +1,15 @@
+BEGIN
+INSERT kpq number
+INSERT nWmK2S number
+INSERT xr string
+INSERT mn string
+INSERT m number
+PRINT
+ASSIGN m 'q'
+INSERT gB string
+INSERT mPE9 string
+INSERT ekr number
+INSERT m8X number
+INSERT m8W string
+INSERT oFZZS number
+INSERT o93g number

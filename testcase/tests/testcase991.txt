@@ -1,0 +1,23 @@
+BEGIN
+INSERT iPmU string
+INSERT ji string
+INSERT pDhqa number
+INSERT tRUQlI number
+END
+INSERT r number
+INSERT fLHXlc string
+LOOKUP pDhqa
+INSERT j1dv5Z number
+INSERT n string
+RPRINT
+INSERT c string
+RPRINT
+INSERT t6Vx number
+ASSIGN n 'rKQ'
+RPRINT
+INSERT y string
+INSERT gbVUQ string
+ASSIGN tRUQlI 'a'
+INSERT wqbkr number
+INSERT f number
+INSERT sM5Pd number

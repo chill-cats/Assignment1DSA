@@ -1,0 +1,34 @@
+INSERT pR8 string
+BEGIN
+INSERT pbSi3V string
+INSERT cq7Lo string
+ASSIGN cq7Lo 'QNO'
+LOOKUP pR8
+INSERT mH2WwW number
+INSERT jI3u string
+INSERT xfov number
+INSERT nf string
+PRINT
+INSERT mOZR8 number
+END
+INSERT fv_uF number
+INSERT ish2j number
+INSERT rOynGZ string
+RPRINT
+RPRINT
+ASSIGN nf 1046
+INSERT xFn_GB string
+INSERT mKUE number
+INSERT clwJvV number
+ASSIGN pbSi3V 93
+LOOKUP jI3u
+BEGIN
+INSERT t string
+RPRINT
+PRINT
+INSERT yrYRi number
+END
+INSERT xP_s number
+INSERT xdZz3B string
+RPRINT
+INSERT hj number

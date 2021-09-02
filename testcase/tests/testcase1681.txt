@@ -1,0 +1,11 @@
+BEGIN
+END
+INSERT gA string
+BEGIN
+INSERT wgs string
+INSERT p number
+vwo zKFF
+PRINT
+RPRINT
+END
+INSERT pzre3 number

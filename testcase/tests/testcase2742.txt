@@ -1,0 +1,9 @@
+INSERT a number
+PRINT
+INSERT teg number
+INSERT nvh96 string
+INSERT zdI string
+INSERT s string
+END
+INSERT j74Uks string
+PRINT

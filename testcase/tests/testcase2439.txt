@@ -1,0 +1,8 @@
+LOOKUP s8NKA
+BEGIN
+INSERT eSpsx string
+BEGIN
+INSERT pa number
+INSERT f8A5Z string
+PRINT
+INSERT aJ2f number

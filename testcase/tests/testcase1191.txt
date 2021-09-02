@@ -1,0 +1,39 @@
+INSERT kBJB number
+END
+RPRINT
+INSERT q string
+ASSIGN kBJB 1134
+END
+PRINT
+INSERT g_aR_ string
+INSERT dCsf number
+kw y
+INSERT iS9O number
+INSERT v_9j9 string
+INSERT ks string
+INSERT qz number
+ASSIGN v_9j9 '4r'
+RPRINT
+INSERT zX number
+ASSIGN q 501
+x3 ea_T
+INSERT h number
+RPRINT
+INSERT idpc number
+RPRINT
+INSERT f7CL number
+END
+RPRINT
+INSERT jd437Y number
+END
+RPRINT
+END
+INSERT f number
+INSERT dQQ number
+PRINT
+BEGIN
+INSERT ixC28 number
+LOOKUP f
+INSERT zK2dmO number
+INSERT kDREfg string
+ASSIGN zK2dmO ks

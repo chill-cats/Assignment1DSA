@@ -1,0 +1,27 @@
+INSERT vlQ string
+INSERT vG number
+INSERT v6u8 string
+INSERT f3S461 string
+ASSIGN vG 'XBk'
+END
+PRINT
+INSERT d8AftC string
+ikGMN wWE4
+INSERT xIn number
+INSERT oqg6Ea string
+INSERT q string
+INSERT qGtPW string
+INSERT zkcvZP string
+RPRINT
+INSERT h number
+PRINT
+BEGIN
+END
+INSERT hHF string
+ASSIGN qGtPW 731
+ASSIGN d8AftC 245
+BEGIN
+LOOKUP h
+INSERT tjogq5 number
+INSERT fCX string
+INSERT jOfOn_ number

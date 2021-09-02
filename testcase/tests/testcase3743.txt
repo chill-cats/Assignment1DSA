@@ -1,0 +1,6 @@
+INSERT kCW9_ number
+INSERT wfK3U string
+LOOKUP wfK3U
+INSERT vzawmG number
+INSERT waB3v string
+PRINT

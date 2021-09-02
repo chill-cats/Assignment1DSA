@@ -1,0 +1,15 @@
+INSERT s string
+INSERT iFyv string
+INSERT spbNA number
+LOOKUP iFyv
+INSERT xDRKuG string
+BEGIN
+INSERT bMk3D number
+LOOKUP s
+INSERT qD number
+BEGIN
+PRINT
+PRINT
+END
+INSERT e5 string
+INSERT u number

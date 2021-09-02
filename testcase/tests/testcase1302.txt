@@ -1,0 +1,25 @@
+LOOKUP tj_Z
+INSERT nl number
+INSERT qbjRuA string
+INSERT q5 number
+INSERT j0yht string
+INSERT q8 string
+INSERT ld9Oi number
+INSERT fw number
+INSERT m33W string
+INSERT q string
+INSERT upY2 string
+INSERT mAqHeW string
+INSERT vlWTl string
+INSERT rOo8tp number
+LOOKUP rOo8tp
+PRINT
+INSERT i number
+INSERT qHGi number
+LOOKUP vlWTl
+INSERT hKP_ number
+INSERT stt number
+INSERT pLnYKE string
+ASSIGN upY2 147
+yVVi2g i
+BEGIN

@@ -1,0 +1,32 @@
+INSERT wFgu string
+END
+INSERT w number
+ASSIGN w wFgu
+INSERT k_W number
+INSERT r13 string
+INSERT jf number
+INSERT tRXHs number
+INSERT msP6iE number
+LOOKUP msP6iE
+RPRINT
+INSERT ezUgjt number
+INSERT r string
+INSERT kr string
+INSERT d4OXO number
+INSERT rXD5X number
+INSERT erpre string
+LOOKUP wFgu
+INSERT k65P string
+END
+BEGIN
+INSERT k_okbh number
+INSERT e4 string
+INSERT a number
+INSERT yf number
+INSERT dZ string
+espC coU3
+LOOKUP k65P
+INSERT i_4 string
+INSERT qKh number
+INSERT c_P2L number
+RPRINT

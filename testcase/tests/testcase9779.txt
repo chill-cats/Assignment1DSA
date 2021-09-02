@@ -1,0 +1,8 @@
+ASSIGN w 'rr9lg'
+INSERT t string
+INSERT f4v number
+INSERT rYzMDA number
+INSERT s number
+INSERT xQFMWr number
+INSERT kgxBM number
+ASSIGN f4v s

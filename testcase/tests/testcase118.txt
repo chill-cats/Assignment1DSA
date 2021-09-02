@@ -1,0 +1,24 @@
+INSERT hLJf string
+INSERT lEiI string
+INSERT dzJpT string
+INSERT d number
+INSERT eyxb number
+RPRINT
+INSERT zvnkH string
+INSERT t8vc string
+INSERT phJzVz string
+INSERT qSP string
+INSERT g string
+END
+INSERT oO string
+INSERT tlwx number
+INSERT uI3 string
+ASSIGN dzJpT 'X'
+INSERT sPTE1E string
+INSERT yGPlg number
+PRINT
+END
+INSERT gWgcu string
+PRINT
+ASSIGN yGPlg 740
+INSERT aHSy6 number

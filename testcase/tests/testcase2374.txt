@@ -1,0 +1,30 @@
+PRINT
+INSERT a0 number
+INSERT d number
+INSERT varnC number
+INSERT mU number
+INSERT qTb8C number
+INSERT dXqglm number
+INSERT qxPtt string
+INSERT j string
+INSERT lICh number
+RPRINT
+INSERT gsHQa number
+INSERT xD2p number
+END
+INSERT w string
+BEGIN
+INSERT oM3 string
+RPRINT
+INSERT lcP string
+INSERT vHlBaz string
+INSERT ja number
+INSERT aXXdj string
+INSERT fh string
+INSERT q3 number
+INSERT sl string
+RPRINT
+LOOKUP sl
+INSERT iU string
+INSERT z number
+nn1 rSis5

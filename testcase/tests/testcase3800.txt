@@ -1,0 +1,29 @@
+INSERT uaXBp number
+INSERT h number
+ASSIGN uaXBp uaXBp
+PRINT
+ASSIGN h 'kNi'
+INSERT uCTvt string
+PRINT
+RPRINT
+PRINT
+INSERT hQQee number
+INSERT iU number
+INSERT t1JI string
+PRINT
+INSERT tH70 number
+INSERT xsCRrq string
+BEGIN
+INSERT zlUgd string
+INSERT j number
+INSERT aXQ27 number
+INSERT aW1SM1 number
+INSERT z number
+INSERT oIhb number
+LOOKUP uCTvt
+INSERT wx string
+INSERT v5ol number
+INSERT zo5Sr number
+RPRINT
+RPRINT
+INSERT hxhl string

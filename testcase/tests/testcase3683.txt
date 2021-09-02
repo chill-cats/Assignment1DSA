@@ -1,0 +1,26 @@
+PRINT
+INSERT i55t number
+INSERT ltpH number
+INSERT xRZI string
+RPRINT
+INSERT o96N string
+INSERT y6q2 number
+LOOKUP i55t
+END
+INSERT yS6H7 string
+INSERT sqVJ number
+PRINT
+INSERT hr_rs string
+INSERT e string
+INSERT tcJ number
+INSERT d number
+exT lBSTMi
+INSERT nCjkX string
+PRINT
+INSERT fXzK string
+END
+BEGIN
+PRINT
+INSERT s number
+RPRINT
+PRINT

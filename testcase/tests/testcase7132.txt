@@ -1,0 +1,11 @@
+BEGIN
+INSERT q string
+BEGIN
+INSERT a0oAkP string
+INSERT s number
+INSERT oYn7k string
+INSERT e string
+PRINT
+INSERT bEMx number
+INSERT j number
+INSERT lMv string

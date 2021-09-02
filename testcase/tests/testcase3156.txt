@@ -1,0 +1,5 @@
+INSERT woF number
+PRINT
+INSERT f string
+END
+INSERT h string

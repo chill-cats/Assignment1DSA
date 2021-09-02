@@ -1,0 +1,31 @@
+INSERT w number
+INSERT zvV2lt string
+BEGIN
+INSERT r number
+LOOKUP r
+INSERT kMu number
+INSERT md5 number
+INSERT i string
+INSERT hfA60 string
+INSERT e2JNv number
+INSERT o9A string
+INSERT y number
+INSERT c number
+BEGIN
+RPRINT
+INSERT uDmOj number
+INSERT xmLlh string
+LOOKUP r
+INSERT bQ number
+INSERT k8 string
+INSERT vT1J number
+INSERT fTcZ number
+END
+INSERT kI1_ number
+END
+INSERT q4 number
+BEGIN
+PRINT
+INSERT mA number
+INSERT uj1Sm string
+ea dU5wG

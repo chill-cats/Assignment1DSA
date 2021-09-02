@@ -1,0 +1,3 @@
+ASSIGN qd 'DiBy'
+INSERT s string
+INSERT gDi string

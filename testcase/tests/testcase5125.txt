@@ -1,0 +1,20 @@
+INSERT jv string
+b0 h
+INSERT u1X number
+INSERT xL0oR number
+LOOKUP u1X
+ASSIGN xL0oR 'bj '
+INSERT stbkkY number
+INSERT vCfW string
+INSERT aU7h number
+END
+INSERT rTyVd number
+RPRINT
+ASSIGN aU7h 'K'
+ASSIGN rTyVd xL0oR
+RPRINT
+INSERT iPn number
+ASSIGN vCfW vCfW
+PRINT
+INSERT tbfO number
+ASSIGN u1X 'tgVu'

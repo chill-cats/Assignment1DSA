@@ -1,0 +1,2 @@
+INSERT h string
+INSERT gjg8 number

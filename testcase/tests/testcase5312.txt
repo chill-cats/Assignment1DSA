@@ -1,0 +1,33 @@
+INSERT yA6 string
+ASSIGN yA6 yA6
+RPRINT
+INSERT sLPf string
+BEGIN
+INSERT mi number
+INSERT tm number
+RPRINT
+INSERT hvrAv5 string
+INSERT k5zktr string
+ASSIGN hvrAv5 '2wA2'
+ASSIGN hvrAv5 630
+INSERT m903 string
+INSERT fX8Y number
+INSERT t string
+END
+BEGIN
+INSERT tioQht string
+END
+INSERT qHycpp string
+INSERT dWM string
+INSERT iarl string
+INSERT n number
+BEGIN
+RPRINT
+INSERT ki number
+INSERT lG number
+INSERT sc string
+INSERT nrfcd_ number
+INSERT xz number
+INSERT l number
+INSERT k8E2ba number
+wnR45 b069

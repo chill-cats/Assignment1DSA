@@ -1,0 +1,5 @@
+INSERT oKm string
+INSERT y42c9 number
+INSERT i33JB4 string
+INSERT o6o number
+INSERT wndfU number

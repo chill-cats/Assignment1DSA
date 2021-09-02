@@ -1,0 +1,31 @@
+INSERT oj string
+INSERT wrGc number
+LOOKUP oj
+INSERT f4o string
+INSERT fLPbu string
+INSERT fhT4yz number
+INSERT l_A number
+PRINT
+INSERT aO number
+END
+INSERT tnOm string
+INSERT mty6I string
+RPRINT
+INSERT pUb number
+INSERT c number
+INSERT f string
+PRINT
+ASSIGN f4o f4o
+INSERT gaG number
+INSERT m string
+INSERT qC9 number
+END
+INSERT w3UG string
+RPRINT
+ASSIGN gaG 269
+INSERT jxQlW number
+INSERT vnehV string
+INSERT gf string
+RPRINT
+INSERT mHX3 string
+INSERT ho number

@@ -1,0 +1,24 @@
+PRINT
+INSERT r1 number
+BEGIN
+INSERT m0kcB string
+wB rs8C
+RPRINT
+LOOKUP r1
+INSERT aPV number
+INSERT nWwY number
+INSERT qu number
+INSERT nHGUH number
+RPRINT
+LOOKUP r1
+ASSIGN m0kcB 634
+INSERT zH number
+END
+INSERT sQC string
+RPRINT
+INSERT bFI number
+BEGIN
+INSERT vcIFPw string
+INSERT eKhE number
+PRINT
+INSERT ls string

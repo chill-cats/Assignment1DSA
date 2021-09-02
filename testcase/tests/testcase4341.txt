@@ -1,0 +1,11 @@
+INSERT pNyXfq number
+LOOKUP pNyXfq
+PRINT
+PRINT
+INSERT f_cn string
+INSERT it number
+INSERT jTFO number
+BEGIN
+PRINT
+PRINT
+INSERT yWkbZW number

@@ -1,0 +1,15 @@
+INSERT adZZ number
+END
+LOOKUP vB1
+INSERT g5F number
+END
+RPRINT
+INSERT p number
+INSERT rXsfoq number
+ASSIGN rXsfoq 994
+ASSIGN p 503
+INSERT ujK string
+INSERT gXl3 number
+INSERT f string
+INSERT mQ number
+INSERT t number

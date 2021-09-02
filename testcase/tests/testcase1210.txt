@@ -1,0 +1,17 @@
+INSERT mp number
+PRINT
+ASSIGN mp 1167
+INSERT bZ string
+INSERT a number
+ASSIGN mp 514
+xuh i
+INSERT eiy3 number
+INSERT gaF1 number
+bq7pyg tAt
+INSERT ocg string
+RPRINT
+INSERT ce string
+PRINT
+INSERT nA2DU_ number
+INSERT t string
+BEGIN

@@ -1,0 +1,20 @@
+INSERT dSG number
+INSERT eQUyLl number
+INSERT le string
+LOOKUP dSG
+INSERT j string
+BEGIN
+INSERT c number
+INSERT urL string
+INSERT wCE string
+PRINT
+INSERT s7nAY number
+ASSIGN eQUyLl 387
+INSERT bsE string
+INSERT uG1pmT string
+INSERT msbn number
+LOOKUP wCE
+RPRINT
+LOOKUP wCE
+LOOKUP le
+INSERT gO9X string

@@ -1,0 +1,25 @@
+INSERT rcP number
+INSERT sF12w number
+INSERT rM number
+RPRINT
+PRINT
+INSERT zO9z string
+INSERT ow_l number
+INSERT eks8y2 string
+INSERT w2r number
+INSERT jUM number
+ASSIGN eks8y2 502
+INSERT mv string
+INSERT oE number
+INSERT jVpYK number
+LOOKUP w2r
+BEGIN
+ASSIGN w2r sF12w
+INSERT vERh number
+BEGIN
+PRINT
+END
+INSERT zy6jS string
+INSERT oBiVmc number
+ASSIGN ow_l 'u'
+LOOKUP rcP

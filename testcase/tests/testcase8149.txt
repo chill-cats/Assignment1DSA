@@ -1,0 +1,4 @@
+INSERT zP8 number
+ASSIGN zP8 1166
+INSERT ur0y number
+INSERT nS_1f number

@@ -1,0 +1,35 @@
+INSERT nH number
+END
+INSERT eQqvC string
+LOOKUP eQqvC
+INSERT fgE number
+INSERT cTUTIT string
+INSERT wmTKRK string
+INSERT jm string
+INSERT mu4 number
+INSERT w string
+INSERT dN6krx string
+ASSIGN fgE mu4
+INSERT d string
+INSERT yH number
+INSERT kOxiz number
+INSERT r10lD string
+END
+INSERT hUa8 string
+INSERT n5 string
+INSERT e string
+ASSIGN hUa8 jm
+INSERT uwSIv string
+BEGIN
+LOOKUP uwSIv
+ASSIGN w 'gXqp4'
+BEGIN
+INSERT k string
+INSERT i9gy number
+INSERT l string
+INSERT wORpQ string
+INSERT zbADu string
+INSERT uvDZ string
+END
+RPRINT
+LOOKUP yH

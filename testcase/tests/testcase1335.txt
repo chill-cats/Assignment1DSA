@@ -1,0 +1,16 @@
+INSERT pRsxT2 number
+INSERT mlf string
+INSERT xDThn string
+INSERT jPd string
+INSERT qz number
+INSERT dB1VT string
+LOOKUP mlf
+LOOKUP qz
+END
+INSERT b number
+INSERT l number
+INSERT bSs5jM number
+INSERT t number
+END
+END
+qkonP xVPT

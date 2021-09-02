@@ -1,0 +1,37 @@
+INSERT o number
+LOOKUP o
+INSERT h string
+BEGIN
+ASSIGN h 981
+INSERT pGG number
+ASSIGN o pGG
+INSERT p number
+INSERT eKVKR string
+INSERT v number
+PRINT
+INSERT wZbi number
+ASSIGN o pGG
+ASSIGN h v
+INSERT eb1 number
+PRINT
+INSERT kUx0 string
+INSERT fxgwk number
+INSERT xpRqV number
+INSERT nwhAx string
+INSERT aNlwG number
+LOOKUP wZbi
+ASSIGN v kUx0
+RPRINT
+RPRINT
+INSERT lfWn19 string
+INSERT qltxwX string
+LOOKUP qltxwX
+RPRINT
+INSERT b0 number
+RPRINT
+LOOKUP fxgwk
+INSERT lHPE string
+END
+INSERT xYL number
+INSERT rz9Ka string
+INSERT rIk6e string

@@ -1,0 +1,10 @@
+ASSIGN bUaR 1097
+INSERT nTU_F number
+BEGIN
+INSERT fzO0z string
+BEGIN
+INSERT g string
+INSERT l9y string
+BEGIN
+LOOKUP nTU_F
+BEGIN

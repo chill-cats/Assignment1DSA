@@ -1,0 +1,34 @@
+o dNoW
+INSERT wMXDoY string
+INSERT a number
+INSERT lA4X number
+INSERT foY string
+LOOKUP lA4X
+INSERT m number
+INSERT nB string
+ASSIGN lA4X 563
+INSERT p number
+RPRINT
+INSERT qu string
+END
+LOOKUP lA4X
+zO4w96 eDZI1E
+INSERT cr number
+INSERT e8 number
+RPRINT
+RPRINT
+INSERT xzf string
+INSERT u0k number
+BEGIN
+INSERT l string
+INSERT q string
+RPRINT
+INSERT lKq string
+INSERT gI0K string
+INSERT xxW string
+INSERT qqLG string
+PRINT
+INSERT a string
+LOOKUP qqLG
+BEGIN
+END

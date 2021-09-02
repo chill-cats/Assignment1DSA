@@ -1,0 +1,2 @@
+INSERT bN6 number
+END

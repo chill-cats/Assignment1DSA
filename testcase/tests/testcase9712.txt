@@ -1,0 +1,29 @@
+INSERT mSg string
+INSERT gHn number
+INSERT t number
+END
+INSERT tKLMyY string
+INSERT eWN8ew string
+INSERT fnEd string
+BEGIN
+INSERT g0 number
+cYszh qKLssO
+INSERT icR number
+LOOKUP sX
+INSERT bwi string
+INSERT jv6tZq number
+ASSIGN bwi 1059
+INSERT uJd number
+END
+RPRINT
+INSERT iVE1Kc string
+INSERT ig number
+INSERT kny number
+INSERT nL9fR string
+INSERT gUfs string
+LOOKUP g0
+INSERT zEcLfX string
+PRINT
+INSERT lP number
+INSERT xe10g string
+INSERT njD number

@@ -1,0 +1,20 @@
+END
+INSERT c7W string
+INSERT iF string
+ASSIGN c7W c7W
+INSERT a1ti number
+END
+INSERT gBj string
+INSERT mI2 string
+LOOKUP c7W
+LOOKUP a1ti
+PRINT
+INSERT vO0taS string
+BEGIN
+INSERT sJhlM string
+INSERT sS string
+BEGIN
+INSERT lq9en0 string
+INSERT y9 string
+INSERT vElg_ string
+RPRINT

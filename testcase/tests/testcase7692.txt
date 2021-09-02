@@ -1,0 +1,38 @@
+INSERT mUpy number
+INSERT vX1 string
+INSERT zq91 number
+END
+INSERT eD string
+INSERT kWx string
+RPRINT
+INSERT hcQL number
+LOOKUP mUpy
+INSERT kVpw string
+INSERT kv number
+INSERT w6tt string
+INSERT kL0Rl string
+BEGIN
+LOOKUP hcQL
+INSERT uNXD string
+INSERT ez2i number
+INSERT sMCo number
+INSERT rM number
+INSERT vKnnf number
+ASSIGN kv zq91
+ASSIGN w6tt 'AL3'
+INSERT oMhI string
+INSERT pYu0 string
+LOOKUP ez2i
+INSERT q string
+INSERT y3 string
+INSERT kY number
+m j
+INSERT ndm_ string
+INSERT zOmPX_ number
+INSERT zzb string
+RPRINT
+INSERT wr string
+END
+ASSIGN hcQL kVpw
+INSERT r7y number
+INSERT bxo string

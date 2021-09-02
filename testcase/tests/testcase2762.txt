@@ -1,0 +1,39 @@
+f p
+LOOKUP ysvG7M
+INSERT bdRdxG string
+c x8yOdO
+INSERT hgB string
+INSERT tZt5c3 string
+INSERT x1C number
+END
+INSERT dIOQDf number
+INSERT gm string
+LOOKUP tZt5c3
+INSERT bnY7UE string
+INSERT iP2f3 number
+BEGIN
+LOOKUP iP2f3
+LOOKUP iP2f3
+INSERT eL string
+INSERT cZmkJP string
+INSERT ph5 number
+INSERT vorI number
+INSERT dXDA7 number
+END
+INSERT nyntL string
+INSERT yqra0 string
+INSERT myDIO8 string
+INSERT nXu string
+INSERT dl string
+INSERT ofg string
+INSERT pHZ number
+INSERT l number
+ASSIGN cZmkJP 'nNZRI'
+INSERT uVh8 number
+INSERT vxfN number
+INSERT m number
+INSERT p string
+INSERT rW string
+BEGIN
+INSERT a4aR number
+ASSIGN cZmkJP 94

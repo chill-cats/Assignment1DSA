@@ -1,0 +1,27 @@
+INSERT pkEfLK string
+INSERT jic string
+INSERT jVArmP string
+INSERT y string
+LOOKUP y
+INSERT hD number
+INSERT f2e string
+INSERT qgC_ number
+INSERT y string
+INSERT eQFj number
+INSERT s string
+INSERT xU string
+INSERT z7 number
+INSERT is string
+kYYD ab
+ASSIGN jic f2e
+INSERT mU string
+RPRINT
+INSERT mD number
+INSERT cKP number
+q cdLio3
+INSERT ovm number
+ASSIGN cKP 'FCDi'
+INSERT k971k7 string
+END
+RPRINT
+RPRINT

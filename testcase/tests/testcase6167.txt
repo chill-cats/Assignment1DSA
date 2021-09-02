@@ -1,0 +1,18 @@
+LOOKUP cWu3d7
+INSERT cr string
+INSERT k96 string
+INSERT xyNoct number
+INSERT vHhG02 number
+sWqFU rVL9Y_
+RPRINT
+INSERT dyVs string
+INSERT dxZW string
+BEGIN
+END
+INSERT w_w number
+INSERT z1z number
+ASSIGN k96 cr
+END
+ASSIGN vHhG02 '7Z1Hh'
+INSERT i87 string
+ASSIGN k96 1196

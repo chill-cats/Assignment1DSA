@@ -1,0 +1,10 @@
+INSERT rk string
+INSERT crGR number
+INSERT z number
+PRINT
+ASSIGN z 'oLGG'
+INSERT mZj7 string
+INSERT keKq string
+INSERT aSz string
+INSERT wX string
+INSERT joe9ci number

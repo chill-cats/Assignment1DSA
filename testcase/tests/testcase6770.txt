@@ -1,0 +1,4 @@
+INSERT sNJ number
+INSERT jSe0 number
+PRINT
+INSERT d string

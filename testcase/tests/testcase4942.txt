@@ -1,0 +1,30 @@
+ASSIGN qSbo 383
+INSERT zpz string
+PRINT
+BEGIN
+INSERT on number
+INSERT n string
+PRINT
+INSERT gm number
+INSERT i number
+INSERT rIy string
+INSERT htgtsI number
+PRINT
+INSERT wwz string
+INSERT nc4i string
+INSERT fA string
+PRINT
+INSERT f1AIw number
+INSERT wIwaLM number
+INSERT fGfKG5 number
+INSERT gEu string
+INSERT r string
+INSERT a1M7 string
+INSERT f string
+INSERT zEc string
+INSERT cOeU number
+INSERT qMHv string
+RPRINT
+END
+BEGIN
+INSERT kg number

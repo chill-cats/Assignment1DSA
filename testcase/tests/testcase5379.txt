@@ -1,0 +1,37 @@
+BEGIN
+INSERT z string
+INSERT qP0lF number
+INSERT hFU1 number
+LOOKUP hFU1
+INSERT vtn number
+INSERT lNyP number
+INSERT vGX number
+INSERT oOGLc string
+RPRINT
+INSERT oz_ number
+INSERT xLy string
+INSERT xryq number
+INSERT tqmSk string
+INSERT o91q string
+INSERT kl06WK number
+INSERT oKHvc_ string
+INSERT anOMU string
+ASSIGN kl06WK 421
+INSERT e string
+PRINT
+INSERT sL0HrG number
+INSERT jM number
+INSERT gh9 string
+INSERT aLbAp8 string
+INSERT dhOy string
+PRINT
+BEGIN
+INSERT g number
+ASSIGN dhOy 'MEWFJ'
+INSERT bMI number
+aAW qhtDC
+INSERT u_ number
+INSERT ha number
+INSERT fuqOFC number
+END
+INSERT w string

@@ -1,0 +1,18 @@
+INSERT soJO number
+INSERT mE number
+INSERT rz number
+PRINT
+INSERT ovUph number
+INSERT peUoY string
+INSERT yk number
+INSERT eGB number
+INSERT t number
+BEGIN
+LOOKUP eGB
+LOOKUP mE
+LOOKUP soJO
+LOOKUP ovUph
+INSERT v string
+END
+gHZs dOyl
+INSERT p string

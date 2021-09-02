@@ -1,0 +1,28 @@
+INSERT i string
+INSERT d number
+INSERT bBOd number
+INSERT t string
+END
+INSERT oOX number
+PRINT
+INSERT pk string
+END
+PRINT
+yRH l
+INSERT wFTqok number
+INSERT rYg5i number
+PRINT
+INSERT pypS2 string
+INSERT oP9J string
+INSERT y number
+INSERT fNBlG1 string
+END
+INSERT cnMY0 number
+END
+PRINT
+INSERT wHbKM3 number
+INSERT t number
+LOOKUP wFTqok
+INSERT p70 string
+LOOKUP y
+INSERT qzwgG number

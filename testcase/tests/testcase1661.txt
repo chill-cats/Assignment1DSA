@@ -1,0 +1,29 @@
+INSERT r2mS string
+ASSIGN r2mS 424
+INSERT v0TrnF number
+INSERT bYwJ string
+INSERT b1z number
+ASSIGN v0TrnF 833
+INSERT c2 number
+INSERT rV string
+INSERT pIUlp string
+INSERT oO8Ljf string
+LOOKUP b1z
+END
+m z2L8
+INSERT koNv number
+INSERT s_iQp8 number
+INSERT y5uB2 string
+INSERT lJiJ1 number
+INSERT ckPsne number
+ASSIGN lJiJ1 'n'
+INSERT hjt string
+ASSIGN oO8Ljf 'eLAkX'
+END
+INSERT gqj string
+RPRINT
+ASSIGN oO8Ljf gqj
+INSERT lOH string
+ASSIGN lJiJ1 1048
+LOOKUP lOH
+vy2 jyT

@@ -1,0 +1,11 @@
+zP uk
+INSERT zJpMdv number
+ASSIGN zJpMdv 1210
+INSERT zgq number
+INSERT ar string
+END
+LOOKUP zJpMdv
+INSERT aupuv number
+INSERT vpSG string
+INSERT r3 number
+INSERT eX number

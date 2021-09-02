@@ -1,0 +1,26 @@
+PRINT
+RPRINT
+INSERT qf number
+INSERT alK number
+INSERT xbe string
+INSERT b4Hgg6 number
+INSERT l number
+INSERT mIxj5 string
+INSERT tJomK number
+INSERT wxh number
+INSERT n number
+PRINT
+END
+INSERT ho string
+INSERT kWVL number
+ASSIGN duPe_ 519
+INSERT iN0l string
+INSERT wk number
+INSERT rADa number
+BEGIN
+INSERT jb5S number
+INSERT j number
+ASSIGN wk kWVL
+BEGIN
+INSERT b number
+ASSIGN jb5S '4FK5n'

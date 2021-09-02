@@ -1,0 +1,21 @@
+INSERT hU39d string
+INSERT d4N_QQ string
+INSERT nS94 number
+INSERT dRh string
+ASSIGN dRh 'Y'
+INSERT oX string
+INSERT o number
+END
+l5Qc fQWQVp
+v1mig ib
+INSERT fVGHtQ number
+LOOKUP oX
+INSERT t string
+BEGIN
+ASSIGN t 307
+krnFM ou
+ASSIGN oX 415
+BEGIN
+PRINT
+INSERT dTB_ string
+ASSIGN oX 'H '

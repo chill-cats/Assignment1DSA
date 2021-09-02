@@ -1,0 +1,5 @@
+ASSIGN h 948
+INSERT jS string
+PRINT
+vMqo ae
+BEGIN

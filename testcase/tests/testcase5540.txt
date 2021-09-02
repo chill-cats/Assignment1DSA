@@ -1,0 +1,37 @@
+LOOKUP wR1b
+PRINT
+INSERT t6JUW2 string
+LOOKUP t6JUW2
+INSERT i string
+INSERT o0NyB string
+gLNRxW gxNC
+INSERT d number
+INSERT rEjTYS string
+INSERT mk string
+INSERT bv string
+INSERT dGy1rh number
+cM8 hBH
+END
+RPRINT
+RPRINT
+PRINT
+END
+INSERT cRxlt number
+END
+ASSIGN d d
+INSERT yTseP9 number
+END
+INSERT ymwP string
+INSERT dmS8 number
+BEGIN
+BEGIN
+LOOKUP dmS8
+BEGIN
+LOOKUP d
+INSERT d1 string
+ASSIGN yTseP9 cRxlt
+BEGIN
+INSERT jhg number
+INSERT ndgm number
+INSERT aL3 number
+INSERT imHjFe number

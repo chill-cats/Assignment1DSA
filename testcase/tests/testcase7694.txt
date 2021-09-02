@@ -1,0 +1,12 @@
+INSERT zawesw string
+BEGIN
+INSERT u string
+INSERT l string
+INSERT h string
+INSERT ctO number
+BEGIN
+eMJpfA onbz8
+INSERT ys_p1 string
+INSERT aVx number
+INSERT e5F0 number
+LOOKUP ctO

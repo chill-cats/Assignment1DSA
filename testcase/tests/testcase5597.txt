@@ -1,0 +1,33 @@
+INSERT hzDIy number
+INSERT sIlU string
+ASSIGN sIlU 464
+LOOKUP hzDIy
+INSERT p string
+INSERT kz7Gn string
+LOOKUP sIlU
+LOOKUP sIlU
+INSERT ybffd8 number
+END
+LOOKUP kz7Gn
+RPRINT
+ASSIGN ybffd8 83
+INSERT aG number
+END
+INSERT xMr0 number
+RPRINT
+INSERT dA7vH number
+INSERT nqffW1 string
+INSERT jC8 number
+INSERT hGM_ string
+INSERT kg number
+PRINT
+INSERT prmjxQ string
+INSERT tqlum number
+LOOKUP f
+END
+INSERT ldur9 number
+INSERT n string
+INSERT zBKAsR number
+INSERT aDpn string
+INSERT vG string
+END

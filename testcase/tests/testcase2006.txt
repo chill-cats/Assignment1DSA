@@ -1,0 +1,9 @@
+RPRINT
+END
+INSERT mM number
+INSERT l number
+LOOKUP l
+INSERT daN5 number
+INSERT r number
+INSERT p string
+INSERT biLl string

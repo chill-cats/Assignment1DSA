@@ -1,0 +1,39 @@
+END
+END
+INSERT tg5 number
+INSERT tmS5M number
+LOOKUP tmS5M
+END
+INSERT h number
+ASSIGN h 1137
+INSERT hZnN number
+BEGIN
+RPRINT
+INSERT uErBAp string
+INSERT fJQ3 number
+INSERT up_vF number
+INSERT hxw number
+INSERT sr string
+INSERT u1 number
+INSERT j3Hq number
+END
+INSERT m number
+INSERT m_b string
+INSERT hAi9 string
+INSERT go string
+INSERT jdCEzt string
+INSERT z2siZ7 number
+INSERT kea number
+RPRINT
+LOOKUP go
+RPRINT
+PRINT
+INSERT sH string
+vdp sT0yd
+INSERT gc number
+INSERT vLWoIq number
+INSERT ics0 string
+BEGIN
+PRINT
+INSERT c number
+RPRINT

@@ -1,0 +1,27 @@
+xu gR
+BEGIN
+INSERT i0 number
+INSERT c2 string
+INSERT bbj string
+INSERT t6 number
+INSERT lZ number
+BEGIN
+RPRINT
+INSERT s number
+INSERT z string
+END
+iA c
+INSERT hDE number
+PRINT
+INSERT r string
+PRINT
+INSERT fsTTfI number
+INSERT l2 string
+END
+INSERT g_UJ number
+PRINT
+INSERT d string
+RPRINT
+LOOKUP i0
+INSERT dqZxO string
+INSERT l8x string

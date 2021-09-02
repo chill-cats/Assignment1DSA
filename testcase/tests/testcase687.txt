@@ -1,0 +1,25 @@
+PRINT
+INSERT rmIW string
+INSERT xCI3 string
+INSERT wWXh string
+INSERT c3R string
+BEGIN
+INSERT yxFUz3 number
+INSERT eya number
+INSERT qlAta number
+LOOKUP qlAta
+INSERT cUlBLv number
+RPRINT
+INSERT hWS number
+INSERT hp number
+INSERT qGjo string
+LOOKUP xCI3
+n b9
+PRINT
+END
+BEGIN
+dS6Z sye
+INSERT re number
+INSERT q number
+ASSIGN qlAta 219
+INSERT qy9K number

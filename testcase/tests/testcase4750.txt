@@ -1,0 +1,34 @@
+INSERT zVb number
+INSERT cG8 string
+RPRINT
+INSERT dumrQy number
+INSERT cGDva number
+BEGIN
+BEGIN
+INSERT k number
+LOOKUP cGDva
+INSERT rM number
+INSERT jr4QN0 string
+INSERT fF9N3b number
+ms lixcIO
+INSERT x4V number
+INSERT x39xK number
+INSERT k number
+INSERT yweGT number
+LOOKUP cGDva
+INSERT v number
+INSERT fvoH7z number
+INSERT u number
+ASSIGN x39xK 'fLRVv'
+INSERT oUF number
+INSERT r3j7 number
+INSERT xK_ number
+BEGIN
+INSERT d17AHe number
+INSERT yF1P9 string
+INSERT g4C string
+LOOKUP d17AHe
+LOOKUP yweGT
+INSERT b_jcW number
+INSERT vp number
+BEGIN

@@ -1,0 +1,17 @@
+INSERT bEetc number
+INSERT jaO8Kj string
+LOOKUP jaO8Kj
+INSERT mNPt string
+INSERT kh string
+INSERT mlm1IX number
+INSERT roZhP string
+BEGIN
+INSERT v string
+INSERT nD2 string
+INSERT uvoHth string
+INSERT j string
+LOOKUP mNPt
+RPRINT
+jxJ6gl aS
+BEGIN
+END

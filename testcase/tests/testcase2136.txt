@@ -1,0 +1,18 @@
+INSERT iWUx4 number
+END
+INSERT jvD number
+RPRINT
+INSERT fHkcc number
+PRINT
+BEGIN
+INSERT bb string
+INSERT qoFJm string
+INSERT h12t number
+INSERT cZhp string
+LOOKUP fHkcc
+LOOKUP jvD
+BEGIN
+INSERT yx7 string
+BEGIN
+INSERT yJ7eQ number
+INSERT lzCOsQ string

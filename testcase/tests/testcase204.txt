@@ -1,0 +1,30 @@
+INSERT kv string
+INSERT ghx number
+INSERT i5T string
+ASSIGN i5T i5T
+INSERT iN string
+BEGIN
+PRINT
+RPRINT
+INSERT lj string
+END
+RPRINT
+INSERT j number
+INSERT r string
+INSERT kzKo0e string
+INSERT e string
+INSERT nXV number
+INSERT nLGA number
+INSERT ciJ3 number
+INSERT j0KQ number
+END
+LOOKUP nXV
+INSERT cj number
+INSERT r_ string
+ASSIGN e 'IaR'
+INSERT alz4 number
+bAen2_ iNrs
+RPRINT
+END
+PRINT
+PRINT

@@ -1,0 +1,18 @@
+INSERT g number
+INSERT gW number
+INSERT c61q string
+RPRINT
+a v7c3
+INSERT qj6p8 string
+INSERT tJcxtH string
+INSERT q9LcO7 string
+PRINT
+END
+INSERT kf0TdI string
+END
+INSERT pFY string
+INSERT r_ number
+INSERT q5wVb string
+LOOKUP q5wVb
+INSERT di string
+INSERT r number

@@ -1,0 +1,22 @@
+PRINT
+INSERT acPMF string
+INSERT lr8jXO string
+RPRINT
+BEGIN
+INSERT j5q string
+ASSIGN acPMF acPMF
+INSERT h8vI_Z string
+INSERT iGfq string
+INSERT r8LR number
+INSERT u8 number
+INSERT euEV1 string
+INSERT enYPxK number
+END
+PRINT
+INSERT faNbry string
+INSERT x number
+INSERT bAvq number
+END
+PRINT
+INSERT iXuJLn string
+LOOKUP euEV1

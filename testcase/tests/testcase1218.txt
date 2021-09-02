@@ -1,0 +1,7 @@
+INSERT f number
+qMZ6 rXH
+INSERT s4kAN number
+LOOKUP s4kAN
+INSERT rkM string
+INSERT qX string
+INSERT kIbG_ string

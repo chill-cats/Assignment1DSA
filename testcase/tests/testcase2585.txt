@@ -1,0 +1,8 @@
+RPRINT
+b tDm1
+ASSIGN i436vX 'g Lvc'
+INSERT sAZ string
+INSERT lo4lL number
+LOOKUP sAZ
+INSERT k number
+INSERT pV2KIe number

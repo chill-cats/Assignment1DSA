@@ -1,0 +1,14 @@
+RPRINT
+INSERT ohUi number
+INSERT yF string
+INSERT gpGTW number
+INSERT r string
+BEGIN
+LOOKUP ohUi
+PRINT
+rgqe bDu9d
+INSERT qFA string
+PRINT
+INSERT j0uZH string
+INSERT gS number
+INSERT lvnSeY string

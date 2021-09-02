@@ -1,0 +1,23 @@
+END
+RPRINT
+INSERT c string
+ASSIGN c c
+BEGIN
+BEGIN
+INSERT tWa8 string
+INSERT zKfv string
+LOOKUP tWa8
+INSERT o number
+INSERT s string
+ASSIGN s 1038
+END
+INSERT r_W string
+u_Ro yhiAGU
+BEGIN
+INSERT aXEdO string
+INSERT dQ4oBt string
+INSERT rYe string
+RPRINT
+INSERT w6 number
+INSERT p4r string
+INSERT gYg5g string

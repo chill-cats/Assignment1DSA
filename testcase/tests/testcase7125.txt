@@ -1,0 +1,37 @@
+INSERT xh6s string
+INSERT u string
+INSERT j3Vb number
+INSERT fzY number
+INSERT cvd3 string
+INSERT eQArFr string
+BEGIN
+INSERT hP8Xs number
+kYS w
+iD1 io8TV
+INSERT mb string
+INSERT u string
+INSERT eb8g4 number
+RPRINT
+BEGIN
+END
+LOOKUP hP8Xs
+RPRINT
+INSERT yB number
+LOOKUP mb
+BEGIN
+END
+BEGIN
+END
+INSERT k string
+INSERT srFyiS string
+INSERT pj number
+INSERT zY string
+INSERT cYKCE number
+INSERT lXZnli string
+INSERT wt number
+q00 sq
+INSERT cuj5 number
+RPRINT
+LOOKUP fzY
+ASSIGN k zY
+INSERT iJwIK1 number

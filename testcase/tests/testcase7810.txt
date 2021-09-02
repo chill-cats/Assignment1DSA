@@ -1,0 +1,32 @@
+INSERT vsOB number
+LOOKUP vsOB
+INSERT aPqkL1 string
+ASSIGN aPqkL1 886
+INSERT jzaql number
+INSERT yCq number
+LOOKUP aPqkL1
+PRINT
+INSERT iw number
+INSERT oSn number
+INSERT xbcu number
+LOOKUP vsOB
+END
+RPRINT
+INSERT pG number
+RPRINT
+INSERT yN8 string
+INSERT zyI string
+INSERT w string
+RPRINT
+INSERT l1 number
+sO ts
+INSERT ik string
+RPRINT
+BEGIN
+INSERT offI string
+PRINT
+INSERT wv6 number
+INSERT nbDA number
+g7TO dR
+INSERT v5f number
+INSERT nxjk string

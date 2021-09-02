@@ -1,0 +1,27 @@
+INSERT pIGVM number
+INSERT ze number
+LOOKUP pIGVM
+ASSIGN ze 34
+INSERT xGUAQ8 number
+END
+BEGIN
+INSERT dWu string
+z5x7Nt mQnk6
+INSERT evlsf7 string
+y nU
+ASSIGN evlsf7 582
+INSERT k7y7n number
+INSERT ylpi number
+INSERT vxe string
+INSERT bPXkJM string
+INSERT pe string
+INSERT lE4qZo number
+INSERT b number
+LOOKUP xGUAQ8
+RPRINT
+INSERT moEa number
+INSERT f string
+LOOKUP evlsf7
+INSERT mlz number
+INSERT q9raG string
+BEGIN

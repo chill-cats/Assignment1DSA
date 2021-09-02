@@ -1,0 +1,14 @@
+INSERT wFgZr number
+INSERT oaH string
+INSERT skLL4W string
+LOOKUP oaH
+ASSIGN oaH oaH
+BEGIN
+RPRINT
+INSERT r1 string
+PRINT
+PRINT
+INSERT f number
+INSERT j number
+LOOKUP f
+INSERT t number

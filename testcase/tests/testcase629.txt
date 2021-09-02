@@ -1,0 +1,3 @@
+LOOKUP i
+INSERT j9 number
+INSERT ncs number

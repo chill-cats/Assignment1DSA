@@ -1,0 +1,23 @@
+RPRINT
+INSERT uEN string
+INSERT mV string
+INSERT uLN number
+ASSIGN mV uEN
+INSERT zbVuZA number
+INSERT kULzA string
+INSERT w6G6 number
+INSERT v number
+INSERT hQb_vn string
+INSERT cI string
+INSERT glt6aW string
+END
+INSERT jr19 string
+LOOKUP jr19
+INSERT j2YaGk number
+INSERT b number
+INSERT mFy number
+INSERT aAdxp number
+END
+INSERT s number
+INSERT n0LV number
+INSERT bH string

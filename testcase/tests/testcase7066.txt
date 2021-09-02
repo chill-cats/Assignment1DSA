@@ -1,0 +1,16 @@
+INSERT mpT number
+LOOKUP mpT
+INSERT kfIb string
+LOOKUP kfIb
+INSERT nx number
+sw nDg4
+INSERT m8_ string
+g1g ap1AV
+INSERT iQ string
+INSERT z7X string
+INSERT s2Lzv number
+INSERT t5AG number
+o ukA
+BEGIN
+INSERT qQoF string
+ASSIGN t5AG 'nE'

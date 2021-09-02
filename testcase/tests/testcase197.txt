@@ -1,0 +1,9 @@
+ASSIGN fPA 411
+INSERT la2 string
+INSERT jr number
+INSERT rTd9 number
+LOOKUP rTd9
+PRINT
+INSERT j7_N string
+INSERT imGL number
+INSERT r2u string

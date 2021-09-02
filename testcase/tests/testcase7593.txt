@@ -1,0 +1,34 @@
+INSERT ielu number
+RPRINT
+INSERT erDjj string
+INSERT mM string
+ASSIGN mM '7r0m'
+INSERT td64 string
+INSERT bI string
+INSERT h0QgK string
+INSERT tU number
+ASSIGN mM erDjj
+INSERT hG9 number
+ASSIGN td64 'adm'
+INSERT z7TCkx number
+BEGIN
+INSERT yF string
+ASSIGN h0QgK 'Y0dFO'
+LOOKUP td64
+INSERT t1 string
+INSERT vSt0N number
+END
+kV trfo3
+fLUPNx k4
+PRINT
+INSERT v number
+INSERT fWQ number
+INSERT lbYc string
+INSERT v_1 number
+RPRINT
+INSERT rF_RgW string
+INSERT uK number
+INSERT tG4l number
+ASSIGN fWQ 'xK'
+INSERT ahX_v number
+PRINT

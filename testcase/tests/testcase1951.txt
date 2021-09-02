@@ -1,0 +1,37 @@
+END
+RPRINT
+BEGIN
+INSERT g number
+INSERT h3nC string
+l mW
+INSERT jrg7s9 number
+INSERT cY1YF string
+PRINT
+INSERT g6ZRi number
+INSERT qCOAsX number
+INSERT m2nK number
+INSERT tKs string
+LOOKUP jrg7s9
+INSERT wH string
+LOOKUP tKs
+INSERT uhPfJ string
+INSERT eq2hpm string
+ASSIGN eq2hpm 'NX8'
+INSERT mfCCQH string
+INSERT z_n number
+PRINT
+INSERT rn5lW number
+nDg bStK
+INSERT wwqfQ number
+INSERT hz9 string
+INSERT noU string
+PRINT
+INSERT b_lF number
+INSERT egNAX string
+ASSIGN g6ZRi 116
+INSERT g7w number
+INSERT lRvd number
+ASSIGN egNAX 965
+LOOKUP hz9
+rFPJ wI0W
+END

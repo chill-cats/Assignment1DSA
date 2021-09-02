@@ -1,0 +1,10 @@
+ASSIGN wh1 1151
+END
+INSERT nTgqK3 string
+INSERT rm number
+INSERT g string
+ASSIGN g '6iC6'
+INSERT w_wgBu string
+INSERT lesT number
+RPRINT
+INSERT kLQ2Nx number

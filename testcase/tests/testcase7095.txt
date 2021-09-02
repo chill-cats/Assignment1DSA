@@ -1,0 +1,34 @@
+INSERT oshsnR number
+INSERT v0zdeJ string
+INSERT n string
+INSERT ohY_d number
+INSERT tbppl string
+ASSIGN v0zdeJ tbppl
+INSERT xyZ string
+LOOKUP ohY_d
+INSERT g_VPwm string
+INSERT n string
+INSERT xJHmdW number
+LOOKUP g_VPwm
+LOOKUP v0zdeJ
+INSERT gYd number
+INSERT hDnOu string
+END
+INSERT yBk string
+INSERT pqrIBs string
+INSERT hkfI number
+INSERT ek string
+INSERT zw string
+INSERT eBSOna number
+PRINT
+INSERT w string
+LOOKUP v0zdeJ
+INSERT hAqCy number
+LOOKUP zw
+ASSIGN gYd 315
+INSERT e4jV number
+INSERT o64o string
+INSERT a number
+PRINT
+ASSIGN oshsnR xJHmdW
+ASSIGN o64o 'DS9'

@@ -1,0 +1,39 @@
+BEGIN
+INSERT zzV0 string
+INSERT l87 string
+INSERT pj string
+INSERT qAJb9 number
+INSERT w02 number
+wG i0ir
+ASSIGN zzV0 l87
+INSERT h682d8 string
+INSERT t number
+xrp dAXQm
+INSERT as_j number
+INSERT x3y6r number
+INSERT mV number
+LOOKUP l87
+ASSIGN as_j t
+RPRINT
+ASSIGN t 'W'
+END
+BEGIN
+INSERT kI number
+INSERT vPQ91v string
+LOOKUP kI
+INSERT nup number
+ASSIGN as_j '6 Ack'
+INSERT hYlfL number
+END
+INSERT rfNOo number
+INSERT ildMf string
+INSERT cFokld string
+LOOKUP t
+INSERT a2_ZUp string
+w4 ta
+INSERT zbmuh string
+INSERT pv number
+INSERT xV string
+INSERT fIV number
+INSERT mt9z number
+INSERT zH number

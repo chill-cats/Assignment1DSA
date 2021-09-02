@@ -1,0 +1,7 @@
+PRINT
+INSERT eGJ string
+RPRINT
+END
+INSERT hsR_5r number
+LOOKUP eGJ
+INSERT ouM string

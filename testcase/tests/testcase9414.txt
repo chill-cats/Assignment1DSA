@@ -1,0 +1,38 @@
+INSERT k string
+PRINT
+INSERT j8J number
+INSERT e8F number
+END
+INSERT gqeE string
+ASSIGN j8J 1033
+INSERT bsy number
+LOOKUP k
+INSERT xjI string
+BEGIN
+INSERT w number
+INSERT n number
+INSERT uKQK number
+INSERT f4knv string
+PRINT
+INSERT hQeFq string
+INSERT nO number
+PRINT
+INSERT sp9f number
+INSERT l number
+INSERT xr_E number
+INSERT l string
+INSERT gn number
+INSERT p0 number
+PRINT
+INSERT pTvJxH number
+INSERT vDkxY7 string
+INSERT beMKM number
+END
+END
+INSERT pERb number
+END
+INSERT zBgMw_ string
+INSERT c2 string
+INSERT af4 number
+RPRINT
+INSERT gMIrOf string

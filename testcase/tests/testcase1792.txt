@@ -1,0 +1,20 @@
+RPRINT
+INSERT tJ number
+RPRINT
+END
+INSERT gz string
+INSERT mMU1 string
+INSERT r9e string
+INSERT e number
+ASSIGN mMU1 gz
+ASSIGN r9e 'jmBeu'
+INSERT tXpkTL number
+PRINT
+INSERT n number
+LOOKUP e
+INSERT aO number
+INSERT a string
+INSERT yU number
+LOOKUP tXpkTL
+INSERT u9XEvN number
+END

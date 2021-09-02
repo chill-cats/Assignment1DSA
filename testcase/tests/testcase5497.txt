@@ -1,0 +1,9 @@
+INSERT fww number
+RPRINT
+BEGIN
+ASSIGN fww 'PlQqU'
+END
+INSERT fEkyjd string
+INSERT iS0 number
+LOOKUP fEkyjd
+RPRINT

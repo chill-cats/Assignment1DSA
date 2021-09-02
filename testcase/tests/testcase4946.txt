@@ -1,0 +1,16 @@
+INSERT p8 string
+INSERT c7t number
+INSERT wIZcK string
+INSERT sy number
+INSERT iRc number
+INSERT yqJ number
+INSERT sZ number
+INSERT c string
+INSERT zT0ueD number
+INSERT xCE3 number
+INSERT atp string
+INSERT r5brS number
+BEGIN
+INSERT cJ number
+INSERT e string
+INSERT m5 number

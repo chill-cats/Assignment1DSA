@@ -1,0 +1,6 @@
+INSERT aqu1A7 number
+INSERT cM4Ib number
+LOOKUP cM4Ib
+INSERT y string
+ASSIGN cM4Ib 'N3'
+INSERT xIMiIC string

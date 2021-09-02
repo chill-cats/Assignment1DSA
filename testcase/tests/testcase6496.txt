@@ -1,0 +1,35 @@
+rv0dB bHLVKU
+hj8 bJ0O8
+xllg uczXZh
+INSERT d6P2gh number
+ASSIGN d6P2gh d6P2gh
+INSERT jA7F8N number
+INSERT on3iKF string
+INSERT pxdRb string
+END
+RPRINT
+INSERT pwRL number
+INSERT s2ND string
+ASSIGN on3iKF 492
+PRINT
+END
+ASSIGN pxdRb 925
+INSERT veSiM string
+END
+PRINT
+BEGIN
+END
+INSERT tlF number
+ASSIGN d6P2gh 'R'
+BEGIN
+LOOKUP d6P2gh
+INSERT rp number
+INSERT yYm number
+INSERT n0 number
+dz a
+BEGIN
+INSERT h number
+LOOKUP pwRL
+INSERT cL0XiE number
+INSERT yS6 string
+BEGIN

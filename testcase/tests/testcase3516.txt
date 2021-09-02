@@ -1,0 +1,10 @@
+LOOKUP u
+ASSIGN pcCJ 914
+p csl
+k qhNAX
+ASSIGN rY_4dO 'v5d'
+END
+INSERT ye7 string
+INSERT hVcFSX number
+INSERT kvZqEk number
+BEGIN

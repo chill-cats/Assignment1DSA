@@ -1,0 +1,17 @@
+INSERT uc string
+INSERT v number
+INSERT vWO1 string
+INSERT sx number
+INSERT r string
+BEGIN
+INSERT oaFA1 string
+INSERT zyLP number
+ASSIGN zyLP sx
+INSERT eaign number
+INSERT g number
+INSERT tj number
+LOOKUP tj
+INSERT bNMC string
+INSERT vG number
+LOOKUP sx
+INSERT t number

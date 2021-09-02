@@ -1,0 +1,10 @@
+INSERT u4FN2 number
+v rf
+INSERT uU string
+INSERT j6FYY string
+INSERT aP string
+RPRINT
+ASSIGN u4FN2 aP
+INSERT mwA0y_ number
+INSERT p string
+ASSIGN j6FYY 99

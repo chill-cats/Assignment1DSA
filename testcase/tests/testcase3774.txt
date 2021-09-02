@@ -1,0 +1,15 @@
+INSERT kEox number
+LOOKUP kEox
+RPRINT
+INSERT gCgJ string
+END
+INSERT aIRhl number
+BEGIN
+ASSIGN gCgJ gCgJ
+END
+INSERT rq0j8 number
+RPRINT
+INSERT aFhMh string
+INSERT nSehgK number
+INSERT p9aR8 string
+INSERT je9 string

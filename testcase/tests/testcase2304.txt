@@ -1,0 +1,8 @@
+END
+INSERT hSzppJ number
+INSERT tTWNSa string
+END
+BEGIN
+BEGIN
+BEGIN
+RPRINT

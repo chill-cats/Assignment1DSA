@@ -1,0 +1,38 @@
+INSERT zbKH string
+INSERT zcMA3 string
+INSERT rX8 number
+INSERT lJCp string
+RPRINT
+BEGIN
+INSERT vs number
+PRINT
+INSERT npQ number
+INSERT tL string
+BEGIN
+INSERT kF number
+RPRINT
+RPRINT
+s yR0c
+INSERT l string
+RPRINT
+INSERT f3S number
+RPRINT
+END
+PRINT
+INSERT dy9 string
+INSERT rHrI number
+d_ c
+LOOKUP rHrI
+INSERT gHdad string
+INSERT r string
+INSERT w number
+INSERT tuwerN string
+INSERT vwjwz string
+PRINT
+INSERT y8mDe2 number
+INSERT cm9 string
+INSERT x string
+INSERT myop string
+INSERT m string
+PRINT
+BEGIN

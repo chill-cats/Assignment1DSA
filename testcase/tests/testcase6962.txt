@@ -1,0 +1,32 @@
+INSERT y2S7g string
+RPRINT
+INSERT p number
+INSERT pwkv string
+END
+INSERT t string
+INSERT g number
+hmZosj t7r
+INSERT mefgA string
+INSERT oxcJE9 number
+INSERT eP string
+INSERT iKL string
+INSERT mKl8kV number
+INSERT br number
+INSERT t4f number
+ASSIGN iKL br
+INSERT pIx string
+INSERT djpgRh number
+BEGIN
+INSERT r number
+INSERT ag string
+LOOKUP r
+BEGIN
+INSERT sp2 number
+INSERT qBC number
+INSERT t3OZ_f number
+BEGIN
+INSERT nGp9_J string
+INSERT l string
+INSERT p string
+RPRINT
+RPRINT

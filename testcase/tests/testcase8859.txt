@@ -1,0 +1,6 @@
+PRINT
+BEGIN
+INSERT ekV9NW number
+BEGIN
+END
+INSERT q string

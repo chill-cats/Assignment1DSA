@@ -1,0 +1,37 @@
+INSERT k string
+INSERT re string
+INSERT r6 number
+END
+INSERT pAIO string
+INSERT swie number
+BEGIN
+INSERT gRL number
+PRINT
+INSERT c number
+RPRINT
+INSERT kDaok number
+INSERT c66 number
+INSERT f7V number
+RPRINT
+INSERT z98 string
+g yXh_
+INSERT xP1G string
+END
+LOOKUP gRL
+INSERT ynU number
+ASSIGN xP1G 926
+END
+INSERT j number
+INSERT rMr number
+INSERT qk string
+INSERT uEqn0 string
+RPRINT
+INSERT gV string
+INSERT lqE string
+PRINT
+INSERT cPWaRp string
+INSERT y number
+END
+INSERT fw9 number
+INSERT dXtJH string
+INSERT loWkyn string

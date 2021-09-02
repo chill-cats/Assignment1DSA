@@ -1,0 +1,39 @@
+END
+INSERT lkh number
+BEGIN
+RPRINT
+INSERT nM number
+INSERT uY string
+INSERT fDqgw string
+INSERT z number
+INSERT ksxsT number
+INSERT r_frY number
+END
+INSERT v string
+ASSIGN v 761
+INSERT qzRiB string
+INSERT n number
+INSERT j string
+INSERT f3d number
+INSERT i string
+LOOKUP lkh
+INSERT e number
+INSERT sk number
+INSERT uxjnv string
+ASSIGN e r_frY
+END
+ASSIGN z qzRiB
+INSERT lyyMWx string
+INSERT dI string
+INSERT zBttnb number
+BEGIN
+INSERT k number
+INSERT dew0 number
+INSERT j1JwHD string
+INSERT cOAp number
+INSERT gwa5T string
+INSERT o3xJ string
+INSERT quSRJa string
+LOOKUP dI
+INSERT msljit string
+ASSIGN r '8zNPb'

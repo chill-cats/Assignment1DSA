@@ -1,0 +1,34 @@
+INSERT zk string
+INSERT t number
+INSERT gitG number
+q0YJ3 n95_I
+INSERT fO3C string
+INSERT mdLw string
+INSERT zV number
+LOOKUP mdLw
+BEGIN
+BEGIN
+INSERT uoRcX string
+INSERT gwCBo string
+INSERT abS3 number
+INSERT pfw number
+INSERT fQ string
+INSERT w number
+INSERT wGDWTg number
+INSERT bpGKrn string
+INSERT dQvc number
+BEGIN
+INSERT oMp string
+INSERT k number
+INSERT ab6H number
+INSERT sJRXVI number
+INSERT vw number
+INSERT gG number
+INSERT ho number
+PRINT
+INSERT xR6h string
+INSERT ztIJ number
+INSERT p number
+INSERT j5 number
+INSERT x1Uz string
+k e4eGb_

@@ -1,0 +1,36 @@
+INSERT awQCO number
+INSERT mnvO number
+LOOKUP mnvO
+INSERT k number
+RPRINT
+INSERT z number
+INSERT qhjW number
+czdTUD p
+INSERT yW string
+INSERT m string
+INSERT yj number
+INSERT d string
+LOOKUP d
+LOOKUP d
+ASSIGN d '95Z'
+INSERT re0 string
+INSERT a number
+INSERT dtwy string
+END
+INSERT lVq number
+RPRINT
+INSERT faY1jN string
+ASSIGN a 623
+LOOKUP yj
+INSERT dWTTmR string
+PRINT
+ASSIGN k 't'
+RPRINT
+INSERT jYZ string
+PRINT
+INSERT r3w2 string
+LOOKUP yj
+LOOKUP lVq
+INSERT l0W string
+INSERT v5gQD5 number
+INSERT wtJdMw number

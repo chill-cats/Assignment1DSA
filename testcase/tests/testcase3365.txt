@@ -1,0 +1,7 @@
+BEGIN
+INSERT xHaa string
+LOOKUP xHaa
+INSERT uCjow number
+INSERT nL string
+INSERT d2Jo string
+INSERT e number

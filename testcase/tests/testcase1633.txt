@@ -1,0 +1,4 @@
+INSERT nz number
+RPRINT
+INSERT g number
+LOOKUP nz

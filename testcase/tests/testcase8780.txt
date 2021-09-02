@@ -1,0 +1,19 @@
+INSERT rm number
+INSERT lG number
+INSERT izgH number
+INSERT xLai number
+INSERT dU number
+INSERT kN7glV string
+INSERT rVN6 string
+INSERT iX0 number
+RPRINT
+INSERT f string
+INSERT p6 number
+INSERT c string
+INSERT p5Roq4 string
+INSERT bNp3qd string
+END
+INSERT viJM string
+BEGIN
+INSERT hY number
+INSERT bd number

@@ -1,0 +1,13 @@
+BEGIN
+INSERT d1HJB number
+INSERT kaUk number
+INSERT i5KnV string
+INSERT d8a number
+END
+RPRINT
+INSERT gcL string
+INSERT l number
+INSERT z9_fMG string
+LOOKUP z9_fMG
+INSERT yk7zn number
+END

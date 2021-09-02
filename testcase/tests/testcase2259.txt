@@ -1,0 +1,35 @@
+END
+INSERT nrxJMK string
+PRINT
+END
+INSERT c string
+INSERT gbY4j string
+INSERT cXJYJ number
+INSERT c number
+INSERT tu1EUo number
+INSERT exk string
+INSERT aq6uT0 number
+INSERT tdtdw number
+ASSIGN tdtdw 903
+INSERT kZbH3 string
+END
+INSERT b string
+RPRINT
+RPRINT
+BEGIN
+LOOKUP tdtdw
+INSERT g number
+INSERT k number
+INSERT k string
+INSERT tXKO number
+ASSIGN k 'mp KS'
+INSERT vQ43I number
+INSERT eIcI number
+INSERT cOxdK string
+ASSIGN c exk
+ASSIGN yrJUr 'dI'
+INSERT tA number
+g dy
+ASSIGN nrxJMK 702
+PRINT
+INSERT qx string

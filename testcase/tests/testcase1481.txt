@@ -1,0 +1,27 @@
+INSERT zp string
+LOOKUP zp
+INSERT nn number
+frw td4OW
+INSERT nhSeJU number
+BEGIN
+INSERT saCIbZ number
+LOOKUP saCIbZ
+INSERT cGok number
+INSERT rKeqCx string
+INSERT a1bPG2 string
+INSERT fE string
+INSERT lu6 number
+INSERT lrVA string
+INSERT k2 string
+INSERT v string
+INSERT zJ8Wu string
+BEGIN
+INSERT ef number
+RPRINT
+LOOKUP lrVA
+INSERT m45E87 string
+INSERT wIVQr string
+RPRINT
+INSERT a string
+BEGIN
+INSERT hqZYO string

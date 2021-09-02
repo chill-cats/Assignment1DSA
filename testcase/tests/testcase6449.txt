@@ -1,0 +1,6 @@
+INSERT e7ed1 string
+LOOKUP e7ed1
+END
+BEGIN
+INSERT s9JD1O number
+INSERT b9s number

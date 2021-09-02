@@ -1,0 +1,35 @@
+INSERT qd string
+INSERT y number
+INSERT fmr81 string
+INSERT w7aFu number
+END
+k7Y1yE hM7B
+END
+BEGIN
+ASSIGN qd 797
+BEGIN
+INSERT f number
+INSERT z number
+INSERT wJxj number
+BEGIN
+ASSIGN y 581
+INSERT wS string
+INSERT gWtEs string
+INSERT fVUT number
+BEGIN
+INSERT cYA string
+INSERT u8a8 number
+INSERT bqXV number
+INSERT sAXh string
+INSERT gHPAkB string
+INSERT zSz number
+INSERT eznXtR number
+INSERT mtO string
+RPRINT
+INSERT waosl6 string
+INSERT gk string
+RPRINT
+INSERT j5S string
+INSERT r number
+BEGIN
+INSERT eK number

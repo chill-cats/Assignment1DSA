@@ -1,0 +1,15 @@
+INSERT hx string
+INSERT f9 number
+aVCl yhDkyK
+INSERT gs string
+PRINT
+ASSIGN gs 796
+PRINT
+LOOKUP f9
+INSERT zeo number
+INSERT hmWis string
+INSERT tAlVGi number
+INSERT tefcqS string
+PRINT
+END
+INSERT gOMK number

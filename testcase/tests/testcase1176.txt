@@ -1,0 +1,33 @@
+INSERT mDy number
+INSERT r number
+RPRINT
+pbkX2x u3
+INSERT frquaB number
+PRINT
+INSERT kRW string
+INSERT cS number
+INSERT ha1i number
+INSERT xYAe number
+INSERT t8uS number
+PRINT
+INSERT p1bd string
+BEGIN
+hBZPw mXRs2C
+INSERT xToA4i number
+RPRINT
+LOOKUP p1bd
+BEGIN
+INSERT i26rnM string
+RPRINT
+END
+INSERT icr9 number
+ASSIGN t8uS 'uH'
+INSERT kJ number
+qv91B i
+INSERT jNhf8Q number
+INSERT ifini number
+INSERT lx9T3 number
+RPRINT
+RPRINT
+INSERT z3 number
+INSERT xnd string

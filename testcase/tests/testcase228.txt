@@ -1,0 +1,11 @@
+INSERT hN number
+INSERT cxU number
+ASSIGN cxU hN
+END
+INSERT yPY string
+INSERT ljOgBT number
+zY q
+RPRINT
+ms s
+RPRINT
+INSERT t8h number

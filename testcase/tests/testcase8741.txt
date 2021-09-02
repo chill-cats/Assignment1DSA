@@ -1,0 +1,9 @@
+INSERT aM3jz string
+INSERT s6vCfN string
+ASSIGN s6vCfN 457
+INSERT higHf number
+END
+INSERT v1Ohoo number
+PRINT
+ASSIGN higHf 496
+INSERT xps string

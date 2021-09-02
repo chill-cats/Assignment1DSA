@@ -1,0 +1,30 @@
+PRINT
+INSERT nRepAg string
+INSERT dme number
+INSERT s8XhEe number
+INSERT e6w number
+INSERT dtDBvW number
+INSERT w number
+ASSIGN ixk0Xy 1043
+ASSIGN dme dme
+INSERT m string
+RPRINT
+ASSIGN dtDBvW m
+INSERT gncFG number
+ASSIGN w 'RjQ'
+INSERT qnOz string
+LOOKUP nRepAg
+INSERT n number
+PRINT
+END
+PRINT
+LOOKUP m
+INSERT na string
+PRINT
+INSERT c string
+LOOKUP gncFG
+INSERT t number
+INSERT t number
+INSERT dug string
+INSERT mgW number
+BEGIN

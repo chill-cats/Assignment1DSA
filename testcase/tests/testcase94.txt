@@ -1,0 +1,18 @@
+INSERT eGoJ3D string
+INSERT t number
+PRINT
+INSERT ype string
+INSERT jPhdcW number
+INSERT mW6 string
+INSERT yK number
+RPRINT
+INSERT o9SkXn string
+ASSIGN t 'sQD'
+INSERT r number
+LOOKUP ype
+LOOKUP eGoJ3D
+INSERT byJZ string
+INSERT u string
+RPRINT
+INSERT m0d number
+INSERT b_bM number

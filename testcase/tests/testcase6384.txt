@@ -1,0 +1,29 @@
+BEGIN
+INSERT r number
+INSERT sd1 string
+LOOKUP sd1
+ijW h
+INSERT rX number
+INSERT hQdsfn string
+INSERT rzp number
+INSERT w number
+RPRINT
+INSERT jW string
+INSERT h6h number
+BEGIN
+INSERT tkPloj number
+LOOKUP tkPloj
+INSERT zwCmMV number
+ASSIGN zBnN4e 1144
+INSERT p3 number
+INSERT mRD number
+BEGIN
+lhd5 rT
+INSERT l5o number
+kA8GM x8pFW
+INSERT jK7 string
+INSERT q_ string
+INSERT viGs number
+BEGIN
+INSERT xKi7CS string
+PRINT

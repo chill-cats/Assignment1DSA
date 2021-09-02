@@ -1,0 +1,13 @@
+END
+INSERT icd4an number
+INSERT vmJ string
+INSERT hui string
+INSERT cur4 number
+BEGIN
+INSERT foLk string
+RPRINT
+INSERT tBRO string
+BEGIN
+INSERT tvrV_ number
+INSERT sWVtcS string
+INSERT d string

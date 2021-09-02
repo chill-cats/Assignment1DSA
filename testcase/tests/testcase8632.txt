@@ -1,0 +1,26 @@
+INSERT a_QkCV string
+INSERT yl5hWe string
+INSERT gkxYu number
+END
+INSERT ylwMQl number
+END
+LOOKUP hsE
+INSERT p0A number
+ASSIGN ylwMQl ylwMQl
+INSERT p string
+LOOKUP gkxYu
+INSERT u string
+INSERT jFLfN string
+BEGIN
+END
+BEGIN
+INSERT vREHLb number
+INSERT lRV string
+INSERT rpF number
+RPRINT
+INSERT d number
+INSERT lk5 string
+INSERT dEbGi string
+INSERT r number
+LOOKUP p0A
+INSERT pM8Wo string

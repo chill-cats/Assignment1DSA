@@ -1,0 +1,4 @@
+INSERT ulUL string
+ASSIGN ulUL 'vv'
+END
+INSERT uDTJAK string

@@ -1,0 +1,35 @@
+INSERT kP number
+ASSIGN uPa 68
+INSERT zWqlA number
+LOOKUP zWqlA
+INSERT t string
+INSERT twU string
+INSERT mjFq number
+INSERT g number
+INSERT xV number
+INSERT jp string
+INSERT sI number
+ASSIGN xV '92jC'
+INSERT auEDD string
+RPRINT
+RPRINT
+END
+INSERT hb number
+INSERT jGSK2 number
+INSERT qrTV8m number
+INSERT mqg number
+INSERT d string
+INSERT y string
+BEGIN
+BEGIN
+LOOKUP jp
+INSERT sezD string
+INSERT vtkGH string
+INSERT dKNd number
+INSERT mL0B string
+uEz3 eb
+INSERT txY string
+INSERT b number
+RPRINT
+END
+RPRINT

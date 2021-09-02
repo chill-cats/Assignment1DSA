@@ -1,0 +1,27 @@
+INSERT mBYM5 number
+INSERT aM3kL string
+INSERT b8jbpR string
+LOOKUP mBYM5
+INSERT gqU2 number
+INSERT zXegGT string
+INSERT o1n string
+LOOKUP zXegGT
+INSERT lIOd number
+INSERT g46Uk string
+INSERT lAKT number
+LOOKUP lIOd
+INSERT pvRNYc number
+INSERT drxBHg number
+RPRINT
+INSERT n number
+BEGIN
+INSERT xXvv number
+END
+RPRINT
+INSERT bd3 string
+INSERT nW number
+INSERT jth65j number
+LOOKUP lAKT
+LOOKUP mBYM5
+INSERT uhm6PT string
+INSERT xSr2s number

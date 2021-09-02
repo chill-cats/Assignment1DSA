@@ -1,0 +1,21 @@
+INSERT k string
+INSERT iTe string
+INSERT rZqGFz number
+INSERT zSmO number
+INSERT s string
+ASSIGN k 74
+INSERT gNpe number
+RPRINT
+LOOKUP rZqGFz
+BEGIN
+END
+ASSIGN gNpe gNpe
+INSERT gT9f number
+END
+LOOKUP gNpe
+LOOKUP zSmO
+INSERT f_a number
+INSERT k3tWxd number
+INSERT s6 number
+pBNs8 meU
+INSERT s5 string

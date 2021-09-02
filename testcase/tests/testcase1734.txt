@@ -1,0 +1,17 @@
+INSERT bk0Dh number
+BEGIN
+INSERT q8WdZ number
+LOOKUP q8WdZ
+INSERT r9jWF3 number
+INSERT i1JA string
+END
+INSERT ue string
+INSERT w string
+ASSIGN r9jWF3 'quVy'
+INSERT k number
+END
+ASSIGN w '1Mxs'
+INSERT oLdO string
+INSERT nG string
+ASSIGN ue ue
+END

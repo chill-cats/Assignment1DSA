@@ -1,0 +1,13 @@
+PRINT
+INSERT oHh string
+RPRINT
+INSERT vE number
+INSERT xe1h number
+END
+BEGIN
+INSERT dT string
+INSERT bsem0A string
+ASSIGN vE 'SE'
+BEGIN
+INSERT qsc1 number
+LOOKUP bsem0A

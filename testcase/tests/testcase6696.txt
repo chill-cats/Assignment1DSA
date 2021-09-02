@@ -1,0 +1,11 @@
+RPRINT
+INSERT f string
+INSERT lfRA string
+END
+ASSIGN lfRA 'X9'
+INSERT vkN5b string
+x8GI dOaQAP
+INSERT niKzP number
+INSERT u number
+INSERT q string
+ASSIGN lfRA 522

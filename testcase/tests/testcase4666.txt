@@ -1,0 +1,20 @@
+INSERT okWs number
+INSERT tM7GzK number
+LOOKUP okWs
+PRINT
+INSERT c2Ucxa number
+INSERT shD1i string
+INSERT hGl string
+INSERT sD1Ve string
+RPRINT
+INSERT n number
+INSERT mX8b9l string
+LOOKUP tM7GzK
+INSERT iFZ5k6 number
+INSERT g string
+PRINT
+rk1WGs w9
+BEGIN
+INSERT vr number
+END
+INSERT esw string

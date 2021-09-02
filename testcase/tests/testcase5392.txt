@@ -1,0 +1,39 @@
+INSERT w number
+BEGIN
+INSERT x8EXeN string
+INSERT iBpH string
+ASSIGN iBpH iBpH
+INSERT iKI string
+INSERT mTi string
+INSERT x4 string
+INSERT bBE number
+INSERT w2f number
+INSERT v string
+INSERT ks3 string
+INSERT uWBB number
+qZ z
+INSERT kC string
+INSERT eWTfz string
+BEGIN
+ASSIGN eWTfz 'c14'
+INSERT pYk string
+INSERT sE number
+INSERT d number
+END
+BEGIN
+INSERT lDB string
+INSERT h number
+BEGIN
+INSERT zE5MS string
+PRINT
+END
+BEGIN
+BEGIN
+RPRINT
+INSERT jv string
+INSERT rS1 string
+RPRINT
+INSERT k3Ai string
+LOOKUP rS1
+INSERT uVM2 string
+INSERT jh number

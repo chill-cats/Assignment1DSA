@@ -1,0 +1,13 @@
+INSERT sy string
+INSERT q string
+ASSIGN sy 'R '
+LOOKUP q
+INSERT cD6rt number
+LOOKUP sy
+LOOKUP sy
+INSERT ip number
+INSERT k string
+INSERT et37TQ string
+INSERT y__ooV number
+INSERT g5acar string
+LOOKUP sy

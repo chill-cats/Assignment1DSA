@@ -1,0 +1,9 @@
+INSERT wLr_l string
+LOOKUP wLr_l
+INSERT t number
+INSERT pwD number
+INSERT w string
+nF f
+INSERT bT_ number
+bH4lF g
+RPRINT

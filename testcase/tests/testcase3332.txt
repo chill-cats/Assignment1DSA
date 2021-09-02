@@ -1,0 +1,29 @@
+INSERT fPyF string
+INSERT uQxc number
+ASSIGN uQxc '3'
+RPRINT
+INSERT tV number
+INSERT zqVPV string
+LOOKUP fPyF
+INSERT e3d string
+INSERT xOp string
+INSERT rPw_ string
+INSERT uOe string
+INSERT zcSbb string
+INSERT g number
+RPRINT
+INSERT gxtA string
+INSERT fO number
+END
+INSERT tv string
+INSERT bUxWK number
+INSERT mf3V string
+END
+INSERT b string
+INSERT uA1 number
+END
+INSERT o_ string
+INSERT gk string
+INSERT gMINY string
+INSERT p12kOE number
+INSERT dViDOq number

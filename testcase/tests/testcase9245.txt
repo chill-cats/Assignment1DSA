@@ -1,0 +1,22 @@
+INSERT c8_d string
+INSERT j4 number
+INSERT md string
+INSERT cF3 number
+ASSIGN c8_d md
+END
+lqmR0L tzA9C3
+INSERT f number
+RPRINT
+RPRINT
+END
+PRINT
+INSERT rjw2a number
+PRINT
+RPRINT
+INSERT r_ string
+INSERT xJwi number
+ASSIGN c8_d 'E'
+INSERT vJY28O string
+RPRINT
+BEGIN
+PRINT

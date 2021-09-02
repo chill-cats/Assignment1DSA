@@ -1,0 +1,22 @@
+BEGIN
+INSERT m2OTj string
+INSERT z number
+INSERT kulTVF string
+RPRINT
+INSERT gz number
+PRINT
+INSERT lTf4h7 string
+INSERT yXJzh8 number
+INSERT uy9x number
+INSERT bM string
+END
+ASSIGN gz z
+PRINT
+INSERT m string
+INSERT sGjH number
+INSERT nP79 number
+END
+END
+INSERT hSLFD string
+INSERT b51I string
+INSERT k1Ixx number

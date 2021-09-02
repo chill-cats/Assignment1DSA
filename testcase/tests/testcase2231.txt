@@ -1,0 +1,11 @@
+INSERT dW number
+kPecGN do8
+kmqI5 pnb_d
+INSERT bBQ7 string
+END
+RPRINT
+INSERT h2F number
+ASSIGN dW h2F
+INSERT s string
+RPRINT
+ASSIGN h2F h2F

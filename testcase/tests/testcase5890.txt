@@ -1,0 +1,27 @@
+INSERT z0O string
+INSERT z string
+INSERT lpR3 string
+INSERT av3 number
+RPRINT
+INSERT wXBKg string
+INSERT qQS number
+ASSIGN z 893
+vCwW dQ7Jl8
+RPRINT
+INSERT r0yXd number
+INSERT r number
+INSERT toPJ string
+INSERT mHZ21h number
+INSERT hYNx string
+INSERT fJ2W string
+INSERT i string
+LOOKUP av3
+INSERT sz number
+RPRINT
+INSERT nxO9 number
+INSERT zdaK string
+ASSIGN qQS 24
+INSERT y6zh string
+LOOKUP nxO9
+INSERT xwt6 string
+RPRINT

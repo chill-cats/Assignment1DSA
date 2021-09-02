@@ -1,0 +1,21 @@
+INSERT sF string
+INSERT l1aaF number
+INSERT uTf number
+RPRINT
+INSERT np string
+INSERT wVAQYA string
+END
+INSERT ycU string
+RPRINT
+PRINT
+INSERT lUD string
+BEGIN
+INSERT u8d string
+INSERT h5J number
+ASSIGN lUD 83
+INSERT wt string
+INSERT xXV2o number
+INSERT p4TDo4 number
+INSERT p number
+INSERT cYF number
+INSERT pr number

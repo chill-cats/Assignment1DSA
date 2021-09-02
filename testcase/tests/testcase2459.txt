@@ -1,0 +1,38 @@
+RPRINT
+END
+ASSIGN gvExt 176
+ASSIGN gGD_h 32
+INSERT s3yhW number
+INSERT d9GSQ number
+ASSIGN d9GSQ d9GSQ
+END
+qZBBlO hiM
+INSERT yx6gC number
+INSERT zntK string
+INSERT iMJ62 number
+INSERT mo number
+RPRINT
+INSERT o number
+INSERT o5des string
+INSERT dsQjV8 string
+INSERT yPy number
+PRINT
+INSERT atM0T string
+INSERT csG string
+ASSIGN csG 504
+INSERT iFBt number
+BEGIN
+INSERT cT8yDb string
+INSERT vh number
+INSERT v_vg string
+LOOKUP dsQjV8
+BEGIN
+INSERT aM string
+INSERT ncyr number
+BEGIN
+PRINT
+INSERT eIS string
+INSERT y string
+INSERT l number
+INSERT co string
+INSERT u number

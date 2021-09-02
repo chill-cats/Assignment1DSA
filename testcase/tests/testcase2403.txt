@@ -1,0 +1,32 @@
+INSERT bJOX number
+BEGIN
+INSERT cr number
+INSERT oGD7gZ string
+INSERT cn7o number
+END
+INSERT sk number
+ASSIGN cn7o oGD7gZ
+INSERT pzES number
+ASSIGN cr 'FS'
+ASSIGN cr bJOX
+tRL_k vb
+INSERT gG number
+aj ol_l
+LOOKUP gG
+END
+INSERT tn string
+INSERT p string
+INSERT m string
+INSERT clSFw string
+RPRINT
+LOOKUP bJOX
+INSERT bn string
+ASSIGN pzES 1068
+INSERT p number
+INSERT gRfk string
+INSERT z number
+INSERT h_tm number
+INSERT qfUV6w string
+INSERT wLB string
+INSERT aqWvK number
+INSERT wBi19 number

@@ -1,0 +1,29 @@
+INSERT vT number
+END
+END
+INSERT mX10_ number
+INSERT e2Wb_M string
+INSERT eLrY string
+ASSIGN cg 126
+PRINT
+INSERT n8wY string
+BEGIN
+INSERT zjWl number
+LOOKUP zjWl
+INSERT hQwkah string
+INSERT fj5P0n string
+INSERT e number
+BEGIN
+ASSIGN fj5P0n 380
+ASSIGN zol eLrY
+INSERT p number
+INSERT yBIEq7 string
+END
+ASSIGN zjWl 'cxq'
+INSERT mO number
+INSERT f5r1p number
+INSERT xtbl string
+INSERT a0s8 number
+END
+INSERT s string
+INSERT h string

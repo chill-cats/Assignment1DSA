@@ -1,0 +1,22 @@
+INSERT z number
+INSERT mobqF number
+ASSIGN z '7v'
+RPRINT
+INSERT sqjDLW number
+INSERT jzjaqB string
+INSERT gM0Mf string
+INSERT w number
+INSERT kPbe7 string
+PRINT
+PRINT
+INSERT gc52H string
+INSERT ryu string
+PRINT
+INSERT suK number
+ASSIGN gM0Mf 'j8jI'
+BEGIN
+LOOKUP gc52H
+lmVjOn iPk4
+LOOKUP jzjaqB
+ASSIGN gM0Mf '2'
+INSERT zLr number

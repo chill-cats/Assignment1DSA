@@ -1,0 +1,20 @@
+INSERT oi5m7d number
+BEGIN
+INSERT l_3CE8 number
+END
+BEGIN
+INSERT kqAA string
+INSERT xhln string
+INSERT oT string
+LOOKUP l_3CE8
+INSERT w8U string
+LOOKUP w8U
+e8 xlCX4
+INSERT m8vo9 string
+INSERT rE string
+INSERT nCIfWs string
+INSERT uhwPWO number
+PRINT
+ASSIGN nWVeE1 427
+INSERT ftX number
+INSERT hRRoK number

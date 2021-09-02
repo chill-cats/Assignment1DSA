@@ -1,0 +1,30 @@
+INSERT t5 number
+INSERT i5_Sru string
+INSERT sXA number
+LOOKUP t5
+END
+INSERT z string
+RPRINT
+PRINT
+bi j1hQJ
+BEGIN
+INSERT oL1BZ number
+INSERT gV4X1 string
+za fcxHK
+INSERT nen1_ string
+END
+INSERT iW_ string
+INSERT e string
+INSERT k string
+INSERT tO string
+ASSIGN nen1_ 57
+INSERT kt7 string
+INSERT xA string
+INSERT wT_I string
+INSERT qs0 string
+INSERT ag number
+BEGIN
+LOOKUP z
+INSERT rPFm number
+INSERT jsGubb number
+BEGIN

@@ -1,0 +1,4 @@
+BEGIN
+INSERT wp string
+PRINT
+ASSIGN wp wp

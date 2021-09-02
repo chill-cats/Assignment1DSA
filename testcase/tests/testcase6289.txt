@@ -1,0 +1,30 @@
+INSERT tx number
+PRINT
+INSERT moH string
+LOOKUP moH
+INSERT oUu string
+INSERT jSL number
+PRINT
+END
+ASSIGN jSL 'E2'
+INSERT wul number
+INSERT bGtTG string
+INSERT gpO number
+INSERT hob number
+INSERT cM5 number
+ASSIGN moH 'bo'
+INSERT e string
+INSERT xnLZ number
+INSERT zlVmKz string
+LOOKUP gpO
+INSERT kr number
+INSERT iA91 string
+INSERT kQV_ string
+INSERT n number
+LOOKUP moH
+LOOKUP kr
+INSERT arJ2CG number
+INSERT bLeF string
+BEGIN
+INSERT o string
+LOOKUP bLeF

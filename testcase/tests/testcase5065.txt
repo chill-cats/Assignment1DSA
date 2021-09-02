@@ -1,0 +1,30 @@
+INSERT x6Nq string
+INSERT i number
+INSERT r7 number
+BEGIN
+INSERT g string
+RPRINT
+t fBjiM
+INSERT xbIuo number
+INSERT fT8ZL number
+INSERT yBNU8W number
+INSERT z_CyFc number
+INSERT k3BWN number
+INSERT gjpf string
+INSERT aO6jx7 string
+INSERT feBaXB number
+INSERT ng7 string
+INSERT mMxDNW number
+END
+PRINT
+INSERT qy number
+PRINT
+RPRINT
+INSERT yXjAq number
+INSERT eDDX string
+INSERT mq1A5G number
+INSERT lX string
+INSERT qSftaV string
+LOOKUP qSftaV
+jIAQPG e
+INSERT j string

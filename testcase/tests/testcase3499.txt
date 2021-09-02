@@ -1,0 +1,9 @@
+ASSIGN pba 'OJKfX'
+INSERT y string
+gDy5 jaxb
+ASSIGN y y
+LOOKUP y
+INSERT l string
+INSERT z string
+INSERT pzMLn number
+ASSIGN z y

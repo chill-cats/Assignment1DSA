@@ -1,0 +1,23 @@
+INSERT fsa string
+INSERT ngR string
+INSERT dpUc string
+RPRINT
+INSERT sDf string
+INSERT iN5 number
+PRINT
+INSERT sseh number
+INSERT dlX01z string
+RPRINT
+INSERT tItCfg string
+INSERT ykOkM number
+INSERT z2sy9 number
+INSERT cOa string
+INSERT e0 number
+INSERT kc number
+INSERT hKo number
+ASSIGN e0 kc
+INSERT e0q2 number
+INSERT qgXqvj number
+RPRINT
+RPRINT
+INSERT e4 number

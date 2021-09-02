@@ -1,0 +1,31 @@
+LOOKUP uM
+INSERT bY3zg_ number
+END
+LOOKUP bY3zg_
+ASSIGN bY3zg_ 693
+LOOKUP bY3zg_
+LOOKUP bY3zg_
+INSERT erEkYN string
+INSERT j number
+INSERT k number
+END
+INSERT osZ string
+BEGIN
+INSERT cC9s3 string
+ASSIGN bY3zg_ 1120
+PRINT
+INSERT qM1e string
+INSERT gZ string
+INSERT tjWF0 number
+INSERT gXvg string
+INSERT sg string
+INSERT jmbd3 number
+END
+INSERT z string
+INSERT q1SjLR string
+LOOKUP gZ
+PRINT
+LOOKUP gZ
+INSERT w9kYM9 number
+INSERT tN number
+INSERT vMc number

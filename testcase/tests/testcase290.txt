@@ -1,0 +1,26 @@
+INSERT up number
+ASSIGN up 'm'
+PRINT
+INSERT h29yGo string
+kn_Gve icgqF
+INSERT bR string
+RPRINT
+INSERT j8 string
+LOOKUP h29yGo
+INSERT kBNs string
+INSERT t string
+INSERT eY number
+ASSIGN up h29yGo
+INSERT j number
+ASSIGN eY kBNs
+BEGIN
+INSERT j number
+INSERT w string
+INSERT hb5FD string
+ASSIGN w 'PD9j3'
+v c
+END
+END
+j mNMc
+INSERT gs string
+INSERT i0XWv number

@@ -1,0 +1,3 @@
+LOOKUP fI7
+INSERT tS number
+INSERT xo8Sj string

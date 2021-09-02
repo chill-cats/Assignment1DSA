@@ -1,0 +1,30 @@
+INSERT te string
+ASSIGN itF 1210
+INSERT laq number
+INSERT f string
+RPRINT
+INSERT m string
+INSERT p1V7 number
+INSERT thek number
+INSERT b string
+INSERT oaM number
+INSERT vFOe string
+INSERT x3sM string
+INSERT xmx8Mk string
+INSERT t number
+PRINT
+INSERT uxI string
+INSERT v number
+RPRINT
+ASSIGN laq 994
+INSERT p9 string
+INSERT qx number
+ASSIGN thek x3sM
+RPRINT
+LOOKUP qx
+PRINT
+INSERT v number
+INSERT uT number
+LOOKUP oaM
+RPRINT
+INSERT kY string

@@ -1,0 +1,35 @@
+RPRINT
+INSERT b4wQYs string
+fslz pn0n
+INSERT w0UW38 string
+RPRINT
+ASSIGN b4wQYs 662
+RPRINT
+INSERT h number
+LOOKUP b4wQYs
+INSERT bz5V number
+INSERT cujZYh string
+LOOKUP cujZYh
+INSERT l string
+INSERT vksht number
+INSERT kC1nx string
+INSERT skax string
+INSERT m7 string
+INSERT nNy45B string
+INSERT zS5I number
+INSERT esZz string
+BEGIN
+BEGIN
+hOu8f2 lNvK
+INSERT i9ZW string
+BEGIN
+INSERT o1 string
+qsM zZ
+INSERT idm number
+INSERT darL string
+vGt rn2
+INSERT l6Oo number
+INSERT xJ4_ string
+INSERT cY5n string
+BEGIN
+f lCC

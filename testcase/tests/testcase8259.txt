@@ -1,0 +1,25 @@
+INSERT b string
+INSERT dSG number
+t v
+PRINT
+INSERT hg string
+INSERT ipvQNc number
+INSERT hDgq string
+INSERT rh3t9y number
+INSERT rch number
+INSERT oAS number
+INSERT ynL number
+INSERT gO7l7U string
+INSERT vrIF number
+LOOKUP rh3t9y
+RPRINT
+INSERT yh number
+INSERT bta7m number
+INSERT vmRrK number
+END
+ASSIGN vmRrK 'dslt'
+ASSIGN rh3t9y yh
+RPRINT
+INSERT to8koo string
+INSERT o5p string
+INSERT bUxx string

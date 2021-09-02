@@ -1,0 +1,5 @@
+PRINT
+END
+INSERT g number
+INSERT a number
+INSERT aFed string

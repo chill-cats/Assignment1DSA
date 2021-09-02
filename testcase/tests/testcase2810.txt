@@ -1,0 +1,31 @@
+BEGIN
+LOOKUP f
+INSERT z8ZI string
+INSERT x5I string
+INSERT vqPZ2 number
+INSERT qgwyRe string
+INSERT hOF string
+PRINT
+ASSIGN qgwyRe 562
+ASSIGN hOF 'BvcR'
+PRINT
+INSERT pp string
+INSERT z number
+LOOKUP z8ZI
+BEGIN
+END
+INSERT ePM number
+INSERT pZ string
+irB iQRm
+ASSIGN pp 1070
+INSERT j4f string
+INSERT s62F1 string
+RPRINT
+RPRINT
+INSERT x8 string
+INSERT ry number
+INSERT lN string
+INSERT yeE string
+BEGIN
+BEGIN
+ASSIGN ry 'BN'

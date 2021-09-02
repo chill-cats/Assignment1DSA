@@ -1,0 +1,12 @@
+INSERT o number
+PRINT
+BEGIN
+LOOKUP o
+INSERT ymy string
+PRINT
+INSERT pu string
+LOOKUP o
+INSERT oj string
+INSERT v number
+INSERT i6K string
+BEGIN

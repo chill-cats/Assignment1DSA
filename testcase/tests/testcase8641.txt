@@ -1,0 +1,34 @@
+INSERT p7L string
+INSERT o string
+RPRINT
+RPRINT
+RPRINT
+BEGIN
+INSERT so string
+LOOKUP o
+INSERT uxXjyx string
+INSERT d0G string
+RPRINT
+INSERT yt5U string
+INSERT ko number
+INSERT mwr number
+INSERT pwwe string
+INSERT jpc3Kd number
+INSERT n4 string
+END
+ASSIGN o so
+LOOKUP jpc3Kd
+RPRINT
+RPRINT
+INSERT aMq number
+END
+PRINT
+INSERT q0Ia0 number
+INSERT h string
+INSERT uN string
+INSERT dBmB number
+INSERT bnG number
+INSERT c string
+INSERT zxEXe number
+INSERT x3 string
+LOOKUP x3

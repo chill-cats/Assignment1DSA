@@ -1,0 +1,7 @@
+ASSIGN uVMXC '4J'
+BEGIN
+INSERT zw string
+INSERT qjCB number
+INSERT vdYx number
+INSERT meRa string
+PRINT

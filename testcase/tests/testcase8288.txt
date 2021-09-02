@@ -1,0 +1,16 @@
+PRINT
+INSERT yDED string
+LOOKUP yDED
+INSERT dImjN2 string
+LOOKUP yDED
+INSERT m425 string
+ASSIGN m425 250
+INSERT loBoXI string
+INSERT o2Jz_ number
+INSERT n number
+INSERT fC number
+PRINT
+INSERT ge2m2o string
+END
+ASSIGN ge2m2o fC
+INSERT f number

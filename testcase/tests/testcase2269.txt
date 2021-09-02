@@ -1,0 +1,13 @@
+INSERT u1 string
+ASSIGN u1 'DiS'
+INSERT mfzcb1 number
+INSERT k string
+BEGIN
+INSERT xGBJQ string
+INSERT vMw4t0 number
+RPRINT
+INSERT jEi number
+INSERT t3S number
+INSERT n79DW number
+cMZWI agg
+INSERT ycM number

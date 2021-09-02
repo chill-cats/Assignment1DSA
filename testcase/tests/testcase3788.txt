@@ -1,0 +1,40 @@
+INSERT gZ number
+LOOKUP gZ
+INSERT jZ string
+INSERT w1A string
+INSERT hsvK8 number
+END
+INSERT x string
+INSERT ku string
+INSERT l7ch string
+INSERT aPMDQ8 number
+END
+INSERT izX string
+INSERT nZ2Ci string
+BEGIN
+INSERT a number
+INSERT jWqCq4 number
+PRINT
+INSERT rGT string
+INSERT mQg_Z number
+ASSIGN gZ 684
+RPRINT
+INSERT lwPujf number
+BEGIN
+PRINT
+znLlL jC
+INSERT tJIJ string
+END
+RPRINT
+INSERT dt93 string
+INSERT i6atBo number
+RPRINT
+PRINT
+INSERT a number
+RPRINT
+PRINT
+INSERT fxYvd number
+BEGIN
+PRINT
+INSERT p string
+INSERT k string

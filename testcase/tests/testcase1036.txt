@@ -1,0 +1,28 @@
+INSERT nDreN7 string
+INSERT tS number
+INSERT wV4mU string
+LOOKUP nDreN7
+INSERT o number
+LOOKUP tS
+p3jI k
+LOOKUP wV4mU
+LOOKUP o
+INSERT pl7MXs string
+LOOKUP wV4mU
+INSERT e number
+INSERT pKqQ4 string
+INSERT nP number
+INSERT pB string
+INSERT nPylF string
+INSERT qx string
+INSERT s8 string
+INSERT mIy string
+PRINT
+INSERT tVPx string
+INSERT xJ2z3k number
+LOOKUP qx
+INSERT gVp0 number
+INSERT jwrYM number
+INSERT bC number
+BEGIN
+INSERT z string

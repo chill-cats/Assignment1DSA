@@ -1,0 +1,4 @@
+INSERT tPmPo string
+RPRINT
+INSERT qw number
+INSERT uF number

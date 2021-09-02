@@ -1,0 +1,5 @@
+INSERT wNv string
+INSERT pA string
+PRINT
+INSERT knkQU string
+END

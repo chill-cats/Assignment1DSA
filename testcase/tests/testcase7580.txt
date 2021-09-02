@@ -1,0 +1,39 @@
+INSERT irh number
+INSERT j number
+INSERT x3 number
+PRINT
+RPRINT
+LOOKUP x3
+INSERT p2j46P string
+INSERT mz number
+INSERT jvF string
+INSERT wR7F string
+LOOKUP jvF
+INSERT uDSNGY string
+ASSIGN p2j46P '6zP0I'
+PRINT
+RPRINT
+INSERT mf string
+INSERT dQ string
+BEGIN
+INSERT cvL number
+INSERT jr number
+RPRINT
+INSERT zQr0tQ string
+INSERT i_FzFd number
+BEGIN
+rg nLoX
+INSERT t number
+INSERT e8I string
+INSERT vwHGF2 number
+INSERT qcaueV string
+toa zZR5gO
+BEGIN
+ASSIGN e8I 'kZ6d'
+INSERT mejXTT number
+PRINT
+INSERT x number
+bHEv c
+INSERT m number
+INSERT o0Hw string
+RPRINT

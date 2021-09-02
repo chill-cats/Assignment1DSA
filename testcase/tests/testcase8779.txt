@@ -1,0 +1,32 @@
+INSERT l number
+RPRINT
+s6c i1
+INSERT eqyw31 string
+INSERT zGj string
+ASSIGN eqyw31 275
+PRINT
+INSERT zBHca3 number
+BEGIN
+INSERT wVW string
+RPRINT
+INSERT a string
+INSERT dK string
+INSERT tQ9s5S string
+RPRINT
+INSERT dI number
+INSERT irf number
+INSERT gV number
+INSERT sa number
+INSERT nLQw number
+RPRINT
+INSERT ksBt number
+INSERT zcF string
+INSERT s1e string
+INSERT ykH number
+INSERT q4NYRd string
+END
+END
+z m
+END
+PRINT
+INSERT tOys2t string

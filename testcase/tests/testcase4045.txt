@@ -1,0 +1,37 @@
+INSERT hKA7 string
+INSERT w3hZb string
+PRINT
+INSERT mXprl number
+INSERT wnOl4 number
+INSERT ez number
+INSERT bY number
+LOOKUP w3hZb
+LOOKUP bY
+INSERT b9Vv number
+INSERT tZoFy number
+ASSIGN w3hZb 415
+INSERT oC1X number
+LOOKUP bY
+PRINT
+n du
+o6RgB dZ
+ASSIGN wnOl4 wnOl4
+INSERT nSGbR number
+udc s
+INSERT snam number
+PRINT
+INSERT z string
+ASSIGN z '5mZE'
+LOOKUP hKA7
+INSERT igAoI number
+END
+INSERT gf string
+INSERT oxk4ns string
+INSERT ho9 string
+PRINT
+RPRINT
+INSERT cGfk number
+INSERT pY42Z string
+INSERT xn9Ae number
+INSERT w9Vuk string
+INSERT bnxT number

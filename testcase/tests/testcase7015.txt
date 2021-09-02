@@ -1,0 +1,22 @@
+INSERT vWVUC string
+INSERT kiLY number
+INSERT i string
+INSERT j string
+INSERT dZ number
+INSERT f5 string
+PRINT
+vB7LJ sEcgC
+INSERT uOqyu number
+INSERT ezaK number
+ASSIGN ezaK 'G0J'
+INSERT w string
+END
+INSERT comuV number
+INSERT qjgg string
+INSERT fuUMM string
+RPRINT
+ASSIGN w vWVUC
+RPRINT
+INSERT wQgkd5 string
+INSERT pQoYH number
+BEGIN

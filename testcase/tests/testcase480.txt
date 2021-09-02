@@ -1,0 +1,16 @@
+INSERT lRo number
+INSERT bID string
+PRINT
+END
+INSERT gqp number
+INSERT p string
+INSERT jV4 number
+INSERT tB number
+INSERT kY number
+ASSIGN lRo 'nj'
+PRINT
+INSERT g string
+fi n2AK
+INSERT x string
+INSERT f string
+INSERT ff64 number

@@ -1,0 +1,9 @@
+RPRINT
+INSERT q number
+LOOKUP q
+INSERT bkn1wn string
+gA rxlp
+PRINT
+ASSIGN bkn1wn 839
+ASSIGN q q
+END

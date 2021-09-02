@@ -1,0 +1,34 @@
+INSERT b4HE number
+INSERT rVJm number
+INSERT w_7 string
+INSERT mN3vGt string
+l42 rsu7
+LOOKUP rVJm
+ASSIGN w_7 '4rw'
+INSERT ny number
+INSERT e number
+END
+INSERT urs number
+BEGIN
+INSERT xa string
+INSERT r number
+BEGIN
+INSERT z8YU number
+INSERT wDl number
+INSERT wl2q number
+INSERT zuGgnE number
+ASSIGN mN3vGt b4HE
+INSERT sUx string
+PRINT
+ASSIGN wl2q 'SYAPh'
+INSERT whQG string
+INSERT u9 number
+INSERT q number
+LOOKUP w_7
+INSERT mCMmX8 string
+INSERT l number
+zG pk
+INSERT g_dR number
+INSERT v string
+INSERT bitXF number
+PRINT

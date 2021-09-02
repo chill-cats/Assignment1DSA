@@ -1,0 +1,13 @@
+INSERT vN1N_6 number
+BEGIN
+BEGIN
+END
+LOOKUP vN1N_6
+INSERT iTnxV string
+INSERT tg84x number
+INSERT xzKTzJ number
+INSERT bmbLl2 number
+INSERT ba5 string
+INSERT udF string
+BEGIN
+ASSIGN iTnxV xzKTzJ

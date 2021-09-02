@@ -1,0 +1,39 @@
+INSERT gpSBZ number
+INSERT hRO68G string
+INSERT q number
+RPRINT
+INSERT lP6fT string
+PRINT
+INSERT pll string
+INSERT meQ number
+INSERT ezm5 number
+INSERT giR string
+INSERT q number
+ASSIGN lP6fT lP6fT
+INSERT tMYjtc number
+INSERT qQ2U string
+INSERT c97eZ number
+INSERT cFJLeB number
+INSERT isk7E number
+LOOKUP pll
+INSERT s1mD string
+INSERT lUu number
+INSERT vpQXFx number
+INSERT lt number
+hpR k
+INSERT wT9 string
+INSERT rfq number
+PRINT
+INSERT nip81C number
+INSERT dEXh number
+END
+INSERT vDMkdD number
+INSERT agUEEO number
+INSERT kfKEVQ string
+PRINT
+BEGIN
+PRINT
+INSERT p3D string
+PRINT
+BEGIN
+INSERT dg number

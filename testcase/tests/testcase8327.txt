@@ -1,0 +1,14 @@
+INSERT i number
+INSERT p0qz0E string
+BEGIN
+INSERT vPdk0 number
+INSERT y number
+END
+LOOKUP p0qz0E
+LOOKUP p0qz0E
+PRINT
+INSERT aHEQc string
+END
+INSERT l8tOr string
+PRINT
+RPRINT

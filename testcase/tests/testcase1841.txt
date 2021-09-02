@@ -1,0 +1,30 @@
+LOOKUP c
+bBayc beg
+INSERT uM number
+INSERT nNK string
+INSERT eQ873k string
+INSERT rADD9 string
+INSERT bq number
+INSERT xOLFp string
+INSERT r string
+INSERT si string
+INSERT p_KR string
+j y
+INSERT q string
+hI9Rjl oq
+INSERT aH string
+INSERT a48 number
+INSERT lh string
+ASSIGN p_KR uM
+INSERT wM_siF string
+INSERT mA3P number
+INSERT h string
+INSERT py9_Op number
+END
+ASSIGN xOLFp py9_Op
+LOOKUP lh
+INSERT g5nIN string
+INSERT aQc6cb number
+INSERT eJB number
+INSERT pyk string
+RPRINT

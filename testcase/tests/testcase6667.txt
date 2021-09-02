@@ -1,0 +1,24 @@
+INSERT db9tb string
+INSERT uGqgw string
+LOOKUP uGqgw
+LOOKUP db9tb
+ASSIGN db9tb db9tb
+INSERT lJ9DAW string
+INSERT v number
+PRINT
+INSERT cHfPbe number
+RPRINT
+INSERT ze6SKA number
+nuJVT zUHW
+INSERT wbQ2Tf string
+END
+INSERT uw string
+INSERT xt8w_U string
+INSERT iD5zQ string
+ASSIGN lJ9DAW '1'
+INSERT zD8o3 string
+BEGIN
+INSERT r string
+INSERT vG9y number
+END
+RPRINT

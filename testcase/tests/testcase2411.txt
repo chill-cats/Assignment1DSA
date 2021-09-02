@@ -1,0 +1,26 @@
+INSERT zhB5mK number
+INSERT eyC6L string
+INSERT sG_ue number
+PRINT
+INSERT cdwxa number
+INSERT s5QJ string
+INSERT l6e string
+INSERT fg string
+END
+INSERT tKwXe number
+INSERT wz5dk number
+INSERT dwM5ji number
+INSERT vy number
+INSERT mROI string
+INSERT fZeA string
+INSERT v1 string
+END
+ASSIGN v1 '7'
+LOOKUP fg
+RPRINT
+ASSIGN vy 1111
+PRINT
+PRINT
+INSERT lRW string
+INSERT uIoO string
+INSERT b7P number

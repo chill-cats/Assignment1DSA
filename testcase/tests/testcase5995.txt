@@ -1,0 +1,33 @@
+INSERT zb number
+INSERT gNJeU_ string
+INSERT w string
+RPRINT
+INSERT phRn_c string
+LOOKUP phRn_c
+LOOKUP zb
+INSERT nQa1p string
+INSERT k string
+LOOKUP k
+INSERT kUOFRt string
+INSERT yooKe number
+INSERT l number
+PRINT
+xf vkGf
+INSERT j string
+dbX y8m
+INSERT bTR string
+RPRINT
+INSERT qN number
+ASSIGN kUOFRt 'UMA9'
+INSERT q number
+INSERT qV9X string
+INSERT i number
+INSERT do string
+INSERT r string
+INSERT oLVgHB string
+ASSIGN do 'v'
+INSERT z string
+INSERT yvTiI number
+INSERT nhA string
+INSERT k string
+INSERT pCuBjY number

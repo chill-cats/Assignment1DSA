@@ -1,0 +1,40 @@
+BEGIN
+PRINT
+INSERT qF number
+INSERT cRE string
+ASSIGN qF 354
+INSERT kzD string
+LOOKUP qF
+INSERT lQ number
+ASSIGN lQ 232
+PRINT
+ASSIGN kzD 3
+INSERT kkdkg string
+END
+RPRINT
+BEGIN
+rzwc xed
+INSERT jbgwyM number
+PRINT
+INSERT jIx number
+ASSIGN jIx 'QCFFd'
+END
+INSERT hh number
+INSERT fQ_A number
+END
+du9 bwTNRd
+INSERT ukL number
+INSERT mGZ number
+RPRINT
+RPRINT
+END
+INSERT kX3 number
+RPRINT
+PRINT
+INSERT k number
+INSERT w18 number
+INSERT j number
+RPRINT
+LOOKUP jIx
+ASSIGN jIx ukL
+INSERT dzGK string

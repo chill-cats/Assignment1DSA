@@ -1,0 +1,10 @@
+INSERT u string
+INSERT oh string
+INSERT tzY9 string
+INSERT nmC number
+INSERT v05 number
+INSERT rYaAPH number
+PRINT
+INSERT sT8wf number
+INSERT p number
+INSERT mgJO string

@@ -1,0 +1,4 @@
+LOOKUP xY
+ASSIGN ru 736
+END
+INSERT o0yHL string

@@ -1,0 +1,40 @@
+END
+RPRINT
+INSERT w number
+INSERT oLU0 number
+INSERT cLU0V number
+ASSIGN cLU0V w
+INSERT majJb string
+INSERT rGYbO_ number
+INSERT nGYj7O number
+INSERT x string
+k9B p
+INSERT u9u6Mx number
+INSERT oL3 string
+INSERT uy string
+INSERT fE number
+INSERT z string
+avM1CG rA2vJH
+INSERT u4Xl string
+dSFpz1 k_XReC
+INSERT eK_EF6 number
+hB9byW hsW
+INSERT kE number
+be5 g
+INSERT io number
+INSERT zt_O number
+BEGIN
+PRINT
+INSERT s number
+INSERT v0O11A string
+INSERT a2 number
+INSERT mo number
+RPRINT
+BEGIN
+INSERT lgNa48 number
+INSERT c number
+INSERT pcQL number
+INSERT uUdn string
+INSERT qzDei string
+iM gxGfr
+INSERT pd string

@@ -1,0 +1,28 @@
+INSERT rYu string
+INSERT c2V string
+INSERT mMs number
+INSERT qA string
+RPRINT
+INSERT f9U2 number
+INSERT zICzXy number
+ASSIGN qA 831
+END
+BEGIN
+ASSIGN qA qA
+INSERT wYO7 number
+INSERT ngeV number
+INSERT dH number
+INSERT wUfxv number
+INSERT r7 number
+RPRINT
+BEGIN
+INSERT bQlY4 number
+LOOKUP f9U2
+INSERT dUW7x number
+INSERT la3sR string
+RPRINT
+ASSIGN rYu '7Tg'
+INSERT ofrq string
+RPRINT
+INSERT iGbu number
+ASSIGN wYO7 la3sR

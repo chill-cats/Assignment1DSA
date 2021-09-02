@@ -1,0 +1,11 @@
+INSERT p number
+INSERT dKpo number
+INSERT s number
+ASSIGN p '030'
+INSERT ca number
+INSERT bi9K string
+ASSIGN ca ca
+BEGIN
+fU py4u
+INSERT lyO string
+INSERT xyMsyP number

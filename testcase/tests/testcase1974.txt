@@ -1,0 +1,22 @@
+INSERT omB number
+ASSIGN omB 812
+INSERT vI_ps_ string
+INSERT uh_25X string
+ASSIGN omB 'ysWZ2'
+INSERT q number
+INSERT fqttx7 string
+bEsr cJ_3f
+INSERT hNo number
+RPRINT
+INSERT e5cKx string
+INSERT nac number
+INSERT g4wVq string
+ASSIGN q vI_ps_
+ASSIGN omB 443
+INSERT q0 string
+INSERT u2fn string
+INSERT rl number
+INSERT wa string
+INSERT d number
+BEGIN
+INSERT fAm string

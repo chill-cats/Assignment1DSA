@@ -1,0 +1,6 @@
+INSERT c number
+RPRINT
+RPRINT
+INSERT s0tb string
+END
+RPRINT

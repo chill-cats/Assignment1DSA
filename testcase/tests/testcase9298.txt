@@ -1,0 +1,8 @@
+INSERT z6 string
+INSERT d string
+INSERT zvDUf number
+INSERT luRL number
+BEGIN
+RPRINT
+BEGIN
+END

@@ -1,0 +1,32 @@
+INSERT v8 number
+INSERT eSW string
+LOOKUP eSW
+RPRINT
+BEGIN
+INSERT nmro string
+ASSIGN eSW 'Re'
+INSERT rSG number
+INSERT nX8Wg number
+INSERT gf44H string
+INSERT qeK string
+LOOKUP nmro
+LOOKUP qeK
+LOOKUP v8
+INSERT xt string
+INSERT k5 number
+LOOKUP eSW
+LOOKUP gf44H
+fqM1 trpCtj
+INSERT fpAby number
+INSERT zGA7qn number
+END
+INSERT tgw number
+INSERT k string
+RPRINT
+INSERT s number
+INSERT nuje string
+LOOKUP eSW
+END
+INSERT p3TR string
+INSERT z number
+INSERT oKSSE number

@@ -1,0 +1,11 @@
+INSERT spZ string
+ASSIGN spZ spZ
+INSERT yO_ number
+LOOKUP spZ
+INSERT zWKJ string
+LOOKUP zWKJ
+INSERT x string
+INSERT b5Ip string
+BEGIN
+i3 p9mH
+END

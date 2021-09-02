@@ -1,0 +1,9 @@
+INSERT ph1J number
+RPRINT
+BEGIN
+LOOKUP ph1J
+INSERT iM3s3 number
+mQ8IE udA
+INSERT eybBK string
+LOOKUP iM3s3
+LOOKUP ph1J

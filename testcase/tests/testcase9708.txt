@@ -1,0 +1,5 @@
+PRINT
+BEGIN
+INSERT p number
+RPRINT
+INSERT kAqe string

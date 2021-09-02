@@ -1,0 +1,34 @@
+END
+INSERT az64R number
+INSERT i8 number
+ASSIGN az64R 'H'
+INSERT y5oANv number
+LOOKUP y5oANv
+INSERT yp2FUN string
+INSERT kI string
+BEGIN
+jNi ozG
+INSERT h0mHeN number
+ASSIGN y5oANv 'v1'
+y1xa qFQS
+ASSIGN yp2FUN 795
+INSERT fgD0 number
+PRINT
+INSERT w string
+RPRINT
+ASSIGN h0mHeN w
+PRINT
+INSERT pwzoX number
+BEGIN
+LOOKUP pwzoX
+INSERT rWcVLI number
+INSERT v number
+INSERT hsW number
+ASSIGN pwzoX h0mHeN
+INSERT s number
+INSERT woWH number
+INSERT fSI number
+INSERT yscFH number
+BEGIN
+INSERT e3CoN number
+END

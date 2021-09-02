@@ -1,0 +1,7 @@
+mxkL aAB0aA
+INSERT l string
+INSERT f7oJJh number
+INSERT vbI8n number
+LOOKUP l
+PRINT
+PRINT

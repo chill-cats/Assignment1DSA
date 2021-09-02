@@ -1,0 +1,22 @@
+INSERT gb string
+INSERT hLE number
+ASSIGN gb hLE
+INSERT r3o string
+INSERT nz string
+ygY v
+nZXwK9 l2
+BEGIN
+INSERT vaC string
+INSERT mNAgp number
+INSERT uCL number
+INSERT gmU number
+INSERT cz5Ac9 number
+ASSIGN nz 644
+INSERT u string
+RPRINT
+INSERT gb string
+RPRINT
+RPRINT
+END
+INSERT s7j number
+INSERT p1 string

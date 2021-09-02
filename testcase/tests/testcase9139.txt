@@ -1,0 +1,9 @@
+RPRINT
+ASSIGN f 'SG'
+INSERT v number
+INSERT n number
+PRINT
+INSERT xI2u3 string
+PRINT
+INSERT w53 number
+INSERT mx string

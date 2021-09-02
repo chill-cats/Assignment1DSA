@@ -1,0 +1,5 @@
+INSERT r1ZI number
+INSERT g number
+ASSIGN g g
+INSERT xiM0 string
+INSERT iVgq4 string

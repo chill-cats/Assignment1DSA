@@ -1,0 +1,29 @@
+PRINT
+INSERT s3 number
+INSERT g number
+PRINT
+LOOKUP g
+INSERT wmyK number
+INSERT xNnb1 number
+INSERT cbQbT string
+INSERT de1EG string
+jQz w
+phC3RG k7mht
+INSERT uJ3Gn string
+INSERT eT string
+ASSIGN eT 'FxfVq'
+INSERT fUjshB string
+BEGIN
+INSERT zK number
+END
+ASSIGN eT 'Jt'
+RPRINT
+INSERT xxhpp string
+INSERT mzL03Q number
+ASSIGN xxhpp s3
+RPRINT
+INSERT jY string
+INSERT b7g number
+INSERT x number
+INSERT wb string
+INSERT y3OG string

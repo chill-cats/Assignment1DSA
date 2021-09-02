@@ -1,0 +1,20 @@
+INSERT wLzS string
+LOOKUP wLzS
+INSERT h3qbh number
+PRINT
+INSERT eA number
+PRINT
+INSERT zo5 string
+INSERT jTrR string
+BEGIN
+tk qOLV1
+END
+END
+LOOKUP jTrR
+BEGIN
+INSERT gr_ string
+INSERT v number
+INSERT qx3kJ string
+INSERT j string
+INSERT hN1 string
+INSERT h8d string

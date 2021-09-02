@@ -1,0 +1,10 @@
+INSERT ry string
+RPRINT
+INSERT y number
+INSERT xy string
+INSERT f number
+INSERT f1N_ string
+INSERT pr number
+ASSIGN f1N_ 856
+END
+INSERT kau number

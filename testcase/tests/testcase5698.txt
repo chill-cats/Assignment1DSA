@@ -1,0 +1,39 @@
+RPRINT
+INSERT g string
+INSERT j string
+BEGIN
+INSERT sxyU string
+INSERT nso_ number
+PRINT
+INSERT w7 number
+INSERT hBSHca string
+INSERT x number
+INSERT xin number
+INSERT y string
+RPRINT
+INSERT nLHPlJ number
+INSERT k number
+INSERT v number
+PRINT
+END
+INSERT e number
+INSERT uB string
+RPRINT
+INSERT b5 number
+INSERT wPD string
+END
+PRINT
+INSERT buD string
+BEGIN
+PRINT
+INSERT dLN string
+PRINT
+INSERT slQR13 number
+INSERT rH38JG string
+INSERT mZAL number
+PRINT
+INSERT mbcF string
+INSERT r number
+RPRINT
+INSERT zTG number
+END

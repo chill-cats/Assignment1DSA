@@ -1,0 +1,37 @@
+BEGIN
+RPRINT
+INSERT j0 string
+INSERT d7VRZ number
+INSERT a8HU2 number
+INSERT pxUD number
+BEGIN
+END
+INSERT fv string
+INSERT qVqe0 string
+INSERT x0pU number
+LOOKUP j0
+INSERT ePydA number
+END
+INSERT lTDd7F number
+INSERT y0caP number
+END
+qR a4ql
+LOOKUP a8HU2
+INSERT bP string
+LOOKUP a8HU2
+LOOKUP d7VRZ
+INSERT qZf string
+INSERT gF string
+INSERT ts string
+PRINT
+INSERT oV string
+INSERT lFP string
+INSERT aF string
+h zFXzcE
+BEGIN
+INSERT bHdWi number
+END
+INSERT t number
+BEGIN
+INSERT yFFvW number
+ASSIGN qZf '1Kc'

@@ -1,0 +1,25 @@
+INSERT s6F number
+LOOKUP s6F
+INSERT yeDCg number
+INSERT m number
+INSERT lHuYfW string
+BEGIN
+wxj nlS
+ASSIGN s6F s6F
+INSERT ccLDG string
+PRINT
+LOOKUP s6F
+INSERT dLq string
+PRINT
+END
+INSERT ci8 number
+END
+INSERT uxuLA4 number
+END
+END
+INSERT qp string
+RPRINT
+INSERT iQeAF string
+sl2DF2 lr
+END
+INSERT au string

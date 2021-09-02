@@ -1,0 +1,10 @@
+END
+END
+LOOKUP b5sTFq
+ASSIGN ljvB4E '8UY'
+INSERT cTd number
+INSERT sY number
+INSERT zn0v number
+PRINT
+INSERT jT8Gh string
+INSERT hBS9Dr number

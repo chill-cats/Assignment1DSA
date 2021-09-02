@@ -1,0 +1,13 @@
+INSERT iaS number
+INSERT tjKx7 string
+INSERT b2p number
+INSERT eG string
+BEGIN
+INSERT v number
+opCpf kW
+INSERT sB0Nw number
+INSERT b_0g number
+ASSIGN b_0g b2p
+INSERT is number
+INSERT fAT string
+END

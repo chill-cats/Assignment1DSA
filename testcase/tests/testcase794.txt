@@ -1,0 +1,4 @@
+ASSIGN xJ 687
+INSERT zEw1 number
+LOOKUP zEw1
+INSERT oVwo number

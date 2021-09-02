@@ -1,0 +1,18 @@
+INSERT asp string
+BEGIN
+RPRINT
+RPRINT
+ASSIGN asp 'IX'
+INSERT g string
+INSERT vl number
+PRINT
+INSERT ta4S string
+RPRINT
+INSERT xIo7FB number
+INSERT hEw number
+INSERT mTsU number
+BEGIN
+INSERT yFuG string
+INSERT sd0U8 number
+LOOKUP sd0U8
+INSERT e number

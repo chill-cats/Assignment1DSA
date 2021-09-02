@@ -1,0 +1,27 @@
+INSERT z8KD number
+ASSIGN z8KD z8KD
+RPRINT
+INSERT h number
+INSERT wuqn string
+INSERT c number
+END
+END
+INSERT s8 string
+INSERT iPcCA number
+ASSIGN iPcCA 344
+END
+END
+INSERT p7pVA number
+END
+INSERT s string
+INSERT u number
+END
+PRINT
+INSERT lHT6 string
+INSERT hH9 number
+INSERT nGc number
+LOOKUP c
+INSERT t7 string
+LOOKUP iPcCA
+BEGIN
+INSERT uoG string

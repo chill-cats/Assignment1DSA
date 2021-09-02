@@ -1,0 +1,30 @@
+INSERT wxugs number
+INSERT agP_ number
+BEGIN
+INSERT nGxT8 number
+INSERT d string
+INSERT rg string
+ASSIGN wxugs 1053
+INSERT f number
+INSERT yJ string
+ASSIGN yJ agP_
+INSERT stfNtx string
+RPRINT
+INSERT v string
+INSERT e string
+INSERT tacwfu number
+RPRINT
+INSERT dbS number
+LOOKUP dbS
+ASSIGN agP_ 734
+PRINT
+xcVWDN mdOl
+INSERT h string
+INSERT p string
+INSERT cyWewe number
+INSERT aEq1 number
+INSERT w number
+PRINT
+INSERT lIy number
+INSERT jfXDF number
+INSERT oN string

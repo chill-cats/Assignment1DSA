@@ -1,0 +1,37 @@
+INSERT gGLI number
+INSERT em number
+INSERT vqomK string
+ASSIGN gGLI 'urdJ'
+INSERT m4i7u number
+ASSIGN em '470M7'
+RPRINT
+INSERT rwB9Kb number
+INSERT uXrQ string
+INSERT rAV number
+INSERT o_46JT number
+INSERT rH string
+tRXA g5
+INSERT ig9k string
+PRINT
+INSERT a number
+INSERT gAs string
+INSERT lGG0f string
+INSERT vOb number
+ASSIGN o_46JT 116
+INSERT vpcv59 string
+INSERT b number
+LOOKUP gGLI
+INSERT ptU string
+INSERT lx5 number
+INSERT wqxv9 number
+INSERT zygTss string
+INSERT zoF number
+INSERT fR_ number
+INSERT ahq number
+INSERT tFP string
+END
+LOOKUP em
+BEGIN
+wv m
+e nCgm
+INSERT j1B string

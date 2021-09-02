@@ -1,0 +1,21 @@
+BEGIN
+iB0 hd4
+INSERT xVsBc number
+INSERT pEiTMW string
+INSERT fmd string
+ASSIGN fmd fmd
+INSERT r string
+INSERT fzE string
+BEGIN
+RPRINT
+INSERT aanx8 number
+LOOKUP pEiTMW
+PRINT
+ASSIGN aanx8 1074
+PRINT
+INSERT btJP string
+INSERT vXMz3 string
+INSERT lX string
+INSERT qeW string
+ASSIGN fmd 'mSi'
+RPRINT

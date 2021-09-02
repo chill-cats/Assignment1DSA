@@ -1,0 +1,12 @@
+RPRINT
+INSERT k string
+INSERT uAA6CA number
+INSERT yb08 string
+INSERT lqC number
+INSERT rdIFca string
+gLBQMq f2fNv
+INSERT vn8 string
+INSERT ghSR string
+INSERT a string
+INSERT kMH number
+BEGIN

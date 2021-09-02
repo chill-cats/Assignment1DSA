@@ -1,0 +1,9 @@
+INSERT f string
+BEGIN
+INSERT w number
+xc s
+PRINT
+ASSIGN f f
+INSERT rd number
+INSERT z5a3 string
+INSERT oLEk8a string

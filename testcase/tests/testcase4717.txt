@@ -1,0 +1,23 @@
+INSERT iQ number
+LOOKUP iQ
+INSERT zPTDbN string
+LOOKUP iQ
+RPRINT
+BEGIN
+INSERT jblS number
+INSERT sD4Z number
+INSERT zgC number
+INSERT y number
+ASSIGN zPTDbN 201
+INSERT x string
+END
+INSERT aLKD9Z string
+INSERT w98 string
+INSERT yozY string
+RPRINT
+xI5yta dcC_
+INSERT liwlw number
+INSERT lejIu string
+INSERT veie number
+INSERT d string
+INSERT bHpCK4 number

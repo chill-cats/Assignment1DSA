@@ -1,0 +1,20 @@
+INSERT jgHfT number
+INSERT x number
+ASSIGN jgHfT x
+ASSIGN x jgHfT
+INSERT juTKC string
+INSERT o2_ string
+PRINT
+BEGIN
+INSERT es number
+INSERT igtNq number
+INSERT zWlmXl number
+PRINT
+ASSIGN igtNq o2_
+INSERT aZG_0v string
+INSERT wF0H9c string
+INSERT xf string
+PRINT
+INSERT lcVIJ string
+ASSIGN juTKC lcVIJ
+PRINT

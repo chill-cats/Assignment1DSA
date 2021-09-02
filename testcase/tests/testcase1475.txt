@@ -1,0 +1,21 @@
+INSERT i number
+ASSIGN i 1025
+END
+INSERT azLV string
+END
+oQ w
+INSERT tgWc string
+END
+ASSIGN i 'yl'
+PRINT
+INSERT v7AmK number
+BEGIN
+INSERT lD number
+INSERT ly number
+INSERT r string
+INSERT bo string
+BEGIN
+INSERT kg99m number
+LOOKUP v7AmK
+htkTOY nhDgT
+RPRINT

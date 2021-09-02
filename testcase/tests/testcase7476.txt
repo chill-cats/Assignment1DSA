@@ -1,0 +1,17 @@
+INSERT rrnJ7V string
+RPRINT
+INSERT w string
+INSERT k4Ig string
+INSERT em0r number
+f a52
+INSERT x string
+INSERT a number
+INSERT eN7Vrd string
+INSERT aHU string
+INSERT apHiNu string
+PRINT
+LOOKUP apHiNu
+BEGIN
+PRINT
+INSERT frCe string
+INSERT uYlu number

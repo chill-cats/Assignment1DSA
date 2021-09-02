@@ -1,0 +1,4 @@
+RPRINT
+LOOKUP t
+INSERT n string
+INSERT edNdkf string

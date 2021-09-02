@@ -1,0 +1,40 @@
+INSERT c number
+END
+END
+END
+ASSIGN c 190
+INSERT i number
+INSERT hwSHMQ number
+INSERT fdya string
+ASSIGN d 206
+INSERT x string
+INSERT zv9 number
+BEGIN
+INSERT tfFHC8 number
+INSERT kdWpi number
+BEGIN
+INSERT vt string
+PRINT
+LOOKUP tfFHC8
+LOOKUP i
+INSERT kIPSp string
+END
+INSERT mNPe number
+INSERT m3rxmV string
+INSERT ealQrQ number
+INSERT ei number
+BEGIN
+INSERT hR string
+ASSIGN i mNPe
+INSERT gCf number
+INSERT xys4 string
+LOOKUP hR
+INSERT ioJcr string
+INSERT g number
+INSERT emptN number
+INSERT kmgK4v number
+ASSIGN c 455
+INSERT ctx59x number
+INSERT xywH string
+BEGIN
+ASSIGN ei 'oPz'

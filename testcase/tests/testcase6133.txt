@@ -1,0 +1,33 @@
+INSERT sHUjVe number
+INSERT m number
+INSERT u24y string
+END
+ASSIGN m 38
+INSERT ibci number
+END
+LOOKUP ibci
+INSERT l number
+INSERT lEr string
+uTZ oK70fj
+INSERT bhe string
+INSERT lIUXQS string
+INSERT aw number
+END
+INSERT eM string
+kBZk sySmw
+RPRINT
+INSERT bI string
+END
+INSERT anZm string
+INSERT kR number
+INSERT b86Zal string
+INSERT h9n string
+INSERT h1JO string
+INSERT w number
+INSERT gQ number
+INSERT owy802 string
+INSERT tvyWF string
+INSERT nXlV string
+RPRINT
+END
+BEGIN

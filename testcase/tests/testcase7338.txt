@@ -1,0 +1,28 @@
+RPRINT
+INSERT qm8o string
+INSERT h string
+INSERT x string
+LOOKUP x
+INSERT q string
+INSERT foCkN number
+INSERT lM string
+INSERT vlY8iy number
+INSERT c number
+INSERT w0 number
+PRINT
+ASSIGN h 742
+INSERT vafYw number
+INSERT f string
+INSERT s8KCjM string
+PRINT
+LOOKUP foCkN
+INSERT m string
+INSERT csTj number
+INSERT o number
+INSERT h5wn8e number
+INSERT sma8 string
+RPRINT
+PRINT
+BEGIN
+INSERT ah string
+INSERT kK9on number

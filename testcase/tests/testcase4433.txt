@@ -1,0 +1,6 @@
+INSERT p string
+BEGIN
+INSERT bhj4p string
+PRINT
+INSERT pQwm number
+ASSIGN pQwm '250d'

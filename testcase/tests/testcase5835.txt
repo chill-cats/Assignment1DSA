@@ -1,0 +1,16 @@
+INSERT rk number
+INSERT tYh string
+ia5Le oP_V61
+INSERT mJ number
+INSERT zY string
+LOOKUP mJ
+INSERT agGBcJ number
+INSERT x string
+INSERT tjZqF string
+PRINT
+INSERT pPP number
+BEGIN
+INSERT erGR number
+ASSIGN erGR zY
+BEGIN
+INSERT nqgMSA string

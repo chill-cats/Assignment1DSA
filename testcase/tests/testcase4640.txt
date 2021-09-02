@@ -1,0 +1,10 @@
+INSERT jqh0 number
+INSERT v number
+LOOKUP v
+INSERT nZ string
+INSERT l number
+BEGIN
+BEGIN
+RPRINT
+BEGIN
+ASSIGN l 'sxl'

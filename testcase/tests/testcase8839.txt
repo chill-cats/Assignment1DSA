@@ -1,0 +1,35 @@
+ASSIGN eW 1007
+INSERT wy string
+RPRINT
+INSERT qll number
+RPRINT
+INSERT tAfm string
+END
+INSERT swihT string
+BEGIN
+ASSIGN wy wy
+INSERT gmWwl number
+PRINT
+INSERT jV string
+PRINT
+dOSg xj
+INSERT w number
+ASSIGN jV 672
+INSERT zF string
+INSERT wBfyOs number
+INSERT o number
+INSERT qLKS string
+RPRINT
+RPRINT
+LOOKUP gmWwl
+INSERT cS0R string
+juoj as
+RPRINT
+INSERT oM string
+LOOKUP tAfm
+INSERT ogrsc string
+RPRINT
+xF z
+INSERT s number
+INSERT puJ string
+INSERT z4K7y string

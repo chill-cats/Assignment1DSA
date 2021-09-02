@@ -1,0 +1,36 @@
+INSERT viv string
+INSERT xMM string
+INSERT eu string
+INSERT h number
+oij i
+INSERT gZ number
+PRINT
+ASSIGN eu 1117
+INSERT frO6 string
+INSERT u string
+INSERT t7jKs string
+INSERT uy string
+END
+RPRINT
+ASSIGN gZ 'siiA8'
+INSERT wGx number
+INSERT mDt string
+INSERT zR4 string
+INSERT e string
+INSERT zkcI number
+PRINT
+l8z o
+RPRINT
+INSERT tqjAR number
+ASSIGN mDt 'GkcTZ'
+BEGIN
+INSERT qtHTT number
+RPRINT
+LOOKUP h
+INSERT h string
+INSERT qifRMQ string
+ASSIGN h 632
+INSERT lbmf number
+INSERT d7B6 string
+END
+INSERT jBrBNX number

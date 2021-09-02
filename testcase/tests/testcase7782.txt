@@ -1,0 +1,15 @@
+INSERT y number
+INSERT kmxW number
+INSERT sEMq string
+ASSIGN sEMq sEMq
+LOOKUP sEMq
+INSERT u7 number
+BEGIN
+INSERT q number
+RPRINT
+INSERT iPLoz string
+INSERT d number
+INSERT hzMzj5 number
+INSERT n number
+INSERT pwZxx5 number
+INSERT a8noO number

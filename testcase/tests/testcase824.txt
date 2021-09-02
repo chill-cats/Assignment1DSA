@@ -1,0 +1,18 @@
+INSERT v string
+INSERT r0h4M string
+END
+INSERT i5Mv number
+LOOKUP i5Mv
+LOOKUP r0h4M
+INSERT znu4R string
+INSERT dW7 number
+INSERT f string
+INSERT jXP string
+ASSIGN znu4R 646
+INSERT gZ8ry string
+LOOKUP gZ8ry
+INSERT x0Bg number
+INSERT x6YU number
+LOOKUP euroor
+INSERT wod3eH number
+END

@@ -1,0 +1,38 @@
+INSERT y0 string
+LOOKUP y0
+END
+INSERT b number
+PRINT
+INSERT rL number
+RPRINT
+INSERT upy number
+PRINT
+BEGIN
+INSERT wtv0X string
+INSERT blE3 number
+BEGIN
+INSERT kZP35 number
+INSERT t string
+INSERT xJ string
+INSERT dKY number
+BEGIN
+RPRINT
+INSERT jgi1t string
+INSERT i1 string
+BEGIN
+RPRINT
+RPRINT
+INSERT yq string
+INSERT fZI string
+INSERT xHIW number
+END
+INSERT v5 string
+sQ mUcVT
+INSERT v string
+BEGIN
+INSERT a4cVkT string
+END
+INSERT yDzF number
+ASSIGN t 'kJY'
+RPRINT
+INSERT dJpI string

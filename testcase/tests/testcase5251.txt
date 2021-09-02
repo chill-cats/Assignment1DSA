@@ -1,0 +1,17 @@
+ASSIGN e 'hA7G'
+INSERT m string
+INSERT cIEDuP string
+LOOKUP cIEDuP
+ASSIGN m cIEDuP
+ASSIGN m m
+INSERT r number
+INSERT p0H8Z number
+INSERT izgr2b number
+fU p
+INSERT n0iBqO string
+INSERT g string
+INSERT o string
+INSERT awe8Oa number
+INSERT fqS string
+INSERT mHFp number
+INSERT r3JYw string

@@ -1,0 +1,30 @@
+INSERT xJ5lKj number
+INSERT fmw string
+INSERT vJ02 string
+INSERT jO0 string
+PRINT
+RPRINT
+ASSIGN vJ02 717
+INSERT u6E string
+INSERT gSE string
+INSERT qU string
+INSERT rn string
+INSERT sQ string
+INSERT wEZd7W number
+xU aJfcIG
+INSERT b number
+PRINT
+INSERT t string
+INSERT i string
+INSERT vvF string
+LOOKUP fmw
+RPRINT
+INSERT c number
+INSERT knLI number
+ASSIGN vJ02 wEZd7W
+INSERT sw string
+INSERT wAsJq string
+INSERT aSt string
+INSERT r5sT number
+END
+END

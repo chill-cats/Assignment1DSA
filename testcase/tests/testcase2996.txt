@@ -1,0 +1,32 @@
+BEGIN
+INSERT lQ number
+INSERT w0Ba string
+INSERT z1TO0 string
+INSERT w3 string
+INSERT e1X number
+END
+ASSIGN w0Ba 118
+INSERT p7 string
+INSERT yq string
+RPRINT
+INSERT act string
+RPRINT
+INSERT fy string
+INSERT r8GoJV string
+INSERT b number
+LOOKUP act
+INSERT uj string
+END
+END
+END
+PRINT
+INSERT u string
+END
+INSERT k string
+INSERT yqtr string
+INSERT p string
+LOOKUP ga1rv
+RPRINT
+BEGIN
+INSERT uKE60Q string
+INSERT ne3v3 number

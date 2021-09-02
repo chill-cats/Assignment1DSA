@@ -1,0 +1,39 @@
+INSERT z4 number
+PRINT
+INSERT e number
+PRINT
+BEGIN
+INSERT kwaHDA number
+INSERT hszB number
+INSERT nHVvan string
+INSERT j251 string
+INSERT dRns string
+INSERT j number
+INSERT p99F string
+PRINT
+INSERT jeRM1M string
+RPRINT
+INSERT jO number
+INSERT yE string
+INSERT y number
+INSERT es23 number
+INSERT f number
+INSERT ytEJlF string
+RPRINT
+INSERT sLvrj number
+INSERT u string
+INSERT pS number
+INSERT harx string
+BEGIN
+INSERT u string
+LOOKUP iVruf
+RPRINT
+LOOKUP nHVvan
+INSERT t number
+PRINT
+ASSIGN pS yE
+END
+ASSIGN nHVvan 'Qtne'
+INSERT qSXM number
+ASSIGN hszB 'wp Z'
+INSERT rO string

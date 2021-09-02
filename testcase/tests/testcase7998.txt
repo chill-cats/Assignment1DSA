@@ -1,0 +1,39 @@
+INSERT yKAbVm number
+INSERT tOSGN string
+INSERT uaCVI8 number
+LOOKUP uaCVI8
+INSERT hvU string
+LOOKUP hvU
+ASSIGN hvU 15
+INSERT xkj number
+INSERT vQJ3 number
+INSERT dpb string
+INSERT gEoCK string
+PRINT
+INSERT w9QmQ number
+INSERT jwv number
+RPRINT
+INSERT r number
+BEGIN
+INSERT c5I string
+INSERT oNaLn string
+INSERT rVj number
+LOOKUP oNaLn
+RPRINT
+f lDqtu
+INSERT toN2 string
+INSERT boSMRr number
+INSERT f number
+c kG
+BEGIN
+BEGIN
+INSERT jNxyj string
+INSERT eXs number
+INSERT jWS number
+INSERT qa9dRC string
+INSERT fDK6lc string
+INSERT xX string
+ASSIGN tOSGN 714
+INSERT lqDRI string
+INSERT a6avr number
+PRINT

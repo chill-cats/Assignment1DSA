@@ -1,0 +1,38 @@
+INSERT yS_XAx number
+INSERT f number
+INSERT p3hok string
+INSERT uvKo string
+INSERT b string
+END
+INSERT c number
+INSERT wKmR5v string
+INSERT f number
+INSERT f5Ow string
+INSERT t string
+PRINT
+INSERT xYzTw string
+END
+BEGIN
+INSERT zlAGV number
+INSERT c1dR number
+BEGIN
+PRINT
+LOOKUP wKmR5v
+INSERT rEGP number
+INSERT nZaZ number
+INSERT w string
+INSERT hn number
+INSERT tCf_ string
+INSERT ac9 string
+INSERT wLOg8 string
+INSERT hyIfK string
+INSERT ov string
+INSERT wZpMF number
+INSERT hvazA string
+INSERT d87gtp number
+INSERT f9J string
+INSERT xWi number
+END
+PRINT
+INSERT d7xRb number
+ASSIGN c1dR 1163

@@ -1,0 +1,6 @@
+INSERT no number
+INSERT deM7 number
+INSERT z string
+INSERT farrbz number
+END
+INSERT d9v string

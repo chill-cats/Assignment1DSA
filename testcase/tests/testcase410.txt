@@ -1,0 +1,10 @@
+LOOKUP u
+LOOKUP b7
+hZ t
+INSERT eze27 number
+INSERT gcB number
+INSERT jGQ string
+END
+PRINT
+BEGIN
+INSERT cOe string

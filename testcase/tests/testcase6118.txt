@@ -1,0 +1,8 @@
+BEGIN
+ASSIGN e 'l'
+INSERT l number
+PRINT
+INSERT o966p3 string
+INSERT aP number
+INSERT rx9f12 string
+INSERT yEJ_xZ string

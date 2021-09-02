@@ -1,0 +1,27 @@
+INSERT l string
+INSERT vN string
+INSERT yChI number
+INSERT m0 number
+INSERT puPu number
+INSERT s string
+END
+bq w
+INSERT zFr number
+INSERT ednIp string
+INSERT r number
+ASSIGN ednIp 'V3I2'
+END
+INSERT oAb1u string
+RPRINT
+INSERT a string
+ASSIGN vN 'QE6H'
+INSERT xI string
+INSERT jYrbq number
+INSERT jvGJbU number
+INSERT a7Lg string
+INSERT f number
+INSERT e string
+LOOKUP puPu
+ASSIGN ednIp '2JUz'
+INSERT l4icfq number
+END

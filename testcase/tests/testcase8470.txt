@@ -1,0 +1,39 @@
+ASSIGN aq 457
+INSERT yaFL string
+INSERT joTl string
+INSERT rNA number
+INSERT za6C number
+END
+BEGIN
+RPRINT
+INSERT yLhp4J number
+INSERT qtCVW string
+INSERT aV3I number
+LOOKUP a1Xkj8
+BEGIN
+INSERT xJdLX number
+INSERT ne53il number
+INSERT o55 string
+INSERT tf4xa number
+RPRINT
+INSERT qOei_ number
+INSERT u string
+INSERT hUR number
+INSERT w_s string
+RPRINT
+INSERT sq string
+INSERT d_OJ string
+INSERT uUU_W number
+LOOKUP tf4xa
+INSERT xk2Zj string
+INSERT w0G string
+INSERT kP string
+PRINT
+BEGIN
+RPRINT
+INSERT poB1 string
+INSERT zewAxd string
+INSERT f1yi string
+INSERT bBLB string
+INSERT o number
+LOOKUP bBLB

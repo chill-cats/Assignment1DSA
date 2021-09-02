@@ -1,0 +1,12 @@
+LOOKUP u_
+INSERT lQOlS number
+INSERT yEfo number
+RPRINT
+END
+ASSIGN lQOlS yEfo
+INSERT ryhlGw string
+INSERT qH8 string
+INSERT hnmj0 number
+INSERT df number
+INSERT tVq number
+INSERT pg_ string

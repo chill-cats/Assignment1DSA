@@ -1,0 +1,4 @@
+LOOKUP q
+INSERT nr9 number
+RPRINT
+INSERT p string

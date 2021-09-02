@@ -1,0 +1,7 @@
+INSERT o string
+INSERT g string
+INSERT v number
+INSERT i string
+INSERT s9L number
+INSERT xjs number
+RPRINT

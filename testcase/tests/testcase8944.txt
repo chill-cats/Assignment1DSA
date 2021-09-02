@@ -1,0 +1,12 @@
+END
+ASSIGN sG 'Q'
+INSERT uR3it0 string
+INSERT b_qro number
+INSERT g53P number
+INSERT wAxBRD string
+INSERT xg number
+PRINT
+INSERT vb number
+RPRINT
+av7 b
+INSERT q number

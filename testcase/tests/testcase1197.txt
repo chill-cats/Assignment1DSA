@@ -1,0 +1,38 @@
+INSERT o_ number
+LOOKUP o_
+END
+INSERT v7bH7 string
+INSERT lCSm number
+INSERT bF25 string
+BEGIN
+INSERT sgUH string
+BEGIN
+INSERT a_W8G string
+ASSIGN v7bH7 547
+INSERT p number
+RPRINT
+INSERT k3XShT number
+INSERT sSZQnn number
+x1zR7T m9GKwR
+PRINT
+INSERT p0yX number
+RPRINT
+INSERT gMYR string
+LOOKUP a_W8G
+LOOKUP v7bH7
+INSERT qkgb string
+INSERT l string
+ASSIGN k3XShT 'UNI'
+INSERT jWD string
+PRINT
+INSERT bPr number
+INSERT uA number
+INSERT u3A string
+INSERT gfj76 number
+INSERT oV string
+eJWcw7 aG0X5
+END
+INSERT hd number
+LOOKUP gMYR
+LOOKUP p0yX
+RPRINT

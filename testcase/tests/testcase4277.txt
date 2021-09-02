@@ -1,0 +1,37 @@
+INSERT o7k string
+INSERT hxy number
+END
+BEGIN
+INSERT d4ab number
+INSERT v string
+BEGIN
+INSERT zSN number
+END
+INSERT xN1CX string
+INSERT psdV number
+INSERT xax number
+INSERT pyh string
+INSERT yaR number
+INSERT cao4 number
+RPRINT
+PRINT
+RPRINT
+INSERT f3 number
+INSERT k number
+INSERT o number
+INSERT eW number
+hu mIT
+INSERT n5 string
+INSERT uh string
+INSERT wzH string
+RPRINT
+BEGIN
+INSERT o string
+END
+INSERT j4OJc string
+INSERT tWQgcB number
+RPRINT
+BEGIN
+BEGIN
+ASSIGN j4OJc 'g '
+INSERT mmDH number

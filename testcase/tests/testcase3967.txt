@@ -1,0 +1,16 @@
+INSERT eom9m number
+INSERT b string
+ASSIGN b eom9m
+LOOKUP b
+END
+INSERT yF00j8 number
+INSERT ixM7 number
+INSERT c1KxA2 string
+INSERT dfLeP number
+PRINT
+INSERT ofKq string
+INSERT f string
+lNoVcs b6GJ
+ASSIGN yF00j8 'oc60O'
+INSERT a string
+INSERT aWVS number

@@ -1,0 +1,38 @@
+INSERT dAzX string
+ASSIGN dAzX 326
+INSERT s number
+INSERT un1 number
+INSERT qJQe number
+PRINT
+ASSIGN dAzX 461
+LOOKUP un1
+PRINT
+INSERT xQ string
+INSERT o string
+INSERT ujrh string
+wl1My dSQLJ
+INSERT cg0G7 number
+INSERT fv8 string
+INSERT vH1PFO number
+INSERT ak_aX string
+INSERT l number
+INSERT oB_p string
+PRINT
+INSERT ahf3 string
+END
+INSERT gSgU string
+INSERT bFhp1 number
+INSERT z string
+INSERT zgo number
+END
+LOOKUP z
+END
+RPRINT
+INSERT eojlE number
+kp6XcJ qOID
+INSERT e0Bii string
+fgni n1GE
+INSERT v1s string
+INSERT xNpHl string
+PRINT
+INSERT dRN5E number

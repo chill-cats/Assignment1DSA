@@ -1,0 +1,8 @@
+INSERT nLX4 string
+LOOKUP nLX4
+LOOKUP nLX4
+INSERT f4lP number
+END
+END
+PRINT
+INSERT v3g string

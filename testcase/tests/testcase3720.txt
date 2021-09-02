@@ -1,0 +1,39 @@
+INSERT txl string
+INSERT u number
+INSERT ziq string
+LOOKUP txl
+END
+RPRINT
+LOOKUP ziq
+BEGIN
+INSERT rfijT number
+BEGIN
+v_ i
+INSERT g number
+ASSIGN ziq 'i3Mt'
+INSERT h7UfRz string
+RPRINT
+BEGIN
+END
+LOOKUP ziq
+INSERT tKOWA string
+INSERT m5 number
+INSERT uMm number
+RPRINT
+LOOKUP m5
+RPRINT
+INSERT sVQJzl number
+INSERT midW string
+INSERT cfQ string
+INSERT r0y string
+INSERT bDe string
+INSERT z number
+ASSIGN bDe 62
+INSERT uM6gAJ number
+INSERT viLWMg number
+INSERT jtp0r number
+RPRINT
+INSERT q string
+RPRINT
+INSERT lCwn5 string
+ASSIGN uMm 472

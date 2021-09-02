@@ -1,0 +1,36 @@
+INSERT yDOq number
+LOOKUP yDOq
+LOOKUP yDOq
+INSERT lGl string
+BEGIN
+INSERT lq2UPP string
+LOOKUP lq2UPP
+INSERT f string
+INSERT iyi number
+BEGIN
+END
+INSERT w number
+INSERT wwgmPy string
+INSERT p string
+INSERT e1j number
+INSERT nU string
+INSERT vLi number
+INSERT fgD8Bq string
+INSERT d1Bd string
+INSERT fM string
+RPRINT
+INSERT y7 number
+INSERT e string
+RPRINT
+INSERT lPAw0 string
+INSERT n string
+INSERT m4jd number
+END
+RPRINT
+INSERT zm3 number
+INSERT k string
+INSERT flzk9 number
+INSERT lpPp string
+INSERT rW72 number
+INSERT m number
+PRINT

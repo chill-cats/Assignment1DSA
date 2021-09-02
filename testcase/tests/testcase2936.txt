@@ -1,0 +1,35 @@
+INSERT pfRUV4 string
+ASSIGN pfRUV4 'AT'
+INSERT td string
+INSERT mMu string
+INSERT bCt9 string
+PRINT
+INSERT hnh string
+PRINT
+INSERT rNmi string
+eE wr
+INSERT xi number
+INSERT zCdc number
+RPRINT
+INSERT hOs5 string
+a2C kW2o
+INSERT kl string
+INSERT px number
+LOOKUP pfRUV4
+INSERT mCXGg string
+INSERT q number
+RPRINT
+INSERT niF number
+LOOKUP mMu
+k_4yh lc_Wnd
+INSERT mqw string
+RPRINT
+BEGIN
+INSERT an number
+INSERT z string
+INSERT qpFwcu string
+INSERT x string
+INSERT q number
+INSERT wkVZ number
+INSERT r number
+INSERT gU4f number

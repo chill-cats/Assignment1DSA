@@ -1,0 +1,25 @@
+INSERT vX string
+INSERT nra number
+pwcC4 k
+INSERT qtKK6G number
+LOOKUP qtKK6G
+INSERT i number
+INSERT bu0fYk string
+ASSIGN vX 1160
+ASSIGN nra vX
+INSERT uvNE5 number
+INSERT eCtb number
+INSERT l number
+INSERT q1 number
+END
+INSERT u2zrM number
+INSERT e3eJI string
+INSERT e_B0Q number
+INSERT mzlWb number
+INSERT lasy0 number
+RPRINT
+INSERT mQOgeB number
+BEGIN
+PRINT
+INSERT rmKwB number
+END

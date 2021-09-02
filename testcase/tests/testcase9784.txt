@@ -1,0 +1,14 @@
+INSERT u84S number
+INSERT tx string
+BEGIN
+LOOKUP u84S
+INSERT hOSFIj number
+INSERT fz180t number
+INSERT aolHh number
+INSERT b48H number
+PRINT
+END
+LOOKUP hOSFIj
+INSERT j4c string
+INSERT nr0o number
+INSERT e number

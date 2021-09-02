@@ -1,0 +1,27 @@
+INSERT eT number
+INSERT z6 string
+ASSIGN z6 'fAW'
+INSERT z number
+INSERT r04a number
+INSERT zzy string
+PRINT
+INSERT iom number
+INSERT otd string
+PRINT
+BEGIN
+PRINT
+INSERT w string
+BEGIN
+RPRINT
+RPRINT
+BEGIN
+INSERT sjiq number
+RPRINT
+PRINT
+BEGIN
+BEGIN
+ASSIGN iom '7zU57'
+END
+INSERT cY2 string
+RPRINT
+INSERT qH0f number

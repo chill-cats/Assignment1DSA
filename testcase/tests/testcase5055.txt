@@ -1,0 +1,26 @@
+INSERT fAz number
+INSERT udb string
+INSERT nQ number
+INSERT ihOEZ number
+RPRINT
+INSERT n number
+ASSIGN fAz n
+INSERT j4p string
+INSERT ijA string
+INSERT vU3LSL string
+PRINT
+PRINT
+INSERT m number
+ASSIGN vU3LSL ijA
+LOOKUP kfXEi
+INSERT rw6 string
+INSERT wDN6ZG string
+INSERT i3 string
+INSERT sRA number
+END
+BEGIN
+BEGIN
+INSERT lij number
+RPRINT
+INSERT pgw3BZ number
+qBE4 eioI

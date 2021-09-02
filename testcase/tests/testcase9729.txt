@@ -1,0 +1,20 @@
+INSERT lgXjf string
+INSERT uwV number
+INSERT pE number
+BEGIN
+INSERT ev string
+RPRINT
+INSERT mm number
+INSERT oK2_o7 string
+BEGIN
+ASSIGN lgXjf 464
+m bOk
+ASSIGN mm 425
+ASSIGN mm 'hQfMA'
+BEGIN
+LOOKUP ev
+BEGIN
+PRINT
+RPRINT
+LOOKUP lgXjf
+BEGIN

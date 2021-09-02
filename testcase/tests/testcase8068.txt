@@ -1,0 +1,32 @@
+INSERT hBwtS string
+INSERT lg2e number
+INSERT zIZ number
+PRINT
+INSERT o03g string
+INSERT eru7b number
+BEGIN
+ASSIGN eru7b 1144
+LOOKUP o03g
+INSERT tK number
+INSERT z string
+INSERT nnYZ string
+INSERT dk string
+INSERT s5a number
+INSERT dH string
+INSERT b3MnQO string
+INSERT aJ6G26 string
+INSERT mFghv string
+INSERT z number
+BEGIN
+INSERT u number
+INSERT x string
+LOOKUP zIZ
+END
+BEGIN
+INSERT v string
+PRINT
+INSERT ha9D string
+INSERT fgFu string
+INSERT dHnr string
+INSERT vE string
+INSERT xoSJ0 string

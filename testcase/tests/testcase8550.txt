@@ -1,0 +1,19 @@
+INSERT nU number
+ASSIGN nU 100
+PRINT
+PRINT
+INSERT v15Pxe number
+PRINT
+INSERT xQHIGt number
+END
+INSERT f number
+INSERT aYk string
+INSERT qo number
+LOOKUP nU
+INSERT awSlv string
+INSERT s0 string
+ASSIGN xQHIGt 4
+INSERT bO number
+INSERT do0xAP string
+INSERT xT6 string
+END

@@ -1,0 +1,10 @@
+INSERT t string
+END
+INSERT qi7A number
+INSERT xDD number
+INSERT p8q8 string
+LOOKUP p8q8
+PRINT
+INSERT yF string
+INSERT l string
+END

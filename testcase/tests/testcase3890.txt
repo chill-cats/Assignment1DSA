@@ -1,0 +1,8 @@
+x qScnmt
+iVO ymd
+INSERT f number
+LOOKUP f
+RPRINT
+INSERT i number
+INSERT lkfyMn number
+END

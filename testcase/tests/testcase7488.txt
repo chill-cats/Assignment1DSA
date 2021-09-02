@@ -1,0 +1,9 @@
+ASSIGN jWA4sM 565
+RPRINT
+PRINT
+RPRINT
+INSERT o string
+INSERT a number
+INSERT v number
+INSERT u string
+ASSIGN u 424

@@ -1,0 +1,38 @@
+INSERT g9x7sS string
+BEGIN
+LOOKUP g9x7sS
+LOOKUP g9x7sS
+INSERT rm2sk number
+INSERT ea string
+ASSIGN ea 'jsCr'
+INSERT gur string
+INSERT hzEm string
+INSERT gXw number
+INSERT dPuN number
+END
+INSERT v_FAV number
+INSERT aAZenq string
+INSERT w_fOd string
+LOOKUP gXw
+BEGIN
+INSERT i number
+LOOKUP hzEm
+END
+RPRINT
+oBhFb yBFD1
+INSERT k_h0CK number
+INSERT pem number
+INSERT hRJc string
+INSERT pTp string
+INSERT iAqbV number
+INSERT d4dK6 string
+INSERT wuaCKf string
+BEGIN
+INSERT jGul3 number
+INSERT pIG number
+RPRINT
+INSERT t6B number
+INSERT x5b7F number
+INSERT tJOKxQ number
+ASSIGN wuaCKf jGul3
+INSERT a string

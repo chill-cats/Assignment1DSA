@@ -1,0 +1,4 @@
+INSERT sN_m number
+LOOKUP sN_m
+INSERT z4 string
+kES n6

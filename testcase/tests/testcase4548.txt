@@ -1,0 +1,23 @@
+INSERT eGl string
+INSERT p string
+INSERT sj5H string
+ASSIGN p 426
+INSERT gB number
+RPRINT
+INSERT oNLzh number
+INSERT etJ string
+INSERT x6P string
+INSERT hq3ECi string
+INSERT eIpV number
+INSERT q1dJ number
+LOOKUP gB
+INSERT sRh string
+LOOKUP oNLzh
+INSERT f number
+INSERT tG number
+PRINT
+INSERT s number
+LOOKUP etJ
+yb jKT
+ASSIGN f 'E'
+INSERT w string

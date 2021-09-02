@@ -1,0 +1,28 @@
+INSERT mqFD string
+PRINT
+INSERT nD string
+PRINT
+BEGIN
+INSERT v number
+END
+v hc
+ASSIGN nD nD
+INSERT eUe string
+oa aEaeH
+LOOKUP mqFD
+BEGIN
+END
+RPRINT
+INSERT ed number
+INSERT rN_Oz number
+LOOKUP mqFD
+LOOKUP rN_Oz
+INSERT s0 number
+INSERT q number
+BEGIN
+INSERT s number
+INSERT kvyD number
+INSERT p string
+INSERT em number
+INSERT y number
+ASSIGN y 'rYrW'

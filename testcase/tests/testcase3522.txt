@@ -1,0 +1,30 @@
+INSERT b0w number
+ASSIGN b0w b0w
+INSERT tDNb number
+INSERT w2c56 string
+BEGIN
+INSERT eyFt string
+INSERT kTx number
+INSERT d number
+BEGIN
+INSERT qm7T9z string
+ASSIGN w2c56 tDNb
+PRINT
+BEGIN
+INSERT jP8 number
+LOOKUP kTx
+LOOKUP jP8
+INSERT nPb number
+INSERT yisK string
+ASSIGN qm7T9z 'WkLn0'
+INSERT qVgiAw string
+INSERT y number
+BEGIN
+INSERT rKJpeh string
+END
+nhvC hdvEy
+INSERT eR2cy string
+INSERT f7 number
+INSERT sK number
+ASSIGN eR2cy 'uR86n'
+INSERT bSW9P0 string

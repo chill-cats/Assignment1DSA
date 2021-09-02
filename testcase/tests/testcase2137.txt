@@ -1,0 +1,7 @@
+INSERT qk number
+INSERT eD string
+LOOKUP qk
+INSERT mSUxPt string
+INSERT ad_eb number
+END
+INSERT j number

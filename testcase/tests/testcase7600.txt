@@ -1,0 +1,4 @@
+LOOKUP r1a
+PRINT
+INSERT ouAl3 string
+BEGIN

@@ -1,0 +1,18 @@
+LOOKUP sIae
+INSERT jMz string
+INSERT n string
+INSERT nSvE4 number
+BEGIN
+BEGIN
+INSERT bVklSB number
+nW j
+INSERT lF3c_ string
+INSERT gpiOG_ number
+INSERT pR number
+INSERT uae number
+PRINT
+LOOKUP bVklSB
+INSERT b number
+RPRINT
+LOOKUP gpiOG_
+INSERT s4Ml string

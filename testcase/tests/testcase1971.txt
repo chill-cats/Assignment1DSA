@@ -1,0 +1,27 @@
+INSERT l6 number
+INSERT eR number
+LOOKUP eR
+INSERT rkd string
+END
+INSERT b_rW string
+LOOKUP l6
+INSERT nrJg2 string
+END
+INSERT iWzSY number
+BEGIN
+INSERT zsu number
+INSERT zeMm string
+INSERT oqDtwl string
+INSERT b string
+INSERT bkoI string
+LOOKUP zeMm
+INSERT mBu string
+INSERT m number
+INSERT w string
+INSERT p5 number
+INSERT nVhsH5 string
+INSERT pd2R number
+LOOKUP w
+END
+INSERT mIuzB number
+INSERT ruK number

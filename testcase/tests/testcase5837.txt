@@ -1,0 +1,3 @@
+BEGIN
+INSERT g string
+b9h mxht

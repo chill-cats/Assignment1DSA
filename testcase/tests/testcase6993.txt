@@ -1,0 +1,3 @@
+INSERT fNr number
+ASSIGN fNr fNr
+INSERT en string

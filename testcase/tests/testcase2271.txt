@@ -1,0 +1,14 @@
+INSERT a string
+RPRINT
+END
+INSERT neFy number
+INSERT cl_X number
+END
+INSERT q string
+INSERT n3sZoX number
+LOOKUP n3sZoX
+INSERT zC number
+PRINT
+RPRINT
+END
+INSERT zaM3Hw string

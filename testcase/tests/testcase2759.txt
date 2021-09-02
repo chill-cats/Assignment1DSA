@@ -1,0 +1,31 @@
+INSERT e number
+INSERT taWUC string
+INSERT ai string
+RPRINT
+ASSIGN e e
+ASSIGN e e
+RPRINT
+ASSIGN taWUC 'DvF'
+INSERT tAgVh number
+INSERT fd string
+INSERT ee string
+END
+INSERT klrtFV number
+BEGIN
+INSERT n string
+INSERT w string
+RPRINT
+INSERT nUdu number
+INSERT lJd1M2 string
+INSERT wihjbJ string
+INSERT aH5 string
+LOOKUP lJd1M2
+ASSIGN lJd1M2 'Lbvla'
+INSERT hVci string
+INSERT p string
+ASSIGN nUdu taWUC
+INSERT dr string
+END
+END
+INSERT kpWeWd string
+INSERT vYA number

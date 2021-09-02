@@ -1,0 +1,25 @@
+PRINT
+INSERT z2G number
+INSERT kzg5i_ number
+INSERT n8K string
+INSERT k number
+INSERT lzcI string
+INSERT t8 string
+INSERT v string
+INSERT fW string
+PRINT
+ASSIGN n8K 2
+INSERT cpbW0j string
+ASSIGN t8 'lkCl'
+INSERT o4x number
+INSERT bFwJ number
+INSERT gPfkxs string
+LOOKUP t8
+INSERT xkV string
+BEGIN
+END
+INSERT iAz string
+INSERT oOCf number
+LOOKUP fW
+LOOKUP fW
+BEGIN

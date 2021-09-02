@@ -1,0 +1,33 @@
+nA h
+INSERT qz string
+INSERT m_0eq string
+LOOKUP qz
+INSERT lb number
+INSERT aX number
+LOOKUP aX
+BEGIN
+LOOKUP qz
+RPRINT
+INSERT v number
+LOOKUP aX
+INSERT kmX string
+INSERT accaPj number
+INSERT k0J number
+INSERT c number
+RPRINT
+LOOKUP v
+INSERT x50Pz number
+END
+INSERT sY4K string
+INSERT lsTJO string
+INSERT tJ string
+INSERT x number
+RPRINT
+INSERT d string
+INSERT yz string
+INSERT oy string
+INSERT aNxr string
+INSERT jFcbh7 string
+PRINT
+INSERT v01QN number
+INSERT mN string

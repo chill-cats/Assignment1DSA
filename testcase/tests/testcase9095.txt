@@ -1,0 +1,11 @@
+INSERT u number
+INSERT iVBtr string
+END
+BEGIN
+INSERT l string
+PRINT
+END
+LOOKUP iVBtr
+END
+INSERT uZ number
+INSERT c string

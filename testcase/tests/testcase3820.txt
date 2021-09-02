@@ -1,0 +1,15 @@
+INSERT ivsk string
+INSERT kBF3 number
+INSERT cjt string
+INSERT zj string
+LOOKUP cjt
+INSERT sINZj2 string
+BEGIN
+ASSIGN a1NRrz 46
+PRINT
+INSERT az6 number
+INSERT y2Tz number
+BEGIN
+INSERT ntm number
+LOOKUP y2Tz
+INSERT u83E number

@@ -1,0 +1,30 @@
+INSERT bvfL string
+INSERT w string
+INSERT myZMAm string
+INSERT j4 number
+INSERT eTC number
+INSERT eJfxZ string
+INSERT ab string
+INSERT w5bK string
+ASSIGN w myZMAm
+PRINT
+INSERT qyteuR string
+LOOKUP qyteuR
+ASSIGN eJfxZ 190
+de mGWuuS
+INSERT yJ number
+INSERT nH6zJr string
+INSERT lv9BF string
+PRINT
+ASSIGN w 791
+INSERT kVKzyu string
+vDm9 lW
+INSERT h number
+INSERT m number
+nC jiA0
+INSERT cKwk number
+PRINT
+ASSIGN cKwk 'M'
+INSERT wXxBH string
+INSERT f number
+END

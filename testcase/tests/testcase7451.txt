@@ -1,0 +1,20 @@
+INSERT zqp number
+INSERT w number
+BEGIN
+INSERT w_Mr number
+INSERT a6 string
+LOOKUP a6
+ASSIGN w_Mr 's'
+LOOKUP a6
+INSERT c string
+INSERT cj5nMO number
+RPRINT
+INSERT s5Io number
+INSERT nw6 number
+INSERT rxVp3x string
+INSERT z number
+INSERT aO string
+INSERT sw6 string
+END
+INSERT k8 string
+INSERT s5__0N string

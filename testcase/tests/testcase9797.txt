@@ -1,0 +1,22 @@
+INSERT yjRx string
+INSERT aI number
+BEGIN
+INSERT zAzZ3g string
+INSERT qP number
+INSERT qbm string
+LOOKUP zAzZ3g
+INSERT wgu string
+ASSIGN aI qbm
+INSERT i number
+LOOKUP i
+INSERT zaoaC string
+INSERT l string
+END
+LOOKUP zaoaC
+RPRINT
+INSERT nGlAqF number
+INSERT omlG string
+INSERT w string
+BEGIN
+END
+INSERT wX number

@@ -1,0 +1,15 @@
+RPRINT
+w8Qs kiV
+INSERT yPhrS string
+RPRINT
+RPRINT
+ASSIGN yPhrS 'RuX'
+ASSIGN yPhrS 813
+INSERT pBEM number
+INSERT c number
+INSERT vs string
+INSERT icx string
+INSERT x9r12M number
+INSERT bnmJZG string
+ASSIGN c pBEM
+RPRINT

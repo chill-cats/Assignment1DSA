@@ -1,0 +1,13 @@
+INSERT aF number
+INSERT r9w1JS string
+INSERT cIVCq string
+INSERT c string
+LOOKUP c
+INSERT er8x string
+END
+RPRINT
+LOOKUP aF
+INSERT u5 string
+INSERT x5S string
+END
+BEGIN

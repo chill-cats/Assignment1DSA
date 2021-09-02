@@ -1,0 +1,16 @@
+INSERT b53k string
+INSERT t6a number
+INSERT dKrFa string
+ASSIGN b53k 'rJ'
+END
+INSERT dltyb number
+ASSIGN dKrFa dltyb
+ASSIGN t6a t6a
+INSERT se4 string
+PRINT
+ASSIGN b53k 172
+ASSIGN se4 dKrFa
+INSERT isKzAn string
+INSERT bfwyy number
+ASSIGN bfwyy isKzAn
+gOr1 xRcr

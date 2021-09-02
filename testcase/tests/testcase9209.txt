@@ -1,0 +1,11 @@
+INSERT rqid string
+INSERT px9Th number
+INSERT j number
+LOOKUP px9Th
+INSERT eX_PYo string
+INSERT w7h string
+RPRINT
+INSERT aCHCgg number
+INSERT q0 number
+PRINT
+INSERT z string

@@ -1,0 +1,5 @@
+ASSIGN ojO 1021
+INSERT rzolcm string
+END
+INSERT z2J string
+LOOKUP rzolcm

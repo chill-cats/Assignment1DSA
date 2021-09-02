@@ -1,0 +1,35 @@
+INSERT dd string
+END
+BEGIN
+INSERT bQ string
+ASSIGN bQ 'kP5'
+INSERT peSG string
+INSERT hMC number
+PRINT
+INSERT w6u number
+INSERT vEj4 string
+INSERT osraY string
+INSERT n string
+INSERT r8 string
+INSERT h string
+INSERT ml string
+INSERT cds1uZ number
+INSERT egcX4 number
+INSERT oh1G number
+INSERT hO8M1 number
+INSERT qTGVo number
+INSERT o string
+INSERT iwgEEp number
+INSERT qEd8Q string
+INSERT uXxvh4 string
+INSERT rA string
+LOOKUP n
+INSERT a number
+xv_Q yZ1
+BEGIN
+END
+INSERT zS1 string
+LOOKUP ql
+ASSIGN qTGVo 'DcF'
+INSERT k string
+INSERT xX string

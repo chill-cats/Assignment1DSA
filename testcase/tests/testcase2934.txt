@@ -1,0 +1,8 @@
+INSERT d04 number
+INSERT uo string
+INSERT rG number
+INSERT lBu string
+LOOKUP uo
+INSERT evP2d number
+END
+INSERT gw string

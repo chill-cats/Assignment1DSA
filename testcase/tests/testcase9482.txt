@@ -1,0 +1,4 @@
+INSERT oXtd number
+END
+INSERT l number
+BEGIN

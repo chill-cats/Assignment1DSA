@@ -1,0 +1,17 @@
+wDS g1
+BEGIN
+s2uY3 e
+INSERT g string
+INSERT yKT number
+INSERT h0 number
+INSERT a5eqm string
+LOOKUP yKT
+INSERT x number
+INSERT iVD string
+INSERT gzB7 string
+INSERT uoQqt3 number
+INSERT cT number
+BEGIN
+INSERT fsd6 string
+INSERT pK number
+PRINT

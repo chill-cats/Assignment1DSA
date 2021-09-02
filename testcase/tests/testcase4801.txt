@@ -1,0 +1,12 @@
+acA jLV
+LOOKUP u5
+RPRINT
+xc5A jkCl
+END
+INSERT v number
+ASSIGN v 258
+INSERT cZh7a string
+INSERT yPgbd number
+PRINT
+INSERT gT string
+INSERT h number

@@ -1,0 +1,29 @@
+INSERT c0s3 string
+INSERT cvfQ_q string
+LOOKUP c0s3
+LOOKUP cvfQ_q
+RPRINT
+INSERT sf51sz string
+h5cFS wh4Wj
+ASSIGN sf51sz sf51sz
+LOOKUP sf51sz
+INSERT p number
+INSERT nMA string
+INSERT uQB number
+INSERT e string
+INSERT wlD3_ number
+BEGIN
+INSERT v number
+INSERT gq14 string
+END
+INSERT w string
+INSERT mkRudN string
+INSERT aER number
+RPRINT
+INSERT hq string
+INSERT vtc number
+pIs rXk
+END
+qifht xb
+RPRINT
+INSERT d4kSh string

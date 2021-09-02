@@ -1,0 +1,23 @@
+INSERT ib string
+BEGIN
+INSERT lToTVT number
+INSERT t7N number
+INSERT a string
+INSERT hvWI number
+ASSIGN t7N 'KSGI'
+RPRINT
+LOOKUP hvWI
+INSERT j06 number
+LOOKUP a
+INSERT wup string
+INSERT p number
+INSERT cgBef number
+INSERT gqUeeF number
+INSERT iSG number
+INSERT vaF5z string
+INSERT m number
+END
+PRINT
+INSERT w number
+LOOKUP m
+PRINT

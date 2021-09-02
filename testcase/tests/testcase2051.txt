@@ -1,0 +1,20 @@
+INSERT cFD number
+INSERT y1 number
+BEGIN
+BEGIN
+INSERT xrBlF number
+INSERT qP_y24 number
+END
+END
+LOOKUP qP_y24
+END
+LOOKUP qP_y24
+END
+END
+INSERT hU2GTV number
+INSERT fkw number
+RPRINT
+INSERT l number
+PRINT
+INSERT lkBJ string
+INSERT rY number

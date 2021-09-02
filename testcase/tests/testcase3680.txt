@@ -1,0 +1,10 @@
+INSERT jsP7Um number
+INSERT ylzLW0 string
+LOOKUP ylzLW0
+INSERT y string
+INSERT b0 number
+BEGIN
+RPRINT
+jr w3n9s
+PRINT
+ASSIGN y 'AecR'

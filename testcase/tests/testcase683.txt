@@ -1,0 +1,32 @@
+INSERT da number
+INSERT tl2Ws number
+INSERT gO number
+zr xH6G
+ASSIGN gO 'bzdSc'
+RPRINT
+INSERT jGxV number
+LOOKUP jGxV
+RPRINT
+INSERT b number
+INSERT yNUVy number
+INSERT ztLlUm string
+INSERT d8bv string
+LOOKUP gO
+END
+INSERT hkW string
+PRINT
+INSERT nZDU string
+PRINT
+INSERT mZ6Ub number
+INSERT nTu string
+INSERT pR5 string
+INSERT xoSj54 string
+PRINT
+INSERT ttk number
+INSERT hjYP29 number
+INSERT cYg string
+INSERT yrauF string
+INSERT z string
+INSERT p number
+INSERT vZDmLP string
+BEGIN

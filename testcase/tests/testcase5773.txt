@@ -1,0 +1,9 @@
+BEGIN
+INSERT dMU number
+INSERT uxGcmv number
+INSERT z3cY string
+BEGIN
+INSERT k_ string
+INSERT zJPNt string
+INSERT vc number
+ASSIGN z3cY 'cCo Z'

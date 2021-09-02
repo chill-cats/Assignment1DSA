@@ -1,0 +1,24 @@
+ASSIGN wHP2 'cjp'
+INSERT t7 string
+INSERT cYL string
+END
+INSERT e number
+INSERT tu4u string
+INSERT mOl_ number
+INSERT wGd2Z string
+INSERT faa number
+INSERT kt string
+INSERT lDkAR number
+INSERT dGk string
+END
+INSERT kZirJc string
+INSERT q number
+INSERT iH string
+PRINT
+INSERT l number
+PRINT
+INSERT h string
+INSERT wi number
+LOOKUP nPMR
+INSERT fL string
+INSERT frM9E3 number

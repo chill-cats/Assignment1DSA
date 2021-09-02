@@ -1,0 +1,37 @@
+RPRINT
+INSERT l string
+INSERT uXk string
+INSERT dpOvb9 number
+BEGIN
+INSERT v number
+INSERT g number
+INSERT ar number
+PRINT
+INSERT o number
+END
+PRINT
+INSERT b61J_n string
+INSERT hob1mQ number
+INSERT ysSiUt string
+ASSIGN v 622
+LOOKUP b61J_n
+RPRINT
+ASSIGN l 720
+INSERT xgEsL number
+INSERT uMb5_w string
+INSERT u string
+INSERT sNKkcF number
+INSERT uNLD_ number
+mLY z
+BEGIN
+PRINT
+INSERT tMUzN string
+LOOKUP g
+INSERT cOJw number
+INSERT t string
+INSERT iAiLn string
+END
+INSERT nQY string
+INSERT o41 number
+BEGIN
+PRINT

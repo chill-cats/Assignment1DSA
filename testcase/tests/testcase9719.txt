@@ -1,0 +1,33 @@
+INSERT fi number
+BEGIN
+INSERT hu82 number
+INSERT rgeo string
+PRINT
+RPRINT
+INSERT w number
+INSERT uIWFw6 number
+INSERT fnkG number
+RPRINT
+INSERT yyAZ number
+INSERT kshc string
+LOOKUP hu82
+INSERT n string
+BEGIN
+INSERT oblzQ number
+INSERT kGHU number
+ar_glG m9Nw4f
+LOOKUP hu82
+LOOKUP n
+INSERT xtt number
+INSERT cDRv4I string
+END
+x piGk25
+INSERT dqTNY number
+ASSIGN dqTNY uIWFw6
+INSERT sdh string
+INSERT lX string
+INSERT p56 number
+INSERT gq7 number
+INSERT x number
+INSERT yy number
+END

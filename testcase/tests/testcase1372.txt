@@ -1,0 +1,34 @@
+INSERT xS1k2R number
+RPRINT
+INSERT m2ke string
+RPRINT
+PRINT
+INSERT tJPpq string
+INSERT ulyK number
+END
+lCuv gDJXzE
+INSERT xf6kTI string
+INSERT p string
+INSERT jLpk string
+INSERT u2soI number
+INSERT fJ1 string
+RPRINT
+INSERT q string
+BEGIN
+LOOKUP p
+INSERT rHKu number
+INSERT r number
+INSERT n2nd string
+INSERT dk number
+RPRINT
+END
+ASSIGN xf6kTI '0QY'
+ASSIGN p 287
+INSERT j number
+INSERT uT string
+INSERT m number
+INSERT qB6ilJ string
+INSERT sAzO number
+INSERT oAy4 string
+BEGIN
+LOOKUP xf6kTI

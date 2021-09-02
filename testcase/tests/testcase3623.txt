@@ -1,0 +1,39 @@
+INSERT tU8 number
+PRINT
+BEGIN
+ASSIGN tU8 tU8
+END
+INSERT rC string
+INSERT rw number
+INSERT j4h number
+INSERT a4T number
+INSERT raM_J string
+ASSIGN j4h 447
+END
+INSERT gn7QJu string
+INSERT f number
+INSERT h string
+INSERT sNfdcI number
+END
+INSERT peF string
+INSERT xFI number
+INSERT mYjggM string
+yDlJ0Y a7
+INSERT k8T string
+LOOKUP h
+INSERT jtO number
+PRINT
+INSERT jg number
+INSERT ipXFS7 string
+INSERT p string
+LOOKUP rC
+INSERT ef number
+LOOKUP jg
+INSERT ctU number
+LOOKUP xFI
+INSERT c string
+LOOKUP tU8
+LOOKUP mYjggM
+INSERT khn096 string
+INSERT zSn8 string
+BEGIN

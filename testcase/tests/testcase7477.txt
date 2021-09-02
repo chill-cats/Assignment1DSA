@@ -1,0 +1,8 @@
+INSERT p string
+END
+INSERT jBhnw string
+END
+INSERT p7d number
+LOOKUP jBhnw
+sOAyD yt4
+INSERT jRA number

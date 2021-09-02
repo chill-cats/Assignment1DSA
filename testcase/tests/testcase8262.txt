@@ -1,0 +1,14 @@
+INSERT p string
+z1O lKlA
+INSERT vM1b number
+INSERT b6K string
+PRINT
+INSERT hp string
+PRINT
+INSERT fC string
+PRINT
+BEGIN
+INSERT x string
+INSERT u string
+INSERT dg6 number
+RPRINT

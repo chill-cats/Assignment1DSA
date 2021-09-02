@@ -1,0 +1,16 @@
+RPRINT
+oCohaj psvyAk
+INSERT v number
+INSERT aO number
+PRINT
+INSERT sAjz50 number
+LOOKUP sAjz50
+END
+INSERT tQFzC string
+k6jEk mLqj
+INSERT fm1G string
+INSERT koq string
+INSERT vX string
+END
+INSERT ydCK string
+INSERT wi string

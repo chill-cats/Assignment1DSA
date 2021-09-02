@@ -1,0 +1,15 @@
+INSERT fc string
+BEGIN
+INSERT xei string
+INSERT pgD3 number
+INSERT oQXIP number
+INSERT iL string
+INSERT tnsF number
+pZyD6 ac860s
+LOOKUP oQXIP
+PRINT
+RPRINT
+INSERT dLS8 string
+INSERT teM0 number
+BEGIN
+ASSIGN tnsF 'T'

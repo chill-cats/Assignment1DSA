@@ -1,0 +1,15 @@
+BEGIN
+BEGIN
+LOOKUP jygSzj
+RPRINT
+INSERT aX5 number
+ASSIGN aX5 aX5
+INSERT b number
+INSERT t31s number
+RPRINT
+INSERT kzKRS string
+RPRINT
+PRINT
+LOOKUP aX5
+INSERT inuiD string
+INSERT i string

@@ -1,0 +1,11 @@
+INSERT jnHDam number
+INSERT cIE7q number
+ASSIGN cIE7q 'YAF'
+INSERT raAZbt number
+INSERT jw string
+INSERT rN number
+INSERT qGb number
+INSERT fEro string
+RPRINT
+INSERT qHX9N string
+PRINT

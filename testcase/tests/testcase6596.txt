@@ -1,0 +1,25 @@
+INSERT pyi3 string
+INSERT gvI number
+INSERT k number
+INSERT utTa string
+INSERT c1yo number
+INSERT q number
+END
+INSERT wL string
+INSERT qLh string
+INSERT h6ti string
+INSERT ytYw number
+INSERT f number
+INSERT tia5z number
+INSERT di number
+ASSIGN di f
+ASSIGN c1yo di
+eu wCygVs
+INSERT ij number
+INSERT w number
+ASSIGN pyi3 '5'
+LOOKUP ij
+INSERT zyaqO string
+LOOKUP utTa
+INSERT gNLelQ string
+END

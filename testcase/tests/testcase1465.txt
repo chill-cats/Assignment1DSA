@@ -1,0 +1,8 @@
+INSERT aHnsS number
+PRINT
+RPRINT
+END
+ASSIGN aHnsS 'oF'
+PRINT
+BEGIN
+INSERT p string

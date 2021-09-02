@@ -1,0 +1,22 @@
+RPRINT
+LOOKUP mq8I
+END
+PRINT
+zN qd386O
+INSERT k5obE number
+INSERT u8 string
+INSERT vy string
+INSERT uiI17d number
+INSERT aib number
+INSERT fEocS number
+RPRINT
+BEGIN
+BEGIN
+RPRINT
+INSERT l6 number
+ASSIGN vy u8
+LOOKUP k5obE
+ASSIGN x 948
+INSERT v9zt string
+mz1 nTcF
+INSERT kp number

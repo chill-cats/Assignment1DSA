@@ -1,0 +1,36 @@
+INSERT pM number
+INSERT dLW2 number
+INSERT asX string
+INSERT rT string
+BEGIN
+END
+INSERT x891D string
+INSERT i string
+INSERT tl1 number
+INSERT lsQeJ number
+RPRINT
+INSERT okAgVD number
+INSERT g8Od string
+INSERT zmjX4Y string
+INSERT pHjE number
+ASSIGN x891D 647
+INSERT n string
+INSERT bG1 number
+INSERT iLh number
+INSERT wwYG string
+END
+INSERT gR string
+INSERT q1e string
+INSERT owdYiw number
+INSERT ae1 number
+PRINT
+INSERT pa string
+INSERT b2VC0G number
+PRINT
+INSERT h0 number
+INSERT j_X string
+INSERT ks31z string
+PRINT
+PRINT
+INSERT hV string
+END

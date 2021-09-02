@@ -1,0 +1,16 @@
+INSERT erWm string
+END
+INSERT d_tLBG number
+ASSIGN erWm 'I'
+RPRINT
+INSERT gc string
+RPRINT
+INSERT cp string
+INSERT r3bO number
+INSERT yRQC number
+INSERT eVTK7 number
+PRINT
+RPRINT
+INSERT gWfvq string
+INSERT rR5dw string
+PRINT

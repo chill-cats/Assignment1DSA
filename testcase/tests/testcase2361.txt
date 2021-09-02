@@ -1,0 +1,12 @@
+BEGIN
+INSERT iE string
+ASSIGN iE '6'
+INSERT r8xj3 string
+RPRINT
+INSERT lo5tN string
+INSERT tc string
+INSERT v42 number
+INSERT mA6DEs string
+RPRINT
+INSERT sk number
+END

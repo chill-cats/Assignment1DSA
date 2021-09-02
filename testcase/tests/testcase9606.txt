@@ -1,0 +1,24 @@
+INSERT oD number
+PRINT
+INSERT xb number
+BEGIN
+INSERT hrZFX string
+INSERT tVirG number
+INSERT hIWlF string
+BEGIN
+INSERT g2Cfr number
+a sX
+LOOKUP xb
+INSERT lv number
+ASSIGN tVirG 'aNGpt'
+INSERT ybF string
+ASSIGN xb tVirG
+BEGIN
+INSERT vMB2Z_ string
+INSERT uR number
+INSERT js string
+INSERT jZuh number
+LOOKUP hrZFX
+PRINT
+LOOKUP xb
+END

@@ -1,0 +1,28 @@
+RPRINT
+INSERT s number
+INSERT o1H6 string
+RPRINT
+INSERT zkB6 number
+INSERT rEhX number
+INSERT bPdj string
+INSERT yWe number
+INSERT z string
+INSERT mlm9O number
+INSERT rF number
+INSERT nC string
+RPRINT
+INSERT l5doxp string
+INSERT tHErWr string
+INSERT jTaj3 string
+xV1 y
+aXDQ9 u15sH3
+INSERT smjJnC string
+INSERT d number
+BEGIN
+PRINT
+INSERT g number
+RPRINT
+INSERT zlqCX string
+INSERT wby number
+LOOKUP rF
+BEGIN

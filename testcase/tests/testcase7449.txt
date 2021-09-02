@@ -1,0 +1,8 @@
+PRINT
+END
+INSERT pknXlw number
+INSERT immi5 string
+RPRINT
+INSERT hXN9oM string
+INSERT kA4vh string
+ASSIGN pknXlw 3

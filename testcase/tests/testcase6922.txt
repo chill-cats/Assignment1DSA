@@ -1,0 +1,28 @@
+INSERT l string
+INSERT eP5 number
+INSERT a number
+INSERT x number
+PRINT
+RPRINT
+RPRINT
+INSERT t2o1v number
+END
+INSERT d08 string
+INSERT bNy9S number
+INSERT t string
+y zCB3
+INSERT cahmt number
+INSERT eX number
+INSERT sYwCq string
+INSERT oXCOa string
+INSERT wtsk number
+PRINT
+INSERT xxB string
+END
+ASSIGN l 'MR'
+INSERT bGz6 number
+RPRINT
+RPRINT
+INSERT v number
+INSERT w_z string
+INSERT p5cj string

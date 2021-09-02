@@ -1,0 +1,6 @@
+PRINT
+INSERT eIcSlW string
+INSERT grej string
+INSERT w number
+INSERT wJYA number
+INSERT iJ string

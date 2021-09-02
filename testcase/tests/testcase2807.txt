@@ -1,0 +1,4 @@
+INSERT z_lv string
+ASSIGN z_lv 127
+BEGIN
+ASSIGN z_lv z_lv

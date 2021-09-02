@@ -1,0 +1,13 @@
+INSERT dI3 string
+INSERT i string
+INSERT w string
+BEGIN
+RPRINT
+INSERT ixE number
+INSERT yl number
+LOOKUP yl
+INSERT pEqIDe number
+INSERT s string
+INSERT lG5 string
+RPRINT
+LOOKUP i

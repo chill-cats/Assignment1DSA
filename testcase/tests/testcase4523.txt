@@ -1,0 +1,33 @@
+LOOKUP t9KOyE
+INSERT j_Z1hb string
+LOOKUP j_Z1hb
+LOOKUP j_Z1hb
+END
+INSERT tPCGU string
+INSERT s string
+INSERT vjD4AI string
+INSERT wIg number
+RPRINT
+INSERT yyyI string
+RPRINT
+BEGIN
+ASSIGN tPCGU 58
+PRINT
+INSERT v string
+PRINT
+INSERT qLV number
+INSERT qCU2PH number
+END
+BEGIN
+INSERT xZOrA number
+INSERT o number
+ASSIGN qCU2PH yyyI
+INSERT k string
+INSERT x5SKZv string
+INSERT tKj number
+ASSIGN xZOrA 617
+INSERT m number
+INSERT rE number
+INSERT uaw string
+BEGIN
+INSERT sTNqa string

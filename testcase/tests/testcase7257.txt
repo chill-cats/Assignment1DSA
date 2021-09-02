@@ -1,0 +1,27 @@
+INSERT nm9up string
+INSERT r2 number
+INSERT q number
+INSERT onTVwx number
+INSERT wZ4cAG string
+END
+LOOKUP nm9up
+INSERT lzU string
+INSERT jr number
+INSERT h6Q string
+INSERT k7IS string
+INSERT oU string
+INSERT v9wsM1 number
+LOOKUP nm9up
+INSERT tSR string
+INSERT n_b string
+PRINT
+PRINT
+INSERT ubh number
+PRINT
+INSERT g number
+INSERT u string
+INSERT y number
+INSERT h0aq string
+INSERT f number
+END
+INSERT aDNH1c string

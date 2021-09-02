@@ -1,0 +1,10 @@
+INSERT edUQU string
+INSERT sP string
+INSERT bc number
+PRINT
+INSERT qk8 string
+END
+LOOKUP sP
+c tZM
+INSERT t number
+INSERT psVK number

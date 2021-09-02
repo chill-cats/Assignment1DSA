@@ -1,0 +1,12 @@
+PRINT
+INSERT ngm42b number
+ASSIGN ngm42b 'AS1Z'
+q f7uBo
+INSERT nrp6na number
+PRINT
+BEGIN
+LOOKUP nrp6na
+INSERT u string
+INSERT p number
+o0l f2z9t
+RPRINT

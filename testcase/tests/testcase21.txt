@@ -1,0 +1,36 @@
+INSERT f string
+INSERT rU3fr6 number
+INSERT b4 string
+LOOKUP b4
+INSERT zM number
+INSERT no string
+INSERT r5ZCl number
+INSERT fUYji number
+INSERT jVV3D string
+PRINT
+INSERT eWZ number
+PRINT
+INSERT molDf string
+INSERT t8s5 string
+INSERT dh4eoY string
+INSERT j3MD1k number
+INSERT pwnWI number
+eJO kLG
+INSERT z string
+ASSIGN zM 468
+INSERT q2xYU string
+PRINT
+INSERT f17RBb number
+INSERT rieZ4u string
+PRINT
+ASSIGN dh4eoY pwnWI
+INSERT i number
+ASSIGN i 886
+INSERT t number
+INSERT t1h string
+n fp
+INSERT fF_gA1 string
+INSERT ctEX string
+PRINT
+jTEp01 gWJe
+INSERT egb_ string

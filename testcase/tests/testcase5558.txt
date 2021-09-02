@@ -1,0 +1,36 @@
+INSERT x number
+RPRINT
+INSERT cUl number
+LOOKUP x
+PRINT
+INSERT bz7 string
+INSERT cR_ number
+LOOKUP cR_
+RPRINT
+LOOKUP cUl
+INSERT jOx0I number
+INSERT iQi_nN string
+INSERT gn number
+INSERT cYxVg string
+INSERT cYbiR string
+INSERT zcR number
+INSERT a string
+LOOKUP bz7
+INSERT aqRD number
+INSERT dfAEU number
+INSERT i5 string
+INSERT s number
+INSERT qK_ number
+RPRINT
+PRINT
+INSERT cxMXDE number
+INSERT bC number
+INSERT gCe string
+BEGIN
+RPRINT
+INSERT qa1 string
+END
+ASSIGN i5 'CN'
+INSERT zj number
+INSERT yQupWX string
+INSERT wKPl string

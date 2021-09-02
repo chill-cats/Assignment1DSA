@@ -1,0 +1,27 @@
+INSERT hy string
+INSERT qt7qJL number
+INSERT zC string
+RPRINT
+INSERT vNn number
+LOOKUP hy
+INSERT vO_5t number
+INSERT q number
+INSERT nhx number
+INSERT vnNbqn string
+INSERT y5Uf number
+INSERT l string
+INSERT oNSb number
+ASSIGN hy y5Uf
+INSERT tI0vW number
+INSERT pv7oM string
+RPRINT
+END
+LOOKUP zC
+END
+INSERT zEuPIk string
+INSERT edE1T string
+INSERT nVXx number
+BEGIN
+INSERT mU string
+PRINT
+INSERT pzVp5N number

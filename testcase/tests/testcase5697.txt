@@ -1,0 +1,11 @@
+INSERT ja number
+INSERT y number
+RPRINT
+INSERT hUT string
+INSERT iHMTAc string
+BEGIN
+uK q
+INSERT f1nYFU string
+INSERT oRs8f number
+INSERT veal number
+INSERT kl number

@@ -1,0 +1,28 @@
+INSERT gXGs8 number
+INSERT ttF string
+BEGIN
+INSERT dD string
+INSERT dce string
+END
+INSERT bMX string
+INSERT cPR1rp number
+INSERT gZ6i_o string
+INSERT zq number
+END
+bDqlQ u1ro
+LOOKUP gXGs8
+BEGIN
+RPRINT
+INSERT y number
+INSERT rX string
+LOOKUP ttF
+INSERT i7AtK number
+INSERT giItKC number
+BEGIN
+END
+ASSIGN y 'upnRA'
+INSERT yhoO string
+END
+INSERT iC number
+INSERT fgjTI string
+INSERT x99 number

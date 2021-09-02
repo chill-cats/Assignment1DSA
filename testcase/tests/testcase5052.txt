@@ -1,0 +1,17 @@
+ASSIGN sXdL 380
+INSERT qpeX2j number
+INSERT vhr number
+INSERT u number
+INSERT zlnF string
+ASSIGN zlnF vhr
+INSERT pAaYOo string
+INSERT a number
+INSERT ajwL string
+INSERT fEEoV4 string
+LOOKUP zlnF
+INSERT nL string
+PRINT
+INSERT u number
+INSERT onkLkL string
+INSERT kCP number
+BEGIN

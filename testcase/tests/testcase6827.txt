@@ -1,0 +1,14 @@
+INSERT domdO number
+INSERT pN string
+INSERT xlU number
+INSERT n string
+ASSIGN domdO 776
+INSERT r number
+INSERT w9OuUT number
+INSERT kleMO string
+LOOKUP domdO
+INSERT v_ string
+INSERT fDR7 string
+INSERT e number
+PRINT
+INSERT zMq number

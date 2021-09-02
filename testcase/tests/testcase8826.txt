@@ -1,0 +1,27 @@
+kv9CB8 l
+INSERT iU1Wqo number
+INSERT k string
+INSERT yKfBR string
+INSERT u string
+INSERT cAosP number
+INSERT tZy2J string
+INSERT fl number
+vMatH iO
+uc7Jp vPOLrl
+INSERT qU3nJ string
+ASSIGN cAosP 1212
+INSERT mR_DG number
+PRINT
+INSERT xXYn number
+INSERT bmjFY number
+INSERT bHzA9 number
+LOOKUP tZy2J
+RPRINT
+RPRINT
+INSERT a string
+INSERT qdcJv number
+INSERT wylW string
+INSERT z83 number
+INSERT mARIkk string
+LOOKUP t
+INSERT f1Z_ number

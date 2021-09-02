@@ -1,0 +1,23 @@
+INSERT fwd number
+INSERT zac number
+INSERT mn number
+INSERT fX string
+INSERT o string
+END
+INSERT eAA2fd string
+PRINT
+LOOKUP fX
+INSERT d number
+PRINT
+INSERT dPwQsd string
+LOOKUP fX
+INSERT u string
+INSERT fHPtSf string
+INSERT fEGz string
+PRINT
+RPRINT
+RPRINT
+INSERT d string
+INSERT z number
+INSERT eWY number
+LOOKUP z

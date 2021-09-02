@@ -1,0 +1,37 @@
+INSERT rn number
+INSERT c string
+INSERT kG5 string
+INSERT ouims number
+LOOKUP c
+LOOKUP ouims
+INSERT rkxy0 string
+ASSIGN rn rkxy0
+END
+PRINT
+ASSIGN kG5 1019
+INSERT w string
+ASSIGN nP 'J4'
+INSERT c6r string
+lPS r_ZYIY
+RPRINT
+ezBo7 cxU
+INSERT g number
+RPRINT
+BEGIN
+LOOKUP ouims
+INSERT fj number
+INSERT hl number
+END
+LOOKUP w
+INSERT oV number
+RPRINT
+INSERT lc string
+ASSIGN lc rkxy0
+END
+INSERT c1N number
+INSERT m number
+tDrcv c
+LOOKUP c1N
+ASSIGN gyUd4C 'juSR'
+INSERT bos67 number
+INSERT uo5x4o string

@@ -1,0 +1,16 @@
+INSERT yntoPE number
+RPRINT
+INSERT eKBH number
+ASSIGN yntoPE yntoPE
+BEGIN
+INSERT fLzB1 string
+INSERT nZN number
+LOOKUP eKBH
+INSERT koi number
+INSERT y3O string
+INSERT svR number
+INSERT vb string
+RPRINT
+INSERT tNEY string
+RPRINT
+lp vs

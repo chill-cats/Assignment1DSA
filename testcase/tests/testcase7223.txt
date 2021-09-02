@@ -1,0 +1,3 @@
+INSERT eSodJH number
+INSERT hrm09 number
+INSERT cg number

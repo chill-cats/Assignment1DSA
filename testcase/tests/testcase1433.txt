@@ -1,0 +1,14 @@
+INSERT uBX number
+INSERT iU1 number
+ASSIGN uBX 1133
+INSERT q number
+LOOKUP iU1
+INSERT a string
+o2 xfY503
+INSERT sX5o0 number
+INSERT wOUt string
+BEGIN
+PRINT
+INSERT d0oJs string
+INSERT anD97t string
+LOOKUP a

@@ -1,0 +1,17 @@
+xC gjwA
+INSERT b string
+LOOKUP b
+INSERT vx0wGW number
+ASSIGN vx0wGW 'KqLAg'
+INSERT uw2A string
+INSERT jPw string
+INSERT oO3 number
+INSERT cdd number
+PRINT
+INSERT m2Mk string
+INSERT iM18X0 number
+INSERT u number
+m1Xr sVA
+g diQ
+ASSIGN jPw oO3
+ASSIGN iM18X0 293

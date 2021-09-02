@@ -1,0 +1,36 @@
+ASSIGN gSeN 606
+INSERT jXq string
+INSERT pG6p string
+INSERT mQ8 number
+INSERT tRu string
+i_L6 tGyt
+ASSIGN tRu 361
+ASSIGN tRu 'cfy'
+INSERT ic0Dc string
+INSERT le number
+END
+INSERT hRlaM number
+INSERT zJd3il string
+END
+INSERT cLxALr number
+k klfe
+INSERT qJ3R3H string
+INSERT cW1V string
+INSERT qn2LCo number
+INSERT u5 string
+INSERT eX string
+END
+INSERT xpK string
+INSERT ot number
+INSERT kfRK string
+INSERT s number
+INSERT xdW3 number
+INSERT yp7XPv string
+INSERT qmi string
+INSERT zxX3rR number
+INSERT xxS7 number
+END
+INSERT yC string
+RPRINT
+END
+INSERT vzB string

@@ -1,0 +1,6 @@
+PRINT
+tjSqE0 wI
+PRINT
+INSERT aITuA6 number
+INSERT c string
+END

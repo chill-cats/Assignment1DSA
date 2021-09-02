@@ -1,0 +1,20 @@
+INSERT w1oS string
+RPRINT
+BEGIN
+LOOKUP w1oS
+INSERT sCJ6V number
+RPRINT
+bNVV1 jg
+INSERT k5C string
+sT bQg
+INSERT aOONCZ string
+RPRINT
+INSERT iryR number
+PRINT
+INSERT aWvY number
+INSERT u number
+BEGIN
+BEGIN
+INSERT w5r6 string
+END
+ASSIGN sCJ6V w1oS

@@ -1,0 +1,10 @@
+INSERT s6gx9 string
+INSERT p string
+INSERT h number
+PRINT
+PRINT
+INSERT s8Z string
+wa c
+LOOKUP h
+BEGIN
+INSERT uzY string

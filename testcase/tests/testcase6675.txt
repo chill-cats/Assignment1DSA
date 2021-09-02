@@ -1,0 +1,21 @@
+INSERT tnEfw number
+INSERT qOS string
+INSERT kBHbMX string
+RPRINT
+ASSIGN kBHbMX tnEfw
+INSERT rZsgOO number
+ASSIGN qOS 1003
+END
+INSERT tsSF3 string
+END
+INSERT l4In7 number
+INSERT zflv string
+END
+INSERT z number
+INSERT skn8 string
+INSERT nUh string
+RPRINT
+INSERT zccd string
+BEGIN
+INSERT cl number
+INSERT dE string

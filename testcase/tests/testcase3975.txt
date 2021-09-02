@@ -1,0 +1,22 @@
+RPRINT
+INSERT cz string
+RPRINT
+INSERT x1SgZ number
+INSERT dEH6KQ string
+INSERT hdXP string
+RPRINT
+INSERT l number
+oDN cDP1Qi
+INSERT l1Pl string
+INSERT aB3XAu number
+INSERT fF2o_ string
+INSERT iqK3Q string
+INSERT xVkbFo string
+INSERT fE1joT number
+INSERT e5lr string
+z_ uEk
+INSERT jVg string
+ASSIGN aB3XAu 471
+LOOKUP fF2o_
+INSERT z string
+INSERT p0VPL number

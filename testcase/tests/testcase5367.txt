@@ -1,0 +1,25 @@
+INSERT jx9 number
+ASSIGN jx9 514
+INSERT kpV number
+ASSIGN kpV kpV
+INSERT uUDDo string
+INSERT h string
+PRINT
+INSERT gB7 string
+INSERT q string
+INSERT m string
+BEGIN
+INSERT pK63c number
+INSERT uyrkr string
+INSERT qu string
+INSERT czA string
+INSERT r0B3 number
+INSERT wi8 number
+END
+END
+INSERT hq number
+ol q
+INSERT c string
+INSERT krn string
+kO5 mWf9
+LOOKUP gB7

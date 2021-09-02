@@ -1,0 +1,7 @@
+ASSIGN z 'fZsZT'
+INSERT j9z5h number
+RPRINT
+INSERT l string
+hf2E j
+PRINT
+INSERT g number

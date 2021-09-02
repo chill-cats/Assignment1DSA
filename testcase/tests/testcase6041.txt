@@ -1,0 +1,19 @@
+BEGIN
+INSERT wasYK string
+INSERT a6_j number
+rYDhA wAYg
+INSERT lCFCzB number
+END
+ASSIGN lCFCzB 935
+INSERT xj string
+INSERT iTscnE number
+INSERT u string
+INSERT z number
+INSERT t number
+ASSIGN t 'k'
+ASSIGN wasYK 'QkF'
+END
+INSERT vlRZJ string
+INSERT erIJ number
+INSERT v4 number
+INSERT ddaP4x number

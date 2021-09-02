@@ -1,0 +1,31 @@
+INSERT cJK8 number
+RPRINT
+LOOKUP cJK8
+INSERT v string
+INSERT cpdY number
+INSERT ss5_ number
+INSERT rr number
+INSERT nve string
+INSERT p string
+INSERT jC number
+INSERT s2d number
+INSERT dirTO number
+PRINT
+INSERT tg string
+RPRINT
+RPRINT
+END
+INSERT v string
+PRINT
+ASSIGN cJK8 'xB'
+LOOKUP dirTO
+iiqmpf apwnYu
+INSERT bz string
+RPRINT
+RPRINT
+INSERT mS string
+INSERT o string
+INSERT vpgAV number
+INSERT f number
+INSERT cZbG number
+END

@@ -1,0 +1,32 @@
+INSERT iX number
+END
+INSERT wCnN string
+INSERT i8pdz number
+INSERT jEIuz number
+INSERT lr6 string
+INSERT cmUw number
+INSERT mJDUw string
+LOOKUP i8pdz
+INSERT w string
+RPRINT
+END
+ASSIGN wCnN i8pdz
+INSERT eSvDv string
+LOOKUP wCnN
+END
+INSERT pq number
+INSERT fw8mh string
+ASSIGN wCnN eSvDv
+RPRINT
+INSERT koQHe2 number
+BEGIN
+INSERT zx number
+INSERT lLFSv number
+f8E xUGf
+INSERT i number
+PRINT
+INSERT q8NAD number
+INSERT vsvD string
+INSERT nNEF number
+END
+rSI3 o24H

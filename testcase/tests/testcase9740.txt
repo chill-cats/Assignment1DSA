@@ -1,0 +1,22 @@
+INSERT rmf number
+INSERT uWK number
+INSERT q_G string
+INSERT c number
+INSERT ud number
+INSERT vZb1 number
+INSERT y6bui string
+INSERT gTI string
+ASSIGN y6bui 152
+INSERT loo string
+RPRINT
+INSERT g1i string
+INSERT m number
+BEGIN
+INSERT bORC number
+INSERT i number
+INSERT yaki string
+INSERT b number
+INSERT jW number
+ASSIGN jW 6
+LOOKUP bORC
+INSERT za9aXK number

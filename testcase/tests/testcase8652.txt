@@ -1,0 +1,40 @@
+END
+PRINT
+INSERT l number
+INSERT dzbSp string
+INSERT kQp4 string
+INSERT sm number
+INSERT aBKpu string
+INSERT h4n number
+INSERT sW string
+INSERT o string
+BEGIN
+INSERT rbFWe string
+INSERT l string
+END
+INSERT ocSWW number
+ASSIGN sW l
+LOOKUP aBKpu
+LOOKUP sm
+INSERT qJ20FG string
+INSERT j string
+RPRINT
+INSERT b6I6v number
+ASSIGN rbFWe sm
+INSERT p number
+INSERT mE string
+INSERT cAsvJ number
+INSERT usnA number
+INSERT vZck_P number
+LOOKUP aBKpu
+INSERT a number
+BEGIN
+INSERT tMeX number
+INSERT lJNr number
+PRINT
+INSERT tqkhN string
+INSERT s string
+INSERT jSCO string
+INSERT upT number
+LOOKUP mE
+INSERT m7SSm number

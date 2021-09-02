@@ -1,0 +1,16 @@
+BEGIN
+INSERT cXJ number
+INSERT v number
+END
+INSERT vXamg3 string
+INSERT rU_j string
+INSERT f6oHnU number
+INSERT qwD4 number
+PRINT
+END
+LOOKUP vXamg3
+INSERT j1D string
+INSERT j string
+INSERT b9Aeu number
+BEGIN
+RPRINT

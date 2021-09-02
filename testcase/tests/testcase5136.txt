@@ -1,0 +1,20 @@
+PRINT
+ASSIGN opA 'P'
+INSERT kqU_e number
+INSERT j number
+BEGIN
+INSERT wKc number
+ASSIGN wKc 'VnfN'
+INSERT o number
+RPRINT
+INSERT f number
+END
+INSERT w string
+INSERT qzV number
+INSERT c string
+INSERT n5eSg number
+vmr1Pe cP
+INSERT aar6 number
+INSERT uBkMoP number
+LOOKUP wKc
+LOOKUP oGQV

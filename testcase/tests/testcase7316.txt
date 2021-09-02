@@ -1,0 +1,21 @@
+INSERT aW number
+INSERT jI string
+INSERT fO string
+INSERT zQgk string
+RPRINT
+ASSIGN aW zQgk
+INSERT x2TkHN string
+INSERT xEX95x string
+INSERT qpZm number
+INSERT frL1d number
+INSERT hT string
+INSERT hU string
+INSERT o string
+INSERT qQxaET number
+INSERT ki6_2F number
+INSERT e string
+BEGIN
+END
+INSERT s0FOjv number
+INSERT lKMPjN string
+INSERT dCn number

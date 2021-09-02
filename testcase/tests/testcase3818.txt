@@ -1,0 +1,20 @@
+END
+INSERT vbAZ number
+INSERT iLb number
+LOOKUP vbAZ
+INSERT yY1 number
+INSERT b1e_O string
+PRINT
+END
+INSERT pl3ds string
+INSERT gifdI string
+ASSIGN iLb gifdI
+INSERT i number
+INSERT wPwg string
+d1I w8kn
+INSERT c number
+INSERT uKV6n6 number
+INSERT vVtb number
+INSERT t8 number
+END
+LOOKUP c

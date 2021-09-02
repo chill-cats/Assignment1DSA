@@ -1,0 +1,37 @@
+RPRINT
+INSERT oJr string
+LOOKUP oJr
+INSERT epBxe string
+INSERT i string
+INSERT e3p number
+ASSIGN e3p 712
+INSERT h0 number
+INSERT t5ZF string
+PRINT
+INSERT vSY number
+INSERT tvdw string
+INSERT spV string
+INSERT g3Zk number
+INSERT qlyHi1 string
+INSERT jL8__Y number
+LOOKUP qlyHi1
+i t
+ASSIGN epBxe h0
+BEGIN
+INSERT vtT string
+INSERT vt3z string
+INSERT fe number
+INSERT k6XmaP number
+INSERT xnw6R0 string
+jprz0 yy
+BEGIN
+INSERT xlpn number
+END
+BEGIN
+jWz efBcZ_
+INSERT kUHTO string
+INSERT gjKmi number
+BEGIN
+INSERT yPovP number
+INSERT s_F1Y number
+ASSIGN e3p '5Nd'

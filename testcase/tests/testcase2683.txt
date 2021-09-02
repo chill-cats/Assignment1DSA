@@ -1,0 +1,35 @@
+LOOKUP sXPRjy
+INSERT znFF5 number
+INSERT i1Hwr number
+INSERT yT51ND string
+PRINT
+INSERT p string
+RPRINT
+INSERT yM number
+INSERT qzGD string
+INSERT xW1d string
+LOOKUP yM
+ASSIGN qzGD qzGD
+RPRINT
+INSERT blm number
+INSERT g string
+BEGIN
+INSERT i string
+INSERT xQ0pGi string
+END
+PRINT
+INSERT tOBkip string
+BEGIN
+INSERT hgm number
+INSERT qIC string
+INSERT wPp number
+INSERT fV string
+BEGIN
+INSERT sNFW number
+INSERT cf number
+END
+INSERT wm0MWT number
+INSERT p number
+lXP kCES
+INSERT r number
+INSERT xn string

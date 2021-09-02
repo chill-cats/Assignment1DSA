@@ -1,0 +1,25 @@
+RPRINT
+BEGIN
+RPRINT
+RPRINT
+ASSIGN lkt 667
+INSERT u5Rv4c string
+INSERT bp number
+LOOKUP u5Rv4c
+INSERT q5h string
+ASSIGN u5Rv4c bp
+r jiBI_B
+LOOKUP bp
+LOOKUP q5h
+BEGIN
+INSERT y2 string
+ASSIGN bp 'DDOFw'
+INSERT y1 number
+INSERT e string
+INSERT qlE7Ds string
+RPRINT
+END
+INSERT rtoJgz number
+INSERT fvld number
+PRINT
+mnn om

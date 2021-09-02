@@ -1,0 +1,30 @@
+INSERT a string
+ASSIGN a 'SId4'
+INSERT v number
+INSERT aEG number
+RPRINT
+INSERT jNx number
+LOOKUP jNx
+INSERT jvL number
+INSERT hae string
+INSERT xh6oJj string
+INSERT bU7u number
+INSERT j number
+zEdfP hLk_zv
+PRINT
+INSERT ourtul number
+BEGIN
+i11F jgf
+INSERT r_MB string
+INSERT i string
+INSERT lMtV number
+ASSIGN r_MB 'iOrsV'
+INSERT xHrEOw number
+PRINT
+LOOKUP ourtul
+BEGIN
+ko2 segCG
+INSERT r7kJW number
+PRINT
+INSERT jDlAIJ number
+INSERT f number

@@ -1,0 +1,28 @@
+RPRINT
+INSERT j number
+INSERT hG8di number
+INSERT f number
+INSERT zYdn number
+INSERT eY number
+INSERT mCDG number
+BEGIN
+INSERT f string
+INSERT sJ string
+INSERT l string
+INSERT h6QrqX string
+BEGIN
+LOOKUP eY
+eF trz
+INSERT aJNxP number
+INSERT r string
+INSERT qNAq0 string
+b ex
+INSERT dXUQB number
+ASSIGN f 'sU'
+INSERT r number
+iqN_S z
+LOOKUP f
+INSERT f number
+INSERT d string
+RPRINT
+INSERT kVMj number

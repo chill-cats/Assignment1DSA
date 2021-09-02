@@ -1,0 +1,4 @@
+INSERT f string
+BEGIN
+INSERT nrWdm4 number
+PRINT

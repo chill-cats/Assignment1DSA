@@ -1,0 +1,10 @@
+INSERT kW number
+INSERT rBXAa number
+RPRINT
+INSERT czCX number
+INSERT vG3 string
+INSERT aUj3 number
+INSERT gcg number
+LOOKUP gcg
+INSERT s5 number
+INSERT w42 string

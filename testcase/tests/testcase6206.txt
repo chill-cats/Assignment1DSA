@@ -1,0 +1,27 @@
+BEGIN
+INSERT kQJ8 number
+INSERT l2twRY number
+INSERT jOy string
+INSERT licUfQ string
+PRINT
+INSERT da number
+LOOKUP da
+LOOKUP da
+INSERT yXc0xU number
+BEGIN
+INSERT j7GQQ number
+INSERT jG string
+BEGIN
+PRINT
+INSERT yx number
+PRINT
+INSERT djO3 number
+ASSIGN yXc0xU j7GQQ
+INSERT ngbV2x number
+INSERT a string
+INSERT bj string
+INSERT o number
+PRINT
+INSERT vYhE9 number
+LOOKUP ngbV2x
+INSERT u string

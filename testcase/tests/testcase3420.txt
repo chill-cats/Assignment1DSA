@@ -1,0 +1,18 @@
+INSERT p7W number
+BEGIN
+LOOKUP p7W
+END
+LOOKUP p7W
+RPRINT
+INSERT ee6v1H string
+END
+INSERT fA string
+INSERT gLScRl string
+fGVXzj n
+END
+INSERT c1 string
+RPRINT
+INSERT fpjV number
+INSERT q1C number
+INSERT pu2sbc string
+PRINT

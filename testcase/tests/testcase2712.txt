@@ -1,0 +1,34 @@
+INSERT uf5az string
+INSERT zl41 string
+INSERT u2n string
+INSERT oy string
+BEGIN
+LOOKUP u2n
+INSERT ghL number
+BEGIN
+BEGIN
+LOOKUP zl41
+INSERT i number
+INSERT w number
+END
+INSERT zAXz string
+PRINT
+ASSIGN uf5az '0LP3b'
+INSERT zS number
+INSERT vvNl string
+INSERT gH number
+BEGIN
+INSERT w7 string
+INSERT h8mE2m number
+INSERT v number
+ASSIGN h8mE2m 'dQXm'
+INSERT h string
+INSERT rbNIS number
+BEGIN
+INSERT cSEbW string
+ASSIGN zl41 1017
+INSERT eUvc string
+ASSIGN zAXz 515
+INSERT xCrV string
+BEGIN
+INSERT luiV string

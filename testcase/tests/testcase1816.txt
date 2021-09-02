@@ -1,0 +1,40 @@
+ASSIGN kokB 73
+RPRINT
+INSERT aIJV string
+INSERT ckNh string
+LOOKUP ckNh
+LOOKUP ckNh
+RPRINT
+LOOKUP aIJV
+PRINT
+INSERT esKH6 number
+BEGIN
+INSERT eBd9eL number
+INSERT iQ0 string
+END
+INSERT b6Pa string
+INSERT mYDMY number
+INSERT wnuT string
+PRINT
+uF_ uCl
+INSERT oK string
+INSERT j9v2 number
+INSERT gztf string
+PRINT
+INSERT g string
+INSERT nG number
+INSERT hbIM string
+INSERT gGqKyy number
+INSERT w string
+INSERT eK number
+PRINT
+INSERT uF89yn number
+INSERT hFXJ string
+INSERT z string
+INSERT bftv string
+INSERT euKSI string
+PRINT
+INSERT vVOIy number
+END
+BEGIN
+RPRINT

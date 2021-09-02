@@ -1,0 +1,13 @@
+END
+RPRINT
+INSERT jkmh number
+INSERT g81 string
+INSERT o string
+END
+INSERT qcC string
+RPRINT
+INSERT srezV number
+INSERT xspAvo string
+RPRINT
+INSERT oq9dv string
+INSERT k string

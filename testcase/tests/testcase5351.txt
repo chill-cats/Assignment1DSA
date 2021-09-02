@@ -1,0 +1,10 @@
+LOOKUP k7
+INSERT lo string
+INSERT k number
+PRINT
+ASSIGN lo 1025
+INSERT uo2T string
+INSERT pleTnB string
+INSERT rs number
+BEGIN
+INSERT wP string

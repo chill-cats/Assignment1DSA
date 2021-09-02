@@ -1,0 +1,26 @@
+INSERT xIn8K number
+INSERT w string
+INSERT mi number
+INSERT jsv number
+ASSIGN mi mi
+INSERT gx1E string
+INSERT n number
+INSERT n number
+RPRINT
+INSERT qjZ5 number
+INSERT cbG number
+INSERT rpqYWl string
+RPRINT
+INSERT fuI number
+INSERT w string
+INSERT rly string
+INSERT dyTq_J number
+PRINT
+INSERT a number
+PRINT
+BEGIN
+INSERT pKgUPg number
+ASSIGN w 'zciU'
+ASSIGN xIn8K 645
+INSERT n9c string
+INSERT wQLnw9 string

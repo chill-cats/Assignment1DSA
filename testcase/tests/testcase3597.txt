@@ -1,0 +1,36 @@
+LOOKUP sn
+INSERT m number
+RPRINT
+END
+INSERT sZ number
+LOOKUP sZ
+BEGIN
+BEGIN
+RPRINT
+LOOKUP sZ
+INSERT ltWnTJ number
+ASSIGN sZ 'Dmm6'
+INSERT wC9P string
+RPRINT
+LOOKUP ltWnTJ
+mn0M bI2
+INSERT rFep2k string
+INSERT vk_x28 number
+INSERT j4DUDS string
+INSERT nt_J string
+INSERT iDtE5 number
+BEGIN
+ASSIGN j4DUDS iDtE5
+BEGIN
+t fYCTG
+INSERT uifM5 string
+INSERT nWw string
+PRINT
+LOOKUP iDtE5
+INSERT ij number
+INSERT gJ string
+BEGIN
+ASSIGN sZ 'ia'
+LOOKUP gJ
+INSERT r4eof number
+INSERT v string

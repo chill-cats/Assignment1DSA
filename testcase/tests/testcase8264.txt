@@ -1,0 +1,3 @@
+BEGIN
+INSERT zWYkSQ string
+ASSIGN zWYkSQ zWYkSQ

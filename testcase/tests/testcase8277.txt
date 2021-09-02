@@ -1,0 +1,12 @@
+BEGIN
+p4 sM
+INSERT m number
+INSERT tG string
+INSERT tDWvr string
+INSERT cl string
+PRINT
+PRINT
+INSERT ojX string
+INSERT sv2sP number
+frZMFc rB792n
+INSERT cDz number

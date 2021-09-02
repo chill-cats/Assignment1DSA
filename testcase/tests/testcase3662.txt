@@ -1,0 +1,19 @@
+INSERT tp0lvi number
+INSERT q string
+INSERT fPD2t number
+INSERT f4 number
+INSERT xFq number
+INSERT eQPeF string
+INSERT gNNkb6 number
+LOOKUP fPD2t
+INSERT d4 string
+BEGIN
+INSERT g8NF string
+INSERT h1b number
+INSERT tYx_ number
+INSERT ePECSY number
+ASSIGN ePECSY '9aFz'
+END
+INSERT jKF string
+INSERT ovkBbs string
+INSERT fjCJ number

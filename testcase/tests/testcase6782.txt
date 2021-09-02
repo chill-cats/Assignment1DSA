@@ -1,0 +1,34 @@
+INSERT r string
+ASSIGN r r
+INSERT anQ string
+INSERT v string
+INSERT j14x string
+INSERT oVZk9j string
+BEGIN
+INSERT z string
+END
+INSERT sG number
+INSERT rStaq string
+INSERT eB number
+RPRINT
+ASSIGN anQ 'etCH'
+INSERT n7Y string
+INSERT c3 string
+INSERT iq string
+INSERT z4 number
+INSERT zMax number
+BEGIN
+INSERT j7kq number
+INSERT m4cdQV string
+PRINT
+INSERT mNU number
+INSERT wqxh string
+INSERT zgPjV number
+INSERT tb7Fz number
+INSERT kiW number
+INSERT q2 number
+INSERT p7Ol string
+INSERT yjZvV number
+INSERT j string
+INSERT jXUM number
+PRINT

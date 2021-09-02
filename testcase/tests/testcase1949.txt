@@ -1,0 +1,8 @@
+ASSIGN l 'V'
+RPRINT
+INSERT svi9l string
+END
+INSERT aQeh2 number
+INSERT yyL number
+END
+PRINT

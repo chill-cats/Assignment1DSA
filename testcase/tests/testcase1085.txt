@@ -1,0 +1,32 @@
+INSERT u number
+INSERT z number
+END
+LOOKUP u
+PRINT
+INSERT aWDU number
+INSERT tWz number
+INSERT m8T8 number
+INSERT oDL4fK string
+INSERT veR number
+RPRINT
+INSERT aZxuC number
+END
+INSERT qCBayR number
+ASSIGN m8T8 tWz
+hED4D hxnG3
+INSERT xOga4N number
+INSERT m string
+INSERT jF30 number
+RPRINT
+INSERT ma number
+PRINT
+INSERT ec string
+INSERT k6 number
+INSERT vU2f number
+INSERT kw string
+PRINT
+PRINT
+INSERT t1G_p string
+RPRINT
+INSERT ijR number
+END

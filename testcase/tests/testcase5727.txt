@@ -1,0 +1,30 @@
+END
+INSERT esLE string
+BEGIN
+ASSIGN esLE 'A7'
+END
+BEGIN
+END
+INSERT x number
+INSERT iEO string
+INSERT bjp string
+BEGIN
+LOOKUP esLE
+INSERT iDQVk string
+RPRINT
+ASSIGN bjp 633
+LOOKUP iDQVk
+kO eV
+INSERT f5 string
+INSERT nsNSe number
+INSERT ft6a number
+LOOKUP nsNSe
+INSERT nmPNiG string
+INSERT s2iXVG number
+INSERT nvR15 number
+INSERT xx string
+LOOKUP nmPNiG
+ASSIGN nsNSe 'mDuh'
+PRINT
+o9 t72Np
+RPRINT

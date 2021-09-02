@@ -1,0 +1,18 @@
+ASSIGN xEQ 1233
+INSERT oNc string
+LOOKUP oNc
+INSERT py string
+RPRINT
+INSERT aXM number
+INSERT f4f4 number
+INSERT f number
+BEGIN
+INSERT f_ number
+INSERT sw9 number
+INSERT iDd number
+INSERT i number
+PRINT
+END
+INSERT avNDJB number
+PRINT
+INSERT sSy4f string

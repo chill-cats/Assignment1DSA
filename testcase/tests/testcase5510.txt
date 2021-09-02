@@ -1,0 +1,37 @@
+INSERT e7 number
+END
+INSERT ejwlI string
+INSERT jRy3P number
+INSERT xMX2 string
+INSERT wUB9bR number
+INSERT qUv string
+INSERT vbXOCy number
+INSERT nNROf string
+INSERT kH number
+INSERT k number
+END
+INSERT m3x3 number
+INSERT x_t number
+LOOKUP m3x3
+BEGIN
+INSERT yi string
+RPRINT
+INSERT xHz number
+INSERT aO4Wz string
+INSERT w string
+INSERT lS string
+LOOKUP kH
+cvgw9 m
+LOOKUP kH
+PRINT
+BEGIN
+INSERT h number
+ASSIGN nNROf 'LO'
+INSERT sDvwHV string
+END
+INSERT m string
+INSERT ixQ number
+RPRINT
+INSERT dYQgz number
+LOOKUP m
+INSERT e1 string

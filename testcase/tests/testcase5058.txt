@@ -1,0 +1,16 @@
+INSERT sTXvXI number
+INSERT a string
+INSERT p number
+END
+INSERT a37s string
+INSERT e number
+INSERT jXG number
+PRINT
+PRINT
+INSERT itr number
+PRINT
+INSERT fl string
+INSERT xa string
+INSERT mSU_l string
+jGQ fct
+INSERT sTJFz number

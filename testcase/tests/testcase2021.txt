@@ -1,0 +1,25 @@
+INSERT mR number
+RPRINT
+INSERT cHX string
+BEGIN
+END
+BEGIN
+INSERT d1o5 number
+LOOKUP d1o5
+BEGIN
+INSERT yodc number
+ASSIGN mR cHX
+INSERT ovL5Kf number
+END
+INSERT ivnsU0 string
+INSERT pY number
+INSERT iN string
+INSERT cI9 number
+ASSIGN d1o5 1137
+RPRINT
+INSERT tA string
+INSERT qpa8TT string
+INSERT j9uMC string
+END
+INSERT icq number
+INSERT cRs number

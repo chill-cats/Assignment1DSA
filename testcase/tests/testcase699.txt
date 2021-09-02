@@ -1,0 +1,18 @@
+INSERT zUU string
+BEGIN
+INSERT ocrmx string
+END
+INSERT c7H145 number
+INSERT cH number
+INSERT jo4eV string
+INSERT eNJD7S number
+INSERT sQA4sQ string
+BEGIN
+ASSIGN sQA4sQ zUU
+BEGIN
+INSERT xH number
+LOOKUP cH
+INSERT w2O string
+INSERT pgs number
+ASSIGN pgs 'NNy'
+END

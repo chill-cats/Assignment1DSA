@@ -1,0 +1,14 @@
+BEGIN
+INSERT s9LuP string
+INSERT jSv6gq number
+INSERT g6yWM2 string
+INSERT c number
+END
+INSERT z number
+INSERT t string
+LOOKUP g6yWM2
+END
+INSERT poEgM number
+ASSIGN poEgM 'pm'
+strWJ6 xFhz3
+INSERT tLp5A number

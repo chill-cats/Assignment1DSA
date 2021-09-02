@@ -1,0 +1,5 @@
+RPRINT
+INSERT eX number
+END
+INSERT rZC string
+ASSIGN rZC eX

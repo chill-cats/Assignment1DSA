@@ -1,0 +1,10 @@
+INSERT q number
+INSERT rYjGc number
+INSERT vEnM string
+INSERT tdpfOc string
+INSERT q5umM number
+INSERT o1 number
+INSERT sMUTb string
+INSERT v1N string
+INSERT kPK number
+LOOKUP q5umM

@@ -1,0 +1,10 @@
+RPRINT
+INSERT gUQ5e7 number
+INSERT ajb number
+INSERT x12aiD string
+INSERT u string
+INSERT mrz number
+INSERT rra number
+LOOKUP x12aiD
+INSERT vq_FS2 number
+INSERT yHIQ number

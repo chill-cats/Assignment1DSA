@@ -1,0 +1,29 @@
+INSERT j string
+INSERT z number
+INSERT z9tJTA string
+s yCa
+INSERT tMn string
+RPRINT
+INSERT mVcXe string
+INSERT dDo string
+END
+INSERT yf string
+ASSIGN dDo 1208
+RPRINT
+PRINT
+ASSIGN mVcXe yf
+LOOKUP z
+END
+INSERT lD string
+ASSIGN dDo dDo
+INSERT r number
+LOOKUP j
+ASSIGN dDo 231
+INSERT mZcXv number
+INSERT kF string
+LOOKUP lD
+INSERT sha number
+INSERT qA92 number
+INSERT uG7X3 string
+ASSIGN sha 'og3'
+BEGIN

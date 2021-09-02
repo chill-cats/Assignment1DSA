@@ -1,0 +1,4 @@
+INSERT edb string
+INSERT wm string
+INSERT oC string
+INSERT wF0X number

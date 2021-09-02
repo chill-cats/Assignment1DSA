@@ -1,0 +1,38 @@
+INSERT hl7 number
+INSERT e number
+INSERT e number
+INSERT d string
+INSERT gcRfVT string
+END
+INSERT beK string
+RPRINT
+INSERT oXSHa string
+PRINT
+INSERT p number
+INSERT qOW7r string
+INSERT laQ number
+INSERT jqO3v string
+INSERT m1 number
+INSERT uq0t3 number
+INSERT d0f6_1 number
+q5TMw7 b
+END
+INSERT w number
+ASSIGN p 'Yt0'
+INSERT cF string
+BEGIN
+INSERT v8 number
+INSERT zBx number
+INSERT f5c number
+END
+INSERT wfx number
+x evu
+INSERT aTc number
+INSERT hjy number
+INSERT t string
+INSERT x string
+g t8z
+INSERT j number
+INSERT tCV string
+INSERT pu_P string
+INSERT yNyOU number

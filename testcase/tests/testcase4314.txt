@@ -1,0 +1,31 @@
+INSERT rrZ number
+INSERT d0AeVC string
+ASSIGN rrZ 145
+BEGIN
+INSERT rw string
+INSERT i number
+INSERT xEU string
+RPRINT
+END
+INSERT aJczXU number
+RPRINT
+ASSIGN aJczXU 'kzQPv'
+h bo
+INSERT kPJOHG number
+LOOKUP rw
+INSERT dZQj number
+PRINT
+INSERT e1Wpap string
+INSERT fRpkQX number
+LOOKUP d0AeVC
+INSERT m number
+INSERT s_FcMh string
+PRINT
+INSERT lF string
+bI6WHe h
+BEGIN
+BEGIN
+INSERT wV_k string
+INSERT lAY25_ string
+x9B4R4 m
+PRINT

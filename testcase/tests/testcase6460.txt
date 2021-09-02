@@ -1,0 +1,18 @@
+INSERT mpw_ string
+LOOKUP mpw_
+PRINT
+INSERT h5ck number
+INSERT eP0 string
+INSERT aha number
+INSERT q string
+j xM
+INSERT m8O string
+INSERT jfw string
+INSERT cEXn string
+INSERT kljsV number
+INSERT qf1T number
+END
+RPRINT
+INSERT tXvqls number
+ASSIGN tXvqls 'B'
+INSERT pr number

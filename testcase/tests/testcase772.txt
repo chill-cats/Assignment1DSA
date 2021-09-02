@@ -1,0 +1,20 @@
+INSERT kxh string
+INSERT wygf4G number
+INSERT f number
+INSERT xj number
+INSERT elSuHE number
+PRINT
+LOOKUP elSuHE
+INSERT n2KhJ string
+LOOKUP xj
+qRqN oGpm96
+INSERT k0lt5N string
+INSERT pV number
+hMcn b
+INSERT x83 number
+PRINT
+INSERT oHaLV number
+INSERT hIT string
+PRINT
+BEGIN
+PRINT

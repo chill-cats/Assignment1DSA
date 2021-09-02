@@ -1,0 +1,2 @@
+PRINT
+ASSIGN t 1099

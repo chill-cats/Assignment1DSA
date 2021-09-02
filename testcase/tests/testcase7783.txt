@@ -1,0 +1,37 @@
+INSERT mcS string
+BEGIN
+INSERT jQ9ib3 number
+INSERT qIR string
+INSERT mBLs string
+INSERT yND3T string
+INSERT pm7S6E string
+LOOKUP mBLs
+INSERT jFB_ number
+INSERT hji string
+INSERT lbnBU number
+PRINT
+BEGIN
+INSERT mco number
+LOOKUP jFB_
+BEGIN
+INSERT tnqZ number
+PRINT
+INSERT mqWrMF string
+INSERT icR number
+INSERT yAg number
+b3aQxD eDI
+INSERT tl01uf number
+ASSIGN icR mqWrMF
+INSERT zZz54 number
+INSERT iD number
+INSERT yah string
+INSERT hT string
+INSERT sw string
+PRINT
+END
+END
+INSERT rc number
+INSERT rxI string
+END
+END
+BEGIN

@@ -1,0 +1,20 @@
+INSERT rMu string
+ASSIGN rMu rMu
+INSERT cn8f number
+sb oZ
+PRINT
+BEGIN
+INSERT yv6wd string
+st q
+INSERT zEDmF string
+INSERT xLtN number
+INSERT u3 string
+LOOKUP yv6wd
+INSERT kNP number
+LOOKUP yv6wd
+INSERT fvaRt number
+INSERT zn number
+BEGIN
+INSERT m string
+INSERT wfT number
+INSERT hil number

@@ -1,0 +1,11 @@
+BEGIN
+INSERT jvHIV_ number
+INSERT g1c number
+INSERT yA number
+INSERT c6Dz string
+END
+INSERT u2 number
+INSERT qrad string
+INSERT s number
+RPRINT
+INSERT wnay6 string

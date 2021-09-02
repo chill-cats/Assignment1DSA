@@ -1,0 +1,26 @@
+PRINT
+INSERT kX number
+INSERT tBZ string
+LOOKUP kX
+INSERT n_gVt number
+INSERT cFf number
+INSERT uqOw number
+BEGIN
+INSERT s number
+ASSIGN tBZ s
+INSERT bN number
+INSERT jz number
+INSERT jK6c string
+INSERT nS number
+INSERT enp string
+ASSIGN enp kX
+k qOBzX
+INSERT gDT string
+INSERT xzVM2 number
+INSERT t string
+INSERT w number
+INSERT bjirL string
+INSERT gT string
+INSERT ybec number
+END
+INSERT fxJY number

@@ -1,0 +1,6 @@
+INSERT ubMDaG string
+INSERT bfO1Y5 number
+u mEr
+INSERT nzLgPH number
+INSERT vMq number
+PRINT

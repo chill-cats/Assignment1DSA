@@ -1,0 +1,6 @@
+BEGIN
+INSERT apf number
+INSERT zyci string
+INSERT kN string
+RPRINT
+LOOKUP zyci

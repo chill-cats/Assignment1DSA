@@ -1,0 +1,22 @@
+ASSIGN bYsVR 'Om'
+INSERT sIgIJR number
+INSERT fw string
+INSERT i number
+INSERT t number
+ASSIGN fw 'sX1v'
+INSERT eL string
+ASSIGN fw fw
+INSERT vMeCM0 string
+INSERT h string
+INSERT d string
+LOOKUP t
+RPRINT
+dEs a0q
+BEGIN
+INSERT f string
+INSERT qpZT string
+INSERT hKu string
+INSERT a number
+ASSIGN t a
+LOOKUP i
+INSERT vyhN string

@@ -1,0 +1,14 @@
+PRINT
+INSERT c string
+BEGIN
+ASSIGN c 'lHC9'
+INSERT sHrvw string
+INSERT eV string
+ASSIGN c 600
+INSERT yJ number
+INSERT n string
+END
+BEGIN
+INSERT wbTGP string
+LOOKUP eV
+INSERT j number

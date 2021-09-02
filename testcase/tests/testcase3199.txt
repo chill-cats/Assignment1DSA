@@ -1,0 +1,20 @@
+RPRINT
+LOOKUP jnZw
+INSERT gKsd_ string
+INSERT jdrA2p string
+END
+INSERT jWx string
+INSERT zbh number
+LOOKUP jWx
+ASSIGN gKsd_ 'A'
+INSERT oHqW string
+INSERT cg string
+RPRINT
+INSERT elK number
+INSERT dm number
+ltqKY7 h1A
+INSERT b string
+PRINT
+END
+INSERT jsh2w string
+BEGIN

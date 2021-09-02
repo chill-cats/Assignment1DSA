@@ -1,0 +1,25 @@
+INSERT qjA number
+LOOKUP qjA
+INSERT fuVQ number
+INSERT c number
+RPRINT
+ASSIGN fuVQ 'c'
+INSERT tGiaD string
+INSERT uI number
+LOOKUP tGiaD
+INSERT mG77 string
+INSERT wcT string
+tpT cW9b
+INSERT oLH number
+BEGIN
+INSERT k7GTC number
+PRINT
+BEGIN
+INSERT gYhrD string
+INSERT cdQQd number
+INSERT vYMt number
+RPRINT
+LOOKUP uI
+n q3v
+INSERT fd number
+INSERT b_v1lS number

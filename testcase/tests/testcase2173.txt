@@ -1,0 +1,30 @@
+INSERT a7X string
+INSERT foLxy string
+INSERT v number
+LOOKUP v
+RPRINT
+ASSIGN v 617
+PRINT
+LOOKUP foLxy
+INSERT z5l number
+INSERT bUonE number
+INSERT pc4K string
+LOOKUP bUonE
+INSERT qISV number
+INSERT d string
+INSERT ieRh number
+INSERT qs number
+PRINT
+RPRINT
+INSERT ghyt number
+INSERT yi string
+INSERT xp number
+INSERT iJMG8L string
+BEGIN
+INSERT vg1bS string
+INSERT mJN number
+INSERT qtmz number
+INSERT nByeU number
+ASSIGN vg1bS d
+INSERT b string
+LOOKUP z5l

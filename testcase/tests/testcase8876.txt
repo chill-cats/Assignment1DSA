@@ -1,0 +1,17 @@
+BEGIN
+INSERT bvuKIl number
+INSERT zm number
+INSERT eqcHL string
+INSERT vgznDv number
+END
+INSERT t58KW string
+m qOcdE
+INSERT cfOg4 string
+ASSIGN cfOg4 256
+INSERT ds number
+BEGIN
+END
+INSERT nsZCV number
+INSERT s number
+INSERT e9oSX number
+PRINT

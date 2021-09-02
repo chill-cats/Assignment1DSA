@@ -1,0 +1,17 @@
+PRINT
+INSERT e0YfV string
+tRVlN nqAbC
+INSERT wKL_ string
+PRINT
+INSERT d9MiE number
+LOOKUP e0YfV
+RPRINT
+INSERT gd string
+RPRINT
+INSERT atjZ string
+INSERT fYvB number
+PRINT
+INSERT xs number
+sAo3 xBVZ
+INSERT pdbgo number
+BEGIN

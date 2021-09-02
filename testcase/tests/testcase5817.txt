@@ -1,0 +1,16 @@
+INSERT twk8Ug string
+RPRINT
+PRINT
+LOOKUP twk8Ug
+INSERT mwS8 string
+END
+lxic kP
+LOOKUP twk8Ug
+INSERT cSWOi string
+PRINT
+INSERT oTzzQm number
+INSERT xPtA string
+INSERT wvGAo string
+INSERT hki string
+INSERT cOOh number
+mJDFDQ u61

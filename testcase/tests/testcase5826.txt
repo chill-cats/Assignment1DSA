@@ -1,0 +1,30 @@
+LOOKUP f
+INSERT eZj5 number
+END
+INSERT nHx7k number
+ASSIGN nHx7k 'TOW'
+ASSIGN nHx7k 1097
+INSERT jT8NO string
+LOOKUP jT8NO
+INSERT yAloJa number
+INSERT mAGdJS string
+INSERT bP number
+INSERT v number
+RPRINT
+INSERT c string
+RPRINT
+INSERT b number
+BEGIN
+INSERT oOA string
+INSERT zi2c string
+BEGIN
+INSERT kf number
+BEGIN
+INSERT iPV2M3 string
+END
+INSERT a string
+ASSIGN jT8NO '8'
+ASSIGN yAloJa '2'
+BEGIN
+LOOKUP c
+INSERT jw number

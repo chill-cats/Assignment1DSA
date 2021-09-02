@@ -1,0 +1,27 @@
+LOOKUP rC
+INSERT dm string
+INSERT o6DRE string
+PRINT
+ASSIGN o6DRE 444
+INSERT rAbW number
+INSERT iTL number
+END
+LOOKUP rAbW
+INSERT uqgsQX string
+INSERT xH0S string
+INSERT hhmbp string
+INSERT k1i number
+INSERT vwzO4 number
+INSERT mckQVO number
+PRINT
+INSERT npuVL5 string
+END
+BEGIN
+nzgc vBdE1
+INSERT tDkO number
+INSERT wNsE number
+PRINT
+INSERT xW string
+PRINT
+LOOKUP hhmbp
+BEGIN

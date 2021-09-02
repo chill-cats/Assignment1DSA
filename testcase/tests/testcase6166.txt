@@ -1,0 +1,32 @@
+INSERT xKB number
+INSERT r string
+INSERT t1MTZO number
+INSERT aM number
+BEGIN
+RPRINT
+ASSIGN r 511
+INSERT q number
+INSERT ncMX9x string
+PRINT
+INSERT e7B9 string
+RPRINT
+PRINT
+INSERT hjq number
+INSERT xuLS string
+INSERT lQ number
+INSERT ck72t number
+INSERT k5w4 number
+BEGIN
+INSERT xK number
+PRINT
+INSERT s string
+INSERT y number
+RPRINT
+mwIKt nc
+cUs2B4 wz3SiX
+INSERT t49D number
+INSERT b9b string
+INSERT f string
+INSERT qHEZps number
+END
+INSERT b_7 string

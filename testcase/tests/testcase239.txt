@@ -1,0 +1,9 @@
+PRINT
+INSERT iSOi string
+INSERT z string
+b v0
+PRINT
+LOOKUP z
+INSERT c63JZN number
+INSERT wW8Hf8 number
+INSERT kf string

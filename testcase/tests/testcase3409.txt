@@ -1,0 +1,12 @@
+END
+INSERT yKbi number
+RPRINT
+BEGIN
+ASSIGN yKbi 'oQ8r'
+INSERT pnZ number
+INSERT lOoP string
+BEGIN
+INSERT e number
+INSERT yp string
+INSERT x string
+INSERT yTez5S string

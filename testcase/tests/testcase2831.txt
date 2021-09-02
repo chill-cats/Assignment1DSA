@@ -1,0 +1,9 @@
+INSERT kOJL2 string
+RPRINT
+END
+INSERT g string
+INSERT r2tZC number
+INSERT kfpc string
+LOOKUP g
+x cSic
+BEGIN

@@ -1,0 +1,11 @@
+INSERT w7eg number
+RPRINT
+INSERT j5NmI6 string
+INSERT auejZ number
+INSERT dn number
+INSERT u string
+PRINT
+ASSIGN w7eg 'Y8'
+INSERT t_ number
+INSERT yeKS number
+INSERT y_SnLI number

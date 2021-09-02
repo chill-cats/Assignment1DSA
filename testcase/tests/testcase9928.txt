@@ -1,0 +1,37 @@
+INSERT y52B number
+INSERT rQkYg string
+INSERT v6 string
+INSERT os_T number
+INSERT juF string
+INSERT qLSz string
+kBaj tEQl
+LOOKUP v6
+INSERT oVi4bf string
+INSERT u5 string
+INSERT w string
+LOOKUP qLSz
+INSERT ll string
+INSERT sMb string
+qyT9p uI48RW
+INSERT rwaA0o string
+INSERT m6Pivj number
+BEGIN
+INSERT zVb number
+INSERT aEVT string
+INSERT iK8 string
+BEGIN
+ASSIGN rkx rQkYg
+INSERT k1TT string
+RPRINT
+INSERT p string
+PRINT
+INSERT lG string
+LOOKUP rQkYg
+ASSIGN w 75
+BEGIN
+INSERT my string
+RPRINT
+INSERT dD number
+INSERT uP14L string
+INSERT k string
+INSERT vCDw string

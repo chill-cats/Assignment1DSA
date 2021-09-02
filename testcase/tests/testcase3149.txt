@@ -1,0 +1,40 @@
+ASSIGN rSdlHs 'L'
+LOOKUP z9LMT
+LOOKUP y12r6
+INSERT kQVb_ string
+INSERT v22f string
+INSERT y65Kq number
+INSERT pq number
+INSERT eA3QG string
+PRINT
+BEGIN
+ASSIGN eA3QG 108
+BEGIN
+ASSIGN pq 'sVW'
+RPRINT
+INSERT uFz string
+PRINT
+BEGIN
+LOOKUP pq
+PRINT
+RPRINT
+INSERT osaa number
+END
+INSERT o1kLH number
+INSERT dvjq number
+INSERT x string
+INSERT z string
+END
+RPRINT
+LOOKUP kQVb_
+LOOKUP y65Kq
+INSERT bUuhZw number
+RPRINT
+INSERT rTATY number
+BEGIN
+INSERT v75Jo number
+INSERT zO number
+END
+INSERT gZVL string
+INSERT biD number
+PRINT

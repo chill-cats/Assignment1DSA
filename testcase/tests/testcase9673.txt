@@ -1,0 +1,18 @@
+INSERT vx string
+INSERT w0hFH_ string
+INSERT jQGITM number
+INSERT fV string
+ASSIGN zR 66
+END
+INSERT m number
+BEGIN
+INSERT jgmhCk number
+INSERT h03SW number
+PRINT
+INSERT bkTf number
+LOOKUP h03SW
+ASSIGN jQGITM 'Zr1oN'
+INSERT sBctg string
+INSERT q3WP number
+BEGIN
+BEGIN

@@ -1,0 +1,12 @@
+INSERT a number
+END
+BEGIN
+ASSIGN a 'Yp8'
+INSERT sMKDb number
+xl2 k
+RPRINT
+INSERT rn string
+INSERT cC number
+INSERT w6G string
+LOOKUP sMKDb
+INSERT wXImM string

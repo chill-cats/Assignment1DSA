@@ -1,0 +1,9 @@
+INSERT jxTDHT string
+INSERT o4 string
+END
+LOOKUP o4
+INSERT toXca0 number
+INSERT uQHh number
+INSERT eQrjKL string
+INSERT htJ number
+PRINT

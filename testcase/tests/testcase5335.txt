@@ -1,0 +1,23 @@
+BEGIN
+INSERT lpR number
+INSERT i_0s number
+INSERT qOBNc string
+INSERT kqr7n string
+BEGIN
+ASSIGN qOBNc 1087
+INSERT vMJC number
+INSERT iEtfE string
+INSERT wme string
+END
+INSERT diw string
+LOOKUP diw
+INSERT a number
+ASSIGN kqr7n '5'
+LOOKUP diw
+qG rVW
+INSERT esL string
+INSERT v2L number
+PRINT
+INSERT z1PnW number
+INSERT lW8lJL number
+ASSIGN xVTj 'sjKPL'

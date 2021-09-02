@@ -1,0 +1,36 @@
+INSERT lPdIDx number
+INSERT aa string
+RPRINT
+INSERT xv string
+INSERT kN string
+RPRINT
+INSERT kJJ number
+ASSIGN kN lPdIDx
+yz4 y
+INSERT klC33 string
+INSERT pg string
+ASSIGN klC33 kN
+BEGIN
+ASSIGN klC33 362
+ASSIGN xv 1172
+INSERT aNFCUk number
+LOOKUP klC33
+INSERT th4G string
+PRINT
+INSERT ggKM4Q number
+INSERT qEA96p number
+PRINT
+INSERT p number
+INSERT tE string
+RPRINT
+INSERT zWXD number
+INSERT j1 string
+INSERT sCj string
+INSERT yi string
+ASSIGN th4G aa
+INSERT u number
+BEGIN
+INSERT fN number
+INSERT tS2nn string
+ASSIGN pg 'Qc'
+INSERT s number

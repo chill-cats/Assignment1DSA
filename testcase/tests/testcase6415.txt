@@ -1,0 +1,18 @@
+INSERT tly string
+INSERT s number
+BEGIN
+INSERT f string
+RPRINT
+LOOKUP s
+INSERT mNpf string
+INSERT m7fj number
+INSERT j1yZH string
+INSERT t string
+END
+yyR j
+INSERT rU string
+INSERT wP number
+INSERT iOr6p string
+INSERT eevXBh string
+LOOKUP s
+LOOKUP iOr6p

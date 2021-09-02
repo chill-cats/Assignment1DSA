@@ -1,0 +1,18 @@
+BEGIN
+INSERT hLZKZ number
+RPRINT
+RPRINT
+INSERT h6v string
+RPRINT
+INSERT l number
+LOOKUP h6v
+INSERT y string
+ASSIGN hLZKZ 'c7'
+BEGIN
+RPRINT
+INSERT zZxNp number
+oI_R qBq
+INSERT fRGcX number
+INSERT iEMfLZ string
+BEGIN
+RPRINT

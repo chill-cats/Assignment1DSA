@@ -1,0 +1,33 @@
+PRINT
+INSERT hrB9t string
+RPRINT
+INSERT gF string
+INSERT fM string
+ASSIGN gF '8pvY'
+b6k pSUm
+INSERT dj2wEe string
+l gBP
+INSERT j_At number
+ASSIGN fM gF
+INSERT ss4pC number
+LOOKUP dj2wEe
+INSERT b string
+INSERT w number
+ASSIGN fM ss4pC
+INSERT zFZ12 number
+LOOKUP ss4pC
+INSERT sLuw number
+INSERT cyzD7Z string
+INSERT s string
+d2 p26
+j0w vzcUxd
+INSERT kE7 number
+INSERT zFWN number
+INSERT y string
+INSERT xoId number
+RPRINT
+LOOKUP y
+ASSIGN at 't9J'
+END
+INSERT cfHg5J number
+INSERT vu number

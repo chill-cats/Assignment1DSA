@@ -1,0 +1,27 @@
+INSERT vsd number
+INSERT s3sFh string
+INSERT j0Qw string
+INSERT q38 number
+INSERT vZ88J string
+INSERT pz5q string
+END
+INSERT vRI string
+INSERT lydl string
+INSERT f1eO string
+INSERT dKdYV number
+INSERT bAOt0 number
+INSERT fHa7 string
+LOOKUP bAOt0
+INSERT t string
+INSERT b number
+INSERT cQrc number
+INSERT aoAfUI number
+BEGIN
+INSERT cOdkS number
+END
+INSERT pLnf string
+INSERT dXe string
+INSERT f number
+ASSIGN s3sFh '5LN'
+INSERT x number
+INSERT pZd string

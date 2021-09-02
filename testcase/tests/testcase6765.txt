@@ -1,0 +1,38 @@
+BEGIN
+INSERT r_0Vj string
+INSERT e9071 string
+BEGIN
+INSERT hf number
+ktm yuoG
+INSERT ldO string
+INSERT xN6 number
+INSERT aUkK number
+INSERT l number
+INSERT x4 number
+INSERT d number
+INSERT y string
+lm hY
+INSERT i6zg string
+PRINT
+LOOKUP e9071
+INSERT ncnb string
+BEGIN
+LOOKUP y
+END
+LOOKUP ldO
+END
+INSERT b number
+INSERT aZPgA_ string
+INSERT fP number
+INSERT bR9ZNg string
+INSERT sJDQ string
+INSERT wF number
+INSERT xVKUp9 number
+LOOKUP bR9ZNg
+ASSIGN bR9ZNg xVKUp9
+INSERT rG string
+INSERT yi number
+eTqRM0 p
+LOOKUP wF
+INSERT mM9qst string
+INSERT xS6 number

@@ -1,0 +1,11 @@
+INSERT phKAm2 number
+INSERT ko string
+LOOKUP ko
+ASSIGN v phKAm2
+INSERT ywQs number
+INSERT rtH string
+INSERT raG number
+BEGIN
+INSERT y string
+END
+INSERT sb5d string

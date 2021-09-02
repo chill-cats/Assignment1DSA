@@ -1,0 +1,8 @@
+ASSIGN vJSZor 'u'
+LOOKUP zd1S
+BEGIN
+INSERT p string
+END
+INSERT lB string
+INSERT k string
+BEGIN

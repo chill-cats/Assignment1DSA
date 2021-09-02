@@ -1,0 +1,30 @@
+ASSIGN rq63KD 871
+PRINT
+END
+LOOKUP piQt
+ASSIGN t 311
+INSERT ch8i0 number
+INSERT h number
+INSERT fcCoa number
+INSERT u string
+INSERT v_XV73 string
+INSERT bg number
+i2o rc5k4v
+INSERT o5eW_F string
+RPRINT
+INSERT wZH4 number
+RPRINT
+INSERT iP number
+RPRINT
+END
+INSERT gcN number
+INSERT xS string
+INSERT sLlSO number
+RPRINT
+INSERT o number
+INSERT t number
+PRINT
+INSERT h5dt number
+INSERT nf2LCm string
+END
+INSERT kV string

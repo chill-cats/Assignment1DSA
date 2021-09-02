@@ -1,0 +1,25 @@
+INSERT qh string
+LOOKUP qh
+RPRINT
+INSERT b_XN string
+RPRINT
+INSERT vcJjEA string
+INSERT o5tj5j number
+INSERT lP3GqV number
+INSERT x string
+INSERT b0L number
+RPRINT
+INSERT tZOkq string
+INSERT o15h string
+INSERT lo_L number
+INSERT c number
+LOOKUP c
+RPRINT
+INSERT q number
+INSERT uc string
+INSERT v9 number
+INSERT z string
+INSERT dd number
+BEGIN
+INSERT iW_6k number
+INSERT n04gP string

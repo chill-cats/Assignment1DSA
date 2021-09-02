@@ -1,0 +1,14 @@
+PRINT
+INSERT b number
+LOOKUP b
+INSERT qr number
+INSERT xP string
+INSERT o number
+INSERT uJQC number
+BEGIN
+INSERT fZc3 string
+INSERT xa0QJu string
+INSERT sEK0 number
+LOOKUP xP
+INSERT mfc string
+INSERT mRN string

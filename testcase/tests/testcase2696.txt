@@ -1,0 +1,2 @@
+INSERT kb string
+ASSIGN kb 'TKTmG'

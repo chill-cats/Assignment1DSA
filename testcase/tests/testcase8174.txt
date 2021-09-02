@@ -1,0 +1,38 @@
+INSERT athm number
+INSERT uGVY string
+LOOKUP uGVY
+INSERT lywhvE string
+INSERT c8ZGz string
+INSERT hEl9 number
+INSERT p8QNW number
+RPRINT
+PRINT
+LOOKUP athm
+END
+ASSIGN athm 'z'
+INSERT ym string
+qlosWU dVpVc
+INSERT nE number
+INSERT eyOj number
+jnxrNP hFMsf
+INSERT qutA string
+RPRINT
+PRINT
+RPRINT
+RPRINT
+INSERT hX_K string
+ASSIGN c8ZGz 'zhL'
+INSERT qQ6Xd string
+INSERT h number
+INSERT wp9DR number
+INSERT uA1H number
+END
+RPRINT
+INSERT j number
+INSERT m number
+INSERT rWd string
+n2Mx j2xa
+ASSIGN uGVY hEl9
+ASSIGN athm 'jjwL'
+INSERT y53Fa string
+LOOKUP p8QNW

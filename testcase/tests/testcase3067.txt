@@ -1,0 +1,18 @@
+BEGIN
+INSERT mwC string
+INSERT sF1 number
+BEGIN
+ASSIGN mwC sF1
+INSERT rnew number
+INSERT c7 string
+INSERT qW5uQ number
+INSERT zp string
+END
+INSERT tGa number
+RPRINT
+eM8p tqDOi
+INSERT jF6I string
+PRINT
+INSERT aa number
+INSERT oAlO1M string
+PRINT

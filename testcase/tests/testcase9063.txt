@@ -1,0 +1,19 @@
+INSERT z string
+INSERT h3t number
+BEGIN
+INSERT oxg7E string
+INSERT bwFg number
+INSERT iBOL string
+INSERT qm_d string
+ASSIGN z iBOL
+INSERT ddy number
+INSERT jS number
+INSERT e number
+INSERT mS string
+RPRINT
+INSERT rRzF number
+INSERT npta string
+INSERT nT_ number
+INSERT a5CYx string
+END
+ASSIGN npta 692

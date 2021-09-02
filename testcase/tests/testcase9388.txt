@@ -1,0 +1,6 @@
+RPRINT
+LOOKUP x
+INSERT w number
+INSERT q number
+PRINT
+INSERT o_ number

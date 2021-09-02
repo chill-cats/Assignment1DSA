@@ -1,0 +1,10 @@
+INSERT zZkR string
+INSERT mct number
+INSERT o string
+INSERT aXE_2 string
+INSERT gKUhd number
+ASSIGN aXE_2 'a'
+ASSIGN zZkR mct
+LOOKUP aXE_2
+BEGIN
+INSERT kSGeK number

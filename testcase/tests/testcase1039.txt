@@ -1,0 +1,30 @@
+ASSIGN s5StL 1196
+RPRINT
+INSERT oULu0e string
+INSERT zbw string
+INSERT s number
+ASSIGN zbw 'MqkL'
+LOOKUP s
+PRINT
+INSERT xUZ string
+INSERT hhg number
+END
+INSERT zj3D string
+INSERT m33 string
+INSERT fmwP string
+LOOKUP zj3D
+INSERT mKuKe string
+INSERT dapA number
+INSERT vSDYfT number
+BEGIN
+INSERT h7 string
+INSERT z6V string
+INSERT g string
+INSERT wvI3 number
+INSERT xGt4 string
+ASSIGN fmwP 795
+INSERT xNXGi string
+INSERT ms5 string
+INSERT k number
+INSERT tG string
+INSERT hqz number

@@ -1,0 +1,31 @@
+END
+INSERT oqnsK string
+INSERT xDWPLa string
+INSERT kRjpX string
+LOOKUP xCRhL
+INSERT ft number
+INSERT mChly string
+BEGIN
+INSERT lnyEE6 string
+INSERT s number
+INSERT ks7b string
+INSERT cS string
+INSERT wUr string
+LOOKUP mChly
+INSERT qoB6 string
+END
+INSERT gIrC2 string
+RPRINT
+ASSIGN odI2Mg oqnsK
+LOOKUP ft
+INSERT sz number
+INSERT fBnLY8 number
+ASSIGN gIrC2 460
+INSERT keSn0 number
+INSERT f string
+INSERT f2n string
+INSERT fq string
+INSERT xrzC number
+INSERT odE0N string
+INSERT gj number
+ASSIGN fBnLY8 714

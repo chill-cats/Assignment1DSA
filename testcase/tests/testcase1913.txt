@@ -1,0 +1,16 @@
+INSERT rJO string
+INSERT q string
+LOOKUP q
+INSERT kU string
+PRINT
+INSERT l number
+LOOKUP rJO
+END
+INSERT dNi string
+doa mVfj3
+INSERT oIE5j8 string
+INSERT d number
+RPRINT
+ypP8g eVV
+INSERT ovGh string
+LOOKUP oIE5j8

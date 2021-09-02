@@ -1,0 +1,40 @@
+INSERT vbd number
+RPRINT
+INSERT p number
+INSERT s number
+BEGIN
+INSERT yIO2 string
+ASSIGN s yIO2
+RPRINT
+LOOKUP yIO2
+PRINT
+INSERT exOJ number
+INSERT zT62 string
+END
+INSERT w number
+INSERT jL number
+INSERT sB3J string
+INSERT f number
+INSERT fSkax number
+INSERT dmvH number
+INSERT n_ number
+PRINT
+INSERT eSDojC number
+RPRINT
+INSERT a string
+RPRINT
+INSERT f3pf number
+INSERT uAZ string
+INSERT yAQD string
+vPFZ7G bIzJ
+INSERT fJNdX5 number
+INSERT e string
+INSERT mGRs number
+INSERT pth3V1 number
+PRINT
+PRINT
+ASSIGN vbd 'o'
+END
+LOOKUP eSDojC
+RPRINT
+INSERT f number

@@ -1,0 +1,10 @@
+END
+RPRINT
+INSERT z number
+INSERT cHeq3U string
+PRINT
+INSERT f number
+LOOKUP cHeq3U
+BEGIN
+INSERT y7XTP number
+PRINT

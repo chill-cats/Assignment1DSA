@@ -1,0 +1,34 @@
+dcBo eqX
+INSERT iV8mW string
+INSERT bn9 number
+LOOKUP bn9
+INSERT iHNoRS number
+END
+INSERT qYOnAK string
+INSERT j string
+INSERT oppLv5 string
+INSERT sP1o number
+INSERT x string
+INSERT x string
+INSERT yIdza string
+INSERT mQ string
+BEGIN
+PRINT
+INSERT etaCX number
+INSERT t3A string
+INSERT iLv55 string
+INSERT tu number
+RPRINT
+INSERT hE3JG number
+INSERT w number
+uDb9h jGgR
+BEGIN
+INSERT iH number
+END
+ASSIGN qYOnAK '3Fu'
+INSERT hCr number
+INSERT kSD number
+INSERT z8HN number
+PRINT
+INSERT f_WA string
+ASSIGN tu 44

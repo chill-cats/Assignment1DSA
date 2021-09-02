@@ -1,0 +1,6 @@
+LOOKUP x9fOf
+ASSIGN j 'um'
+RPRINT
+INSERT nWPBu2 number
+INSERT j string
+LOOKUP j

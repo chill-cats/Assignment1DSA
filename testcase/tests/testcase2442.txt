@@ -1,0 +1,8 @@
+INSERT fWHq string
+INSERT p string
+LOOKUP p
+f2DX w
+INSERT pv string
+INSERT kU number
+INSERT iu string
+INSERT cp number

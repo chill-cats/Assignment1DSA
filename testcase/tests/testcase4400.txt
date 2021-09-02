@@ -1,0 +1,29 @@
+RPRINT
+INSERT w number
+INSERT xO4Nq number
+INSERT un string
+INSERT iThf string
+RPRINT
+INSERT b5GXK string
+INSERT w number
+ASSIGN w 'vh1Y'
+PRINT
+PRINT
+INSERT i8C number
+INSERT hFpVY number
+INSERT pypi string
+ASSIGN iThf hFpVY
+INSERT g6b9 string
+INSERT z number
+PRINT
+ASSIGN w 852
+INSERT y1 number
+END
+INSERT w string
+INSERT w8kEP string
+INSERT p3h number
+INSERT zU4 number
+INSERT bg string
+INSERT v99A3 string
+LOOKUP un
+BEGIN

@@ -1,0 +1,33 @@
+INSERT avnm_ string
+ASSIGN avnm_ 847
+PRINT
+ASSIGN avnm_ 'C'
+END
+INSERT bcLQ9n string
+PRINT
+INSERT ejCFDj string
+INSERT v number
+INSERT yOHg1J string
+INSERT vb number
+u tjkT37
+PRINT
+INSERT aMnjWg number
+INSERT w string
+INSERT ssY number
+INSERT o string
+INSERT lgZF number
+INSERT t number
+INSERT b string
+INSERT liTdW string
+INSERT k_m3a number
+INSERT tkB string
+INSERT d number
+INSERT i number
+LOOKUP d
+INSERT q7ap string
+INSERT cTjZ string
+INSERT aR string
+INSERT u number
+INSERT qHG9 string
+INSERT qU string
+INSERT uThvc number

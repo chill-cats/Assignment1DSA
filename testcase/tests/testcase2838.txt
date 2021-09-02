@@ -1,0 +1,29 @@
+j l
+INSERT bGu9L string
+INSERT iiI number
+INSERT iKP number
+INSERT ynadGj string
+INSERT rs0zV string
+INSERT zS7G number
+INSERT vFp5gO string
+PRINT
+ASSIGN bGu9L 779
+INSERT fYyb number
+ASSIGN vFp5gO 'Bk'
+INSERT x number
+END
+INSERT hZ1 number
+INSERT tMTR number
+INSERT qo168 number
+INSERT qoDNfK number
+INSERT x string
+INSERT pG number
+RPRINT
+RPRINT
+END
+INSERT q5ga string
+RPRINT
+INSERT kKp number
+INSERT qaVCD number
+ASSIGN tMTR qoDNfK
+ASSIGN fYyb 'V1'

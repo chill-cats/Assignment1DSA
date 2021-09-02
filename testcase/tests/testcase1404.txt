@@ -1,0 +1,32 @@
+INSERT kdrI number
+BEGIN
+LOOKUP kdrI
+INSERT fbd string
+INSERT wPJST9 string
+INSERT sMv number
+RPRINT
+INSERT vB9q number
+INSERT qNS number
+INSERT s number
+INSERT gaKm string
+BEGIN
+INSERT yAME number
+INSERT kA0Cu string
+PRINT
+INSERT rC5q string
+INSERT qYbLrV string
+INSERT ta number
+INSERT e9YU string
+PRINT
+INSERT wC string
+INSERT eRtc string
+INSERT eGfoH number
+INSERT uSqr number
+INSERT k2fTDF number
+LOOKUP s
+END
+PRINT
+INSERT ym4jEb number
+INSERT fCzjPr string
+fUMpk lo7f
+BEGIN

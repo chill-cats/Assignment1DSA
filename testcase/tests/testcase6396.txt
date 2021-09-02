@@ -1,0 +1,10 @@
+INSERT x string
+PRINT
+INSERT mP number
+INSERT meRlG number
+INSERT k2g string
+INSERT sdmi number
+INSERT cu4wf number
+INSERT i4 number
+LOOKUP mP
+INSERT l number

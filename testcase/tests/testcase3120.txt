@@ -1,0 +1,17 @@
+INSERT cFX string
+LOOKUP cFX
+INSERT nF number
+ASSIGN nF 'd3wQE'
+END
+BEGIN
+INSERT uLg3u string
+END
+LOOKUP nF
+INSERT yanNWR number
+INSERT m3o string
+INSERT ktdtJ string
+INSERT uVefNZ string
+INSERT iVMPN number
+ASSIGN uLg3u nF
+INSERT c string
+INSERT n number

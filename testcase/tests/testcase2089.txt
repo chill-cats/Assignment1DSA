@@ -1,0 +1,10 @@
+INSERT sz5kk3 number
+LOOKUP sz5kk3
+END
+END
+INSERT da string
+INSERT ctsj8X string
+INSERT efwJT number
+LOOKUP ctsj8X
+INSERT dxX number
+INSERT h1 number

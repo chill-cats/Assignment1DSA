@@ -1,0 +1,19 @@
+INSERT jSA string
+INSERT ns4 string
+INSERT uk1a number
+INSERT aou5I number
+wJvDH y
+INSERT qqHf string
+LOOKUP uk1a
+INSERT z string
+INSERT sJQ string
+RPRINT
+INSERT b string
+BEGIN
+INSERT ybv string
+INSERT ouC number
+INSERT tc number
+INSERT ep5Wj7 number
+INSERT g2RqL string
+INSERT tb string
+INSERT a string

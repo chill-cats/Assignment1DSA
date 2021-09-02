@@ -1,0 +1,28 @@
+INSERT haCY string
+RPRINT
+END
+ASSIGN haCY haCY
+ASSIGN haCY 573
+END
+INSERT wp number
+INSERT zqxoDH number
+INSERT zw7ZLn string
+INSERT hxF3vJ string
+INSERT dopPIP number
+ASSIGN wp 750
+ASSIGN hxF3vJ hxF3vJ
+INSERT t87j_ number
+INSERT r string
+RPRINT
+INSERT xgTSm string
+BEGIN
+INSERT xjcSyw string
+INSERT k string
+PRINT
+INSERT p17 number
+INSERT t36m number
+cdyt0 b
+END
+INSERT tep string
+LOOKUP t36m
+RPRINT

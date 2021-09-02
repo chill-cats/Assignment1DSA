@@ -1,0 +1,5 @@
+INSERT d203L number
+PRINT
+ASSIGN d203L 105
+INSERT h number
+LOOKUP h

@@ -1,0 +1,36 @@
+INSERT cqTnR string
+INSERT u3SvHF number
+LOOKUP u3SvHF
+INSERT r string
+PRINT
+INSERT l94G number
+PRINT
+BEGIN
+INSERT e number
+INSERT di8 string
+BEGIN
+INSERT dBoMso string
+INSERT sTLaP string
+bwJUwy g0Fi6
+INSERT q number
+INSERT rr string
+INSERT nkaf string
+RPRINT
+INSERT a2Fh string
+INSERT cVQV4 number
+RPRINT
+ASSIGN dBoMso 1060
+INSERT on7 number
+INSERT j36A6_ number
+INSERT nFZ8v string
+INSERT n string
+INSERT f5a number
+RPRINT
+INSERT cdy number
+BEGIN
+BEGIN
+INSERT yoxZyA string
+PRINT
+INSERT rB number
+INSERT ak7M number
+INSERT jr string

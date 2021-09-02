@@ -1,0 +1,33 @@
+INSERT mGClN7 number
+INSERT m5S string
+END
+INSERT jP string
+INSERT wKG string
+INSERT drG number
+ASSIGN m5S m5S
+zfX lr
+INSERT uYwXT5 number
+LOOKUP wKG
+RPRINT
+INSERT b number
+INSERT hY number
+hQ4N u
+INSERT pH2bko number
+PRINT
+INSERT u string
+END
+INSERT mtM number
+INSERT eRH number
+ASSIGN jP 'e'
+BEGIN
+INSERT dW string
+INSERT g string
+d iXoa
+LOOKUP jP
+INSERT ceun string
+BEGIN
+INSERT sI1Q string
+INSERT jCemx number
+BEGIN
+LOOKUP sI1Q
+BEGIN

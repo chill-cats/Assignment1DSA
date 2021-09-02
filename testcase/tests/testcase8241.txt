@@ -1,0 +1,32 @@
+INSERT vJhYb string
+INSERT cO8hkU number
+INSERT j4gK0 string
+END
+ASSIGN cO8hkU cO8hkU
+INSERT i number
+LOOKUP vJhYb
+RPRINT
+PRINT
+INSERT k_5 number
+ePsz tEwRD
+INSERT dh string
+INSERT wd string
+INSERT d7 string
+BEGIN
+INSERT dnb string
+INSERT v_5 string
+INSERT jr number
+INSERT zuvWGI number
+INSERT uNxz number
+INSERT hj0RW number
+INSERT yzh1JB string
+END
+ASSIGN vJhYb hj0RW
+END
+ASSIGN j4gK0 v_5
+BEGIN
+INSERT uCkca string
+END
+INSERT vA string
+INSERT e7MoI number
+RPRINT

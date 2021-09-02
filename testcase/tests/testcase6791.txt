@@ -1,0 +1,10 @@
+INSERT e string
+END
+BEGIN
+INSERT ql number
+INSERT vX string
+PRINT
+ASSIGN e 824
+RPRINT
+PRINT
+INSERT t0G number

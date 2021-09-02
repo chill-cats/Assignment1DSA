@@ -1,0 +1,39 @@
+END
+INSERT kBaEE number
+LOOKUP kBaEE
+ASSIGN kBaEE kBaEE
+INSERT rSB3 number
+INSERT caQxy number
+INSERT cF7 number
+INSERT kTT string
+INSERT fm number
+RPRINT
+INSERT uDmmxc number
+INSERT tGjyLW number
+vv3R jHB
+INSERT stzg string
+INSERT ulwbI string
+INSERT trWc9 number
+INSERT eJ0pT string
+INSERT gUX number
+INSERT amD4yA number
+INSERT tg number
+END
+INSERT z51FfF number
+INSERT z5oa string
+INSERT ik string
+ASSIGN amD4yA rSB3
+BEGIN
+INSERT kWC number
+LOOKUP z51FfF
+INSERT fDmk string
+INSERT c string
+LOOKUP z51FfF
+INSERT pn number
+INSERT ujy string
+INSERT exneap string
+INSERT uSJ5la number
+LOOKUP fDmk
+BEGIN
+INSERT q5K string
+INSERT s1r string

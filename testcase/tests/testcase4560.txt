@@ -1,0 +1,37 @@
+INSERT txp string
+INSERT lV6e6C number
+INSERT h string
+INSERT fm number
+INSERT lY9q number
+PRINT
+LOOKUP lY9q
+INSERT edE number
+INSERT s5k string
+END
+INSERT xAexu string
+RPRINT
+PRINT
+INSERT v4fu6K string
+PRINT
+INSERT dUCR string
+LOOKUP fm
+aZI8Ez cUd
+END
+pvb zH4tIO
+INSERT cKgL number
+INSERT w number
+PRINT
+INSERT e2ow number
+INSERT d1m4PJ number
+INSERT f number
+INSERT zd number
+END
+INSERT kAt string
+RPRINT
+INSERT e string
+PRINT
+INSERT skd number
+INSERT pRY number
+INSERT xzk3r number
+PRINT
+PRINT

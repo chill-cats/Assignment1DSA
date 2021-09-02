@@ -1,0 +1,30 @@
+INSERT ia number
+END
+INSERT s67XOP string
+END
+INSERT c string
+LOOKUP s67XOP
+INSERT uoqepq number
+INSERT zUoxKU number
+INSERT x23k string
+INSERT wH0c4 number
+INSERT okF number
+INSERT vy number
+INSERT uGi3 string
+LOOKUP okF
+END
+xoSH7s fWZfDL
+LOOKUP uoqepq
+INSERT nMJ8 number
+INSERT vH number
+INSERT cfI9 number
+INSERT bPG number
+INSERT wifa number
+END
+RPRINT
+a1 i6L
+INSERT wKj6 string
+ASSIGN okF 299
+INSERT zi number
+INSERT qcaCXV number
+INSERT bir9k_ number

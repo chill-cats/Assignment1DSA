@@ -1,0 +1,18 @@
+INSERT ixfx number
+RPRINT
+INSERT kZeOs number
+INSERT e number
+ASSIGN ixfx kZeOs
+INSERT jDw5 string
+INSERT aNM number
+INSERT hBigJ string
+PRINT
+LOOKUP e
+INSERT yRG string
+RPRINT
+ASSIGN jDw5 540
+INSERT eMcl string
+INSERT pput number
+INSERT bbhBe string
+qMb pqi
+INSERT ao7 number

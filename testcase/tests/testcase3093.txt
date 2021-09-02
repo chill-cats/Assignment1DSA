@@ -1,0 +1,31 @@
+INSERT wKF number
+INSERT c string
+INSERT qLeNk number
+INSERT i1iG string
+yilog q6YQx
+INSERT kdSA7O number
+END
+RPRINT
+INSERT yWa number
+INSERT pqLG number
+INSERT s number
+ASSIGN pqLG i1iG
+INSERT p0Qo number
+LOOKUP dt8
+INSERT k string
+INSERT oo string
+INSERT s9m18 string
+INSERT c0SGOP string
+INSERT wa string
+INSERT l3D1E string
+INSERT wU string
+INSERT bOn string
+INSERT to number
+LOOKUP pqLG
+INSERT nwRhg string
+PRINT
+INSERT i7 number
+PRINT
+INSERT lSVx number
+INSERT pA6F string
+INSERT xK number

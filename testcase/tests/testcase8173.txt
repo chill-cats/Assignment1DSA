@@ -1,0 +1,6 @@
+INSERT txjiN number
+INSERT kQ string
+PRINT
+LOOKUP kQ
+ASSIGN kQ 'KES'
+END

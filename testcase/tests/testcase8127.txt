@@ -1,0 +1,22 @@
+RPRINT
+INSERT jNIz number
+INSERT gORP7g string
+INSERT k number
+INSERT g4 string
+INSERT d string
+BEGIN
+ASSIGN g4 jNIz
+RPRINT
+INSERT fG7Nl string
+PRINT
+LOOKUP g4
+PRINT
+BEGIN
+yOiC7q hQ1
+INSERT myxzY5 number
+LOOKUP fG7Nl
+INSERT jw_ string
+INSERT ce0D1v string
+ASSIGN ce0D1v g4
+INSERT noaw string
+INSERT ghML number

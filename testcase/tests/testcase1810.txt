@@ -1,0 +1,13 @@
+INSERT c8y0 number
+BEGIN
+INSERT z_H8 string
+INSERT kU_oDG string
+END
+INSERT f string
+INSERT kmL string
+BEGIN
+INSERT qp5 string
+INSERT v number
+INSERT f string
+INSERT yZXwu string
+ASSIGN f 790

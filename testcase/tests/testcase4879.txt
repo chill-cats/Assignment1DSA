@@ -1,0 +1,13 @@
+INSERT j9qfdc string
+INSERT xt2 number
+INSERT t number
+INSERT n_ string
+INSERT o string
+INSERT oE5 string
+INSERT wsD string
+ASSIGN xt2 'NMp'
+ms vBl
+INSERT jUg string
+RPRINT
+INSERT vhE number
+INSERT jfKgy string

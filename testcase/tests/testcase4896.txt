@@ -1,0 +1,12 @@
+ASSIGN r 'Tz8C8'
+INSERT v number
+INSERT tBLD string
+INSERT wx number
+INSERT uOL number
+INSERT iJHuEC number
+INSERT l0BOr number
+INSERT t number
+LOOKUP l0BOr
+INSERT pXW number
+PRINT
+INSERT aH number

@@ -1,0 +1,20 @@
+ASSIGN wX 'Jip'
+RPRINT
+INSERT ij498_ string
+INSERT e string
+INSERT hY_ string
+INSERT ywa string
+i0wrHw g
+INSERT v9r number
+RPRINT
+INSERT wLYA string
+INSERT hoqi number
+RPRINT
+INSERT cFzp string
+INSERT zP number
+INSERT im_W string
+PRINT
+ASSIGN zP 281
+ASSIGN wLYA 148
+ASSIGN im_W 'q2'
+INSERT xn number

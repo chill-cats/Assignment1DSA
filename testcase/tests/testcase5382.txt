@@ -1,0 +1,17 @@
+INSERT sjgmgM string
+INSERT h number
+PRINT
+INSERT ydk string
+INSERT fl number
+BEGIN
+INSERT qU string
+BEGIN
+INSERT poJPPE number
+LOOKUP ydk
+LOOKUP fl
+PRINT
+INSERT kI number
+INSERT h7rFw number
+INSERT mU number
+LOOKUP poJPPE
+BEGIN

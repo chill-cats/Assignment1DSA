@@ -1,0 +1,15 @@
+INSERT ex string
+BEGIN
+ASSIGN fJFOd 'MJ'
+END
+si xO6
+ASSIGN ex 22
+INSERT m string
+INSERT su string
+INSERT v string
+INSERT tQWXq number
+INSERT d number
+INSERT g string
+RPRINT
+END
+LOOKUP d

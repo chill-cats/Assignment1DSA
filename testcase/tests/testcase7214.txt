@@ -1,0 +1,17 @@
+INSERT gEbUxn string
+INSERT w2 string
+INSERT f string
+LOOKUP w2
+pu_b c0H1g
+RPRINT
+LOOKUP gEbUxn
+INSERT gFGh string
+INSERT cU5 string
+INSERT m number
+INSERT euG string
+kYZ tNnAt
+INSERT nnQY42 number
+INSERT v2gj4q number
+INSERT aAKOD number
+INSERT rHN number
+ASSIGN gEbUxn 'BN Im'

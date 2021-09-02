@@ -1,0 +1,7 @@
+RPRINT
+INSERT gx string
+INSERT yokUZy number
+eIg zJ_
+INSERT ly string
+BEGIN
+INSERT ikRP number

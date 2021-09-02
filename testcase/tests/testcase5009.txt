@@ -1,0 +1,9 @@
+PRINT
+INSERT deIM0 string
+INSERT n number
+RPRINT
+INSERT ug string
+INSERT aBDWL string
+INSERT h number
+ASSIGN aBDWL 'VPUx'
+INSERT vxsgX number

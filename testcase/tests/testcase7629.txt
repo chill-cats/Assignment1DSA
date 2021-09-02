@@ -1,0 +1,14 @@
+INSERT sm6 number
+INSERT ncy number
+RPRINT
+INSERT aPi string
+LOOKUP aPi
+LOOKUP sm6
+LOOKUP sm6
+INSERT dm string
+RPRINT
+INSERT pQ9hR string
+INSERT g number
+INSERT v string
+INSERT r string
+RPRINT

@@ -1,0 +1,34 @@
+INSERT nz number
+RPRINT
+INSERT r_WTsh string
+INSERT de1 string
+RPRINT
+INSERT tEwgFR string
+ASSIGN r_WTsh r_WTsh
+END
+spg z8w7
+RPRINT
+INSERT fHf number
+INSERT wIxDY number
+LOOKUP tEwgFR
+INSERT g string
+INSERT jC string
+INSERT i string
+INSERT tF number
+fILRwr lcAXjH
+RPRINT
+INSERT yz string
+ia7tTY xvKRF
+INSERT wUdro number
+INSERT jYA number
+END
+INSERT v1Dil number
+INSERT bPwu4 string
+INSERT qO9 number
+END
+gQtZ u
+INSERT k3RGz number
+END
+INSERT pN number
+LOOKUP xG
+PRINT

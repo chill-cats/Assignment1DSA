@@ -1,0 +1,19 @@
+INSERT bI81 number
+INSERT i number
+INSERT oCzHX string
+INSERT ulE3e number
+INSERT t string
+INSERT w string
+xoxPp o2Ogb
+INSERT g number
+INSERT ya4 string
+INSERT fe number
+PRINT
+INSERT iYCf number
+BEGIN
+LOOKUP g
+BEGIN
+INSERT c number
+INSERT qb string
+INSERT fp number
+INSERT rnpl number

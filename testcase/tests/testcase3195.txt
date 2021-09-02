@@ -1,0 +1,24 @@
+INSERT kb7pl string
+INSERT kAMS number
+INSERT wcQn string
+LOOKUP kAMS
+RPRINT
+RPRINT
+INSERT r_Gd number
+INSERT zFVWxZ string
+INSERT pxo7Q2 number
+INSERT wO string
+INSERT gbZt number
+RPRINT
+INSERT gd string
+INSERT c number
+INSERT u number
+BEGIN
+INSERT dV2 number
+INSERT j24_0Q string
+ASSIGN zFVWxZ 'wLRyL'
+INSERT qvUfE string
+INSERT o string
+INSERT hrSxaY number
+INSERT epx0X string
+INSERT pu string

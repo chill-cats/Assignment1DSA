@@ -1,0 +1,19 @@
+INSERT r string
+RPRINT
+PRINT
+BEGIN
+INSERT eAww string
+RPRINT
+LOOKUP leZ
+END
+INSERT w number
+INSERT h5f9M_ number
+INSERT sCQ number
+INSERT z number
+END
+LOOKUP r
+INSERT qy8HZ number
+BEGIN
+INSERT n string
+INSERT tN2 number
+INSERT qB_UPK number

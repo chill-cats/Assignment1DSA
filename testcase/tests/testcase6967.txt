@@ -1,0 +1,6 @@
+BEGIN
+LOOKUP g
+INSERT elmW number
+kB hCq
+BEGIN
+LOOKUP elmW

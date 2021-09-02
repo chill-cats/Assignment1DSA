@@ -1,0 +1,39 @@
+END
+INSERT is string
+INSERT ndh number
+INSERT mUD string
+ASSIGN mUD mUD
+END
+PRINT
+LOOKUP ndh
+LOOKUP mUD
+uxm r6pbWu
+INSERT pB9CL number
+INSERT yx7o string
+pwQj xMmn
+INSERT xV3rk number
+END
+LOOKUP xV3rk
+PRINT
+LOOKUP mUD
+END
+INSERT hYe85 number
+INSERT e2HG1 string
+INSERT sSA number
+INSERT oc string
+INSERT if_o0K number
+RPRINT
+ou9ALM qeN
+INSERT e string
+INSERT eKxPQ4 string
+INSERT n number
+INSERT dhcd number
+END
+INSERT pQZ string
+INSERT z number
+INSERT qH string
+INSERT cZt number
+PRINT
+INSERT xC1ZKG string
+INSERT qk_vp string
+p il9

@@ -1,0 +1,24 @@
+INSERT bBI string
+INSERT lOz number
+INSERT pN number
+INSERT a1D number
+INSERT fRS number
+BEGIN
+ASSIGN lOz 133
+ASSIGN a1D 640
+INSERT c1g5S number
+PRINT
+BEGIN
+LOOKUP a1D
+ASSIGN lOz 410
+INSERT rv string
+INSERT h7bk string
+yfw mV
+INSERT zZmP number
+PRINT
+END
+END
+INSERT vF2 number
+INSERT a6 number
+BEGIN
+INSERT m0zhTv string

@@ -1,0 +1,28 @@
+LOOKUP e
+INSERT k number
+INSERT jjB number
+INSERT nPRz7 number
+PRINT
+INSERT y6j number
+INSERT bRU number
+INSERT abD string
+INSERT vO number
+INSERT oM6J string
+INSERT pWvHcp number
+PRINT
+INSERT ph10OO string
+RPRINT
+INSERT v number
+INSERT luxxXz string
+INSERT y string
+LOOKUP jjB
+INSERT wG2 string
+END
+LOOKUP bRU
+RPRINT
+gdKu ll
+PRINT
+INSERT s string
+INSERT s string
+INSERT j number
+PRINT

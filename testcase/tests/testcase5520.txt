@@ -1,0 +1,7 @@
+ASSIGN q 916
+PRINT
+RPRINT
+x157P ehDadS
+INSERT kH5 number
+RPRINT
+INSERT g string

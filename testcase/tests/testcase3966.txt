@@ -1,0 +1,11 @@
+INSERT bYYdC string
+ASSIGN bYYdC bYYdC
+ASSIGN bYYdC 'mP'
+INSERT f12 number
+BEGIN
+ASSIGN f12 bYYdC
+ASSIGN f12 389
+INSERT scG4 number
+INSERT z number
+PRINT
+END

@@ -1,0 +1,20 @@
+INSERT r string
+vj a
+INSERT w_9 number
+ASSIGN r w_9
+END
+INSERT zloS string
+INSERT pbCrWb string
+LOOKUP r
+INSERT tt6ocL number
+INSERT zKAgH number
+ASSIGN zloS w_9
+INSERT qLxE string
+END
+END
+LOOKUP pbCrWb
+PRINT
+INSERT kFFrbW string
+INSERT pQ3 string
+END
+INSERT sJ2F2m string

@@ -1,0 +1,5 @@
+END
+END
+INSERT aj number
+RPRINT
+INSERT tb0mXE string

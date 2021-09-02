@@ -1,0 +1,16 @@
+LOOKUP zab
+INSERT zW7g number
+INSERT piHp number
+RPRINT
+PRINT
+INSERT w number
+END
+INSERT x number
+INSERT na1bK number
+INSERT sAEf16 string
+INSERT bBv0AD string
+INSERT hbsVt7 string
+BEGIN
+INSERT b number
+INSERT luOYm string
+BEGIN

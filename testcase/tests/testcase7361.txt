@@ -1,0 +1,40 @@
+END
+PRINT
+INSERT pS6S number
+RPRINT
+INSERT kaMmR string
+INSERT t number
+INSERT iFxw string
+BEGIN
+INSERT h_ string
+INSERT uMsa string
+INSERT b string
+PRINT
+END
+LOOKUP pS6S
+INSERT mB string
+END
+BEGIN
+INSERT zLb string
+INSERT jjVBpo number
+INSERT maI string
+INSERT rbS string
+INSERT qLy09 number
+ASSIGN maI jjVBpo
+INSERT sQJc string
+INSERT jE string
+INSERT v_ string
+ASSIGN kaMmR 'I'
+INSERT a9YDD string
+BEGIN
+INSERT ssIir number
+BEGIN
+INSERT o string
+INSERT nUNC string
+LOOKUP sQJc
+ASSIGN nUNC 'SLZoX'
+RPRINT
+INSERT qA9BWh number
+INSERT o string
+PRINT
+INSERT uH number

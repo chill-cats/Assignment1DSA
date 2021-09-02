@@ -1,0 +1,31 @@
+RPRINT
+RPRINT
+INSERT hYL_R string
+INSERT dXiOb number
+END
+INSERT mKrdv number
+INSERT j string
+wSe g0cfu
+INSERT ttUZb2 string
+INSERT t string
+END
+INSERT dksBBj number
+INSERT xYqf string
+LOOKUP ttUZb2
+LOOKUP dksBBj
+INSERT fgGZ number
+INSERT tgtc string
+INSERT brKvB string
+INSERT w string
+INSERT w number
+ASSIGN tMs '86C'
+END
+LOOKUP tgtc
+p4Zz eRy
+ASSIGN dksBBj t
+INSERT uA number
+INSERT yv string
+RPRINT
+LOOKUP w
+LOOKUP tgtc
+INSERT s_L9 number

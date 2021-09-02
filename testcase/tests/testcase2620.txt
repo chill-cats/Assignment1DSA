@@ -1,0 +1,26 @@
+INSERT nDZX2D number
+INSERT h9ND number
+INSERT t9G_i string
+PRINT
+INSERT mJFf string
+INSERT kExu string
+LOOKUP mJFf
+INSERT d string
+END
+INSERT px string
+PRINT
+INSERT sGA3 number
+INSERT s number
+BEGIN
+INSERT ff string
+INSERT mpd1H string
+BEGIN
+RPRINT
+INSERT jxZXTE string
+INSERT nFZw string
+ASSIGN t9G_i 799
+INSERT m8vo number
+INSERT s0l string
+BEGIN
+END
+INSERT hcCPq string

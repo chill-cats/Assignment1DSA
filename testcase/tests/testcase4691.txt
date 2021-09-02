@@ -1,0 +1,25 @@
+RPRINT
+INSERT px number
+INSERT eR string
+INSERT vWWN string
+INSERT rxE number
+INSERT dt string
+INSERT yrAC number
+INSERT vFt4E number
+huDcAE wSCd
+ASSIGN dt 1038
+INSERT vQxO number
+INSERT yJdp string
+PRINT
+INSERT kRSjAg number
+INSERT rTOO string
+END
+ey6zX a8oL
+LOOKUP rxE
+INSERT bPSvx string
+RPRINT
+baX c3_S
+INSERT sen number
+INSERT un98oT string
+INSERT oD2zw string
+INSERT pvM string

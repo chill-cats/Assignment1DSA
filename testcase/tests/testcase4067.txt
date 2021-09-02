@@ -1,0 +1,18 @@
+INSERT tGl4QJ number
+BEGIN
+INSERT tHb4h string
+INSERT k string
+LOOKUP tHb4h
+INSERT o number
+PRINT
+RPRINT
+INSERT le string
+INSERT fFUE6 string
+INSERT gv1 string
+INSERT gORYa number
+INSERT gl8f number
+INSERT v string
+END
+ASSIGN o 'L'
+INSERT ynk number
+ASSIGN gv1 53

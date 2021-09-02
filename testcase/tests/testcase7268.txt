@@ -1,0 +1,20 @@
+ASSIGN dHuT 299
+BEGIN
+ASSIGN rnYs 'GsK'
+INSERT pJ49 number
+INSERT wxO4K string
+INSERT bOY number
+INSERT gLlFx number
+INSERT bKQOu string
+INSERT hhIb number
+INSERT sx string
+INSERT by number
+END
+LOOKUP bOY
+INSERT m number
+PRINT
+INSERT v2B number
+INSERT ogdibN string
+INSERT a number
+INSERT rICc number
+RPRINT

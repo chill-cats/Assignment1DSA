@@ -1,0 +1,30 @@
+INSERT prj7c number
+INSERT d number
+INSERT oak string
+BEGIN
+INSERT kEugR3 string
+INSERT uUti string
+xR9 w39IR
+LOOKUP prj7c
+END
+INSERT dVG number
+LOOKUP d
+INSERT uA4 string
+INSERT wQB string
+INSERT pF string
+RPRINT
+INSERT y number
+INSERT pnWa string
+INSERT n number
+INSERT y7oR string
+PRINT
+PRINT
+ASSIGN dVG 310
+oV t
+INSERT dQ number
+INSERT xl string
+INSERT beye string
+LOOKUP pnWa
+INSERT iEa number
+LOOKUP kEugR3
+INSERT s_GGbs number

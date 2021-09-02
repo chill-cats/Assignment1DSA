@@ -1,0 +1,5 @@
+INSERT rY0 number
+RPRINT
+INSERT nL2 number
+INSERT oND1gW string
+INSERT vEcQ string

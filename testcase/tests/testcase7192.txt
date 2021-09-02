@@ -1,0 +1,18 @@
+INSERT n2aUVE string
+INSERT tt string
+ASSIGN tt 1120
+INSERT mUq2 string
+INSERT fY string
+END
+RPRINT
+INSERT g string
+INSERT gyj string
+uOAG dRWLiR
+ie kEM
+END
+INSERT y string
+END
+LOOKUP n2aUVE
+BEGIN
+INSERT t number
+INSERT hNdo number

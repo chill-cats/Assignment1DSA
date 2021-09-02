@@ -1,0 +1,32 @@
+ASSIGN zy 462
+ASSIGN o6zg 185
+PRINT
+INSERT ufpI string
+INSERT cqQtJi string
+INSERT i1e number
+LOOKUP i1e
+INSERT xx number
+END
+INSERT u_ string
+INSERT muJ number
+BEGIN
+END
+INSERT lVhj string
+ASSIGN xx xx
+ASSIGN cqQtJi u_
+INSERT aR2s string
+INSERT q9Kad number
+INSERT nt string
+INSERT a string
+INSERT lHnA string
+BEGIN
+INSERT xCk number
+RPRINT
+INSERT wwvi number
+PRINT
+INSERT aPd number
+INSERT vMX string
+RPRINT
+wp gLHc
+INSERT df number
+INSERT jGl number

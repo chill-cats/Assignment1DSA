@@ -1,0 +1,4 @@
+INSERT tU number
+INSERT tK number
+LOOKUP tU
+INSERT eXN4L_ number

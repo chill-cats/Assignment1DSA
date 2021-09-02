@@ -1,0 +1,10 @@
+LOOKUP kng
+BEGIN
+ASSIGN cMg5l '6'
+INSERT wPv number
+PRINT
+INSERT d string
+INSERT yGYIr number
+INSERT mOI number
+INSERT l0 number
+BEGIN

@@ -1,0 +1,33 @@
+BEGIN
+INSERT aI string
+INSERT i0wNga number
+INSERT gJIU string
+INSERT l string
+RPRINT
+INSERT uok number
+INSERT wjRt string
+INSERT ug number
+INSERT lrTb string
+END
+BEGIN
+INSERT jNY string
+INSERT w number
+INSERT tMh number
+INSERT iMZLa number
+ASSIGN l 't5WoQ'
+INSERT cjK number
+INSERT v5FE9O number
+PRINT
+INSERT btMm string
+INSERT c1 string
+INSERT ftg number
+INSERT n_ string
+INSERT x number
+LOOKUP ug
+INSERT fP5 string
+INSERT s number
+RPRINT
+LOOKUP aLl3
+INSERT a3B3 string
+ASSIGN a3B3 '4NPc2'
+INSERT d string

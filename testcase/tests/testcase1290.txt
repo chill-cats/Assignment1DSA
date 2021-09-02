@@ -1,0 +1,13 @@
+PRINT
+INSERT g8n5ft number
+BEGIN
+LOOKUP g8n5ft
+ASSIGN g8n5ft g8n5ft
+INSERT dTeyy7 number
+INSERT lP string
+ASSIGN dTeyy7 'X4'
+INSERT zNdwx string
+INSERT sg number
+PRINT
+INSERT eDQX string
+RPRINT

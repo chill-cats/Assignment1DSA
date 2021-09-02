@@ -1,0 +1,11 @@
+RPRINT
+END
+INSERT z string
+ASSIGN z 513
+PRINT
+INSERT sr7z string
+ASSIGN sr7z 'F0 J'
+INSERT q_pPV string
+RPRINT
+INSERT z3ZD string
+END

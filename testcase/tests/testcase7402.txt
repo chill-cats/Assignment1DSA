@@ -1,0 +1,20 @@
+INSERT imWh number
+INSERT cwnXF7 string
+END
+INSERT gvLVd string
+INSERT yNI string
+INSERT e string
+INSERT e4 string
+END
+LOOKUP imWh
+INSERT lo string
+INSERT mX_y number
+RPRINT
+INSERT wL6wW number
+INSERT x1tM number
+END
+INSERT cmqUi string
+INSERT irmPy string
+END
+LOOKUP imWh
+INSERT j string

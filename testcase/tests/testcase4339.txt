@@ -1,0 +1,39 @@
+LOOKUP o1Joli
+INSERT mKxN number
+INSERT vwV6I string
+INSERT hoWrjp number
+INSERT eP31o string
+gr0F8 s
+INSERT cYh string
+INSERT qjzsU number
+INSERT sGeEp string
+INSERT i number
+y7k wOyT_W
+RPRINT
+PRINT
+LOOKUP mKxN
+PRINT
+RPRINT
+INSERT kjeWI number
+ASSIGN vwV6I 'OBxDT'
+INSERT aWM number
+INSERT oF string
+RPRINT
+INSERT cAck string
+INSERT bK string
+BEGIN
+INSERT vgMf string
+INSERT u string
+INSERT l string
+INSERT qS string
+BEGIN
+INSERT ipPOu_ number
+LOOKUP mKxN
+INSERT pdU string
+INSERT v9lji number
+INSERT y0kC string
+INSERT co_A7 number
+END
+INSERT yK string
+INSERT j string
+BEGIN

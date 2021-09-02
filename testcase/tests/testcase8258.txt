@@ -1,0 +1,12 @@
+ue2 n
+onOFCl cov
+INSERT cCtJB0 string
+ASSIGN cCtJB0 31
+INSERT cZVFNd number
+INSERT dXD number
+INSERT fO number
+ASSIGN cZVFNd fO
+PRINT
+INSERT us number
+END
+INSERT v string

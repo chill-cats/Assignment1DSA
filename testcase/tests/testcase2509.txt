@@ -1,0 +1,31 @@
+INSERT dGj number
+ASSIGN dGj 'Pr'
+INSERT cX number
+LOOKUP dGj
+INSERT x string
+t3_Uz vvE3gi
+LOOKUP cX
+INSERT zxKbC string
+END
+END
+INSERT l2 string
+PRINT
+RPRINT
+ASSIGN l2 dGj
+INSERT nC1pro number
+INSERT ji4 number
+hJ bx
+INSERT vi number
+INSERT c75zVz number
+INSERT bv number
+INSERT eGfac string
+RPRINT
+INSERT xa string
+LOOKUP nC1pro
+PRINT
+INSERT w string
+END
+INSERT yheEV number
+INSERT hQG string
+INSERT d string
+INSERT nyHOPg string

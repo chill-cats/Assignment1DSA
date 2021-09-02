@@ -1,0 +1,36 @@
+INSERT bjw number
+BEGIN
+INSERT jUkkg number
+INSERT sKS string
+INSERT uZ string
+INSERT yA string
+PRINT
+LOOKUP bjw
+INSERT uBQtg number
+ASSIGN uBQtg 'av'
+INSERT fg number
+END
+INSERT tgaNFd string
+l z
+INSERT nOXg1 string
+RPRINT
+INSERT d number
+INSERT f string
+INSERT p90 string
+LOOKUP uBQtg
+END
+END
+PRINT
+kwS iVQMt
+INSERT rFp string
+INSERT xu2T3 string
+ASSIGN xu2T3 'oJk'
+ASSIGN uZ yA
+INSERT arF1 string
+INSERT vD__dg number
+INSERT xl string
+PRINT
+cWWsi bIq
+RPRINT
+PRINT
+END

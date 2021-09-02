@@ -1,0 +1,22 @@
+w iD3qIb
+INSERT qgD string
+INSERT bfr number
+ASSIGN bfr qgD
+INSERT ujJIAC number
+INSERT h number
+INSERT siv string
+bhdft c79H
+END
+INSERT pp string
+INSERT iG string
+LOOKUP qgD
+BEGIN
+INSERT s number
+INSERT u string
+INSERT wRlb string
+END
+INSERT g0 number
+RPRINT
+INSERT u7Iry number
+ASSIGN u 477
+PRINT

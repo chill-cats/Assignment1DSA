@@ -1,0 +1,7 @@
+BEGIN
+ASSIGN dCWi 'SW'
+INSERT vF string
+INSERT uBLhW number
+END
+INSERT vhPf number
+INSERT qiosU number

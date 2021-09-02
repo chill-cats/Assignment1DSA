@@ -1,0 +1,35 @@
+dU tzhQ
+BEGIN
+RPRINT
+BEGIN
+INSERT n string
+INSERT e string
+INSERT sG string
+LOOKUP n
+INSERT m_WTfw string
+BEGIN
+BEGIN
+INSERT x number
+INSERT uyy number
+INSERT e_F5N6 string
+PRINT
+ASSIGN sG '9QAp2'
+INSERT i number
+ASSIGN m_WTfw 'sQ6'
+INSERT ut_KNs string
+INSERT tGY string
+INSERT iDE number
+INSERT wGvd string
+INSERT qI number
+INSERT og string
+INSERT fOk number
+PRINT
+INSERT dTl number
+INSERT o number
+INSERT cxBOa number
+ASSIGN uyy 168
+INSERT u1Y number
+INSERT i1K1Q string
+INSERT im29N string
+INSERT iG9 string
+RPRINT

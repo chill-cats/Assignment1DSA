@@ -1,0 +1,16 @@
+INSERT y number
+INSERT tfPre string
+INSERT aj number
+RPRINT
+INSERT hYJ string
+PRINT
+END
+INSERT jr string
+ASSIGN tfPre 'yH'
+ASSIGN aj 'Q'
+INSERT eFT string
+INSERT cMhI number
+INSERT e number
+INSERT nlICSy number
+ASSIGN hYJ eFT
+BEGIN

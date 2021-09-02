@@ -1,0 +1,33 @@
+INSERT tbTDy string
+BEGIN
+INSERT qQ6 string
+LOOKUP qQ6
+INSERT trD string
+INSERT gi string
+RPRINT
+INSERT hApF_I number
+RPRINT
+LOOKUP tbTDy
+LOOKUP hApF_I
+INSERT aKJBr number
+INSERT a string
+INSERT kOdGm4 string
+RPRINT
+p y
+LOOKUP trD
+INSERT zq4LP6 string
+INSERT z string
+INSERT zMX number
+LOOKUP zMX
+INSERT hpT string
+ASSIGN qQ6 'U'
+INSERT t6 number
+RPRINT
+INSERT zlk string
+INSERT ocQ number
+RPRINT
+END
+ASSIGN ocQ 1218
+INSERT yDS string
+fCK hNS
+BEGIN

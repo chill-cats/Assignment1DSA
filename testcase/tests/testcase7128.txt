@@ -1,0 +1,32 @@
+INSERT v6w string
+LOOKUP v6w
+INSERT oIGo string
+INSERT vkUZS string
+INSERT qc number
+INSERT vrgqzF number
+RPRINT
+INSERT xg5O number
+INSERT ohS9 number
+ASSIGN oIGo 's'
+LOOKUP v6w
+PRINT
+INSERT r string
+ASSIGN ohS9 xg5O
+PRINT
+BEGIN
+INSERT i1s number
+INSERT g0EEN string
+INSERT hBEdlN string
+INSERT wAC number
+INSERT nNT number
+INSERT ybYtML number
+RPRINT
+ASSIGN xg5O 'z'
+INSERT zQT1k number
+INSERT t7DMA string
+INSERT vx number
+ASSIGN oIGo zQT1k
+INSERT jTv_7A string
+INSERT oB3 number
+kYvTaX xVQ
+cg hzMBs

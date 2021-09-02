@@ -1,0 +1,10 @@
+BEGIN
+RPRINT
+INSERT jHfOP number
+END
+ASSIGN jHfOP jHfOP
+v sqdx
+RPRINT
+INSERT rH string
+BEGIN
+INSERT jMDHrG string

@@ -1,0 +1,7 @@
+INSERT s number
+PRINT
+INSERT vwaQJ string
+PRINT
+INSERT t string
+INSERT mDQlT number
+INSERT tmwK6 number

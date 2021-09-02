@@ -1,0 +1,30 @@
+INSERT kkVcEF string
+LOOKUP kkVcEF
+INSERT sn string
+INSERT wl9n string
+INSERT p0wLsr string
+INSERT p number
+INSERT fvO string
+INSERT cgJ3Bf number
+INSERT t0EgxG number
+INSERT x69yQN string
+INSERT iEokW string
+PRINT
+INSERT l number
+END
+PRINT
+END
+INSERT d8 string
+INSERT i string
+PRINT
+INSERT sY number
+INSERT vnF number
+BEGIN
+INSERT agwjMY string
+INSERT rgD number
+ASSIGN agwjMY 'kTT'
+INSERT ds string
+INSERT i5Il number
+INSERT iKPFek number
+INSERT kx string
+INSERT dtqOm number

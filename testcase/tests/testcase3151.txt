@@ -1,0 +1,21 @@
+INSERT js string
+RPRINT
+INSERT tTf string
+RPRINT
+INSERT sTsZX number
+INSERT a number
+INSERT xaS4 number
+oAhUcK sfW_
+END
+INSERT dJtr number
+INSERT b number
+PRINT
+ASSIGN xaS4 'U'
+BEGIN
+BEGIN
+INSERT ody string
+END
+INSERT rNHv string
+INSERT zgl number
+INSERT xW string
+INSERT qhF9T number

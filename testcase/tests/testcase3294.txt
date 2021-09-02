@@ -1,0 +1,39 @@
+INSERT lD string
+INSERT j number
+INSERT d number
+INSERT r7FXe string
+INSERT u number
+INSERT c number
+ASSIGN r7FXe 47
+INSERT a8 number
+INSERT f number
+END
+INSERT wWm number
+INSERT e string
+INSERT rWZ2 number
+INSERT ww string
+INSERT uDgbu number
+RPRINT
+INSERT cEo number
+INSERT tg string
+ASSIGN lD 'c2S6'
+INSERT n number
+INSERT wTO number
+INSERT j0 string
+PRINT
+INSERT kNw3c8 number
+whkS dT29
+zz13p z7iY
+INSERT x1IQ string
+BEGIN
+INSERT j4 number
+ASSIGN kNw3c8 '1XB M'
+ASSIGN tg 236
+ASSIGN kNw3c8 'pX7x'
+INSERT q string
+PRINT
+INSERT w string
+INSERT nHh1 number
+END
+INSERT hYNZ string
+BEGIN

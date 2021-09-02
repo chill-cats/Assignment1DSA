@@ -1,0 +1,26 @@
+END
+INSERT r string
+INSERT idN5o number
+INSERT t string
+INSERT xr_Z string
+INSERT tELC number
+PRINT
+LOOKUP r
+INSERT yHOc8C number
+INSERT s9B98g number
+INSERT jop number
+INSERT c9Z number
+LOOKUP r
+INSERT xIf string
+INSERT eM_9Ed string
+LOOKUP s9B98g
+INSERT bavD number
+INSERT c9ki number
+INSERT aIjZ4_ string
+INSERT wT2 string
+INSERT nr number
+INSERT wLt number
+INSERT bLaz number
+INSERT nRfM number
+INSERT p_d42t number
+RPRINT

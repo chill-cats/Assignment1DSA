@@ -1,0 +1,37 @@
+INSERT tyA number
+LOOKUP tyA
+RPRINT
+ASSIGN tyA tyA
+INSERT a8MtB string
+BEGIN
+INSERT u number
+INSERT qr3 number
+END
+BEGIN
+yCf0o xFz9
+INSERT scV string
+INSERT zRDxq3 string
+INSERT fvE number
+INSERT f2S50 number
+INSERT d string
+BEGIN
+ASSIGN f2S50 847
+desenC d8a
+INSERT z number
+INSERT gVk_3 number
+INSERT m3NR number
+INSERT quAL number
+INSERT xKi string
+INSERT fPM number
+PRINT
+INSERT b string
+PRINT
+INSERT lYT1iO number
+INSERT h number
+INSERT rxXHh number
+BEGIN
+INSERT hnD number
+INSERT u4 number
+PRINT
+ASSIGN fPM '7B1j'
+cwyjpC cOP6

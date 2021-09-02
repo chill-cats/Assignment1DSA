@@ -1,0 +1,31 @@
+INSERT hzBs6 number
+INSERT u7i number
+INSERT q string
+LOOKUP u7i
+INSERT mOasCr string
+INSERT lzyPZ number
+END
+ASSIGN hzBs6 q
+INSERT zP string
+INSERT ws0_ string
+BEGIN
+RPRINT
+RPRINT
+INSERT jPkh number
+INSERT eF_ number
+ASSIGN ws0_ 634
+INSERT lGt number
+INSERT mJqB string
+END
+cjI m2V
+INSERT u4 string
+INSERT o number
+LOOKUP zuby
+INSERT zEMn string
+INSERT u5jc string
+INSERT mRqf_ number
+INSERT qJLk93 string
+RPRINT
+INSERT e number
+INSERT u number
+INSERT lLf5t string

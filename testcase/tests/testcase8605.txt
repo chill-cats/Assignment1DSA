@@ -1,0 +1,40 @@
+END
+INSERT qYyAK string
+INSERT x_HkF number
+LOOKUP x_HkF
+INSERT gx number
+LOOKUP gx
+LOOKUP x_HkF
+INSERT oZnMK string
+INSERT d number
+LOOKUP gx
+INSERT eovPPL string
+INSERT p4W number
+INSERT tkvz2t number
+INSERT oDb string
+INSERT x number
+BEGIN
+ASSIGN eovPPL 6
+INSERT rlQrI string
+PRINT
+INSERT peWQa string
+PRINT
+INSERT qbKZ string
+INSERT b129B string
+BEGIN
+PRINT
+INSERT y8OPPx number
+PRINT
+INSERT dYbZGK number
+INSERT y9 number
+INSERT c number
+INSERT txIn string
+INSERT hbAF string
+PRINT
+INSERT t76 number
+INSERT zb7XNa string
+INSERT b number
+INSERT w number
+RPRINT
+INSERT n string
+RPRINT

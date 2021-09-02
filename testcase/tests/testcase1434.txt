@@ -1,0 +1,39 @@
+INSERT gjyyC number
+END
+INSERT rL string
+INSERT lr string
+LOOKUP rL
+LOOKUP lr
+INSERT b number
+INSERT kUN number
+INSERT e7y number
+INSERT a number
+ASSIGN gjyyC b
+INSERT n9 number
+ASSIGN a lr
+INSERT g5uT number
+INSERT iHbS string
+INSERT hlRlGL string
+PRINT
+INSERT tq string
+INSERT hkSARc string
+END
+INSERT e_gwLo string
+INSERT hnJ9y number
+INSERT n8Pq string
+INSERT dDwXV string
+INSERT xI number
+PRINT
+rbU2 eF
+PRINT
+INSERT v string
+INSERT b string
+INSERT k5T4 number
+INSERT y number
+ASSIGN n8Pq g5uT
+INSERT jMDEe number
+INSERT m string
+INSERT hy4i1 string
+INSERT kcjs number
+INSERT n6JWv string
+INSERT cZqQg number

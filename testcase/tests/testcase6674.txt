@@ -1,0 +1,32 @@
+ln uvmL
+INSERT znt0_ string
+INSERT c_tY string
+RPRINT
+INSERT eE1ID string
+ASSIGN eE1ID 436
+INSERT d string
+INSERT dP string
+INSERT r1y string
+LOOKUP dP
+END
+INSERT zsv1_G string
+LOOKUP cbTpb
+INSERT kYGjNI string
+INSERT nIjKV4 number
+INSERT qw6S69 string
+INSERT kM number
+INSERT gmwI9 string
+INSERT c number
+BEGIN
+LOOKUP nIjKV4
+INSERT h18Yr number
+INSERT rYKB number
+PRINT
+INSERT v8 string
+INSERT qROZpc number
+END
+INSERT v string
+INSERT w string
+INSERT u7S4 string
+INSERT a6pL string
+ASSIGN u7S4 'fr'

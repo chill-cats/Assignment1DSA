@@ -1,0 +1,15 @@
+INSERT e0eYYR number
+INSERT bKy number
+BEGIN
+PRINT
+LOOKUP bKy
+INSERT t string
+iA w09Z
+INSERT gHCZ number
+RPRINT
+INSERT pym number
+END
+INSERT lF string
+ASSIGN pym bKy
+INSERT fT string
+INSERT ws number

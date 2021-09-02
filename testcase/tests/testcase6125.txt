@@ -1,0 +1,2 @@
+INSERT fezcS string
+INSERT bjI number

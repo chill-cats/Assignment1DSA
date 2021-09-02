@@ -1,0 +1,7 @@
+ASSIGN b 982
+BEGIN
+INSERT z string
+INSERT x5WpX number
+INSERT zKBW string
+INSERT eE string
+END

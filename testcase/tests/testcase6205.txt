@@ -1,0 +1,24 @@
+INSERT uYl string
+INSERT yT string
+LOOKUP uYl
+INSERT o string
+INSERT oJT number
+INSERT sms number
+INSERT xN9 number
+INSERT v string
+INSERT v3YK number
+INSERT v number
+PRINT
+INSERT w number
+INSERT hLHC number
+INSERT eoicE6 string
+INSERT b9Rz number
+INSERT b number
+INSERT sW string
+ASSIGN v 1016
+ASSIGN uYl 'LTJ'
+RPRINT
+INSERT dpF string
+END
+INSERT tf string
+INSERT dU number

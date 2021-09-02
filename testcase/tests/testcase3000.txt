@@ -1,0 +1,16 @@
+BEGIN
+INSERT g number
+INSERT lc0dha number
+RPRINT
+INSERT ul string
+cp5 km187l
+INSERT y7QZl string
+LOOKUP y7QZl
+INSERT boxs string
+PRINT
+BEGIN
+INSERT a number
+INSERT y9 string
+INSERT eSQM number
+h sk4fJG
+INSERT n string

@@ -1,0 +1,39 @@
+INSERT uvgtI string
+PRINT
+INSERT h45F string
+INSERT gMjt2 string
+INSERT p string
+END
+INSERT i string
+INSERT p number
+INSERT h number
+END
+INSERT v_ string
+INSERT z9Fmx string
+PRINT
+BEGIN
+LOOKUP z9Fmx
+INSERT v5w7 string
+INSERT bvk string
+INSERT e string
+PRINT
+INSERT t_ string
+BEGIN
+INSERT oabJ string
+INSERT gQfHm number
+INSERT l number
+ASSIGN p 'J0'
+LOOKUP uvgtI
+INSERT t81I string
+LOOKUP d5Oqm
+INSERT shaH string
+INSERT z8M1H string
+INSERT t number
+INSERT wb number
+RPRINT
+INSERT o_Jlt string
+INSERT xxoh number
+ASSIGN z9Fmx 'c'
+RPRINT
+INSERT zAJ6 string
+INSERT oBXkp string

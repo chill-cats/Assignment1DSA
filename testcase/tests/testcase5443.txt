@@ -1,0 +1,17 @@
+RPRINT
+INSERT s string
+INSERT btw string
+INSERT qqprv number
+INSERT i3hl string
+INSERT fd number
+INSERT toUE number
+BEGIN
+RPRINT
+LOOKUP qqprv
+BEGIN
+INSERT zcZv7 number
+INSERT da number
+u u8
+BEGIN
+INSERT r5hePk number
+INSERT m string

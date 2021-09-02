@@ -1,0 +1,39 @@
+END
+BEGIN
+INSERT x5GK string
+BEGIN
+INSERT jL8 number
+LOOKUP jL8
+INSERT eZ0L string
+INSERT wDx number
+INSERT vr3B number
+INSERT a string
+LOOKUP wDx
+BEGIN
+INSERT vOa9 string
+INSERT q7J string
+INSERT uHX number
+BEGIN
+LOOKUP eZ0L
+sh g0T
+INSERT cLzw string
+BEGIN
+tq mLl6zd
+INSERT tZuXo9 string
+INSERT fw2K string
+BEGIN
+INSERT e string
+RPRINT
+INSERT byU number
+RPRINT
+INSERT gPAg string
+INSERT ooO5 string
+INSERT s string
+INSERT ol string
+PRINT
+kQa pr9ta1
+luMXxM qmY
+INSERT b string
+INSERT huHC number
+ASSIGN x5GK 'IldO6'
+INSERT gVKSsu number

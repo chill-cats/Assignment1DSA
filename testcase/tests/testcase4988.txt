@@ -1,0 +1,24 @@
+INSERT qQa3 number
+INSERT xm string
+INSERT n5D number
+END
+ASSIGN n5D 725
+INSERT g1Ww string
+INSERT xv1tc number
+RPRINT
+END
+PRINT
+INSERT yDZVOB number
+INSERT e2D5 string
+INSERT fB37bd string
+END
+INSERT iEwGCf number
+LOOKUP n5D
+INSERT wvbsH number
+INSERT q string
+INSERT fU4jB number
+INSERT hnYVxX string
+INSERT sqNA number
+INSERT t7aoOA number
+INSERT aAr string
+BEGIN

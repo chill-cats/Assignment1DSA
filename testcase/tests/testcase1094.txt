@@ -1,0 +1,40 @@
+LOOKUP sXsyc
+INSERT ljlp string
+INSERT bR string
+INSERT y_2 number
+LOOKUP ljlp
+RPRINT
+INSERT uoN string
+INSERT ta8zlO number
+INSERT n8 string
+END
+LOOKUP uoN
+END
+INSERT voMvb string
+INSERT iyV string
+INSERT hSqo string
+INSERT nj1 string
+INSERT d number
+INSERT lY string
+INSERT pd number
+qU bFla
+BEGIN
+INSERT nRy number
+INSERT bol1O number
+INSERT qJo number
+END
+INSERT dbs4X number
+END
+INSERT byD number
+LOOKUP lY
+END
+INSERT qsPMO string
+PRINT
+INSERT jvN6Sh string
+PRINT
+INSERT njl number
+ASSIGN byD 'kS1N'
+RPRINT
+INSERT z string
+INSERT shc string
+RPRINT

@@ -1,0 +1,8 @@
+BEGIN
+ASSIGN a2AxtZ '3A1AE'
+INSERT hQUE27 number
+BEGIN
+INSERT jpt9 string
+INSERT rkT3 number
+INSERT ra number
+INSERT hXnzS number

@@ -1,0 +1,35 @@
+END
+LOOKUP efZX
+INSERT yt90iM number
+INSERT n06blJ string
+INSERT s9X0s number
+LOOKUP yt90iM
+BEGIN
+INSERT mc string
+ASSIGN s9X0s n06blJ
+LOOKUP s9X0s
+INSERT yqOcz number
+ASSIGN n06blJ '4v7JE'
+o5wEo9 rCk
+RPRINT
+INSERT ksr number
+INSERT ca12 number
+INSERT qva9K number
+RPRINT
+INSERT zfSoV number
+INSERT gIw number
+LOOKUP mc
+PRINT
+INSERT fUoa90 number
+BEGIN
+LOOKUP mc
+INSERT bD4Svu string
+PRINT
+RPRINT
+ASSIGN fUoa90 1169
+INSERT n number
+INSERT xEmcz number
+t5ZowH c40
+INSERT dPn number
+INSERT y number
+END

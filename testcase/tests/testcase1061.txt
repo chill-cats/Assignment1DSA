@@ -1,0 +1,6 @@
+INSERT kY number
+INSERT zXOBl number
+INSERT zLU string
+LOOKUP zXOBl
+PRINT
+INSERT ozVEE number

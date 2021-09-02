@@ -1,0 +1,15 @@
+RPRINT
+INSERT j string
+INSERT qnN string
+RPRINT
+INSERT pRz3Q string
+END
+INSERT zl number
+INSERT rrGtTj number
+INSERT j7TRM string
+INSERT iw75 string
+INSERT vnBb string
+INSERT x0Qoe number
+PRINT
+BEGIN
+RPRINT

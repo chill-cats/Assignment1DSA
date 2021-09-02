@@ -1,0 +1,5 @@
+PRINT
+END
+END
+INSERT lcUg number
+INSERT v string

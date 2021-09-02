@@ -1,0 +1,13 @@
+INSERT u16MBr number
+INSERT xLaf number
+INSERT kRw number
+LOOKUP u16MBr
+INSERT jCrWk1 string
+INSERT zIEowz number
+INSERT sggvP string
+INSERT dp string
+INSERT dESp string
+INSERT eg string
+PRINT
+y32XrQ fd
+RPRINT

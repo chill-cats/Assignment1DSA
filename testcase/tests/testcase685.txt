@@ -1,0 +1,14 @@
+BEGIN
+INSERT wnj number
+PRINT
+INSERT q56Cl string
+END
+PRINT
+INSERT xzG number
+LOOKUP wnj
+LOOKUP wnj
+LOOKUP xzG
+INSERT gb number
+prcPzg wOejx5
+INSERT wmoZy number
+INSERT tu6 string

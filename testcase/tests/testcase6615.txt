@@ -1,0 +1,37 @@
+INSERT gUp string
+BEGIN
+INSERT nX number
+ASSIGN nX nX
+RPRINT
+INSERT cl4b string
+INSERT scGi string
+INSERT cK2 number
+PRINT
+ASSIGN scGi 1221
+END
+vfrYx i
+INSERT h1Lg number
+ASSIGN h1Lg 'yKW'
+INSERT l0m number
+INSERT lheoOw number
+INSERT ohb string
+INSERT yO string
+INSERT yP number
+END
+INSERT elJfr string
+INSERT iST number
+INSERT ouPl string
+INSERT bU6 string
+BEGIN
+INSERT fPOH4 string
+LOOKUP n1ppm
+INSERT dXxIUl number
+INSERT z6RX number
+RPRINT
+INSERT uM string
+RPRINT
+INSERT ln number
+INSERT kW number
+END
+PRINT
+INSERT e9Ekh number

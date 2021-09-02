@@ -1,0 +1,21 @@
+INSERT g0BSB1 number
+INSERT nZzOFE string
+BEGIN
+INSERT anjs string
+INSERT lrFgC string
+END
+LOOKUP lrFgC
+RPRINT
+INSERT t string
+INSERT t2EhuS number
+nXmHdZ k
+f8 k5Ln
+INSERT z number
+LOOKUP z
+INSERT jDgeo number
+END
+INSERT oPmd number
+INSERT po4N number
+PRINT
+INSERT t4h number
+INSERT ds string

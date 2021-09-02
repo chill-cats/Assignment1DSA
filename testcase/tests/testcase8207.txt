@@ -1,0 +1,26 @@
+INSERT mJM number
+INSERT drf string
+INSERT hG number
+INSERT dcVg9 string
+INSERT gFl number
+INSERT nLSP number
+INSERT cK number
+INSERT hgKcZ number
+BEGIN
+INSERT wW string
+INSERT isb number
+INSERT fIaMlQ number
+fwuNY qE
+RPRINT
+INSERT zC number
+RPRINT
+INSERT sK7 number
+INSERT nv5 string
+INSERT e number
+ASSIGN nv5 78
+LOOKUP fIaMlQ
+INSERT n2V number
+END
+INSERT n_ number
+RPRINT
+BEGIN

@@ -1,0 +1,15 @@
+INSERT zvpB3p number
+y z
+INSERT a string
+INSERT aLY2 string
+ASSIGN zvpB3p 779
+INSERT erU string
+BEGIN
+INSERT e9bX number
+LOOKUP erU
+PRINT
+sI lF
+INSERT j string
+PRINT
+fwTI kYrhGa
+BEGIN

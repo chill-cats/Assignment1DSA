@@ -1,0 +1,40 @@
+INSERT h number
+END
+INSERT dQU number
+PRINT
+ASSIGN dQU 'Ja'
+INSERT oDN3n8 number
+RPRINT
+INSERT rB32t string
+BEGIN
+INSERT qYR string
+INSERT c3he_x string
+INSERT s string
+PRINT
+INSERT fheeP_ number
+ASSIGN rB32t 864
+INSERT y6 string
+PRINT
+INSERT m0gFi string
+INSERT wXXHIu string
+INSERT rwEq string
+INSERT k string
+INSERT jU9sY string
+PRINT
+INSERT iWc number
+INSERT dh string
+INSERT xV number
+INSERT vsLUP number
+RPRINT
+INSERT uV string
+LOOKUP c3he_x
+INSERT jr string
+INSERT xW15V number
+INSERT xYlsh number
+INSERT yH number
+RPRINT
+INSERT x string
+INSERT nmfk5 string
+INSERT zv9 string
+INSERT mZswvd string
+INSERT i8 number

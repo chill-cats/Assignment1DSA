@@ -1,0 +1,9 @@
+ASSIGN qKCl '7di'
+PRINT
+INSERT b string
+ASSIGN b b
+INSERT i6Fn string
+INSERT xHC number
+INSERT qAg0nJ string
+INSERT cCj string
+INSERT oHygw1 string

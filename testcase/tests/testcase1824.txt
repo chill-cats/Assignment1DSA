@@ -1,0 +1,18 @@
+PRINT
+INSERT duBvw7 number
+INSERT m number
+INSERT i string
+RPRINT
+PRINT
+INSERT xrmBG number
+INSERT hh string
+LOOKUP hh
+INSERT hc8fDE string
+INSERT y string
+LOOKUP m
+ASSIGN hh m
+INSERT yaHg6 string
+INSERT ybl string
+INSERT nYXaFi number
+PRINT
+INSERT sC_ number

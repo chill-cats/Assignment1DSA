@@ -1,0 +1,36 @@
+END
+RPRINT
+INSERT y number
+l0_s quY
+INSERT j string
+INSERT mB number
+END
+INSERT gOVN4 number
+INSERT pJ number
+w2 xZHhi
+INSERT foo2P number
+RPRINT
+INSERT vO string
+INSERT q number
+RPRINT
+INSERT zWPR string
+INSERT vH string
+INSERT rI61wQ number
+BEGIN
+INSERT k number
+ASSIGN foo2P 230
+LOOKUP foo2P
+INSERT h_fR string
+INSERT asdvBJ string
+ASSIGN zWPR 'b7Y'
+INSERT pVusA8 number
+INSERT xT number
+LOOKUP rI61wQ
+RPRINT
+LOOKUP asdvBJ
+ASSIGN rI61wQ 44
+INSERT q5M number
+INSERT yRPm string
+INSERT g string
+INSERT p string
+END

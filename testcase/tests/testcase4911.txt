@@ -1,0 +1,21 @@
+a b
+INSERT uWT number
+RPRINT
+INSERT xzD number
+INSERT p0dN string
+ASSIGN uWT 'l'
+ASSIGN uWT 535
+END
+INSERT xK3w4A string
+RPRINT
+END
+END
+m nd
+INSERT lQ_4L number
+LOOKUP uWT
+INSERT f23 string
+oH80WE nKc
+INSERT opXfu string
+INSERT cT string
+BEGIN
+LOOKUP opXfu

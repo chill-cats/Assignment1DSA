@@ -1,0 +1,7 @@
+INSERT e1a string
+PRINT
+INSERT m8MPS number
+END
+INSERT fZn string
+ASSIGN fZn fZn
+INSERT d3Ny79 string

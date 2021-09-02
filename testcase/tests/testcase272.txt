@@ -1,0 +1,34 @@
+ASSIGN fbYuj 'wV0'
+INSERT yd string
+LOOKUP yd
+INSERT dcAk string
+INSERT yPj2de number
+INSERT zo3sV string
+INSERT zJ string
+PRINT
+INSERT l1fT number
+INSERT x8 number
+INSERT pK string
+INSERT l string
+INSERT qVfj number
+ASSIGN l '3Wb'
+INSERT f string
+ASSIGN zo3sV 747
+PRINT
+INSERT vCPx string
+INSERT z string
+INSERT js76 number
+INSERT qsL30 string
+LOOKUP l
+ASSIGN zo3sV js76
+END
+INSERT r3ZN string
+INSERT t6V string
+INSERT oZP number
+oQlid zKtWII
+BEGIN
+PRINT
+INSERT sC string
+INSERT u string
+BEGIN
+nLg zrFK

@@ -1,0 +1,12 @@
+INSERT aj8R string
+ASSIGN aj8R 'y'
+INSERT cboX8n string
+ASSIGN cboX8n 'sN'
+LOOKUP cboX8n
+INSERT ckd number
+INSERT dbLCm number
+END
+INSERT r8QXMQ number
+INSERT wpcp number
+INSERT hsJP string
+PRINT

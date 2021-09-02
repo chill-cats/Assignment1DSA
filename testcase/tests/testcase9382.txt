@@ -1,0 +1,10 @@
+RPRINT
+INSERT cLZ number
+aQ pdwg5
+INSERT wS25M string
+oLES3g l0aH
+END
+LOOKUP cLZ
+END
+INSERT mm string
+INSERT lK_Dr string

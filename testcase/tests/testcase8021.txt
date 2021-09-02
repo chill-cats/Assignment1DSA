@@ -1,0 +1,3 @@
+BEGIN
+INSERT o4n number
+END

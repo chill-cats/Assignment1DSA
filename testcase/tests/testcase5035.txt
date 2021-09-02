@@ -1,0 +1,12 @@
+INSERT vUbhC string
+ASSIGN vUbhC 'b74X'
+INSERT v string
+INSERT zWdYT string
+INSERT r number
+INSERT s number
+bmKaA c
+RPRINT
+INSERT s string
+ASSIGN r '8e7uH'
+PRINT
+INSERT m string

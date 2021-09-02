@@ -1,0 +1,30 @@
+RPRINT
+INSERT yeN string
+INSERT fRc0 number
+INSERT h string
+END
+INSERT qf0v string
+sPGehI sH692T
+kFyT l
+INSERT chZWW4 number
+INSERT lz9J string
+INSERT tpAyuW number
+RPRINT
+INSERT d number
+END
+BEGIN
+INSERT h number
+LOOKUP tpAyuW
+INSERT ha34_ string
+INSERT aE_4_9 number
+INSERT kUckf0 string
+RPRINT
+INSERT uwPVCv number
+ASSIGN h '9y0'
+ASSIGN chZWW4 'kL8'
+PRINT
+LOOKUP yeN
+INSERT rbyKI number
+ASSIGN h 81
+INSERT vDGA string
+RPRINT

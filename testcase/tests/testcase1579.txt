@@ -1,0 +1,31 @@
+LOOKUP wgApA6
+INSERT ud6Gft string
+INSERT pKMk number
+ASSIGN pKMk 1024
+INSERT p8qNX string
+INSERT kGocTp number
+BEGIN
+ASSIGN kGocTp 36
+INSERT uB number
+INSERT ekWhRr number
+RPRINT
+INSERT n_D number
+INSERT r1 string
+BEGIN
+INSERT bx8_ string
+INSERT rFM65Y string
+INSERT s string
+INSERT b6I3f string
+BEGIN
+INSERT h_MR0 string
+INSERT yoMjWS number
+INSERT c number
+INSERT ln number
+INSERT j string
+INSERT g1I6 number
+INSERT rNVnY number
+INSERT xUTVq string
+gs fu
+END
+INSERT vle3a_ number
+INSERT g string

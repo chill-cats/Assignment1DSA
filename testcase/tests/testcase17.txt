@@ -1,0 +1,8 @@
+ASSIGN t7 'aZk5w'
+INSERT fsDS string
+INSERT bfySU string
+ASSIGN fsDS bfySU
+END
+RPRINT
+INSERT gM4 number
+INSERT tb_v number

@@ -1,0 +1,29 @@
+LOOKUP o
+ASSIGN z0U 125
+INSERT pJ27m number
+PRINT
+INSERT w number
+INSERT vW5W number
+INSERT l1s number
+RPRINT
+ASSIGN l1s vW5W
+ASSIGN pJ27m 'p'
+RPRINT
+INSERT cAaTkg number
+ASSIGN l1s vW5W
+INSERT s number
+INSERT y string
+INSERT nW number
+INSERT oCigU number
+INSERT pzKJZp number
+PRINT
+END
+INSERT yihs number
+INSERT jr9_ number
+PRINT
+INSERT yNNuRe number
+END
+INSERT pNh string
+INSERT sy string
+INSERT hhYJN string
+LOOKUP pJ27m

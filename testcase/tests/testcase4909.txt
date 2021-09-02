@@ -1,0 +1,20 @@
+RPRINT
+INSERT zC string
+INSERT qLX number
+INSERT h string
+INSERT p4e_ number
+LOOKUP p4e_
+END
+END
+LOOKUP zC
+INSERT mJdERn number
+BEGIN
+RPRINT
+fSt3 qt
+LOOKUP p4e_
+BEGIN
+END
+INSERT u4 string
+INSERT qUXur number
+INSERT qlRnG string
+xb3 b2ndR

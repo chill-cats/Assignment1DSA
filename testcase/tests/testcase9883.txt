@@ -1,0 +1,15 @@
+RPRINT
+ASSIGN zB4 '4GO1'
+ASSIGN jkMU67 145
+INSERT f number
+INSERT l9Y6gA string
+INSERT z6OJm number
+cKy dwc
+ASSIGN z6OJm f
+ASSIGN l9Y6gA 758
+INSERT h number
+LOOKUP h
+BEGIN
+INSERT u7Vhf number
+INSERT fnnWm string
+INSERT p number

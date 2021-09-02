@@ -1,0 +1,8 @@
+INSERT qtI string
+INSERT xbO string
+INSERT y8Inc number
+INSERT sEnmT number
+LOOKUP sEnmT
+INSERT zx0k number
+RPRINT
+INSERT jI6 string

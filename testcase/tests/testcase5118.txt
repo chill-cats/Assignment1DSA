@@ -1,0 +1,33 @@
+INSERT y_RF number
+END
+INSERT dY string
+INSERT ggt_I string
+INSERT rwm number
+INSERT uYBrfn number
+INSERT mZjXN number
+ASSIGN mZjXN ggt_I
+PRINT
+INSERT o number
+psK zemx
+INSERT hW string
+INSERT iaYd8G number
+LOOKUP iaYd8G
+LOOKUP y_RF
+RPRINT
+INSERT z string
+BEGIN
+ASSIGN o 'KcI'
+INSERT jJbm string
+LOOKUP jJbm
+END
+LOOKUP mZjXN
+INSERT kPDft string
+INSERT ff6x9 string
+PRINT
+INSERT ypQqh string
+PRINT
+INSERT tD21 number
+INSERT oSI2 number
+INSERT p_ string
+INSERT d number
+INSERT vGnoHO number

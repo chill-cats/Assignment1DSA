@@ -1,0 +1,35 @@
+INSERT i string
+INSERT r8z1S string
+END
+LOOKUP r8z1S
+INSERT e9g number
+PRINT
+INSERT cBa string
+INSERT lbbbt string
+ASSIGN e9g 351
+o7x h
+PRINT
+ASSIGN e9g 525
+INSERT f string
+INSERT bL9kd string
+LOOKUP e9g
+INSERT xtg string
+INSERT bPYnY number
+LOOKUP cBa
+INSERT v string
+RPRINT
+INSERT ggFMb number
+INSERT v8s number
+RPRINT
+PRINT
+END
+RPRINT
+zkc1o v4
+PRINT
+LOOKUP i
+INSERT u5jJ string
+BEGIN
+INSERT alS string
+PRINT
+INSERT dJHBS number
+INSERT hW2nm number

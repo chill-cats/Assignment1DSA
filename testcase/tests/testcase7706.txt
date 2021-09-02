@@ -1,0 +1,32 @@
+LOOKUP yC
+LOOKUP p9B4
+gsL wgA
+INSERT a string
+INSERT o7x string
+INSERT z number
+INSERT sP53fU number
+INSERT vqXY string
+INSERT nTz string
+INSERT eg string
+INSERT l string
+INSERT oZjHpn number
+BEGIN
+INSERT ahN string
+LOOKUP a
+END
+INSERT tCjZHo string
+INSERT cKs0FV string
+BEGIN
+INSERT gqO string
+PRINT
+INSERT u string
+ASSIGN a 'gp'
+RPRINT
+LOOKUP o7x
+INSERT nV string
+INSERT qlRJr string
+INSERT s_ string
+INSERT b6lw2 string
+INSERT aisnGA number
+INSERT tUPbVe number
+INSERT e number

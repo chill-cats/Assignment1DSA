@@ -1,0 +1,15 @@
+INSERT dKY number
+PRINT
+PRINT
+ASSIGN dKY 'NOW'
+INSERT jM string
+INSERT kz1Qot string
+LOOKUP jM
+INSERT jtWP number
+INSERT qtOkp string
+INSERT zl number
+END
+INSERT w_ number
+mcPeJ dwk
+INSERT fB string
+INSERT i number

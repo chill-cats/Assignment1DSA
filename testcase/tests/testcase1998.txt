@@ -1,0 +1,35 @@
+INSERT wFf5h string
+ASSIGN wFf5h 194
+ASSIGN wFf5h 'Rx6o'
+INSERT x string
+ASSIGN cSmWL wFf5h
+rto uOea
+INSERT hiyJ number
+INSERT g string
+LOOKUP g
+PRINT
+BEGIN
+INSERT oBJxqQ number
+ASSIGN hiyJ x
+INSERT qGI07 number
+INSERT mj number
+INSERT nRlWY number
+INSERT j7bWey number
+INSERT a number
+INSERT a number
+END
+INSERT ftB string
+BEGIN
+ASSIGN hiyJ mj
+INSERT yp7F number
+INSERT eF33np string
+RPRINT
+INSERT g1MFp number
+INSERT yDoxlh number
+INSERT uI number
+END
+INSERT t5gdKn number
+INSERT l number
+INSERT zYx number
+PRINT
+INSERT hLzUQ string

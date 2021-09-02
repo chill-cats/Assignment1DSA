@@ -1,0 +1,8 @@
+BEGIN
+INSERT u4q number
+RPRINT
+INSERT bVPu string
+INSERT d string
+LOOKUP d
+INSERT zYpp string
+INSERT xPLawi number

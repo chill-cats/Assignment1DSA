@@ -1,0 +1,15 @@
+INSERT o number
+INSERT fK4 number
+INSERT xse number
+INSERT y6yL9 number
+ASSIGN xse 706
+INSERT oq2FGy string
+RPRINT
+INSERT nqiVF string
+INSERT soTfpA number
+INSERT ewU3dJ string
+LOOKUP ewU3dJ
+ASSIGN ewU3dJ 'r3F'
+PRINT
+ASSIGN oq2FGy xse
+INSERT vD number

@@ -1,0 +1,32 @@
+RPRINT
+RPRINT
+INSERT d string
+INSERT o5WBN string
+ASSIGN o5WBN 'Q'
+RPRINT
+END
+INSERT i50 number
+INSERT ouFM number
+BEGIN
+INSERT adh3n number
+INSERT a5D string
+INSERT k7O string
+INSERT ppXA number
+vph0 o
+INSERT hBOZOR string
+INSERT kM2Wd string
+RPRINT
+END
+INSERT uD number
+INSERT mpLTCa number
+INSERT tZZadl number
+lrfPC i3L
+ASSIGN a5D '9zfN'
+INSERT aI number
+INSERT hrN number
+jV7y3y aH
+LOOKUP aI
+INSERT m4PW7 number
+INSERT g3 number
+INSERT j7 number
+INSERT t number

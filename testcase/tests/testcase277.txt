@@ -1,0 +1,21 @@
+LOOKUP p_9
+ASSIGN q64 231
+INSERT uB6z string
+END
+INSERT bCqJ_k number
+INSERT y8gc string
+ASSIGN bCqJ_k 1030
+INSERT fMx number
+INSERT j string
+INSERT vt7aX string
+BEGIN
+INSERT z number
+INSERT kwiu string
+INSERT p7Ah number
+INSERT hlLF number
+ASSIGN vt7aX 16
+RPRINT
+PRINT
+END
+BEGIN
+INSERT fI0 number

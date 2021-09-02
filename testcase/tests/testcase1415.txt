@@ -1,0 +1,5 @@
+INSERT nhFr number
+RPRINT
+LOOKUP nhFr
+BEGIN
+RPRINT

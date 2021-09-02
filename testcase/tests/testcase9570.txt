@@ -1,0 +1,16 @@
+INSERT qPgRr string
+LOOKUP qPgRr
+INSERT tq number
+INSERT k_ string
+INSERT e4y number
+INSERT cGNS number
+ASSIGN e4y 'F'
+INSERT uMI number
+INSERT obuOro number
+INSERT rS number
+c38Yh hAgU
+LOOKUP cGNS
+RPRINT
+INSERT s5 string
+RPRINT
+BEGIN

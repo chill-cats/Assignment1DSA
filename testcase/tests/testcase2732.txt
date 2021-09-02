@@ -1,0 +1,6 @@
+INSERT mK number
+INSERT k string
+INSERT wMpFi string
+INSERT zH7Ci5 string
+ASSIGN k '6'
+INSERT nVw number

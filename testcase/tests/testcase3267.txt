@@ -1,0 +1,22 @@
+INSERT zl number
+LOOKUP zl
+INSERT lB string
+INSERT gdQ number
+INSERT c number
+INSERT sk6Rj number
+INSERT c string
+ASSIGN gdQ 'ct3V'
+INSERT p string
+INSERT q8xQG number
+ASSIGN p 'z'
+INSERT aSm_ string
+INSERT nn8oP string
+INSERT sN number
+BEGIN
+BEGIN
+xlf0 fl0f
+RPRINT
+INSERT nu string
+INSERT yk string
+INSERT s9AEQB number
+END

@@ -1,0 +1,13 @@
+INSERT kmu number
+INSERT aYB string
+INSERT tmmiql string
+RPRINT
+INSERT p_aVA string
+INSERT nEo string
+INSERT nx number
+INSERT ajF32 string
+INSERT cTBuB string
+INSERT nX number
+BEGIN
+INSERT ra number
+INSERT mVQ0 string

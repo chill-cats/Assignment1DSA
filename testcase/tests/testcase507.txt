@@ -1,0 +1,35 @@
+RPRINT
+INSERT bh8y number
+INSERT qVQs string
+INSERT kJQOT9 string
+INSERT dx number
+INSERT zUg string
+INSERT p string
+INSERT uj1XVX number
+INSERT nwO string
+LOOKUP kJQOT9
+INSERT e number
+PRINT
+BEGIN
+RPRINT
+INSERT z9sA string
+INSERT iWh number
+INSERT uVnxb number
+LOOKUP iWh
+INSERT cEgHE string
+INSERT oHCo number
+INSERT k string
+INSERT wh number
+INSERT ec number
+INSERT bLSZ number
+INSERT kWx_gR string
+ASSIGN dx uj1XVX
+INSERT djHlC string
+INSERT fcQGOs string
+INSERT r5mi string
+LOOKUP p
+INSERT uLL8 string
+BEGIN
+INSERT jpqHz number
+INSERT k number
+END

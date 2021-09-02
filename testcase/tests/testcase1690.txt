@@ -1,0 +1,23 @@
+PRINT
+INSERT i string
+INSERT wWN number
+INSERT jwJprK string
+INSERT qJdM string
+dWD ny0l3
+INSERT xRrsA number
+INSERT bds string
+LOOKUP wWN
+INSERT cFsf string
+LOOKUP qJdM
+INSERT j number
+INSERT ySG_8 number
+INSERT jC number
+INSERT gsN string
+INSERT gFd string
+RPRINT
+END
+INSERT ykU number
+INSERT uxu7 number
+INSERT qW1y string
+END
+INSERT uH string

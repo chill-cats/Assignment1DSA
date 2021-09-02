@@ -1,0 +1,29 @@
+INSERT zykn string
+INSERT cOwU number
+INSERT qs number
+INSERT re8 number
+INSERT zBR string
+INSERT waVPKj number
+INSERT bLHB71 number
+LOOKUP zykn
+LOOKUP bLHB71
+BEGIN
+INSERT x_ string
+ASSIGN x_ 'G4mB'
+INSERT qEHXtf string
+INSERT nf2OPd number
+INSERT pe_6 number
+INSERT uUU number
+RPRINT
+END
+INSERT hv number
+INSERT ga string
+INSERT ji number
+INSERT qGMJ number
+INSERT nNWdos number
+xsy p
+INSERT z3GX6u string
+INSERT oTVhcW number
+INSERT m3L string
+INSERT cYC9 number
+INSERT u string

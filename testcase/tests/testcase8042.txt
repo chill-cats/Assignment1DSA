@@ -1,0 +1,11 @@
+INSERT t98Nz number
+INSERT laEJl number
+INSERT qtCS8 number
+INSERT hJstTQ number
+INSERT oV string
+INSERT yKNnx number
+INSERT m string
+ASSIGN t98Nz qtCS8
+ASSIGN qtCS8 'TuG'
+INSERT eSv number
+INSERT ypyYR7 string

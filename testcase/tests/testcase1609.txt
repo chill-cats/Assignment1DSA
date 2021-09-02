@@ -1,0 +1,39 @@
+RPRINT
+PRINT
+INSERT cPQ number
+INSERT gj7 string
+INSERT xo1gd string
+LOOKUP gj7
+INSERT lM3 number
+PRINT
+v6FsG i
+INSERT vB number
+INSERT m27WT string
+END
+INSERT ye8jbz string
+PRINT
+INSERT y number
+INSERT drs number
+INSERT w string
+INSERT w0g number
+INSERT dOz number
+INSERT x7jUFw number
+RPRINT
+INSERT v number
+INSERT q string
+END
+RPRINT
+INSERT mx4aa number
+INSERT nkocp string
+INSERT wvLN number
+INSERT xPifd number
+INSERT frd number
+INSERT e3fm number
+INSERT og7NAt string
+INSERT cApRzj number
+INSERT yBrNgG string
+ASSIGN e3fm 875
+INSERT pZ number
+RPRINT
+u r_frKk
+END

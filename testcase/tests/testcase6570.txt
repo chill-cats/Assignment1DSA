@@ -1,0 +1,15 @@
+INSERT qHj number
+INSERT kRUbn string
+INSERT wY8K string
+INSERT xkL string
+END
+ASSIGN wY8K 'k'
+LOOKUP xkL
+INSERT bvs string
+INSERT k number
+INSERT v4 string
+INSERT y string
+INSERT hKZd number
+PRINT
+END
+RPRINT

@@ -1,0 +1,6 @@
+INSERT qn1 string
+INSERT yfrk_ string
+INSERT dIMSuX number
+INSERT ork1DU number
+ASSIGN yfrk_ dIMSuX
+INSERT fc3ope string

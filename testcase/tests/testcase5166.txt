@@ -1,0 +1,29 @@
+INSERT rYd8C9 number
+INSERT ex0 number
+INSERT y60qH number
+INSERT e number
+INSERT xg9f number
+INSERT na string
+ASSIGN na xg9f
+INSERT ii number
+INSERT ajg string
+RPRINT
+LOOKUP ajg
+LOOKUP xg9f
+RPRINT
+INSERT e number
+INSERT g string
+INSERT gm string
+INSERT oQFec string
+INSERT dYpF string
+BEGIN
+INSERT qvJB string
+INSERT lH number
+END
+RPRINT
+INSERT u5UT string
+INSERT lj1QFr string
+INSERT z string
+END
+INSERT i1T string
+LOOKUP u5UT

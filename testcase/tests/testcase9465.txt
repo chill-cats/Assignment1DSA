@@ -1,0 +1,9 @@
+PRINT
+INSERT rVb3AU string
+INSERT i2viz4 number
+ASSIGN rVb3AU 'JA'
+INSERT a number
+INSERT rE1cU1 number
+INSERT hi number
+PRINT
+INSERT vnzM number

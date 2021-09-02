@@ -1,0 +1,36 @@
+INSERT mR string
+INSERT cU number
+RPRINT
+RPRINT
+PRINT
+END
+BEGIN
+RPRINT
+LOOKUP mR
+INSERT o string
+RPRINT
+INSERT fT number
+INSERT jpjT number
+INSERT v6UI1R string
+INSERT h9D string
+INSERT tZprQ2 string
+PRINT
+daX5 f
+INSERT kB string
+LOOKUP kB
+INSERT qp number
+INSERT wjF1y number
+ASSIGN o 245
+INSERT l string
+RPRINT
+END
+INSERT sx number
+INSERT gZ number
+INSERT i1P string
+INSERT oCYZk string
+RPRINT
+INSERT n string
+LOOKUP l
+INSERT kR3y2O number
+END
+BEGIN

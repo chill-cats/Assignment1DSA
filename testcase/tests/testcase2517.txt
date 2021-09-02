@@ -1,0 +1,19 @@
+j7Y3qB u
+RPRINT
+INSERT ei number
+INSERT x string
+INSERT cr string
+INSERT otHak number
+INSERT h9VRj number
+INSERT nSF number
+END
+END
+LOOKUP otHak
+LOOKUP nSF
+INSERT k number
+INSERT pP number
+BEGIN
+INSERT afSnRZ string
+BEGIN
+INSERT zg9Wx number
+INSERT qbo number

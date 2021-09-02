@@ -1,0 +1,23 @@
+INSERT yZbal number
+RPRINT
+INSERT r string
+ASSIGN r 935
+INSERT m94 string
+LOOKUP m94
+PRINT
+my dCkl
+INSERT x number
+INSERT xfuv string
+INSERT kA number
+INSERT ph number
+INSERT n number
+END
+INSERT f number
+INSERT eQOIhe string
+BEGIN
+BEGIN
+INSERT bjT87 string
+INSERT dT6iD string
+ASSIGN x 'HzR'
+sGm57h tPS
+INSERT mww string

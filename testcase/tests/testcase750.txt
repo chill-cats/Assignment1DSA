@@ -1,0 +1,6 @@
+PRINT
+INSERT prmf number
+PRINT
+INSERT bbDVY number
+INSERT bof2 number
+INSERT wXStG0 string

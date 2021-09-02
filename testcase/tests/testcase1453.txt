@@ -1,0 +1,27 @@
+INSERT uMMi string
+INSERT z string
+LOOKUP uMMi
+RPRINT
+INSERT h3yEeN string
+END
+END
+INSERT mN9Cq string
+INSERT xRFCIA string
+PRINT
+INSERT lSCUr6 string
+RPRINT
+BEGIN
+INSERT gxN number
+INSERT znS number
+INSERT zmVV string
+INSERT aK string
+INSERT r number
+INSERT a string
+LOOKUP lSCUr6
+INSERT zg number
+INSERT wm string
+BEGIN
+ASSIGN gxN 'Z'
+PRINT
+ASSIGN zg lSCUr6
+INSERT g9N string

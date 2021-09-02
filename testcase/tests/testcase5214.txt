@@ -1,0 +1,13 @@
+INSERT lH number
+PRINT
+PRINT
+LOOKUP lH
+ASSIGN lH 700
+INSERT eOX6 string
+PRINT
+INSERT j number
+INSERT r number
+INSERT yX4PV number
+INSERT ssc string
+INSERT ais6 string
+RPRINT

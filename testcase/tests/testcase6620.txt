@@ -1,0 +1,34 @@
+INSERT si43yy number
+LOOKUP si43yy
+INSERT gG string
+INSERT a06mSs string
+INSERT ph number
+INSERT mlZx string
+INSERT zG number
+PRINT
+INSERT pmjmR string
+INSERT zwp number
+INSERT pMoPq9 string
+RPRINT
+INSERT n3D number
+INSERT rDUX8q number
+INSERT qGOHJ6 number
+BEGIN
+PRINT
+INSERT ij2Kw number
+END
+PRINT
+INSERT y string
+RPRINT
+INSERT nym string
+ASSIGN nym gG
+ASSIGN gG si43yy
+RPRINT
+INSERT f string
+INSERT sh7 number
+END
+INSERT sj string
+LOOKUP a06mSs
+BEGIN
+INSERT phM string
+INSERT nPn string

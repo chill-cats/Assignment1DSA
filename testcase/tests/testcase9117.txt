@@ -1,0 +1,32 @@
+PRINT
+INSERT iR9V string
+INSERT ts6_s2 string
+LOOKUP ts6_s2
+END
+ifN h
+INSERT xV number
+BEGIN
+f iPuFw1
+PRINT
+LOOKUP iR9V
+INSERT zn string
+INSERT zTO0vY number
+INSERT hgCe_Q number
+BEGIN
+INSERT p2g string
+INSERT qV string
+BEGIN
+PRINT
+ASSIGN ts6_s2 zn
+BEGIN
+INSERT q number
+INSERT aeYOt string
+INSERT l string
+kvX15 pJa
+RPRINT
+do7eP o
+END
+INSERT kEOqkv string
+lvB jWb9N_
+INSERT qe string
+INSERT rOnc7 number

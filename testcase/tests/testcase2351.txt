@@ -1,0 +1,6 @@
+INSERT o number
+INSERT sx number
+PRINT
+END
+INSERT p8X string
+INSERT tubRbR string

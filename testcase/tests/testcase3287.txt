@@ -1,0 +1,24 @@
+INSERT wzl2eg number
+INSERT wHqW number
+INSERT oQ string
+LOOKUP wHqW
+INSERT kWy8ZS string
+INSERT x number
+BEGIN
+INSERT z0x1BC string
+INSERT sZ5C string
+INSERT aTw2T number
+ASSIGN sZ5C 1063
+INSERT aL string
+INSERT pZ6TJ0 string
+ASSIGN kWy8ZS sZ5C
+ASSIGN x 978
+kJK2M1 ahjz
+INSERT pPyUO5 number
+INSERT bWyo6 string
+BEGIN
+END
+xaL5 g
+RPRINT
+LOOKUP pZ6TJ0
+INSERT wrKGYw number

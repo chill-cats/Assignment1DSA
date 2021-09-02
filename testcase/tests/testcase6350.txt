@@ -1,0 +1,36 @@
+BEGIN
+INSERT iM0l string
+INSERT oz7nbu number
+INSERT wm string
+d8YzT aV0ZC
+ASSIGN iM0l 'N5er'
+ASSIGN wm oz7nbu
+INSERT b number
+BEGIN
+INSERT szPNj string
+INSERT sm number
+INSERT fYH number
+INSERT wNz number
+BEGIN
+INSERT cxLL number
+INSERT vH number
+INSERT bMUO2 string
+ASSIGN cxLL sm
+INSERT nF string
+LOOKUP fYH
+INSERT mF string
+INSERT w string
+BEGIN
+END
+aT6 jxm8
+INSERT rKMG string
+ASSIGN j 283
+PRINT
+INSERT ld string
+PRINT
+BEGIN
+INSERT fb number
+ASSIGN wNz 'xq'
+INSERT k_ string
+INSERT tmWCU string
+LOOKUP nF

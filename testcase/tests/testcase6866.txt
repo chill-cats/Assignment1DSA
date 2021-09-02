@@ -1,0 +1,23 @@
+LOOKUP fsHj
+RPRINT
+INSERT q1g6d string
+INSERT f54A number
+INSERT tj number
+INSERT jrC string
+INSERT nV string
+PRINT
+ASSIGN f54A 789
+LOOKUP nV
+INSERT dppM number
+INSERT wp number
+INSERT fiMv5 number
+PRINT
+INSERT l string
+RPRINT
+PRINT
+INSERT mBaxl0 string
+INSERT t number
+INSERT w9 string
+INSERT tdw4 string
+INSERT ppbMn5 number
+INSERT u0n07 number

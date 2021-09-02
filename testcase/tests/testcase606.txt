@@ -1,0 +1,32 @@
+LOOKUP uZ_N
+INSERT gaE string
+INSERT q7h0gN number
+s4FD y2
+LOOKUP gaE
+ASSIGN gaE 'q0X79'
+INSERT sS string
+INSERT bZ string
+INSERT a number
+INSERT id_ string
+INSERT wW4g string
+INSERT ldvG number
+INSERT oK3Jv number
+PRINT
+INSERT cjO_s string
+PRINT
+INSERT se number
+INSERT sZMip number
+iZ gWpQ
+vjCSJ k
+INSERT kJpz_ string
+ASSIGN q7h0gN sZMip
+INSERT y string
+INSERT st2H number
+n cKA
+LOOKUP kJpz_
+INSERT uGgJ string
+BEGIN
+INSERT r number
+INSERT sdpJhN string
+RPRINT
+INSERT eoP number

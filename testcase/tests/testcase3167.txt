@@ -1,0 +1,8 @@
+INSERT q2OTS string
+RPRINT
+INSERT dCyS string
+INSERT u number
+INSERT h string
+END
+INSERT ozP number
+INSERT fIPyI string

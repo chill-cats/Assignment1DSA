@@ -1,0 +1,6 @@
+INSERT f string
+INSERT ojQH string
+INSERT csm number
+INSERT szY8 number
+BEGIN
+INSERT qnLG8 string

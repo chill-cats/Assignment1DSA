@@ -1,0 +1,32 @@
+wY2N v
+ASSIGN tX5ovh 675
+PRINT
+PRINT
+PRINT
+END
+INSERT yr32I string
+INSERT hlQ string
+INSERT pW number
+INSERT dZv string
+INSERT vyX string
+INSERT y string
+INSERT wbDQ number
+INSERT gU number
+LOOKUP gU
+INSERT iKNk4y string
+INSERT b3P number
+INSERT iXb string
+INSERT uzN number
+INSERT khiIX number
+LOOKUP khiIX
+END
+INSERT geJ string
+RPRINT
+INSERT ygat number
+INSERT pc number
+INSERT v0bWbP number
+INSERT gz number
+ASSIGN hlQ 1110
+INSERT u number
+PRINT
+INSERT mJWc string

@@ -1,0 +1,8 @@
+INSERT pXyVU number
+INSERT cQ string
+INSERT cqISTp string
+PRINT
+INSERT i string
+LOOKUP i
+RPRINT
+INSERT khnC string

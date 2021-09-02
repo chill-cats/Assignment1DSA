@@ -1,0 +1,34 @@
+INSERT eyG0j string
+INSERT kdU2 number
+vVCZSc a
+BEGIN
+ASSIGN eyG0j kdU2
+INSERT mZJP string
+INSERT t number
+BEGIN
+ASSIGN kdU2 'h3R'
+ASSIGN mZJP 'mW'
+INSERT bf string
+INSERT dJmiLD number
+ASSIGN dJmiLD 1008
+ASSIGN eyG0j eyG0j
+INSERT t number
+INSERT s number
+RPRINT
+LOOKUP kdU2
+END
+INSERT arpy0 number
+yo4_VW k
+INSERT vzM5nf string
+INSERT kB56U5 number
+BEGIN
+o8kfu qw
+ASSIGN mZJP kdU2
+PRINT
+pKal d
+INSERT rf number
+INSERT r number
+PRINT
+INSERT fbv number
+ASSIGN t 993
+INSERT gwyf string

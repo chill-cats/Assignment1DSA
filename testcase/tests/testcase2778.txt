@@ -1,0 +1,35 @@
+LOOKUP qBGiyD
+INSERT vW4 string
+INSERT stTn string
+INSERT nyW string
+INSERT xihxF string
+INSERT asYM number
+LOOKUP y2e
+INSERT o string
+RPRINT
+LOOKUP stTn
+INSERT v1Z9UO string
+BEGIN
+INSERT pvlc number
+END
+INSERT lc3saT string
+INSERT v number
+INSERT eHqXru number
+LOOKUP nyW
+INSERT ozzn string
+INSERT nG9wOy number
+INSERT hVn number
+BEGIN
+INSERT yZxT number
+LOOKUP o
+INSERT hDM number
+INSERT q number
+INSERT cFvfTD number
+INSERT meXrH number
+INSERT hjJ7Ad number
+INSERT m0Cf number
+LOOKUP ozzn
+INSERT wfNAnt number
+INSERT ti8 string
+INSERT n string
+LOOKUP n

@@ -1,0 +1,4 @@
+ASSIGN sfB 'p'
+INSERT mYjcD number
+PRINT
+INSERT eDgm number

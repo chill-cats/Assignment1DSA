@@ -1,0 +1,15 @@
+INSERT utTVw string
+INSERT kfvuY string
+INSERT eth5u number
+INSERT mMh string
+INSERT eFu6 string
+RPRINT
+PRINT
+INSERT e0 number
+LOOKUP eFu6
+INSERT uScT number
+INSERT tOLB16 number
+PRINT
+ASSIGN uScT 'Y'
+INSERT lZuVI number
+INSERT te string

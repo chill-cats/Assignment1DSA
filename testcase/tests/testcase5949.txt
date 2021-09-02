@@ -1,0 +1,37 @@
+RPRINT
+INSERT as_ZSw number
+INSERT hFl string
+INSERT rAWiK string
+INSERT kRfY number
+INSERT myFP number
+LOOKUP rAWiK
+ASSIGN myFP 1223
+END
+INSERT mah string
+RPRINT
+INSERT vOedl string
+ASSIGN mah 'Mc'
+INSERT pjN number
+INSERT upt string
+j mz
+INSERT nd9 string
+PRINT
+INSERT d number
+INSERT l7u1B number
+BEGIN
+INSERT kwU9 number
+LOOKUP rAWiK
+INSERT x2O number
+INSERT m8B8V number
+LOOKUP kwU9
+INSERT bJ4 number
+LOOKUP nd9
+INSERT sKYo28 string
+n0 ixC
+RPRINT
+INSERT pxi number
+INSERT t73l number
+INSERT lFHe number
+INSERT xPo number
+INSERT wJV string
+INSERT tUpU number

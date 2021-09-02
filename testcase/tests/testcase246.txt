@@ -1,0 +1,30 @@
+ASSIGN pQG 291
+lfF rkULC
+INSERT ru number
+INSERT lV string
+LOOKUP lV
+INSERT d number
+LOOKUP d
+ASSIGN ru 'X'
+INSERT jSx46E number
+j29pd0 hT8
+INSERT qzVry number
+ASSIGN jSx46E qzVry
+INSERT oj3 number
+INSERT pWZ8 string
+INSERT fy string
+INSERT jnS string
+END
+INSERT r1IZ string
+END
+INSERT sS number
+INSERT h string
+INSERT yypq number
+RPRINT
+PRINT
+INSERT dxT6N number
+INSERT tCK number
+END
+END
+BEGIN
+LOOKUP yypq

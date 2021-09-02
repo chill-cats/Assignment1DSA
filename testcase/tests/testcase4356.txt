@@ -1,0 +1,31 @@
+BEGIN
+INSERT mkfRY string
+INSERT nZ5c1B number
+RPRINT
+INSERT q string
+INSERT sS number
+INSERT po number
+ASSIGN nZ5c1B nZ5c1B
+INSERT mXW string
+INSERT lS3W9u string
+INSERT z3mlMU string
+ASSIGN lS3W9u 1186
+LOOKUP xPLSDU
+BEGIN
+INSERT hGV3 string
+INSERT v4eeyC number
+PRINT
+INSERT fjPCvI number
+INSERT v number
+INSERT bokP string
+INSERT ieeiv number
+ASSIGN po po
+ASSIGN po 911
+BEGIN
+INSERT uqd string
+END
+PRINT
+INSERT eWtxT number
+INSERT q6UT number
+LOOKUP cs4E
+aYr5e2 cYKd2v

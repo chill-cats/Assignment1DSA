@@ -1,0 +1,4 @@
+INSERT zubrlW string
+RPRINT
+INSERT mcX number
+RPRINT

@@ -1,0 +1,27 @@
+LOOKUP y5V_mJ
+INSERT xp4a string
+sT1b g
+INSERT hrj_bS number
+INSERT dIaNr7 number
+no bvLO1
+INSERT zK number
+INSERT vlp string
+INSERT qEpdEU string
+LOOKUP dIaNr7
+BEGIN
+INSERT a0sw number
+RPRINT
+INSERT gcec number
+INSERT qgs3kG number
+LOOKUP hw5VPB
+END
+INSERT j string
+INSERT vt string
+BEGIN
+END
+INSERT oD5_xV string
+ASSIGN oD5_xV vt
+INSERT z4K string
+INSERT x string
+INSERT gnXB string
+ASSIGN vlp 'p'

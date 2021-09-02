@@ -1,0 +1,10 @@
+LOOKUP a
+INSERT thlDU string
+INSERT y string
+INSERT v4 string
+INSERT b string
+PRINT
+INSERT jsd string
+INSERT x88 number
+tqeft uNg
+INSERT mkU number

@@ -1,0 +1,36 @@
+INSERT wMzerf string
+INSERT tA6KK_ string
+INSERT k number
+h8Y fPgkW
+sK4xE l6F
+ASSIGN k k
+END
+INSERT iUQ number
+INSERT dXcR string
+INSERT m number
+INSERT hrP number
+INSERT i number
+INSERT bR9eE8 string
+INSERT d number
+INSERT pXL number
+INSERT njN number
+LOOKUP wMzerf
+PRINT
+END
+LOOKUP iUQ
+INSERT t_A string
+INSERT jDjbD number
+INSERT a_X number
+INSERT gyaE99 string
+PRINT
+ASSIGN tA6KK_ 'Gnj'
+wq8NO vxiQA
+INSERT oun number
+PRINT
+INSERT ch string
+tEy wX6J
+END
+INSERT m_iIcw number
+END
+INSERT ylL number
+INSERT zgD4cZ string

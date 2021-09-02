@@ -1,0 +1,9 @@
+iasDF0 xa
+INSERT zILnJZ string
+ASSIGN zILnJZ 'GuDDo'
+INSERT aPExl4 string
+RPRINT
+INSERT oJ string
+END
+INSERT f0 string
+INSERT v5 number

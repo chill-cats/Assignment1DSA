@@ -1,0 +1,10 @@
+BEGIN
+INSERT lvFf7O string
+END
+INSERT cKC number
+INSERT lNuu string
+RPRINT
+BEGIN
+INSERT x34fv number
+INSERT xBI string
+INSERT y4 string

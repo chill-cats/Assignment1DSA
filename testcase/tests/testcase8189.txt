@@ -1,0 +1,34 @@
+END
+INSERT tsR string
+INSERT x string
+INSERT xO string
+INSERT rSB string
+END
+INSERT wX string
+LOOKUP x
+INSERT geN43 number
+BEGIN
+INSERT hEQB string
+INSERT xjeKgy string
+INSERT sn number
+RPRINT
+INSERT pEhI number
+INSERT n number
+INSERT tVW string
+RPRINT
+LOOKUP hEQB
+INSERT a8cbwz string
+BEGIN
+INSERT rH number
+INSERT qiEB number
+BEGIN
+INSERT y string
+INSERT k6G74Z string
+INSERT gFOl4 number
+INSERT scBhNg number
+INSERT tD1dhZ string
+BEGIN
+INSERT k4 string
+INSERT wd string
+LOOKUP scBhNg
+INSERT jq5A number

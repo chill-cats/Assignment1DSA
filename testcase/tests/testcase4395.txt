@@ -1,0 +1,6 @@
+INSERT wC5ZB string
+END
+INSERT e number
+LOOKUP wC5ZB
+END
+INSERT nt7 number

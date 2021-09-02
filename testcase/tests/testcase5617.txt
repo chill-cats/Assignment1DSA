@@ -1,0 +1,12 @@
+INSERT rtC5pk string
+END
+INSERT z string
+BEGIN
+INSERT j68cX number
+INSERT qz string
+INSERT u number
+END
+INSERT aa number
+LOOKUP qz
+INSERT wi5W string
+INSERT b string

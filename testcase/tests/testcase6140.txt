@@ -1,0 +1,6 @@
+ASSIGN g '2i'
+ASSIGN rc 856
+INSERT rgE63 string
+INSERT u4shY number
+RPRINT
+INSERT ovS number

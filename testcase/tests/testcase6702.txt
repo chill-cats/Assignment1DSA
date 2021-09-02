@@ -1,0 +1,16 @@
+INSERT vH6jI number
+INSERT b string
+INSERT x1H number
+LOOKUP i2Rbub
+END
+INSERT ox5 string
+BEGIN
+INSERT aNhb string
+LOOKUP ox5
+RPRINT
+ASSIGN aNhb aNhb
+LOOKUP ox5
+INSERT vRP7us number
+INSERT g string
+LOOKUP b
+oOs k

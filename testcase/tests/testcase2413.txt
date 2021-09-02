@@ -1,0 +1,18 @@
+INSERT iG string
+INSERT w number
+INSERT h number
+END
+END
+INSERT x number
+INSERT bzoGm string
+INSERT qbvNId number
+INSERT b7g6yT number
+ASSIGN iG 22
+PRINT
+INSERT xtRvG string
+INSERT oSCPx9 string
+LOOKUP oSCPx9
+INSERT ct number
+INSERT xkHf string
+RPRINT
+INSERT n string

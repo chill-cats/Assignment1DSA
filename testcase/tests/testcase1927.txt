@@ -1,0 +1,6 @@
+INSERT wcI number
+END
+kiZ yo
+END
+INSERT c string
+BEGIN

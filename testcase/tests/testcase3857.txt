@@ -1,0 +1,8 @@
+qs0oJc vd
+INSERT j string
+ASSIGN j j
+INSERT jzXE_ number
+BEGIN
+RPRINT
+LOOKUP jzXE_
+BEGIN

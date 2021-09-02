@@ -1,0 +1,39 @@
+INSERT dGc1sM string
+INSERT kw54 number
+PRINT
+INSERT cAR number
+INSERT yNI3be number
+INSERT j9km number
+INSERT tRUKO string
+INSERT zc04vn string
+ASSIGN dGc1sM 'ow'
+INSERT u7s number
+INSERT u2 number
+INSERT ha number
+INSERT bNW string
+INSERT tYC number
+INSERT h number
+PRINT
+INSERT eCRW number
+l s59KjB
+INSERT d_Hi9D number
+LOOKUP u7s
+INSERT kP number
+m b_
+PRINT
+INSERT fcm0nd number
+ASSIGN kP 'rg '
+INSERT lyIdB number
+INSERT n string
+ASSIGN zc04vn 416
+BEGIN
+PRINT
+LOOKUP yNI3be
+k gjZ9b
+END
+INSERT a number
+INSERT xN3 number
+RPRINT
+LOOKUP n
+INSERT q number
+INSERT t number

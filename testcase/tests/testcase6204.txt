@@ -1,0 +1,32 @@
+END
+INSERT fv string
+INSERT mjC96 string
+INSERT baVY2 number
+BEGIN
+INSERT twdxk number
+INSERT oIpM0 string
+INSERT t number
+INSERT lR7 string
+LOOKUP k
+INSERT cE4y string
+PRINT
+PRINT
+INSERT korD number
+INSERT hfZa string
+ASSIGN korD korD
+INSERT xKQG string
+INSERT tSbbzU number
+BEGIN
+INSERT fwgiAS number
+ASSIGN fwgiAS 'gd7'
+INSERT fKOV9 number
+BEGIN
+ASSIGN xKQG 'ofQ4t'
+INSERT tz7tct number
+INSERT fu string
+ASSIGN oIpM0 korD
+INSERT kji string
+RPRINT
+INSERT kd3gX string
+INSERT c string
+INSERT gCzN string

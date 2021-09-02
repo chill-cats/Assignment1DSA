@@ -1,0 +1,19 @@
+ASSIGN cfZGX 159
+RPRINT
+PRINT
+INSERT hY string
+INSERT b number
+s8pfT l4hJn
+INSERT qiG string
+INSERT lsGJ number
+INSERT zM string
+INSERT xZe number
+INSERT aB0SXt number
+sVDHa pQ
+INSERT oJ string
+BEGIN
+END
+INSERT vgi4 number
+INSERT ms3 number
+RPRINT
+LOOKUP hY

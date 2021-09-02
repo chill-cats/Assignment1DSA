@@ -1,0 +1,8 @@
+INSERT r9K5K4 number
+INSERT qI0rCC number
+LOOKUP r9K5K4
+END
+END
+END
+INSERT t string
+ASSIGN t 'C6'

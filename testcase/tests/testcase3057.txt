@@ -1,0 +1,20 @@
+INSERT kXoX number
+LOOKUP kXoX
+INSERT z string
+ASSIGN kXoX 'ECfm'
+INSERT mk2 number
+INSERT nVcg7 number
+INSERT qWsQN number
+pfmXyL oszjb
+PRINT
+ASSIGN mk2 574
+INSERT e string
+LOOKUP kXoX
+dR t
+LOOKUP nVcg7
+BEGIN
+INSERT fE_ number
+nW gFfQAv
+ASSIGN nVcg7 'RGpyN'
+INSERT miG string
+INSERT tl number

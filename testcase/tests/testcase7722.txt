@@ -1,0 +1,35 @@
+RPRINT
+INSERT lxn string
+INSERT w string
+INSERT p9pt number
+INSERT n4 number
+PRINT
+INSERT ox7 string
+gq nZfJcY
+INSERT blRu1 number
+PRINT
+INSERT u string
+PRINT
+ASSIGN lxn 'hw'
+LOOKUP lxn
+RPRINT
+INSERT gqIKO string
+INSERT jZqG string
+INSERT wD string
+END
+LOOKUP blRu1
+INSERT pMS string
+tNrDM enK2
+INSERT aqcOAo number
+BEGIN
+INSERT hrIPw number
+BEGIN
+INSERT e number
+INSERT jB0ybp number
+END
+END
+INSERT u0e5x number
+INSERT bO string
+PRINT
+INSERT g6 string
+INSERT p0pVa7 number

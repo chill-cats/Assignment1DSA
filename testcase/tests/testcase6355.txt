@@ -1,0 +1,20 @@
+INSERT k6cuBp string
+INSERT h string
+END
+END
+INSERT pqN number
+INSERT t string
+ASSIGN k6cuBp 'rLX'
+LOOKUP k6cuBp
+lWsxdD j1Ie
+INSERT iFu number
+INSERT m string
+INSERT r number
+PRINT
+INSERT igiNBd number
+INSERT adx7Mn number
+RPRINT
+INSERT sxNe number
+INSERT o string
+INSERT gDvK number
+INSERT tQXT string

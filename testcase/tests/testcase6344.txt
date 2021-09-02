@@ -1,0 +1,6 @@
+PRINT
+INSERT zue0 string
+INSERT twBMNK number
+BEGIN
+INSERT v7_FC8 number
+INSERT ortrF number

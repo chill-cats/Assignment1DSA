@@ -1,0 +1,12 @@
+END
+INSERT siP string
+INSERT wJbot string
+INSERT fDl string
+INSERT eGdS number
+INSERT x number
+LOOKUP eGdS
+hWdVv tjAp
+INSERT j number
+END
+INSERT yjmtQ number
+RPRINT

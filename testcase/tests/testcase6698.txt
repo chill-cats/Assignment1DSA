@@ -1,0 +1,13 @@
+qwgCeP enG
+INSERT z5NvsA number
+INSERT eo string
+INSERT j6Y string
+INSERT u string
+PRINT
+INSERT jv12o number
+RPRINT
+INSERT hkTCR number
+RPRINT
+INSERT q string
+PRINT
+LOOKUP q

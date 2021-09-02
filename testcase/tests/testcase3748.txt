@@ -1,0 +1,31 @@
+INSERT r string
+INSERT wvNtbm number
+INSERT iWKXN string
+evKYd zA5Bl
+INSERT jDVu string
+INSERT bzrtq number
+INSERT iG string
+INSERT bZtI string
+INSERT pJl1 string
+INSERT lR string
+INSERT o string
+INSERT ni string
+INSERT vXBEio string
+INSERT fGx number
+INSERT r string
+PRINT
+INSERT p string
+INSERT wBToFr number
+z gvo66
+ASSIGN o 'Ji'
+LOOKUP o
+INSERT gB string
+INSERT e number
+INSERT yv number
+INSERT h string
+INSERT sPfS string
+INSERT x string
+INSERT uof string
+INSERT skEk number
+BEGIN
+END

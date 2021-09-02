@@ -1,0 +1,40 @@
+LOOKUP yooxyZ
+BEGIN
+INSERT k5TnSu string
+INSERT vH string
+INSERT l number
+INSERT m number
+BEGIN
+BEGIN
+LOOKUP vH
+INSERT tr number
+BEGIN
+INSERT dYDcjF string
+LOOKUP vH
+RPRINT
+INSERT jcVY3i number
+BEGIN
+u hgEsPf
+INSERT hK string
+INSERT zoJA1q number
+ASSIGN hK 'zmLP'
+INSERT vPv8 string
+LOOKUP jcVY3i
+INSERT xo3U number
+INSERT fH50 number
+PRINT
+PRINT
+INSERT s5 string
+PRINT
+INSERT vY1 number
+LOOKUP s5
+INSERT mwy number
+INSERT u string
+INSERT rw string
+LOOKUP vPv8
+INSERT oX4 string
+nRhmj hNc3Ww
+INSERT lpy number
+INSERT mPjmC9 number
+LOOKUP u
+INSERT k_ string

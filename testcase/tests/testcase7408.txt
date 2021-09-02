@@ -1,0 +1,15 @@
+INSERT b1KP string
+BEGIN
+RPRINT
+INSERT nJ number
+ASSIGN nJ 'WN'
+INSERT z9V string
+INSERT aT8kod string
+INSERT mu1G number
+BEGIN
+q j2p
+INSERT f number
+PRINT
+LOOKUP f
+END
+INSERT zH string

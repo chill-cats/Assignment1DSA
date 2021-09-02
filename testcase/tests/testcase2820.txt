@@ -1,0 +1,9 @@
+INSERT pPN number
+END
+INSERT rJu99 string
+INSERT t2ZizK number
+INSERT jjwsE string
+INSERT t7SeO7 string
+INSERT ybpj2 string
+INSERT hU7w string
+ASSIGN hU7w 1125

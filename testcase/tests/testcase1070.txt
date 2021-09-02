@@ -1,0 +1,34 @@
+INSERT fk number
+INSERT tqam4 string
+INSERT m1kG string
+INSERT jMq string
+INSERT f number
+INSERT kt_NQg string
+INSERT hMvZ string
+END
+INSERT lpuS string
+INSERT x string
+INSERT q3T string
+INSERT js number
+INSERT nx string
+END
+RPRINT
+INSERT nnw string
+INSERT g number
+INSERT p number
+INSERT gDUS string
+INSERT iA68mG number
+INSERT vmDDu string
+INSERT py number
+INSERT vTGcXl number
+INSERT cEQIgu string
+INSERT a01e2Z string
+END
+INSERT uMgG number
+INSERT gk7h string
+ASSIGN vTGcXl lpuS
+PRINT
+BEGIN
+INSERT q string
+PRINT
+INSERT wwS number

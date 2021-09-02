@@ -1,0 +1,33 @@
+PRINT
+PRINT
+END
+END
+INSERT q2PV number
+LOOKUP q2PV
+ASSIGN gZBgyM q2PV
+LOOKUP a1pw5a
+INSERT m string
+INSERT mn number
+INSERT bsbTu number
+mD l_a
+ASSIGN mn mn
+PRINT
+RPRINT
+INSERT ehgGh9 string
+INSERT h7 number
+LOOKUP q2PV
+PRINT
+PRINT
+ASSIGN h7 m
+INSERT qfAh number
+BEGIN
+o n2o
+BEGIN
+INSERT v number
+PRINT
+INSERT dX number
+RPRINT
+INSERT wScQz string
+INSERT eQ string
+INSERT i string
+RPRINT

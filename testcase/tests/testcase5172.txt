@@ -1,0 +1,26 @@
+INSERT mYKdz string
+INSERT qH number
+LOOKUP mYKdz
+INSERT l8vYaA string
+INSERT j number
+INSERT fPII string
+ASSIGN qH 'kHh4'
+LOOKUP mYKdz
+INSERT tn4MYW number
+INSERT tHRLf string
+INSERT d4D string
+LOOKUP qH
+INSERT qSOp6o string
+INSERT vITWe string
+INSERT tx number
+INSERT kqkO string
+END
+INSERT yEdwe string
+INSERT enU3 number
+LOOKUP qSOp6o
+INSERT ts number
+INSERT g9 number
+INSERT aS string
+INSERT i5 number
+INSERT dotoQF string
+INSERT pc number

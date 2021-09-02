@@ -1,0 +1,34 @@
+INSERT q5cV number
+INSERT b number
+LOOKUP q5cV
+INSERT p number
+ASSIGN p b
+ASSIGN b 815
+INSERT p9WCoV string
+PRINT
+PRINT
+INSERT re number
+INSERT bhHL string
+RPRINT
+INSERT s string
+RPRINT
+END
+BEGIN
+INSERT wtS number
+INSERT d number
+INSERT hwTX number
+duFVt sLe
+INSERT key3 string
+INSERT pT string
+INSERT l string
+INSERT fgkv string
+LOOKUP fgkv
+RPRINT
+END
+INSERT v5 string
+INSERT qQp number
+END
+INSERT rqhQA number
+INSERT bHtdy number
+INSERT iWtxzE string
+INSERT qxDe97 number

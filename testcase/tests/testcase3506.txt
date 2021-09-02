@@ -1,0 +1,36 @@
+INSERT jPan number
+LOOKUP jPan
+aTm tB07
+LOOKUP jPan
+INSERT wqG number
+BEGIN
+RPRINT
+PRINT
+BEGIN
+RPRINT
+INSERT p string
+BEGIN
+PRINT
+INSERT rn string
+RPRINT
+INSERT zv number
+RPRINT
+INSERT x6 string
+INSERT oDs string
+jn kr
+INSERT pQJd string
+INSERT f4old0 string
+INSERT bBI number
+INSERT o4RJA string
+INSERT bKoi string
+PRINT
+PRINT
+INSERT iXJ6z number
+INSERT em number
+END
+INSERT oBV string
+INSERT a string
+INSERT ulk string
+INSERT gHtv number
+INSERT h number
+LOOKUP bBI

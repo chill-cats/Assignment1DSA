@@ -1,0 +1,32 @@
+ASSIGN pkcJxs '6Rm'
+INSERT xeB number
+INSERT jU string
+zcUo x1h8
+INSERT mkR string
+INSERT cOZ_cK number
+LOOKUP xeB
+INSERT aNBuU4 string
+INSERT w5Y string
+INSERT gLl string
+BEGIN
+ASSIGN jU xeB
+INSERT n8a number
+INSERT kgwu string
+INSERT lSbeIy string
+INSERT zc number
+uoR j
+BEGIN
+INSERT a2nQZ number
+INSERT t number
+INSERT zxGFw number
+INSERT zc string
+ASSIGN cOZ_cK mkR
+INSERT moGs number
+INSERT p number
+ASSIGN kgwu aNBuU4
+PRINT
+LOOKUP mkR
+BEGIN
+vIl2 cAxD
+LOOKUP aNBuU4
+ASSIGN p cOZ_cK

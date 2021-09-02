@@ -1,0 +1,11 @@
+BEGIN
+INSERT f string
+LOOKUP f
+INSERT jGP number
+INSERT h number
+RPRINT
+RPRINT
+mhc lTk
+INSERT tH22fK string
+INSERT xn number
+BEGIN

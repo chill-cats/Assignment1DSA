@@ -1,0 +1,4 @@
+RPRINT
+INSERT q number
+LOOKUP q
+INSERT l number

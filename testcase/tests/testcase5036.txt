@@ -1,0 +1,28 @@
+INSERT h9EFY string
+INSERT s3afm number
+INSERT i number
+INSERT jlgT9 number
+INSERT xh7 number
+kKIlL2 zi4uT
+INSERT wp32QX string
+INSERT tP number
+INSERT iCChi string
+ASSIGN s3afm xh7
+ASSIGN s3afm jlgT9
+BEGIN
+INSERT izV06 number
+ASSIGN izV06 tP
+INSERT wO number
+INSERT r string
+INSERT lGIC number
+PRINT
+INSERT b number
+INSERT aP3PSI number
+INSERT kW2Y number
+oP ua
+END
+INSERT a0pQ number
+BEGIN
+INSERT dW842 number
+INSERT g string
+END

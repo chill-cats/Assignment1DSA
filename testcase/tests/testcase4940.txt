@@ -1,0 +1,34 @@
+RPRINT
+PRINT
+INSERT bw0 string
+RPRINT
+INSERT pqW string
+LOOKUP pqW
+RPRINT
+INSERT ipIID number
+INSERT l8azX0 string
+INSERT qX string
+INSERT vFhxo number
+INSERT lrQn number
+INSERT azW string
+INSERT qywXi string
+INSERT bZSLmK string
+INSERT ubUG number
+END
+INSERT heqz5 string
+INSERT xIg string
+RPRINT
+INSERT yXJtyN number
+INSERT zlDMh string
+d oVMDc
+INSERT q7AFYl string
+INSERT qK10 number
+INSERT xRI string
+INSERT o4Mp string
+PRINT
+oIEhY qt
+INSERT lf string
+quiKxI vw05N3
+ojz0T dZfS
+INSERT p6 number
+RPRINT

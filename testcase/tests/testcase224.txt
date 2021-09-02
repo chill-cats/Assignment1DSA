@@ -1,0 +1,12 @@
+INSERT ugP number
+INSERT x9k number
+INSERT aI string
+ASSIGN x9k 581
+RPRINT
+INSERT qoxC string
+pCp led
+BEGIN
+END
+INSERT jsSHBr string
+INSERT pBU number
+hd0z eFj9vR

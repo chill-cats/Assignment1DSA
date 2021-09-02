@@ -1,0 +1,6 @@
+PRINT
+INSERT dTsmFn number
+INSERT z number
+INSERT jYhLs string
+PRINT
+INSERT biW number

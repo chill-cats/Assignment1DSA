@@ -1,0 +1,28 @@
+INSERT raL number
+INSERT yJ number
+LOOKUP raL
+PRINT
+LOOKUP yJ
+INSERT boP0W number
+PRINT
+ASSIGN raL 876
+ASSIGN boP0W 461
+BEGIN
+INSERT v string
+INSERT wO number
+INSERT awIOpA string
+INSERT i string
+BEGIN
+INSERT w number
+INSERT e3eY string
+INSERT s string
+INSERT x0G number
+INSERT dSdX2 number
+LOOKUP s
+LOOKUP raL
+INSERT bbww number
+INSERT dsF number
+INSERT c number
+PRINT
+LOOKUP bbww
+INSERT jigWV string

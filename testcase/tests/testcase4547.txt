@@ -1,0 +1,21 @@
+INSERT e number
+INSERT hcVX string
+INSERT gDZ number
+INSERT e string
+INSERT xN number
+RPRINT
+RPRINT
+INSERT sAP number
+INSERT anu string
+INSERT loPOK string
+END
+INSERT rqE1 string
+INSERT qgwW2 number
+INSERT tyYx number
+INSERT vtS string
+PRINT
+INSERT pwmRy number
+INSERT at number
+PRINT
+INSERT xCY4 string
+INSERT pe string

@@ -1,0 +1,6 @@
+INSERT tJC string
+ASSIGN tJC 'yPJ6E'
+INSERT e4 number
+PRINT
+INSERT p string
+INSERT uCY string

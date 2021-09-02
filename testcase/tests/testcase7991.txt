@@ -1,0 +1,8 @@
+INSERT pek number
+ASSIGN pek 'JX9xD'
+INSERT v4YDgn number
+RPRINT
+ASSIGN v4YDgn 824
+INSERT pA1ZkS number
+ASSIGN v4YDgn v4YDgn
+INSERT dIp string

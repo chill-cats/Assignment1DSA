@@ -1,0 +1,26 @@
+INSERT kQ9w7 string
+RPRINT
+PRINT
+eyDyWy yCge
+RPRINT
+INSERT uSUPy number
+INSERT a string
+ASSIGN uSUPy uSUPy
+INSERT pTQP2q number
+PRINT
+LOOKUP uSUPy
+BEGIN
+INSERT dzd3us string
+INSERT v string
+INSERT h number
+ASSIGN dzd3us '6chcm'
+PRINT
+END
+RPRINT
+BEGIN
+RPRINT
+INSERT d8Kl string
+INSERT l number
+INSERT vajU number
+END
+INSERT we string

@@ -1,0 +1,30 @@
+INSERT i1dr number
+INSERT c2BBe number
+INSERT j string
+INSERT lWY4 number
+BEGIN
+BEGIN
+w vk
+INSERT bW9 string
+INSERT qt number
+INSERT c_xwT number
+END
+uOu xosp
+INSERT src string
+LOOKUP src
+INSERT flGk number
+INSERT kWTAvr number
+BEGIN
+INSERT z3nS string
+INSERT c6u number
+INSERT koefmo string
+LOOKUP kWTAvr
+INSERT t__ number
+INSERT j string
+INSERT mK number
+INSERT cruB string
+INSERT psu2mI string
+ASSIGN psu2mI mK
+RPRINT
+INSERT cef number
+INSERT hft string

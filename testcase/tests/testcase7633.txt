@@ -1,0 +1,35 @@
+INSERT wWhfz number
+INSERT qmk string
+INSERT tdx string
+INSERT cL0 number
+INSERT zn5gC string
+INSERT x number
+INSERT gv9v4 number
+END
+INSERT q string
+INSERT dxs9y number
+ASSIGN wWhfz 'IcV8'
+END
+INSERT ozBW number
+LOOKUP zn5gC
+BEGIN
+INSERT ybF2Gc number
+ASSIGN cL0 cL0
+RPRINT
+b z6
+PRINT
+INSERT h5w2uC number
+RPRINT
+LOOKUP wWhfz
+INSERT ud9 number
+INSERT lm number
+ASSIGN wWhfz 1040
+RPRINT
+INSERT mIlz number
+RPRINT
+INSERT vSow number
+INSERT eWHPQD string
+RPRINT
+RPRINT
+INSERT eb string
+INSERT eAw9 string

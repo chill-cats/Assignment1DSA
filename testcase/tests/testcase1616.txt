@@ -1,0 +1,8 @@
+END
+INSERT m7bAp string
+INSERT o number
+INSERT x number
+INSERT sX3NS number
+BEGIN
+RPRINT
+INSERT b8c string

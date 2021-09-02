@@ -1,0 +1,27 @@
+BEGIN
+INSERT zrL number
+INSERT iD string
+LOOKUP zrL
+BEGIN
+INSERT j9FCC number
+INSERT qzNHX number
+LOOKUP zrL
+INSERT w number
+BEGIN
+END
+INSERT fUqJV0 number
+INSERT eb string
+INSERT w number
+INSERT aK5sNa number
+INSERT wXx8 number
+INSERT ayOec number
+INSERT m3 string
+INSERT yH string
+INSERT z6CCm string
+INSERT xnOXh1 number
+PRINT
+INSERT qRP2W number
+INSERT vEi number
+LOOKUP qRP2W
+RPRINT
+INSERT paa1 number

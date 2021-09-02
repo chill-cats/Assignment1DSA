@@ -1,0 +1,8 @@
+INSERT b7F_ string
+LOOKUP b7F_
+INSERT bxu number
+INSERT z number
+END
+INSERT a string
+LOOKUP b7F_
+INSERT pI string

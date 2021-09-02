@@ -1,0 +1,11 @@
+INSERT cFI number
+PRINT
+BEGIN
+INSERT iNm number
+LOOKUP cFI
+RPRINT
+INSERT sjxoE number
+INSERT xeGlk0 string
+PRINT
+RPRINT
+INSERT otiP9 string

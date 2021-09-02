@@ -1,0 +1,36 @@
+ASSIGN tquFf 304
+BEGIN
+LOOKUP nNsn
+RPRINT
+INSERT wzDbo string
+ASSIGN wzDbo wzDbo
+cAYPU a5U7w
+ASSIGN wzDbo wzDbo
+INSERT umT_l number
+LOOKUP wzDbo
+INSERT nS9ye string
+BEGIN
+INSERT gCS string
+INSERT mzy number
+INSERT aWwwJH string
+INSERT ztL string
+END
+INSERT bKW number
+PRINT
+INSERT ecl_ number
+BEGIN
+BEGIN
+INSERT nLL string
+BEGIN
+INSERT kbAQ string
+INSERT dzXtF string
+RPRINT
+END
+LOOKUP igBwT
+INSERT bh5 string
+INSERT vOa7yH string
+INSERT x9 number
+END
+INSERT aah string
+LOOKUP nS9ye
+BEGIN
