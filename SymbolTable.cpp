@@ -94,11 +94,24 @@ void ScopeList::removeInnermostScope() {
 
 void SymbolTable::run(const string &filename) {
     std::ifstream fileInput(filename);
+
+#ifdef __EMSCRIPTEN__
+    std::ifstream debugFile(filename);
+    std::string str((std::istreambuf_iterator<char>(debugFile)),
+                 std::istreambuf_iterator<char>());
+    cerr << str << std::endl;
+    cerr << "===========" << std::endl;
+#endif
+
     std::string line;
     while (std::getline(fileInput, line)) {
         auto output = this->processLine(line);
         if (this->shouldPrint) {
+#ifdef __EMSCRIPTEN__
+            cout << output << std::endl;
+#else
             std::cout << output << std::endl;
+#endif
         }
         this->shouldPrint = false;
     }
@@ -156,13 +169,23 @@ std::string SymbolTable::processLine(const string &line) {
         return {};
 
     } else if (std::regex_match(line, VALID_PRINT_REGEX)) {
+#ifndef __EMSCRIPTEN__
         auto result = trim(handlePrint());
         this->shouldPrint = !result.empty();
         return result;
+#else
+        this->shouldPrint = true;
+        return trim(this->handlePrint());
+#endif
     } else if (std::regex_match(line, VALID_REVERSE_PRINT_REGEX)) {
+#ifndef __EMSCRIPTEN__
         auto result = trim(handleReversePrint());
         this->shouldPrint = !result.empty();
         return result;
+#else
+        this->shouldPrint = true;
+        return trim(this->handleReversePrint());
+#endif
     }
     throw InvalidInstruction(line);
 }
