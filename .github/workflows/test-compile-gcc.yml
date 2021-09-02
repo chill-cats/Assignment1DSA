@@ -1,0 +1,17 @@
+name: Test compile on GCC w/ C++ 14 and max warning turned on
+on:
+  push:
+    branches:
+      - hoangnhan
+
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v2
+        with:
+          ref: hoangnhan
+      - name: Setup GCC
+        uses: egor-tensin/setup-gcc@v1
+      - run: c++ main.cpp SymbolTable.cpp -Wextra -Wall -Werror -pendantic -Wshadow -Wdouble-promotion -Wundef -fno-common
