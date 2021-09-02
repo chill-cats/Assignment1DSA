@@ -28,7 +28,7 @@ IdentifierNode::IdentifierNode(Identifier id, IdentifierNode *next, IdentifierNo
 
 
 IdentifierList::~IdentifierList() {
-    auto current = this->head;
+    auto current = this->tail;
     while (current) {
         auto deleteNode = current;
 
@@ -36,9 +36,13 @@ IdentifierList::~IdentifierList() {
         if (deleteNode->prevOfSameType)
             deleteNode->prevOfSameType->nextOfSameType = nullptr;
 
-        current = current->nextInSameScope;
+        current = current->prevInSameScope;
+
         delete deleteNode;
+        deleteNode = nullptr;
     }
+    this->head = nullptr;
+    this->tail = this->head;
 }
 
 Identifier *IdentifierList::containIdentifierWithName(const string &name) const {
@@ -74,7 +78,10 @@ ScopeList::~ScopeList() {
         auto deleteScope = current;
         current = current->parentScope;
         delete deleteScope;
+        deleteScope = nullptr;
     }
+    this->innerMostScope = nullptr;
+    this->globalScope = this->innerMostScope;
 }
 
 void ScopeList::removeInnermostScope() {
@@ -198,8 +205,10 @@ void SymbolTable::handleInsert(const string &identifierName, const string &type,
     // find the innermost scope if the identifier already exist
     auto currentIdentifier = this->scopes.innerMostScope->idList.head;
     while (currentIdentifier) {
-        if (currentIdentifier->id.name == identifierName)
+        if (currentIdentifier->id.name == identifierName) {
+            delete identifierNode;
             throw Redeclared(line);
+        }
 
         currentIdentifier = currentIdentifier->nextInSameScope;
     }

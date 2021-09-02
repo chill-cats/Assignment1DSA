@@ -74,25 +74,17 @@ public:
     SymbolTable();
 
     void run(const string &filename);
-
     std::string processLine(const std::string &str);
-
     void handleInsert(const std::string &identifierName, const std::string &type, const std::string &line) const;
-
     void handleAssign(const std::string &identifierName, const std::string &value, const std::string &line) const;
-
     int handleLookup(const string &identifierName, const std::string &line) const;
-
     void handleBegin();
-
     void handleEnd();
 
     std::string handlePrint() const;
-
     std::string handleReversePrint() const;
 
     void handleCleanUp() const;
-
 };
 
 #endif
