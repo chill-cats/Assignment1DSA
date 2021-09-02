@@ -7,12 +7,7 @@ if (CMAKE_CXX_COMPILER_ID STREQUAL "AppleClang"
         OR CMAKE_CXX_COMPILER_ID STREQUAL "Clang"
         OR CMAKE_CXX_COMPILER_ID STREQUAL "GNU")
 
-        add_compile_options(-Wall -Wextra -pedantic -Wshadow -Wdouble-promotion -Wundef -fno-common)
-    if (CMAKE_CXX_COMPILER_ID STREQUAL "AppleClang"
-            OR CMAKE_CXX_COMPILER_ID STREQUAL "Clang")
-        add_compile_options(-fsanitize=address -fno-omit-frame-pointer)
-        add_link_options(-fsanitize=address)
-    endif()
+        add_compile_options(-Wall -Wextra -pedantic -Wdouble-promotion -Wundef -fno-common)
     if (CMAKE_BUILD_TYPE STREQUAL "Release")
         add_compile_options(-Werror)
     endif()
