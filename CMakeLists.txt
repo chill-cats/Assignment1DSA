@@ -15,7 +15,8 @@ endif()
 
 if (SAN STREQUAL "ASan")
     if (CMAKE_CXX_COMPILER_ID STREQUAL "AppleClang"
-            OR CMAKE_CXX_COMPILER_ID STREQUAL "Clang")
+            OR CMAKE_CXX_COMPILER_ID STREQUAL "Clang"
+            OR CMAKE_CXX_COMPILER_ID STREQUAL "GNU")
         add_compile_options(-fsanitize=address -fno-omit-frame-pointer)
         add_link_options(-fsanitize=address)
     endif()
