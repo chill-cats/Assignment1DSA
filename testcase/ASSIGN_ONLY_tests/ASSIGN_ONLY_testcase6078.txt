@@ -1,0 +1,1 @@
+ASSIGN u30 'b2LG'

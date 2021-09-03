@@ -1,0 +1,5 @@
+INSERT pAT number
+INSERT e string
+INSERT dmDhj number
+INSERT t number
+INSERT c_w string

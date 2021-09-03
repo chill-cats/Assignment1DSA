@@ -1,0 +1,7 @@
+INSERT p number
+INSERT dKpo number
+INSERT s number
+INSERT ca number
+INSERT bi9K string
+INSERT lyO string
+INSERT xyMsyP number

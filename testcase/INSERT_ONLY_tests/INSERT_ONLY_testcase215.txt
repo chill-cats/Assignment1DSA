@@ -1,0 +1,9 @@
+INSERT k string
+INSERT xYKVDb number
+INSERT y2L number
+INSERT ecku1 number
+INSERT eFTSRC string
+INSERT d1 number
+INSERT toc string
+INSERT vJC number
+INSERT jB number

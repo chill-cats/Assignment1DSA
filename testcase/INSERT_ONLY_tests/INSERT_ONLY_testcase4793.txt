@@ -1,0 +1,17 @@
+INSERT i string
+INSERT d number
+INSERT bBOd number
+INSERT t string
+INSERT oOX number
+INSERT pk string
+INSERT wFTqok number
+INSERT rYg5i number
+INSERT pypS2 string
+INSERT oP9J string
+INSERT y number
+INSERT fNBlG1 string
+INSERT cnMY0 number
+INSERT wHbKM3 number
+INSERT t number
+INSERT p70 string
+INSERT qzwgG number

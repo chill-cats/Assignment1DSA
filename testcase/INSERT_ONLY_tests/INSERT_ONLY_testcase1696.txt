@@ -1,0 +1,7 @@
+INSERT wFgZr number
+INSERT oaH string
+INSERT skLL4W string
+INSERT r1 string
+INSERT f number
+INSERT j number
+INSERT t number

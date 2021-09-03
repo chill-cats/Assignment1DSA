@@ -1,0 +1,2 @@
+ASSIGN p0 'w2wP'
+ASSIGN gC 43

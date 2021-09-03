@@ -1,0 +1,10 @@
+INSERT rmm string
+INSERT dIax number
+INSERT cmvtEH number
+INSERT tX1 number
+INSERT sr2PQ1 string
+INSERT gCzqF number
+INSERT qZ8OS number
+INSERT k2 string
+INSERT ww string
+INSERT k string

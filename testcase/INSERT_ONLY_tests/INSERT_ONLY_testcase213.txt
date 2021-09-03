@@ -1,0 +1,16 @@
+INSERT ph string
+INSERT hWLT number
+INSERT r string
+INSERT d8f number
+INSERT moQC number
+INSERT oigt4 number
+INSERT oI9_hs string
+INSERT ecRbM1 number
+INSERT c5JJzO number
+INSERT y9 string
+INSERT j string
+INSERT n string
+INSERT z1Jgs string
+INSERT pjT number
+INSERT g string
+INSERT iCb0 string

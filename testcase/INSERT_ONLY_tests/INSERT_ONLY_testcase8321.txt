@@ -1,0 +1,12 @@
+INSERT g number
+INSERT e string
+INSERT yumliV string
+INSERT era string
+INSERT n60 number
+INSERT w string
+INSERT h string
+INSERT h string
+INSERT q number
+INSERT hFho2e string
+INSERT pPFR0 string
+INSERT kI4 string

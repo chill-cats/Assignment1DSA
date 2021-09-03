@@ -1,0 +1,4 @@
+INSERT bl7H number
+INSERT y string
+INSERT xk9 string
+INSERT wB number

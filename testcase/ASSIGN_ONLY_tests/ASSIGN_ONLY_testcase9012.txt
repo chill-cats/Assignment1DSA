@@ -1,0 +1,3 @@
+ASSIGN is4teP 273
+ASSIGN fl 'gun'
+ASSIGN kOicro fl

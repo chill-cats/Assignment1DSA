@@ -1,0 +1,3 @@
+INSERT cXu number
+INSERT m number
+INSERT hrdyTW number

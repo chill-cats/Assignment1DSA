@@ -1,0 +1,3 @@
+INSERT a number
+INSERT k string
+INSERT vUSE string

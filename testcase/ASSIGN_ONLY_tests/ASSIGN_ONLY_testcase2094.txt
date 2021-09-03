@@ -1,0 +1,4 @@
+ASSIGN s '45'
+ASSIGN v 'FaVGN'
+ASSIGN z s
+ASSIGN shUeb 419

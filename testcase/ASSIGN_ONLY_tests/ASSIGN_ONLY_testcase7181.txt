@@ -1,0 +1,2 @@
+ASSIGN s 873
+ASSIGN m aInTY1

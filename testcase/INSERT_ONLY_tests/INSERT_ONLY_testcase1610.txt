@@ -1,0 +1,12 @@
+INSERT m string
+INSERT n number
+INSERT b60p number
+INSERT a6 string
+INSERT f string
+INSERT qCI number
+INSERT uuvtQl string
+INSERT zbTR8 number
+INSERT j number
+INSERT zyFY number
+INSERT mAB number
+INSERT n string

@@ -1,0 +1,5 @@
+INSERT nc string
+INSERT lKhOu number
+INSERT ntW_mF string
+INSERT gHLCY5 string
+INSERT c string

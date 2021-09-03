@@ -1,0 +1,3 @@
+ASSIGN t_lgL 'Q'
+ASSIGN xa ' '
+ASSIGN kTeRup 1140

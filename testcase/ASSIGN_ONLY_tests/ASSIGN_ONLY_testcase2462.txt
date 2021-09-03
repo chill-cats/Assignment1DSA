@@ -1,0 +1,4 @@
+ASSIGN pH 'k'
+ASSIGN pnlKSF 68
+ASSIGN gS_Kc 'A'
+ASSIGN xnB 'Sp7'

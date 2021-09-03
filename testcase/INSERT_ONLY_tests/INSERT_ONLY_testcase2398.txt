@@ -1,0 +1,11 @@
+INSERT u3 number
+INSERT kiffFz string
+INSERT pW string
+INSERT hu16 number
+INSERT rAwQ number
+INSERT n_GIL number
+INSERT p number
+INSERT dMaPU string
+INSERT c0oT number
+INSERT teX number
+INSERT gk number

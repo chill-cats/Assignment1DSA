@@ -1,0 +1,8 @@
+INSERT go string
+INSERT a number
+INSERT gbzM number
+INSERT uDPmJh string
+INSERT y679 string
+INSERT oau number
+INSERT e number
+INSERT psVZ string

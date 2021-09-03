@@ -1,0 +1,5 @@
+INSERT lpPu number
+INSERT htKem string
+INSERT xlgZA number
+INSERT j number
+INSERT z string

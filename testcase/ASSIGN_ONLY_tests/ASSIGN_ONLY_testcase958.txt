@@ -1,0 +1,2 @@
+ASSIGN fo 'vb'
+ASSIGN oSUb 'l'

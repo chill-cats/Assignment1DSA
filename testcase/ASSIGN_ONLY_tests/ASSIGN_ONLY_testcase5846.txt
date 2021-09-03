@@ -1,0 +1,2 @@
+ASSIGN l0vg3 82
+ASSIGN b 741

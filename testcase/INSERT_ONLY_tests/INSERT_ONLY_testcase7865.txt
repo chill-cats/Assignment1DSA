@@ -1,0 +1,5 @@
+INSERT m string
+INSERT dS6N8J number
+INSERT d number
+INSERT srwiQX number
+INSERT e string

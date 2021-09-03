@@ -1,0 +1,9 @@
+INSERT g number
+INSERT lc0dha number
+INSERT ul string
+INSERT y7QZl string
+INSERT boxs string
+INSERT a number
+INSERT y9 string
+INSERT eSQM number
+INSERT n string

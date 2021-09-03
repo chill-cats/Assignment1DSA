@@ -1,0 +1,4 @@
+INSERT g7deF number
+INSERT nCXn string
+INSERT aeEBk string
+INSERT te string

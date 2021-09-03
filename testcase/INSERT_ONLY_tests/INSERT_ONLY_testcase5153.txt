@@ -1,0 +1,10 @@
+INSERT wEdm number
+INSERT mw number
+INSERT g string
+INSERT tB8j1 number
+INSERT grptCM number
+INSERT keKln number
+INSERT hC number
+INSERT vFS string
+INSERT wxz string
+INSERT yOr2 number

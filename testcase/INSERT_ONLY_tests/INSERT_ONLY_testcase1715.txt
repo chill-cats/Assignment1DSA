@@ -1,0 +1,11 @@
+INSERT hgJC number
+INSERT v string
+INSERT j number
+INSERT zjc number
+INSERT yinIr number
+INSERT ddD number
+INSERT pmo number
+INSERT d4U string
+INSERT n5 string
+INSERT d string
+INSERT q number

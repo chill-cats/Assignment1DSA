@@ -1,0 +1,4 @@
+ASSIGN xM xM
+ASSIGN jsW 'ivo'
+ASSIGN mt1w 'M5'
+ASSIGN b 539

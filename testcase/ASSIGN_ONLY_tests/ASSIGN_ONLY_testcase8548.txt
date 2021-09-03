@@ -1,0 +1,2 @@
+ASSIGN kxQ 'eI'
+ASSIGN g 278

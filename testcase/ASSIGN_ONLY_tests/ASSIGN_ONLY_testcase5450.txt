@@ -1,0 +1,2 @@
+ASSIGN d32o14 d32o14
+ASSIGN uwCbGx 'TT'

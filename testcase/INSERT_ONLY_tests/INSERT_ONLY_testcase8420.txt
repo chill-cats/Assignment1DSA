@@ -1,0 +1,3 @@
+INSERT kXUq number
+INSERT tBkLt2 number
+INSERT iFP8 string

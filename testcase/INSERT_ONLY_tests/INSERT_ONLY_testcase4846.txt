@@ -1,0 +1,4 @@
+INSERT tPOV4 number
+INSERT ow1 number
+INSERT s number
+INSERT m string

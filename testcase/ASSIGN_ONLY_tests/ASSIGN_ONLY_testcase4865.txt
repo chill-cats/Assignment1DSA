@@ -1,0 +1,1 @@
+ASSIGN rF0 k_G

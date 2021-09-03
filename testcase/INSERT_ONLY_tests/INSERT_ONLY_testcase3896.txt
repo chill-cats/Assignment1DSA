@@ -1,0 +1,7 @@
+INSERT gsE number
+INSERT s string
+INSERT eH string
+INSERT u number
+INSERT ozM string
+INSERT xuk string
+INSERT zoHl3 string

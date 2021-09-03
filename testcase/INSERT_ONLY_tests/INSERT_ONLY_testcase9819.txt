@@ -1,0 +1,9 @@
+INSERT lk string
+INSERT r number
+INSERT d number
+INSERT c number
+INSERT x string
+INSERT tYWl string
+INSERT tM number
+INSERT sN number
+INSERT f0t number

@@ -1,0 +1,4 @@
+ASSIGN h95Zx 469
+ASSIGN bdIps 'T vx'
+ASSIGN w 961
+ASSIGN yn 'Gi'

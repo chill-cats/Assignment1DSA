@@ -1,0 +1,2 @@
+ASSIGN zq 1232
+ASSIGN djf s

@@ -1,0 +1,3 @@
+INSERT ik string
+INSERT e string
+INSERT h number

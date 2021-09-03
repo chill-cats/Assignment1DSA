@@ -1,0 +1,6 @@
+INSERT uumW3X number
+INSERT a number
+INSERT sIW string
+INSERT b number
+INSERT fcqx string
+INSERT n9 string

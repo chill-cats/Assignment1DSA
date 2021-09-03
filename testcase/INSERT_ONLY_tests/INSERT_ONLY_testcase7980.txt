@@ -1,0 +1,8 @@
+INSERT n number
+INSERT pr number
+INSERT w_g string
+INSERT i478L string
+INSERT a number
+INSERT rhR number
+INSERT mt string
+INSERT vs7J number

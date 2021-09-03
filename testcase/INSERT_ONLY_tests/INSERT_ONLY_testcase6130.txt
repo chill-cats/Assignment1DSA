@@ -1,0 +1,6 @@
+INSERT oHh string
+INSERT vE number
+INSERT xe1h number
+INSERT dT string
+INSERT bsem0A string
+INSERT qsc1 number

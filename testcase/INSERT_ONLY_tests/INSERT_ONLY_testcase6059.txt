@@ -1,0 +1,5 @@
+INSERT fg number
+INSERT vm string
+INSERT xwm number
+INSERT g9H4 string
+INSERT tR3s3t string

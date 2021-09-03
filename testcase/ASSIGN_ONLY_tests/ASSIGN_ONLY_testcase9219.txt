@@ -1,0 +1,2 @@
+ASSIGN u6 g
+ASSIGN c 768

@@ -1,0 +1,8 @@
+INSERT g string
+INSERT zZ number
+INSERT eD3bs number
+INSERT od string
+INSERT aKmz number
+INSERT gNA string
+INSERT b number
+INSERT rFqvnU number

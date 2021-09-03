@@ -1,0 +1,5 @@
+ASSIGN n1 1080
+ASSIGN wnl 'xy3mP'
+ASSIGN h v
+ASSIGN dme 60
+ASSIGN dme l

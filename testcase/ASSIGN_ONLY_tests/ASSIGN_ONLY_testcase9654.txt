@@ -1,0 +1,2 @@
+ASSIGN xfmtFi 372
+ASSIGN kd 98

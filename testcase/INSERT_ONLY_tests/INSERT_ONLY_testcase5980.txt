@@ -1,0 +1,15 @@
+INSERT w2 string
+INSERT hq string
+INSERT p number
+INSERT qr number
+INSERT lSZ string
+INSERT mBv string
+INSERT d58brJ number
+INSERT rtRbD number
+INSERT c number
+INSERT wY string
+INSERT wS4J number
+INSERT pGFRe number
+INSERT zaoF number
+INSERT gDhw number
+INSERT txCu number

@@ -1,0 +1,3 @@
+ASSIGN af gSsPT
+ASSIGN gSsPT 351
+ASSIGN i3MlnR 'a'

@@ -1,0 +1,13 @@
+INSERT vfgAR number
+INSERT m number
+INSERT s string
+INSERT g2vpM string
+INSERT esVn5A string
+INSERT x string
+INSERT pRX number
+INSERT mex7 string
+INSERT bvPrl number
+INSERT uWTD3 number
+INSERT vry number
+INSERT i6 number
+INSERT dRa number

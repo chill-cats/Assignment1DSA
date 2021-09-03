@@ -1,0 +1,3 @@
+ASSIGN e 'hWT'
+ASSIGN gbe 882
+ASSIGN ym1 'DXH'

@@ -1,0 +1,4 @@
+INSERT t number
+INSERT fU number
+INSERT c_ string
+INSERT e84wP string

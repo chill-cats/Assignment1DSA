@@ -1,0 +1,2 @@
+ASSIGN w7vG 'A'
+ASSIGN t 'gy'

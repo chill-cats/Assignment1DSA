@@ -1,0 +1,4 @@
+INSERT jHNi string
+INSERT o1ei8 number
+INSERT bM number
+INSERT m1o number

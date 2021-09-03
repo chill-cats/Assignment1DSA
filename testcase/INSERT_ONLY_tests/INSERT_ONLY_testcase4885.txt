@@ -1,0 +1,12 @@
+INSERT a number
+INSERT tBI string
+INSERT wlB string
+INSERT g number
+INSERT bK number
+INSERT l3613 number
+INSERT tf string
+INSERT f string
+INSERT bp string
+INSERT nuk string
+INSERT w string
+INSERT ki_ string

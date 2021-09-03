@@ -1,0 +1,14 @@
+INSERT mbZZ number
+INSERT w string
+INSERT yd string
+INSERT t_HyT number
+INSERT eSX string
+INSERT b string
+INSERT yCrU7 string
+INSERT v3IM string
+INSERT wgQ number
+INSERT g number
+INSERT z number
+INSERT wEu0 string
+INSERT as string
+INSERT iCsSN string

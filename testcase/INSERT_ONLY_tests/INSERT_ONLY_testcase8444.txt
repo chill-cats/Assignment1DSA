@@ -1,0 +1,1 @@
+INSERT z_A0 string

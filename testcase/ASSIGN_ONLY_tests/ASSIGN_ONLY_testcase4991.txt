@@ -1,0 +1,2 @@
+ASSIGN p o
+ASSIGN os_0b tboN7

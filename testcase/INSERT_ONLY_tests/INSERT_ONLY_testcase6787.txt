@@ -1,0 +1,4 @@
+INSERT vYDP number
+INSERT b string
+INSERT gWj string
+INSERT c1bh number

@@ -1,0 +1,2 @@
+ASSIGN n8K 2
+ASSIGN t8 'lkCl'

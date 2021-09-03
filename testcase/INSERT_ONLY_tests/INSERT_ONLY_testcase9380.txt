@@ -1,0 +1,5 @@
+INSERT rdx8 string
+INSERT u string
+INSERT osh string
+INSERT cvP number
+INSERT iJ string

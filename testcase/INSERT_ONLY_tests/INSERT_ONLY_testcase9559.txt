@@ -1,0 +1,10 @@
+INSERT t number
+INSERT y string
+INSERT n6d number
+INSERT oWlh string
+INSERT nJ number
+INSERT v6 number
+INSERT n number
+INSERT p string
+INSERT vV8eoJ number
+INSERT oMMo number

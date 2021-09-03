@@ -1,0 +1,4 @@
+INSERT kAPE2 string
+INSERT m44 string
+INSERT m_6g number
+INSERT gxB518 number

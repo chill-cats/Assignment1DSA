@@ -1,0 +1,2 @@
+ASSIGN wbT 848
+ASSIGN wbT oSM

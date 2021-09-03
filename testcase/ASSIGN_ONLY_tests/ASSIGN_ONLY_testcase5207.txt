@@ -1,0 +1,3 @@
+ASSIGN eru60e qw5xYt
+ASSIGN o9QbXW 'US'
+ASSIGN w_ o9QbXW

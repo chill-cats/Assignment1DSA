@@ -1,0 +1,3 @@
+ASSIGN kW1 555
+ASSIGN t2ygY 83
+ASSIGN vbp_ vbp_

@@ -1,0 +1,2 @@
+ASSIGN pLK 'kwm'
+ASSIGN c2g 'U2H'

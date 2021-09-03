@@ -1,0 +1,6 @@
+INSERT pf number
+INSERT jbH4Gv string
+INSERT w string
+INSERT kE string
+INSERT ksUNn number
+INSERT cvScD number

@@ -1,0 +1,2 @@
+ASSIGN hk 1037
+ASSIGN yk paT

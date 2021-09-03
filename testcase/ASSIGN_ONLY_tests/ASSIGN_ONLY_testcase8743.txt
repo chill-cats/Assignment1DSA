@@ -1,0 +1,2 @@
+ASSIGN tFR 374
+ASSIGN wI6a_ 'G'

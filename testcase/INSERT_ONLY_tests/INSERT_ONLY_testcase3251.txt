@@ -1,0 +1,4 @@
+INSERT ankPb number
+INSERT qjTeRO string
+INSERT oB number
+INSERT bCB number

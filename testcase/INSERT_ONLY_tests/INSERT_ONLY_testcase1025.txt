@@ -1,0 +1,6 @@
+INSERT gbmnFK string
+INSERT pPG number
+INSERT nfM0 number
+INSERT gd5k8o string
+INSERT xWb9 number
+INSERT xA1 number

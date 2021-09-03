@@ -1,0 +1,2 @@
+ASSIGN b 'BL'
+ASSIGN mzzSAJ x

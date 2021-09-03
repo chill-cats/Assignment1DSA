@@ -1,0 +1,5 @@
+INSERT m7bAp string
+INSERT o number
+INSERT x number
+INSERT sX3NS number
+INSERT b8c string

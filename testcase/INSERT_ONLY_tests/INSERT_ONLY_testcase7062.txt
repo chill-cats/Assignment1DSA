@@ -1,0 +1,6 @@
+INSERT gl number
+INSERT cj6 string
+INSERT mA string
+INSERT b9GYK3 number
+INSERT dj1 string
+INSERT n420 number

@@ -1,0 +1,2 @@
+ASSIGN r 'PnK'
+ASSIGN o 'HK'

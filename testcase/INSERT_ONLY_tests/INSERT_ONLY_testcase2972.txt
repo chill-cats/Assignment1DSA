@@ -1,0 +1,4 @@
+INSERT ngm42b number
+INSERT nrp6na number
+INSERT u string
+INSERT p number

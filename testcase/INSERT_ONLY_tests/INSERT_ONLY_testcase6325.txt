@@ -1,0 +1,3 @@
+INSERT vqdc number
+INSERT eCp_XB string
+INSERT xmc0 number

@@ -1,0 +1,8 @@
+INSERT cRq string
+INSERT rU34id number
+INSERT bzF5 number
+INSERT nX number
+INSERT vSCkV string
+INSERT jOg string
+INSERT sg9 string
+INSERT ei number

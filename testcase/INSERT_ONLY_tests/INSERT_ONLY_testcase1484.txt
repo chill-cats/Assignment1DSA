@@ -1,0 +1,6 @@
+INSERT ySwpQ number
+INSERT pn_ string
+INSERT g number
+INSERT fD number
+INSERT p9 number
+INSERT xEAuPO number

@@ -1,0 +1,3 @@
+ASSIGN riD 'Mjc'
+ASSIGN ujg57 'PaS'
+ASSIGN ujg57 1093

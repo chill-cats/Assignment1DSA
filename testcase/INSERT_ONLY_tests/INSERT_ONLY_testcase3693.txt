@@ -1,0 +1,6 @@
+INSERT e number
+INSERT rscsio number
+INSERT tT4s number
+INSERT fOer string
+INSERT fk9 number
+INSERT jjkQ string

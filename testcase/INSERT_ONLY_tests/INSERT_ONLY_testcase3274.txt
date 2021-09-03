@@ -1,0 +1,7 @@
+INSERT bkVEI number
+INSERT xAv string
+INSERT e number
+INSERT rc number
+INSERT vyHt number
+INSERT l string
+INSERT n51H number

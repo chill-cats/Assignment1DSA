@@ -1,0 +1,5 @@
+INSERT l string
+INSERT gQ number
+INSERT nK40 string
+INSERT i8S string
+INSERT s number

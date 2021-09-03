@@ -1,0 +1,4 @@
+INSERT xV8i0 number
+INSERT h string
+INSERT rp_ string
+INSERT dbi string

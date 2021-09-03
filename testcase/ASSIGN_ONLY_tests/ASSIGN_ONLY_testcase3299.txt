@@ -1,0 +1,3 @@
+ASSIGN t6n 590
+ASSIGN psCoNa 'tTj'
+ASSIGN a2R 973

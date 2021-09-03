@@ -1,0 +1,2 @@
+INSERT nQ number
+INSERT c number

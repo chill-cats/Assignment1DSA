@@ -1,0 +1,8 @@
+INSERT m number
+INSERT n string
+INSERT itwk7 number
+INSERT lcCc number
+INSERT b5pNR number
+INSERT m string
+INSERT rdP number
+INSERT kRa number

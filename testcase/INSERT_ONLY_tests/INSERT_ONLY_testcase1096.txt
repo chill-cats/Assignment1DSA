@@ -1,0 +1,6 @@
+INSERT k1X number
+INSERT cAI number
+INSERT i3Z string
+INSERT l3ymp string
+INSERT wD_ number
+INSERT th string

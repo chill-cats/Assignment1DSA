@@ -1,0 +1,6 @@
+INSERT sG string
+INSERT qzmmR string
+INSERT uy number
+INSERT j9O number
+INSERT ix number
+INSERT i4 string

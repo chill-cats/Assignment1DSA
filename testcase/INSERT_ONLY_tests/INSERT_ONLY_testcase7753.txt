@@ -1,0 +1,6 @@
+INSERT ibL number
+INSERT k string
+INSERT h9 number
+INSERT hK string
+INSERT nHpgb string
+INSERT k string

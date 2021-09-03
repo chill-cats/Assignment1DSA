@@ -1,0 +1,3 @@
+INSERT c string
+INSERT r2y number
+INSERT l number

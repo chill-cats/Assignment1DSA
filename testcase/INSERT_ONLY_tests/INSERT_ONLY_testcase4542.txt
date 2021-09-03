@@ -1,0 +1,10 @@
+INSERT zrSc string
+INSERT e number
+INSERT t string
+INSERT ruJl1D string
+INSERT mzSSu3 number
+INSERT lOJUv number
+INSERT nnR46 number
+INSERT j number
+INSERT oY string
+INSERT c_I string

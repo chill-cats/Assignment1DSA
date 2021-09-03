@@ -1,0 +1,3 @@
+ASSIGN y8h5 955
+ASSIGN m 650
+ASSIGN wf5 '7d'

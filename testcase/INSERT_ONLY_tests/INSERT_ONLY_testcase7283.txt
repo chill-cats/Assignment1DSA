@@ -1,0 +1,2 @@
+INSERT tmbo8 string
+INSERT euZMQ string

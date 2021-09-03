@@ -1,0 +1,10 @@
+INSERT q number
+INSERT y string
+INSERT hIK number
+INSERT q number
+INSERT pt string
+INSERT gHb81 string
+INSERT e number
+INSERT hU9sQ string
+INSERT r string
+INSERT bgBeMW number

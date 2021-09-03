@@ -1,0 +1,2 @@
+ASSIGN me 'Nd'
+ASSIGN me 'lSsXE'

@@ -1,0 +1,4 @@
+INSERT w string
+INSERT xLZz number
+INSERT j string
+INSERT z56Jx number

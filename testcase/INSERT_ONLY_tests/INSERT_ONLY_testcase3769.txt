@@ -1,0 +1,4 @@
+INSERT vCr4 string
+INSERT uq string
+INSERT tcV3vK number
+INSERT ph2PC number

@@ -1,0 +1,4 @@
+ASSIGN fAw 981
+ASSIGN u 'LG'
+ASSIGN k weYeuC
+ASSIGN g 614

@@ -1,0 +1,7 @@
+INSERT gWH string
+INSERT qa1 number
+INSERT gAs7tp number
+INSERT htj string
+INSERT p string
+INSERT q number
+INSERT gpJ number

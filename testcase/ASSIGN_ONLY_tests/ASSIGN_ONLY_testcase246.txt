@@ -1,0 +1,3 @@
+ASSIGN pQG 291
+ASSIGN ru 'X'
+ASSIGN jSx46E qzVry

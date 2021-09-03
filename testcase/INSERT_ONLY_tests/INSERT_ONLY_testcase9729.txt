@@ -1,0 +1,6 @@
+INSERT lgXjf string
+INSERT uwV number
+INSERT pE number
+INSERT ev string
+INSERT mm number
+INSERT oK2_o7 string

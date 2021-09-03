@@ -1,0 +1,9 @@
+INSERT mp number
+INSERT bZ string
+INSERT a number
+INSERT eiy3 number
+INSERT gaF1 number
+INSERT ocg string
+INSERT ce string
+INSERT nA2DU_ number
+INSERT t string

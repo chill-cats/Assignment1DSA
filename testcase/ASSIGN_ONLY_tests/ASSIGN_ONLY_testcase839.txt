@@ -1,0 +1,3 @@
+ASSIGN h 613
+ASSIGN oE6c 1049
+ASSIGN aqPe 'n'

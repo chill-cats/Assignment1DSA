@@ -1,0 +1,14 @@
+INSERT efl97k number
+INSERT sFlB string
+INSERT l number
+INSERT r number
+INSERT q string
+INSERT u6 number
+INSERT g number
+INSERT snHsWf number
+INSERT t string
+INSERT bx20h number
+INSERT v6z number
+INSERT nD number
+INSERT z number
+INSERT vg number

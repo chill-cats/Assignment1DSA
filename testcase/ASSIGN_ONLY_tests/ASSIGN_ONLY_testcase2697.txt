@@ -1,0 +1,3 @@
+ASSIGN x6r 'ti'
+ASSIGN q8Jj 'B'
+ASSIGN bV 'A6ir8'

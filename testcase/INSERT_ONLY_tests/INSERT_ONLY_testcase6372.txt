@@ -1,0 +1,4 @@
+INSERT po5x string
+INSERT e string
+INSERT b string
+INSERT x50 number

@@ -1,0 +1,7 @@
+INSERT iF1 number
+INSERT aL5b number
+INSERT zj string
+INSERT aM number
+INSERT gD8 string
+INSERT kf5k1 string
+INSERT rs number

@@ -1,0 +1,4 @@
+INSERT bP number
+INSERT bPc string
+INSERT i9Fd string
+INSERT nfDbm number

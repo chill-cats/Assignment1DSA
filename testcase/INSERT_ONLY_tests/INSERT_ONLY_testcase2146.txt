@@ -1,0 +1,14 @@
+INSERT cnrUU string
+INSERT x_23 string
+INSERT c2SY string
+INSERT s number
+INSERT w number
+INSERT d number
+INSERT s2 number
+INSERT kyvzO string
+INSERT cfgb53 number
+INSERT aUF8 string
+INSERT ox string
+INSERT vOB string
+INSERT jnZ6 string
+INSERT vS7i string

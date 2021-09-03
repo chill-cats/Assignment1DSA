@@ -1,0 +1,6 @@
+INSERT f string
+INSERT lfRA string
+INSERT vkN5b string
+INSERT niKzP number
+INSERT u number
+INSERT q string

@@ -1,0 +1,1 @@
+ASSIGN f6 f_YCB

@@ -1,0 +1,7 @@
+INSERT sA4 number
+INSERT ghkk number
+INSERT qrnK3c number
+INSERT z string
+INSERT wMYN26 string
+INSERT v4mc string
+INSERT sE string

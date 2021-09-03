@@ -1,0 +1,13 @@
+INSERT lN number
+INSERT r_u3 string
+INSERT ud number
+INSERT g string
+INSERT nj6 string
+INSERT qATI6 number
+INSERT mdsSd number
+INSERT mVG number
+INSERT yUdRC2 number
+INSERT pAYlCu number
+INSERT bSbL number
+INSERT rh2OJA number
+INSERT fBI string

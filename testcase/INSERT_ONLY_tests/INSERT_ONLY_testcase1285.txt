@@ -1,0 +1,6 @@
+INSERT sm string
+INSERT rvA number
+INSERT yd string
+INSERT s2z number
+INSERT hDao number
+INSERT rNjf number

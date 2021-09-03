@@ -1,0 +1,3 @@
+INSERT td_V string
+INSERT wgOfI number
+INSERT jPg number

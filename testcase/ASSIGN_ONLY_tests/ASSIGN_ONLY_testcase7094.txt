@@ -1,0 +1,3 @@
+ASSIGN ea 'DTD'
+ASSIGN u7 'T'
+ASSIGN u 'Gb'

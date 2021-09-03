@@ -1,0 +1,2 @@
+ASSIGN w 'p'
+ASSIGN w 'm7'

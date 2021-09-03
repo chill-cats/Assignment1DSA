@@ -1,0 +1,4 @@
+INSERT z number
+INSERT bkwt number
+INSERT j string
+INSERT jde string

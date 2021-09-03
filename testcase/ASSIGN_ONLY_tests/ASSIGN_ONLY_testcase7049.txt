@@ -1,0 +1,2 @@
+ASSIGN fS s
+ASSIGN k_G k_G

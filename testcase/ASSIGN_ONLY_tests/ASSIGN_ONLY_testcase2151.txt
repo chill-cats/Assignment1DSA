@@ -1,0 +1,3 @@
+ASSIGN vzVar 'bC'
+ASSIGN r 1099
+ASSIGN b fbgx

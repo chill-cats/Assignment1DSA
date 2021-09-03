@@ -1,0 +1,9 @@
+INSERT k number
+INSERT wln7 number
+INSERT t number
+INSERT h string
+INSERT stP number
+INSERT lBTjS number
+INSERT ceXS_H number
+INSERT g0eS2 string
+INSERT jU3nA string

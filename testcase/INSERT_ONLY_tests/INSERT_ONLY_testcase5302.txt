@@ -1,0 +1,7 @@
+INSERT d3 string
+INSERT q string
+INSERT b number
+INSERT njp7q number
+INSERT kswxu string
+INSERT cc number
+INSERT k_w string

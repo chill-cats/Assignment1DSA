@@ -1,0 +1,8 @@
+INSERT b5nZ number
+INSERT m number
+INSERT bKQv string
+INSERT e number
+INSERT gn string
+INSERT w7ge string
+INSERT ko number
+INSERT uVSt string

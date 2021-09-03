@@ -1,0 +1,4 @@
+INSERT dW number
+INSERT bBQ7 string
+INSERT h2F number
+INSERT s string

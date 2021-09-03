@@ -1,0 +1,10 @@
+INSERT soJO number
+INSERT mE number
+INSERT rz number
+INSERT ovUph number
+INSERT peUoY string
+INSERT yk number
+INSERT eGB number
+INSERT t number
+INSERT v string
+INSERT p string

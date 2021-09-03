@@ -1,0 +1,10 @@
+INSERT spo string
+INSERT bMxOm string
+INSERT h4u string
+INSERT t number
+INSERT gA number
+INSERT jg string
+INSERT g number
+INSERT bZDw number
+INSERT hh number
+INSERT yrlH string

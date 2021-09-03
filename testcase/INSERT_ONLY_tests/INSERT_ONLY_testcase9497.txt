@@ -1,0 +1,13 @@
+INSERT vNH number
+INSERT f number
+INSERT a string
+INSERT zN number
+INSERT g string
+INSERT gEq5 string
+INSERT l number
+INSERT ppU_e number
+INSERT oy0 string
+INSERT q string
+INSERT yQFC string
+INSERT wup string
+INSERT g6FQMH string

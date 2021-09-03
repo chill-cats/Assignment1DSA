@@ -1,0 +1,4 @@
+INSERT uC0t number
+INSERT d0 number
+INSERT xNE number
+INSERT xI string

@@ -1,0 +1,5 @@
+INSERT w8E number
+INSERT wa3p string
+INSERT sXHmLE number
+INSERT m string
+INSERT pd3Mu string

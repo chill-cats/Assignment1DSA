@@ -1,0 +1,4 @@
+ASSIGN x 'z3'
+ASSIGN x 'OY'
+ASSIGN u3 'w6g'
+ASSIGN u3 'MP'

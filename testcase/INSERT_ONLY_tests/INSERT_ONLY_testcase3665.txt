@@ -1,0 +1,5 @@
+INSERT d number
+INSERT p string
+INSERT sc string
+INSERT o2wuRe number
+INSERT s0_6h number

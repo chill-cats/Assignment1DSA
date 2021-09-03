@@ -1,0 +1,2 @@
+ASSIGN e 871
+ASSIGN k 190

@@ -1,0 +1,3 @@
+INSERT kd string
+INSERT j6r8 number
+INSERT ros string

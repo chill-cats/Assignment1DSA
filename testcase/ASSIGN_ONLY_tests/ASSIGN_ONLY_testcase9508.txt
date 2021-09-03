@@ -1,0 +1,3 @@
+ASSIGN yyvcK yyvcK
+ASSIGN w 'zlbK'
+ASSIGN isVtrG i

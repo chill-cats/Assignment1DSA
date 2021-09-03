@@ -1,0 +1,3 @@
+ASSIGN x fs
+ASSIGN x 'LDSY'
+ASSIGN dDAjo 393

@@ -1,0 +1,2 @@
+ASSIGN u 'U2'
+ASSIGN ibCV4 'HIMG'

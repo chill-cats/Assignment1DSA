@@ -1,0 +1,2 @@
+ASSIGN xmv y
+ASSIGN gnlyA 'js'

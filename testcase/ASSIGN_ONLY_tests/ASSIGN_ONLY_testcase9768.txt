@@ -1,0 +1,3 @@
+ASSIGN v n
+ASSIGN ob 'G'
+ASSIGN w5mj mr7c

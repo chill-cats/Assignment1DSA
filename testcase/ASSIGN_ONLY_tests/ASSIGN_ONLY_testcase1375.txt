@@ -1,0 +1,2 @@
+ASSIGN z 'nh'
+ASSIGN k z

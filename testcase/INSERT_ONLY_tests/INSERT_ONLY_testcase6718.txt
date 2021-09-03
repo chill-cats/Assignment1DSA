@@ -1,0 +1,4 @@
+INSERT dTsmFn number
+INSERT z number
+INSERT jYhLs string
+INSERT biW number

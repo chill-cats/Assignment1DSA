@@ -1,0 +1,8 @@
+INSERT wC string
+INSERT lgL number
+INSERT j number
+INSERT i string
+INSERT s string
+INSERT gQ1S string
+INSERT glmaIP string
+INSERT k6 number

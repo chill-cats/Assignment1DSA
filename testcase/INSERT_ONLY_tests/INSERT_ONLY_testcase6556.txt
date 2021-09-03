@@ -1,0 +1,3 @@
+INSERT lmT99 string
+INSERT o0p number
+INSERT p_ number

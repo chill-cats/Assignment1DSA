@@ -1,0 +1,4 @@
+INSERT w_1hw number
+INSERT iU number
+INSERT nXp4 string
+INSERT fg5 number

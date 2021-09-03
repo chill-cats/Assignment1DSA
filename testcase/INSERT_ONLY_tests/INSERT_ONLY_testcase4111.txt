@@ -1,0 +1,10 @@
+INSERT x_ number
+INSERT ifd number
+INSERT lkTF string
+INSERT q string
+INSERT iG string
+INSERT nwa2 number
+INSERT yx number
+INSERT zwL9 number
+INSERT yk number
+INSERT zWlse number

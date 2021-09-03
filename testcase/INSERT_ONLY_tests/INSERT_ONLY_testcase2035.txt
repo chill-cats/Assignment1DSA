@@ -1,0 +1,6 @@
+INSERT tNU number
+INSERT kg number
+INSERT bQIJw number
+INSERT y number
+INSERT e16_b number
+INSERT afY string

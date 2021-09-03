@@ -1,0 +1,4 @@
+ASSIGN bD 'SEu'
+ASSIGN nAPH 544
+ASSIGN hTd '4dhlN'
+ASSIGN hTd ddmHF

@@ -1,0 +1,3 @@
+INSERT d number
+INSERT wimjws string
+INSERT isnGO string

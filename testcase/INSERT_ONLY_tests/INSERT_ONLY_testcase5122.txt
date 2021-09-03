@@ -1,0 +1,7 @@
+INSERT r number
+INSERT fZ number
+INSERT b number
+INSERT j string
+INSERT s5 number
+INSERT hkf5 string
+INSERT qbJDeT string

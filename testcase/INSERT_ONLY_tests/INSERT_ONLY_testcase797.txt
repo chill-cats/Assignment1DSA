@@ -1,0 +1,5 @@
+INSERT aMiZ number
+INSERT kep string
+INSERT a58 number
+INSERT r1 number
+INSERT s_hO number

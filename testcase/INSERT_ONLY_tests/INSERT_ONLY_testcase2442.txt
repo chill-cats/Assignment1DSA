@@ -1,0 +1,6 @@
+INSERT fWHq string
+INSERT p string
+INSERT pv string
+INSERT kU number
+INSERT iu string
+INSERT cp number

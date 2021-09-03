@@ -1,0 +1,3 @@
+INSERT g6 string
+INSERT cryJIN number
+INSERT oC51E string

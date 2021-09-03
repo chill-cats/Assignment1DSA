@@ -1,0 +1,5 @@
+INSERT fC number
+INSERT cyX3 number
+INSERT dLm number
+INSERT nw07n string
+INSERT e string

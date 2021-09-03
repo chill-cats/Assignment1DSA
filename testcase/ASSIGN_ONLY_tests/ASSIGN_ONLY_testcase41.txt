@@ -1,0 +1,2 @@
+ASSIGN yy 'HT'
+ASSIGN yy 'AN'

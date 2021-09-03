@@ -1,0 +1,7 @@
+INSERT j number
+INSERT fU number
+INSERT aZceJ string
+INSERT aHYU number
+INSERT nh3 string
+INSERT lPZj string
+INSERT dlnkJ string

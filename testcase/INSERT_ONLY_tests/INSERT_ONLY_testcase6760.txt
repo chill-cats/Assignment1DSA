@@ -1,0 +1,2 @@
+INSERT bJa0_B string
+INSERT sJE number

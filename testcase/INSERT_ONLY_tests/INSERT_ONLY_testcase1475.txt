@@ -1,0 +1,9 @@
+INSERT i number
+INSERT azLV string
+INSERT tgWc string
+INSERT v7AmK number
+INSERT lD number
+INSERT ly number
+INSERT r string
+INSERT bo string
+INSERT kg99m number

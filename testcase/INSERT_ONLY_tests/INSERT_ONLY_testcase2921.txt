@@ -1,0 +1,7 @@
+INSERT xCB number
+INSERT jr85R string
+INSERT p0 number
+INSERT ux string
+INSERT t_uS number
+INSERT hbJV string
+INSERT d number

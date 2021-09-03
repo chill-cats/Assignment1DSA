@@ -1,0 +1,3 @@
+ASSIGN m 749
+ASSIGN p2V a
+ASSIGN cy 'huUC'

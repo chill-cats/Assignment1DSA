@@ -1,0 +1,3 @@
+ASSIGN lcmvL f
+ASSIGN f '0uV '
+ASSIGN s '5C'

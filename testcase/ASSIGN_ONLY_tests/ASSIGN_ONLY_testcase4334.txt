@@ -1,0 +1,2 @@
+ASSIGN qx 30
+ASSIGN k 654

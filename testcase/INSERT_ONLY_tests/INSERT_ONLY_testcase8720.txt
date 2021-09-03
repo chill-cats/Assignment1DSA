@@ -1,0 +1,7 @@
+INSERT aY string
+INSERT o2IAX string
+INSERT kNCj number
+INSERT cW string
+INSERT aw string
+INSERT jcXMw string
+INSERT s number

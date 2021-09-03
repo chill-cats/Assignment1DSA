@@ -1,0 +1,3 @@
+ASSIGN rSdlHs 'L'
+ASSIGN eA3QG 108
+ASSIGN pq 'sVW'

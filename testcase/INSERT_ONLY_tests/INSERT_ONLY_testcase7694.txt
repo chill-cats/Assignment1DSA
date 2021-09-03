@@ -1,0 +1,8 @@
+INSERT zawesw string
+INSERT u string
+INSERT l string
+INSERT h string
+INSERT ctO number
+INSERT ys_p1 string
+INSERT aVx number
+INSERT e5F0 number

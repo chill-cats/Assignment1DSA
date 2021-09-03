@@ -1,0 +1,10 @@
+INSERT hYYU string
+INSERT sn string
+INSERT f7nrs number
+INSERT sp string
+INSERT t string
+INSERT n91 number
+INSERT c string
+INSERT nwZv string
+INSERT aE string
+INSERT d number

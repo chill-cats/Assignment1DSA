@@ -1,0 +1,7 @@
+INSERT eby string
+INSERT r number
+INSERT v number
+INSERT jxIm number
+INSERT k string
+INSERT hr_ string
+INSERT c064je number

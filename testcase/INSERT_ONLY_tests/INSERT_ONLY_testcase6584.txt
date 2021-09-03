@@ -1,0 +1,5 @@
+INSERT ph string
+INSERT jSvE number
+INSERT hGu number
+INSERT r number
+INSERT waj string

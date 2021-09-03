@@ -1,0 +1,2 @@
+ASSIGN dq 1236
+ASSIGN n 'NEwtg'

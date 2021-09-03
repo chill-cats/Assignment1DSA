@@ -1,0 +1,5 @@
+INSERT j string
+INSERT jagZ_o number
+INSERT c number
+INSERT e1CM number
+INSERT i5OSJ string

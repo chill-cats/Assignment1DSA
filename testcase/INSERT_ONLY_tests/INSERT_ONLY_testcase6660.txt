@@ -1,0 +1,3 @@
+INSERT kwYfEb number
+INSERT nU1uUE string
+INSERT s number

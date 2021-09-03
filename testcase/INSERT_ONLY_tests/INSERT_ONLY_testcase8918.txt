@@ -1,0 +1,10 @@
+INSERT xucg5 number
+INSERT hlKPMH string
+INSERT kY string
+INSERT opY string
+INSERT t number
+INSERT v2EQ8 string
+INSERT u number
+INSERT v number
+INSERT g number
+INSERT b9 number

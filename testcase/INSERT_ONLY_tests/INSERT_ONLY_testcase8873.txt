@@ -1,0 +1,6 @@
+INSERT efo number
+INSERT k number
+INSERT kOCC string
+INSERT mOSV string
+INSERT hn string
+INSERT g number

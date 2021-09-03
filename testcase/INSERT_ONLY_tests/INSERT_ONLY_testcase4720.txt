@@ -1,0 +1,5 @@
+INSERT kON2 string
+INSERT o number
+INSERT fuTOny number
+INSERT ygRA number
+INSERT vhG number

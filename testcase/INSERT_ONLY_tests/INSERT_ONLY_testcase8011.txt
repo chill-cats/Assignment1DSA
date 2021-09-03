@@ -1,0 +1,4 @@
+INSERT n string
+INSERT p number
+INSERT ay string
+INSERT ffJ string

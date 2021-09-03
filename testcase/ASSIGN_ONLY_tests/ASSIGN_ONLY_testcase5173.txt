@@ -1,0 +1,2 @@
+ASSIGN fKZ 593
+ASSIGN fKZ 'd5K'

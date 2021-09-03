@@ -1,0 +1,9 @@
+INSERT u1 string
+INSERT mfzcb1 number
+INSERT k string
+INSERT xGBJQ string
+INSERT vMw4t0 number
+INSERT jEi number
+INSERT t3S number
+INSERT n79DW number
+INSERT ycM number

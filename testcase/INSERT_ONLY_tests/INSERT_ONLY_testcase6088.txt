@@ -1,0 +1,4 @@
+INSERT t5fCbn number
+INSERT jHuvug number
+INSERT w8oQL string
+INSERT d0F string

@@ -1,0 +1,17 @@
+INSERT idBB number
+INSERT d string
+INSERT nIje string
+INSERT fH string
+INSERT uDE8 string
+INSERT l4t string
+INSERT ugs number
+INSERT cq0E number
+INSERT sxWn number
+INSERT hrtTn number
+INSERT fW number
+INSERT z5YX number
+INSERT k number
+INSERT hUU string
+INSERT vZB number
+INSERT i5mB2 number
+INSERT xe number

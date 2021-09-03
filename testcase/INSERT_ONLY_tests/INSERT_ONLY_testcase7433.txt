@@ -1,0 +1,8 @@
+INSERT tYP string
+INSERT odu number
+INSERT lUpgV3 string
+INSERT wL number
+INSERT hua number
+INSERT irnpWQ number
+INSERT fKEI6S string
+INSERT bnowkF number

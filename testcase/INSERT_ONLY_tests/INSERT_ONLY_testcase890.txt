@@ -1,0 +1,5 @@
+INSERT rgZ number
+INSERT zcke string
+INSERT gc7p1 string
+INSERT a number
+INSERT iso number

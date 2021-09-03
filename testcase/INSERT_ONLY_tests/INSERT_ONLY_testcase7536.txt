@@ -1,0 +1,4 @@
+INSERT aAcGg number
+INSERT wAtuE number
+INSERT zFj number
+INSERT uv string

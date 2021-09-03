@@ -1,0 +1,8 @@
+INSERT pC string
+INSERT iIEL9I string
+INSERT fu9Ung string
+INSERT sb string
+INSERT xP string
+INSERT ni number
+INSERT r0BAH number
+INSERT o_N string

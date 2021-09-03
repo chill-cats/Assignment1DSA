@@ -1,0 +1,4 @@
+ASSIGN tpA 'es'
+ASSIGN rSJU 'Ysf'
+ASSIGN wdhSC 'C'
+ASSIGN deP 1192

@@ -1,0 +1,11 @@
+INSERT x8 string
+INSERT e string
+INSERT rA number
+INSERT ur string
+INSERT iZpsD string
+INSERT j58a string
+INSERT xQ string
+INSERT i number
+INSERT yVG3 string
+INSERT ly string
+INSERT nE number

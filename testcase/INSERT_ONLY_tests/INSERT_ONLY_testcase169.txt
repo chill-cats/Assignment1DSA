@@ -1,0 +1,15 @@
+INSERT o_ax4 string
+INSERT kyUC string
+INSERT cLn string
+INSERT tUbg0 number
+INSERT iTvG number
+INSERT qyA string
+INSERT oamRoF number
+INSERT f03E number
+INSERT muVI number
+INSERT ntrF string
+INSERT sdc number
+INSERT gt string
+INSERT d7oPxp number
+INSERT aBR number
+INSERT iPQ0b string

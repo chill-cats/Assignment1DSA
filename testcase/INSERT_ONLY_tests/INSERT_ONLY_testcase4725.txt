@@ -1,0 +1,7 @@
+INSERT kE0T number
+INSERT yr string
+INSERT d string
+INSERT pQ9mp number
+INSERT u string
+INSERT yB2W string
+INSERT c number

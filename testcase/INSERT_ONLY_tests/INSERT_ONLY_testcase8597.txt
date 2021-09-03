@@ -1,0 +1,5 @@
+INSERT sABk4n string
+INSERT yO number
+INSERT vu string
+INSERT fCSN4 number
+INSERT nDun string

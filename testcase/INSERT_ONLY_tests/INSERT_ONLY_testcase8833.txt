@@ -1,0 +1,5 @@
+INSERT qNU number
+INSERT iOZZ_9 string
+INSERT a string
+INSERT q0xLSy string
+INSERT wSwl string

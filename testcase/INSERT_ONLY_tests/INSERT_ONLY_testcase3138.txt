@@ -1,0 +1,4 @@
+INSERT pKxH8 number
+INSERT mU9T1U number
+INSERT oHd string
+INSERT xm number

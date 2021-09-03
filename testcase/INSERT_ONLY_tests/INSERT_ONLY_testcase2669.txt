@@ -1,0 +1,7 @@
+INSERT x number
+INSERT abq string
+INSERT n_r3 number
+INSERT y9 string
+INSERT zIXfj string
+INSERT d88T string
+INSERT aidk string

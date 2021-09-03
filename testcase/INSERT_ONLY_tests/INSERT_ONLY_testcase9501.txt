@@ -1,0 +1,16 @@
+INSERT nyKV number
+INSERT lb number
+INSERT v5g number
+INSERT f string
+INSERT tlBPP string
+INSERT g number
+INSERT n4Cb string
+INSERT s number
+INSERT e string
+INSERT hPQ8 string
+INSERT yB2Cu number
+INSERT q_h4 number
+INSERT gMupw1 string
+INSERT miaRr number
+INSERT vcz number
+INSERT c number

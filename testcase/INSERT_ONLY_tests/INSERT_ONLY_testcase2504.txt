@@ -1,0 +1,4 @@
+INSERT aKjipO number
+INSERT qZao7 string
+INSERT bme9sv number
+INSERT kRJ number

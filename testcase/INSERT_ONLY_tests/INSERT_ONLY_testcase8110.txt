@@ -1,0 +1,5 @@
+INSERT i string
+INSERT qIj number
+INSERT ayD9o string
+INSERT xa string
+INSERT m string

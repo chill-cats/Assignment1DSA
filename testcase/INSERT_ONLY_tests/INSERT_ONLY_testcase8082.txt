@@ -1,0 +1,2 @@
+INSERT k3 string
+INSERT nP number

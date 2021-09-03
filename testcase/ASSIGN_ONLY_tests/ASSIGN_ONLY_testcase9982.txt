@@ -1,0 +1,3 @@
+ASSIGN yDoVF9 'i'
+ASSIGN s 'asVa'
+ASSIGN gN0 1175

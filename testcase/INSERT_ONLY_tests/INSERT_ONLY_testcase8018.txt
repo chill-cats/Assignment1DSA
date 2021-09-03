@@ -1,0 +1,7 @@
+INSERT nMnPO number
+INSERT lTyb string
+INSERT j number
+INSERT iDQ string
+INSERT sl_ number
+INSERT fgxCmd number
+INSERT iDeZ string

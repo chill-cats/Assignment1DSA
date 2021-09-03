@@ -1,0 +1,8 @@
+INSERT h40 number
+INSERT mgU string
+INSERT u8yKTI string
+INSERT zwTB string
+INSERT jYMqi string
+INSERT rj_l string
+INSERT iJi number
+INSERT x8kE string

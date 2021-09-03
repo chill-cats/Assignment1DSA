@@ -1,0 +1,11 @@
+INSERT z number
+INSERT kuKR number
+INSERT zR string
+INSERT hD number
+INSERT k0 string
+INSERT cEP2 string
+INSERT g7 string
+INSERT zVi number
+INSERT rMl2lT number
+INSERT mde string
+INSERT us6qJc number

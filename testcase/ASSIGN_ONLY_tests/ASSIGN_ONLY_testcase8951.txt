@@ -1,0 +1,2 @@
+ASSIGN s s
+ASSIGN hrO oc04kn

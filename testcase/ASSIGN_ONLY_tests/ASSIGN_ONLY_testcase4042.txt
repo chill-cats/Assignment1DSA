@@ -1,0 +1,4 @@
+ASSIGN m '007Y'
+ASSIGN m 'Fajl'
+ASSIGN oKBW 'Ihz'
+ASSIGN kWpp m

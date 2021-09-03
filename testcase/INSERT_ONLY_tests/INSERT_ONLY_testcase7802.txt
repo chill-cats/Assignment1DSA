@@ -1,0 +1,6 @@
+INSERT n number
+INSERT pMGCDD number
+INSERT lZd string
+INSERT wRv number
+INSERT e string
+INSERT auE2s string

@@ -1,0 +1,3 @@
+INSERT t_lt string
+INSERT gm string
+INSERT d number

@@ -1,0 +1,2 @@
+ASSIGN gu 106
+ASSIGN r 1005

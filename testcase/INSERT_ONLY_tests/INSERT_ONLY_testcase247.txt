@@ -1,0 +1,16 @@
+INSERT gmo string
+INSERT d number
+INSERT xe number
+INSERT m string
+INSERT t string
+INSERT sua number
+INSERT rL number
+INSERT iC2 number
+INSERT dos number
+INSERT fscqs number
+INSERT bJe3Ir number
+INSERT k string
+INSERT ie8 string
+INSERT j number
+INSERT gNNa9 string
+INSERT vV number

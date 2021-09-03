@@ -1,0 +1,10 @@
+INSERT lK9WM number
+INSERT gcqlUD number
+INSERT pG string
+INSERT s3 string
+INSERT h string
+INSERT uh number
+INSERT kbrzC string
+INSERT wS number
+INSERT k string
+INSERT j number

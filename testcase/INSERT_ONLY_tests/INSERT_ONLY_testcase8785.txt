@@ -1,0 +1,6 @@
+INSERT a5 number
+INSERT k3c number
+INSERT cmbA string
+INSERT a string
+INSERT h1 string
+INSERT xaBn string

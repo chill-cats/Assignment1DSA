@@ -1,0 +1,5 @@
+INSERT mEXVt number
+INSERT emBa9 number
+INSERT bc7 string
+INSERT b0q9RB string
+INSERT s number

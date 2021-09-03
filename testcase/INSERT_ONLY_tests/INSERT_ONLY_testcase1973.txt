@@ -1,0 +1,6 @@
+INSERT nLPu number
+INSERT jm2 string
+INSERT lr number
+INSERT dDCz string
+INSERT mUhO number
+INSERT xasoYu number

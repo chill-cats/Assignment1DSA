@@ -1,0 +1,4 @@
+INSERT j string
+INSERT sWwTMm number
+INSERT uz1U5 number
+INSERT bgVrk string

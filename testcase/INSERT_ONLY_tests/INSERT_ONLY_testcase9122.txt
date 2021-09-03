@@ -1,0 +1,5 @@
+INSERT uir number
+INSERT vggOZ string
+INSERT a5 number
+INSERT cy number
+INSERT k1 string

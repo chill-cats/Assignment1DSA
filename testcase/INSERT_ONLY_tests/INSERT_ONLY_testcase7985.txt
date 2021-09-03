@@ -1,0 +1,6 @@
+INSERT sf number
+INSERT kje9 string
+INSERT la5r string
+INSERT nJu3 string
+INSERT bJ8l string
+INSERT l number

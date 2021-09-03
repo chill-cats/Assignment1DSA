@@ -1,0 +1,15 @@
+INSERT kcsNmc string
+INSERT nQvF number
+INSERT ch string
+INSERT dRz number
+INSERT xNKZI string
+INSERT k number
+INSERT lt string
+INSERT t string
+INSERT h string
+INSERT g8Z6 number
+INSERT oQ string
+INSERT eqOOu string
+INSERT kl string
+INSERT gCm number
+INSERT i number

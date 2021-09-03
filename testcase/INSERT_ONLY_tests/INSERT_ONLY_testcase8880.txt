@@ -1,0 +1,4 @@
+INSERT u string
+INSERT jt string
+INSERT vukS number
+INSERT eo2B string

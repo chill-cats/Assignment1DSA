@@ -1,0 +1,3 @@
+ASSIGN nX nX
+ASSIGN scGi 1221
+ASSIGN h1Lg 'yKW'

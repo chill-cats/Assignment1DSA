@@ -1,0 +1,5 @@
+INSERT j number
+INSERT bb0x9C number
+INSERT mO3s string
+INSERT ndPxl6 number
+INSERT tJ5 number

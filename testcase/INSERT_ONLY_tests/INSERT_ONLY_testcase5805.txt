@@ -1,0 +1,16 @@
+INSERT p_pit number
+INSERT mLi string
+INSERT rbJn8 string
+INSERT f0ZpZ number
+INSERT sVaTZt string
+INSERT c number
+INSERT dDgUNe number
+INSERT kS string
+INSERT m number
+INSERT xt3iPh string
+INSERT m007 string
+INSERT xqa string
+INSERT gY4e string
+INSERT vpC string
+INSERT zStq string
+INSERT f5p string

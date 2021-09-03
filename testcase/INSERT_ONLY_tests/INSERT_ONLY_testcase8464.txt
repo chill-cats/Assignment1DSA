@@ -1,0 +1,6 @@
+INSERT sN number
+INSERT p number
+INSERT zchrq string
+INSERT u number
+INSERT dV43Jm number
+INSERT so3 number

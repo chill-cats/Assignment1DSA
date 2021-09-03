@@ -1,0 +1,9 @@
+INSERT rR number
+INSERT s_vx number
+INSERT kXjc number
+INSERT pqr string
+INSERT zHY string
+INSERT lK string
+INSERT yf6 string
+INSERT e0c number
+INSERT ewGQ string

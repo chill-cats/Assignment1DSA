@@ -1,0 +1,10 @@
+INSERT mNU4 string
+INSERT t4 number
+INSERT bU number
+INSERT c0jXM string
+INSERT sB string
+INSERT qpC string
+INSERT y string
+INSERT vbc number
+INSERT ctt string
+INSERT y8EA string

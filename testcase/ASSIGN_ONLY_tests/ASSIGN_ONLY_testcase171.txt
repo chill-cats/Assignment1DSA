@@ -1,0 +1,2 @@
+ASSIGN lx 779
+ASSIGN rX9 'eZ'

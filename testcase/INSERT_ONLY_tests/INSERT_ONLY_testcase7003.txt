@@ -1,0 +1,6 @@
+INSERT aw number
+INSERT sk4 number
+INSERT pgy string
+INSERT qNXNjO number
+INSERT a8bS number
+INSERT nG number

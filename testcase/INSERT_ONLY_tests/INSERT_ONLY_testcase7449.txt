@@ -1,0 +1,4 @@
+INSERT pknXlw number
+INSERT immi5 string
+INSERT hXN9oM string
+INSERT kA4vh string

@@ -1,0 +1,3 @@
+INSERT qDTI1F number
+INSERT xbux string
+INSERT w number

@@ -1,0 +1,6 @@
+INSERT g5zk string
+INSERT c string
+INSERT y number
+INSERT xn string
+INSERT orFp number
+INSERT v_7t number

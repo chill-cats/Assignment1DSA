@@ -1,0 +1,3 @@
+ASSIGN ednIp 'V3I2'
+ASSIGN vN 'QE6H'
+ASSIGN ednIp '2JUz'

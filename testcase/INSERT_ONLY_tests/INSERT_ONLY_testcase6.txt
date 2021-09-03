@@ -1,0 +1,7 @@
+INSERT zkW3L string
+INSERT s number
+INSERT bCarKd number
+INSERT iM string
+INSERT bM number
+INSERT eeOn9 string
+INSERT oTY string

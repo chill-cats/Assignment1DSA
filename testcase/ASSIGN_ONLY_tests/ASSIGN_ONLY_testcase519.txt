@@ -1,0 +1,3 @@
+ASSIGN dr t
+ASSIGN oav 42
+ASSIGN dr wUN

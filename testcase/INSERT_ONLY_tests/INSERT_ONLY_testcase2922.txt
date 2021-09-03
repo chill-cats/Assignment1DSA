@@ -1,0 +1,1 @@
+INSERT ko_8U string

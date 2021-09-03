@@ -1,0 +1,7 @@
+INSERT mI4rx6 string
+INSERT gw string
+INSERT bG8 string
+INSERT thUF number
+INSERT mEtc string
+INSERT l9i string
+INSERT cW number

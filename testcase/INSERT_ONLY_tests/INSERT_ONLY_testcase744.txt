@@ -1,0 +1,10 @@
+INSERT b number
+INSERT qr number
+INSERT xP string
+INSERT o number
+INSERT uJQC number
+INSERT fZc3 string
+INSERT xa0QJu string
+INSERT sEK0 number
+INSERT mfc string
+INSERT mRN string

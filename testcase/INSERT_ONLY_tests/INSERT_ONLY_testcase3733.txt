@@ -1,0 +1,10 @@
+INSERT nL number
+INSERT i_xig number
+INSERT w6rid string
+INSERT qb number
+INSERT xZ7 string
+INSERT s number
+INSERT uwp2 string
+INSERT z string
+INSERT kXL string
+INSERT i8 string

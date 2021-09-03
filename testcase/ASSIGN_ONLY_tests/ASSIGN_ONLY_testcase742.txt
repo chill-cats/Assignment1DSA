@@ -1,0 +1,2 @@
+ASSIGN kDg75V 1014
+ASSIGN vNLp 'Iid'

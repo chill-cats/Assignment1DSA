@@ -1,0 +1,2 @@
+ASSIGN gKD 'aY6'
+ASSIGN gJ 739

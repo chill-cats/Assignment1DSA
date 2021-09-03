@@ -1,0 +1,4 @@
+INSERT fiVnou string
+INSERT h string
+INSERT wk number
+INSERT kHM9z number

@@ -1,0 +1,5 @@
+INSERT cFI number
+INSERT iNm number
+INSERT sjxoE number
+INSERT xeGlk0 string
+INSERT otiP9 string

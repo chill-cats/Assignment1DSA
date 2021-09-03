@@ -1,0 +1,3 @@
+INSERT wLho number
+INSERT e7lW string
+INSERT ffkz2 string

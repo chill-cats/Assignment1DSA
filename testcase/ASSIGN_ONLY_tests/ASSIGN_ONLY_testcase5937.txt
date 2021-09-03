@@ -1,0 +1,2 @@
+ASSIGN qM 'x0R'
+ASSIGN d s

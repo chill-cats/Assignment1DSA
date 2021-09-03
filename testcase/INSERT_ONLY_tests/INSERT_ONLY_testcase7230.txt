@@ -1,0 +1,6 @@
+INSERT b8Y9IO number
+INSERT u string
+INSERT z_ number
+INSERT a7wp string
+INSERT egsTrf string
+INSERT mg number

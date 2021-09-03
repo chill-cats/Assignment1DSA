@@ -1,0 +1,8 @@
+INSERT e78TV string
+INSERT s5 string
+INSERT fF0 number
+INSERT c0 number
+INSERT gZ4r number
+INSERT w_3 string
+INSERT upuICn string
+INSERT d number

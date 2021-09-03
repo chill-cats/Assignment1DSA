@@ -1,0 +1,9 @@
+INSERT oe number
+INSERT pJ0 number
+INSERT yl string
+INSERT jpb5 number
+INSERT mto6 string
+INSERT h11_V number
+INSERT t string
+INSERT dH string
+INSERT ntjRw string

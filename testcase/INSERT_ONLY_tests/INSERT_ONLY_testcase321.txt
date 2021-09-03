@@ -1,0 +1,4 @@
+INSERT u4bxd number
+INSERT gU number
+INSERT k number
+INSERT mju number

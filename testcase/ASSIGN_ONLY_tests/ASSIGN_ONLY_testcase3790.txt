@@ -1,0 +1,2 @@
+ASSIGN bdqK x
+ASSIGN a 1062

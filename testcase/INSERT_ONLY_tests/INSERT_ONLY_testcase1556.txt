@@ -1,0 +1,6 @@
+INSERT n string
+INSERT d6 number
+INSERT tZcaa number
+INSERT eHHef number
+INSERT h string
+INSERT c string

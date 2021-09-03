@@ -1,0 +1,3 @@
+INSERT m string
+INSERT pNQw string
+INSERT iKv30e number

@@ -1,0 +1,2 @@
+ASSIGN saPiD 'IECKH'
+ASSIGN vrc3iI vrc3iI

@@ -1,0 +1,10 @@
+INSERT qe string
+INSERT eph string
+INSERT g string
+INSERT cmz string
+INSERT zNjdf8 number
+INSERT a9P number
+INSERT q3cB string
+INSERT cQQ number
+INSERT zs5Yg number
+INSERT k3rADg number

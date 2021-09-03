@@ -1,0 +1,7 @@
+INSERT i number
+INSERT gn number
+INSERT mr string
+INSERT kmcYo string
+INSERT e string
+INSERT onLrV string
+INSERT xZ number

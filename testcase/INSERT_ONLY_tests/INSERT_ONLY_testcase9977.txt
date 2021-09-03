@@ -1,0 +1,4 @@
+INSERT lUqud number
+INSERT iu string
+INSERT oc_Aw number
+INSERT yH number

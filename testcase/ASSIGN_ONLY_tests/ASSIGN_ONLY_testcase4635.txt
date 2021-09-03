@@ -1,0 +1,2 @@
+ASSIGN osNi 73
+ASSIGN lX 18

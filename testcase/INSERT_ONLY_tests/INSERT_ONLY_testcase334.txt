@@ -1,0 +1,5 @@
+INSERT oT number
+INSERT gkkx string
+INSERT apP number
+INSERT gtLfU string
+INSERT yyx_ string

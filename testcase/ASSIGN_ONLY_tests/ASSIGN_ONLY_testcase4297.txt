@@ -1,0 +1,2 @@
+ASSIGN o1 nsLsvg
+ASSIGN v 'KG'

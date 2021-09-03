@@ -1,0 +1,5 @@
+INSERT h00CE8 string
+INSERT u_wI number
+INSERT r2 string
+INSERT bBM number
+INSERT xpmg number

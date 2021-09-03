@@ -1,0 +1,4 @@
+INSERT hWi string
+INSERT vas string
+INSERT sM string
+INSERT fn2vNW number

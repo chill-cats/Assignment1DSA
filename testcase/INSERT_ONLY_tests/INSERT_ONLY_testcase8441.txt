@@ -1,0 +1,13 @@
+INSERT hq string
+INSERT ak number
+INSERT q number
+INSERT nkTPG4 number
+INSERT ziU string
+INSERT gQ string
+INSERT nRIQf string
+INSERT ziJoo string
+INSERT zAw_2b string
+INSERT xIyT1T string
+INSERT k8 number
+INSERT fXeA string
+INSERT z number

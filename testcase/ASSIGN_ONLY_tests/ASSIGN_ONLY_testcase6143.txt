@@ -1,0 +1,4 @@
+ASSIGN d7U 562
+ASSIGN d7U 'AfV'
+ASSIGN kspJFO 'P'
+ASSIGN oAW8xf 'r'

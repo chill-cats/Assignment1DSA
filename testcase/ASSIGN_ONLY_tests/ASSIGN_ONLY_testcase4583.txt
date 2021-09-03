@@ -1,0 +1,2 @@
+ASSIGN x '8FDi2'
+ASSIGN rh 'c '

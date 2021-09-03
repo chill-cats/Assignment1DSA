@@ -1,0 +1,8 @@
+INSERT z string
+INSERT s string
+INSERT sGlfP string
+INSERT wWXx string
+INSERT ryjkYg string
+INSERT woGSYy string
+INSERT iv number
+INSERT kl string

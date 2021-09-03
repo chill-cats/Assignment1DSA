@@ -1,0 +1,11 @@
+INSERT cBfY string
+INSERT rZ number
+INSERT pF number
+INSERT vN number
+INSERT x number
+INSERT m string
+INSERT yFW string
+INSERT rcbRT string
+INSERT b number
+INSERT wKknz number
+INSERT hno8 string

@@ -1,0 +1,5 @@
+INSERT i80lX string
+INSERT qM8Fch number
+INSERT vw4 number
+INSERT ib number
+INSERT q number

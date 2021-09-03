@@ -1,0 +1,6 @@
+INSERT a_lupU string
+INSERT g_sR string
+INSERT pxpx number
+INSERT b7bdZb number
+INSERT jjtAL3 string
+INSERT sc_C string

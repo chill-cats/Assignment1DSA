@@ -1,0 +1,10 @@
+INSERT bQ string
+INSERT t string
+INSERT mxGMto string
+INSERT lr string
+INSERT ace string
+INSERT y1O2F number
+INSERT vOP number
+INSERT t number
+INSERT hw string
+INSERT c number

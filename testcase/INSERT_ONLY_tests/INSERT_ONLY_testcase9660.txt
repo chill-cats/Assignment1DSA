@@ -1,0 +1,4 @@
+INSERT e number
+INSERT sOrB number
+INSERT jsN string
+INSERT blL string

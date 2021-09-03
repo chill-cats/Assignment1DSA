@@ -1,0 +1,4 @@
+INSERT c string
+INSERT q number
+INSERT zLNg string
+INSERT y number

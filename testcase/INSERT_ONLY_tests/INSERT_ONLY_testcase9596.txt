@@ -1,0 +1,4 @@
+INSERT x number
+INSERT zz string
+INSERT nW number
+INSERT xKXXW number

@@ -1,0 +1,3 @@
+INSERT q68C number
+INSERT nGH number
+INSERT yI string

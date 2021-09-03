@@ -1,0 +1,12 @@
+INSERT r number
+INSERT uT string
+INSERT oD string
+INSERT ubx8 string
+INSERT jW number
+INSERT p9pna3 number
+INSERT vsqU number
+INSERT fIek string
+INSERT kHj string
+INSERT oya string
+INSERT yQN number
+INSERT oR68b string

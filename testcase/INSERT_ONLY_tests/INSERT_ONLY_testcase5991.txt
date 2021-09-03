@@ -1,0 +1,5 @@
+INSERT guZy number
+INSERT mFe string
+INSERT iuf number
+INSERT vV number
+INSERT yUrB8 number

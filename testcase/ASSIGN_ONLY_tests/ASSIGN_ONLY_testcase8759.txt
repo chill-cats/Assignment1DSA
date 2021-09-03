@@ -1,0 +1,5 @@
+ASSIGN d 'GlW'
+ASSIGN n 'b1d1'
+ASSIGN bmwMW 642
+ASSIGN wNkdy pBgGs
+ASSIGN wNkdy 'H'

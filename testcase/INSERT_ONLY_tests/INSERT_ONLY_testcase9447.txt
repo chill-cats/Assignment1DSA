@@ -1,0 +1,2 @@
+INSERT dlDNe5 number
+INSERT k3 string

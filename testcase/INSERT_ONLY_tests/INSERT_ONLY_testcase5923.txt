@@ -1,0 +1,7 @@
+INSERT fznO string
+INSERT fJo number
+INSERT i number
+INSERT h number
+INSERT ozWO number
+INSERT sWSVo string
+INSERT bvzZL number

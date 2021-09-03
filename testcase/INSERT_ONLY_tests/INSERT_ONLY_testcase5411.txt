@@ -1,0 +1,10 @@
+INSERT cw string
+INSERT tdi number
+INSERT xRz number
+INSERT y3 number
+INSERT y6N_r number
+INSERT wF5 number
+INSERT gZl string
+INSERT nuYug number
+INSERT sjc6g number
+INSERT pwFZm number

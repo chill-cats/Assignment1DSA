@@ -1,0 +1,7 @@
+INSERT n4INv number
+INSERT i0xn1 number
+INSERT i number
+INSERT wAACzh string
+INSERT mPTrJ string
+INSERT y number
+INSERT v string

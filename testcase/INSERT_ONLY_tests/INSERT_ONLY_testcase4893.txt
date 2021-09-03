@@ -1,0 +1,15 @@
+INSERT sqlk number
+INSERT yHNGK number
+INSERT cb number
+INSERT s number
+INSERT d number
+INSERT oZ string
+INSERT bQi_l string
+INSERT wlzj number
+INSERT wvg number
+INSERT f5Dr1 string
+INSERT tpU9X number
+INSERT cPS number
+INSERT lG string
+INSERT xBBwmy number
+INSERT ob string

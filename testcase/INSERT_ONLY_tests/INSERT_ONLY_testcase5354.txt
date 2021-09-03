@@ -1,0 +1,11 @@
+INSERT r_ string
+INSERT fVNEL number
+INSERT b number
+INSERT vK7m0 number
+INSERT gL string
+INSERT dG string
+INSERT c2Lj string
+INSERT kYdiGv string
+INSERT gTKg string
+INSERT u number
+INSERT w8E number

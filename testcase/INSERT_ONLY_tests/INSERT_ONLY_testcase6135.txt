@@ -1,0 +1,3 @@
+INSERT hALdIz string
+INSERT z5e number
+INSERT rgzz number

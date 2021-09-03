@@ -1,0 +1,4 @@
+INSERT v string
+INSERT beLq number
+INSERT w number
+INSERT ka5qgz number

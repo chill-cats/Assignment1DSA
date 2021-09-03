@@ -1,0 +1,8 @@
+INSERT aQgA number
+INSERT g9 number
+INSERT dBXI number
+INSERT koZ number
+INSERT g string
+INSERT t_A number
+INSERT xFu string
+INSERT x number

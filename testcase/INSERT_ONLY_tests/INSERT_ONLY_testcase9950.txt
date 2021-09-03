@@ -1,0 +1,13 @@
+INSERT r number
+INSERT j number
+INSERT wZ number
+INSERT tx number
+INSERT m string
+INSERT es6B number
+INSERT oI string
+INSERT ihr number
+INSERT f string
+INSERT dK0Wp string
+INSERT h0JjTF number
+INSERT iR0P string
+INSERT iUyY number

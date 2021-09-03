@@ -1,0 +1,11 @@
+INSERT o number
+INSERT syl5N string
+INSERT d string
+INSERT j number
+INSERT s3 string
+INSERT agjPt string
+INSERT q string
+INSERT tr number
+INSERT j string
+INSERT iv number
+INSERT lRE string

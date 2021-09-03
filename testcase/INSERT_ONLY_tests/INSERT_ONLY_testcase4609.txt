@@ -1,0 +1,4 @@
+INSERT xhzj number
+INSERT r2 string
+INSERT g number
+INSERT s string

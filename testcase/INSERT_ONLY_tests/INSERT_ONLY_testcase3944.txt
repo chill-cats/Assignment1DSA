@@ -1,0 +1,4 @@
+INSERT i08V string
+INSERT noQ string
+INSERT hKpV number
+INSERT iShp number

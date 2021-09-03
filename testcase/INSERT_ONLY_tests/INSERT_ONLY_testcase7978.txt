@@ -1,0 +1,7 @@
+INSERT my3co number
+INSERT vJaDK number
+INSERT dj string
+INSERT f string
+INSERT aKbi string
+INSERT h string
+INSERT uQ string

@@ -1,0 +1,2 @@
+ASSIGN pwRH 1165
+ASSIGN k 'lD'

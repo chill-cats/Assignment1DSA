@@ -1,0 +1,5 @@
+INSERT u number
+INSERT iVBtr string
+INSERT l string
+INSERT uZ number
+INSERT c string

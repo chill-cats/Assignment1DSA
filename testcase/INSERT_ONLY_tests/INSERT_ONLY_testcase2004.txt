@@ -1,0 +1,6 @@
+INSERT p_n2sk number
+INSERT ygPz string
+INSERT bnPlO number
+INSERT b number
+INSERT h6_r string
+INSERT h3N76 number

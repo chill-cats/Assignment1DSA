@@ -1,0 +1,5 @@
+INSERT tXBlI number
+INSERT b string
+INSERT fb number
+INSERT a4ac number
+INSERT on2 number

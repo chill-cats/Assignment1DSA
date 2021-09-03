@@ -1,0 +1,3 @@
+ASSIGN kOfb kOfb
+ASSIGN kOfb 524
+ASSIGN aRvj 796

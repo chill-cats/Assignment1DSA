@@ -1,0 +1,10 @@
+INSERT u string
+INSERT u7 number
+INSERT xmcRJ string
+INSERT f number
+INSERT gyEkb number
+INSERT mR number
+INSERT xiIHa6 string
+INSERT lZaj number
+INSERT cnk8bv number
+INSERT uBe0 number

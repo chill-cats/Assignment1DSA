@@ -1,0 +1,6 @@
+INSERT z8FCi string
+INSERT eYef number
+INSERT xez string
+INSERT i string
+INSERT zu number
+INSERT x string

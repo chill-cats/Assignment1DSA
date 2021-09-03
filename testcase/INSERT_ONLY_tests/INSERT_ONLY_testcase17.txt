@@ -1,0 +1,4 @@
+INSERT fsDS string
+INSERT bfySU string
+INSERT gM4 number
+INSERT tb_v number

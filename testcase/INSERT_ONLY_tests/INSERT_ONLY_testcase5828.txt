@@ -1,0 +1,2 @@
+INSERT kd string
+INSERT qmxnX4 number

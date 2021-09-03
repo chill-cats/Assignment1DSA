@@ -1,0 +1,8 @@
+INSERT h string
+INSERT pT string
+INSERT rcw string
+INSERT deVAPz string
+INSERT d6BXM string
+INSERT n7N number
+INSERT y5pQp number
+INSERT dms number

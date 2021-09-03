@@ -1,0 +1,7 @@
+INSERT b1KP string
+INSERT nJ number
+INSERT z9V string
+INSERT aT8kod string
+INSERT mu1G number
+INSERT f number
+INSERT zH string

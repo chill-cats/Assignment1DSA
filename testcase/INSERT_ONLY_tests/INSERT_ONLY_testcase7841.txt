@@ -1,0 +1,6 @@
+INSERT xU string
+INSERT s1B number
+INSERT p1BD string
+INSERT dFrys number
+INSERT mPz string
+INSERT h4DOg string

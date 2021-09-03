@@ -1,0 +1,9 @@
+INSERT m number
+INSERT r7o number
+INSERT tZf string
+INSERT ahJa string
+INSERT ny number
+INSERT f number
+INSERT s string
+INSERT vPgyy string
+INSERT h string

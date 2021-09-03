@@ -1,0 +1,3 @@
+INSERT gf number
+INSERT oI string
+INSERT y number

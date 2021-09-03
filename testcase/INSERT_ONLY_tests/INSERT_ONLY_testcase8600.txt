@@ -1,0 +1,3 @@
+INSERT sMjmYF number
+INSERT u string
+INSERT xx4PQW number

@@ -1,0 +1,3 @@
+ASSIGN zavMd z7
+ASSIGN kF_BQ_ 840
+ASSIGN gJ2 sw

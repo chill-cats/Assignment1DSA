@@ -1,0 +1,8 @@
+INSERT n number
+INSERT zc string
+INSERT lF string
+INSERT jC1Zv1 string
+INSERT f5FF string
+INSERT scgR number
+INSERT cYT1S number
+INSERT iCn string

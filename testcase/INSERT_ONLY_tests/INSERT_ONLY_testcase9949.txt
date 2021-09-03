@@ -1,0 +1,6 @@
+INSERT v0 string
+INSERT zFABln string
+INSERT s number
+INSERT gIMJ number
+INSERT hc93A number
+INSERT t number

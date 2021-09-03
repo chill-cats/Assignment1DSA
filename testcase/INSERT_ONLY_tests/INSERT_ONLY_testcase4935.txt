@@ -1,0 +1,6 @@
+INSERT nLm_J number
+INSERT n string
+INSERT yp1OO string
+INSERT osX number
+INSERT g number
+INSERT b string

@@ -1,0 +1,7 @@
+INSERT vh2 string
+INSERT pS number
+INSERT na number
+INSERT yzGr number
+INSERT j string
+INSERT tA string
+INSERT jyU number

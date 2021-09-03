@@ -1,0 +1,4 @@
+INSERT nYO number
+INSERT mxL28 number
+INSERT oO string
+INSERT p7 number

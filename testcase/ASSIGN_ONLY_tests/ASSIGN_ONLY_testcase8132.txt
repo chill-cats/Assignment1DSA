@@ -1,0 +1,2 @@
+ASSIGN r 'cs7p'
+ASSIGN kCBxAM 'XaBgC'

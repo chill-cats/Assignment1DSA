@@ -1,0 +1,3 @@
+INSERT dDo string
+INSERT o number
+INSERT n2NQp number

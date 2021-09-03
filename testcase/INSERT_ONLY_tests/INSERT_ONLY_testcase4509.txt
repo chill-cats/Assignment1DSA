@@ -1,0 +1,16 @@
+INSERT xw number
+INSERT byL string
+INSERT u string
+INSERT mX number
+INSERT sE87_ string
+INSERT zB5AWR string
+INSERT dTB string
+INSERT dP7 number
+INSERT pckSE number
+INSERT j2te string
+INSERT zPg number
+INSERT e5sWq string
+INSERT rtnr string
+INSERT bg string
+INSERT n number
+INSERT eT string

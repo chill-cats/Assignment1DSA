@@ -1,0 +1,5 @@
+INSERT uf string
+INSERT vsVxTx string
+INSERT gH string
+INSERT iRgZ number
+INSERT sgfr number

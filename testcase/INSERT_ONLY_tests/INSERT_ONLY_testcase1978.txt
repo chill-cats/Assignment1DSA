@@ -1,0 +1,10 @@
+INSERT hr number
+INSERT pOids number
+INSERT vRUP number
+INSERT sDbD5V string
+INSERT aEgmA string
+INSERT yFky1 string
+INSERT dHUdr3 string
+INSERT mL number
+INSERT rgw number
+INSERT aUqNv number

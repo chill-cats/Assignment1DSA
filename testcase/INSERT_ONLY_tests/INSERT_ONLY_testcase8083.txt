@@ -1,0 +1,7 @@
+INSERT smq string
+INSERT hM string
+INSERT i number
+INSERT zh_n7e string
+INSERT rQjU number
+INSERT q5dPLc string
+INSERT c2srD2 string

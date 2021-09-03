@@ -1,0 +1,3 @@
+INSERT p8 number
+INSERT n number
+INSERT e string

@@ -1,0 +1,4 @@
+INSERT f1 number
+INSERT hoIN string
+INSERT bdA string
+INSERT ta4 string

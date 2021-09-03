@@ -1,0 +1,4 @@
+INSERT awLApD number
+INSERT t string
+INSERT rsLHY number
+INSERT s1 number

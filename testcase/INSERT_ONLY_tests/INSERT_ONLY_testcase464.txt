@@ -1,0 +1,5 @@
+INSERT h string
+INSERT iUPw number
+INSERT xuml string
+INSERT iC number
+INSERT ppN string

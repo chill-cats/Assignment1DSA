@@ -1,0 +1,2 @@
+INSERT nafi number
+INSERT lWiAI string

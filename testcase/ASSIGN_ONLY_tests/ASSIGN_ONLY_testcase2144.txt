@@ -1,0 +1,2 @@
+ASSIGN avnm_ 847
+ASSIGN avnm_ 'C'

@@ -1,0 +1,2 @@
+ASSIGN x6 1005
+ASSIGN eOS8 '6kAi'

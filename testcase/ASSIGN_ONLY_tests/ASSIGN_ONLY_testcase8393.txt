@@ -1,0 +1,3 @@
+ASSIGN qdv3 673
+ASSIGN qdv3 2
+ASSIGN aR3 'Pnu'

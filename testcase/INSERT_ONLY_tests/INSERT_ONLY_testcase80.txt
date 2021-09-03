@@ -1,0 +1,4 @@
+INSERT zD3iQb string
+INSERT g number
+INSERT cP string
+INSERT k number

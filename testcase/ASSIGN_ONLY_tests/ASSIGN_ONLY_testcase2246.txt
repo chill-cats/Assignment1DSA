@@ -1,0 +1,2 @@
+ASSIGN mA7t88 aetVC
+ASSIGN aetVC 'WeXA'

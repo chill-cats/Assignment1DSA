@@ -1,0 +1,6 @@
+INSERT l1 string
+INSERT um number
+INSERT d9 string
+INSERT kDRuc number
+INSERT yt6_Qq string
+INSERT t string

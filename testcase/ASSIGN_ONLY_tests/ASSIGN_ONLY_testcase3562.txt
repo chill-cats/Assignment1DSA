@@ -1,0 +1,4 @@
+ASSIGN ugr 'Z'
+ASSIGN nyEqJQ 'p'
+ASSIGN d 'A4prj'
+ASSIGN d 942

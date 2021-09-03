@@ -1,0 +1,2 @@
+ASSIGN dwm 'Dvg'
+ASSIGN dLTk dLTk

@@ -1,0 +1,8 @@
+INSERT k string
+INSERT uFF number
+INSERT x string
+INSERT mc string
+INSERT dcevs string
+INSERT y0Xhr string
+INSERT b1UKQ string
+INSERT fKB string

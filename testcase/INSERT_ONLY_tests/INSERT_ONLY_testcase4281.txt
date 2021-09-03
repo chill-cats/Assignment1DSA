@@ -1,0 +1,9 @@
+INSERT rw number
+INSERT qw string
+INSERT dQ4 string
+INSERT qHV string
+INSERT qPCzV number
+INSERT cv0 string
+INSERT h string
+INSERT tr6 number
+INSERT axicf number

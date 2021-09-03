@@ -1,0 +1,4 @@
+INSERT o8 number
+INSERT hE67 string
+INSERT z5f string
+INSERT il number

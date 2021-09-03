@@ -1,0 +1,4 @@
+INSERT sltF number
+INSERT c number
+INSERT i number
+INSERT h number

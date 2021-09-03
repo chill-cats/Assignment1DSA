@@ -1,0 +1,8 @@
+INSERT hux string
+INSERT rgb number
+INSERT h string
+INSERT tdkhZ5 number
+INSERT rQ string
+INSERT t number
+INSERT zr string
+INSERT vck string

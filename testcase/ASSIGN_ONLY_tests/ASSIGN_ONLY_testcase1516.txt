@@ -1,0 +1,4 @@
+ASSIGN l 'VDPc'
+ASSIGN vWYCa vWYCa
+ASSIGN vWYCa 'Jt'
+ASSIGN etUbc 310

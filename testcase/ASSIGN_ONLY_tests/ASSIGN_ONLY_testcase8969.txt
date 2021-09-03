@@ -1,0 +1,2 @@
+ASSIGN rzx 'c6HU'
+ASSIGN b 'M'

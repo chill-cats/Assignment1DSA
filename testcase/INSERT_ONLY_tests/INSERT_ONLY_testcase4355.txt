@@ -1,0 +1,6 @@
+INSERT yRf number
+INSERT wk number
+INSERT kRmqK number
+INSERT q number
+INSERT m_2eur number
+INSERT m9 string

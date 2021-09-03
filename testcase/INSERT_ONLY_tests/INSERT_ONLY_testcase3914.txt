@@ -1,0 +1,5 @@
+INSERT d7 number
+INSERT a string
+INSERT zt string
+INSERT mFlH8H string
+INSERT f string

@@ -1,0 +1,9 @@
+INSERT fU number
+INSERT i9 number
+INSERT ie number
+INSERT a string
+INSERT jEuThu number
+INSERT mNWbd number
+INSERT qGZ string
+INSERT v string
+INSERT hezhi string

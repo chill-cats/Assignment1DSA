@@ -1,0 +1,3 @@
+INSERT m number
+INSERT aCd number
+INSERT u number

@@ -1,0 +1,8 @@
+INSERT z string
+INSERT ptMjG number
+INSERT tdH number
+INSERT p0BiW string
+INSERT sssH number
+INSERT hYH number
+INSERT h4 string
+INSERT v2 number

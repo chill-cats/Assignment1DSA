@@ -1,0 +1,7 @@
+INSERT eRX number
+INSERT fc string
+INSERT cCvL number
+INSERT s1qc number
+INSERT aRAMKX number
+INSERT f number
+INSERT txJB number

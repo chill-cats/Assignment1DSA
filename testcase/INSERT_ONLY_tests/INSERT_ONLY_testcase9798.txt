@@ -1,0 +1,6 @@
+INSERT r number
+INSERT xAqF7 number
+INSERT aG3 string
+INSERT kj_X9 number
+INSERT hAQub string
+INSERT bGENu number

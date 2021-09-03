@@ -1,0 +1,14 @@
+INSERT t5M number
+INSERT s string
+INSERT a string
+INSERT ta3EG number
+INSERT p50 number
+INSERT nLq number
+INSERT rEb string
+INSERT zXbPz string
+INSERT d0 number
+INSERT y6w number
+INSERT nLaMV number
+INSERT aZX string
+INSERT oPAtTb number
+INSERT lZk string

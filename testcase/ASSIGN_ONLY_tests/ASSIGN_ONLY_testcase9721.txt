@@ -1,0 +1,3 @@
+ASSIGN pt 'zWipF'
+ASSIGN w 'ARm'
+ASSIGN g pc

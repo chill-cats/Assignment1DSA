@@ -1,0 +1,3 @@
+ASSIGN w8KXUc '0s'
+ASSIGN w '9nPJ'
+ASSIGN vaki a

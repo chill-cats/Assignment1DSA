@@ -1,0 +1,4 @@
+INSERT rj number
+INSERT a string
+INSERT x5 string
+INSERT z7p3sl number

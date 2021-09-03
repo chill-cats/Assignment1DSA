@@ -1,0 +1,7 @@
+INSERT j7M number
+INSERT j84r number
+INSERT onl string
+INSERT n1 string
+INSERT t5U number
+INSERT khB string
+INSERT r5 number

@@ -1,0 +1,8 @@
+INSERT ja number
+INSERT y number
+INSERT hUT string
+INSERT iHMTAc string
+INSERT f1nYFU string
+INSERT oRs8f number
+INSERT veal number
+INSERT kl number

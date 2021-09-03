@@ -1,0 +1,4 @@
+INSERT kY number
+INSERT zXOBl number
+INSERT zLU string
+INSERT ozVEE number

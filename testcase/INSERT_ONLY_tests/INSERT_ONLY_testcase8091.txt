@@ -1,0 +1,2 @@
+INSERT t8 number
+INSERT b7DV_t string

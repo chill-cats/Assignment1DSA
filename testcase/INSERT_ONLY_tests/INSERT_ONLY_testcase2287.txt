@@ -1,0 +1,8 @@
+INSERT jkmh number
+INSERT g81 string
+INSERT o string
+INSERT qcC string
+INSERT srezV number
+INSERT xspAvo string
+INSERT oq9dv string
+INSERT k string

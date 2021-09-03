@@ -1,0 +1,3 @@
+INSERT so1 string
+INSERT xK number
+INSERT bMOgX string

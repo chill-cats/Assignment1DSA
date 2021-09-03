@@ -1,0 +1,6 @@
+INSERT kv number
+INSERT sWer number
+INSERT tHKO number
+INSERT g2yAh string
+INSERT nvr number
+INSERT j number

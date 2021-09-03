@@ -1,0 +1,13 @@
+INSERT g0 string
+INSERT r string
+INSERT wVmN8Y number
+INSERT rMD number
+INSERT mHbXs number
+INSERT tvD string
+INSERT pk number
+INSERT p string
+INSERT h number
+INSERT zl number
+INSERT m266 number
+INSERT fKg string
+INSERT hVtW57 string

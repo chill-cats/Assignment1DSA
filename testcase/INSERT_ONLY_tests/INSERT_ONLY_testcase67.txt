@@ -1,0 +1,7 @@
+INSERT yPhrS string
+INSERT pBEM number
+INSERT c number
+INSERT vs string
+INSERT icx string
+INSERT x9r12M number
+INSERT bnmJZG string

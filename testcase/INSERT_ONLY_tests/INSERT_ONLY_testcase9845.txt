@@ -1,0 +1,2 @@
+INSERT nL string
+INSERT cp number

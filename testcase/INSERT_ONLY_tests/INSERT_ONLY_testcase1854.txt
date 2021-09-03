@@ -1,0 +1,3 @@
+INSERT cc string
+INSERT iYMQ string
+INSERT vfhJR number

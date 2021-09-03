@@ -1,0 +1,7 @@
+INSERT d number
+INSERT uR number
+INSERT lmK string
+INSERT xMB9 number
+INSERT lEN8 number
+INSERT nkYoKN number
+INSERT cJ6 string

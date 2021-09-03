@@ -1,0 +1,6 @@
+INSERT vI number
+INSERT hql9 string
+INSERT tf_8tg number
+INSERT t string
+INSERT aUakh string
+INSERT uZHF string

@@ -1,0 +1,1 @@
+ASSIGN cpQC1 'ArT'

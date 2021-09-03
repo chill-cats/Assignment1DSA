@@ -1,0 +1,7 @@
+INSERT txQ4 number
+INSERT heOMo number
+INSERT tukeb number
+INSERT g string
+INSERT j string
+INSERT yAj number
+INSERT ykRI string

@@ -1,0 +1,4 @@
+INSERT bossq number
+INSERT hQ string
+INSERT u6RlTY number
+INSERT eYe4L number

@@ -1,0 +1,4 @@
+INSERT d string
+INSERT uSVYFS string
+INSERT bBYI number
+INSERT yg number

@@ -1,0 +1,2 @@
+ASSIGN absS 'K0'
+ASSIGN gq0 ' kdY'

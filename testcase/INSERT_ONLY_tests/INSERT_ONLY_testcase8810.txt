@@ -1,0 +1,2 @@
+INSERT szAJni string
+INSERT hX string

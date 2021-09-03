@@ -1,0 +1,2 @@
+ASSIGN rDY2x 1196
+ASSIGN v 'ovgzA'

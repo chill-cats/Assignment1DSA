@@ -1,0 +1,3 @@
+ASSIGN imoXu 'c'
+ASSIGN p 543
+ASSIGN j 'q'

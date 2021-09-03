@@ -1,0 +1,3 @@
+INSERT copfU string
+INSERT fntEDj number
+INSERT tmRC string

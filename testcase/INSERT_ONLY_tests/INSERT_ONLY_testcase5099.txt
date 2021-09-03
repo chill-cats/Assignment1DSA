@@ -1,0 +1,7 @@
+INSERT s number
+INSERT xkq number
+INSERT imNk string
+INSERT i number
+INSERT zv string
+INSERT uR string
+INSERT u string

@@ -1,0 +1,9 @@
+INSERT scdPin string
+INSERT vuy string
+INSERT jV9 number
+INSERT ln4fV string
+INSERT vYT7D number
+INSERT j number
+INSERT evaqZ number
+INSERT mWgOu number
+INSERT q number

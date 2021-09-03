@@ -1,0 +1,7 @@
+INSERT of number
+INSERT g string
+INSERT xl string
+INSERT pKj number
+INSERT uG number
+INSERT u2oekk string
+INSERT wivrZ number

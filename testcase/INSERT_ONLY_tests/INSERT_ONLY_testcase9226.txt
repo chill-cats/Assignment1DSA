@@ -1,0 +1,4 @@
+INSERT ja number
+INSERT miI string
+INSERT p number
+INSERT km number

@@ -1,0 +1,4 @@
+INSERT z number
+INSERT cPv number
+INSERT pYa2 number
+INSERT oN string

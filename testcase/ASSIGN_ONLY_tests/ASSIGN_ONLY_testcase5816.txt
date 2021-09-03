@@ -1,0 +1,2 @@
+ASSIGN bBwWp bBwWp
+ASSIGN bBwWp 'kShK'

@@ -1,0 +1,10 @@
+INSERT b number
+INSERT jNe number
+INSERT d6 string
+INSERT hGI number
+INSERT tMSD number
+INSERT iITDer string
+INSERT mDve string
+INSERT lb string
+INSERT pZ1 number
+INSERT aJf string

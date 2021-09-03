@@ -1,0 +1,9 @@
+INSERT u number
+INSERT b string
+INSERT thIImk string
+INSERT n9 number
+INSERT lo1R string
+INSERT kozk string
+INSERT b string
+INSERT yT string
+INSERT lGgGhg number

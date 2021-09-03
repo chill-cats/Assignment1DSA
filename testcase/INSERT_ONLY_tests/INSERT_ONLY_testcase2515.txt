@@ -1,0 +1,11 @@
+INSERT x string
+INSERT i string
+INSERT fW04qt number
+INSERT ubJ4U4 string
+INSERT rc_9_ number
+INSERT fmYAs_ number
+INSERT nrbH0 string
+INSERT ze string
+INSERT cN1fIF number
+INSERT hqFpd number
+INSERT s7 number

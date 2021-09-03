@@ -1,0 +1,11 @@
+INSERT b string
+INSERT d number
+INSERT bN number
+INSERT hY string
+INSERT nRkvc string
+INSERT fJ28G number
+INSERT o4Q number
+INSERT rb_Val number
+INSERT oARJ8b string
+INSERT qNkWQ number
+INSERT vI string

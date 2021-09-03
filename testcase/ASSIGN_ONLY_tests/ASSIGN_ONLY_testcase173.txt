@@ -1,0 +1,3 @@
+ASSIGN k k
+ASSIGN voK voK
+ASSIGN voK 1009

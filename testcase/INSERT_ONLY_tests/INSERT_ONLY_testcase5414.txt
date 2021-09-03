@@ -1,0 +1,3 @@
+INSERT kv string
+INSERT v5b string
+INSERT poMXL number

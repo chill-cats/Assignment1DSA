@@ -1,0 +1,7 @@
+INSERT k string
+INSERT ePBF string
+INSERT p number
+INSERT g6yYn string
+INSERT w number
+INSERT o string
+INSERT tGbI string

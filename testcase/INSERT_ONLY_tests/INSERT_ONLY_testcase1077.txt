@@ -1,0 +1,9 @@
+INSERT k string
+INSERT a4 number
+INSERT fi number
+INSERT v number
+INSERT u number
+INSERT gC4 number
+INSERT sWXq string
+INSERT e8tJMZ number
+INSERT pMuOG number

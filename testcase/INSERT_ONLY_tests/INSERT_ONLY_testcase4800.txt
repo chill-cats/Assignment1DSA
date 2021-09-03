@@ -1,0 +1,7 @@
+INSERT jHDB1 number
+INSERT yAa string
+INSERT uB5V number
+INSERT t5 string
+INSERT x9eu number
+INSERT qnzrQp number
+INSERT pqRDyZ string

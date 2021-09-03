@@ -1,0 +1,3 @@
+ASSIGN nDfr 205
+ASSIGN nDfr 'N'
+ASSIGN nDfr 65

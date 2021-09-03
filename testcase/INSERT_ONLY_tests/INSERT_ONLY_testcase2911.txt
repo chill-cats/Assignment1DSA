@@ -1,0 +1,7 @@
+INSERT tb string
+INSERT r1rX string
+INSERT bJ6 number
+INSERT mj8 string
+INSERT gJ number
+INSERT vrJ number
+INSERT ekDEuQ string

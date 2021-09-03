@@ -1,0 +1,6 @@
+INSERT rFyfB number
+INSERT cq number
+INSERT e number
+INSERT g string
+INSERT b number
+INSERT b string

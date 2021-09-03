@@ -1,0 +1,5 @@
+INSERT gwkM number
+INSERT e number
+INSERT w number
+INSERT oG number
+INSERT lpT254 string

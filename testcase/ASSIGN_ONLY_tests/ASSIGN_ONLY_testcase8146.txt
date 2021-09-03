@@ -1,0 +1,3 @@
+ASSIGN aXMM 'q'
+ASSIGN lVB 'rnv'
+ASSIGN fkEPc 1215

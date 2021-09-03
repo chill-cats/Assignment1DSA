@@ -1,0 +1,4 @@
+INSERT bYYdC string
+INSERT f12 number
+INSERT scG4 number
+INSERT z number

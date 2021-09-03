@@ -1,0 +1,3 @@
+INSERT zzgM string
+INSERT zF6pQ number
+INSERT viI number

@@ -1,0 +1,8 @@
+INSERT hp string
+INSERT xl76R6 string
+INSERT gG number
+INSERT mmSp string
+INSERT dp0It8 number
+INSERT oqpWV number
+INSERT p2Jar string
+INSERT oNr string

@@ -1,0 +1,5 @@
+INSERT gO string
+INSERT c number
+INSERT irVKJ number
+INSERT q6KMw string
+INSERT vE_g2x number

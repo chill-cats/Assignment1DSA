@@ -1,0 +1,11 @@
+INSERT hng string
+INSERT y8 number
+INSERT tISt string
+INSERT fTk2py number
+INSERT pN string
+INSERT fm string
+INSERT xz string
+INSERT tDW string
+INSERT mexD number
+INSERT h number
+INSERT ezb number

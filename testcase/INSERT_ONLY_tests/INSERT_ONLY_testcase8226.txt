@@ -1,0 +1,4 @@
+INSERT z string
+INSERT x string
+INSERT fuI number
+INSERT liY number

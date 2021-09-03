@@ -1,0 +1,11 @@
+INSERT qgWxt string
+INSERT mun number
+INSERT ybu string
+INSERT nj string
+INSERT bQd number
+INSERT s4YK number
+INSERT n7W0N string
+INSERT pc number
+INSERT s2k number
+INSERT ir number
+INSERT rhN5 string

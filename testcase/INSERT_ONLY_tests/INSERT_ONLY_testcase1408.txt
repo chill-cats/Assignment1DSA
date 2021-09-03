@@ -1,0 +1,6 @@
+INSERT moq number
+INSERT n07 string
+INSERT ojK number
+INSERT pYRi string
+INSERT dx0 string
+INSERT sXB string

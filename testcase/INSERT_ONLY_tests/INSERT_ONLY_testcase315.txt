@@ -1,0 +1,7 @@
+INSERT pg5H string
+INSERT c7j string
+INSERT y string
+INSERT r0E3 string
+INSERT a number
+INSERT fKoR string
+INSERT fdan_d string

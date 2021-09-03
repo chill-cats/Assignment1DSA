@@ -1,0 +1,3 @@
+ASSIGN nzIR d
+ASSIGN d 'KxH2'
+ASSIGN wSAU cyNmg

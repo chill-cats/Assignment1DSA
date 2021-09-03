@@ -1,0 +1,5 @@
+INSERT nBy string
+INSERT mnBb9 number
+INSERT opL string
+INSERT q number
+INSERT yRpfm string

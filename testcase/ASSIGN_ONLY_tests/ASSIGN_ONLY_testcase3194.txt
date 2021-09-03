@@ -1,0 +1,4 @@
+ASSIGN h 'a'
+ASSIGN rStHA u8
+ASSIGN rStHA 'DL8h'
+ASSIGN bWgKZ ayw

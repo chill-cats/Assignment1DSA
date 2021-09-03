@@ -1,0 +1,9 @@
+INSERT rQ string
+INSERT i number
+INSERT vVi string
+INSERT fI09l string
+INSERT qlh number
+INSERT yjNi string
+INSERT oGP string
+INSERT v string
+INSERT nwz number

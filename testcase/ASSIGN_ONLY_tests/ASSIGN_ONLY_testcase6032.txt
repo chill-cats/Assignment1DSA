@@ -1,0 +1,1 @@
+ASSIGN wSK1 'z'

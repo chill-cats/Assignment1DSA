@@ -1,0 +1,4 @@
+INSERT mZOCN number
+INSERT cIYm number
+INSERT k string
+INSERT v number

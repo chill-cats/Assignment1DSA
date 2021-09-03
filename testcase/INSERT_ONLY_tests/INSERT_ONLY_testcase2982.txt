@@ -1,0 +1,6 @@
+INSERT m7 number
+INSERT w number
+INSERT uffiIz number
+INSERT g string
+INSERT bA number
+INSERT o0d3n string

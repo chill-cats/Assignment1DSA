@@ -1,0 +1,3 @@
+INSERT t string
+INSERT s0FDd number
+INSERT fJlu number

@@ -1,0 +1,4 @@
+INSERT ucC number
+INSERT h string
+INSERT xKsZ string
+INSERT tGN number

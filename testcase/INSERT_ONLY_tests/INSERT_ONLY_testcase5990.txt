@@ -1,0 +1,8 @@
+INSERT r number
+INSERT a number
+INSERT tMq number
+INSERT dPOuo number
+INSERT eRsho number
+INSERT hd2 number
+INSERT yysp string
+INSERT m number

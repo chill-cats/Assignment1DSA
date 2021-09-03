@@ -1,0 +1,8 @@
+INSERT w1 string
+INSERT wTuHO number
+INSERT tYI4p string
+INSERT dK string
+INSERT fYb77 number
+INSERT pOQ number
+INSERT rY string
+INSERT cxrN number

@@ -1,0 +1,8 @@
+INSERT c9 number
+INSERT nUgd string
+INSERT z3lX0r string
+INSERT cDQ string
+INSERT gPiBXm string
+INSERT b9wel string
+INSERT qHcxV string
+INSERT bH string

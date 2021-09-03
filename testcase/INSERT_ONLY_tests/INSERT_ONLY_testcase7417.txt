@@ -1,0 +1,7 @@
+INSERT a string
+INSERT ufOzT string
+INSERT ulY number
+INSERT iq number
+INSERT sOm string
+INSERT pmoj number
+INSERT xK string

@@ -1,0 +1,13 @@
+INSERT i21 string
+INSERT tv number
+INSERT d string
+INSERT wU15 number
+INSERT oRBF number
+INSERT yIkgl string
+INSERT ySn5a string
+INSERT jgWo string
+INSERT nn string
+INSERT ksDl string
+INSERT g4A number
+INSERT iIT number
+INSERT rT0 number

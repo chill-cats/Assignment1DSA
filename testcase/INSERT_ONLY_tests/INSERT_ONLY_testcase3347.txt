@@ -1,0 +1,12 @@
+INSERT k1g number
+INSERT w string
+INSERT v string
+INSERT cuCzP number
+INSERT aCSGtm string
+INSERT drO number
+INSERT hHic0 number
+INSERT s number
+INSERT wDK number
+INSERT tqNB string
+INSERT ym string
+INSERT oU_2R string

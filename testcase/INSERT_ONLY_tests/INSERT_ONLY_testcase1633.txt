@@ -1,0 +1,2 @@
+INSERT nz number
+INSERT g number

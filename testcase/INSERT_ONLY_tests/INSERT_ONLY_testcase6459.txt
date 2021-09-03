@@ -1,0 +1,11 @@
+INSERT t3 number
+INSERT u number
+INSERT y string
+INSERT qPAAx number
+INSERT woyk number
+INSERT vod1 number
+INSERT tML number
+INSERT qpdhzx string
+INSERT v1exE number
+INSERT mdT6Ul number
+INSERT s number

@@ -1,0 +1,2 @@
+ASSIGN vys 'MzKs'
+ASSIGN xgvd 103

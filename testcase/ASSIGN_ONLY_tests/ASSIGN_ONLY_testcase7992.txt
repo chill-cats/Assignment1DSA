@@ -1,0 +1,3 @@
+ASSIGN w 382
+ASSIGN q 523
+ASSIGN z 'tVMfD'

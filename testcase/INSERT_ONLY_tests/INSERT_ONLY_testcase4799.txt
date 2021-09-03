@@ -1,0 +1,5 @@
+INSERT u05xL number
+INSERT oxad number
+INSERT biDIG string
+INSERT wqbI string
+INSERT nfRO string

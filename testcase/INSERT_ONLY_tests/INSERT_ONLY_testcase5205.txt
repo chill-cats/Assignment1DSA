@@ -1,0 +1,17 @@
+INSERT xucip string
+INSERT mGG string
+INSERT h number
+INSERT g3X string
+INSERT ms6p string
+INSERT x number
+INSERT z number
+INSERT fSW string
+INSERT gE string
+INSERT e3yaiV string
+INSERT beZO5 number
+INSERT eh number
+INSERT yyf0 number
+INSERT q number
+INSERT p46m string
+INSERT q number
+INSERT kLt3 number

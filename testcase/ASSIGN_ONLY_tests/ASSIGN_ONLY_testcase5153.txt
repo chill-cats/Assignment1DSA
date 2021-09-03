@@ -1,0 +1,3 @@
+ASSIGN grptCM 'c3KZ'
+ASSIGN keKln 1142
+ASSIGN mw 495

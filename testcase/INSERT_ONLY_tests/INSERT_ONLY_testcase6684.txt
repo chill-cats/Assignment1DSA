@@ -1,0 +1,4 @@
+INSERT bcj7 string
+INSERT ah string
+INSERT fJ number
+INSERT pKZF string

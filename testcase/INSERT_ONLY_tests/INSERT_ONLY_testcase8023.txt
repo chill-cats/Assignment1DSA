@@ -1,0 +1,5 @@
+INSERT lncZ number
+INSERT mP string
+INSERT o string
+INSERT d string
+INSERT ei number

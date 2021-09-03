@@ -1,0 +1,8 @@
+INSERT h number
+INSERT pujjQ6 string
+INSERT dv number
+INSERT fntop string
+INSERT ca string
+INSERT c1NY number
+INSERT iJDM string
+INSERT rU2Nc string

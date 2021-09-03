@@ -1,0 +1,4 @@
+INSERT jGw string
+INSERT ov string
+INSERT mpwLd number
+INSERT s number

@@ -1,0 +1,2 @@
+INSERT diGKC7 string
+INSERT yj number

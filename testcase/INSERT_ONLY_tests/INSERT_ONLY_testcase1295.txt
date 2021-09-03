@@ -1,0 +1,4 @@
+INSERT u number
+INSERT m number
+INSERT wT number
+INSERT m2uU number

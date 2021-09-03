@@ -1,0 +1,6 @@
+INSERT q number
+INSERT hL string
+INSERT fsQwh5 string
+INSERT sQUS number
+INSERT xXdu number
+INSERT i9 number

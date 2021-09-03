@@ -1,0 +1,4 @@
+INSERT kniq number
+INSERT y string
+INSERT cFILiN string
+INSERT rlzk number

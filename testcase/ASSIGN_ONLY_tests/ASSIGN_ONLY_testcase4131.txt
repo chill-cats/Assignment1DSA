@@ -1,0 +1,2 @@
+ASSIGN lnVLM 'rvW'
+ASSIGN cQipr0 'dcd'

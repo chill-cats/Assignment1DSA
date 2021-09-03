@@ -1,0 +1,3 @@
+INSERT ab9 number
+INSERT clIWUB string
+INSERT eOt3 number

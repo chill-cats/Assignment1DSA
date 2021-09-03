@@ -1,0 +1,9 @@
+INSERT wYHJ7 number
+INSERT z number
+INSERT pS string
+INSERT rD string
+INSERT nwA number
+INSERT h string
+INSERT mrnx string
+INSERT x1 string
+INSERT bRKm string

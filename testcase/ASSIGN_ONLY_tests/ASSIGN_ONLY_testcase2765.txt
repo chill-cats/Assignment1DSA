@@ -1,0 +1,2 @@
+ASSIGN mO 'ms'
+ASSIGN dQzc wsze

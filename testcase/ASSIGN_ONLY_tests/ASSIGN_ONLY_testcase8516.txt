@@ -1,0 +1,4 @@
+ASSIGN qt 1088
+ASSIGN wjsK gj2
+ASSIGN gj2 'VFP'
+ASSIGN wjsK 'W3kVr'

@@ -1,0 +1,3 @@
+INSERT apf number
+INSERT zyci string
+INSERT kN string

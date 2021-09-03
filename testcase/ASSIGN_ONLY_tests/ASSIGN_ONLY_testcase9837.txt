@@ -1,0 +1,2 @@
+ASSIGN vU08 'x'
+ASSIGN l 'HF'

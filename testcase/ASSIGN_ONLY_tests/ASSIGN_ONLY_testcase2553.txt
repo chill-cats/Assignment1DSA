@@ -1,0 +1,4 @@
+ASSIGN a2zsv 642
+ASSIGN aKfr 'A4'
+ASSIGN lKD aKfr
+ASSIGN k1xTvJ 'rg'

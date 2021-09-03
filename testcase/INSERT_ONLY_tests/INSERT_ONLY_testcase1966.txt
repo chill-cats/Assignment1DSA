@@ -1,0 +1,7 @@
+INSERT wS0U string
+INSERT na number
+INSERT mvP string
+INSERT q number
+INSERT u8vC string
+INSERT qNcN3 number
+INSERT yn31ld string

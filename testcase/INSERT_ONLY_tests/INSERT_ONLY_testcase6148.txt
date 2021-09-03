@@ -1,0 +1,8 @@
+INSERT dI3 string
+INSERT i string
+INSERT w string
+INSERT ixE number
+INSERT yl number
+INSERT pEqIDe number
+INSERT s string
+INSERT lG5 string

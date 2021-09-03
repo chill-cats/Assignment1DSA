@@ -1,0 +1,12 @@
+INSERT lpgb number
+INSERT m number
+INSERT kK number
+INSERT aUU string
+INSERT g number
+INSERT yhyId string
+INSERT a string
+INSERT s number
+INSERT iydR number
+INSERT tP number
+INSERT wvX1W number
+INSERT p9 string

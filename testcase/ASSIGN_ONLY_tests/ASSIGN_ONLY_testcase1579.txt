@@ -1,0 +1,2 @@
+ASSIGN pKMk 1024
+ASSIGN kGocTp 36

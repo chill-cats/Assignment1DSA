@@ -1,0 +1,5 @@
+INSERT xHaa string
+INSERT uCjow number
+INSERT nL string
+INSERT d2Jo string
+INSERT e number

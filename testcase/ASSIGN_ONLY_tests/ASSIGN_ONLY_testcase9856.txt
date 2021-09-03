@@ -1,0 +1,2 @@
+ASSIGN zfB 68
+ASSIGN bW8K 'OZ'

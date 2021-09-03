@@ -1,0 +1,13 @@
+INSERT iySK string
+INSERT u705 number
+INSERT k15 string
+INSERT a51 string
+INSERT it number
+INSERT v number
+INSERT zMIJAu number
+INSERT ep string
+INSERT cf string
+INSERT e6rDS number
+INSERT j string
+INSERT fN string
+INSERT n number

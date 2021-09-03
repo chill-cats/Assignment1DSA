@@ -1,0 +1,9 @@
+INSERT m number
+INSERT fd number
+INSERT eAIC string
+INSERT bIQ string
+INSERT hK1Jn number
+INSERT gZ string
+INSERT xj number
+INSERT nLm5Am number
+INSERT x_kIr string

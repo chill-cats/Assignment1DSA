@@ -1,0 +1,2 @@
+INSERT aITuA6 number
+INSERT c string

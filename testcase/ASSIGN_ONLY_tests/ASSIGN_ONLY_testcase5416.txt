@@ -1,0 +1,1 @@
+ASSIGN tSpTDy 'M2s'

@@ -1,0 +1,5 @@
+INSERT d4Ca string
+INSERT qEZwq number
+INSERT h string
+INSERT zA string
+INSERT sSJlYM string

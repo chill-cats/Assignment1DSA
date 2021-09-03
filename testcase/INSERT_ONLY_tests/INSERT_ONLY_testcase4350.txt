@@ -1,0 +1,5 @@
+INSERT a number
+INSERT gfcFS number
+INSERT jH number
+INSERT w4 string
+INSERT fjERay string

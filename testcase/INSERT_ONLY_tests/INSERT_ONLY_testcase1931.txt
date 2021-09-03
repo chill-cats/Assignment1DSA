@@ -1,0 +1,9 @@
+INSERT t number
+INSERT bP number
+INSERT a number
+INSERT cg string
+INSERT isnwKs number
+INSERT gOLHa number
+INSERT fylq string
+INSERT dO9bc string
+INSERT w number

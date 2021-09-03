@@ -1,0 +1,4 @@
+INSERT i number
+INSERT kv string
+INSERT uD number
+INSERT b string

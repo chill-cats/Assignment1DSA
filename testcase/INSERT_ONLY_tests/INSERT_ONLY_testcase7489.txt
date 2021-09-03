@@ -1,0 +1,10 @@
+INSERT cF string
+INSERT wi number
+INSERT y string
+INSERT c number
+INSERT ngM number
+INSERT u string
+INSERT dLknFj number
+INSERT pj number
+INSERT vwB number
+INSERT rWB string

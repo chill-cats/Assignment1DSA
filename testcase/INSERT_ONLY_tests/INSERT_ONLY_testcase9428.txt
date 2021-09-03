@@ -1,0 +1,5 @@
+INSERT dJ number
+INSERT ruamGq string
+INSERT eFvt number
+INSERT gwkV8 number
+INSERT s number

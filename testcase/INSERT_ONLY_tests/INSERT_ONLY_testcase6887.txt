@@ -1,0 +1,6 @@
+INSERT pz string
+INSERT c number
+INSERT x_mh string
+INSERT uvb string
+INSERT kz number
+INSERT fi string

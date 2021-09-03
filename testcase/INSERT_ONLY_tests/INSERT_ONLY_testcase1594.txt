@@ -1,0 +1,14 @@
+INSERT bZ string
+INSERT doj number
+INSERT ru number
+INSERT lRY number
+INSERT ma string
+INSERT wa_EZ8 string
+INSERT u string
+INSERT oz number
+INSERT hR1 string
+INSERT gifm string
+INSERT u number
+INSERT dGW number
+INSERT g number
+INSERT v5fsJ2 number

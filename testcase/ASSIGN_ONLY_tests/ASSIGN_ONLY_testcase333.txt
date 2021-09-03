@@ -1,0 +1,2 @@
+ASSIGN gmibj8 578
+ASSIGN o 479

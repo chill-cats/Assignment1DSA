@@ -1,0 +1,2 @@
+INSERT rV number
+INSERT y_ji string

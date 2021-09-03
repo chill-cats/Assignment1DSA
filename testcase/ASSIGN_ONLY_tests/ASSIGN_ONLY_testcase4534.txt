@@ -1,0 +1,4 @@
+ASSIGN tHZ tHZ
+ASSIGN tpaKa 35
+ASSIGN tpaKa 756
+ASSIGN w dfL

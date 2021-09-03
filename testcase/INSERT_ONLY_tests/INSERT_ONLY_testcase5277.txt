@@ -1,0 +1,4 @@
+INSERT h string
+INSERT dQhL string
+INSERT bBt number
+INSERT vFwu string

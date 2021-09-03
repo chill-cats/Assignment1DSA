@@ -1,0 +1,3 @@
+INSERT k7 number
+INSERT oryiH number
+INSERT cNo3d string

@@ -1,0 +1,16 @@
+INSERT br string
+INSERT bz string
+INSERT n number
+INSERT h string
+INSERT h2icE string
+INSERT i string
+INSERT swZ number
+INSERT s7K1Qz string
+INSERT ihmezl string
+INSERT aB number
+INSERT z string
+INSERT zx number
+INSERT x2tR string
+INSERT u8 number
+INSERT dVmdU string
+INSERT shpSsJ string

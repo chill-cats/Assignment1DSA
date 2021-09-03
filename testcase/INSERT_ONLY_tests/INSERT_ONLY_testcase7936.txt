@@ -1,0 +1,4 @@
+INSERT s6 string
+INSERT o96D string
+INSERT a number
+INSERT nofhbL number

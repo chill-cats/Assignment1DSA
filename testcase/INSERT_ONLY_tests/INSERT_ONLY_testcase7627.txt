@@ -1,0 +1,8 @@
+INSERT wGB number
+INSERT p2 number
+INSERT qV number
+INSERT d52 string
+INSERT q2q6N7 string
+INSERT asF number
+INSERT mJg4z string
+INSERT k number

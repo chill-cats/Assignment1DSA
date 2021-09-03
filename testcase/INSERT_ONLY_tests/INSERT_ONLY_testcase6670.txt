@@ -1,0 +1,7 @@
+INSERT h2 number
+INSERT zn8 number
+INSERT xf number
+INSERT ygi string
+INSERT oUx number
+INSERT yAU number
+INSERT sNr number

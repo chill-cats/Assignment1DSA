@@ -1,0 +1,8 @@
+INSERT z number
+INSERT ghZ string
+INSERT hks61 number
+INSERT kucxW string
+INSERT oBlc number
+INSERT z string
+INSERT acUG string
+INSERT pBA string

@@ -1,0 +1,4 @@
+INSERT o_ number
+INSERT eEY string
+INSERT e string
+INSERT mhtC number

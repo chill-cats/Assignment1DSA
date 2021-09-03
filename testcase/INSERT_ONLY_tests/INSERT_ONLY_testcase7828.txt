@@ -1,0 +1,8 @@
+INSERT f string
+INSERT q number
+INSERT n string
+INSERT scOF string
+INSERT n56S string
+INSERT r number
+INSERT so number
+INSERT k string

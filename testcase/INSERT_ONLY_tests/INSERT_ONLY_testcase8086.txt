@@ -1,0 +1,2 @@
+INSERT y0 number
+INSERT d string

@@ -1,0 +1,2 @@
+ASSIGN m sgg
+ASSIGN qdA 'vbO'

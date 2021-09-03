@@ -1,0 +1,1 @@
+ASSIGN re3G 'R'

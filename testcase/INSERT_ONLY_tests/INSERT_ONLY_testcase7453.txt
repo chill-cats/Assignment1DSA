@@ -1,0 +1,7 @@
+INSERT r44 number
+INSERT bvXB number
+INSERT rKs number
+INSERT hJT number
+INSERT bIcqe string
+INSERT c string
+INSERT vjmPZ number

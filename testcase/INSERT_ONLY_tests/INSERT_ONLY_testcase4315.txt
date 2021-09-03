@@ -1,0 +1,6 @@
+INSERT x string
+INSERT l string
+INSERT oQ number
+INSERT x5Nn string
+INSERT e string
+INSERT m4X95a string

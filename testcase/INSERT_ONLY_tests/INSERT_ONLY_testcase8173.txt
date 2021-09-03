@@ -1,0 +1,2 @@
+INSERT txjiN number
+INSERT kQ string

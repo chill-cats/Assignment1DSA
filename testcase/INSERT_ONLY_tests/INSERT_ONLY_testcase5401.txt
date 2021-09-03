@@ -1,0 +1,12 @@
+INSERT ctF string
+INSERT n8S number
+INSERT pzl number
+INSERT e string
+INSERT k7I number
+INSERT j0J number
+INSERT p9hSFF number
+INSERT xQKK string
+INSERT cQH string
+INSERT x number
+INSERT xAheQ number
+INSERT tvlJ string

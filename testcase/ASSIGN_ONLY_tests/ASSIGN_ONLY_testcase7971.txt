@@ -1,0 +1,2 @@
+ASSIGN tps7rG 'bIV9'
+ASSIGN k 945

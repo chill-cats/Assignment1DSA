@@ -1,0 +1,6 @@
+INSERT a9_h number
+INSERT zc number
+INSERT b4HxD string
+INSERT fVs string
+INSERT s2vb number
+INSERT pKAjS number

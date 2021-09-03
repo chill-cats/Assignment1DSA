@@ -1,0 +1,11 @@
+INSERT lnum string
+INSERT bn string
+INSERT wQL string
+INSERT kJg string
+INSERT l string
+INSERT gjV string
+INSERT v1onTm number
+INSERT l48ktm string
+INSERT v number
+INSERT fBEP number
+INSERT be number

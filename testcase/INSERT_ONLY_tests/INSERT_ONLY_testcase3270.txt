@@ -1,0 +1,11 @@
+INSERT mCFU string
+INSERT ro string
+INSERT xBQR number
+INSERT q string
+INSERT i number
+INSERT mlkb number
+INSERT sfie number
+INSERT tXP8g6 number
+INSERT fBesF string
+INSERT k string
+INSERT dJtz string

@@ -1,0 +1,4 @@
+INSERT yN string
+INSERT mq4 string
+INSERT s string
+INSERT t string

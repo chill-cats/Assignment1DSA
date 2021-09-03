@@ -1,0 +1,10 @@
+INSERT q number
+INSERT g string
+INSERT yE7rV number
+INSERT zBo string
+INSERT vs6t3 number
+INSERT rNB9 string
+INSERT n number
+INSERT pNcK string
+INSERT flwyw string
+INSERT b number

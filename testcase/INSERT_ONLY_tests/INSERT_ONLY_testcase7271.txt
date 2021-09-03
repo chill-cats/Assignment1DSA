@@ -1,0 +1,11 @@
+INSERT s string
+INSERT q string
+INSERT jM5G number
+INSERT b8 number
+INSERT akl number
+INSERT shhE string
+INSERT pWMVb string
+INSERT pC string
+INSERT r string
+INSERT g string
+INSERT a number

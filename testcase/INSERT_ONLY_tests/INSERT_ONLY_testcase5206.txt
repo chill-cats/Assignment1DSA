@@ -1,0 +1,9 @@
+INSERT y number
+INSERT h_Rju string
+INSERT iHh number
+INSERT s6B string
+INSERT w string
+INSERT tyw6 string
+INSERT t number
+INSERT vIw1Sa number
+INSERT d string

@@ -1,0 +1,2 @@
+ASSIGN dH 'qAA'
+ASSIGN dH tnZM

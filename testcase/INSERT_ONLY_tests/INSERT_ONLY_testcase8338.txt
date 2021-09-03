@@ -1,0 +1,8 @@
+INSERT plH string
+INSERT s0nu number
+INSERT hl string
+INSERT dwpud number
+INSERT hwd string
+INSERT kqHas number
+INSERT mzfJ number
+INSERT njGP number

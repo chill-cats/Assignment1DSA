@@ -1,0 +1,1 @@
+ASSIGN kG 'ZU 5'

@@ -1,0 +1,9 @@
+INSERT x8p number
+INSERT g4 number
+INSERT hWRR string
+INSERT bGgT number
+INSERT a number
+INSERT o string
+INSERT dES number
+INSERT jm7bB string
+INSERT p string

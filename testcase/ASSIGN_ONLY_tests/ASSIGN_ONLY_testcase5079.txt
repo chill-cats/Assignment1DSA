@@ -1,0 +1,2 @@
+ASSIGN v 'bcct8'
+ASSIGN u rgwMRK

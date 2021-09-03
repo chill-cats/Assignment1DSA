@@ -1,0 +1,6 @@
+INSERT deIM0 string
+INSERT n number
+INSERT ug string
+INSERT aBDWL string
+INSERT h number
+INSERT vxsgX number

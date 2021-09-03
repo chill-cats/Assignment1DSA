@@ -1,0 +1,2 @@
+ASSIGN bMO sCgpd
+ASSIGN lTG4SF '24XI'

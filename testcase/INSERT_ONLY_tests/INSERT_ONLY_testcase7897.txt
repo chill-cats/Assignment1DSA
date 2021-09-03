@@ -1,0 +1,4 @@
+INSERT zdwz string
+INSERT lrm2HK number
+INSERT p string
+INSERT za number

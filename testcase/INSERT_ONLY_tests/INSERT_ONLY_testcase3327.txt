@@ -1,0 +1,8 @@
+INSERT j2C string
+INSERT y number
+INSERT zZU string
+INSERT s string
+INSERT a string
+INSERT s string
+INSERT nx string
+INSERT ctIP number

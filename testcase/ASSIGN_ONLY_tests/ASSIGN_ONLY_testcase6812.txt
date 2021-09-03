@@ -1,0 +1,3 @@
+ASSIGN ik 709
+ASSIGN v 'ZWN'
+ASSIGN f5JwG qM

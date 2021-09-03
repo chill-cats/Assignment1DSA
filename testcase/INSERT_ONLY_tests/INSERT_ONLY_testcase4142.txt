@@ -1,0 +1,8 @@
+INSERT s string
+INSERT iFyv string
+INSERT spbNA number
+INSERT xDRKuG string
+INSERT bMk3D number
+INSERT qD number
+INSERT e5 string
+INSERT u number

@@ -1,0 +1,5 @@
+INSERT aT8C number
+INSERT m6Eo9 string
+INSERT b0 number
+INSERT avWo string
+INSERT bc string

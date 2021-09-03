@@ -1,0 +1,9 @@
+INSERT v number
+INSERT tBLD string
+INSERT wx number
+INSERT uOL number
+INSERT iJHuEC number
+INSERT l0BOr number
+INSERT t number
+INSERT pXW number
+INSERT aH number

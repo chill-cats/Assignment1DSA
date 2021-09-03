@@ -1,0 +1,8 @@
+INSERT wTy string
+INSERT fnu string
+INSERT we2 string
+INSERT dlQ number
+INSERT gRBqv_ number
+INSERT lUPJm string
+INSERT myhM string
+INSERT yS string

@@ -1,0 +1,10 @@
+INSERT z number
+INSERT lhKS number
+INSERT fM1 string
+INSERT q number
+INSERT qmIc number
+INSERT g93G number
+INSERT uyGZOH number
+INSERT x7 string
+INSERT rFe_k string
+INSERT uV2 string

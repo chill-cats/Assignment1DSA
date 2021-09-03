@@ -1,0 +1,4 @@
+INSERT vINg string
+INSERT wMHy string
+INSERT ae6Z number
+INSERT eMy string

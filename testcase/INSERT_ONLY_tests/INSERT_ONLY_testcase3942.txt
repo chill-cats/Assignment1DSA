@@ -1,0 +1,6 @@
+INSERT yBod number
+INSERT lw string
+INSERT j string
+INSERT aiLq number
+INSERT u1CUA string
+INSERT n string

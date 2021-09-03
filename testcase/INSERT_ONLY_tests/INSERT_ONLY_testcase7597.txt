@@ -1,0 +1,5 @@
+INSERT uSh1 string
+INSERT mFSJ number
+INSERT bjm number
+INSERT k0k number
+INSERT t6ae number

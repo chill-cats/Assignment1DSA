@@ -1,0 +1,2 @@
+INSERT rul0 string
+INSERT xY string

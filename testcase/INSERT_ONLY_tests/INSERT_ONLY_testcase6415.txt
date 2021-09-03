@@ -1,0 +1,11 @@
+INSERT tly string
+INSERT s number
+INSERT f string
+INSERT mNpf string
+INSERT m7fj number
+INSERT j1yZH string
+INSERT t string
+INSERT rU string
+INSERT wP number
+INSERT iOr6p string
+INSERT eevXBh string

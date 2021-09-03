@@ -1,0 +1,3 @@
+ASSIGN hp 'DM3ec'
+ASSIGN u 260
+ASSIGN wjw1ye 0

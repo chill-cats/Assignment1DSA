@@ -1,0 +1,3 @@
+INSERT kaC6W string
+INSERT vAzKiE number
+INSERT hIhY number

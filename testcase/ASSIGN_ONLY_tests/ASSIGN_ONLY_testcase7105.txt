@@ -1,0 +1,4 @@
+ASSIGN kq5N 318
+ASSIGN kHvX '8rB6k'
+ASSIGN vB 748
+ASSIGN kq5N 'ryp'

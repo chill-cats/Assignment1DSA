@@ -1,0 +1,4 @@
+INSERT wUfi string
+INSERT iaQIYF number
+INSERT plaTgj string
+INSERT ym number

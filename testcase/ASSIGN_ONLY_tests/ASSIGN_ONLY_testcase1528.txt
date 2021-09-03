@@ -1,0 +1,4 @@
+ASSIGN ls 'F'
+ASSIGN aTFz '3LJd'
+ASSIGN xi 41
+ASSIGN qv 'JWBiu'

@@ -1,0 +1,2 @@
+ASSIGN kUOFRt 'UMA9'
+ASSIGN do 'v'

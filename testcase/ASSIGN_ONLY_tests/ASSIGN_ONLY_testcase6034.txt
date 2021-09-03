@@ -1,0 +1,3 @@
+ASSIGN vSj8 380
+ASSIGN z 504
+ASSIGN bsgL z

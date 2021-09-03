@@ -1,0 +1,4 @@
+INSERT zh string
+INSERT gPx number
+INSERT p number
+INSERT ugoz8T string

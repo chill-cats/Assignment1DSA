@@ -1,0 +1,4 @@
+INSERT d number
+INSERT pQFkAg number
+INSERT wnAexf number
+INSERT xuKN string

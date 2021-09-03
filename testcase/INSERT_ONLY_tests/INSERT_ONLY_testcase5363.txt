@@ -1,0 +1,7 @@
+INSERT c2Q number
+INSERT mhl8d string
+INSERT q number
+INSERT xl string
+INSERT g58sLH string
+INSERT wNr string
+INSERT py string

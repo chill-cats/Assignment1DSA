@@ -1,0 +1,5 @@
+INSERT att number
+INSERT zu number
+INSERT cYf string
+INSERT cP string
+INSERT kDCmD number

@@ -1,0 +1,8 @@
+INSERT q6 string
+INSERT p number
+INSERT pu number
+INSERT q number
+INSERT hj string
+INSERT nLlCc string
+INSERT xZoO string
+INSERT tek string

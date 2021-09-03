@@ -1,0 +1,3 @@
+INSERT o6p number
+INSERT h_s string
+INSERT ce number

@@ -1,0 +1,4 @@
+INSERT prDNiC number
+INSERT lPTo number
+INSERT wy string
+INSERT dslLck string

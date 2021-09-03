@@ -1,0 +1,2 @@
+ASSIGN tI 128
+ASSIGN msEchC 'TjK'

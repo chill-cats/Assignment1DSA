@@ -1,0 +1,3 @@
+INSERT wk2y number
+INSERT t0Sl string
+INSERT xuF string

@@ -1,0 +1,5 @@
+INSERT cI1 string
+INSERT w7FFCh string
+INSERT faRZE number
+INSERT a1EU string
+INSERT rb number

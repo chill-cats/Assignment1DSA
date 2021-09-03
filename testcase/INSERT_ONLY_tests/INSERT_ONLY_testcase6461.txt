@@ -1,0 +1,6 @@
+INSERT t string
+INSERT qi7A number
+INSERT xDD number
+INSERT p8q8 string
+INSERT yF string
+INSERT l string

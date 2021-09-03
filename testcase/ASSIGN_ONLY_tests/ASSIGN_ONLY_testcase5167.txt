@@ -1,0 +1,3 @@
+ASSIGN in82kB 'JU'
+ASSIGN vbc 783
+ASSIGN vbc 370

@@ -1,0 +1,7 @@
+INSERT q0M number
+INSERT m1F string
+INSERT fFdbz number
+INSERT o number
+INSERT k number
+INSERT o number
+INSERT xJ string

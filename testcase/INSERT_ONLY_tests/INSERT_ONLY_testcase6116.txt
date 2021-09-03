@@ -1,0 +1,8 @@
+INSERT zaz1Q number
+INSERT bMb8r0 string
+INSERT jzvbBG number
+INSERT lD string
+INSERT mtzT string
+INSERT da6M number
+INSERT s number
+INSERT oH number

@@ -1,0 +1,1 @@
+INSERT oC6 string

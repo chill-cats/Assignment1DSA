@@ -1,0 +1,4 @@
+INSERT pEm number
+INSERT w number
+INSERT c9 string
+INSERT sb number

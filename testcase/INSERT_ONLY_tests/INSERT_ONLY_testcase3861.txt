@@ -1,0 +1,15 @@
+INSERT b4C string
+INSERT eAX string
+INSERT m0b1 string
+INSERT y string
+INSERT noD string
+INSERT o string
+INSERT iOOb7 string
+INSERT mgR9VN number
+INSERT xRm number
+INSERT wH number
+INSERT oeRC number
+INSERT uM string
+INSERT o_4 string
+INSERT t5zl1F number
+INSERT g number

@@ -1,0 +1,6 @@
+INSERT n number
+INSERT pqp number
+INSERT obm string
+INSERT sC47 number
+INSERT a6pton string
+INSERT jzBp string

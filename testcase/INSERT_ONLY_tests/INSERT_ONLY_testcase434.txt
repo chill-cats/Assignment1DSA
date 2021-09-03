@@ -1,0 +1,3 @@
+INSERT okuH string
+INSERT loF number
+INSERT io_WR string

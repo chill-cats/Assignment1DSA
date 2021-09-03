@@ -1,0 +1,12 @@
+INSERT bjo number
+INSERT mFY string
+INSERT bDspsp number
+INSERT rKOyCn string
+INSERT k string
+INSERT x number
+INSERT w6U number
+INSERT kZh number
+INSERT tY number
+INSERT jJ number
+INSERT f string
+INSERT sQDykP number

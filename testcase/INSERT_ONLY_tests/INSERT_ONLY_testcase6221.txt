@@ -1,0 +1,7 @@
+INSERT d string
+INSERT pCTA number
+INSERT nl string
+INSERT u2k5G string
+INSERT clN number
+INSERT j number
+INSERT q string

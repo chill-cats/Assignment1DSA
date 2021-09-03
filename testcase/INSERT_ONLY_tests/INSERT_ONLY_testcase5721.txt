@@ -1,0 +1,5 @@
+INSERT hUZ number
+INSERT np number
+INSERT s number
+INSERT iRqMRu string
+INSERT k4 number

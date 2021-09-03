@@ -1,0 +1,11 @@
+INSERT g string
+INSERT kr string
+INSERT sCVAEa string
+INSERT umd string
+INSERT uk number
+INSERT kj number
+INSERT mL1 number
+INSERT sp35 number
+INSERT vx string
+INSERT a string
+INSERT eL6Z string

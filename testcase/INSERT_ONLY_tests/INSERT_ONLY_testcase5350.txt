@@ -1,0 +1,4 @@
+INSERT lO string
+INSERT h number
+INSERT eQ number
+INSERT gV6cLs string

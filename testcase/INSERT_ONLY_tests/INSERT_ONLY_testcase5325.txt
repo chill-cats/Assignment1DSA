@@ -1,0 +1,3 @@
+INSERT r9K5K4 number
+INSERT qI0rCC number
+INSERT t string

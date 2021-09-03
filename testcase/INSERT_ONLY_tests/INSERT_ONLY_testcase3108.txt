@@ -1,0 +1,8 @@
+INSERT bdma number
+INSERT rNTflb number
+INSERT kL9pbb string
+INSERT uTc string
+INSERT pF1_ string
+INSERT r number
+INSERT bl number
+INSERT hn string

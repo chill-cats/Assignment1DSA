@@ -1,0 +1,3 @@
+ASSIGN m0 399
+ASSIGN unggcW 'wKLdn'
+ASSIGN e 'Ufdeh'

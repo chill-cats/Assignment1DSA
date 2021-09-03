@@ -1,0 +1,2 @@
+ASSIGN z7 'l'
+ASSIGN d 1156

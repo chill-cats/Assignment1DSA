@@ -1,0 +1,9 @@
+INSERT b number
+INSERT w number
+INSERT pD string
+INSERT fX number
+INSERT x9 string
+INSERT wkc2bF number
+INSERT sHV string
+INSERT mCa5Nk string
+INSERT k string

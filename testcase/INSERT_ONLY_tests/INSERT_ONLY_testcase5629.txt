@@ -1,0 +1,3 @@
+INSERT y number
+INSERT qd number
+INSERT n number

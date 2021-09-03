@@ -1,0 +1,2 @@
+ASSIGN g7BmC x
+ASSIGN pg 967

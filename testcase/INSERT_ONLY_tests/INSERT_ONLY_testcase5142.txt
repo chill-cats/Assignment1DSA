@@ -1,0 +1,8 @@
+INSERT vv0l number
+INSERT uDfxB number
+INSERT y0 number
+INSERT da string
+INSERT cyD string
+INSERT q number
+INSERT r string
+INSERT t string

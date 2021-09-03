@@ -1,0 +1,3 @@
+INSERT hPeh9w number
+INSERT mkYe string
+INSERT ff number

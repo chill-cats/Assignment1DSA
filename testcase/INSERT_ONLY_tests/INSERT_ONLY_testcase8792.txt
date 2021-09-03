@@ -1,0 +1,5 @@
+INSERT k3 number
+INSERT q number
+INSERT uIQTsv string
+INSERT w number
+INSERT hjSAp string

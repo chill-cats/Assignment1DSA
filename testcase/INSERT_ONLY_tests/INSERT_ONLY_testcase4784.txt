@@ -1,0 +1,3 @@
+INSERT dT3 string
+INSERT wEEWI string
+INSERT kd number

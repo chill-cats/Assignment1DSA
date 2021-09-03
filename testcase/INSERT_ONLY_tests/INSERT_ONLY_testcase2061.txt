@@ -1,0 +1,10 @@
+INSERT eE string
+INSERT zw1A number
+INSERT s number
+INSERT mF7M string
+INSERT p_nFHD number
+INSERT l string
+INSERT r string
+INSERT s string
+INSERT h3 number
+INSERT k number

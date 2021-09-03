@@ -1,0 +1,6 @@
+INSERT o number
+INSERT ymy string
+INSERT pu string
+INSERT oj string
+INSERT v number
+INSERT i6K string

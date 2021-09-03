@@ -1,0 +1,10 @@
+INSERT lU number
+INSERT lSf string
+INSERT x number
+INSERT f85Ge number
+INSERT dhEYs number
+INSERT hg number
+INSERT g2_GEz string
+INSERT o9w number
+INSERT bQLg1 number
+INSERT f string

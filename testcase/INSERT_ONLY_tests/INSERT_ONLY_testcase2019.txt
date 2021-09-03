@@ -1,0 +1,4 @@
+INSERT fi string
+INSERT u number
+INSERT nzS number
+INSERT t number

@@ -1,0 +1,14 @@
+INSERT p string
+INSERT v number
+INSERT iAbL_U number
+INSERT biX7f number
+INSERT rySR string
+INSERT qV string
+INSERT zz number
+INSERT l string
+INSERT dAY string
+INSERT hBqgXp string
+INSERT hsVe6E string
+INSERT pr1G number
+INSERT el string
+INSERT vc number

@@ -1,0 +1,2 @@
+ASSIGN w7g '7CV2'
+ASSIGN dOY 'J9kwW'

@@ -1,0 +1,2 @@
+ASSIGN ckGMC d
+ASSIGN xansro d

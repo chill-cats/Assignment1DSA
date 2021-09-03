@@ -1,0 +1,3 @@
+ASSIGN m kOS
+ASSIGN hfd 68
+ASSIGN trC 'I'

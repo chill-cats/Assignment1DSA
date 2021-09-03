@@ -1,0 +1,4 @@
+INSERT wh string
+INSERT n string
+INSERT qa string
+INSERT mEXYE7 number

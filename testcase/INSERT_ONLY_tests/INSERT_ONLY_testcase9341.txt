@@ -1,0 +1,5 @@
+INSERT r number
+INSERT s string
+INSERT kr string
+INSERT xpQl number
+INSERT sUIKp string

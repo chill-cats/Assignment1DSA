@@ -1,0 +1,14 @@
+INSERT owl4LL string
+INSERT oC string
+INSERT p string
+INSERT a number
+INSERT a9 string
+INSERT k1xZs number
+INSERT auUB string
+INSERT mcrj string
+INSERT j number
+INSERT nBJD number
+INSERT lp number
+INSERT cOhX number
+INSERT v2_h string
+INSERT quXIgh number

@@ -1,0 +1,8 @@
+INSERT v string
+INSERT v string
+INSERT xXS number
+INSERT fty string
+INSERT g6Hfh0 number
+INSERT w3U8e string
+INSERT x8Iam number
+INSERT ujNiF string

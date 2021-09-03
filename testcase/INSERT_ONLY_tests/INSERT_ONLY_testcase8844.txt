@@ -1,0 +1,7 @@
+INSERT l number
+INSERT pGW number
+INSERT bdu4 number
+INSERT uY7 string
+INSERT yYwy string
+INSERT pu string
+INSERT f number

@@ -1,0 +1,2 @@
+ASSIGN k k
+ASSIGN rPoA '7d'

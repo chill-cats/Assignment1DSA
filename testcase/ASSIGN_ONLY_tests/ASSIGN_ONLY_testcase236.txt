@@ -1,0 +1,2 @@
+ASSIGN ipk 1078
+ASSIGN q 741

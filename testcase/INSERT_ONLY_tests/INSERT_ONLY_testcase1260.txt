@@ -1,0 +1,16 @@
+INSERT bWP number
+INSERT i number
+INSERT hha string
+INSERT feoj string
+INSERT x number
+INSERT snr7 number
+INSERT jS number
+INSERT p number
+INSERT jf1GnZ number
+INSERT iD9t number
+INSERT vvhArB number
+INSERT g string
+INSERT qPe number
+INSERT avZ9o number
+INSERT x number
+INSERT xmo string

@@ -1,0 +1,3 @@
+INSERT eyeTr0 number
+INSERT o number
+INSERT e string

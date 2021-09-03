@@ -1,0 +1,2 @@
+ASSIGN hk '0'
+ASSIGN asd 644

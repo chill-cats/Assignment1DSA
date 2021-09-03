@@ -1,0 +1,3 @@
+ASSIGN uPV 'phh'
+ASSIGN di ' iZX'
+ASSIGN frLD 700

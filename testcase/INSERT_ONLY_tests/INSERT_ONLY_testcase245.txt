@@ -1,0 +1,8 @@
+INSERT gem string
+INSERT oV string
+INSERT iO string
+INSERT nWDI string
+INSERT yA2UYU number
+INSERT v string
+INSERT z number
+INSERT uD_ number

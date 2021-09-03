@@ -1,0 +1,6 @@
+INSERT rNby1 number
+INSERT kZ0 number
+INSERT qZ number
+INSERT k string
+INSERT z string
+INSERT sRcu number

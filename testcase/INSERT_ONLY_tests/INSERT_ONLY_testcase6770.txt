@@ -1,0 +1,3 @@
+INSERT sNJ number
+INSERT jSe0 number
+INSERT d string

@@ -1,0 +1,5 @@
+INSERT eVgMp8 number
+INSERT zaN number
+INSERT k string
+INSERT o number
+INSERT mxu number

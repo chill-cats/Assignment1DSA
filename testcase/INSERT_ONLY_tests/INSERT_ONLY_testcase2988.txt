@@ -1,0 +1,3 @@
+INSERT esF string
+INSERT rIrN6 number
+INSERT gCmFpH string

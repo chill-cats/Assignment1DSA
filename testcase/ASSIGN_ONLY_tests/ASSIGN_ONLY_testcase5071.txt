@@ -1,0 +1,3 @@
+ASSIGN r 'v'
+ASSIGN u4K r
+ASSIGN c doZo

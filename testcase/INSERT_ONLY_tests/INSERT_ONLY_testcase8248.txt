@@ -1,0 +1,7 @@
+INSERT i number
+INSERT tMF number
+INSERT bW number
+INSERT jq number
+INSERT abiUo string
+INSERT c0Axrh string
+INSERT mA_ number

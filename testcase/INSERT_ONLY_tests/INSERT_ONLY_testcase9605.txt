@@ -1,0 +1,11 @@
+INSERT dKg string
+INSERT k number
+INSERT m string
+INSERT e string
+INSERT mr number
+INSERT eyHRvP string
+INSERT y1uL string
+INSERT yOY string
+INSERT op number
+INSERT w string
+INSERT zrgw string

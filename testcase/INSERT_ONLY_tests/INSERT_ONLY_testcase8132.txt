@@ -1,0 +1,12 @@
+INSERT r number
+INSERT c string
+INSERT pXFpBk string
+INSERT mE9 number
+INSERT hJ3BeK string
+INSERT hFUw number
+INSERT kc number
+INSERT i number
+INSERT kCBxAM number
+INSERT m7It string
+INSERT a number
+INSERT zjA number

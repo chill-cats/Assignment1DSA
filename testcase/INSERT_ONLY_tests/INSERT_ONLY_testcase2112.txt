@@ -1,0 +1,4 @@
+INSERT vsI number
+INSERT d0S number
+INSERT li string
+INSERT hJWWt string

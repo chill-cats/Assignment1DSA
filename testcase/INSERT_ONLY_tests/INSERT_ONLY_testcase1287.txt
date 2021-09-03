@@ -1,0 +1,4 @@
+INSERT qhxd number
+INSERT z7 string
+INSERT j number
+INSERT vg_ZCL number

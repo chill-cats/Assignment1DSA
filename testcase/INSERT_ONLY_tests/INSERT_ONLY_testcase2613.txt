@@ -1,0 +1,7 @@
+INSERT dm string
+INSERT g3 number
+INSERT dRmn string
+INSERT m0NnnO string
+INSERT gsOO_r string
+INSERT l8f number
+INSERT mu_C string

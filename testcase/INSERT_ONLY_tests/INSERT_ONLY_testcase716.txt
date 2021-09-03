@@ -1,0 +1,10 @@
+INSERT c number
+INSERT dQ number
+INSERT q8pF5 string
+INSERT fB number
+INSERT rRL number
+INSERT x string
+INSERT lsxuG number
+INSERT p1 number
+INSERT lSW_Eo number
+INSERT j0Zn number

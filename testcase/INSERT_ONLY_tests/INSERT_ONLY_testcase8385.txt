@@ -1,0 +1,6 @@
+INSERT vv4g2M string
+INSERT csE7O string
+INSERT r string
+INSERT aA number
+INSERT zB4 string
+INSERT mE number

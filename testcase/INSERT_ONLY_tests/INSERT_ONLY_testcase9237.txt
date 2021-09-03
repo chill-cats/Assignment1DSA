@@ -1,0 +1,9 @@
+INSERT c1 number
+INSERT cXRQ number
+INSERT p8 string
+INSERT wxnf number
+INSERT ke number
+INSERT c string
+INSERT j string
+INSERT ypBqEl number
+INSERT vwjMYV string

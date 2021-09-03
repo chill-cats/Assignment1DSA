@@ -1,0 +1,5 @@
+INSERT mO4 number
+INSERT tz string
+INSERT i string
+INSERT qs7S string
+INSERT w0 string

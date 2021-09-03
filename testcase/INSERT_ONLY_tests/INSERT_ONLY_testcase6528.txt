@@ -1,0 +1,15 @@
+INSERT p_KS number
+INSERT fm4P3m number
+INSERT k number
+INSERT gS string
+INSERT eH string
+INSERT tABLKG number
+INSERT jEI string
+INSERT tPq number
+INSERT gAo string
+INSERT oAUzvl number
+INSERT hGS3 string
+INSERT mHD number
+INSERT f number
+INSERT g string
+INSERT cH string

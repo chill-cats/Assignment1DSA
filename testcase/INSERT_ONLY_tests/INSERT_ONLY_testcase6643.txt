@@ -1,0 +1,4 @@
+INSERT aF_m number
+INSERT k7oO string
+INSERT rR string
+INSERT lyC number

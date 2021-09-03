@@ -1,0 +1,4 @@
+INSERT k string
+INSERT t number
+INSERT cQZz_ string
+INSERT mtYt string

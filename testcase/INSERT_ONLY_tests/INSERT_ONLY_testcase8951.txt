@@ -1,0 +1,10 @@
+INSERT s number
+INSERT f2X number
+INSERT hrO number
+INSERT cfF string
+INSERT oc04kn string
+INSERT iTTi4 number
+INSERT z number
+INSERT s string
+INSERT uHAnh string
+INSERT b number

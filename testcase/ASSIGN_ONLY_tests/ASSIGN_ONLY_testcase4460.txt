@@ -1,0 +1,2 @@
+ASSIGN z6 'fAW'
+ASSIGN iom '7zU57'

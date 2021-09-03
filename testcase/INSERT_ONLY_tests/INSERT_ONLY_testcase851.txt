@@ -1,0 +1,9 @@
+INSERT rT string
+INSERT dam string
+INSERT cxgZ number
+INSERT bgN1T number
+INSERT hf_5d string
+INSERT yDyw7M number
+INSERT fg string
+INSERT hxIN string
+INSERT yT4 string

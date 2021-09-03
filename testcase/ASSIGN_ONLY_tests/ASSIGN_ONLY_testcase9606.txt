@@ -1,0 +1,2 @@
+ASSIGN tVirG 'aNGpt'
+ASSIGN xb tVirG

@@ -1,0 +1,14 @@
+INSERT k string
+INSERT d9B string
+INSERT qxM number
+INSERT q string
+INSERT i number
+INSERT b number
+INSERT kS string
+INSERT l number
+INSERT utB number
+INSERT tp string
+INSERT wkADbP number
+INSERT u4ur number
+INSERT h number
+INSERT a3 string

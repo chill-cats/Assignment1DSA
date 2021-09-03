@@ -1,0 +1,6 @@
+INSERT wnj number
+INSERT q56Cl string
+INSERT xzG number
+INSERT gb number
+INSERT wmoZy number
+INSERT tu6 string

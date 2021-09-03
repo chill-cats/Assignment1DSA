@@ -1,0 +1,5 @@
+INSERT zl number
+INSERT a7pB string
+INSERT yK number
+INSERT x string
+INSERT zkeuN number

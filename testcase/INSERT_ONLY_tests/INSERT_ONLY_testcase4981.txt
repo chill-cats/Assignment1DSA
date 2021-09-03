@@ -1,0 +1,13 @@
+INSERT wa3 string
+INSERT f string
+INSERT orQ7 number
+INSERT qpBUO string
+INSERT qpCU3 string
+INSERT tDD string
+INSERT pN2 string
+INSERT y8rN number
+INSERT eiK number
+INSERT zNhB number
+INSERT mkJMY6 number
+INSERT mAEm string
+INSERT t_ string

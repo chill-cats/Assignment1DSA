@@ -1,0 +1,5 @@
+INSERT tQUxoe string
+INSERT a number
+INSERT pONk number
+INSERT i number
+INSERT k_Il string

@@ -1,0 +1,12 @@
+INSERT k string
+INSERT fL string
+INSERT cy5 number
+INSERT pAU2x2 string
+INSERT at string
+INSERT uf number
+INSERT hUje string
+INSERT wbm number
+INSERT vKVmk string
+INSERT lGEQb number
+INSERT hy4 number
+INSERT w number

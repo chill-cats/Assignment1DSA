@@ -1,0 +1,15 @@
+INSERT b number
+INSERT j string
+INSERT s8V6h number
+INSERT k string
+INSERT shsN string
+INSERT n6s number
+INSERT fThql string
+INSERT hNTEd number
+INSERT mnqCd number
+INSERT ra8 number
+INSERT rGh number
+INSERT mP number
+INSERT kEiA string
+INSERT wD number
+INSERT h string

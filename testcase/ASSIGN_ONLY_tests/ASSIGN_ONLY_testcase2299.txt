@@ -1,0 +1,2 @@
+ASSIGN bGIN_W 'w'
+ASSIGN tt 'l'

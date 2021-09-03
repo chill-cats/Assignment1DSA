@@ -1,0 +1,15 @@
+INSERT e number
+INSERT e string
+INSERT l string
+INSERT sL string
+INSERT s7 string
+INSERT qZ20 number
+INSERT u8 number
+INSERT dbj6 number
+INSERT madt string
+INSERT vvifo string
+INSERT w number
+INSERT n1 number
+INSERT wwQL string
+INSERT l number
+INSERT lVicWO string

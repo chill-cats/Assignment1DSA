@@ -1,0 +1,2 @@
+ASSIGN a5 'Q'
+ASSIGN g3 'HB'

@@ -1,0 +1,2 @@
+ASSIGN l4UMI 'dDbsP'
+ASSIGN ipt 761

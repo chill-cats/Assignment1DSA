@@ -1,0 +1,2 @@
+ASSIGN num 1002
+ASSIGN cu_e 'rXHx'

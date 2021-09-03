@@ -1,0 +1,16 @@
+INSERT p number
+INSERT gPol0a number
+INSERT aHCP number
+INSERT h8POrE string
+INSERT k string
+INSERT fZ8a number
+INSERT kDus number
+INSERT dPZ number
+INSERT tuX_lC number
+INSERT d0Mcgw number
+INSERT qdz string
+INSERT x string
+INSERT ePJ string
+INSERT i_Ld string
+INSERT z string
+INSERT d3NE number

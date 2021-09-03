@@ -1,0 +1,7 @@
+INSERT xj number
+INSERT aHBLy string
+INSERT e0l number
+INSERT mc string
+INSERT zg string
+INSERT ph48 number
+INSERT ieU string

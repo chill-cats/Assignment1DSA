@@ -1,0 +1,4 @@
+INSERT o string
+INSERT a number
+INSERT v number
+INSERT u string

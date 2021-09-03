@@ -1,0 +1,3 @@
+ASSIGN aRdSqr 33
+ASSIGN r3DC 'Kx'
+ASSIGN aRdSqr 672

@@ -1,0 +1,2 @@
+ASSIGN bKn_Zi 299
+ASSIGN bKn_Zi 'RTV'

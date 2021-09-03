@@ -1,0 +1,7 @@
+INSERT pJ number
+INSERT fQuI1A number
+INSERT oU_0TQ string
+INSERT pvcsib number
+INSERT s140 number
+INSERT qb number
+INSERT y number

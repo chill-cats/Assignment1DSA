@@ -1,0 +1,6 @@
+INSERT kGk string
+INSERT reE string
+INSERT ug08 number
+INSERT cs1PH string
+INSERT h number
+INSERT zbfBN_ number

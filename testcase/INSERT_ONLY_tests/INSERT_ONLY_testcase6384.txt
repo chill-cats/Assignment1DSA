@@ -1,0 +1,17 @@
+INSERT r number
+INSERT sd1 string
+INSERT rX number
+INSERT hQdsfn string
+INSERT rzp number
+INSERT w number
+INSERT jW string
+INSERT h6h number
+INSERT tkPloj number
+INSERT zwCmMV number
+INSERT p3 number
+INSERT mRD number
+INSERT l5o number
+INSERT jK7 string
+INSERT q_ string
+INSERT viGs number
+INSERT xKi7CS string

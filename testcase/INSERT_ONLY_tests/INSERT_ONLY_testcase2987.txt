@@ -1,0 +1,11 @@
+INSERT r number
+INSERT x0 string
+INSERT oz number
+INSERT ae number
+INSERT e string
+INSERT c7sfm number
+INSERT z number
+INSERT iBV string
+INSERT cgA number
+INSERT gp string
+INSERT oIa string

@@ -1,0 +1,6 @@
+INSERT v number
+INSERT mnfWk string
+INSERT ro number
+INSERT rdY2 number
+INSERT ftxML string
+INSERT d string

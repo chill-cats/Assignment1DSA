@@ -1,0 +1,2 @@
+INSERT md0 string
+INSERT ed1I number

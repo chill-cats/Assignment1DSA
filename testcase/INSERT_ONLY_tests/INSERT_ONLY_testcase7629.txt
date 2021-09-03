@@ -1,0 +1,8 @@
+INSERT sm6 number
+INSERT ncy number
+INSERT aPi string
+INSERT dm string
+INSERT pQ9hR string
+INSERT g number
+INSERT v string
+INSERT r string

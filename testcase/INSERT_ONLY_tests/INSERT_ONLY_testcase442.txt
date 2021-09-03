@@ -1,0 +1,5 @@
+INSERT tcll number
+INSERT kffiWH string
+INSERT sx number
+INSERT lPTP string
+INSERT zMp number

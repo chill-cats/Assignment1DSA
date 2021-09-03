@@ -1,0 +1,3 @@
+ASSIGN jtn 'HR'
+ASSIGN dQaN_ gkXE
+ASSIGN xkUKm 1189

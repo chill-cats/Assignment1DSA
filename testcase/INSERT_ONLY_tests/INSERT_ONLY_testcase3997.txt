@@ -1,0 +1,5 @@
+INSERT cHK number
+INSERT tQYx string
+INSERT oz number
+INSERT nid33 string
+INSERT m_ string

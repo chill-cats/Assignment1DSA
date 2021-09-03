@@ -1,0 +1,7 @@
+INSERT tl number
+INSERT yago string
+INSERT pegkA string
+INSERT wN number
+INSERT cteUq string
+INSERT p47 number
+INSERT y number

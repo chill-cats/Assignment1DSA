@@ -1,0 +1,2 @@
+ASSIGN e4 svb3
+ASSIGN rw 'vN5M'

@@ -1,0 +1,2 @@
+ASSIGN yg 'EAC'
+ASSIGN bqA 640

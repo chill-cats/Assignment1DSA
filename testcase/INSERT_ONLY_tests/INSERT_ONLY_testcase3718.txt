@@ -1,0 +1,13 @@
+INSERT bk number
+INSERT s string
+INSERT jZE number
+INSERT p string
+INSERT f number
+INSERT p number
+INSERT iyJ string
+INSERT g string
+INSERT uyYDKM number
+INSERT eH string
+INSERT h4H3 string
+INSERT j2 string
+INSERT eoG6 string

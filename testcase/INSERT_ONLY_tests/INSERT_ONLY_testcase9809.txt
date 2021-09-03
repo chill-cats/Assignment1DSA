@@ -1,0 +1,6 @@
+INSERT r string
+INSERT ib string
+INSERT wDUt number
+INSERT n6LW number
+INSERT wo2 string
+INSERT gkZh number

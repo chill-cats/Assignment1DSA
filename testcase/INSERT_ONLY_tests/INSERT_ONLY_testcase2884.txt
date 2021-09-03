@@ -1,0 +1,7 @@
+INSERT x1 number
+INSERT pWpk number
+INSERT p5_Kip number
+INSERT m_ string
+INSERT k number
+INSERT z number
+INSERT tLJ string

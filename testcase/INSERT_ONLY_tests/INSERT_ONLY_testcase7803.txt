@@ -1,0 +1,13 @@
+INSERT b number
+INSERT bP8 string
+INSERT fMEq string
+INSERT cNy string
+INSERT kY string
+INSERT nf14 number
+INSERT l4rVp string
+INSERT rZp number
+INSERT zbuL8N string
+INSERT f0 string
+INSERT e number
+INSERT i string
+INSERT olqgG number

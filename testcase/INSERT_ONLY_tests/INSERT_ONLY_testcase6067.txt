@@ -1,0 +1,2 @@
+INSERT a string
+INSERT gw string

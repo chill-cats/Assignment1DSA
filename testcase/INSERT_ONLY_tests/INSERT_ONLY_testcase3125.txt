@@ -1,0 +1,4 @@
+INSERT nTU_F number
+INSERT fzO0z string
+INSERT g string
+INSERT l9y string

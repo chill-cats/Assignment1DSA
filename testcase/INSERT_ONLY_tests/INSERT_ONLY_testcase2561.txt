@@ -1,0 +1,5 @@
+INSERT iXT8dD string
+INSERT jkPr number
+INSERT ssz number
+INSERT pDa string
+INSERT p4 string

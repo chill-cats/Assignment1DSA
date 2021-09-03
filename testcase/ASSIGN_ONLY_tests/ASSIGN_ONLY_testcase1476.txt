@@ -1,0 +1,3 @@
+ASSIGN d '95Z'
+ASSIGN a 623
+ASSIGN k 't'

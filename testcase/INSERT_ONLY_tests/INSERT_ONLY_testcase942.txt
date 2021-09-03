@@ -1,0 +1,6 @@
+INSERT hY14YW number
+INSERT l8bJ string
+INSERT y string
+INSERT b string
+INSERT eSs string
+INSERT ozX number

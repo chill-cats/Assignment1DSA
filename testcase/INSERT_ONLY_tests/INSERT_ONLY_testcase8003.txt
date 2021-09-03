@@ -1,0 +1,5 @@
+INSERT zHh string
+INSERT b5Hex number
+INSERT e6 number
+INSERT nF number
+INSERT oU number

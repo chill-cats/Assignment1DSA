@@ -1,0 +1,1 @@
+ASSIGN n7 'o2'

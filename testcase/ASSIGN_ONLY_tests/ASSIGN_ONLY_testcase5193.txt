@@ -1,0 +1,2 @@
+ASSIGN xS 'Voi'
+ASSIGN akhyA akhyA

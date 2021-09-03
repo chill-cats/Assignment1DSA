@@ -1,0 +1,9 @@
+INSERT cr string
+INSERT k96 string
+INSERT xyNoct number
+INSERT vHhG02 number
+INSERT dyVs string
+INSERT dxZW string
+INSERT w_w number
+INSERT z1z number
+INSERT i87 string

@@ -1,0 +1,7 @@
+INSERT z number
+INSERT j_ number
+INSERT uQ string
+INSERT vJPkn string
+INSERT m1nF number
+INSERT uUqnSR number
+INSERT nvq string

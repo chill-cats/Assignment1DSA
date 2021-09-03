@@ -1,0 +1,7 @@
+INSERT q string
+INSERT o13K string
+INSERT a number
+INSERT x number
+INSERT ibD string
+INSERT dQ string
+INSERT x string

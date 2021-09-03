@@ -1,0 +1,2 @@
+ASSIGN kG 1159
+ASSIGN kG tgJw

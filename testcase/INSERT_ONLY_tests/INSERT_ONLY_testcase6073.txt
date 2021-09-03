@@ -1,0 +1,5 @@
+INSERT wnOi2 number
+INSERT fQSuL string
+INSERT v42Iz string
+INSERT v string
+INSERT u_7apg number

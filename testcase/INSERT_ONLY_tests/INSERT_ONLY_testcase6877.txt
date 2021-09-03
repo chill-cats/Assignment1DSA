@@ -1,0 +1,7 @@
+INSERT wB number
+INSERT dc number
+INSERT c string
+INSERT aglpks number
+INSERT d string
+INSERT yMcg string
+INSERT q string

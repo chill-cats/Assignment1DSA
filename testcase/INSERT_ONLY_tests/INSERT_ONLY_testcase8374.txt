@@ -1,0 +1,4 @@
+INSERT h string
+INSERT mY string
+INSERT fl1 number
+INSERT d number

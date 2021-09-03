@@ -1,0 +1,2 @@
+ASSIGN hqSjtQ hqSjtQ
+ASSIGN q 'E'

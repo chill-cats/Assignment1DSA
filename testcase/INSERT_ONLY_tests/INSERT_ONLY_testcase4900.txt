@@ -1,0 +1,12 @@
+INSERT dSTB number
+INSERT fA string
+INSERT gXMK string
+INSERT vE0 string
+INSERT t number
+INSERT wGSN0W number
+INSERT gIS string
+INSERT f number
+INSERT dB_Hi number
+INSERT e string
+INSERT skeY4 number
+INSERT d number

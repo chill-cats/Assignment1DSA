@@ -1,0 +1,2 @@
+INSERT b9t977 string
+INSERT bLvpL number

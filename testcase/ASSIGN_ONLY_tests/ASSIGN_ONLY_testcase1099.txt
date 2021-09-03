@@ -1,0 +1,3 @@
+ASSIGN pw3G 1003
+ASSIGN t t
+ASSIGN i4y2L '1sprC'

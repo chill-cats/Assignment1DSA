@@ -1,0 +1,7 @@
+INSERT hr6M1 string
+INSERT hw number
+INSERT cArU string
+INSERT i9_ number
+INSERT jbqo string
+INSERT lK4f string
+INSERT t8 number

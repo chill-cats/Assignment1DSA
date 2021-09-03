@@ -1,0 +1,3 @@
+ASSIGN kFPUV 'Pc'
+ASSIGN l kFPUV
+ASSIGN g9_ g9_

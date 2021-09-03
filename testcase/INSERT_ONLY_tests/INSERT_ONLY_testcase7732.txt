@@ -1,0 +1,14 @@
+INSERT tQI string
+INSERT j string
+INSERT y number
+INSERT yutf string
+INSERT p string
+INSERT dwQbUp number
+INSERT l number
+INSERT pv6 string
+INSERT hddOz_ number
+INSERT kkVsgq string
+INSERT q6 number
+INSERT aqrzd number
+INSERT zC number
+INSERT hlqr string

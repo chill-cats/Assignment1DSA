@@ -1,0 +1,4 @@
+ASSIGN dsPjK y5
+ASSIGN prvMy 'JC'
+ASSIGN gccBU4 'K0s'
+ASSIGN r 960

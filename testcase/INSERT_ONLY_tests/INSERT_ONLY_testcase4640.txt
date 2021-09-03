@@ -1,0 +1,4 @@
+INSERT jqh0 number
+INSERT v number
+INSERT nZ string
+INSERT l number

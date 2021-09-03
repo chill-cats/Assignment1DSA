@@ -1,0 +1,3 @@
+INSERT fpA number
+INSERT auIjWB string
+INSERT qZ14F string

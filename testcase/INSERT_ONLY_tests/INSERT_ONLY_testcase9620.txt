@@ -1,0 +1,4 @@
+INSERT lxYJ number
+INSERT yov string
+INSERT pX string
+INSERT ug9X number

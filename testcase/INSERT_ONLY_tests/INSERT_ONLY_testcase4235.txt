@@ -1,0 +1,11 @@
+INSERT w number
+INSERT dvk number
+INSERT cB number
+INSERT m string
+INSERT j number
+INSERT b number
+INSERT gVQoa string
+INSERT cRbGn number
+INSERT jc number
+INSERT x string
+INSERT xK32 string

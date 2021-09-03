@@ -1,0 +1,4 @@
+ASSIGN jipAe 'weOnp'
+ASSIGN f 'V'
+ASSIGN qzacv jipAe
+ASSIGN rCTe 127

@@ -1,0 +1,2 @@
+ASSIGN afK zbs
+ASSIGN zbs 134

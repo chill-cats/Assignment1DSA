@@ -1,0 +1,3 @@
+ASSIGN rV2 692
+ASSIGN w '6dez'
+ASSIGN w cLLH

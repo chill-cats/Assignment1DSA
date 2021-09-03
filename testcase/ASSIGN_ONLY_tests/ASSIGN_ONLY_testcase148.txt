@@ -1,0 +1,2 @@
+ASSIGN nrGi1 r
+ASSIGN r tb2

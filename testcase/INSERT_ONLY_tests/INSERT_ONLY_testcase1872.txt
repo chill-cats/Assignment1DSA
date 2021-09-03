@@ -1,0 +1,11 @@
+INSERT eC number
+INSERT snemq6 string
+INSERT gpRTCP number
+INSERT g string
+INSERT cQPH1N number
+INSERT n number
+INSERT qsdK number
+INSERT uimI string
+INSERT im number
+INSERT vUq string
+INSERT cU string

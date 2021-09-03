@@ -1,0 +1,3 @@
+ASSIGN hO8e 'm'
+ASSIGN k 141
+ASSIGN t 224

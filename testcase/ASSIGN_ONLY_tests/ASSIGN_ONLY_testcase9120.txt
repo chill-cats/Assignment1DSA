@@ -1,0 +1,3 @@
+ASSIGN nDM 'MIiz'
+ASSIGN pWrOU 'pmDFr'
+ASSIGN a u

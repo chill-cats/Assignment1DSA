@@ -1,0 +1,2 @@
+ASSIGN plA '0'
+ASSIGN ndPI 'absC'

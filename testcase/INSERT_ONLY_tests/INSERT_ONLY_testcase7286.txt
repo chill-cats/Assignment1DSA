@@ -1,0 +1,5 @@
+INSERT fKdw string
+INSERT be string
+INSERT f string
+INSERT elqt number
+INSERT a8P3 number

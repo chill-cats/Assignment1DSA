@@ -1,0 +1,2 @@
+ASSIGN bF 'Huokg'
+ASSIGN o 250

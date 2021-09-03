@@ -1,0 +1,2 @@
+ASSIGN c8_d md
+ASSIGN c8_d 'E'

@@ -1,0 +1,11 @@
+INSERT w string
+INSERT m3Hr number
+INSERT jZ string
+INSERT qtc number
+INSERT y string
+INSERT bonAVr string
+INSERT w number
+INSERT o1C8 number
+INSERT p number
+INSERT jdor string
+INSERT xQ7iy string

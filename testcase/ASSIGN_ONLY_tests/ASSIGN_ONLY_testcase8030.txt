@@ -1,0 +1,2 @@
+ASSIGN uAo '6C'
+ASSIGN r_P 'LGiz'

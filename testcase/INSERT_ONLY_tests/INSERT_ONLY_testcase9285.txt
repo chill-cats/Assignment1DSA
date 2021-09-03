@@ -1,0 +1,8 @@
+INSERT fc string
+INSERT xei string
+INSERT pgD3 number
+INSERT oQXIP number
+INSERT iL string
+INSERT tnsF number
+INSERT dLS8 string
+INSERT teM0 number

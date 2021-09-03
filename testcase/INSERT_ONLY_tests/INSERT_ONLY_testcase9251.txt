@@ -1,0 +1,12 @@
+INSERT iee string
+INSERT l number
+INSERT i number
+INSERT e number
+INSERT l06nW number
+INSERT i number
+INSERT rhxY string
+INSERT r1GK string
+INSERT r5UgK string
+INSERT gLTVW number
+INSERT c7jJTP string
+INSERT nTGK_ string

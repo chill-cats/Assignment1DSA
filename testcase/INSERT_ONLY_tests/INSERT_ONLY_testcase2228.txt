@@ -1,0 +1,6 @@
+INSERT zZkR string
+INSERT mct number
+INSERT o string
+INSERT aXE_2 string
+INSERT gKUhd number
+INSERT kSGeK number

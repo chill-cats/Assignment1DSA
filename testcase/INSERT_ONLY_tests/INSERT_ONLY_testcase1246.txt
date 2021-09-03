@@ -1,0 +1,4 @@
+INSERT z0 number
+INSERT i string
+INSERT uP number
+INSERT gZfD string

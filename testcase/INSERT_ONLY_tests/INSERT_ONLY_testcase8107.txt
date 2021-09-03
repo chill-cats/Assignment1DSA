@@ -1,0 +1,10 @@
+INSERT q number
+INSERT mN number
+INSERT pFAcsW string
+INSERT yMCGA string
+INSERT c2r string
+INSERT i0Gt string
+INSERT tvy number
+INSERT reF number
+INSERT vA string
+INSERT m5 string

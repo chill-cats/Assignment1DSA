@@ -1,0 +1,3 @@
+INSERT lS96y string
+INSERT sI number
+INSERT qaza9 string

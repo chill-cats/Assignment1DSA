@@ -1,0 +1,5 @@
+INSERT t9 number
+INSERT hzp9 number
+INSERT n4v string
+INSERT wcY3YP number
+INSERT t5PflW number

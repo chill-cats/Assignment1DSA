@@ -1,0 +1,2 @@
+ASSIGN te9V 580
+ASSIGN ix 972

@@ -1,0 +1,10 @@
+INSERT jkBug number
+INSERT zrv string
+INSERT qUrsos number
+INSERT so8 number
+INSERT zWmi2 number
+INSERT pDv4E string
+INSERT tMZT number
+INSERT sY number
+INSERT gzS string
+INSERT oms number

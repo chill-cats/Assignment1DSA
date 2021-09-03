@@ -1,0 +1,2 @@
+INSERT t327 string
+INSERT pX6kZ number

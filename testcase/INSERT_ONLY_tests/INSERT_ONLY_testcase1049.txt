@@ -1,0 +1,2 @@
+INSERT c number
+INSERT s0tb string

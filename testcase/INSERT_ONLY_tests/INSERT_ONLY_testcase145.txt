@@ -1,0 +1,3 @@
+INSERT o3V5 string
+INSERT m04 number
+INSERT l string

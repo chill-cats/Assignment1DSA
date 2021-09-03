@@ -1,0 +1,2 @@
+ASSIGN dpY 164
+ASSIGN tMoox6 1236

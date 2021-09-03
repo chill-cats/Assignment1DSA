@@ -1,0 +1,3 @@
+ASSIGN r d
+ASSIGN xQ 476
+ASSIGN kt0A 'wZXL'

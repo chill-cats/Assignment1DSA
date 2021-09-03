@@ -1,0 +1,9 @@
+INSERT h number
+INSERT tSXM9 string
+INSERT l number
+INSERT hn number
+INSERT mZNS string
+INSERT ju string
+INSERT ga string
+INSERT rz number
+INSERT c5 number

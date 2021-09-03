@@ -1,0 +1,5 @@
+INSERT i4 string
+INSERT sO2tN0 number
+INSERT t number
+INSERT q number
+INSERT a_ number

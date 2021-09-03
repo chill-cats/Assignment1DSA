@@ -1,0 +1,5 @@
+INSERT p5 number
+INSERT u_CH2 string
+INSERT jQypZ number
+INSERT k8sISO number
+INSERT oySkpZ string

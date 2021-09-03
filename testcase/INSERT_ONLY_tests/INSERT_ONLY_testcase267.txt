@@ -1,0 +1,7 @@
+INSERT tn string
+INSERT l string
+INSERT js9 string
+INSERT r number
+INSERT hS number
+INSERT vVR6y string
+INSERT hlbkzu number

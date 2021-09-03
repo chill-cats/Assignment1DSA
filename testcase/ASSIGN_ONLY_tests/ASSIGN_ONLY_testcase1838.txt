@@ -1,0 +1,2 @@
+ASSIGN stV '2'
+ASSIGN pKiib3 727

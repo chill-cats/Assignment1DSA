@@ -1,0 +1,2 @@
+ASSIGN i2 'Q6'
+ASSIGN i2 xC9

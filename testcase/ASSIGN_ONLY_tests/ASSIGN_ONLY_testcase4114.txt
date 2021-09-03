@@ -1,0 +1,3 @@
+ASSIGN p 'VpMMI'
+ASSIGN xj pzkNtK
+ASSIGN t 'Vh'

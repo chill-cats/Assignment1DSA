@@ -1,0 +1,2 @@
+ASSIGN eK nvSyBo
+ASSIGN nvSyBo '2Z'

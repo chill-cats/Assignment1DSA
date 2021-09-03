@@ -1,0 +1,14 @@
+INSERT bI81 number
+INSERT i number
+INSERT oCzHX string
+INSERT ulE3e number
+INSERT t string
+INSERT w string
+INSERT g number
+INSERT ya4 string
+INSERT fe number
+INSERT iYCf number
+INSERT c number
+INSERT qb string
+INSERT fp number
+INSERT rnpl number

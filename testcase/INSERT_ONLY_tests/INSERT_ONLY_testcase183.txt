@@ -1,0 +1,3 @@
+INSERT wE number
+INSERT a number
+INSERT m number

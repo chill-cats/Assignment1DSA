@@ -1,0 +1,8 @@
+INSERT rj7OqX number
+INSERT u9c7Y string
+INSERT h number
+INSERT c string
+INSERT j string
+INSERT eoU string
+INSERT n string
+INSERT fSjGB string

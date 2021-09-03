@@ -1,0 +1,3 @@
+ASSIGN gc gc
+ASSIGN vI 568
+ASSIGN hFVDs '6H'

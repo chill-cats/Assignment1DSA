@@ -1,0 +1,2 @@
+ASSIGN uPU uPU
+ASSIGN ya 'ga'

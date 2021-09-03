@@ -1,0 +1,4 @@
+INSERT lckW number
+INSERT n string
+INSERT aCZ string
+INSERT bpwYK string

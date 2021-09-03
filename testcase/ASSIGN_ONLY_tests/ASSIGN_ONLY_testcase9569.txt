@@ -1,0 +1,3 @@
+ASSIGN ho0D l2
+ASSIGN nMF '2'
+ASSIGN vB4T 'h'

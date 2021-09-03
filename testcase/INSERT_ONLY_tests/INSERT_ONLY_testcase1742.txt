@@ -1,0 +1,8 @@
+INSERT nDM0 number
+INSERT nI string
+INSERT h number
+INSERT wUWugh number
+INSERT q9WGoP number
+INSERT ic3dk number
+INSERT mDGG2S string
+INSERT l string

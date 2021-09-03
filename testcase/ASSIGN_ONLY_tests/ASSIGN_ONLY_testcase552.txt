@@ -1,0 +1,5 @@
+ASSIGN v7 745
+ASSIGN hev 1181
+ASSIGN uvimg 573
+ASSIGN nimWN 'WJ'
+ASSIGN uvimg '2lnLR'

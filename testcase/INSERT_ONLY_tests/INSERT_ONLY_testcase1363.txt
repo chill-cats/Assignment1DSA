@@ -1,0 +1,11 @@
+INSERT p string
+INSERT m number
+INSERT c number
+INSERT n9QMXC string
+INSERT euw number
+INSERT hQ string
+INSERT z3s5 number
+INSERT w7 number
+INSERT vJN4O string
+INSERT zf string
+INSERT mI6 string

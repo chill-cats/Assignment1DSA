@@ -1,0 +1,7 @@
+INSERT thlDU string
+INSERT y string
+INSERT v4 string
+INSERT b string
+INSERT jsd string
+INSERT x88 number
+INSERT mkU number

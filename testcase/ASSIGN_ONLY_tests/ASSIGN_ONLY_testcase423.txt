@@ -1,0 +1,3 @@
+ASSIGN g0A 'aK'
+ASSIGN zkv 1017
+ASSIGN kWp zkv

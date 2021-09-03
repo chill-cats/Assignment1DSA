@@ -1,0 +1,2 @@
+INSERT wnlo string
+INSERT u number

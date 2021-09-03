@@ -1,0 +1,2 @@
+ASSIGN p 'Ch'
+ASSIGN i_ 309

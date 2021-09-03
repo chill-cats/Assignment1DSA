@@ -1,0 +1,2 @@
+INSERT xp string
+INSERT pwSR number

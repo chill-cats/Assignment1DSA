@@ -1,0 +1,7 @@
+INSERT a string
+INSERT wKBv0c string
+INSERT eXA5hl number
+INSERT yQI string
+INSERT qTrr string
+INSERT sBwo number
+INSERT h number

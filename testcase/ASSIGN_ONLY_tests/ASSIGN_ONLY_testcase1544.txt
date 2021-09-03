@@ -1,0 +1,2 @@
+ASSIGN e 823
+ASSIGN q 'kg'

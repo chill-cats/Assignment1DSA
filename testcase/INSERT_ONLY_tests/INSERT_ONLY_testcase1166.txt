@@ -1,0 +1,4 @@
+INSERT rCdFBZ number
+INSERT qLIMAZ string
+INSERT tRo number
+INSERT e string

@@ -1,0 +1,4 @@
+INSERT ybJN string
+INSERT h5oI32 string
+INSERT a8t6B number
+INSERT lO number

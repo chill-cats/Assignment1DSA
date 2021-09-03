@@ -1,0 +1,2 @@
+ASSIGN kq0VRJ 'A'
+ASSIGN rX 389

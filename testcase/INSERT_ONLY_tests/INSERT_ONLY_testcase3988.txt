@@ -1,0 +1,3 @@
+INSERT vKvFz number
+INSERT i string
+INSERT p number

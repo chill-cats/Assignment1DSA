@@ -1,0 +1,8 @@
+INSERT k number
+INSERT bW7oS string
+INSERT aM number
+INSERT pS_9F number
+INSERT gKJj number
+INSERT cq1 number
+INSERT gr6k string
+INSERT vV string

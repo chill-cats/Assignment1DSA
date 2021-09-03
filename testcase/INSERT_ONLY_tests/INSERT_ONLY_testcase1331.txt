@@ -1,0 +1,8 @@
+INSERT sR77 string
+INSERT gY number
+INSERT vzD_ number
+INSERT hkHB number
+INSERT cU string
+INSERT n number
+INSERT rC string
+INSERT u string

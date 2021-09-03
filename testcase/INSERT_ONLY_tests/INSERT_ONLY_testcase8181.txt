@@ -1,0 +1,8 @@
+INSERT g number
+INSERT e2 number
+INSERT e number
+INSERT k string
+INSERT yabpp number
+INSERT y1K string
+INSERT ss3nL number
+INSERT e number

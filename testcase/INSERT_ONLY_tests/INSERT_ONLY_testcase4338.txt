@@ -1,0 +1,10 @@
+INSERT u0a number
+INSERT v0a3 number
+INSERT y string
+INSERT eAZt string
+INSERT k number
+INSERT kScK string
+INSERT l number
+INSERT tN4_N number
+INSERT bDUp string
+INSERT ox number

@@ -1,0 +1,11 @@
+INSERT mds1rf string
+INSERT wa1 string
+INSERT a number
+INSERT sV string
+INSERT hw number
+INSERT b8Fykm number
+INSERT u4icM string
+INSERT cuNG number
+INSERT kpL21 string
+INSERT mT number
+INSERT iHp string

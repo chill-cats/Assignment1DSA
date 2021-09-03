@@ -1,0 +1,10 @@
+INSERT uMa string
+INSERT x number
+INSERT vb number
+INSERT gPA number
+INSERT oY2nL number
+INSERT iEFxl string
+INSERT tMr_ number
+INSERT r string
+INSERT q string
+INSERT w8be string

@@ -1,0 +1,2 @@
+ASSIGN x490l 'uMR'
+ASSIGN x490l 389

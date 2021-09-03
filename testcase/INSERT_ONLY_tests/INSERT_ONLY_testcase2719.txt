@@ -1,0 +1,4 @@
+INSERT m string
+INSERT hzb number
+INSERT wubZJ string
+INSERT oqTER number

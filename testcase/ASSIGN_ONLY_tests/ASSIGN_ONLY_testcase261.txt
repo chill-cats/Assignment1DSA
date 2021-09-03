@@ -1,0 +1,2 @@
+ASSIGN gw 'CdaWE'
+ASSIGN thUF 57

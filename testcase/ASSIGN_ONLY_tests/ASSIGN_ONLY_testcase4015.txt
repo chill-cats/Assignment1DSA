@@ -1,0 +1,2 @@
+ASSIGN hSKU 'gd1Rp'
+ASSIGN oZZcLj 870

@@ -1,0 +1,9 @@
+INSERT i3q string
+INSERT v8S string
+INSERT x string
+INSERT wV string
+INSERT ykGh number
+INSERT wi string
+INSERT eov number
+INSERT f number
+INSERT h0o string

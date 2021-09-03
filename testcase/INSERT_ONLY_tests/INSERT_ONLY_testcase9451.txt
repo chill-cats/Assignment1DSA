@@ -1,0 +1,5 @@
+INSERT aeu number
+INSERT i number
+INSERT qnj string
+INSERT levjeJ number
+INSERT oXbi39 number

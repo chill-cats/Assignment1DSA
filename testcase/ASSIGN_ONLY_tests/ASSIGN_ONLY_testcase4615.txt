@@ -1,0 +1,2 @@
+ASSIGN oD5_xV vt
+ASSIGN vlp 'p'

@@ -1,0 +1,4 @@
+INSERT aPL0 string
+INSERT xBE3 string
+INSERT v string
+INSERT kv number

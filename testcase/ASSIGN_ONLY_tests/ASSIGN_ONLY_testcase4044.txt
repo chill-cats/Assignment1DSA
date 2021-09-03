@@ -1,0 +1,3 @@
+ASSIGN e 676
+ASSIGN ddni ddni
+ASSIGN leQvCh 231

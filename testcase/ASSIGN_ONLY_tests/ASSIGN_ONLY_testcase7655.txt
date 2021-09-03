@@ -1,0 +1,2 @@
+ASSIGN ezhEQI 910
+ASSIGN qnFt 'gzrFt'

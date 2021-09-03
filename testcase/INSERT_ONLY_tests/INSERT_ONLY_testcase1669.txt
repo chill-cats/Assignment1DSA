@@ -1,0 +1,4 @@
+INSERT odHB number
+INSERT usPwQ_ number
+INSERT uOm string
+INSERT rxa number

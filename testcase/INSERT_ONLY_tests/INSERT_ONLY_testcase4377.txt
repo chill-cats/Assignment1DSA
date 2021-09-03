@@ -1,0 +1,3 @@
+INSERT y4aG3 string
+INSERT cKlj2 number
+INSERT b number

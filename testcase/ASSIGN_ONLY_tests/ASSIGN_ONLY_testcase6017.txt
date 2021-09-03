@@ -1,0 +1,2 @@
+ASSIGN kD 'QI'
+ASSIGN lkuPYm 'MZ09'

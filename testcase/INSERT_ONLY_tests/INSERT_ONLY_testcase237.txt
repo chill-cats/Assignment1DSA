@@ -1,0 +1,9 @@
+INSERT cDSSwE string
+INSERT nH1 number
+INSERT p8K number
+INSERT s4A string
+INSERT avFC2D number
+INSERT hX number
+INSERT v number
+INSERT p number
+INSERT dP number

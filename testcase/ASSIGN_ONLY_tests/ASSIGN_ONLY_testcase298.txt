@@ -1,0 +1,3 @@
+ASSIGN fv4 '8'
+ASSIGN j4X6CZ j4X6CZ
+ASSIGN hzo 'V'

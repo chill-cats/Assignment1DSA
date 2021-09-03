@@ -1,0 +1,6 @@
+INSERT eC2s number
+INSERT sr string
+INSERT mU string
+INSERT i6RB number
+INSERT c string
+INSERT tKIT string

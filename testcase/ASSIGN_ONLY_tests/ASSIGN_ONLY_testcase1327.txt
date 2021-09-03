@@ -1,0 +1,2 @@
+ASSIGN dAK 1042
+ASSIGN jonWk 'nu'

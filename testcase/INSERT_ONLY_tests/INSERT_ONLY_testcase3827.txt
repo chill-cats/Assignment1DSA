@@ -1,0 +1,5 @@
+INSERT r string
+INSERT pgBa number
+INSERT z_Y string
+INSERT vG string
+INSERT nN number

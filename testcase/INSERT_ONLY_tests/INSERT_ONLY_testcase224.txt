@@ -1,0 +1,6 @@
+INSERT ugP number
+INSERT x9k number
+INSERT aI string
+INSERT qoxC string
+INSERT jsSHBr string
+INSERT pBU number

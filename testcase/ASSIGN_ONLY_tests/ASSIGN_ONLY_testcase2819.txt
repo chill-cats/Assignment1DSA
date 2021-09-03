@@ -1,0 +1,2 @@
+ASSIGN eZ6ws 'F9em5'
+ASSIGN qt_q 'QJ'

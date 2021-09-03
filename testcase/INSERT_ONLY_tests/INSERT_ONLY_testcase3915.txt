@@ -1,0 +1,4 @@
+INSERT i number
+INSERT sk number
+INSERT dw number
+INSERT oS string

@@ -1,0 +1,6 @@
+INSERT anL4d number
+INSERT bcor number
+INSERT kq string
+INSERT tkRn2 string
+INSERT pnoBZ number
+INSERT cAsKQc string

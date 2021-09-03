@@ -1,0 +1,3 @@
+INSERT ffM_xs number
+INSERT pw string
+INSERT nsL string

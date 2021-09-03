@@ -1,0 +1,11 @@
+INSERT e8 number
+INSERT hRiY7 string
+INSERT fFE string
+INSERT t59FD number
+INSERT d3pX number
+INSERT dGp string
+INSERT t string
+INSERT f string
+INSERT oKtfu string
+INSERT pBa string
+INSERT yN0o number

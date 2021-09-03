@@ -1,0 +1,2 @@
+ASSIGN b2 'X'
+ASSIGN o o

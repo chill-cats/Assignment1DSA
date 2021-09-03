@@ -1,0 +1,2 @@
+INSERT gbZ number
+INSERT dD0 string

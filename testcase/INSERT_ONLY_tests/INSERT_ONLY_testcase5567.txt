@@ -1,0 +1,7 @@
+INSERT rn9_b number
+INSERT eh number
+INSERT df0 string
+INSERT rWlO3 string
+INSERT fYU string
+INSERT hSh string
+INSERT req string

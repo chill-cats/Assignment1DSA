@@ -1,0 +1,12 @@
+INSERT t number
+INSERT bFp string
+INSERT m string
+INSERT aG30x number
+INSERT wnS5 number
+INSERT k string
+INSERT sUMMcG string
+INSERT y string
+INSERT hnOxJG string
+INSERT lLZRs string
+INSERT sHMMw string
+INSERT bH_4 number

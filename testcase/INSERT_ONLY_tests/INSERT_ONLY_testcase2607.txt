@@ -1,0 +1,2 @@
+INSERT yBO9N number
+INSERT wFusL string

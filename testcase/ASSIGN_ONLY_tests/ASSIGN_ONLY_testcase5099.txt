@@ -1,0 +1,2 @@
+ASSIGN xkq 'oX'
+ASSIGN s '68E'

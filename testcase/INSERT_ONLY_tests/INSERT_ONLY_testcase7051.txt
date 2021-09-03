@@ -1,0 +1,4 @@
+INSERT gamLP number
+INSERT yteS8 string
+INSERT eJ string
+INSERT xoa string

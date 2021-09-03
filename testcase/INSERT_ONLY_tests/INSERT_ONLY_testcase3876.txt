@@ -1,0 +1,4 @@
+INSERT d string
+INSERT u4D number
+INSERT o9e string
+INSERT mA number

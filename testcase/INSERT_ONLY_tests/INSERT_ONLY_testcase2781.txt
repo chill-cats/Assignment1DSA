@@ -1,0 +1,6 @@
+INSERT q string
+INSERT hsLbjf string
+INSERT v number
+INSERT uqI5 number
+INSERT uAs string
+INSERT tdwl number

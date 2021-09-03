@@ -1,0 +1,4 @@
+ASSIGN f 'P'
+ASSIGN f 317
+ASSIGN f 'a5i'
+ASSIGN bAzHX v

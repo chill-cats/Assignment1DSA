@@ -1,0 +1,15 @@
+INSERT w string
+INSERT va string
+INSERT u number
+INSERT kAF92 string
+INSERT iG string
+INSERT g5 string
+INSERT dt56 number
+INSERT h number
+INSERT koQrf string
+INSERT vFe string
+INSERT mDa number
+INSERT h3k string
+INSERT wpKnq number
+INSERT ezVT string
+INSERT fS0 string

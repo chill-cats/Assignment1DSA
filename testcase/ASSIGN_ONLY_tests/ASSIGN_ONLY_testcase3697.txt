@@ -1,0 +1,2 @@
+ASSIGN oe_f 'ORhl'
+ASSIGN pkTYA hs2

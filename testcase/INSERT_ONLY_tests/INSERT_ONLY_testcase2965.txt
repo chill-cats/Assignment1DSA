@@ -1,0 +1,3 @@
+INSERT tPmPo string
+INSERT qw number
+INSERT uF number

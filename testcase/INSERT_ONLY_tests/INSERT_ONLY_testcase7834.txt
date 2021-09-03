@@ -1,0 +1,8 @@
+INSERT kJlF1 number
+INSERT d string
+INSERT x number
+INSERT ik1 number
+INSERT w8MB string
+INSERT cHUw1 number
+INSERT fJVCiy number
+INSERT ogr string

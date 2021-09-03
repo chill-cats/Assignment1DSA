@@ -1,0 +1,10 @@
+INSERT p_Q number
+INSERT z string
+INSERT l2lu number
+INSERT vX number
+INSERT oo string
+INSERT w91R5S string
+INSERT qEIbne string
+INSERT hoc2J number
+INSERT k2L string
+INSERT wr string

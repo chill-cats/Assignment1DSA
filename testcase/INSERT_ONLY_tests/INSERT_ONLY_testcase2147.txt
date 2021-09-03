@@ -1,0 +1,5 @@
+INSERT zkB number
+INSERT wCC number
+INSERT e2Bns string
+INSERT aVn number
+INSERT tb string

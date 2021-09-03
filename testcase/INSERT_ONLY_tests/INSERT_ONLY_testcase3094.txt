@@ -1,0 +1,3 @@
+INSERT w number
+INSERT p6hD string
+INSERT mk3DiE string

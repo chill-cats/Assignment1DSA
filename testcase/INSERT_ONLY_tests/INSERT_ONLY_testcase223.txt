@@ -1,0 +1,10 @@
+INSERT t string
+INSERT i string
+INSERT twE number
+INSERT c number
+INSERT kD2s5 number
+INSERT fb string
+INSERT uzs string
+INSERT lGxho number
+INSERT gG string
+INSERT dBN string

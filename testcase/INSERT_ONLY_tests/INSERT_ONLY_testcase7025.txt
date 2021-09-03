@@ -1,0 +1,8 @@
+INSERT d3 number
+INSERT zd string
+INSERT uisvb3 string
+INSERT p number
+INSERT wIx number
+INSERT uA5P string
+INSERT gb string
+INSERT w number

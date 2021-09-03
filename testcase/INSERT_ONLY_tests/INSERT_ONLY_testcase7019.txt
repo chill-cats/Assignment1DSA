@@ -1,0 +1,8 @@
+INSERT oxKW string
+INSERT qFw string
+INSERT g string
+INSERT sn number
+INSERT z number
+INSERT ss string
+INSERT axkO number
+INSERT hfT number

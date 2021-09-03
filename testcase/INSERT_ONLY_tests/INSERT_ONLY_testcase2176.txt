@@ -1,0 +1,4 @@
+INSERT y3z9AJ number
+INSERT ct string
+INSERT u string
+INSERT bi number

@@ -1,0 +1,2 @@
+ASSIGN i 1237
+ASSIGN hAVnc '9TZv'

@@ -1,0 +1,3 @@
+ASSIGN gskor 913
+ASSIGN dI n2of
+ASSIGN rKWPJ 709

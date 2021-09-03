@@ -1,0 +1,9 @@
+INSERT b_ToHC string
+INSERT igDpNs number
+INSERT nNKL number
+INSERT c number
+INSERT sKEm5 number
+INSERT gtB string
+INSERT gCy number
+INSERT o number
+INSERT v5N6G string

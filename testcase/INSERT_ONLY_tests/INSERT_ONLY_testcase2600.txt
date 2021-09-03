@@ -1,0 +1,7 @@
+INSERT j_fz3 number
+INSERT sj number
+INSERT pxM6G string
+INSERT mPYT number
+INSERT ypmK string
+INSERT zTQ string
+INSERT bBm8M3 string

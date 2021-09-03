@@ -1,0 +1,4 @@
+INSERT ct string
+INSERT bKXeqF number
+INSERT koPeQ number
+INSERT w string

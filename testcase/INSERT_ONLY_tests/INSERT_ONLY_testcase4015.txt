@@ -1,0 +1,10 @@
+INSERT cXJO string
+INSERT hSKU string
+INSERT m number
+INSERT qnf number
+INSERT v1iI number
+INSERT xB string
+INSERT jzbvv string
+INSERT oZZcLj string
+INSERT rvP number
+INSERT ttc string

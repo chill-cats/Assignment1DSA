@@ -1,0 +1,2 @@
+ASSIGN vr x
+ASSIGN gQywM 'r'

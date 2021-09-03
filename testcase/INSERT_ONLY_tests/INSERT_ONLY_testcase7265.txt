@@ -1,0 +1,4 @@
+INSERT fI_ number
+INSERT ehd string
+INSERT n8 number
+INSERT wBnGV string

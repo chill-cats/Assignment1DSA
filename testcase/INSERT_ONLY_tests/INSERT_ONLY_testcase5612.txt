@@ -1,0 +1,8 @@
+INSERT v number
+INSERT u number
+INSERT aEI number
+INSERT gz7qqa string
+INSERT b7k number
+INSERT z string
+INSERT m number
+INSERT eb53qx number

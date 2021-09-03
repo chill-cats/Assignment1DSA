@@ -1,0 +1,5 @@
+INSERT qn1 string
+INSERT yfrk_ string
+INSERT dIMSuX number
+INSERT ork1DU number
+INSERT fc3ope string

@@ -1,0 +1,4 @@
+INSERT yO8 number
+INSERT mpf number
+INSERT zoZ string
+INSERT fNp3 string

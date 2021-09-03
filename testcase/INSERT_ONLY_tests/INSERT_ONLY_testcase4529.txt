@@ -1,0 +1,4 @@
+INSERT ax1_ number
+INSERT jSMa string
+INSERT p4WS number
+INSERT oky number

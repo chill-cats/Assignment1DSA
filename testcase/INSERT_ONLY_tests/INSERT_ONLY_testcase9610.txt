@@ -1,0 +1,14 @@
+INSERT z number
+INSERT so8 number
+INSERT v string
+INSERT kr string
+INSERT kExsw number
+INSERT v04_ string
+INSERT woNy string
+INSERT ob61Hg number
+INSERT kbPk string
+INSERT vC1 number
+INSERT oCBNAZ number
+INSERT raFJ number
+INSERT b7uYI string
+INSERT l number

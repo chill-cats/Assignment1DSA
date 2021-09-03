@@ -1,0 +1,2 @@
+ASSIGN eZ 'Xek'
+ASSIGN l9 'M '

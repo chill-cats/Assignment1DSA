@@ -1,0 +1,5 @@
+INSERT r7MQ string
+INSERT oE8 number
+INSERT x number
+INSERT fsK8 number
+INSERT wh string

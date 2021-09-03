@@ -1,0 +1,7 @@
+INSERT ep string
+INSERT sVpyM number
+INSERT kLmo string
+INSERT mL4ni number
+INSERT nAa string
+INSERT hX string
+INSERT ce string

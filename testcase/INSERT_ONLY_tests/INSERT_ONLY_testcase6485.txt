@@ -1,0 +1,12 @@
+INSERT jj string
+INSERT iz string
+INSERT swk string
+INSERT hDwo string
+INSERT t string
+INSERT gT number
+INSERT ng number
+INSERT v8x number
+INSERT msCST string
+INSERT aQ number
+INSERT qnLpP number
+INSERT t90Cn number

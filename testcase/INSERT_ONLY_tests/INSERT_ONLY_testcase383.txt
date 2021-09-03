@@ -1,0 +1,2 @@
+INSERT qdUST string
+INSERT hwkErC number

@@ -1,0 +1,6 @@
+INSERT p string
+INSERT mXw8l number
+INSERT s3J number
+INSERT b number
+INSERT h1 number
+INSERT w string

@@ -1,0 +1,2 @@
+ASSIGN cp m8_ly
+ASSIGN p 482

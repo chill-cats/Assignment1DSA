@@ -1,0 +1,4 @@
+INSERT zw string
+INSERT qjCB number
+INSERT vdYx number
+INSERT meRa string

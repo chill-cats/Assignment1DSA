@@ -1,0 +1,6 @@
+INSERT qk36f number
+INSERT h number
+INSERT sO string
+INSERT hs string
+INSERT i string
+INSERT u string

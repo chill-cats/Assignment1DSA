@@ -1,0 +1,6 @@
+INSERT b number
+INSERT cIpE0 number
+INSERT lSK4HZ number
+INSERT rM number
+INSERT sjh number
+INSERT ivG5 string

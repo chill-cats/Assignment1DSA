@@ -1,0 +1,2 @@
+ASSIGN yR9B 532
+ASSIGN wjPR 'I'

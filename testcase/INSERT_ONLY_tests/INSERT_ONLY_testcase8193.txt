@@ -1,0 +1,8 @@
+INSERT l string
+INSERT z number
+INSERT gS string
+INSERT mwMk number
+INSERT lB8kq number
+INSERT nHSah number
+INSERT hG string
+INSERT mBnO number

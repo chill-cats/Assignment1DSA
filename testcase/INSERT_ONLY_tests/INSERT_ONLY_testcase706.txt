@@ -1,0 +1,5 @@
+INSERT g string
+INSERT kJb string
+INSERT oByHN number
+INSERT kmCd string
+INSERT ow number

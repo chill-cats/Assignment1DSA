@@ -1,0 +1,17 @@
+INSERT j number
+INSERT nQA number
+INSERT w number
+INSERT l3 number
+INSERT mVPN number
+INSERT o string
+INSERT oo number
+INSERT u string
+INSERT yU number
+INSERT piH string
+INSERT vrHprW number
+INSERT vT number
+INSERT dMH string
+INSERT nF4 number
+INSERT fc string
+INSERT lT string
+INSERT u number

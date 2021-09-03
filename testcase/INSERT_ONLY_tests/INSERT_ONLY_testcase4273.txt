@@ -1,0 +1,17 @@
+INSERT dx number
+INSERT c string
+INSERT e2F string
+INSERT vV4e0 string
+INSERT o01 number
+INSERT eQiL number
+INSERT a49G string
+INSERT m number
+INSERT h6hY number
+INSERT fCVAM9 number
+INSERT j number
+INSERT tq number
+INSERT mnjz number
+INSERT pOpXI string
+INSERT b0X9 number
+INSERT cqbi string
+INSERT icBh number

@@ -1,0 +1,2 @@
+ASSIGN j_NxC 'jivd8'
+ASSIGN nB nB

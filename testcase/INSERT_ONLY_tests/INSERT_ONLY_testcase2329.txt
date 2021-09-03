@@ -1,0 +1,7 @@
+INSERT rgz number
+INSERT wR1u string
+INSERT nBa string
+INSERT cQxN number
+INSERT jiNgB number
+INSERT lT number
+INSERT z number

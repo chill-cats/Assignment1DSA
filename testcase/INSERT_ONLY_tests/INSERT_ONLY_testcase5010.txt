@@ -1,0 +1,5 @@
+INSERT mZp string
+INSERT d number
+INSERT imyHn string
+INSERT hdjqN string
+INSERT kuB string

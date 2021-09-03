@@ -1,0 +1,2 @@
+ASSIGN dQU 'Ja'
+ASSIGN rB32t 864

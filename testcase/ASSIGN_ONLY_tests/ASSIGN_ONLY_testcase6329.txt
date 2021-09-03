@@ -1,0 +1,2 @@
+ASSIGN cn 1156
+ASSIGN oe 'GTv3b'

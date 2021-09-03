@@ -1,0 +1,8 @@
+INSERT ce0k string
+INSERT j number
+INSERT pF string
+INSERT c string
+INSERT za string
+INSERT hFgiDr string
+INSERT n number
+INSERT mFndch number

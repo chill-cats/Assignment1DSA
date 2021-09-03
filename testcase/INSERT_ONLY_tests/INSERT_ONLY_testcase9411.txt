@@ -1,0 +1,14 @@
+INSERT vU number
+INSERT u8d number
+INSERT rR_G string
+INSERT qM_knR string
+INSERT bLD number
+INSERT ceiUJA number
+INSERT r number
+INSERT ub string
+INSERT xw string
+INSERT mO9zgU string
+INSERT tXcjP number
+INSERT o0sX string
+INSERT ojqj number
+INSERT t0Vhd number

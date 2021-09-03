@@ -1,0 +1,11 @@
+INSERT f number
+INSERT l string
+INSERT u number
+INSERT okq6aR string
+INSERT k string
+INSERT qd number
+INSERT lHm9X string
+INSERT oM number
+INSERT l8FWvN number
+INSERT rfO3 string
+INSERT cMLp string

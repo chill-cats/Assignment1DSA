@@ -1,0 +1,2 @@
+ASSIGN qQ6 'U'
+ASSIGN ocQ 1218

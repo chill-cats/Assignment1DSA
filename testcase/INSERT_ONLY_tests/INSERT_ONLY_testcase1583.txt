@@ -1,0 +1,6 @@
+INSERT wAhX number
+INSERT adG7 string
+INSERT pvS number
+INSERT n string
+INSERT d3m string
+INSERT mMJ string

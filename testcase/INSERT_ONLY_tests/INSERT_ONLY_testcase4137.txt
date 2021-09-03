@@ -1,0 +1,10 @@
+INSERT xb string
+INSERT fz string
+INSERT c number
+INSERT rAOhk number
+INSERT stXq_ number
+INSERT s string
+INSERT jX6Or string
+INSERT olW string
+INSERT tNOlR number
+INSERT aOD number

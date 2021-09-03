@@ -1,0 +1,5 @@
+INSERT x number
+INSERT b26GH number
+INSERT r string
+INSERT s number
+INSERT qh number

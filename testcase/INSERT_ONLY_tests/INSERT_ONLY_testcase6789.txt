@@ -1,0 +1,3 @@
+INSERT kGwL number
+INSERT jK number
+INSERT r string

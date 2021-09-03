@@ -1,0 +1,6 @@
+INSERT fKWM0i number
+INSERT y number
+INSERT f string
+INSERT dea7tm string
+INSERT nwHkH6 string
+INSERT gTkx string

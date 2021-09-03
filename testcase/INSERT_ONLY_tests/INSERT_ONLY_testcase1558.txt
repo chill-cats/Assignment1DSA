@@ -1,0 +1,4 @@
+INSERT c string
+INSERT s string
+INSERT gr60s number
+INSERT bx number

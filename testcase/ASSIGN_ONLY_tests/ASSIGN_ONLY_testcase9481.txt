@@ -1,0 +1,1 @@
+ASSIGN ghGna 'bp'

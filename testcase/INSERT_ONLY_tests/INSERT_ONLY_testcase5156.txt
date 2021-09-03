@@ -1,0 +1,10 @@
+INSERT j string
+INSERT jv7lg string
+INSERT bi string
+INSERT a string
+INSERT dcm number
+INSERT f_a string
+INSERT zIRW string
+INSERT kIK string
+INSERT i string
+INSERT mEEg number

@@ -1,0 +1,2 @@
+ASSIGN tcjHB 'XAA5C'
+ASSIGN rF 93

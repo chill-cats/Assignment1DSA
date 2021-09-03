@@ -1,0 +1,1 @@
+ASSIGN eq3 fsCQJS

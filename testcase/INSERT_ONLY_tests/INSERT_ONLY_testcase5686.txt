@@ -1,0 +1,15 @@
+INSERT nKW number
+INSERT urGT5 number
+INSERT s number
+INSERT ofeNdd string
+INSERT oDH_4 number
+INSERT idAdA number
+INSERT mSvIP string
+INSERT alDf string
+INSERT r0 string
+INSERT kuA string
+INSERT ud string
+INSERT tzs number
+INSERT wJpgH number
+INSERT q string
+INSERT ur number

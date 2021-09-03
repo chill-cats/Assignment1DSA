@@ -1,0 +1,7 @@
+INSERT dr number
+INSERT g7zR number
+INSERT pc string
+INSERT odz4 string
+INSERT ghyO number
+INSERT yndF string
+INSERT rTInf string

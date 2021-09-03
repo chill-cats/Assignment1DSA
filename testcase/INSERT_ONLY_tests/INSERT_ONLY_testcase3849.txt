@@ -1,0 +1,9 @@
+INSERT c string
+INSERT n5YD number
+INSERT aLj0nf string
+INSERT qVG string
+INSERT lg0Z number
+INSERT xA string
+INSERT sds string
+INSERT zj number
+INSERT us number

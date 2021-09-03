@@ -1,0 +1,7 @@
+INSERT iq number
+INSERT jd string
+INSERT hPHy string
+INSERT pfn7c string
+INSERT u9 number
+INSERT jOSk string
+INSERT mK string

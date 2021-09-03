@@ -1,0 +1,6 @@
+INSERT f string
+INSERT tuL number
+INSERT jQxGP string
+INSERT kdVB number
+INSERT ip_F6n string
+INSERT mU4TeM number

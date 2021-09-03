@@ -1,0 +1,11 @@
+INSERT piN number
+INSERT so string
+INSERT bwg string
+INSERT t7 string
+INSERT mshud string
+INSERT lV string
+INSERT h string
+INSERT ur_1T number
+INSERT n string
+INSERT zap number
+INSERT yFqo number

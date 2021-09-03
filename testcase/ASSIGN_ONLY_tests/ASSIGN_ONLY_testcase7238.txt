@@ -1,0 +1,3 @@
+ASSIGN p i
+ASSIGN p 'y'
+ASSIGN i 'uVr'

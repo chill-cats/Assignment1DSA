@@ -1,0 +1,3 @@
+ASSIGN cQU 'RdNa'
+ASSIGN b8 'NS8'
+ASSIGN pf1 'e'

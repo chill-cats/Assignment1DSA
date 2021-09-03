@@ -1,0 +1,9 @@
+INSERT i number
+INSERT cMfHID string
+INSERT nbIce number
+INSERT z number
+INSERT thGJ4 number
+INSERT y string
+INSERT uQ0 string
+INSERT m number
+INSERT f string

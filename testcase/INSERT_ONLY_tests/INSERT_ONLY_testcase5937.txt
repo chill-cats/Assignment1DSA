@@ -1,0 +1,13 @@
+INSERT vSE string
+INSERT du number
+INSERT mP string
+INSERT h17uG number
+INSERT xu4 string
+INSERT d number
+INSERT tf number
+INSERT s number
+INSERT s string
+INSERT p number
+INSERT m number
+INSERT pmgi string
+INSERT yH number

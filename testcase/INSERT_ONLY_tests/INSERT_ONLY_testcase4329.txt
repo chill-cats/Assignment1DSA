@@ -1,0 +1,5 @@
+INSERT ns string
+INSERT n string
+INSERT loV8Hp number
+INSERT i number
+INSERT eJF2m number

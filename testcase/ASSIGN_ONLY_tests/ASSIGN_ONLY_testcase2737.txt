@@ -1,0 +1,2 @@
+ASSIGN v 880
+ASSIGN qNip 'Ode'

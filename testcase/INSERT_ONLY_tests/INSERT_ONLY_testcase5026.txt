@@ -1,0 +1,3 @@
+INSERT pb string
+INSERT o number
+INSERT kYf number

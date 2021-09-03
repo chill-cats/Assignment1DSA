@@ -1,0 +1,4 @@
+INSERT w number
+INSERT ob number
+INSERT xLuvb string
+INSERT kFfk number

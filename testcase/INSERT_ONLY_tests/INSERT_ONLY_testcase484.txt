@@ -1,0 +1,5 @@
+INSERT p string
+INSERT wNR string
+INSERT w6 number
+INSERT pae9c number
+INSERT dyrZ number

@@ -1,0 +1,2 @@
+ASSIGN z iBOL
+ASSIGN npta 692

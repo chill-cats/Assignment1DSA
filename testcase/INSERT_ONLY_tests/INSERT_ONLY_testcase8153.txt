@@ -1,0 +1,10 @@
+INSERT j67Wi number
+INSERT a7 number
+INSERT o number
+INSERT x string
+INSERT eNEF number
+INSERT xmJ string
+INSERT gg number
+INSERT t8xJRM string
+INSERT sWc51 number
+INSERT irOi number

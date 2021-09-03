@@ -1,0 +1,3 @@
+ASSIGN tou0 'qpi'
+ASSIGN un 'TZ'
+ASSIGN ph 1140

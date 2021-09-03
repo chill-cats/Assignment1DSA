@@ -1,0 +1,2 @@
+ASSIGN k28 1016
+ASSIGN nSSmX 'ja'

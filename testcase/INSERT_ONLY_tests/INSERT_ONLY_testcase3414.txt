@@ -1,0 +1,6 @@
+INSERT tldP0P number
+INSERT x5S string
+INSERT xAp number
+INSERT y number
+INSERT hIFvt number
+INSERT gfMYwQ string

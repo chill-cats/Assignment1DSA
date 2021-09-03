@@ -1,0 +1,9 @@
+INSERT pENUZ number
+INSERT t number
+INSERT kM string
+INSERT tS1_2W number
+INSERT i6X number
+INSERT c39x string
+INSERT s string
+INSERT gfpwoK number
+INSERT n number

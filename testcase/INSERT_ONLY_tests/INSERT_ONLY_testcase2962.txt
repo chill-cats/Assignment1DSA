@@ -1,0 +1,9 @@
+INSERT cS number
+INSERT dI2 string
+INSERT llYA number
+INSERT i number
+INSERT vE number
+INSERT jsfRP number
+INSERT g05 number
+INSERT mRl string
+INSERT fDq string

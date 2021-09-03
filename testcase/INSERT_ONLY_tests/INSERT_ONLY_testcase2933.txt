@@ -1,0 +1,4 @@
+INSERT k4_f9 string
+INSERT yVkcd string
+INSERT zP string
+INSERT qBt number

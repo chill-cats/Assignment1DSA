@@ -1,0 +1,10 @@
+INSERT nE number
+INSERT rV string
+INSERT gu string
+INSERT m string
+INSERT r number
+INSERT s9M string
+INSERT lLlNX string
+INSERT vzs string
+INSERT b string
+INSERT aqq string

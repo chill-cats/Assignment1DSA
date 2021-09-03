@@ -1,0 +1,7 @@
+INSERT d number
+INSERT zP string
+INSERT gA string
+INSERT gMpvt number
+INSERT jsEx7 number
+INSERT whLMyW string
+INSERT ll3i2 number

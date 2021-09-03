@@ -1,0 +1,6 @@
+INSERT m string
+INSERT haOby string
+INSERT zgf number
+INSERT rDR_QM number
+INSERT lu string
+INSERT a number

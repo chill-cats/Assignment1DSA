@@ -1,0 +1,8 @@
+INSERT kW number
+INSERT rBXAa number
+INSERT czCX number
+INSERT vG3 string
+INSERT aUj3 number
+INSERT gcg number
+INSERT s5 number
+INSERT w42 string

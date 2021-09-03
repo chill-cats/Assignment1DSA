@@ -1,0 +1,8 @@
+INSERT bN number
+INSERT yGsX number
+INSERT tOfB number
+INSERT b2L number
+INSERT s string
+INSERT mkV number
+INSERT c number
+INSERT q string

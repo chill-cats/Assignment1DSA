@@ -1,0 +1,4 @@
+ASSIGN erUI 'oG'
+ASSIGN erUI '8'
+ASSIGN y 'F'
+ASSIGN ih 'dHaAH'

@@ -1,0 +1,6 @@
+INSERT rx9 number
+INSERT aBe6qp string
+INSERT t string
+INSERT hLww string
+INSERT ml number
+INSERT lVmVi string

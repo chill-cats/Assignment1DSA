@@ -1,0 +1,3 @@
+INSERT l0sl string
+INSERT pi4O string
+INSERT oUy9hs number

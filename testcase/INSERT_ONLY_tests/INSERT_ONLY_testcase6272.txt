@@ -1,0 +1,5 @@
+INSERT f string
+INSERT w number
+INSERT rd number
+INSERT z5a3 string
+INSERT oLEk8a string

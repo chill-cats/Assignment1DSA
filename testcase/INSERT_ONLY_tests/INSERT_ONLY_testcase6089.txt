@@ -1,0 +1,5 @@
+INSERT edk number
+INSERT bXbCX number
+INSERT nCj41 number
+INSERT hqko string
+INSERT ddG1g number

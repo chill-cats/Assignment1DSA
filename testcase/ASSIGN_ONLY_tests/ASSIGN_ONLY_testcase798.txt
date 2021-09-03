@@ -1,0 +1,2 @@
+ASSIGN koS 1112
+ASSIGN zE koS

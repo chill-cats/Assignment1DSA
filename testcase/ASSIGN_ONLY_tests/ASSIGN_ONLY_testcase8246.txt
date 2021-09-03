@@ -1,0 +1,2 @@
+ASSIGN nY 115
+ASSIGN wrG '2'

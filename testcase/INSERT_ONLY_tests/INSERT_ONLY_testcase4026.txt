@@ -1,0 +1,9 @@
+INSERT h number
+INSERT zjPl_5 number
+INSERT kB5k25 number
+INSERT b string
+INSERT q65dM number
+INSERT y string
+INSERT x8adGV string
+INSERT t string
+INSERT rW7 number

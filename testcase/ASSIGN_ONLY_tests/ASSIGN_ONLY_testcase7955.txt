@@ -1,0 +1,2 @@
+ASSIGN p '5'
+ASSIGN bVBaRl '4gl'

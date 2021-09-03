@@ -1,0 +1,3 @@
+ASSIGN pV 106
+ASSIGN b okc
+ASSIGN s tpB

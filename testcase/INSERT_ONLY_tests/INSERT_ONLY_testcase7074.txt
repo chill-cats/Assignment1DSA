@@ -1,0 +1,3 @@
+INSERT aOI_v string
+INSERT qSF string
+INSERT duWQ number

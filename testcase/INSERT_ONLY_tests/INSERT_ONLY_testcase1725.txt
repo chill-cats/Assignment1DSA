@@ -1,0 +1,6 @@
+INSERT n8Fu number
+INSERT h number
+INSERT hCjYQN string
+INSERT fX number
+INSERT l_2w number
+INSERT w number

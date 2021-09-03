@@ -1,0 +1,4 @@
+INSERT pCxZTA number
+INSERT n string
+INSERT dheCoT string
+INSERT tg string

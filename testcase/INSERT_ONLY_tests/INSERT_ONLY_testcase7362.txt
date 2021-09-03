@@ -1,0 +1,14 @@
+INSERT ow string
+INSERT n4 number
+INSERT x1m number
+INSERT xSWL string
+INSERT jyDT number
+INSERT s4q string
+INSERT uh4 string
+INSERT hx number
+INSERT oZ string
+INSERT arA number
+INSERT h3Wfo number
+INSERT u number
+INSERT v string
+INSERT jms string

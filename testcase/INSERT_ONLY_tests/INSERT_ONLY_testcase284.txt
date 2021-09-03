@@ -1,0 +1,3 @@
+INSERT lk number
+INSERT ySdZ number
+INSERT ey string

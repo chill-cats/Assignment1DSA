@@ -1,0 +1,6 @@
+INSERT vSF number
+INSERT lE string
+INSERT oPtdaw string
+INSERT uMeZ string
+INSERT ezs number
+INSERT pkd_cT number

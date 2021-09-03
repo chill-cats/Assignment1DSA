@@ -1,0 +1,2 @@
+ASSIGN braxuP ttNIP
+ASSIGN ttNIP 1082

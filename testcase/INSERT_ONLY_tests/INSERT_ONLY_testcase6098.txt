@@ -1,0 +1,3 @@
+INSERT q_ string
+INSERT mgBg number
+INSERT k string

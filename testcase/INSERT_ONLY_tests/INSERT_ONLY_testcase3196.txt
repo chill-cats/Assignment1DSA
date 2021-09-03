@@ -1,0 +1,4 @@
+INSERT c number
+INSERT ovyi string
+INSERT dA5A string
+INSERT x2 string

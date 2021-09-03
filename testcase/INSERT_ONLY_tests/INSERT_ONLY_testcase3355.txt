@@ -1,0 +1,9 @@
+INSERT sW number
+INSERT b number
+INSERT q number
+INSERT gI string
+INSERT nVHD number
+INSERT i8j string
+INSERT pO string
+INSERT j number
+INSERT fDiUM string

@@ -1,0 +1,2 @@
+ASSIGN s k
+ASSIGN s 'A'

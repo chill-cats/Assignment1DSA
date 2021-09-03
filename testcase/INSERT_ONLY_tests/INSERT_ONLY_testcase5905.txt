@@ -1,0 +1,4 @@
+INSERT oo string
+INSERT afjCM string
+INSERT dR number
+INSERT cdlgHV number

@@ -1,0 +1,3 @@
+INSERT y number
+INSERT kKk3 number
+INSERT jq string

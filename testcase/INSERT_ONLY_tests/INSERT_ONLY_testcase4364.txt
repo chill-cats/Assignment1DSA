@@ -1,0 +1,7 @@
+INSERT rpBM9P string
+INSERT dWz9 string
+INSERT npg number
+INSERT u number
+INSERT sv number
+INSERT lLs number
+INSERT mi string

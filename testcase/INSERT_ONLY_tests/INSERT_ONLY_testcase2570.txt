@@ -1,0 +1,10 @@
+INSERT eRp number
+INSERT ePzf string
+INSERT mp390P number
+INSERT rn number
+INSERT vc string
+INSERT lW7Eeb number
+INSERT kNq57 number
+INSERT zl string
+INSERT t9u21 number
+INSERT hp number

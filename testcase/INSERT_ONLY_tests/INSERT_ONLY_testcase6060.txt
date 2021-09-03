@@ -1,0 +1,5 @@
+INSERT zD string
+INSERT bQT string
+INSERT x string
+INSERT gtu string
+INSERT q number

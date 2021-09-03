@@ -1,0 +1,7 @@
+INSERT uULBB number
+INSERT y number
+INSERT vMsttC number
+INSERT xffx number
+INSERT wRo string
+INSERT i number
+INSERT b number

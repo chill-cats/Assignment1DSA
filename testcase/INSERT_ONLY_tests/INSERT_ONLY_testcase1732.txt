@@ -1,0 +1,3 @@
+INSERT ll number
+INSERT cY string
+INSERT vnizL string

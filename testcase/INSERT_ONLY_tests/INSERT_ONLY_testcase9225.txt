@@ -1,0 +1,3 @@
+INSERT l string
+INSERT eEog number
+INSERT sC79 string

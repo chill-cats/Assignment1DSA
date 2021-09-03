@@ -1,0 +1,5 @@
+INSERT g string
+INSERT aCsWz number
+INSERT b number
+INSERT adDkq string
+INSERT y string

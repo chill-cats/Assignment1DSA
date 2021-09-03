@@ -1,0 +1,5 @@
+INSERT gyS string
+INSERT lcm_ko string
+INSERT pWAh number
+INSERT kWB number
+INSERT jpnF number

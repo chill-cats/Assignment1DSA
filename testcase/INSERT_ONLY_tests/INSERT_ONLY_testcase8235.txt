@@ -1,0 +1,8 @@
+INSERT cHn_X number
+INSERT j15xN string
+INSERT mkN string
+INSERT x number
+INSERT sqxU string
+INSERT jC number
+INSERT n_ string
+INSERT lO6 string

@@ -1,0 +1,6 @@
+INSERT uB string
+INSERT nteDnq number
+INSERT uS number
+INSERT uT number
+INSERT uGCRU string
+INSERT ioYm string

@@ -1,0 +1,3 @@
+ASSIGN sD6fs 'y'
+ASSIGN ot 681
+ASSIGN nSP ry

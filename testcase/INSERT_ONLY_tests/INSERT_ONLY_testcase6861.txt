@@ -1,0 +1,4 @@
+INSERT va2 string
+INSERT flgnmE number
+INSERT wr string
+INSERT m number

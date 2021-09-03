@@ -1,0 +1,4 @@
+ASSIGN qaG 'G'
+ASSIGN qLgf q
+ASSIGN mBRp '6WH'
+ASSIGN q 1218

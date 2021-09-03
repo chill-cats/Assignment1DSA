@@ -1,0 +1,5 @@
+INSERT zd string
+INSERT tvsZ number
+INSERT hsieK number
+INSERT evD number
+INSERT qu string

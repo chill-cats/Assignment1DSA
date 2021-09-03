@@ -1,0 +1,2 @@
+ASSIGN krGioy 'P0'
+ASSIGN bP5bWR 537

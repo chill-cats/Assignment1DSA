@@ -1,0 +1,7 @@
+INSERT p2Tv number
+INSERT cdZW4 string
+INSERT x number
+INSERT tcY3ur string
+INSERT ta24 number
+INSERT f number
+INSERT i string

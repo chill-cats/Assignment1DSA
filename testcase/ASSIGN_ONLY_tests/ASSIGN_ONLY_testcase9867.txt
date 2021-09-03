@@ -1,0 +1,2 @@
+ASSIGN lWt '560r'
+ASSIGN wdN lWt

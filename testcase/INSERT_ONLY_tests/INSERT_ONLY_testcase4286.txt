@@ -1,0 +1,8 @@
+INSERT m string
+INSERT nD number
+INSERT lN string
+INSERT qQIH number
+INSERT eL number
+INSERT jW string
+INSERT xryK number
+INSERT hT42A string
