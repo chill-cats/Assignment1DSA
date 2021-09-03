@@ -20,15 +20,18 @@ Identifier::Identifier(std::string name, IdentifierType type, std::string value)
     this->name = std::move(name);
 }
 
-IdentifierNode::IdentifierNode(Identifier id, IdentifierNode *next, IdentifierNode *prev) {
+IdentifierNode::IdentifierNode(Identifier id, IdentifierNode *next, IdentifierNode *prev,
+                               IdentifierNode *nextOfSameType, IdentifierNode *prevOfSameType) {
     this->id = std::move(id);
     this->nextInSameScope = next;
     this->prevInSameScope = prev;
+    this->nextOfSameType = nextOfSameType;
+    this->prevOfSameType = prevOfSameType;
 }
 
 
 IdentifierList::~IdentifierList() {
-    auto current = this->tail;
+    auto *current = this->tail;
     while (current) {
         auto deleteNode = current;
 
@@ -51,6 +54,18 @@ Identifier *IdentifierList::containIdentifierWithName(const string &name) const 
             return &identifier->id;
     }
     return nullptr;
+}
+
+void IdentifierList::insert(const string &name, const IdentifierType type) {
+    auto identifierNode = new IdentifierNode(Identifier(name, type), nullptr, this->tail);
+
+    if (this->tail != nullptr) {
+        identifierNode->prevInSameScope = this->tail;
+        identifierNode->prevInSameScope->nextInSameScope = identifierNode;
+    } else {
+        this->head = identifierNode;
+    }
+    this->tail = identifierNode;
 }
 
 
@@ -102,14 +117,6 @@ void ScopeList::removeInnermostScope() {
 void SymbolTable::run(const string &filename) {
     std::ifstream fileInput(filename);
 
-#ifdef __EMSCRIPTEN__
-    std::ifstream debugFile(filename);
-    std::string str((std::istreambuf_iterator<char>(debugFile)),
-                 std::istreambuf_iterator<char>());
-    cerr << str << std::endl;
-    cerr << "===========" << std::endl;
-#endif
-
     std::string line;
     while (std::getline(fileInput, line)) {
         auto output = this->processLine(line);
@@ -122,7 +129,7 @@ void SymbolTable::run(const string &filename) {
         }
         this->shouldPrint = false;
     }
-    this->handleCleanUp();
+    this->detectUnclosedBlock();
     fileInput.close();
 }
 
@@ -176,51 +183,32 @@ std::string SymbolTable::processLine(const string &line) {
         return {};
 
     } else if (std::regex_match(line, VALID_PRINT_REGEX)) {
-#ifndef __EMSCRIPTEN__
+
         auto result = trim(handlePrint());
         this->shouldPrint = !result.empty();
         return result;
-#else
-        this->shouldPrint = true;
-        return trim(this->handlePrint());
-#endif
+
     } else if (std::regex_match(line, VALID_REVERSE_PRINT_REGEX)) {
-#ifndef __EMSCRIPTEN__
+
         auto result = trim(handleReversePrint());
         this->shouldPrint = !result.empty();
         return result;
-#else
-        this->shouldPrint = true;
-        return trim(this->handleReversePrint());
-#endif
+
     }
     throw InvalidInstruction(line);
 }
 
-void SymbolTable::handleInsert(const string &identifierName, const string &type, const string &line) const {
-    // check type
+void
+SymbolTable::handleInsert(const std::string &identifierName, const std::string &type, const std::string &line) const {
     IdentifierType idType = type == "string" ? IdentifierType::string : IdentifierType::number;
-    // create new node
-    auto identifierNode = new IdentifierNode(Identifier(identifierName, idType));
-    // find the innermost scope if the identifier already exist
-    auto currentIdentifier = this->scopes.innerMostScope->idList.head;
-    while (currentIdentifier) {
-        if (currentIdentifier->id.name == identifierName) {
-            delete identifierNode;
-            throw Redeclared(line);
-        }
 
-        currentIdentifier = currentIdentifier->nextInSameScope;
+    auto foundIdentifierInInnerMostScope =
+            this->scopes.innerMostScope->containIdentifierWithName(identifierName) != nullptr;
+    if (foundIdentifierInInnerMostScope) {
+        throw Redeclared(line);
     }
-    // the identifier doest not exist in the innermost scope, insert the identifier to the innermost scope
-    auto *idListOfInnerMostScope = &this->scopes.innerMostScope->idList;
-    if (idListOfInnerMostScope->tail != nullptr) {
-        identifierNode->prevInSameScope = idListOfInnerMostScope->tail;
-        identifierNode->prevInSameScope->nextInSameScope = identifierNode;
-    } else {
-        idListOfInnerMostScope->head = identifierNode;
-    }
-    idListOfInnerMostScope->tail = identifierNode;
+
+    this->scopes.insert(identifierName, idType);
 
     // find the identifier node with the same name on the parents scope and set the next pointer
     auto currentScope = this->scopes.innerMostScope->parentScope;
@@ -228,8 +216,8 @@ void SymbolTable::handleInsert(const string &identifierName, const string &type,
         auto *idNode = currentScope->idList.head;
         while (idNode) {
             if (idNode->id.name == identifierName) {
-                idNode->nextOfSameType = identifierNode;
-                identifierNode->prevOfSameType = idNode;
+                idNode->nextOfSameType = this->scopes.innerMostScope->idList.tail;
+                this->scopes.innerMostScope->idList.tail->prevOfSameType = idNode;
                 return;
             }
             idNode = idNode->nextInSameScope;
@@ -359,7 +347,7 @@ std::string SymbolTable::handleReversePrint() const {
     return output;
 }
 
-void SymbolTable::handleCleanUp() const {
+void SymbolTable::detectUnclosedBlock() const {
     auto level = this->scopes.innerMostScope->level;
     if (level != 0)
         throw UnclosedBlock(level);

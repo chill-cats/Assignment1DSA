@@ -13,9 +13,7 @@ public:
     IdentifierType type = IdentifierType::string;
     std::string name;
     std::string value;
-
     Identifier() = default;
-
     Identifier(std::string name, IdentifierType type, std::string value = "");
 };
 
@@ -28,7 +26,8 @@ public:
     IdentifierNode *prevOfSameType{nullptr};
     IdentifierNode *nextOfSameType{nullptr};
 public:
-    explicit IdentifierNode(Identifier id, IdentifierNode *next = nullptr, IdentifierNode *prev = nullptr);
+    explicit IdentifierNode(Identifier id, IdentifierNode *next = nullptr, IdentifierNode *prev = nullptr,
+                            IdentifierNode *nextOfSameType = nullptr, IdentifierNode *prevOfSameType = nullptr);
 };
 
 class IdentifierList {
@@ -38,7 +37,8 @@ public:
 
     ~IdentifierList();
 
-    Identifier *containIdentifierWithName(const string &name) const;
+    [[nodiscard]] Identifier *containIdentifierWithName(const std::string &name) const;
+    void insert(const std::string &name, const IdentifierType type);
 };
 
 class Scope {
@@ -51,6 +51,12 @@ public:
 
     explicit Scope(int level, Scope *parentScope = nullptr, Scope *childScope = nullptr);
 
+    [[nodiscard]] inline Identifier *containIdentifierWithName(const std::string &name) const {
+        return this->idList.containIdentifierWithName(name);
+    }
+    inline void insert(const std::string &name, const IdentifierType type) {
+        this->idList.insert(name, type);
+    }
 };
 
 class ScopeList {
@@ -59,8 +65,11 @@ public:
     Scope *innerMostScope{nullptr};
 
     void addInnerScope();
-
     void removeInnermostScope();
+
+    inline void insert(const std::string &name, const IdentifierType type) const {
+        this->innerMostScope->insert(name, type);
+    }
 
     ~ScopeList();
 };
@@ -68,23 +77,21 @@ public:
 class SymbolTable {
 public:
     bool shouldPrint = false;
-
     ScopeList scopes;
 
     SymbolTable();
-
     void run(const string &filename);
     std::string processLine(const std::string &str);
+
     void handleInsert(const std::string &identifierName, const std::string &type, const std::string &line) const;
     void handleAssign(const std::string &identifierName, const std::string &value, const std::string &line) const;
     int handleLookup(const string &identifierName, const std::string &line) const;
     void handleBegin();
     void handleEnd();
+    [[nodiscard]] std::string handlePrint() const;
+    [[nodiscard]] std::string handleReversePrint() const;
 
-    std::string handlePrint() const;
-    std::string handleReversePrint() const;
-
-    void handleCleanUp() const;
+    void detectUnclosedBlock() const;
 };
 
 #endif

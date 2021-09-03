@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.20)
 project(assignmentDsaAlternative)
 
-set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_CXX_STANDARD 17)
 
 if (CMAKE_CXX_COMPILER_ID STREQUAL "AppleClang"
         OR CMAKE_CXX_COMPILER_ID STREQUAL "Clang"
@@ -37,15 +37,19 @@ add_library(symbolTable SymbolTable.h SymbolTable.cpp)
 add_executable(assignmentDsaAlternative main.cpp main.h)
 target_link_libraries(assignmentDsaAlternative symbolTable)
 
-if (GTest_FOUND AND (CMAKE_BUILD_TYPE STREQUAL "Debug"))
-    enable_testing()
+add_library(symbolTableHQ testing/HQ/SymbolTable.cpp testing/HQ/SymbolTable.h)
+add_executable(mainHQ testing/HQ/mainQ.cpp testing/HQ/main.h)
+target_link_libraries(mainHQ symbolTableHQ)
 
-    add_executable(testInsert testing/test_insert.cpp)
-    target_link_libraries(testInsert symbolTable GTest::gtest GTest::gtest_main)
-    gtest_discover_tests(testInsert)
-
-    add_executable(testInputOutput testing/test_input_output.cpp)
-    target_link_libraries(testInputOutput symbolTable GTest::gtest GTest::gtest_main)
-    gtest_discover_tests(testInputOutput)
-
-endif()
+#if (GTest_FOUND AND (CMAKE_BUILD_TYPE STREQUAL "Debug"))
+#    enable_testing()
+#
+#    add_executable(testInsert testing/test_insert.cpp)
+#    target_link_libraries(testInsert symbolTable GTest::gtest GTest::gtest_main)
+#    gtest_discover_tests(testInsert)
+#
+#    add_executable(testInputOutput testing/test_input_output.cpp)
+#    target_link_libraries(testInputOutput symbolTable GTest::gtest GTest::gtest_main)
+#    gtest_discover_tests(testInputOutput)
+#
+#endif()
