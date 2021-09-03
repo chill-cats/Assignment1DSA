@@ -1,0 +1,37 @@
+name: Test for memory leak using Clang ASAN
+on:
+  push:
+    branches:
+      - hoangnhan
+
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v2
+        with:
+          ref: hoangnhan
+      - name: Cache LLVM and Clang
+        id: cache-llvm
+        uses: action/cache@v2
+        with:
+          path: |
+            ./llvm
+          key: llvm-12
+      - name: Setup Clang latest
+        uses: KyleMayes/install-llvm-action@v1
+        with:
+          version: "12"
+          cached: ${{ steps.cache-llvm.outputs.cache-hit }}
+      - name: Setup cmake
+        uses: jwlawson/actions-setup-cmake@v1.9
+        with:
+          cmake-version: '3.20.x'
+      - name: Make build directory
+        run: mkdir build
+      - name: build with CMAKE
+        run: cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=clang -DCMAKE_CXX_COMPILER=clang++ -DCMAKE_BUILD_TYPE=Debug -DSAN=ASan .. && cmake --build . --target assignmentDsaAlternative
+        working-directory: ./build
+      - name: Run test
+        run: python ./testing/test.py build/assignmentDsaAlternative testcase/tests
