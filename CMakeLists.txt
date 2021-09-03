@@ -13,6 +13,10 @@ if (CMAKE_CXX_COMPILER_ID STREQUAL "AppleClang"
     endif()
 endif()
 
+if (UNIX AND NOT APPLE)
+    add_compile_options(-stdlib=libc++)
+endif()
+
 if (SAN STREQUAL "ASan")
     if (CMAKE_CXX_COMPILER_ID STREQUAL "AppleClang"
             OR CMAKE_CXX_COMPILER_ID STREQUAL "Clang"
