@@ -1,4 +1,4 @@
-name: Test for memory leak using Clang ASAN
+name: Test for memory leak using GCC ASAN
 on:
   push:
     branches:
@@ -12,18 +12,6 @@ jobs:
         uses: actions/checkout@v2
         with:
           ref: hoangnhan
-#      - name: Cache LLVM and Clang
-#        id: cache-llvm
-#        uses: actions/cache@v2
-#        with:
-#          path: |
-#            ./llvm
-#          key: llvm-12
-#      - name: Setup Clang latest
-#        uses: KyleMayes/install-llvm-action@v1
-#        with:
-#          version: "12"
-#          cached: ${{ steps.cache-llvm.outputs.cache-hit }}
       - name: Setup cmake
         uses: jwlawson/actions-setup-cmake@v1.9
         with:
