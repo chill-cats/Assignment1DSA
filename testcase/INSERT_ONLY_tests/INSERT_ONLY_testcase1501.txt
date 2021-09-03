@@ -1,0 +1,12 @@
+INSERT f number
+INSERT favI string
+INSERT f56_ number
+INSERT bcZE string
+INSERT f string
+INSERT k_P6 string
+INSERT xE string
+INSERT qj number
+INSERT tDrCB number
+INSERT o3nmF4 number
+INSERT iEejn string
+INSERT iMZ number

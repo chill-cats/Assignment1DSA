@@ -1,0 +1,2 @@
+ASSIGN kru c
+ASSIGN qImASe l

@@ -1,0 +1,6 @@
+INSERT d number
+INSERT pH string
+INSERT fb4L number
+INSERT ljc_ number
+INSERT zcYhAX number
+INSERT l number

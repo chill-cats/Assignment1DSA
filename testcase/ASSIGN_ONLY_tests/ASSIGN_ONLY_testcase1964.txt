@@ -1,0 +1,3 @@
+ASSIGN yNR0 'fvHG'
+ASSIGN yNR0 'lngT'
+ASSIGN eN eN

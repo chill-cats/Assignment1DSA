@@ -1,0 +1,2 @@
+ASSIGN n6in 'bS5'
+ASSIGN k 181

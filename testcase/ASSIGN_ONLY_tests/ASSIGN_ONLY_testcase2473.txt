@@ -1,0 +1,2 @@
+ASSIGN vG b25
+ASSIGN v8Y e6ndrC

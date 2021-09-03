@@ -1,0 +1,7 @@
+INSERT qF1 string
+INSERT u number
+INSERT rqYj string
+INSERT z string
+INSERT jam number
+INSERT z5Pj string
+INSERT reoxR number

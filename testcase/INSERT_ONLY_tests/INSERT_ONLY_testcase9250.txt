@@ -1,0 +1,5 @@
+INSERT pB_WWQ number
+INSERT d_ger number
+INSERT nG0w string
+INSERT yh number
+INSERT xp number

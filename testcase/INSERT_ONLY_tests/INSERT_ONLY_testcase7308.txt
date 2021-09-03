@@ -1,0 +1,8 @@
+INSERT z string
+INSERT p3 number
+INSERT lJFD number
+INSERT mSdNFA string
+INSERT c_id string
+INSERT h9FxX number
+INSERT lV2 number
+INSERT nn string

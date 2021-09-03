@@ -1,0 +1,4 @@
+INSERT zMKT number
+INSERT uS4rS string
+INSERT v6z number
+INSERT wmAa string

@@ -1,0 +1,8 @@
+INSERT lNkabI number
+INSERT jP2 string
+INSERT c string
+INSERT e number
+INSERT u6 string
+INSERT d number
+INSERT kM number
+INSERT o23 number

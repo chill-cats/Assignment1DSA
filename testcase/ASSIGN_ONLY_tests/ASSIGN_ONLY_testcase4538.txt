@@ -1,0 +1,2 @@
+ASSIGN h6sD 'hRf5c'
+ASSIGN h6sD 512

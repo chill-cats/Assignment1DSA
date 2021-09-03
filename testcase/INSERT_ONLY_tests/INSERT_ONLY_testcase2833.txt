@@ -1,0 +1,8 @@
+INSERT t_o2 string
+INSERT in2g string
+INSERT dc string
+INSERT wcD6Z number
+INSERT r9Up string
+INSERT fbqU number
+INSERT eI string
+INSERT hyu number

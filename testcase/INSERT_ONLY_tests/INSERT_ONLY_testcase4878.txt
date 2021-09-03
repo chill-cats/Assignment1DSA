@@ -1,0 +1,6 @@
+INSERT oTK string
+INSERT msbJ string
+INSERT rF number
+INSERT q number
+INSERT xDib number
+INSERT g number

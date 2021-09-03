@@ -1,0 +1,2 @@
+INSERT gj number
+INSERT iXAUs0 number

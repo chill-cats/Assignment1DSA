@@ -1,0 +1,5 @@
+INSERT q string
+INSERT g8qP number
+INSERT wtq string
+INSERT l string
+INSERT g8Bj string

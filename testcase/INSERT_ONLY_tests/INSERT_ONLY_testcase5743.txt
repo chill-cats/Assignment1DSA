@@ -1,0 +1,2 @@
+INSERT x string
+INSERT s378d number

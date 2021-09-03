@@ -1,0 +1,2 @@
+INSERT cj number
+INSERT ye string

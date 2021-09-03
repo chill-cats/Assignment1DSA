@@ -1,0 +1,3 @@
+ASSIGN kgzMb 'I1G'
+ASSIGN wl kgzMb
+ASSIGN xVATDV bH

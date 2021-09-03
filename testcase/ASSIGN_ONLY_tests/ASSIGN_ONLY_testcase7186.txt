@@ -1,0 +1,2 @@
+ASSIGN x7X x7X
+ASSIGN x7X 'J'

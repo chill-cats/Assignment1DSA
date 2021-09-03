@@ -1,0 +1,4 @@
+ASSIGN v 924
+ASSIGN v v
+ASSIGN k v
+ASSIGN tifE 'Kim'

@@ -1,0 +1,12 @@
+INSERT nCauos number
+INSERT wx number
+INSERT sw string
+INSERT a number
+INSERT qW string
+INSERT mjQ8E number
+INSERT aUAr number
+INSERT ca7Z8b number
+INSERT iN number
+INSERT w string
+INSERT qf number
+INSERT jqmK string

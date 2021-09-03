@@ -1,0 +1,7 @@
+INSERT rj5 number
+INSERT zB string
+INSERT w4Jn number
+INSERT i string
+INSERT kS number
+INSERT cQ number
+INSERT vm1 number

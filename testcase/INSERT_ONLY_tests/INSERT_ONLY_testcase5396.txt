@@ -1,0 +1,10 @@
+INSERT d number
+INSERT w number
+INSERT i42 number
+INSERT t9TTgK string
+INSERT o number
+INSERT bGN string
+INSERT gsU number
+INSERT o7Of number
+INSERT wHqXX0 string
+INSERT pWMUj number

@@ -1,0 +1,2 @@
+INSERT tqClB number
+INSERT c string

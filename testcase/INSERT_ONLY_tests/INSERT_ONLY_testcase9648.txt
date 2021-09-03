@@ -1,0 +1,6 @@
+INSERT n string
+INSERT t0 number
+INSERT swafG number
+INSERT bPr string
+INSERT e6 number
+INSERT kFgZ number

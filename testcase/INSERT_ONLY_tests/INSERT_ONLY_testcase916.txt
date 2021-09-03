@@ -1,0 +1,6 @@
+INSERT w1yNTS string
+INSERT vC string
+INSERT xa number
+INSERT ecW number
+INSERT p string
+INSERT i number

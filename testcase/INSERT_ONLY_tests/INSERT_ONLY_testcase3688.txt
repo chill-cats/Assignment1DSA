@@ -1,0 +1,5 @@
+INSERT h8A number
+INSERT wA string
+INSERT wy2unL string
+INSERT cA6_r string
+INSERT bEi number

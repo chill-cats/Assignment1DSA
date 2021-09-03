@@ -1,0 +1,2 @@
+ASSIGN sMPx 'uK6'
+ASSIGN pzkASi 'l'

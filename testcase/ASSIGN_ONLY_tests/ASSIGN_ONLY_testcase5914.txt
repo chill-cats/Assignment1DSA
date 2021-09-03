@@ -1,0 +1,3 @@
+ASSIGN fN 'ihV'
+ASSIGN oyt 'N3'
+ASSIGN tSR1T 396

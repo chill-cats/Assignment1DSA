@@ -1,0 +1,8 @@
+INSERT ils_Ic string
+INSERT l611 string
+INSERT b_9fng number
+INSERT evQ number
+INSERT nb number
+INSERT avJ number
+INSERT aCX string
+INSERT kx string

@@ -1,0 +1,17 @@
+INSERT sP string
+INSERT b162 number
+INSERT l string
+INSERT om number
+INSERT m string
+INSERT ulT5 string
+INSERT q number
+INSERT uYmbd string
+INSERT v8TAJB string
+INSERT b94sYC number
+INSERT bu7 number
+INSERT d07t string
+INSERT qC string
+INSERT c number
+INSERT q2OP string
+INSERT ctbNm number
+INSERT tw string

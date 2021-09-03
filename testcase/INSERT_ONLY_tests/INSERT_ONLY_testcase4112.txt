@@ -1,0 +1,5 @@
+INSERT aXSdJ number
+INSERT hdxMaC string
+INSERT dt number
+INSERT up number
+INSERT xyX83 number

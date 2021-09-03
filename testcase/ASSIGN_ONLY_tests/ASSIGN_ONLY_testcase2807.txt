@@ -1,0 +1,2 @@
+ASSIGN z_lv 127
+ASSIGN z_lv z_lv

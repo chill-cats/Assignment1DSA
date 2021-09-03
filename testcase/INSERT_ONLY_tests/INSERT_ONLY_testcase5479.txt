@@ -1,0 +1,3 @@
+INSERT he1Yg string
+INSERT c string
+INSERT r_6zS number

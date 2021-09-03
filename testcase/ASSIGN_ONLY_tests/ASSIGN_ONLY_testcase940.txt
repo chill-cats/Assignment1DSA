@@ -1,0 +1,2 @@
+ASSIGN a3X6h 'V'
+ASSIGN bTxx 0

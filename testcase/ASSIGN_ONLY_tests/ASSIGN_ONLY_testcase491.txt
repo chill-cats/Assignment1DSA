@@ -1,0 +1,3 @@
+ASSIGN vCCK j
+ASSIGN pK t
+ASSIGN pF lNF

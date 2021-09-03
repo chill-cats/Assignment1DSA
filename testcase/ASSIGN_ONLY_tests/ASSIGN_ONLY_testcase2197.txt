@@ -1,0 +1,3 @@
+ASSIGN d 'J'
+ASSIGN kV zfwf
+ASSIGN r 'A'

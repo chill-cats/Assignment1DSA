@@ -1,0 +1,8 @@
+INSERT yTjPy string
+INSERT u number
+INSERT t string
+INSERT uhmu0 string
+INSERT zTTd string
+INSERT pnX number
+INSERT m number
+INSERT x number

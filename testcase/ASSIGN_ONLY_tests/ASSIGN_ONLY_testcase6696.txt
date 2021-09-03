@@ -1,0 +1,2 @@
+ASSIGN lfRA 'X9'
+ASSIGN lfRA 522

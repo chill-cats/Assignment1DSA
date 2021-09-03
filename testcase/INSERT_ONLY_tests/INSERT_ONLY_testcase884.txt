@@ -1,0 +1,8 @@
+INSERT k number
+INSERT yNm string
+INSERT goqJ number
+INSERT h number
+INSERT aDAbm number
+INSERT b number
+INSERT eKYmE number
+INSERT gaFy string

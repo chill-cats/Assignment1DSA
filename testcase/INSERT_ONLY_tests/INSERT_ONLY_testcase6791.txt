@@ -1,0 +1,4 @@
+INSERT e string
+INSERT ql number
+INSERT vX string
+INSERT t0G number

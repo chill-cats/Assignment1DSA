@@ -1,0 +1,10 @@
+INSERT lS string
+INSERT y number
+INSERT yobT string
+INSERT haSobl string
+INSERT mj string
+INSERT sPe string
+INSERT gs2 string
+INSERT lEU number
+INSERT poDMk number
+INSERT vPdC5 number

@@ -1,0 +1,2 @@
+ASSIGN ql 824
+ASSIGN fOsY 'yT'

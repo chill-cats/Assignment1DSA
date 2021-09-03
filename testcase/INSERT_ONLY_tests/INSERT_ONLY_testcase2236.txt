@@ -1,0 +1,6 @@
+INSERT g string
+INSERT o string
+INSERT o4ivs string
+INSERT oXNc number
+INSERT w number
+INSERT m string

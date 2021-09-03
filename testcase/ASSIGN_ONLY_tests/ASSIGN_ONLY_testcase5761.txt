@@ -1,0 +1,2 @@
+ASSIGN qk 107
+ASSIGN s 'tFp'

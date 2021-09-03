@@ -1,0 +1,6 @@
+INSERT aX5 number
+INSERT b number
+INSERT t31s number
+INSERT kzKRS string
+INSERT inuiD string
+INSERT i string

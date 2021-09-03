@@ -1,0 +1,5 @@
+INSERT s string
+INSERT xugIn6 number
+INSERT p2 number
+INSERT xW number
+INSERT sFl7N string

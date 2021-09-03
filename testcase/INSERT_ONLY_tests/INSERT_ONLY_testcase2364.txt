@@ -1,0 +1,7 @@
+INSERT adK5 number
+INSERT lkGE string
+INSERT v2rF number
+INSERT kgNsN string
+INSERT bV number
+INSERT kHP number
+INSERT wZ string

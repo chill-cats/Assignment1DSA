@@ -1,0 +1,4 @@
+ASSIGN wt wt
+ASSIGN aiG wt
+ASSIGN aiG 'K'
+ASSIGN x '2uVdg'

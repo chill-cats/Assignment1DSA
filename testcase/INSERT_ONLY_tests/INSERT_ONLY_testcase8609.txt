@@ -1,0 +1,6 @@
+INSERT pys3_ number
+INSERT ywJg string
+INSERT y9p number
+INSERT k9bl6_ string
+INSERT l number
+INSERT kT number

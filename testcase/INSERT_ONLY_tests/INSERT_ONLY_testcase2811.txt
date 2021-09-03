@@ -1,0 +1,17 @@
+INSERT p string
+INSERT ic number
+INSERT d number
+INSERT w6 string
+INSERT yUcfT number
+INSERT mKhXM string
+INSERT cC string
+INSERT uvfa string
+INSERT gWYNr number
+INSERT fQ string
+INSERT z string
+INSERT eHw9 number
+INSERT oBpciz number
+INSERT nEL number
+INSERT v6L number
+INSERT cOur string
+INSERT y number

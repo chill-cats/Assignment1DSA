@@ -1,0 +1,5 @@
+INSERT kyRPK number
+INSERT cNtfy string
+INSERT djb string
+INSERT xGhp number
+INSERT sF2 number

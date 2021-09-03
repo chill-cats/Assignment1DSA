@@ -1,0 +1,2 @@
+ASSIGN g3X 795
+ASSIGN x 'jk'

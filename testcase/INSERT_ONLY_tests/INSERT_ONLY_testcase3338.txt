@@ -1,0 +1,8 @@
+INSERT f2 string
+INSERT nX2Xn number
+INSERT mN8 number
+INSERT j string
+INSERT vN string
+INSERT b1O string
+INSERT fzl0 string
+INSERT ssfB9 number

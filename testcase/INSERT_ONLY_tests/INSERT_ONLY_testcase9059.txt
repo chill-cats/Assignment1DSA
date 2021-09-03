@@ -1,0 +1,12 @@
+INSERT c_PKTN number
+INSERT y1s number
+INSERT k2H6Mc string
+INSERT x number
+INSERT nmQy number
+INSERT npPEJ number
+INSERT yjS number
+INSERT maR string
+INSERT yrP6 number
+INSERT vM5O number
+INSERT e8 string
+INSERT m string

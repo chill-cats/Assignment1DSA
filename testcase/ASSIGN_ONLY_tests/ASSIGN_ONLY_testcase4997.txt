@@ -1,0 +1,2 @@
+ASSIGN tu4j tu4j
+ASSIGN wQAP 'd'

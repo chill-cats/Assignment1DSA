@@ -1,0 +1,6 @@
+INSERT okZe6v string
+INSERT jO number
+INSERT mgo0z string
+INSERT nA8 string
+INSERT cg_ string
+INSERT c number

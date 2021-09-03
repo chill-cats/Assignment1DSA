@@ -1,0 +1,4 @@
+INSERT fP number
+INSERT g string
+INSERT bnC number
+INSERT y string

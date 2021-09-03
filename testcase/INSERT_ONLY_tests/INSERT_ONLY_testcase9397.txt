@@ -1,0 +1,11 @@
+INSERT rZ string
+INSERT cj number
+INSERT x number
+INSERT n string
+INSERT vWH number
+INSERT j string
+INSERT u_p string
+INSERT m number
+INSERT oX string
+INSERT iQ number
+INSERT cn string

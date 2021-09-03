@@ -1,0 +1,6 @@
+INSERT ri string
+INSERT oePjR7 number
+INSERT i number
+INSERT vwME string
+INSERT pN number
+INSERT hum7C string

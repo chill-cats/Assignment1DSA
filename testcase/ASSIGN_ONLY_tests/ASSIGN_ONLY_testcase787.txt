@@ -1,0 +1,2 @@
+ASSIGN ptkn 740
+ASSIGN uEY 'U'

@@ -1,0 +1,5 @@
+INSERT rSWOWF string
+INSERT jtd number
+INSERT s string
+INSERT iq number
+INSERT kTMDrS string

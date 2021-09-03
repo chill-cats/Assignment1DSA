@@ -1,0 +1,4 @@
+INSERT kGxTzA string
+INSERT sbEpO number
+INSERT n string
+INSERT i number

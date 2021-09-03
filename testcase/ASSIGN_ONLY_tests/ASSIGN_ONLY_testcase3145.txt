@@ -1,0 +1,2 @@
+ASSIGN z36 512
+ASSIGN vSF 'HByo9'

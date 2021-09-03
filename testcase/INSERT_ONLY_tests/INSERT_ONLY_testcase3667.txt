@@ -1,0 +1,6 @@
+INSERT fRrCI number
+INSERT oMSi7 string
+INSERT vm0 string
+INSERT vk number
+INSERT pZlX number
+INSERT i string

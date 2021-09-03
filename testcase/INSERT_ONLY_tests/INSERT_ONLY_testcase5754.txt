@@ -1,0 +1,3 @@
+INSERT cuW number
+INSERT piczRN number
+INSERT bMf string

@@ -1,0 +1,4 @@
+ASSIGN n 274
+ASSIGN o1y3mf gQI1
+ASSIGN o1y3mf o1y3mf
+ASSIGN r 945

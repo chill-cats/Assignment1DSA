@@ -1,0 +1,13 @@
+INSERT s number
+INSERT if string
+INSERT ssh string
+INSERT efl5k number
+INSERT pk8 string
+INSERT g6 string
+INSERT yuQ string
+INSERT fTvr40 number
+INSERT eG string
+INSERT xj3y number
+INSERT ol4 number
+INSERT iI string
+INSERT tLx2 number

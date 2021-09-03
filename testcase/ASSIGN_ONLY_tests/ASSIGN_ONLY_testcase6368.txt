@@ -1,0 +1,3 @@
+ASSIGN lh 747
+ASSIGN hA 'f'
+ASSIGN lNCl of

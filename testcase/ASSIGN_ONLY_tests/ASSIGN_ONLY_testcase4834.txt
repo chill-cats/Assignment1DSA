@@ -1,0 +1,4 @@
+ASSIGN l2 oi
+ASSIGN l2 's c'
+ASSIGN l2 'tRb6'
+ASSIGN tS9 429

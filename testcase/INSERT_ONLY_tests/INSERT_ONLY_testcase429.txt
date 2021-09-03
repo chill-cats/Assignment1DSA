@@ -1,0 +1,8 @@
+INSERT yd number
+INSERT w number
+INSERT bkYd5w number
+INSERT sNDp1 string
+INSERT s string
+INSERT u2LM string
+INSERT yJBTQ string
+INSERT iwm string

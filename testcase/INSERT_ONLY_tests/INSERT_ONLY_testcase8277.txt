@@ -1,0 +1,7 @@
+INSERT m number
+INSERT tG string
+INSERT tDWvr string
+INSERT cl string
+INSERT ojX string
+INSERT sv2sP number
+INSERT cDz number

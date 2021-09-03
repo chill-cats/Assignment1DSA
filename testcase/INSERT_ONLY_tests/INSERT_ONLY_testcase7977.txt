@@ -1,0 +1,5 @@
+INSERT ufKR1 string
+INSERT l1 string
+INSERT uA string
+INSERT xeDYSo number
+INSERT mSKuh string

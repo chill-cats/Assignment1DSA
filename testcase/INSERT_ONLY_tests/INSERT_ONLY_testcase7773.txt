@@ -1,0 +1,7 @@
+INSERT w string
+INSERT wegZ9k number
+INSERT nd1 number
+INSERT t0FLL string
+INSERT fTG string
+INSERT gN number
+INSERT ocpAiB string

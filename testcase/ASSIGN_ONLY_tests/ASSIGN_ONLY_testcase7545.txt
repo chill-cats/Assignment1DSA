@@ -1,0 +1,2 @@
+ASSIGN sy 'Gg2X3'
+ASSIGN aur 756

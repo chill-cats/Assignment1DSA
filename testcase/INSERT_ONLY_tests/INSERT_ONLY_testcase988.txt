@@ -1,0 +1,8 @@
+INSERT uenAg number
+INSERT v string
+INSERT ajvP string
+INSERT k number
+INSERT zW5YG string
+INSERT nG3 number
+INSERT nV_h8L number
+INSERT j2SDIS number

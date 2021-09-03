@@ -1,0 +1,17 @@
+INSERT nPV number
+INSERT s5cC5 string
+INSERT v string
+INSERT wRbytk number
+INSERT ce8jx number
+INSERT h number
+INSERT pCG_ string
+INSERT nqLRf0 number
+INSERT r string
+INSERT vDLXi number
+INSERT iKe4X number
+INSERT f6WWU number
+INSERT sz6n string
+INSERT vx number
+INSERT t0 number
+INSERT kG string
+INSERT bb number

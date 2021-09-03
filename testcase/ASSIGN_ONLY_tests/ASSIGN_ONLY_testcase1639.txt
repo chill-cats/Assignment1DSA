@@ -1,0 +1,1 @@
+ASSIGN pkC 'g350s'

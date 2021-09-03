@@ -1,0 +1,3 @@
+ASSIGN ke 'Qb'
+ASSIGN vn3EE5 'uX3g'
+ASSIGN c 997

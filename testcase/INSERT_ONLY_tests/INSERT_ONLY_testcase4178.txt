@@ -1,0 +1,9 @@
+INSERT sQR string
+INSERT ssMI3 string
+INSERT l string
+INSERT oBM10 string
+INSERT v string
+INSERT x_qAs number
+INSERT laM number
+INSERT ugG number
+INSERT qzE string

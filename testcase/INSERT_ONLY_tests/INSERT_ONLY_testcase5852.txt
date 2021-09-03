@@ -1,0 +1,10 @@
+INSERT g string
+INSERT m number
+INSERT di string
+INSERT a string
+INSERT e8UV string
+INSERT e string
+INSERT vq2gk string
+INSERT ec8Jr string
+INSERT yUPd number
+INSERT uFG8 string

@@ -1,0 +1,2 @@
+ASSIGN r 935
+ASSIGN x 'HzR'

@@ -1,0 +1,2 @@
+ASSIGN p '030'
+ASSIGN ca ca

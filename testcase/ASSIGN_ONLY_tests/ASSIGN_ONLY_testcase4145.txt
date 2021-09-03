@@ -1,0 +1,3 @@
+ASSIGN rV 'Z'
+ASSIGN x 980
+ASSIGN ja nr

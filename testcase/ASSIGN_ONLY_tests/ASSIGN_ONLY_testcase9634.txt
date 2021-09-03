@@ -1,0 +1,3 @@
+ASSIGN j 'M'
+ASSIGN d2vd 952
+ASSIGN oV 'hSixA'

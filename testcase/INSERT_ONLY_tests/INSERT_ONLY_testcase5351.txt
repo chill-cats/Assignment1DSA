@@ -1,0 +1,6 @@
+INSERT lo string
+INSERT k number
+INSERT uo2T string
+INSERT pleTnB string
+INSERT rs number
+INSERT wP string

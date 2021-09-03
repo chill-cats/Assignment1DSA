@@ -1,0 +1,7 @@
+INSERT qq38b number
+INSERT r string
+INSERT vNm string
+INSERT tgfHKW string
+INSERT qo number
+INSERT bSnHo number
+INSERT hssWz6 string

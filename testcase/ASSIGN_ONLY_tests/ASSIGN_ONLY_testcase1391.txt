@@ -1,0 +1,2 @@
+ASSIGN hp21i1 1190
+ASSIGN u 'wxE'

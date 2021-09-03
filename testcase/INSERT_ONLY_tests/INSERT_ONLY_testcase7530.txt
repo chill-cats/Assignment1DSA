@@ -1,0 +1,7 @@
+INSERT qtElY string
+INSERT yNj number
+INSERT adTpar string
+INSERT ccA number
+INSERT t7DB number
+INSERT h number
+INSERT acoF number

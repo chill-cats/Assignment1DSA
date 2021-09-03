@@ -1,0 +1,4 @@
+INSERT mJ8A number
+INSERT c string
+INSERT gG number
+INSERT vEme string

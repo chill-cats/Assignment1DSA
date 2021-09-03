@@ -1,0 +1,8 @@
+INSERT xV number
+INSERT scRl number
+INSERT em string
+INSERT w3G5g string
+INSERT w number
+INSERT pYo7A string
+INSERT v1 number
+INSERT l1soW string

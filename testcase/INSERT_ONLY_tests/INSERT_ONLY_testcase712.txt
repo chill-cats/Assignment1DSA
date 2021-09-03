@@ -1,0 +1,6 @@
+INSERT e90 number
+INSERT i number
+INSERT kmxLY number
+INSERT jLHh8Q number
+INSERT f_9V string
+INSERT dmOEMY string

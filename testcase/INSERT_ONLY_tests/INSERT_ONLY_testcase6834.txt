@@ -1,0 +1,11 @@
+INSERT y7 number
+INSERT wk number
+INSERT eJ string
+INSERT jwzh string
+INSERT e4GT number
+INSERT j number
+INSERT tPC string
+INSERT z number
+INSERT cG81 number
+INSERT tbMkSZ number
+INSERT lAfKr string

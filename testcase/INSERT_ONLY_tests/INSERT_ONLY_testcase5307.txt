@@ -1,0 +1,3 @@
+INSERT cS8NwX string
+INSERT t number
+INSERT n6 number

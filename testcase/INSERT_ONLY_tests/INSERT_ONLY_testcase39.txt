@@ -1,0 +1,6 @@
+INSERT nTgqK3 string
+INSERT rm number
+INSERT g string
+INSERT w_wgBu string
+INSERT lesT number
+INSERT kLQ2Nx number

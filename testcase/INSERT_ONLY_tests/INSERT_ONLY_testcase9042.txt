@@ -1,0 +1,3 @@
+INSERT isFsT number
+INSERT bnf number
+INSERT n string

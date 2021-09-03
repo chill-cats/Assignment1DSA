@@ -1,0 +1,8 @@
+INSERT x string
+INSERT zES4 string
+INSERT sljK string
+INSERT kJ number
+INSERT ag74Mw string
+INSERT jp1XI number
+INSERT f number
+INSERT aw9Hj string

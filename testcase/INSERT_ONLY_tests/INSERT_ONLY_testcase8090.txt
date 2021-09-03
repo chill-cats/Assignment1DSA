@@ -1,0 +1,12 @@
+INSERT eR2 string
+INSERT x string
+INSERT r number
+INSERT x number
+INSERT g string
+INSERT b string
+INSERT f number
+INSERT ueVAMK number
+INSERT reH string
+INSERT zkz string
+INSERT cRtDy number
+INSERT bnD5 number

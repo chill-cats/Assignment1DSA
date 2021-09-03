@@ -1,0 +1,6 @@
+INSERT gL5 number
+INSERT mCN string
+INSERT fN number
+INSERT sqXJQ4 string
+INSERT s1NznK string
+INSERT yyY number

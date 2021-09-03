@@ -1,0 +1,2 @@
+ASSIGN u2w tPk
+ASSIGN n 'km'

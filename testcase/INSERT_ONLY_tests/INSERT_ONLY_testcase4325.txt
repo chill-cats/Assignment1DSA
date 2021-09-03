@@ -1,0 +1,7 @@
+INSERT mKh number
+INSERT pNL number
+INSERT vFc number
+INSERT gGbMd string
+INSERT zkTc number
+INSERT tM4 string
+INSERT xP6UE string

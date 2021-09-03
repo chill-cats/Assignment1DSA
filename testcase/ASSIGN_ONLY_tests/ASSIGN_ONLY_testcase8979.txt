@@ -1,0 +1,4 @@
+ASSIGN n 948
+ASSIGN gy 1199
+ASSIGN gy gy
+ASSIGN o5Bblj 'sZa'

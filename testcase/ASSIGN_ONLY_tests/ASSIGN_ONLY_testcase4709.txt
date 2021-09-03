@@ -1,0 +1,5 @@
+ASSIGN c7 '1q'
+ASSIGN vdki ' H'
+ASSIGN c '5mi5k'
+ASSIGN a '3P'
+ASSIGN a 358

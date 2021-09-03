@@ -1,0 +1,2 @@
+ASSIGN qx qx
+ASSIGN qx 'rnS'

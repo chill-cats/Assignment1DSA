@@ -1,0 +1,6 @@
+INSERT g8 string
+INSERT hc2rr number
+INSERT v4aURT number
+INSERT zUroyO number
+INSERT erw string
+INSERT jtH number

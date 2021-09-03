@@ -1,0 +1,8 @@
+INSERT kpaw string
+INSERT cM number
+INSERT eOFVX string
+INSERT g5GP number
+INSERT vGV2k number
+INSERT utX20V number
+INSERT iB number
+INSERT bN58 number

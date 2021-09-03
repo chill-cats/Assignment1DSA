@@ -1,0 +1,6 @@
+INSERT v number
+INSERT hx string
+INSERT j string
+INSERT g number
+INSERT upa number
+INSERT m_jkb number

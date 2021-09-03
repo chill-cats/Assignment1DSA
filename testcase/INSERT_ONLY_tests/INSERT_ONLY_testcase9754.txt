@@ -1,0 +1,9 @@
+INSERT tBZy_l string
+INSERT e string
+INSERT hzx_f number
+INSERT p number
+INSERT tZnE number
+INSERT w5Tg string
+INSERT v number
+INSERT nY9K string
+INSERT yRic string

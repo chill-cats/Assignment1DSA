@@ -1,0 +1,2 @@
+ASSIGN hX 257
+ASSIGN kLmo 'oVU'

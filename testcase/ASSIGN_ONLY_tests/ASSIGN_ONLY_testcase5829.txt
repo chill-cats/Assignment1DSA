@@ -1,0 +1,2 @@
+ASSIGN fJFOd 'MJ'
+ASSIGN ex 22

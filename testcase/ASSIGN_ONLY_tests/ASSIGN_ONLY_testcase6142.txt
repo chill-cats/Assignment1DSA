@@ -1,0 +1,2 @@
+ASSIGN b 'a T'
+ASSIGN lUC1 'C'

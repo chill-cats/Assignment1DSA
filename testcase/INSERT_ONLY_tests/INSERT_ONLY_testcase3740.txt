@@ -1,0 +1,10 @@
+INSERT nDm5 number
+INSERT o6k string
+INSERT sk number
+INSERT kyrLo number
+INSERT z number
+INSERT s number
+INSERT uq number
+INSERT l string
+INSERT w1 string
+INSERT uqyaN8 number

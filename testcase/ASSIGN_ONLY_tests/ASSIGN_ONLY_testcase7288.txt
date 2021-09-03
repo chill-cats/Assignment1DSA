@@ -1,0 +1,3 @@
+ASSIGN fdd 486
+ASSIGN v4ba v
+ASSIGN qMd2Hx 'ZqU'

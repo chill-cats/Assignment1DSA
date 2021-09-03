@@ -1,0 +1,10 @@
+INSERT yi number
+INSERT e number
+INSERT aq2Gbg string
+INSERT f string
+INSERT wV number
+INSERT hoAuQ number
+INSERT j number
+INSERT xTGdn string
+INSERT ojeU string
+INSERT b string

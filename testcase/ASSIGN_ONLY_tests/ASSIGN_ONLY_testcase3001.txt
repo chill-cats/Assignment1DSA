@@ -1,0 +1,2 @@
+ASSIGN zJToXY jX
+ASSIGN j2j 251

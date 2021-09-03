@@ -1,0 +1,9 @@
+INSERT h2s number
+INSERT z string
+INSERT xc9dyQ number
+INSERT lPg string
+INSERT zYp number
+INSERT cCC number
+INSERT w1 number
+INSERT x number
+INSERT y0UKy number

@@ -1,0 +1,8 @@
+INSERT wNO number
+INSERT w number
+INSERT t string
+INSERT wam string
+INSERT k string
+INSERT ovUQP string
+INSERT pmx0 string
+INSERT v string

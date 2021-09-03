@@ -1,0 +1,7 @@
+INSERT yt1 number
+INSERT ngBz number
+INSERT nVTeL number
+INSERT wrp3_3 string
+INSERT ot6sLZ string
+INSERT hWYK1 string
+INSERT t number

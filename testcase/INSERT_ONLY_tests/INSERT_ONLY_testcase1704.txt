@@ -1,0 +1,13 @@
+INSERT u8 number
+INSERT p number
+INSERT kQwNMa string
+INSERT cl number
+INSERT v number
+INSERT baH4 number
+INSERT d__iVa string
+INSERT g number
+INSERT qN number
+INSERT tZL number
+INSERT eThWlx string
+INSERT hndp5 string
+INSERT h string

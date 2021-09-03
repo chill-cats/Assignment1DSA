@@ -1,0 +1,6 @@
+INSERT x number
+INSERT vvAN string
+INSERT tFEa number
+INSERT n8KQ number
+INSERT k string
+INSERT bAeW string

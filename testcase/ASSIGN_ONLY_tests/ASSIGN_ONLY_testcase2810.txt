@@ -1,0 +1,4 @@
+ASSIGN qgwyRe 562
+ASSIGN hOF 'BvcR'
+ASSIGN pp 1070
+ASSIGN ry 'BN'

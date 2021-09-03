@@ -1,0 +1,3 @@
+ASSIGN a 'Fd'
+ASSIGN fEMjLk 'kv8'
+ASSIGN d v

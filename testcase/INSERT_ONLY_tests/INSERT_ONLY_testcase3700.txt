@@ -1,0 +1,4 @@
+INSERT dcYb number
+INSERT ff3U string
+INSERT m8uxG number
+INSERT ot number

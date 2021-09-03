@@ -1,0 +1,6 @@
+INSERT gx_Ode string
+INSERT ka string
+INSERT jnVvHm string
+INSERT ji number
+INSERT c string
+INSERT r string

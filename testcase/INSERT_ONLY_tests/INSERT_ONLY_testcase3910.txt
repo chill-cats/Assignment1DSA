@@ -1,0 +1,9 @@
+INSERT c1 number
+INSERT t7 string
+INSERT u number
+INSERT lmT5x string
+INSERT g string
+INSERT z4k5sZ string
+INSERT pC0h3 string
+INSERT qnZy string
+INSERT vkf number

@@ -1,0 +1,13 @@
+INSERT g number
+INSERT fr60 string
+INSERT fmJP3 number
+INSERT nBTCN number
+INSERT jy string
+INSERT g4oTD number
+INSERT bR5Xeh number
+INSERT tXB string
+INSERT sZEK string
+INSERT e5pZ1m string
+INSERT utOH6Y string
+INSERT u number
+INSERT t string

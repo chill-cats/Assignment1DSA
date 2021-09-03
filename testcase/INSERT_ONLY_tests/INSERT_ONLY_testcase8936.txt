@@ -1,0 +1,9 @@
+INSERT p1clv string
+INSERT dF string
+INSERT pZN string
+INSERT i string
+INSERT yBVE string
+INSERT sNfVk number
+INSERT bXn string
+INSERT pKF9 number
+INSERT aB string

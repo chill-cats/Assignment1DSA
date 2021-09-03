@@ -1,0 +1,2 @@
+ASSIGN aVwg1 '7'
+ASSIGN pB_WWQ 674

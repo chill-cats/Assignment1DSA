@@ -1,0 +1,5 @@
+ASSIGN x 'k'
+ASSIGN x '21'
+ASSIGN ju 'T'
+ASSIGN us 301
+ASSIGN us 'S'

@@ -1,0 +1,8 @@
+INSERT e string
+INSERT a0 number
+INSERT ms number
+INSERT zAc6VS number
+INSERT jYm7qg string
+INSERT ff8 string
+INSERT i string
+INSERT s3lB number

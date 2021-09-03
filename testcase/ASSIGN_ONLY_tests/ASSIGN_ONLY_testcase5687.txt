@@ -1,0 +1,3 @@
+ASSIGN aN 'NLd7'
+ASSIGN ho 98
+ASSIGN niIZ 'GJ'

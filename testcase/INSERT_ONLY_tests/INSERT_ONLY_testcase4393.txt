@@ -1,0 +1,9 @@
+INSERT a number
+INSERT mu5 string
+INSERT k number
+INSERT ipCL string
+INSERT i7 number
+INSERT fB number
+INSERT x string
+INSERT fM number
+INSERT e0Lr5d number

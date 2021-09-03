@@ -1,0 +1,1 @@
+ASSIGN ngm42b 'AS1Z'

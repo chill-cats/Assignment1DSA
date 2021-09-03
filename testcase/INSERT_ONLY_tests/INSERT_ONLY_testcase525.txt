@@ -1,0 +1,7 @@
+INSERT f string
+INSERT iFhuv number
+INSERT iW number
+INSERT loi string
+INSERT tF string
+INSERT fCGXJ number
+INSERT oDHM number

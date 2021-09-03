@@ -1,0 +1,11 @@
+INSERT qv number
+INSERT ibGlp string
+INSERT uv number
+INSERT fu number
+INSERT zEl number
+INSERT w number
+INSERT xJzDo4 number
+INSERT hji67 number
+INSERT ad6Ib2 string
+INSERT jVl string
+INSERT p number

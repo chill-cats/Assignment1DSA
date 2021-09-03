@@ -1,0 +1,2 @@
+ASSIGN i 'aIV'
+ASSIGN g '5oi'

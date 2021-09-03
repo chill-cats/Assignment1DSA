@@ -1,0 +1,11 @@
+INSERT lRo number
+INSERT bID string
+INSERT gqp number
+INSERT p string
+INSERT jV4 number
+INSERT tB number
+INSERT kY number
+INSERT g string
+INSERT x string
+INSERT f string
+INSERT ff64 number

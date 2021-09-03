@@ -1,0 +1,6 @@
+INSERT q string
+INSERT shAY number
+INSERT l0WcIA number
+INSERT nlJFqp number
+INSERT t string
+INSERT qSf number

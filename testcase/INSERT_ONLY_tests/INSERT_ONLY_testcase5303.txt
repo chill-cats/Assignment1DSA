@@ -1,0 +1,13 @@
+INSERT q_E number
+INSERT vX string
+INSERT wiX string
+INSERT nACR number
+INSERT oiva string
+INSERT cM_ string
+INSERT rBmdIo string
+INSERT w string
+INSERT muA number
+INSERT nzKO string
+INSERT y6VBIh number
+INSERT f number
+INSERT oZTNDt number

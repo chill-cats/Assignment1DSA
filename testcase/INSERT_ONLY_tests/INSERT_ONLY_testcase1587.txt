@@ -1,0 +1,4 @@
+INSERT wnMy number
+INSERT chB_ string
+INSERT jv6_q string
+INSERT l7 number

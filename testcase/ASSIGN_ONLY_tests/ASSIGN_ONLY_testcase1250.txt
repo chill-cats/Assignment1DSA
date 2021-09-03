@@ -1,0 +1,3 @@
+ASSIGN pnZl '1mSi'
+ASSIGN xmS 750
+ASSIGN epPmC 1077

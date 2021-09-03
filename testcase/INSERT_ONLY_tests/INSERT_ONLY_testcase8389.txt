@@ -1,0 +1,3 @@
+INSERT uKy string
+INSERT i string
+INSERT yS7guz number

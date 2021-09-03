@@ -1,0 +1,2 @@
+ASSIGN f6 f6
+ASSIGN jXY2e f6

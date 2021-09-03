@@ -1,0 +1,4 @@
+ASSIGN j7VS 'p'
+ASSIGN x 'wrv'
+ASSIGN gaSx9 872
+ASSIGN j7VS gaSx9

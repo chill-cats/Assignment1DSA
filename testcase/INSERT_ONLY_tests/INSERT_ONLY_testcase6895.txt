@@ -1,0 +1,8 @@
+INSERT f string
+INSERT c0 number
+INSERT uqb string
+INSERT mb number
+INSERT nkeJx0 string
+INSERT d number
+INSERT pnSPBO string
+INSERT gb string

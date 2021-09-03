@@ -1,0 +1,11 @@
+INSERT f string
+INSERT j3e number
+INSERT js number
+INSERT s string
+INSERT f6srKp string
+INSERT ag8Yc9 string
+INSERT bn2UkD number
+INSERT pZMGL number
+INSERT sT5 number
+INSERT xeff number
+INSERT j number

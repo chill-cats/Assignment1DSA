@@ -1,0 +1,2 @@
+ASSIGN bdFb 185
+ASSIGN wI '0Gz8G'

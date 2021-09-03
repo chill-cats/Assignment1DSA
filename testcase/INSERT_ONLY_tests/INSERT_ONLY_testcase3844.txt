@@ -1,0 +1,15 @@
+INSERT i string
+INSERT iq number
+INSERT p number
+INSERT lH1 number
+INSERT gkYM_X number
+INSERT smy8LL number
+INSERT x string
+INSERT h string
+INSERT i6DSmm string
+INSERT a string
+INSERT fTn number
+INSERT u number
+INSERT c string
+INSERT qxI number
+INSERT gYo string

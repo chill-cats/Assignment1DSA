@@ -1,0 +1,3 @@
+ASSIGN r 'HF'
+ASSIGN kNE npEmW
+ASSIGN kL 'PUWaB'

@@ -1,0 +1,10 @@
+INSERT c number
+INSERT tL string
+INSERT yz number
+INSERT t8BJ number
+INSERT w string
+INSERT u number
+INSERT tf4sg string
+INSERT u string
+INSERT q5Ge string
+INSERT nuNR string

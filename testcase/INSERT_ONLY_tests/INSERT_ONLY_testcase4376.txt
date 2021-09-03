@@ -1,0 +1,6 @@
+INSERT a number
+INSERT d string
+INSERT gP number
+INSERT b string
+INSERT g number
+INSERT m number

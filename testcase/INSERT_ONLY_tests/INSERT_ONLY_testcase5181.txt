@@ -1,0 +1,3 @@
+INSERT y string
+INSERT zoD8aB number
+INSERT i number

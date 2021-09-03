@@ -1,0 +1,9 @@
+INSERT c string
+INSERT qS number
+INSERT w string
+INSERT gvs string
+INSERT mWC string
+INSERT y6WzO number
+INSERT sTH string
+INSERT tDxYwr string
+INSERT tkjXj number

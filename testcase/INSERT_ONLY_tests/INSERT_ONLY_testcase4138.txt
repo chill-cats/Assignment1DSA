@@ -1,0 +1,4 @@
+INSERT rj number
+INSERT uJ7t6L string
+INSERT oxJ number
+INSERT kC7E number

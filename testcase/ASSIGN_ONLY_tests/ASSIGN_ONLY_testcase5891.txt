@@ -1,0 +1,2 @@
+ASSIGN ndb4k 'QbHdm'
+ASSIGN ndb4k '2I'

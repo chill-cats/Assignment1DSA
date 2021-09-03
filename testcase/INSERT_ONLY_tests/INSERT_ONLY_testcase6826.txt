@@ -1,0 +1,17 @@
+INSERT ch8i0 number
+INSERT h number
+INSERT fcCoa number
+INSERT u string
+INSERT v_XV73 string
+INSERT bg number
+INSERT o5eW_F string
+INSERT wZH4 number
+INSERT iP number
+INSERT gcN number
+INSERT xS string
+INSERT sLlSO number
+INSERT o number
+INSERT t number
+INSERT h5dt number
+INSERT nf2LCm string
+INSERT kV string

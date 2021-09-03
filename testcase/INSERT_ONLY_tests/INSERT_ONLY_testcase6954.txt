@@ -1,0 +1,7 @@
+INSERT dt string
+INSERT x9oIJD string
+INSERT l2i number
+INSERT iUta string
+INSERT iz2 number
+INSERT e string
+INSERT d6nfC string

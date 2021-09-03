@@ -1,0 +1,4 @@
+INSERT oLY2 number
+INSERT cG number
+INSERT w27T string
+INSERT b string

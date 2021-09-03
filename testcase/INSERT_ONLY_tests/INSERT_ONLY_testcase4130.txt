@@ -1,0 +1,7 @@
+INSERT u string
+INSERT d string
+INSERT g number
+INSERT avExM number
+INSERT eCtmf6 number
+INSERT hpZK1t string
+INSERT ywP number

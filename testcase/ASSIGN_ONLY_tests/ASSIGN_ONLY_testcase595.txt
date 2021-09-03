@@ -1,0 +1,2 @@
+ASSIGN keRL 23
+ASSIGN uGj 'G'

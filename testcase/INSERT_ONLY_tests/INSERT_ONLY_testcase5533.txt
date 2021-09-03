@@ -1,0 +1,7 @@
+INSERT dMSP number
+INSERT ntpj string
+INSERT lgq1S5 string
+INSERT sA number
+INSERT uQuJ string
+INSERT m string
+INSERT t3cBR string

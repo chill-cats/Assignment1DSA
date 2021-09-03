@@ -1,0 +1,3 @@
+INSERT d number
+INSERT oq2LeT number
+INSERT d string

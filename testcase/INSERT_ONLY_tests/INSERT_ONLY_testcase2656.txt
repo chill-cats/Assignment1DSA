@@ -1,0 +1,2 @@
+INSERT yoG number
+INSERT pBpg string

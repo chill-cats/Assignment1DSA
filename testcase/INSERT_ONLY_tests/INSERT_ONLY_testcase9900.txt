@@ -1,0 +1,5 @@
+INSERT gS number
+INSERT uc number
+INSERT xWNO string
+INSERT rRuFy string
+INSERT t number

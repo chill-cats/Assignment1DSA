@@ -1,0 +1,8 @@
+INSERT t string
+INSERT vI number
+INSERT vrC string
+INSERT hf number
+INSERT vV5z number
+INSERT lyE number
+INSERT zzf number
+INSERT xr number

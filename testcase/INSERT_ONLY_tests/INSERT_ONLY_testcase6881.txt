@@ -1,0 +1,10 @@
+INSERT p number
+INSERT sVJSM number
+INSERT s string
+INSERT u6Q string
+INSERT d number
+INSERT ksynX number
+INSERT xrVVK string
+INSERT aO number
+INSERT ti1KUj number
+INSERT c string

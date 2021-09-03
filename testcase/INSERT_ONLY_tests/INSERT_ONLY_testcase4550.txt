@@ -1,0 +1,12 @@
+INSERT hf4d_T number
+INSERT g number
+INSERT rTKMeM number
+INSERT v4fB0 number
+INSERT c3H string
+INSERT paON0 string
+INSERT ntmY string
+INSERT vJrNbn number
+INSERT v string
+INSERT fUraa1 string
+INSERT vAP number
+INSERT x string

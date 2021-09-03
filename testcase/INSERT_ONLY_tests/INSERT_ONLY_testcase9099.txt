@@ -1,0 +1,8 @@
+INSERT r6 number
+INSERT gY string
+INSERT e6 string
+INSERT tJytf number
+INSERT etF number
+INSERT tv3 string
+INSERT d3w number
+INSERT m string

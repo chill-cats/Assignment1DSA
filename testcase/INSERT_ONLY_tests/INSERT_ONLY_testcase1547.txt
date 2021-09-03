@@ -1,0 +1,5 @@
+INSERT r number
+INSERT kTd string
+INSERT pWjUrj number
+INSERT p7O string
+INSERT eE1 string

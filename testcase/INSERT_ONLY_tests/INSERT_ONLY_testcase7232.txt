@@ -1,0 +1,11 @@
+INSERT d38 string
+INSERT yLU1 number
+INSERT ex number
+INSERT hsstBU number
+INSERT i string
+INSERT hqiFHQ string
+INSERT yqPz string
+INSERT yd4wcu number
+INSERT gQeLku string
+INSERT r string
+INSERT pA number

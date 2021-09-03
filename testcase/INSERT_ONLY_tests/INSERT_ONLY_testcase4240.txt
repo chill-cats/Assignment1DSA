@@ -1,0 +1,5 @@
+INSERT hQUE27 number
+INSERT jpt9 string
+INSERT rkT3 number
+INSERT ra number
+INSERT hXnzS number

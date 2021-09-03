@@ -1,0 +1,4 @@
+INSERT x2 number
+INSERT eLkn number
+INSERT fgl number
+INSERT jX string

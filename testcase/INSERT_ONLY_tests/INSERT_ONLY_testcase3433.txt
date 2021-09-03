@@ -1,0 +1,4 @@
+INSERT lUbj string
+INSERT kD number
+INSERT fk string
+INSERT jU string

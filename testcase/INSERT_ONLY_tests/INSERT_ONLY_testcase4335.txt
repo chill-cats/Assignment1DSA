@@ -1,0 +1,7 @@
+INSERT qh number
+INSERT jBaaf1 number
+INSERT zAh number
+INSERT d number
+INSERT mYc1MA number
+INSERT mDudHi string
+INSERT lQ number

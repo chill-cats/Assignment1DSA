@@ -1,0 +1,9 @@
+INSERT k5obE number
+INSERT u8 string
+INSERT vy string
+INSERT uiI17d number
+INSERT aib number
+INSERT fEocS number
+INSERT l6 number
+INSERT v9zt string
+INSERT kp number

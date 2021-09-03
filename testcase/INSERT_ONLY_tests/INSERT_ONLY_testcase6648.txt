@@ -1,0 +1,4 @@
+INSERT r number
+INSERT y number
+INSERT zkN9 number
+INSERT qR string

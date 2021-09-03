@@ -1,0 +1,3 @@
+INSERT oFA5 number
+INSERT dD string
+INSERT ngPCw number

@@ -1,0 +1,2 @@
+ASSIGN e e
+ASSIGN klv1d6 'lwz'

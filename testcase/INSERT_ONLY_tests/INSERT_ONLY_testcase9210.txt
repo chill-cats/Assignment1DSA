@@ -1,0 +1,9 @@
+INSERT m_ number
+INSERT cYVY8 number
+INSERT uO string
+INSERT rpM number
+INSERT l string
+INSERT rP0 number
+INSERT a string
+INSERT nbiasQ string
+INSERT zG string

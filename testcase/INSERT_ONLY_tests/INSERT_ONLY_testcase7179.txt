@@ -1,0 +1,11 @@
+INSERT q string
+INSERT i93 string
+INSERT pk0_ number
+INSERT eWNbi number
+INSERT qKM number
+INSERT vg7d number
+INSERT pLY string
+INSERT cF9F string
+INSERT dbcjg2 number
+INSERT t number
+INSERT xmHI string

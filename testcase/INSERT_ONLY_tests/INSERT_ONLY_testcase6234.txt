@@ -1,0 +1,7 @@
+INSERT d number
+INSERT eAU string
+INSERT kn number
+INSERT ha_YS number
+INSERT qBp7R string
+INSERT es number
+INSERT fu number

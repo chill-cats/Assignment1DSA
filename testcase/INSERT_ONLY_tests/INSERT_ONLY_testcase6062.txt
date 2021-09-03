@@ -1,0 +1,6 @@
+INSERT eZuPQ number
+INSERT rhT string
+INSERT hfS number
+INSERT ahT5p string
+INSERT eh7 string
+INSERT dC5 number

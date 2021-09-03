@@ -1,0 +1,2 @@
+ASSIGN b 202
+ASSIGN nUM2 'kmm'

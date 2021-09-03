@@ -1,0 +1,9 @@
+INSERT i number
+INSERT v string
+INSERT l4sTi number
+INSERT k6p string
+INSERT ep8xj string
+INSERT t string
+INSERT xPyrfR string
+INSERT k number
+INSERT yyIa string

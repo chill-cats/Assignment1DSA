@@ -1,0 +1,6 @@
+INSERT wW8 number
+INSERT tNQ42T number
+INSERT qF string
+INSERT k number
+INSERT sctI string
+INSERT qRmNAD number

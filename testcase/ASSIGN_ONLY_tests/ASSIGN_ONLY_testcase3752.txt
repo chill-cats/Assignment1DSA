@@ -1,0 +1,2 @@
+ASSIGN mq s0
+ASSIGN mq 'rfKtt'

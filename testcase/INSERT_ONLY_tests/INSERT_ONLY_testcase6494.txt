@@ -1,0 +1,12 @@
+INSERT rc number
+INSERT a8Ev string
+INSERT uvn number
+INSERT v string
+INSERT stBSf string
+INSERT e number
+INSERT r1 string
+INSERT h string
+INSERT aBi5K number
+INSERT p number
+INSERT kgx string
+INSERT kL number

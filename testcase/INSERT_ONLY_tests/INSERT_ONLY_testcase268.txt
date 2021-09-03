@@ -1,0 +1,5 @@
+INSERT cKo string
+INSERT tKz string
+INSERT v number
+INSERT iEKPEQ number
+INSERT ch string

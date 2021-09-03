@@ -1,0 +1,2 @@
+ASSIGN g wD3z
+ASSIGN g 'Gi'

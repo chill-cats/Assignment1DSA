@@ -1,0 +1,8 @@
+INSERT a number
+INSERT p string
+INSERT fmQ number
+INSERT vEj string
+INSERT mU number
+INSERT b string
+INSERT igN3 string
+INSERT uM string

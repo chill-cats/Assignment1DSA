@@ -1,0 +1,10 @@
+INSERT ffH5 number
+INSERT e6L string
+INSERT pcGBh number
+INSERT iES string
+INSERT pR number
+INSERT dC string
+INSERT za string
+INSERT jg9 string
+INSERT gv number
+INSERT q string

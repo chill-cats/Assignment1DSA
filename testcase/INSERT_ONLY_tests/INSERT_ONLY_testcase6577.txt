@@ -1,0 +1,13 @@
+INSERT pV string
+INSERT hWcp number
+INSERT b number
+INSERT bT4 number
+INSERT okc string
+INSERT c number
+INSERT kMsm string
+INSERT s string
+INSERT toS5Gi string
+INSERT w1hH number
+INSERT guZw string
+INSERT yn7 string
+INSERT tpB number

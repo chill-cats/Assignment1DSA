@@ -1,0 +1,5 @@
+INSERT pgoe string
+INSERT e number
+INSERT hDLfg number
+INSERT p number
+INSERT s string

@@ -1,0 +1,7 @@
+INSERT ozPG number
+INSERT vg7O number
+INSERT lH8 string
+INSERT rP number
+INSERT lYvv string
+INSERT pa string
+INSERT xE number

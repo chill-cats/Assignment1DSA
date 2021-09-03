@@ -1,0 +1,3 @@
+INSERT kS44G string
+INSERT lv string
+INSERT tps number

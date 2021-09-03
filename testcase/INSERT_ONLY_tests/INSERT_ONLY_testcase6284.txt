@@ -1,0 +1,5 @@
+INSERT ip number
+INSERT ci string
+INSERT t7 number
+INSERT wZ string
+INSERT wCV0x string

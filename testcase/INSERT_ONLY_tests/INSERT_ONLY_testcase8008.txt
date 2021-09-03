@@ -1,0 +1,12 @@
+INSERT xi number
+INSERT bbm string
+INSERT gbCPS2 number
+INSERT s string
+INSERT oQ number
+INSERT d44 number
+INSERT n number
+INSERT m number
+INSERT g1i number
+INSERT szrK6 number
+INSERT uEloD number
+INSERT b9Qtei string

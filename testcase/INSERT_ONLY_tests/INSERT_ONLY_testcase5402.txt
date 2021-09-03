@@ -1,0 +1,3 @@
+INSERT lTje string
+INSERT gYb number
+INSERT xzt number

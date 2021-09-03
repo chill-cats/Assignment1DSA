@@ -1,0 +1,6 @@
+INSERT tq number
+INSERT fQ string
+INSERT ckC0Td string
+INSERT j number
+INSERT ouhc8Q number
+INSERT tb string

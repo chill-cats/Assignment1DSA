@@ -1,0 +1,7 @@
+INSERT osma string
+INSERT va number
+INSERT ouf number
+INSERT gF string
+INSERT ltc58T string
+INSERT lI9KT string
+INSERT rKM1 number

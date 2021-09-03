@@ -1,0 +1,6 @@
+INSERT d number
+INSERT uw number
+INSERT ejJLWu string
+INSERT vQc8Am string
+INSERT vI number
+INSERT sjZZo number

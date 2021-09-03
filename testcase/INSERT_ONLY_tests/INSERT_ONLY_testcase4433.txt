@@ -1,0 +1,3 @@
+INSERT p string
+INSERT bhj4p string
+INSERT pQwm number

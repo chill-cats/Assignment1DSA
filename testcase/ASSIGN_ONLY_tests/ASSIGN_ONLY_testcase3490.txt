@@ -1,0 +1,2 @@
+ASSIGN k 1076
+ASSIGN lY pVOe

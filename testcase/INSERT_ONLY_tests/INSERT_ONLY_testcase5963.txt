@@ -1,0 +1,4 @@
+INSERT iTqyG number
+INSERT b7Gl string
+INSERT eHmL number
+INSERT x16 string

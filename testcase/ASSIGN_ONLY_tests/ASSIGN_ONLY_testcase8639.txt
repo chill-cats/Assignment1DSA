@@ -1,0 +1,3 @@
+ASSIGN h 401
+ASSIGN hosc2k e
+ASSIGN hosc2k b0

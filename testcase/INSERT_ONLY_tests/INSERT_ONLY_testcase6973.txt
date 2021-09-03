@@ -1,0 +1,6 @@
+INSERT vq7l number
+INSERT nl number
+INSERT evtsBE number
+INSERT gF string
+INSERT t string
+INSERT uDSD number

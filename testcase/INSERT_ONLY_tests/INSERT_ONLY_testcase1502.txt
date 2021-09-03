@@ -1,0 +1,10 @@
+INSERT asp string
+INSERT g string
+INSERT vl number
+INSERT ta4S string
+INSERT xIo7FB number
+INSERT hEw number
+INSERT mTsU number
+INSERT yFuG string
+INSERT sd0U8 number
+INSERT e number

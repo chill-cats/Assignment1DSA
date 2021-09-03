@@ -1,0 +1,4 @@
+INSERT zi number
+INSERT tf number
+INSERT dO1Bj string
+INSERT vrejg number

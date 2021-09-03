@@ -1,0 +1,13 @@
+INSERT i1U4 number
+INSERT aup0 number
+INSERT lBI6XS string
+INSERT r0qY string
+INSERT uNrpc number
+INSERT u string
+INSERT af number
+INSERT c9NKF number
+INSERT a4ICg1 string
+INSERT j number
+INSERT jCz string
+INSERT o number
+INSERT m7T string

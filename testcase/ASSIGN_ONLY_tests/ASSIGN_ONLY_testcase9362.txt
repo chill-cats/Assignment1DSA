@@ -1,0 +1,2 @@
+ASSIGN t79A 'so '
+ASSIGN cEcx 't2Q'

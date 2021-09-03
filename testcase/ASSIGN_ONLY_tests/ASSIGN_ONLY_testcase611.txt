@@ -1,0 +1,2 @@
+ASSIGN g8el 'v'
+ASSIGN eHAD 1225

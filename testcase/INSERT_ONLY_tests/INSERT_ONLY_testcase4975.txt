@@ -1,0 +1,4 @@
+INSERT gaR number
+INSERT vsi number
+INSERT wgl number
+INSERT y4V number

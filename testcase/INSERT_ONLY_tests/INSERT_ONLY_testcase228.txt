@@ -1,0 +1,5 @@
+INSERT hN number
+INSERT cxU number
+INSERT yPY string
+INSERT ljOgBT number
+INSERT t8h number

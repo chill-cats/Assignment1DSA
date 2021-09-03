@@ -1,0 +1,4 @@
+INSERT yj number
+INSERT ufy5 string
+INSERT eH number
+INSERT pp8WWC number

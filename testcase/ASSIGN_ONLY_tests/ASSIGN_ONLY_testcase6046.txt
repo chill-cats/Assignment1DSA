@@ -1,0 +1,5 @@
+ASSIGN nt 'X'
+ASSIGN adIP2 156
+ASSIGN v7Pgp 'wwFvh'
+ASSIGN bvcXwy '9bxY'
+ASSIGN lyUX 1015

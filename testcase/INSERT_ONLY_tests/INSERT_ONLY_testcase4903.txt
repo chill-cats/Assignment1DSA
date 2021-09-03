@@ -1,0 +1,6 @@
+INSERT qM string
+INSERT xB number
+INSERT yj number
+INSERT mGd string
+INSERT zo2 number
+INSERT kz8Avp string

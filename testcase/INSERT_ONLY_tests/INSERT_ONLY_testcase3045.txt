@@ -1,0 +1,6 @@
+INSERT qbs7 number
+INSERT f3GKHP number
+INSERT pQ1Jl string
+INSERT wzH string
+INSERT fs string
+INSERT dB_4rZ string

@@ -1,0 +1,9 @@
+INSERT j number
+INSERT f4zAhk string
+INSERT ih5 number
+INSERT a number
+INSERT wSQ9FB string
+INSERT v string
+INSERT s number
+INSERT y string
+INSERT j6EN number

@@ -1,0 +1,2 @@
+ASSIGN n4 'A'
+ASSIGN lUo 312

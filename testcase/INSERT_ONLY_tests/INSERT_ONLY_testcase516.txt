@@ -1,0 +1,8 @@
+INSERT hFt number
+INSERT lbdP5 string
+INSERT jnDX number
+INSERT yKl string
+INSERT kJJ0 number
+INSERT q_I8j number
+INSERT kLsQ5p number
+INSERT hylJ string

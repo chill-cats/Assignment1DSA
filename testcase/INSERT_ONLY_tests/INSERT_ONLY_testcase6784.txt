@@ -1,0 +1,7 @@
+INSERT e number
+INSERT xV5h number
+INSERT t9 string
+INSERT hT number
+INSERT u string
+INSERT rlnBar number
+INSERT kFk string

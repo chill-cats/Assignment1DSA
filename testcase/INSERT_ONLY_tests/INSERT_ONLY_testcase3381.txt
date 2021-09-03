@@ -1,0 +1,6 @@
+INSERT y number
+INSERT jA0 string
+INSERT m5 string
+INSERT hLd8D string
+INSERT bXV4J number
+INSERT sLh8S string

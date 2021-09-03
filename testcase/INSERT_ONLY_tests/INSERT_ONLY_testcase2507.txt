@@ -1,0 +1,9 @@
+INSERT bpL number
+INSERT l5c number
+INSERT r number
+INSERT e number
+INSERT c954 string
+INSERT lR3 number
+INSERT q6x string
+INSERT evXWK string
+INSERT cvrGpn string

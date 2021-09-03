@@ -1,0 +1,7 @@
+INSERT fC number
+INSERT qKz8 string
+INSERT ruk number
+INSERT aNHk string
+INSERT yF3e string
+INSERT aM2 string
+INSERT xoQ number

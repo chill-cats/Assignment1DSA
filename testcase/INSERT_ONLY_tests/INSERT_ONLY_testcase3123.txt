@@ -1,0 +1,4 @@
+INSERT kHI number
+INSERT dQPS number
+INSERT g_ string
+INSERT g string

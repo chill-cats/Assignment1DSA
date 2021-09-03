@@ -1,0 +1,1 @@
+INSERT lu0 number

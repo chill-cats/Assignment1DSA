@@ -1,0 +1,9 @@
+INSERT bmvI string
+INSERT kvM number
+INSERT gtuZ2E number
+INSERT sqh string
+INSERT b number
+INSERT xnD string
+INSERT a number
+INSERT tpaNDZ string
+INSERT q number

@@ -1,0 +1,5 @@
+INSERT vy number
+INSERT w9z string
+INSERT aQ number
+INSERT y number
+INSERT iaAMd number

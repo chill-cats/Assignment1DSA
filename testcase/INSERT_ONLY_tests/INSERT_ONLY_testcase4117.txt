@@ -1,0 +1,6 @@
+INSERT qmK_b number
+INSERT zHg string
+INSERT aSg number
+INSERT oZi number
+INSERT ojwNhc string
+INSERT rps number

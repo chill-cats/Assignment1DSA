@@ -1,0 +1,6 @@
+INSERT pkkg3 number
+INSERT aeMA string
+INSERT vJ string
+INSERT ip number
+INSERT hXk number
+INSERT dLzFcR string

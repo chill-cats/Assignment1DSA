@@ -1,0 +1,1 @@
+ASSIGN r7kCS 'sM2'

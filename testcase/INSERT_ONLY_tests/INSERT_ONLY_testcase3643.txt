@@ -1,0 +1,17 @@
+INSERT rpRul string
+INSERT fm string
+INSERT i8YR number
+INSERT lg string
+INSERT csc31X number
+INSERT y string
+INSERT wN6D string
+INSERT cI number
+INSERT uEAlZ string
+INSERT u6gtAf string
+INSERT gUbbyU string
+INSERT q0 string
+INSERT dasjg7 number
+INSERT aMk string
+INSERT juRSYs number
+INSERT omsY8J string
+INSERT x string

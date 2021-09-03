@@ -1,0 +1,3 @@
+ASSIGN kp5 529
+ASSIGN h 985
+ASSIGN z 'y'

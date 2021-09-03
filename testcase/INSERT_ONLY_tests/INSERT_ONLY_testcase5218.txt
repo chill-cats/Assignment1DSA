@@ -1,0 +1,6 @@
+INSERT a number
+INSERT sMKDb number
+INSERT rn string
+INSERT cC number
+INSERT w6G string
+INSERT wXImM string

@@ -1,0 +1,3 @@
+INSERT rqSyY string
+INSERT lkNj number
+INSERT i number

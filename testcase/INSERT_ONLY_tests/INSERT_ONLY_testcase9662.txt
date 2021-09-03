@@ -1,0 +1,4 @@
+INSERT n string
+INSERT ksV1 number
+INSERT o66 number
+INSERT tfDw number

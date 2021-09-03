@@ -1,0 +1,2 @@
+ASSIGN cfam 'A'
+ASSIGN lkO 865

@@ -1,0 +1,4 @@
+ASSIGN rWL 'kOK'
+ASSIGN fTrX rbeu
+ASSIGN rbeu tnhBPU
+ASSIGN tue 'n'

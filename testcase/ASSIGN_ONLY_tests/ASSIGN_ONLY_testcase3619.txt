@@ -1,0 +1,3 @@
+ASSIGN fXX 125
+ASSIGN coFnxX wRmDZ
+ASSIGN coFnxX '9jFg'

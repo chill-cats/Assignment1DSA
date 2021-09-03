@@ -1,0 +1,7 @@
+INSERT mJaF string
+INSERT h number
+INSERT rGV number
+INSERT d80cK string
+INSERT rguF string
+INSERT d number
+INSERT upp string

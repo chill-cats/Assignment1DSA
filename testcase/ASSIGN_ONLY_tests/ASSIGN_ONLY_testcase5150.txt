@@ -1,0 +1,2 @@
+ASSIGN b 'Kl23'
+ASSIGN b 479

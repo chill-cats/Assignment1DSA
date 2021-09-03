@@ -1,0 +1,2 @@
+ASSIGN gN lh
+ASSIGN k 25

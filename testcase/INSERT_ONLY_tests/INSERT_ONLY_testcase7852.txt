@@ -1,0 +1,9 @@
+INSERT remNk number
+INSERT gz string
+INSERT hepn number
+INSERT oNLFl string
+INSERT h9_sHj string
+INSERT s9 string
+INSERT zjsPw0 number
+INSERT d4 number
+INSERT nFP number

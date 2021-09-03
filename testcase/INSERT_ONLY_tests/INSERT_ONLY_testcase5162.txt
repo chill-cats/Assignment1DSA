@@ -1,0 +1,5 @@
+INSERT gchZy number
+INSERT bm string
+INSERT te number
+INSERT hZaDcU number
+INSERT nwMj number

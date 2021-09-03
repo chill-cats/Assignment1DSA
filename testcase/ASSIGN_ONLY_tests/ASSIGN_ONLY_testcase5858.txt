@@ -1,0 +1,2 @@
+ASSIGN dySK 'c0m4v'
+ASSIGN hR 1052

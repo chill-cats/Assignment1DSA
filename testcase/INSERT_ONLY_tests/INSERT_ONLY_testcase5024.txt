@@ -1,0 +1,8 @@
+INSERT obJDDa number
+INSERT m2t string
+INSERT p number
+INSERT jCo number
+INSERT k string
+INSERT f string
+INSERT vGVT string
+INSERT qB3FI string

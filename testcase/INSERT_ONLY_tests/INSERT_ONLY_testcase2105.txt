@@ -1,0 +1,5 @@
+INSERT ll string
+INSERT oB3m number
+INSERT sELb8y string
+INSERT r string
+INSERT k string

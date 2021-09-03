@@ -1,0 +1,6 @@
+INSERT u number
+INSERT cUXQ string
+INSERT n5G number
+INSERT p number
+INSERT nh number
+INSERT aB string

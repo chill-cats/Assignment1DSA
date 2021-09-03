@@ -1,0 +1,4 @@
+ASSIGN it '0'
+ASSIGN it 22
+ASSIGN ajS p
+ASSIGN p kM9XdU

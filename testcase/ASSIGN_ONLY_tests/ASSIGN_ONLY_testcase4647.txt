@@ -1,0 +1,3 @@
+ASSIGN r2PrG8 ljpi
+ASSIGN ibi 1056
+ASSIGN aNl 'm'

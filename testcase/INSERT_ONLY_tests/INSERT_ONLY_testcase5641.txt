@@ -1,0 +1,6 @@
+INSERT gaeq string
+INSERT d number
+INSERT s string
+INSERT yw number
+INSERT fEH number
+INSERT fpz string

@@ -1,0 +1,2 @@
+ASSIGN z 603
+ASSIGN qsi1Tl t

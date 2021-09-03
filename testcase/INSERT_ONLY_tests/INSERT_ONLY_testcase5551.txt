@@ -1,0 +1,7 @@
+INSERT ugq string
+INSERT a number
+INSERT b number
+INSERT u7gp4 string
+INSERT gMZj string
+INSERT uHdNE string
+INSERT nR number

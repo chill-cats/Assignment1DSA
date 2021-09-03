@@ -1,0 +1,4 @@
+INSERT kOJL2 string
+INSERT g string
+INSERT r2tZC number
+INSERT kfpc string

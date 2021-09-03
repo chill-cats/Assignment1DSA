@@ -1,0 +1,5 @@
+INSERT km string
+INSERT l string
+INSERT fmjmLd string
+INSERT aH number
+INSERT wZz14 string

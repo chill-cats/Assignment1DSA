@@ -1,0 +1,2 @@
+INSERT h6sD number
+INSERT nGjE string

@@ -1,0 +1,9 @@
+INSERT c8_d string
+INSERT j4 number
+INSERT md string
+INSERT cF3 number
+INSERT f number
+INSERT rjw2a number
+INSERT r_ string
+INSERT xJwi number
+INSERT vJY28O string

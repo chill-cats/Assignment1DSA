@@ -1,0 +1,12 @@
+INSERT p string
+INSERT ddoy string
+INSERT vOa number
+INSERT uUfiR number
+INSERT e number
+INSERT tU3OI string
+INSERT j_i string
+INSERT o4r string
+INSERT t83 number
+INSERT z0b3 number
+INSERT w9 string
+INSERT upf number

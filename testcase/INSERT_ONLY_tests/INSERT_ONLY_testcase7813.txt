@@ -1,0 +1,13 @@
+INSERT kP_t number
+INSERT h string
+INSERT hCLc string
+INSERT hivT string
+INSERT gq3 number
+INSERT w number
+INSERT qEf number
+INSERT fZY number
+INSERT yY number
+INSERT kOiy number
+INSERT uZmm number
+INSERT tU number
+INSERT xxm number

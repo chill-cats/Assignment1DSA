@@ -1,0 +1,3 @@
+ASSIGN o_Afie 1112
+ASSIGN rY 582
+ASSIGN rY 'sA0q'

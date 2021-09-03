@@ -1,0 +1,16 @@
+INSERT l string
+INSERT ok number
+INSERT p4Z string
+INSERT cX number
+INSERT lM7Cqn string
+INSERT eqIUA string
+INSERT eFNhuR number
+INSERT x8rS number
+INSERT aE0Y7 string
+INSERT nPKZ number
+INSERT ctm5ji string
+INSERT r68 number
+INSERT gBQQ number
+INSERT azqA string
+INSERT hu9 number
+INSERT u string

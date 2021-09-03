@@ -1,0 +1,2 @@
+ASSIGN zZ 'tas'
+ASSIGN wK 971

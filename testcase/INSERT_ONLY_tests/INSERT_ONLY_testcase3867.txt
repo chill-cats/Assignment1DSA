@@ -1,0 +1,5 @@
+INSERT zmb number
+INSERT skjW0 number
+INSERT f7uyl number
+INSERT soKNA string
+INSERT fD string

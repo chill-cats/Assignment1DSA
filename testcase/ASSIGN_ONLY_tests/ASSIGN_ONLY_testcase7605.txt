@@ -1,0 +1,2 @@
+ASSIGN f '5'
+ASSIGN sEs 'shi'

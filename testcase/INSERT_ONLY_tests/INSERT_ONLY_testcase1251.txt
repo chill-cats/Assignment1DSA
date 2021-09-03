@@ -1,0 +1,8 @@
+INSERT y9 string
+INSERT io5 string
+INSERT v7 number
+INSERT oJ number
+INSERT dQ string
+INSERT dBi3 number
+INSERT r number
+INSERT lWv9W string

@@ -1,0 +1,3 @@
+ASSIGN tAp '0cH6e'
+ASSIGN h31VyK tAp
+ASSIGN y 1067

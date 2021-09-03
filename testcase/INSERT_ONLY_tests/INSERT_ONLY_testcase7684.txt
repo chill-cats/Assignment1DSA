@@ -1,0 +1,9 @@
+INSERT bxr string
+INSERT q string
+INSERT dTsX string
+INSERT z5Y string
+INSERT a string
+INSERT ed8 number
+INSERT jpS string
+INSERT h8 string
+INSERT jXFKs number

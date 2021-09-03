@@ -1,0 +1,4 @@
+INSERT t string
+INSERT gti string
+INSERT fiONHV number
+INSERT w7go string

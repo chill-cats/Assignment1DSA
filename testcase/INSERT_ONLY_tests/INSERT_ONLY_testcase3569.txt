@@ -1,0 +1,10 @@
+INSERT rGg string
+INSERT bg9 string
+INSERT q number
+INSERT h1Z5_F number
+INSERT pc0 number
+INSERT hI_p number
+INSERT elAN4L number
+INSERT jGYE4q number
+INSERT yJ2 number
+INSERT aaH number

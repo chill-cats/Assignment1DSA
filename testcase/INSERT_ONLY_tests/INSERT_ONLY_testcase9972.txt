@@ -1,0 +1,8 @@
+INSERT fsMOV string
+INSERT ck number
+INSERT pW number
+INSERT pMY number
+INSERT u41ASf number
+INSERT t_7UQ string
+INSERT k1 string
+INSERT xTpX42 number

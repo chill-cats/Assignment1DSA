@@ -1,0 +1,4 @@
+ASSIGN qowtR0 qowtR0
+ASSIGN ySdNEd '1'
+ASSIGN bPiS ySdNEd
+ASSIGN v0ekGx 628

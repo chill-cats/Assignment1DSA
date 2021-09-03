@@ -1,0 +1,2 @@
+INSERT wXN number
+INSERT mdMF string

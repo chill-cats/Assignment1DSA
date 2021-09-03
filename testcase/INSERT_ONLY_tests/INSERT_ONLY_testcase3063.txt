@@ -1,0 +1,5 @@
+INSERT r string
+INSERT i string
+INSERT wZBbzv string
+INSERT urNVZs string
+INSERT qLA1d string

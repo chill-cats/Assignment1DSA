@@ -1,0 +1,6 @@
+INSERT jB number
+INSERT jnnCka string
+INSERT zl string
+INSERT yE7 string
+INSERT hdNE8 string
+INSERT selVlM string

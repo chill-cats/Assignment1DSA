@@ -1,0 +1,2 @@
+ASSIGN e 'B'
+ASSIGN u 1104

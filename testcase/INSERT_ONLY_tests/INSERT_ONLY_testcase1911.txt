@@ -1,0 +1,6 @@
+INSERT axR string
+INSERT b string
+INSERT bPE6 number
+INSERT e string
+INSERT pB number
+INSERT na string

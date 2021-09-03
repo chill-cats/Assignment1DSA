@@ -1,0 +1,7 @@
+INSERT nJ number
+INSERT qIoB string
+INSERT ha number
+INSERT sm string
+INSERT p string
+INSERT pGDoe string
+INSERT wGDXOo string

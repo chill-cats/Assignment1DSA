@@ -1,0 +1,10 @@
+INSERT u number
+INSERT qn string
+INSERT fhBXhi string
+INSERT sW string
+INSERT nHMt3 string
+INSERT jud number
+INSERT gXt9Y number
+INSERT c number
+INSERT ulIYr string
+INSERT ndoMZ string

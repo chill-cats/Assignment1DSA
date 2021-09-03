@@ -1,0 +1,4 @@
+INSERT gpaCe string
+INSERT jEa string
+INSERT vxDRee string
+INSERT fKRTpl number

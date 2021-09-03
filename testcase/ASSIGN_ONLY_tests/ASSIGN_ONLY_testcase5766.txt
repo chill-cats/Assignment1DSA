@@ -1,0 +1,2 @@
+ASSIGN t 'SNdO'
+ASSIGN v 362

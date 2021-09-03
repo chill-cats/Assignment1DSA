@@ -1,0 +1,6 @@
+INSERT edUQU string
+INSERT sP string
+INSERT bc number
+INSERT qk8 string
+INSERT t number
+INSERT psVK number

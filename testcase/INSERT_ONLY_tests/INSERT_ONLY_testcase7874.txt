@@ -1,0 +1,14 @@
+INSERT wt string
+INSERT aiG string
+INSERT eP string
+INSERT mxL string
+INSERT d string
+INSERT at number
+INSERT gE2 string
+INSERT m string
+INSERT b string
+INSERT zpDML string
+INSERT aglo number
+INSERT qtX string
+INSERT x number
+INSERT lvT string

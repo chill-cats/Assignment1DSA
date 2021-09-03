@@ -1,0 +1,9 @@
+INSERT hkd number
+INSERT t string
+INSERT e5 string
+INSERT wien string
+INSERT vYuZ number
+INSERT amstp3 number
+INSERT f string
+INSERT rS number
+INSERT lW number

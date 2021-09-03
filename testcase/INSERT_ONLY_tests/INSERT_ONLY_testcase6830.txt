@@ -1,0 +1,8 @@
+INSERT veljk1 string
+INSERT aus string
+INSERT v string
+INSERT ksw number
+INSERT fx number
+INSERT cMQ number
+INSERT lSmGQw number
+INSERT m9F number

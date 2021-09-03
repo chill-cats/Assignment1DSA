@@ -1,0 +1,6 @@
+INSERT k9u2V string
+INSERT o7V6hn string
+INSERT qAd4 string
+INSERT vnAS string
+INSERT eeRy number
+INSERT c number

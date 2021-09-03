@@ -1,0 +1,2 @@
+ASSIGN g 155
+ASSIGN hiDw 20

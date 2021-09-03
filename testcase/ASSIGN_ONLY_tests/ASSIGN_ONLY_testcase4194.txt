@@ -1,0 +1,2 @@
+ASSIGN sSP7sL 'EBt2'
+ASSIGN p 570

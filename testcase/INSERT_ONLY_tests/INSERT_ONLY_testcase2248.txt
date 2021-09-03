@@ -1,0 +1,2 @@
+INSERT aj number
+INSERT tb0mXE string

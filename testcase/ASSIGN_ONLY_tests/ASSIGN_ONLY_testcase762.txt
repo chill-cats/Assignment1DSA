@@ -1,0 +1,3 @@
+ASSIGN gSeN 606
+ASSIGN tRu 361
+ASSIGN tRu 'cfy'

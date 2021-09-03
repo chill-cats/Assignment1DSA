@@ -1,0 +1,16 @@
+INSERT rh number
+INSERT i number
+INSERT qv string
+INSERT t0 number
+INSERT x string
+INSERT q string
+INSERT qbW number
+INSERT ndl number
+INSERT m number
+INSERT i0L0J number
+INSERT yAp number
+INSERT j number
+INSERT ks string
+INSERT l4 number
+INSERT kv number
+INSERT g2lk string

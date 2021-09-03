@@ -1,0 +1,11 @@
+INSERT oNc string
+INSERT py string
+INSERT aXM number
+INSERT f4f4 number
+INSERT f number
+INSERT f_ number
+INSERT sw9 number
+INSERT iDd number
+INSERT i number
+INSERT avNDJB number
+INSERT sSy4f string

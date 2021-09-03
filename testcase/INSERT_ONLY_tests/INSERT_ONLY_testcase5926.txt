@@ -1,0 +1,6 @@
+INSERT kuqym string
+INSERT m string
+INSERT rojo number
+INSERT bY string
+INSERT wC string
+INSERT wocR6 string

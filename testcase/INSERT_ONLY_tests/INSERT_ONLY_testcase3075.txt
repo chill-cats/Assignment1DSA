@@ -1,0 +1,5 @@
+INSERT f number
+INSERT eIb5 string
+INSERT kG10X string
+INSERT n05 number
+INSERT lP0JlU number

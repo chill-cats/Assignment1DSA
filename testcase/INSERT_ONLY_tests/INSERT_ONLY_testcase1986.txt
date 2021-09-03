@@ -1,0 +1,7 @@
+INSERT p number
+INSERT l string
+INSERT eHaJ string
+INSERT gIYv number
+INSERT nqw string
+INSERT ksESUL number
+INSERT j string

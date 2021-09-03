@@ -1,0 +1,3 @@
+INSERT j9z5h number
+INSERT l string
+INSERT g number

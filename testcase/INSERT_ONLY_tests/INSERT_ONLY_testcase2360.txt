@@ -1,0 +1,4 @@
+INSERT en number
+INSERT m number
+INSERT baQT number
+INSERT wm number

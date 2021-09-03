@@ -1,0 +1,3 @@
+ASSIGN up_6 1144
+ASSIGN az1 'y'
+ASSIGN in 'Ue9az'

@@ -1,0 +1,7 @@
+INSERT btF string
+INSERT v string
+INSERT jlcY string
+INSERT t3hBK8 number
+INSERT ab number
+INSERT g number
+INSERT wf string

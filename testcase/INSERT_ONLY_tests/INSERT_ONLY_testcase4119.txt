@@ -1,0 +1,8 @@
+INSERT jn number
+INSERT abkS string
+INSERT zJyY8 string
+INSERT f string
+INSERT rgQFP string
+INSERT e8lpI string
+INSERT pbV number
+INSERT cTxq string

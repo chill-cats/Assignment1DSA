@@ -1,0 +1,10 @@
+INSERT bc string
+INSERT neWU number
+INSERT fDP4 number
+INSERT zj string
+INSERT k8mRPA number
+INSERT phy number
+INSERT qQK number
+INSERT pA string
+INSERT xo number
+INSERT zQ0Na number

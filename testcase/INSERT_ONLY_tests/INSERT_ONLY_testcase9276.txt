@@ -1,0 +1,4 @@
+INSERT y2VxRZ string
+INSERT w number
+INSERT cyfSI number
+INSERT nnu8 number

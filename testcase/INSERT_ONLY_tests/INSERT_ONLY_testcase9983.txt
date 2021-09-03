@@ -1,0 +1,7 @@
+INSERT mX number
+INSERT ueB string
+INSERT u7 string
+INSERT cbnfGs string
+INSERT u5HDw number
+INSERT a_ number
+INSERT k_0 string

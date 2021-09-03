@@ -1,0 +1,4 @@
+INSERT g number
+INSERT auyGv string
+INSERT oo string
+INSERT oZ string

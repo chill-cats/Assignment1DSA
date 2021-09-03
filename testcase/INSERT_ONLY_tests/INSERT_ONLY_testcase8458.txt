@@ -1,0 +1,6 @@
+INSERT nj number
+INSERT jd string
+INSERT uYkI number
+INSERT vnFDi string
+INSERT r_ number
+INSERT a string

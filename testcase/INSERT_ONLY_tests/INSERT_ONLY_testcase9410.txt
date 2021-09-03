@@ -1,0 +1,7 @@
+INSERT cAw string
+INSERT fkpDtE number
+INSERT r string
+INSERT xSrRl number
+INSERT djL string
+INSERT jO number
+INSERT wr string

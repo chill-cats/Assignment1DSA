@@ -1,0 +1,3 @@
+ASSIGN bU s
+ASSIGN s 'ptV'
+ASSIGN xLO9G 130

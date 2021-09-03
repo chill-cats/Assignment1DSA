@@ -1,0 +1,5 @@
+INSERT z_ string
+INSERT p string
+INSERT b number
+INSERT n number
+INSERT bPMg number

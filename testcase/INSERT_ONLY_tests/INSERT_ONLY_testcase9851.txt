@@ -1,0 +1,2 @@
+INSERT i8 string
+INSERT b string

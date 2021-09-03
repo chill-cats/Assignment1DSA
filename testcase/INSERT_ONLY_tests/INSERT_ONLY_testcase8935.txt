@@ -1,0 +1,9 @@
+INSERT eh number
+INSERT d9C_VN number
+INSERT hhNIRG string
+INSERT tKW9Wy string
+INSERT o7 number
+INSERT xc number
+INSERT eOh string
+INSERT i string
+INSERT g string

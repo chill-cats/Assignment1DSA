@@ -1,0 +1,2 @@
+ASSIGN jCH '1uVP'
+ASSIGN jK jCH

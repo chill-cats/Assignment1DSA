@@ -1,0 +1,13 @@
+INSERT po string
+INSERT y1 string
+INSERT lc3 number
+INSERT ysQj number
+INSERT yy3d string
+INSERT oxK string
+INSERT h number
+INSERT c string
+INSERT b8Y string
+INSERT uBW number
+INSERT wJ5 string
+INSERT mTo number
+INSERT zqX number

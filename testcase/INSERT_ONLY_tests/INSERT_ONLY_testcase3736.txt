@@ -1,0 +1,4 @@
+INSERT nKTaQ number
+INSERT v string
+INSERT aUoG string
+INSERT mTwze number

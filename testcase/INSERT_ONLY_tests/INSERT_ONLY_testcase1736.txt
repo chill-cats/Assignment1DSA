@@ -1,0 +1,10 @@
+INSERT kgKKF9 number
+INSERT l6 string
+INSERT rFQJi number
+INSERT mkAWYp string
+INSERT a67FYT string
+INSERT ahBx string
+INSERT isDS number
+INSERT ba68 number
+INSERT v number
+INSERT mv string

@@ -1,0 +1,3 @@
+ASSIGN bY 'a'
+ASSIGN p8 'coVNK'
+ASSIGN smw lkE

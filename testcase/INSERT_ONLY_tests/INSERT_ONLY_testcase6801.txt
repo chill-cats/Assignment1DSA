@@ -1,0 +1,9 @@
+INSERT tU string
+INSERT n number
+INSERT xBxx number
+INSERT l string
+INSERT sW9NzA string
+INSERT iVuV number
+INSERT uaIO number
+INSERT t string
+INSERT khF string

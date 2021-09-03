@@ -1,0 +1,2 @@
+ASSIGN aAUjUd 1216
+ASSIGN k 'T'

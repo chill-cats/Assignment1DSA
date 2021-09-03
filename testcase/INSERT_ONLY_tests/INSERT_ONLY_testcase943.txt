@@ -1,0 +1,7 @@
+INSERT pQUb1 number
+INSERT bBYq string
+INSERT lr number
+INSERT xku string
+INSERT tb string
+INSERT zKrb string
+INSERT lS5O string

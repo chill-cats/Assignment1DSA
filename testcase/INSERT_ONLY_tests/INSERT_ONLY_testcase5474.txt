@@ -1,0 +1,6 @@
+INSERT v3 number
+INSERT aucG number
+INSERT ckM number
+INSERT o string
+INSERT y82w3O string
+INSERT zA9 number

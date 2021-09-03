@@ -1,0 +1,2 @@
+ASSIGN lC0 g
+ASSIGN svnl g

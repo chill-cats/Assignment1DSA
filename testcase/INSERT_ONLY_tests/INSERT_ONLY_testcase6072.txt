@@ -1,0 +1,8 @@
+INSERT qccDR number
+INSERT vcGO_ string
+INSERT p string
+INSERT qaa number
+INSERT v4 number
+INSERT o7v number
+INSERT vffomC string
+INSERT rB5 number

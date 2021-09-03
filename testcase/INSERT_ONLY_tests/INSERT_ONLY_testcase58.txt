@@ -1,0 +1,4 @@
+INSERT gKo number
+INSERT wQ number
+INSERT eMZ string
+INSERT uZ_Z string

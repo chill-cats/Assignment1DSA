@@ -1,0 +1,5 @@
+INSERT h4gMBH string
+INSERT bU number
+INSERT cdvr number
+INSERT n8KR0 string
+INSERT jm string

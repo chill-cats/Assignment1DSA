@@ -1,0 +1,8 @@
+INSERT vH string
+INSERT s string
+INSERT v number
+INSERT ac number
+INSERT hxEZI number
+INSERT hxV number
+INSERT j number
+INSERT g6 number

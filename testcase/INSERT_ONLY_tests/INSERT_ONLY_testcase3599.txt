@@ -1,0 +1,2 @@
+INSERT wMFNJ string
+INSERT cj string

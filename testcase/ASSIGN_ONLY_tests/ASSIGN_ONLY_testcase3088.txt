@@ -1,0 +1,4 @@
+ASSIGN e_bXn 1172
+ASSIGN e_bXn m
+ASSIGN pS 'B'
+ASSIGN pS m

@@ -1,0 +1,2 @@
+ASSIGN ud2j 'HG'
+ASSIGN bH_aT 94

@@ -1,0 +1,10 @@
+INSERT mwC string
+INSERT sF1 number
+INSERT rnew number
+INSERT c7 string
+INSERT qW5uQ number
+INSERT zp string
+INSERT tGa number
+INSERT jF6I string
+INSERT aa number
+INSERT oAlO1M string

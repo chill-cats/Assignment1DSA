@@ -1,0 +1,14 @@
+INSERT f number
+INSERT a string
+INSERT v string
+INSERT s7 number
+INSERT kj string
+INSERT dmowz string
+INSERT kvkA string
+INSERT h number
+INSERT xe29o number
+INSERT c_cSmT string
+INSERT gyQ number
+INSERT cBl1 number
+INSERT jcB string
+INSERT uzz string

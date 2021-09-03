@@ -1,0 +1,3 @@
+ASSIGN c 640
+ASSIGN gc6mhg 1025
+ASSIGN gc6mhg 'aa2h'

@@ -1,0 +1,8 @@
+INSERT qOmt number
+INSERT vmf number
+INSERT dD string
+INSERT vogJy string
+INSERT z7 string
+INSERT rl2i number
+INSERT blSyDd number
+INSERT kLvDa number

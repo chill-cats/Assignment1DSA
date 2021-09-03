@@ -1,0 +1,7 @@
+INSERT ntg number
+INSERT leY4 number
+INSERT tLiO number
+INSERT zGkmJ number
+INSERT z string
+INSERT c number
+INSERT ci number

@@ -1,0 +1,7 @@
+INSERT h_1 string
+INSERT xrdWo string
+INSERT h2XpX string
+INSERT c number
+INSERT sR54yc number
+INSERT mn string
+INSERT a0EB4i string

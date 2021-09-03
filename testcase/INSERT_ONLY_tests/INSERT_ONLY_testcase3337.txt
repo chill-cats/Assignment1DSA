@@ -1,0 +1,5 @@
+INSERT j1evY string
+INSERT gD number
+INSERT kxB number
+INSERT e number
+INSERT fskL string

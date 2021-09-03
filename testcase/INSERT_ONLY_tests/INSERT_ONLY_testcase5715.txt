@@ -1,0 +1,6 @@
+INSERT bGFC string
+INSERT hOU1 number
+INSERT dzZu string
+INSERT zdBSLA number
+INSERT yl string
+INSERT ue7V number

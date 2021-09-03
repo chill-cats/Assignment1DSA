@@ -1,0 +1,4 @@
+INSERT nZjoR_ number
+INSERT d1p string
+INSERT sK3N number
+INSERT yiiFmr number

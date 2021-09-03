@@ -1,0 +1,9 @@
+INSERT io string
+INSERT lX string
+INSERT lk0i string
+INSERT hqVpbm number
+INSERT g0 number
+INSERT l string
+INSERT e68 string
+INSERT y string
+INSERT pgCI string

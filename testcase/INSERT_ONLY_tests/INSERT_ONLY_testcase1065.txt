@@ -1,0 +1,10 @@
+INSERT h1 number
+INSERT b5MX number
+INSERT o string
+INSERT aPX number
+INSERT mU number
+INSERT ezSQ number
+INSERT oBZU number
+INSERT pzFT number
+INSERT pkDgQa number
+INSERT bZk1mj number

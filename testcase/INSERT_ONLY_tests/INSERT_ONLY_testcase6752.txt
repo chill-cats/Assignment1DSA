@@ -1,0 +1,5 @@
+INSERT h_ string
+INSERT g number
+INSERT y7 number
+INSERT qwy number
+INSERT yfGY string

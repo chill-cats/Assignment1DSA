@@ -1,0 +1,3 @@
+INSERT k5 string
+INSERT bB0 string
+INSERT qD number

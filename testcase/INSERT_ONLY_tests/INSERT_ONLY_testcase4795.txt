@@ -1,0 +1,4 @@
+INSERT xG7T number
+INSERT blt number
+INSERT x number
+INSERT mY string

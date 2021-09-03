@@ -1,0 +1,6 @@
+INSERT e8K1 number
+INSERT qM string
+INSERT yfRL number
+INSERT czg4T number
+INSERT o number
+INSERT lBf string

@@ -1,0 +1,4 @@
+ASSIGN wnViPU wnViPU
+ASSIGN wnViPU 254
+ASSIGN pQQU 'Ebi9'
+ASSIGN oiz '9Qi'

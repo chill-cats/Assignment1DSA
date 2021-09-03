@@ -1,0 +1,2 @@
+ASSIGN kwNpl 540
+ASSIGN iGlN ak

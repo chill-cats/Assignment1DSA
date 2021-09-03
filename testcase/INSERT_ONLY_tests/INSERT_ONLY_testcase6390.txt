@@ -1,0 +1,7 @@
+INSERT xH number
+INSERT dpvS string
+INSERT hznJ string
+INSERT lV number
+INSERT xxXUzu string
+INSERT vIgYBL string
+INSERT t number

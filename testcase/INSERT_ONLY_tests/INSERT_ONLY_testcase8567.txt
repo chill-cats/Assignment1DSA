@@ -1,0 +1,6 @@
+INSERT aIv number
+INSERT btkzY string
+INSERT jII string
+INSERT a4E6js number
+INSERT geVe string
+INSERT db number

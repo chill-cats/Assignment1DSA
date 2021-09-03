@@ -1,0 +1,8 @@
+INSERT m_qm9 string
+INSERT whs number
+INSERT v string
+INSERT kB1f1Q string
+INSERT d string
+INSERT ptFH4 string
+INSERT dstq number
+INSERT lp2 number

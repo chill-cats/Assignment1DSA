@@ -1,0 +1,3 @@
+INSERT k9tx string
+INSERT tN3 string
+INSERT oDvHPL number

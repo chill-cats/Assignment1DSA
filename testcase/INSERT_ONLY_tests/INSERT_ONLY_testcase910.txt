@@ -1,0 +1,17 @@
+INSERT yltTN number
+INSERT sPu string
+INSERT p number
+INSERT peJI string
+INSERT sLtFB number
+INSERT dt string
+INSERT dzm6m string
+INSERT xc number
+INSERT x number
+INSERT g number
+INSERT x6 string
+INSERT csVph string
+INSERT fPl number
+INSERT n string
+INSERT vFIS2E number
+INSERT zOiURf string
+INSERT sycRA string

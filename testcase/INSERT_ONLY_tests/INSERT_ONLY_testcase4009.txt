@@ -1,0 +1,11 @@
+INSERT v number
+INSERT le number
+INSERT uBwX string
+INSERT sq1Z string
+INSERT sdX string
+INSERT sjegYq number
+INSERT jsIZ string
+INSERT q number
+INSERT hdam number
+INSERT vU1 number
+INSERT zs string

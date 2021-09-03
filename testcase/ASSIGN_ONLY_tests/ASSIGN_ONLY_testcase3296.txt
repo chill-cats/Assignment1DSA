@@ -1,0 +1,3 @@
+ASSIGN s7uxBA 536
+ASSIGN s7uxBA 'q'
+ASSIGN oM 'ZpL'

@@ -1,0 +1,6 @@
+INSERT w number
+INSERT c_hjf string
+INSERT c3Iea string
+INSERT r number
+INSERT gwIf number
+INSERT xtaf string

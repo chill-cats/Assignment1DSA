@@ -1,0 +1,2 @@
+ASSIGN m 'c'
+ASSIGN p1 'p1gsx'

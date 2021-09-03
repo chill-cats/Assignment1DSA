@@ -1,0 +1,4 @@
+INSERT vW number
+INSERT x string
+INSERT cbKITU number
+INSERT biZ number

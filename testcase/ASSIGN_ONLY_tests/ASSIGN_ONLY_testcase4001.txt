@@ -1,0 +1,2 @@
+ASSIGN ju_kxy 400
+ASSIGN qIM 308

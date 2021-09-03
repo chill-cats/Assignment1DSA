@@ -1,0 +1,16 @@
+INSERT gMCNo number
+INSERT c2_MXA number
+INSERT tF_t7 number
+INSERT xg0 string
+INSERT kJes string
+INSERT qplYq string
+INSERT xYCZ number
+INSERT cG number
+INSERT qNQM string
+INSERT jEIyMU number
+INSERT jk4_ia number
+INSERT wQEN string
+INSERT ck number
+INSERT e number
+INSERT qKa string
+INSERT n4 string

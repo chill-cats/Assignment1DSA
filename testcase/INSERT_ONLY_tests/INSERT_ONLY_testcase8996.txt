@@ -1,0 +1,12 @@
+INSERT u string
+INSERT j number
+INSERT q string
+INSERT c2 number
+INSERT ah45 number
+INSERT t string
+INSERT vfL number
+INSERT aq number
+INSERT lDGQG string
+INSERT fv0 number
+INSERT zq number
+INSERT dQ string

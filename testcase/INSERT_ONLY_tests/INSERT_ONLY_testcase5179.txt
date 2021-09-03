@@ -1,0 +1,10 @@
+INSERT pgt number
+INSERT x number
+INSERT bGhefR string
+INSERT a string
+INSERT v3AnBF number
+INSERT e8BP string
+INSERT uB126n string
+INSERT ul string
+INSERT n number
+INSERT mBom number

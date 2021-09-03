@@ -1,0 +1,11 @@
+INSERT phMA number
+INSERT exC_n7 number
+INSERT bk number
+INSERT tsxb1H number
+INSERT cB number
+INSERT aMRv5A number
+INSERT h number
+INSERT ge3 string
+INSERT pa string
+INSERT z number
+INSERT yXnv string

@@ -1,0 +1,9 @@
+INSERT fg number
+INSERT fo number
+INSERT fW1 number
+INSERT q string
+INSERT s string
+INSERT qwQ8v number
+INSERT gE4K number
+INSERT qP string
+INSERT sNWZWb string

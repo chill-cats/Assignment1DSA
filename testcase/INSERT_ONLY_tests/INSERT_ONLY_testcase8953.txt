@@ -1,0 +1,7 @@
+INSERT q39 number
+INSERT gT5WY string
+INSERT t number
+INSERT y string
+INSERT hpl7 string
+INSERT wtOMbt string
+INSERT ynk number

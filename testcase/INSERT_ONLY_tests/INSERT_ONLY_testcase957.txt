@@ -1,0 +1,4 @@
+INSERT t number
+INSERT o1 number
+INSERT rQCx number
+INSERT jzdU number

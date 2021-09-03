@@ -1,0 +1,6 @@
+INSERT pnx number
+INSERT uKZ number
+INSERT g2 string
+INSERT tLv9n number
+INSERT snYdI string
+INSERT hvIzJ1 number

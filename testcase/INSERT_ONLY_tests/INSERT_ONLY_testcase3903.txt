@@ -1,0 +1,6 @@
+INSERT ciIPir number
+INSERT tkSt string
+INSERT pAua2 number
+INSERT xV_ number
+INSERT rE string
+INSERT nFn number

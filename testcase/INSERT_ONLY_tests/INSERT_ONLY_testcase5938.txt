@@ -1,0 +1,3 @@
+INSERT bWi number
+INSERT x8Gp string
+INSERT k string

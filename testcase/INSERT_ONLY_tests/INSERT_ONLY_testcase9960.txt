@@ -1,0 +1,8 @@
+INSERT hw number
+INSERT ruwArN string
+INSERT pd6 number
+INSERT oCRV number
+INSERT w1sM string
+INSERT gmz string
+INSERT hmMhp3 string
+INSERT e string

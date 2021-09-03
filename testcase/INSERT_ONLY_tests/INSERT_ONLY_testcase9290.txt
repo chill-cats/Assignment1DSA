@@ -1,0 +1,6 @@
+INSERT r number
+INSERT lG1_sF number
+INSERT g string
+INSERT zE98 number
+INSERT mpL string
+INSERT uSK string

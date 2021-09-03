@@ -1,0 +1,10 @@
+INSERT p string
+INSERT h number
+INSERT kXm number
+INSERT r3 number
+INSERT aCWn_ string
+INSERT sH number
+INSERT bPzMP5 string
+INSERT c_a0hD number
+INSERT rP_EW string
+INSERT fwyw7S number

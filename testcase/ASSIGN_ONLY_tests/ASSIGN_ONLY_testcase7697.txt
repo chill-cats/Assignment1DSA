@@ -1,0 +1,2 @@
+ASSIGN tn 379
+ASSIGN aSw 740

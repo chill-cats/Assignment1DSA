@@ -1,0 +1,3 @@
+ASSIGN cz 'ZYnx'
+ASSIGN gjJY4b 666
+ASSIGN i6 114

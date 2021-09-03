@@ -1,0 +1,5 @@
+INSERT hJVTm number
+INSERT kN string
+INSERT sah number
+INSERT ttdgi string
+INSERT iM0 number

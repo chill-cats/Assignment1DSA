@@ -1,0 +1,4 @@
+INSERT wajU5i number
+INSERT fhgP string
+INSERT jU string
+INSERT q4 number

@@ -1,0 +1,2 @@
+ASSIGN dmnA 227
+ASSIGN fbySaW 1006

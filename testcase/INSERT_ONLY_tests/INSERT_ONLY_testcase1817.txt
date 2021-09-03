@@ -1,0 +1,11 @@
+INSERT uc string
+INSERT sffa number
+INSERT ojxbr string
+INSERT t number
+INSERT o number
+INSERT uszH number
+INSERT g string
+INSERT f43Z string
+INSERT kCuP string
+INSERT bD47EX number
+INSERT nwB string

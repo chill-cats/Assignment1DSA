@@ -1,0 +1,5 @@
+INSERT u number
+INSERT qbbG string
+INSERT aU string
+INSERT gRttak number
+INSERT ga string

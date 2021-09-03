@@ -1,0 +1,11 @@
+INSERT rgX number
+INSERT t_Y string
+INSERT fxiPt number
+INSERT wsb number
+INSERT dD string
+INSERT dt string
+INSERT tu number
+INSERT z string
+INSERT gnS string
+INSERT fQ1hN9 string
+INSERT oQ number

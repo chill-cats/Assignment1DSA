@@ -1,0 +1,12 @@
+INSERT v5 string
+INSERT uI9 number
+INSERT sw number
+INSERT qW string
+INSERT iH string
+INSERT uHlZ4 string
+INSERT yAl string
+INSERT ieAvG number
+INSERT u7 number
+INSERT lfWsaC string
+INSERT vKCMpo number
+INSERT rF number

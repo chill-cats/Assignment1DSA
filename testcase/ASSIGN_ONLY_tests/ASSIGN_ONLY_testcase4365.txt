@@ -1,0 +1,4 @@
+ASSIGN mAj 593
+ASSIGN iAB iAB
+ASSIGN swq iAB
+ASSIGN tKeNwk 'i'

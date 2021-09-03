@@ -1,0 +1,10 @@
+INSERT biTS string
+INSERT brc5Q number
+INSERT dVr number
+INSERT gei string
+INSERT j string
+INSERT r string
+INSERT w2 string
+INSERT hF number
+INSERT w number
+INSERT bXcdn string

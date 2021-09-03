@@ -1,0 +1,15 @@
+INSERT r15 number
+INSERT l number
+INSERT w string
+INSERT iP string
+INSERT shHb string
+INSERT sE7CrB string
+INSERT m9xRjU number
+INSERT aO6 string
+INSERT yA string
+INSERT k string
+INSERT t string
+INSERT nHJm string
+INSERT hXu number
+INSERT vh8RTz string
+INSERT v8w7Q string

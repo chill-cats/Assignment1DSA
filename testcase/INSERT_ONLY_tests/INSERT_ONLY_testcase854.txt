@@ -1,0 +1,10 @@
+INSERT luk9 number
+INSERT kaA5 number
+INSERT aNoj4 string
+INSERT ibYTT number
+INSERT eJ string
+INSERT eNIJJ number
+INSERT ysR number
+INSERT z9 number
+INSERT m029RY string
+INSERT zvYv number

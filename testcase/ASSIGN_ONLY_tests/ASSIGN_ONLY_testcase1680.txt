@@ -1,0 +1,4 @@
+ASSIGN zf k
+ASSIGN aj 'Eu'
+ASSIGN t 'KmNj'
+ASSIGN nD hs

@@ -1,0 +1,11 @@
+INSERT r number
+INSERT l number
+INSERT tAgV string
+INSERT yXVsl string
+INSERT n string
+INSERT kR6ftl string
+INSERT xH string
+INSERT nGq string
+INSERT mLJCDD string
+INSERT pA string
+INSERT chYw string

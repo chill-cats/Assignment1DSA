@@ -1,0 +1,3 @@
+ASSIGN hSw 395
+ASSIGN qr 333
+ASSIGN b0jkx k5EnPu

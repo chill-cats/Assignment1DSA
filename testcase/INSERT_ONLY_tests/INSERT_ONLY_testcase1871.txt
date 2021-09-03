@@ -1,0 +1,8 @@
+INSERT qPdp string
+INSERT k string
+INSERT rUO number
+INSERT fnBV2 number
+INSERT wpIm string
+INSERT pdj number
+INSERT wD string
+INSERT tltO string

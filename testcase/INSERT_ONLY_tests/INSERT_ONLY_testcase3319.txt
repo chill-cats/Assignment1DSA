@@ -1,0 +1,4 @@
+INSERT qmai string
+INSERT i2 string
+INSERT fmX string
+INSERT m string

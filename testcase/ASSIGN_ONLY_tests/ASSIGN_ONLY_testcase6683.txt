@@ -1,0 +1,3 @@
+ASSIGN h '9y0'
+ASSIGN chZWW4 'kL8'
+ASSIGN h 81

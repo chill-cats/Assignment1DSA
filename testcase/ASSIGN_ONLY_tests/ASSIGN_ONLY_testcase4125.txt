@@ -1,0 +1,2 @@
+ASSIGN nq7 309
+ASSIGN itex '6S'

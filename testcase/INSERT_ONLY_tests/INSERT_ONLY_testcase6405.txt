@@ -1,0 +1,8 @@
+INSERT hojB number
+INSERT gOF number
+INSERT f75d_ number
+INSERT ox1yw string
+INSERT nboCJ string
+INSERT hjx9 string
+INSERT vX number
+INSERT l3x1 number

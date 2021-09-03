@@ -1,0 +1,5 @@
+INSERT aU1YU number
+INSERT s86 number
+INSERT jwgh number
+INSERT r string
+INSERT rb number

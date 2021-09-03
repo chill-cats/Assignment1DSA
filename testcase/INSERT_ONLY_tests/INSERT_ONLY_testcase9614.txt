@@ -1,0 +1,5 @@
+INSERT vUg number
+INSERT foB string
+INSERT qFmb number
+INSERT h number
+INSERT wbW08u string

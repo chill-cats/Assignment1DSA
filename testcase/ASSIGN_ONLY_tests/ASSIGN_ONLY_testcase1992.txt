@@ -1,0 +1,1 @@
+ASSIGN tu_n 770

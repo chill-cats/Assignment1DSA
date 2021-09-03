@@ -1,0 +1,2 @@
+ASSIGN a a
+ASSIGN pJD pJD

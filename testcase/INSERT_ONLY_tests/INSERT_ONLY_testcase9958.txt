@@ -1,0 +1,5 @@
+INSERT gI number
+INSERT wyi1 number
+INSERT hDn string
+INSERT i number
+INSERT p string

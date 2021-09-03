@@ -1,0 +1,4 @@
+INSERT cx number
+INSERT r number
+INSERT bad5 number
+INSERT pP string

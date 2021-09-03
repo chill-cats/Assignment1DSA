@@ -1,0 +1,4 @@
+INSERT j0 number
+INSERT ld3bj string
+INSERT s string
+INSERT aTvYz4 string

@@ -1,0 +1,6 @@
+INSERT la2 string
+INSERT jr number
+INSERT rTd9 number
+INSERT j7_N string
+INSERT imGL number
+INSERT r2u string

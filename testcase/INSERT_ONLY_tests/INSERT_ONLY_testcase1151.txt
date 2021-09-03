@@ -1,0 +1,11 @@
+INSERT hq number
+INSERT onv number
+INSERT acNR number
+INSERT gAZuB number
+INSERT mhxTEd string
+INSERT fiHE number
+INSERT wwx7 number
+INSERT k number
+INSERT jHk number
+INSERT ryI9IC number
+INSERT rS string

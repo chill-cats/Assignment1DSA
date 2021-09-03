@@ -1,0 +1,7 @@
+INSERT izC string
+INSERT r number
+INSERT bnPGts number
+INSERT oB string
+INSERT tfaUGd number
+INSERT qDtO number
+INSERT aMk number

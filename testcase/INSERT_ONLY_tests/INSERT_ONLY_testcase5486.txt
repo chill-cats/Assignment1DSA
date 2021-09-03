@@ -1,0 +1,6 @@
+INSERT cx7 number
+INSERT rDY string
+INSERT gZ47e string
+INSERT oq0V number
+INSERT hW93 number
+INSERT zAkCAP string

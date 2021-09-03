@@ -1,0 +1,2 @@
+ASSIGN x4CCl 1162
+ASSIGN x4CCl 'Skv8m'

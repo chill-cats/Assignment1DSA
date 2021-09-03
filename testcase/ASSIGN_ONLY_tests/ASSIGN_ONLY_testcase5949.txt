@@ -1,0 +1,2 @@
+ASSIGN myFP 1223
+ASSIGN mah 'Mc'

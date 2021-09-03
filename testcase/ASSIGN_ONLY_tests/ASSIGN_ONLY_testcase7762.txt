@@ -1,0 +1,3 @@
+ASSIGN foGt 28
+ASSIGN bP4 526
+ASSIGN lFvC 'iPkr'

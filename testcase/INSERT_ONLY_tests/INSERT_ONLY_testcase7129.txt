@@ -1,0 +1,4 @@
+INSERT r string
+INSERT f string
+INSERT yP number
+INSERT wmp3VM string

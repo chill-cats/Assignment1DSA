@@ -1,0 +1,2 @@
+ASSIGN dv 1123
+ASSIGN etF 'Ou'

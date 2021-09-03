@@ -1,0 +1,5 @@
+INSERT wLr_l string
+INSERT t number
+INSERT pwD number
+INSERT w string
+INSERT bT_ number

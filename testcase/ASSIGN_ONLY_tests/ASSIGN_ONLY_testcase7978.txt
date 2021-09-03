@@ -1,0 +1,2 @@
+ASSIGN sWD 'dnz'
+ASSIGN my3co my3co

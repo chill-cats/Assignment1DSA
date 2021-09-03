@@ -1,0 +1,5 @@
+INSERT dD string
+INSERT mLUcG number
+INSERT nS8S string
+INSERT h number
+INSERT oCmo string

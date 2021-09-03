@@ -1,0 +1,7 @@
+INSERT z number
+INSERT mWVt7 number
+INSERT d string
+INSERT rzCtZ string
+INSERT h number
+INSERT tpoB number
+INSERT eD1 number

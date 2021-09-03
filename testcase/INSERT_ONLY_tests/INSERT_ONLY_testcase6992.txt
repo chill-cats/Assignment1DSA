@@ -1,0 +1,3 @@
+INSERT tuI5 number
+INSERT hCjL string
+INSERT jyHt number

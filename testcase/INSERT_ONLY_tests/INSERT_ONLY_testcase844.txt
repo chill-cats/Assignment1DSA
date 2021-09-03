@@ -1,0 +1,2 @@
+INSERT pmpcm string
+INSERT w string

@@ -1,0 +1,10 @@
+INSERT tTy2 number
+INSERT hp1P0 string
+INSERT ow30G string
+INSERT btEL string
+INSERT nZX2e2 number
+INSERT g5l number
+INSERT tFIoj string
+INSERT r string
+INSERT oc_qA number
+INSERT ts number

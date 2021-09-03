@@ -1,0 +1,1 @@
+ASSIGN gKsd_ 'A'

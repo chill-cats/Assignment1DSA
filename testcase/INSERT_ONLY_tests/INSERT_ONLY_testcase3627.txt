@@ -1,0 +1,9 @@
+INSERT j number
+INSERT cnjaUF string
+INSERT hIeve string
+INSERT j3JY number
+INSERT cx string
+INSERT ce string
+INSERT jY number
+INSERT nM string
+INSERT anAhy2 string

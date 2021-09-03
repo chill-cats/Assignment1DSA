@@ -1,0 +1,2 @@
+ASSIGN sc 462
+ASSIGN x6if 'xj'

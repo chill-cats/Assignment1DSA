@@ -1,0 +1,7 @@
+INSERT t number
+INSERT we1 string
+INSERT sTBjb number
+INSERT u number
+INSERT xFg6A string
+INSERT c1kT number
+INSERT uDS string

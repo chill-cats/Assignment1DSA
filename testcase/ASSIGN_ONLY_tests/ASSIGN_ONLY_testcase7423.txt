@@ -1,0 +1,3 @@
+ASSIGN qb mAS
+ASSIGN ddF 'bes3j'
+ASSIGN g 29

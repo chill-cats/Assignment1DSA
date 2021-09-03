@@ -1,0 +1,4 @@
+INSERT hwhNW number
+INSERT vNLp number
+INSERT go number
+INSERT thZ string

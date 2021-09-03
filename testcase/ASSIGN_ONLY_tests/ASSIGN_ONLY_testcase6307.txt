@@ -1,0 +1,3 @@
+ASSIGN bx 'jg '
+ASSIGN bx 'AUHZk'
+ASSIGN d '5'

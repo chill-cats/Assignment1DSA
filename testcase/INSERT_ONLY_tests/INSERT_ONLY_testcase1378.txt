@@ -1,0 +1,3 @@
+INSERT vAhn4 number
+INSERT gy5 string
+INSERT vnPNMY number

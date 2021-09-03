@@ -1,0 +1,2 @@
+ASSIGN uw 793
+ASSIGN uav rKmh

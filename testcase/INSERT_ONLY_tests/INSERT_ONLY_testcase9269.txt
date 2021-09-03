@@ -1,0 +1,2 @@
+INSERT u number
+INSERT gvdd string

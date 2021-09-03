@@ -1,0 +1,3 @@
+ASSIGN ta 'I'
+ASSIGN v ipxmFx
+ASSIGN wsKF7 937

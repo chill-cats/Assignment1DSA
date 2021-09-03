@@ -1,0 +1,6 @@
+INSERT idVxpR string
+INSERT e number
+INSERT w number
+INSERT gCNo number
+INSERT g number
+INSERT z_ number

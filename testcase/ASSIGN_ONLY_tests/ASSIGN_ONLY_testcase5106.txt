@@ -1,0 +1,3 @@
+ASSIGN w w
+ASSIGN s s
+ASSIGN kVE '9'

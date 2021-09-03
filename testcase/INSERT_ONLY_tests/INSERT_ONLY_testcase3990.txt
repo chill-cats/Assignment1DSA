@@ -1,0 +1,9 @@
+INSERT s number
+INSERT hRlPV string
+INSERT uNiY number
+INSERT fY string
+INSERT gV8 number
+INSERT fSw string
+INSERT pp number
+INSERT w number
+INSERT c string

@@ -1,0 +1,8 @@
+INSERT x_BH string
+INSERT aFD8 string
+INSERT dLa number
+INSERT oS number
+INSERT l2 string
+INSERT fN number
+INSERT opxE0 number
+INSERT fs number

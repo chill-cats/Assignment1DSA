@@ -1,0 +1,6 @@
+INSERT pC string
+INSERT jkj number
+INSERT mRLdIy number
+INSERT rk string
+INSERT vDdw number
+INSERT x5 string

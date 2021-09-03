@@ -1,0 +1,6 @@
+INSERT erUI string
+INSERT y number
+INSERT yrZ number
+INSERT d4nsb number
+INSERT ih string
+INSERT gQUELG string

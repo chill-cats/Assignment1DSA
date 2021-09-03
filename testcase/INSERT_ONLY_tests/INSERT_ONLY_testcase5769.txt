@@ -1,0 +1,8 @@
+INSERT rdN string
+INSERT rK number
+INSERT qs string
+INSERT o number
+INSERT uOI number
+INSERT n string
+INSERT ukonBU string
+INSERT swCAVw number

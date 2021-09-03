@@ -1,0 +1,9 @@
+INSERT g number
+INSERT bUPO string
+INSERT kOxa string
+INSERT xDe string
+INSERT kktY string
+INSERT wSa string
+INSERT jaO string
+INSERT sW number
+INSERT wI string

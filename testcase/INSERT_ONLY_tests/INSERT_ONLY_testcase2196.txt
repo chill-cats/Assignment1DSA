@@ -1,0 +1,6 @@
+INSERT u_0 string
+INSERT kwvj number
+INSERT z number
+INSERT zJs number
+INSERT a4f number
+INSERT rfP number

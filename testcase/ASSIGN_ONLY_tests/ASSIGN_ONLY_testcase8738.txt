@@ -1,0 +1,2 @@
+ASSIGN rXsfoq 994
+ASSIGN p 503

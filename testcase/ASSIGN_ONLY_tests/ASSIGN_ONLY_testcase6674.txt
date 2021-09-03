@@ -1,0 +1,2 @@
+ASSIGN eE1ID 436
+ASSIGN u7S4 'fr'

@@ -1,0 +1,9 @@
+INSERT t8gd number
+INSERT azurI string
+INSERT ot number
+INSERT c number
+INSERT mfb number
+INSERT znXwY string
+INSERT bLu number
+INSERT xbUz9 string
+INSERT oaVPN number

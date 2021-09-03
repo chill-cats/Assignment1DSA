@@ -1,0 +1,4 @@
+INSERT i string
+INSERT yrzp4i string
+INSERT aM number
+INSERT uuTk3t number

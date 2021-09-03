@@ -1,0 +1,4 @@
+INSERT m6r number
+INSERT obooVw string
+INSERT x0u5am number
+INSERT a9lu4 number

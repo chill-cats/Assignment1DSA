@@ -1,0 +1,5 @@
+INSERT f number
+INSERT s4kAN number
+INSERT rkM string
+INSERT qX string
+INSERT kIbG_ string

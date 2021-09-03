@@ -1,0 +1,7 @@
+INSERT gFYom number
+INSERT dBP number
+INSERT b string
+INSERT kMf4 string
+INSERT og6IdS number
+INSERT hpPB number
+INSERT rwdN number

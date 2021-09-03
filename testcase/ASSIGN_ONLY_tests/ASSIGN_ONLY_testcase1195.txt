@@ -1,0 +1,3 @@
+ASSIGN qDO5 'hDs'
+ASSIGN fCPH 'TZu'
+ASSIGN td 287

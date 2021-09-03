@@ -1,0 +1,9 @@
+INSERT cDC string
+INSERT ya string
+INSERT dsbx number
+INSERT e_pN string
+INSERT wycE number
+INSERT fm string
+INSERT u string
+INSERT ipzx number
+INSERT pPr6 number

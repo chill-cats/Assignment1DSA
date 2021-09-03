@@ -1,0 +1,7 @@
+INSERT yxJhxV number
+INSERT f number
+INSERT i4 string
+INSERT rowLY number
+INSERT hPV string
+INSERT yLk5 number
+INSERT zGtGu string

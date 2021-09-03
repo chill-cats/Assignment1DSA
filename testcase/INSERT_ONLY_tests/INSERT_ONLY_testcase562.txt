@@ -1,0 +1,8 @@
+INSERT x string
+INSERT k string
+INSERT t1tB string
+INSERT aDw number
+INSERT nP number
+INSERT xeQ number
+INSERT x0yF string
+INSERT wvjld string

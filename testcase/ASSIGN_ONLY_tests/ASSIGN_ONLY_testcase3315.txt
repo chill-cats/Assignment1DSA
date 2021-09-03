@@ -1,0 +1,2 @@
+ASSIGN g 'TVaIX'
+ASSIGN bn 'BtG'

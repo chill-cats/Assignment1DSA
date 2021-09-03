@@ -1,0 +1,11 @@
+INSERT zB string
+INSERT x number
+INSERT bS string
+INSERT t string
+INSERT aC number
+INSERT naMP0u string
+INSERT zfAU string
+INSERT opW6O string
+INSERT wkH75 number
+INSERT tmPf0 string
+INSERT kPSL number

@@ -1,0 +1,6 @@
+INSERT z41f number
+INSERT d_ string
+INSERT jWEfRr number
+INSERT y number
+INSERT jq number
+INSERT r number

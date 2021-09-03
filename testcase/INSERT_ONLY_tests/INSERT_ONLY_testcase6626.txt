@@ -1,0 +1,7 @@
+INSERT x string
+INSERT mw1igc number
+INSERT j4asq number
+INSERT hKQ9y7 number
+INSERT aA8 number
+INSERT n2tC string
+INSERT x number

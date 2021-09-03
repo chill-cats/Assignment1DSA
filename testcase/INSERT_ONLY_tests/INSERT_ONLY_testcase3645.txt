@@ -1,0 +1,5 @@
+INSERT r string
+INSERT d9o9 string
+INSERT pmE number
+INSERT jJVio string
+INSERT rpe3 number

@@ -1,0 +1,3 @@
+INSERT uGT_cr string
+INSERT o string
+INSERT bdze string

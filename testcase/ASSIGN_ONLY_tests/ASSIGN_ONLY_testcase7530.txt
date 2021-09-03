@@ -1,0 +1,3 @@
+ASSIGN f 471
+ASSIGN qtElY 786
+ASSIGN qtElY adTpar

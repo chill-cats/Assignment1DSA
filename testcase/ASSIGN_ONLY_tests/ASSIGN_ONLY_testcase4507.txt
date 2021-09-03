@@ -1,0 +1,4 @@
+ASSIGN x ' '
+ASSIGN r1iAf 'Y'
+ASSIGN kYlS 1024
+ASSIGN gOTc gOTc

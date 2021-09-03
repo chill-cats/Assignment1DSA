@@ -1,0 +1,8 @@
+INSERT hx string
+INSERT f9 number
+INSERT gs string
+INSERT zeo number
+INSERT hmWis string
+INSERT tAlVGi number
+INSERT tefcqS string
+INSERT gOMK number

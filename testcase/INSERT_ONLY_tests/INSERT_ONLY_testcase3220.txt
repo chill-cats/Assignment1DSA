@@ -1,0 +1,3 @@
+INSERT p number
+INSERT giJU string
+INSERT yZz string

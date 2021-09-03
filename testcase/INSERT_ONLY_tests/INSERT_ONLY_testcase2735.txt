@@ -1,0 +1,11 @@
+INSERT nm string
+INSERT sz_J string
+INSERT f6 number
+INSERT cHK2L string
+INSERT ka number
+INSERT p string
+INSERT a string
+INSERT n1Du9 string
+INSERT z number
+INSERT hau string
+INSERT iyzNv string

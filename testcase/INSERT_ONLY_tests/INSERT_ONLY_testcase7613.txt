@@ -1,0 +1,8 @@
+INSERT rZ string
+INSERT r number
+INSERT zf8 string
+INSERT dNo4L number
+INSERT mXZ7Qw string
+INSERT jJZR number
+INSERT bDPB6W string
+INSERT r60 number

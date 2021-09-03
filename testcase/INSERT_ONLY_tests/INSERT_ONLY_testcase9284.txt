@@ -1,0 +1,3 @@
+INSERT s4IWFi string
+INSERT o number
+INSERT uKz string

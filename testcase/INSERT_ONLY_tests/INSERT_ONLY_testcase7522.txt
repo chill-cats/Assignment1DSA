@@ -1,0 +1,6 @@
+INSERT nuv5h number
+INSERT hsacJ string
+INSERT cM string
+INSERT zD334 number
+INSERT honn number
+INSERT htVI number

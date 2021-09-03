@@ -1,0 +1,3 @@
+INSERT ofoM string
+INSERT wsk string
+INSERT pA string

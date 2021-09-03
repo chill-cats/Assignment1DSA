@@ -1,0 +1,4 @@
+INSERT rFJf3 number
+INSERT zCuwf number
+INSERT oXICg string
+INSERT f string

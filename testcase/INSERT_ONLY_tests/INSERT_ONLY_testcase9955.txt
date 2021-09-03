@@ -1,0 +1,3 @@
+INSERT yYR string
+INSERT y string
+INSERT aBo number

@@ -1,0 +1,5 @@
+INSERT igvb number
+INSERT xPS number
+INSERT diNf string
+INSERT zmJaF6 number
+INSERT fyc string

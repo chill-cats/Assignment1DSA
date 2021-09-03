@@ -1,0 +1,2 @@
+ASSIGN k 74
+ASSIGN gNpe gNpe

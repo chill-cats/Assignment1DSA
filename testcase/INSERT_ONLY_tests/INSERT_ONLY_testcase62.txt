@@ -1,0 +1,9 @@
+INSERT zO number
+INSERT a9m number
+INSERT jiJ string
+INSERT guh string
+INSERT sT string
+INSERT rF number
+INSERT cdaoT string
+INSERT c string
+INSERT s string

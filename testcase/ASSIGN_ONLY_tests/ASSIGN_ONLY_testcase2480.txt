@@ -1,0 +1,3 @@
+ASSIGN t6 'YWi'
+ASSIGN qu 'na'
+ASSIGN ijwp q2w

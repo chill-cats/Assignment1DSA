@@ -1,0 +1,13 @@
+INSERT p0 number
+INSERT fs4L string
+INSERT uiSjt number
+INSERT ugDv2 string
+INSERT sA5 number
+INSERT tSR1T number
+INSERT oyt string
+INSERT ihJuFY number
+INSERT eYb number
+INSERT yMP number
+INSERT mkG9c string
+INSERT xv string
+INSERT k string

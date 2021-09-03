@@ -1,0 +1,3 @@
+ASSIGN rs oWp
+ASSIGN a9 'tkIk'
+ASSIGN huKJ 'KYZ94'

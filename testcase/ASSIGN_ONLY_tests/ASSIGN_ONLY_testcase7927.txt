@@ -1,0 +1,3 @@
+ASSIGN xcK 682
+ASSIGN xcK '0ek'
+ASSIGN n 'L'

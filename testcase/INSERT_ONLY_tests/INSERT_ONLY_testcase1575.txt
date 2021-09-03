@@ -1,0 +1,6 @@
+INSERT xoD string
+INSERT nw number
+INSERT v string
+INSERT nd string
+INSERT a number
+INSERT oA5GDN string

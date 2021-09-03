@@ -1,0 +1,8 @@
+INSERT a7 number
+INSERT q2o3au number
+INSERT dS4 string
+INSERT kE number
+INSERT uY string
+INSERT tCw string
+INSERT y0 string
+INSERT xO0g string

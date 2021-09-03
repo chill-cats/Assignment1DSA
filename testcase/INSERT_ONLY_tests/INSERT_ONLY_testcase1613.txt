@@ -1,0 +1,10 @@
+INSERT d string
+INSERT vx string
+INSERT y3pcpB number
+INSERT yld string
+INSERT yKs string
+INSERT e number
+INSERT xN number
+INSERT tp9U string
+INSERT xY0T number
+INSERT zMh number

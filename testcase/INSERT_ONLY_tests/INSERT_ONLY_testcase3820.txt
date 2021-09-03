@@ -1,0 +1,9 @@
+INSERT ivsk string
+INSERT kBF3 number
+INSERT cjt string
+INSERT zj string
+INSERT sINZj2 string
+INSERT az6 number
+INSERT y2Tz number
+INSERT ntm number
+INSERT u83E number

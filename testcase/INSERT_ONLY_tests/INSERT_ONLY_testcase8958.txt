@@ -1,0 +1,8 @@
+INSERT t string
+INSERT xK0 string
+INSERT l number
+INSERT gXN number
+INSERT pQ string
+INSERT jkMb string
+INSERT t3gQRR number
+INSERT a4RXP number

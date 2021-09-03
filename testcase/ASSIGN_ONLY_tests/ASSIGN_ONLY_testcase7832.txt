@@ -1,0 +1,2 @@
+ASSIGN vX 1160
+ASSIGN nra vX

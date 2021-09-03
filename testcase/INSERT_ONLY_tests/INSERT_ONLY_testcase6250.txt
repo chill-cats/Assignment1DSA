@@ -1,0 +1,12 @@
+INSERT tr number
+INSERT k1xug6 string
+INSERT uY7 number
+INSERT w string
+INSERT g number
+INSERT r number
+INSERT b2 number
+INSERT n string
+INSERT nZVx number
+INSERT zA string
+INSERT lxS number
+INSERT y string

@@ -1,0 +1,6 @@
+INSERT nBik number
+INSERT q2 number
+INSERT kI9 number
+INSERT n9Yb1 string
+INSERT gPk string
+INSERT ev number

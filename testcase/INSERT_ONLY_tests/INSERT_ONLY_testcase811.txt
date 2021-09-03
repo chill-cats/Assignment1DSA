@@ -1,0 +1,10 @@
+INSERT p number
+INSERT rKzNUq string
+INSERT co number
+INSERT eq number
+INSERT fHm string
+INSERT ko number
+INSERT k string
+INSERT k8f string
+INSERT iXnB number
+INSERT kEMuzB number

@@ -1,0 +1,6 @@
+INSERT zU string
+INSERT r number
+INSERT bsIK number
+INSERT dGI number
+INSERT j string
+INSERT c3BZR number

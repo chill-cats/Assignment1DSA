@@ -1,0 +1,6 @@
+INSERT yv279 string
+INSERT k6vap5 string
+INSERT q string
+INSERT j number
+INSERT dW number
+INSERT pl number

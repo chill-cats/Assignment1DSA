@@ -1,0 +1,4 @@
+INSERT b number
+INSERT ws string
+INSERT d6jHS number
+INSERT xY string

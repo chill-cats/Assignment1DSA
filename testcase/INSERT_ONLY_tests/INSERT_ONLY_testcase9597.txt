@@ -1,0 +1,7 @@
+INSERT s string
+INSERT a number
+INSERT iOVXV number
+INSERT rkx4x number
+INSERT gR4I number
+INSERT wbD4 string
+INSERT tCKV number

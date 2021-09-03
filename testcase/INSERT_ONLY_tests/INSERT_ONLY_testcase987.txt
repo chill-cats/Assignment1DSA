@@ -1,0 +1,6 @@
+INSERT fi number
+INSERT eExm string
+INSERT t4IO number
+INSERT qx number
+INSERT yOhO number
+INSERT pw number

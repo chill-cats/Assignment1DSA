@@ -1,0 +1,13 @@
+INSERT mqFD string
+INSERT nD string
+INSERT v number
+INSERT eUe string
+INSERT ed number
+INSERT rN_Oz number
+INSERT s0 number
+INSERT q number
+INSERT s number
+INSERT kvyD number
+INSERT p string
+INSERT em number
+INSERT y number

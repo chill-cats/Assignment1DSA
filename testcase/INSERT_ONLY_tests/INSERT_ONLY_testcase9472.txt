@@ -1,0 +1,12 @@
+INSERT rvfnom number
+INSERT qaa string
+INSERT y number
+INSERT p7b number
+INSERT v string
+INSERT z number
+INSERT m string
+INSERT so2D string
+INSERT j65 string
+INSERT m9b number
+INSERT d8in string
+INSERT iF4Sk_ number

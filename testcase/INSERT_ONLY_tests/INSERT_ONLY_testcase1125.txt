@@ -1,0 +1,8 @@
+INSERT jTmMF string
+INSERT lE number
+INSERT i string
+INSERT nYSNM string
+INSERT h1t number
+INSERT p7bA string
+INSERT a string
+INSERT o_0Z2n number

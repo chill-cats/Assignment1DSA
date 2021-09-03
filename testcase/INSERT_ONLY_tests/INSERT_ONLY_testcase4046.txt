@@ -1,0 +1,5 @@
+INSERT dQ string
+INSERT ga number
+INSERT h9 number
+INSERT bj number
+INSERT vBipew string

@@ -1,0 +1,10 @@
+INSERT ut15id number
+INSERT irUZS number
+INSERT eXUtG6 number
+INSERT zV40 number
+INSERT gXE2iT string
+INSERT u number
+INSERT g number
+INSERT e string
+INSERT i09 string
+INSERT zj21 number

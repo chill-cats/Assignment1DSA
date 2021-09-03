@@ -1,0 +1,4 @@
+INSERT qX number
+INSERT mfOZ number
+INSERT by number
+INSERT x0GT string

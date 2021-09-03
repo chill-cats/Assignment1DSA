@@ -1,0 +1,12 @@
+INSERT c7r number
+INSERT bi2sDp string
+INSERT r string
+INSERT dt number
+INSERT v string
+INSERT syhqO string
+INSERT zepn string
+INSERT g number
+INSERT jRR number
+INSERT iZ number
+INSERT iLuiej string
+INSERT a string

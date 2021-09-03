@@ -1,0 +1,7 @@
+INSERT cYn number
+INSERT tIs number
+INSERT i9SfG string
+INSERT f6fO number
+INSERT pv_Bwe number
+INSERT qow string
+INSERT aESBy string

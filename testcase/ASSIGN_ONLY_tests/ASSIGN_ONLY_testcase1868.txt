@@ -1,0 +1,4 @@
+ASSIGN kgA kb0vvG
+ASSIGN kgA 'SP'
+ASSIGN xKE 's'
+ASSIGN p aMFBI

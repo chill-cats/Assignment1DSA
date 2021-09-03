@@ -1,0 +1,7 @@
+INSERT viAK number
+INSERT xUR string
+INSERT vl6D string
+INSERT amfzp0 string
+INSERT lD number
+INSERT yw4 number
+INSERT i string

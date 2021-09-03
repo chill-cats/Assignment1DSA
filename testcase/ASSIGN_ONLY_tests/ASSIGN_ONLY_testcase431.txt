@@ -1,0 +1,3 @@
+ASSIGN lmPer 956
+ASSIGN wiwsqT '0iEB'
+ASSIGN ov52F 832

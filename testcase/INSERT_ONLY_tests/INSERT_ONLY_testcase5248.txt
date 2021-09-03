@@ -1,0 +1,4 @@
+INSERT zi number
+INSERT wAKrAD string
+INSERT b number
+INSERT nAc string

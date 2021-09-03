@@ -1,0 +1,5 @@
+INSERT njB number
+INSERT qyy1 string
+INSERT xKjr number
+INSERT z0B string
+INSERT fl number

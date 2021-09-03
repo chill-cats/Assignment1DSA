@@ -1,0 +1,3 @@
+ASSIGN u 's1e4'
+ASSIGN f5r hX4
+ASSIGN f4CMgR 'h'

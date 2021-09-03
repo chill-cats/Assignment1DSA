@@ -1,0 +1,7 @@
+INSERT l number
+INSERT xbf string
+INSERT l number
+INSERT m string
+INSERT tY number
+INSERT cU_By number
+INSERT qM string

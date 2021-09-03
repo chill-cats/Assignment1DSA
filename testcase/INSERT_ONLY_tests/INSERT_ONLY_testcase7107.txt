@@ -1,0 +1,11 @@
+INSERT wg number
+INSERT v2 number
+INSERT udRED string
+INSERT sMi string
+INSERT g string
+INSERT h string
+INSERT tn string
+INSERT i5ECYv string
+INSERT jR string
+INSERT igwWS number
+INSERT smBvoO number

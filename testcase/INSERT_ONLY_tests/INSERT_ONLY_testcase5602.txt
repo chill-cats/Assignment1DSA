@@ -1,0 +1,4 @@
+INSERT vmj string
+INSERT b1 string
+INSERT u number
+INSERT edjO string

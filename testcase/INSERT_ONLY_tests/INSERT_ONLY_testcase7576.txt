@@ -1,0 +1,5 @@
+INSERT xsZhc string
+INSERT f number
+INSERT yC string
+INSERT vg4 number
+INSERT t number

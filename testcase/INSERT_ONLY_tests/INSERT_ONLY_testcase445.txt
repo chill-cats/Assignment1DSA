@@ -1,0 +1,9 @@
+INSERT s_W5 string
+INSERT mN string
+INSERT n number
+INSERT i5k string
+INSERT wEc string
+INSERT wVNR string
+INSERT f0DDYX number
+INSERT gbGIR string
+INSERT nv7dk string

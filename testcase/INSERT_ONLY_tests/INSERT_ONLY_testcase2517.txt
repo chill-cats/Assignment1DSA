@@ -1,0 +1,11 @@
+INSERT ei number
+INSERT x string
+INSERT cr string
+INSERT otHak number
+INSERT h9VRj number
+INSERT nSF number
+INSERT k number
+INSERT pP number
+INSERT afSnRZ string
+INSERT zg9Wx number
+INSERT qbo number

@@ -1,0 +1,6 @@
+INSERT gfcD string
+INSERT a8H number
+INSERT wubtcg string
+INSERT cClmC string
+INSERT w_Sw number
+INSERT mS7aKs string

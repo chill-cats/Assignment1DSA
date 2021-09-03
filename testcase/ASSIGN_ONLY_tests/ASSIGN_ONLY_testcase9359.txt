@@ -1,0 +1,4 @@
+ASSIGN x 842
+ASSIGN x a7fXc0
+ASSIGN lfgbA fjcXd
+ASSIGN p8p 148

@@ -1,0 +1,15 @@
+INSERT w string
+INSERT v number
+INSERT q number
+INSERT kYKnZh number
+INSERT ys4 number
+INSERT xUrc string
+INSERT hQ string
+INSERT m7Du number
+INSERT nY number
+INSERT r8 string
+INSERT c number
+INSERT nTrB string
+INSERT o5MmxE number
+INSERT t string
+INSERT iYX number

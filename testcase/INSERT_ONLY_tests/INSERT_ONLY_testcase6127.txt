@@ -1,0 +1,7 @@
+INSERT aqVT number
+INSERT eKW string
+INSERT buNn string
+INSERT jvcmE string
+INSERT ud7xfm number
+INSERT qDo number
+INSERT j5pNIL number

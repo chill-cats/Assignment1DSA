@@ -1,0 +1,8 @@
+INSERT tC3 number
+INSERT dJs6gm number
+INSERT x string
+INSERT uN number
+INSERT pf string
+INSERT vD828 number
+INSERT oU5 string
+INSERT c string

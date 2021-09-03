@@ -1,0 +1,8 @@
+INSERT mo string
+INSERT kQu number
+INSERT cOt number
+INSERT w string
+INSERT m number
+INSERT iCak8U number
+INSERT hFd number
+INSERT cntE number

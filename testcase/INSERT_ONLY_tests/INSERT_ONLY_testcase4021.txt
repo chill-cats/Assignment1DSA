@@ -1,0 +1,5 @@
+INSERT hC string
+INSERT k string
+INSERT j string
+INSERT e1 string
+INSERT zy6 number

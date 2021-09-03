@@ -1,0 +1,3 @@
+ASSIGN lkt 667
+ASSIGN u5Rv4c bp
+ASSIGN bp 'DDOFw'

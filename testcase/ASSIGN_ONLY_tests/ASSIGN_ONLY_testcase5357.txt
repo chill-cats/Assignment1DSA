@@ -1,0 +1,4 @@
+ASSIGN jf 'Rnr'
+ASSIGN br br
+ASSIGN hovof 956
+ASSIGN eL 63

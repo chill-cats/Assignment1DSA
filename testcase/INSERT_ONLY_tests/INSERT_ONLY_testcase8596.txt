@@ -1,0 +1,7 @@
+INSERT a4PiW number
+INSERT abZ number
+INSERT x string
+INSERT iWl string
+INSERT w0_1Z string
+INSERT nfVT string
+INSERT qr4 string

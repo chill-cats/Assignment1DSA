@@ -1,0 +1,5 @@
+INSERT wk number
+INSERT x number
+INSERT k8P2Q number
+INSERT a string
+INSERT sp string

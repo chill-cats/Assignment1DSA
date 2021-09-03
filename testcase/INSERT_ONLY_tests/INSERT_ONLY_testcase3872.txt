@@ -1,0 +1,7 @@
+INSERT f number
+INSERT leoFJ number
+INSERT o string
+INSERT aNvYrz number
+INSERT oh number
+INSERT hP7 number
+INSERT d string

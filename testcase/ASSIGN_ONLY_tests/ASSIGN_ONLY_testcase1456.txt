@@ -1,0 +1,2 @@
+ASSIGN qFcjI 843
+ASSIGN rw 'eN'

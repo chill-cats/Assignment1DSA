@@ -1,0 +1,7 @@
+INSERT vWW7 string
+INSERT fVy string
+INSERT pgz0 string
+INSERT h number
+INSERT v string
+INSERT jto number
+INSERT eE number

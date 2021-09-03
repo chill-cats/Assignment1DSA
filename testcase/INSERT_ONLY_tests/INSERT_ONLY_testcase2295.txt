@@ -1,0 +1,2 @@
+INSERT qsqB5K string
+INSERT c_Gi number

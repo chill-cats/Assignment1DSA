@@ -1,0 +1,4 @@
+INSERT q number
+INSERT z number
+INSERT eiEIrX number
+INSERT l4v string

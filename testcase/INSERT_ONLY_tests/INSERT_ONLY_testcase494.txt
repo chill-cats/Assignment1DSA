@@ -1,0 +1,5 @@
+INSERT sc6K number
+INSERT v string
+INSERT gU number
+INSERT gzXPcO number
+INSERT c number

@@ -1,0 +1,3 @@
+ASSIGN olfrZ 1000
+ASSIGN faX1 'Z'
+ASSIGN t 728

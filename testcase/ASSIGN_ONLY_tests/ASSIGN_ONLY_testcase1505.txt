@@ -1,0 +1,2 @@
+ASSIGN kX kX
+ASSIGN f0rS 'M'

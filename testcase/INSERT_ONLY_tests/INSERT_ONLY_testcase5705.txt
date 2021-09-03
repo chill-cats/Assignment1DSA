@@ -1,0 +1,6 @@
+INSERT eWhaYI string
+INSERT yEKb string
+INSERT m string
+INSERT f number
+INSERT x number
+INSERT s number

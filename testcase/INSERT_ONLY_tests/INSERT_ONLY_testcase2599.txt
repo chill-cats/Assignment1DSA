@@ -1,0 +1,8 @@
+INSERT h number
+INSERT w string
+INSERT o number
+INSERT g8jB7 string
+INSERT na5Avf string
+INSERT o2km0 string
+INSERT ac number
+INSERT o string

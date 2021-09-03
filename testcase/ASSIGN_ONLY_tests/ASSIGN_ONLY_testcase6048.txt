@@ -1,0 +1,1 @@
+ASSIGN sFTx 622

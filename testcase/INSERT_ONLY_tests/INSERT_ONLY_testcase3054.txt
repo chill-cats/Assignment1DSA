@@ -1,0 +1,15 @@
+INSERT aE number
+INSERT r string
+INSERT a90dNr number
+INSERT iM_gp number
+INSERT vTYa string
+INSERT mW number
+INSERT yD string
+INSERT revQ string
+INSERT jP3TP string
+INSERT kZXI number
+INSERT j number
+INSERT s number
+INSERT itvIv string
+INSERT loT number
+INSERT cd number

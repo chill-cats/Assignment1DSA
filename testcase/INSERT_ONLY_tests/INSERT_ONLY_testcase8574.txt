@@ -1,0 +1,5 @@
+INSERT du number
+INSERT z number
+INSERT tFAe string
+INSERT h4vEx number
+INSERT ip number

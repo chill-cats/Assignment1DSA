@@ -1,0 +1,4 @@
+ASSIGN kym 948
+ASSIGN x5E t88L
+ASSIGN pbCn 'Xp'
+ASSIGN f2 'X25'

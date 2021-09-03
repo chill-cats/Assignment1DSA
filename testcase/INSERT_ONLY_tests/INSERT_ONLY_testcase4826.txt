@@ -1,0 +1,3 @@
+INSERT pwKru2 number
+INSERT ix number
+INSERT bUs number

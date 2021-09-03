@@ -1,0 +1,2 @@
+INSERT i_ number
+INSERT iMY string

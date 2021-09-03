@@ -1,0 +1,4 @@
+INSERT alY string
+INSERT sf string
+INSERT uATzg string
+INSERT g number

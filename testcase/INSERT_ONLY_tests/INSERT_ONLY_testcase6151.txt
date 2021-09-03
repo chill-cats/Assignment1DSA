@@ -1,0 +1,5 @@
+INSERT qn string
+INSERT gbvd string
+INSERT r number
+INSERT n string
+INSERT voHF number

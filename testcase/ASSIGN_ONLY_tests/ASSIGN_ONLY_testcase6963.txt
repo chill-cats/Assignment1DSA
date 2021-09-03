@@ -1,0 +1,3 @@
+ASSIGN nCu6u t
+ASSIGN nCu6u '8B'
+ASSIGN m 794

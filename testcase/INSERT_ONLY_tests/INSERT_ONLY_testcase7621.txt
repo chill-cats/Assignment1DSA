@@ -1,0 +1,9 @@
+INSERT h number
+INSERT fb string
+INSERT l5 number
+INSERT yYS string
+INSERT pD number
+INSERT riA string
+INSERT r number
+INSERT nl_j string
+INSERT p number

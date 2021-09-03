@@ -1,0 +1,4 @@
+INSERT k number
+INSERT rUYe number
+INSERT q string
+INSERT xA number

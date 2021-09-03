@@ -1,0 +1,4 @@
+INSERT prmf number
+INSERT bbDVY number
+INSERT bof2 number
+INSERT wXStG0 string

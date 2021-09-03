@@ -1,0 +1,2 @@
+ASSIGN s_W5 'HR'
+ASSIGN s_W5 '6'

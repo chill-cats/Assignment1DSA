@@ -1,0 +1,4 @@
+INSERT iX_ string
+INSERT u_o4F number
+INSERT zzSq string
+INSERT tw string

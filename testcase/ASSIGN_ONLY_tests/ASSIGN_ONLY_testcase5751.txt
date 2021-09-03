@@ -1,0 +1,2 @@
+ASSIGN jic f2e
+ASSIGN cKP 'FCDi'

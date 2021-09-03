@@ -1,0 +1,2 @@
+INSERT g string
+INSERT vT9M3h number

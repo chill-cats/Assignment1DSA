@@ -1,0 +1,7 @@
+INSERT y5 string
+INSERT s number
+INSERT sUHnuY number
+INSERT v string
+INSERT irVEY number
+INSERT aAy number
+INSERT n number

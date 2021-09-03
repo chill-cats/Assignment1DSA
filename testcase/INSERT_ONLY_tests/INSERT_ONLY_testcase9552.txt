@@ -1,0 +1,5 @@
+INSERT q string
+INSERT d string
+INSERT v string
+INSERT l72 string
+INSERT sD number

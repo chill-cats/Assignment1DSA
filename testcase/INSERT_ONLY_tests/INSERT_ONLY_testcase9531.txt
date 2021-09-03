@@ -1,0 +1,5 @@
+INSERT ljd05 number
+INSERT ybuV number
+INSERT oj number
+INSERT m0P number
+INSERT wER string

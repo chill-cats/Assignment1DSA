@@ -1,0 +1,6 @@
+INSERT e number
+INSERT v string
+INSERT zStvU number
+INSERT asC string
+INSERT tg string
+INSERT cep3z string

@@ -1,0 +1,4 @@
+ASSIGN n 'hu'
+ASSIGN n 297
+ASSIGN n '539d1'
+ASSIGN fG1r 'K'

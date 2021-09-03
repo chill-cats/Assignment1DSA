@@ -1,0 +1,4 @@
+INSERT b9ii string
+INSERT ma8 number
+INSERT wiudiZ number
+INSERT lS string

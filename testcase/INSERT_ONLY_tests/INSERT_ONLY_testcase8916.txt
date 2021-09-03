@@ -1,0 +1,12 @@
+INSERT rr number
+INSERT ch2rtd number
+INSERT i string
+INSERT d string
+INSERT z string
+INSERT mnp string
+INSERT u number
+INSERT ptbaT9 number
+INSERT gZxrIW number
+INSERT jRn string
+INSERT jO3o string
+INSERT abSX number

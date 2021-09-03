@@ -1,0 +1,3 @@
+INSERT a4 number
+INSERT z number
+INSERT r string

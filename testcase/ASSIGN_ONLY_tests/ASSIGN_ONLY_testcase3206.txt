@@ -1,0 +1,4 @@
+ASSIGN h 'iho'
+ASSIGN h h
+ASSIGN s7q5U5 'j4'
+ASSIGN u1mwRt w

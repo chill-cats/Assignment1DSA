@@ -1,0 +1,5 @@
+INSERT v number
+INSERT n number
+INSERT xI2u3 string
+INSERT w53 number
+INSERT mx string

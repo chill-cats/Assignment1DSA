@@ -1,0 +1,11 @@
+INSERT fq string
+INSERT f2P number
+INSERT idIcTt number
+INSERT igvlM string
+INSERT uFElQ string
+INSERT xbX string
+INSERT bZnvUw number
+INSERT hMLO number
+INSERT rpY number
+INSERT gQ number
+INSERT sQs string

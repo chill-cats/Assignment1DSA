@@ -1,0 +1,5 @@
+INSERT v8 number
+INSERT b number
+INSERT n string
+INSERT frqHs string
+INSERT v0KOY number

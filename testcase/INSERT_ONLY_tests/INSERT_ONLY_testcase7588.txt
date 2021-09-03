@@ -1,0 +1,12 @@
+INSERT w string
+INSERT aX number
+INSERT nn number
+INSERT j_Nrf9 string
+INSERT elhB2 string
+INSERT gur number
+INSERT fXW number
+INSERT va number
+INSERT rNIyqX number
+INSERT omOcg string
+INSERT yo string
+INSERT mJ string

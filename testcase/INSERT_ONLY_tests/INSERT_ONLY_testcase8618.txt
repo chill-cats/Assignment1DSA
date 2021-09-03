@@ -1,0 +1,2 @@
+INSERT urfgKu string
+INSERT y number

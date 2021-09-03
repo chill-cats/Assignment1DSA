@@ -1,0 +1,12 @@
+INSERT pRMb string
+INSERT b6 string
+INSERT m4 number
+INSERT m string
+INSERT ndbv number
+INSERT e9X number
+INSERT i string
+INSERT lScY number
+INSERT hhL string
+INSERT fPT number
+INSERT i number
+INSERT muoBIh string

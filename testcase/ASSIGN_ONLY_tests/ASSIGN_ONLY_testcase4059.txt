@@ -1,0 +1,2 @@
+ASSIGN foz50 vv
+ASSIGN n x

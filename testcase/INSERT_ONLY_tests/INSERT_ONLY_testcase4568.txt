@@ -1,0 +1,4 @@
+INSERT nzWID string
+INSERT lzg string
+INSERT ckE number
+INSERT c string

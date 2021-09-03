@@ -1,0 +1,5 @@
+INSERT z string
+INSERT yYX number
+INSERT sw number
+INSERT ns1ux string
+INSERT wyaco number

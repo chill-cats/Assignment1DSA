@@ -1,0 +1,2 @@
+INSERT fNr number
+INSERT en string

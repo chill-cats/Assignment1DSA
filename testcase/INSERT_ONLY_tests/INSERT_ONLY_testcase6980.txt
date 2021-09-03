@@ -1,0 +1,4 @@
+INSERT ofnyYU number
+INSERT jnu string
+INSERT o number
+INSERT eiCLUk number

@@ -1,0 +1,7 @@
+INSERT vjWrv string
+INSERT t1 number
+INSERT v number
+INSERT vB string
+INSERT y24v string
+INSERT kKjKdI number
+INSERT l8YGJi string

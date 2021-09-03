@@ -1,0 +1,7 @@
+INSERT rA number
+INSERT h string
+INSERT sm string
+INSERT fZAfyA number
+INSERT rNCD string
+INSERT rIRFMZ string
+INSERT iJFBZR number

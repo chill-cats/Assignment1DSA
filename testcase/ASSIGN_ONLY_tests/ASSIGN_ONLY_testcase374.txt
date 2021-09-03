@@ -1,0 +1,2 @@
+ASSIGN q8i 'hRSO'
+ASSIGN vK 141

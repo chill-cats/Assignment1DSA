@@ -1,0 +1,7 @@
+INSERT phKAm2 number
+INSERT ko string
+INSERT ywQs number
+INSERT rtH string
+INSERT raG number
+INSERT y string
+INSERT sb5d string

@@ -1,0 +1,10 @@
+INSERT kni string
+INSERT ws string
+INSERT k number
+INSERT fv1t string
+INSERT t7gwc number
+INSERT s number
+INSERT uunl4 number
+INSERT ho string
+INSERT hFgyHA string
+INSERT e747r number

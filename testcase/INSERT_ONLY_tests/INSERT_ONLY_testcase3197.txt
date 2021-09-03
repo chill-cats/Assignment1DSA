@@ -1,0 +1,5 @@
+INSERT eBC9 number
+INSERT rJgswW string
+INSERT elshn number
+INSERT qMh string
+INSERT qwqSNe number

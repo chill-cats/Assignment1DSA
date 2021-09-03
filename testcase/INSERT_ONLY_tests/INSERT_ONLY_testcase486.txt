@@ -1,0 +1,5 @@
+INSERT xWdf string
+INSERT xuLBMN string
+INSERT p3 string
+INSERT kkd string
+INSERT krp number

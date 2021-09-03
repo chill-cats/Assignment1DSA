@@ -1,0 +1,12 @@
+INSERT o2 number
+INSERT g number
+INSERT pcU number
+INSERT t_ number
+INSERT d string
+INSERT zfHpi7 string
+INSERT f2DjJb number
+INSERT j5z_ms number
+INSERT oS number
+INSERT v string
+INSERT iHp7Ku string
+INSERT du_L number

@@ -1,0 +1,9 @@
+INSERT kY01d number
+INSERT tT number
+INSERT ntRpto number
+INSERT xOr string
+INSERT einaoX string
+INSERT y number
+INSERT vC9x string
+INSERT qwoDf string
+INSERT w83A number

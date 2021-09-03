@@ -1,0 +1,4 @@
+INSERT tJC string
+INSERT e4 number
+INSERT p string
+INSERT uCY string

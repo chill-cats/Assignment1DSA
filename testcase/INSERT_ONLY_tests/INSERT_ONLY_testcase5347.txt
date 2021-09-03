@@ -1,0 +1,4 @@
+INSERT z43 number
+INSERT ppi string
+INSERT ed number
+INSERT sj string

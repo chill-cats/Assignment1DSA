@@ -1,0 +1,2 @@
+ASSIGN fSvbX 21
+ASSIGN d 1060

@@ -1,0 +1,2 @@
+ASSIGN d_X '5SJ3N'
+ASSIGN d_X 758

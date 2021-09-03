@@ -1,0 +1,3 @@
+ASSIGN iF_fB7 't'
+ASSIGN f 'QooP'
+ASSIGN iF_fB7 k

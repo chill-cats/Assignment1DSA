@@ -1,0 +1,8 @@
+INSERT q number
+INSERT h number
+INSERT ijW string
+INSERT pj8A string
+INSERT lve_w string
+INSERT dy number
+INSERT dh8KHh number
+INSERT pcETI number

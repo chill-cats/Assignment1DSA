@@ -1,0 +1,6 @@
+INSERT qsIVV number
+INSERT m number
+INSERT prt number
+INSERT ybOI9y number
+INSERT o string
+INSERT yQky number

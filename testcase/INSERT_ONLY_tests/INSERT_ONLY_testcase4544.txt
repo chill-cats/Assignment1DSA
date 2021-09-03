@@ -1,0 +1,6 @@
+INSERT aA28N1 string
+INSERT nNp number
+INSERT j5KoS number
+INSERT hA4 number
+INSERT mmg number
+INSERT yOWE number

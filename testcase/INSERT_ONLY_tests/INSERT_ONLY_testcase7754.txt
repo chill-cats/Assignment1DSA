@@ -1,0 +1,8 @@
+INSERT wTPoP number
+INSERT v number
+INSERT c number
+INSERT d7 string
+INSERT pA string
+INSERT at number
+INSERT gQ8r string
+INSERT kvNRT number

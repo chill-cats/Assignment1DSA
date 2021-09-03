@@ -1,0 +1,3 @@
+ASSIGN n0 'Dw'
+ASSIGN p74l7 'O3r'
+ASSIGN p74l7 '2W'

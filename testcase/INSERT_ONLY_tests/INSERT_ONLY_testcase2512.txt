@@ -1,0 +1,6 @@
+INSERT pcO84g number
+INSERT qbIC string
+INSERT xR string
+INSERT nu string
+INSERT c number
+INSERT rOpcy number

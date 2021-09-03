@@ -1,0 +1,8 @@
+INSERT e0eYYR number
+INSERT bKy number
+INSERT t string
+INSERT gHCZ number
+INSERT pym number
+INSERT lF string
+INSERT fT string
+INSERT ws number

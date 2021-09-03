@@ -1,0 +1,2 @@
+ASSIGN i 615
+ASSIGN gLR gLR

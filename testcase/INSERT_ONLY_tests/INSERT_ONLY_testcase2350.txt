@@ -1,0 +1,10 @@
+INSERT sbPL7 string
+INSERT tAu number
+INSERT zaQV string
+INSERT jC number
+INSERT c5TOD5 number
+INSERT nDc0_ string
+INSERT iaW string
+INSERT iS string
+INSERT v string
+INSERT sC3IS string

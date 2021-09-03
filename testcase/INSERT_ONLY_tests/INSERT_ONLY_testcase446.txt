@@ -1,0 +1,5 @@
+INSERT kq string
+INSERT oB string
+INSERT xh string
+INSERT e8 number
+INSERT fD string

@@ -1,0 +1,2 @@
+ASSIGN kTU23 'IeTu'
+ASSIGN sC7Nrk '6'

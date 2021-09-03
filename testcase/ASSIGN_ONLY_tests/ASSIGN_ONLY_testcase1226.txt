@@ -1,0 +1,3 @@
+ASSIGN gcmD 'l'
+ASSIGN mi 'qiyB'
+ASSIGN k3buZ 1047

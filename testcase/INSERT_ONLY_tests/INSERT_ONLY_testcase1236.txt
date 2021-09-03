@@ -1,0 +1,5 @@
+INSERT iNHtFO number
+INSERT e string
+INSERT ju number
+INSERT u string
+INSERT aa string

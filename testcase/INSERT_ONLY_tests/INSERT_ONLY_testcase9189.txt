@@ -1,0 +1,7 @@
+INSERT qWvtl number
+INSERT sj2 string
+INSERT pKAyjO string
+INSERT wA number
+INSERT z string
+INSERT ky string
+INSERT qE string

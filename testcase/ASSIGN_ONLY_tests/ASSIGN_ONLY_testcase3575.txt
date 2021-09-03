@@ -1,0 +1,3 @@
+ASSIGN tLny2g 'RuO'
+ASSIGN zsN 940
+ASSIGN jA 217

@@ -1,0 +1,2 @@
+ASSIGN wd 'LXE'
+ASSIGN wqL 1205

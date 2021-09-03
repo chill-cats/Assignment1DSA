@@ -1,0 +1,6 @@
+INSERT oS string
+INSERT x string
+INSERT d number
+INSERT i number
+INSERT vX4myx string
+INSERT cD number

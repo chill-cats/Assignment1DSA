@@ -1,0 +1,5 @@
+ASSIGN s 'y509'
+ASSIGN s 'oQe'
+ASSIGN bAbiCF 76
+ASSIGN aW dl
+ASSIGN dsPug 1001

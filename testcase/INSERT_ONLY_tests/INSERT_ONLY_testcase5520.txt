@@ -1,0 +1,2 @@
+INSERT kH5 number
+INSERT g string

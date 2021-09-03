@@ -1,0 +1,5 @@
+INSERT d number
+INSERT m8F1k number
+INSERT c4Pm string
+INSERT uvV number
+INSERT tKN number

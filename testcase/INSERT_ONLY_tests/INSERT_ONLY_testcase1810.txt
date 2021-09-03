@@ -1,0 +1,9 @@
+INSERT c8y0 number
+INSERT z_H8 string
+INSERT kU_oDG string
+INSERT f string
+INSERT kmL string
+INSERT qp5 string
+INSERT v number
+INSERT f string
+INSERT yZXwu string

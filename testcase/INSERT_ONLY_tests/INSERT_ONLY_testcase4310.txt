@@ -1,0 +1,17 @@
+INSERT wnl number
+INSERT l number
+INSERT v number
+INSERT h string
+INSERT dme string
+INSERT n7tO4l number
+INSERT k017F string
+INSERT mqhcu8 string
+INSERT xrQT string
+INSERT wj string
+INSERT x number
+INSERT yt0 number
+INSERT ig8V string
+INSERT g string
+INSERT bH string
+INSERT ckE2 string
+INSERT s number

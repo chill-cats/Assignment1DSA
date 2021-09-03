@@ -1,0 +1,6 @@
+INSERT gT string
+INSERT f54 number
+INSERT p_C number
+INSERT uH13S number
+INSERT uoWn0Q number
+INSERT isCg string

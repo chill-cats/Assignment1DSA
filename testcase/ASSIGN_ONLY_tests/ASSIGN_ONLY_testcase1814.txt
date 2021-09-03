@@ -1,0 +1,3 @@
+ASSIGN kr38h kr38h
+ASSIGN i20mv hI9Osn
+ASSIGN kr38h 'fxuSM'

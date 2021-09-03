@@ -1,0 +1,7 @@
+INSERT u string
+INSERT i number
+INSERT r44N number
+INSERT bqrUSU number
+INSERT a1 string
+INSERT eqa string
+INSERT fMee number

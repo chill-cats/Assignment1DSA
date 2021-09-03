@@ -1,0 +1,10 @@
+INSERT k7_ string
+INSERT cEAN92 number
+INSERT sG number
+INSERT x2Z74G number
+INSERT b3pxAa number
+INSERT z number
+INSERT kk7IOc string
+INSERT vR number
+INSERT f string
+INSERT bzT string

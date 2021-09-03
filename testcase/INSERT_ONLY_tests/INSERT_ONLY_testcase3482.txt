@@ -1,0 +1,2 @@
+INSERT uj string
+INSERT b number

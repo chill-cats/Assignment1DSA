@@ -1,0 +1,8 @@
+INSERT p string
+INSERT vM1b number
+INSERT b6K string
+INSERT hp string
+INSERT fC string
+INSERT x string
+INSERT u string
+INSERT dg6 number

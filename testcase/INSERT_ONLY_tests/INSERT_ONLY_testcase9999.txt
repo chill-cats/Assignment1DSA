@@ -1,0 +1,12 @@
+INSERT vud string
+INSERT px string
+INSERT mKNZI string
+INSERT vd number
+INSERT kvry string
+INSERT jNIEx number
+INSERT bWlBb string
+INSERT cnb number
+INSERT uJXTF number
+INSERT tG7pA string
+INSERT dZb number
+INSERT fQvkJV string

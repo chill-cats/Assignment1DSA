@@ -1,0 +1,2 @@
+ASSIGN q_KO 'su'
+ASSIGN q_KO 'UNrip'

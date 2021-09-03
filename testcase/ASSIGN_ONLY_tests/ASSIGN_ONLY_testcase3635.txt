@@ -1,0 +1,2 @@
+ASSIGN eB 'M7'
+ASSIGN ga ga

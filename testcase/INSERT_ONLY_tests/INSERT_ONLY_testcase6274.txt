@@ -1,0 +1,9 @@
+INSERT b number
+INSERT sO number
+INSERT y string
+INSERT jZmRVz string
+INSERT snG number
+INSERT oZrnFp number
+INSERT iSA string
+INSERT o number
+INSERT tk string

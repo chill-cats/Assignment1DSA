@@ -1,0 +1,8 @@
+INSERT s0C number
+INSERT yvc number
+INSERT e2 number
+INSERT p9 number
+INSERT w_ string
+INSERT bX number
+INSERT aKJI number
+INSERT xS7 number

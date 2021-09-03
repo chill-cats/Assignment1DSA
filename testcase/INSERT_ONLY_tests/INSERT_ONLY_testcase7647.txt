@@ -1,0 +1,4 @@
+INSERT eSO_g string
+INSERT cj05 number
+INSERT wOb string
+INSERT myX number

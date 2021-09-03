@@ -1,0 +1,4 @@
+INSERT eze27 number
+INSERT gcB number
+INSERT jGQ string
+INSERT cOe string

@@ -1,0 +1,10 @@
+INSERT h number
+INSERT a string
+INSERT e6 number
+INSERT iVT_ string
+INSERT mx string
+INSERT qBRp string
+INSERT a477 string
+INSERT t number
+INSERT hl9FWY number
+INSERT wh number

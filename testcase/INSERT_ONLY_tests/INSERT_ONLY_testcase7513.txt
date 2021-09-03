@@ -1,0 +1,7 @@
+INSERT iSMucn number
+INSERT h_ESOk number
+INSERT s string
+INSERT n number
+INSERT w9B number
+INSERT g number
+INSERT wI number

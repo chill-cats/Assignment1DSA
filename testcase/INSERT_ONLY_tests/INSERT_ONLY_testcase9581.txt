@@ -1,0 +1,7 @@
+INSERT j3VO string
+INSERT qv number
+INSERT fh string
+INSERT qgC string
+INSERT r_1 string
+INSERT uniMO string
+INSERT g3B string

@@ -1,0 +1,3 @@
+ASSIGN kz 653
+ASSIGN fa7md nWzmeG
+ASSIGN nWzmeG 'C'

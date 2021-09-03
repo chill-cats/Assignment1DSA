@@ -1,0 +1,6 @@
+INSERT u number
+INSERT v string
+INSERT ljSr string
+INSERT k_7 string
+INSERT abj number
+INSERT oEq number

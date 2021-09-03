@@ -1,0 +1,7 @@
+INSERT krtD number
+INSERT w3y string
+INSERT s8x string
+INSERT nVD number
+INSERT v string
+INSERT d number
+INSERT g number

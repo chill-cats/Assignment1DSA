@@ -1,0 +1,7 @@
+INSERT k number
+INSERT n6tdx string
+INSERT yMqF number
+INSERT iP string
+INSERT h number
+INSERT ztC number
+INSERT pEP number

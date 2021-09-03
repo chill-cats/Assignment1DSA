@@ -1,0 +1,7 @@
+INSERT u number
+INSERT p number
+INSERT d string
+INSERT t4GhE string
+INSERT cPA string
+INSERT erYkIT string
+INSERT lchwil string

@@ -1,0 +1,8 @@
+INSERT c string
+INSERT k number
+INSERT wh2DU number
+INSERT mpP string
+INSERT f2 number
+INSERT r number
+INSERT lQi string
+INSERT nxAhs0 number

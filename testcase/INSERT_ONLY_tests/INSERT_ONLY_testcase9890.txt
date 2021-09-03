@@ -1,0 +1,5 @@
+INSERT w number
+INSERT zwAQ string
+INSERT lMiC string
+INSERT umGRQy number
+INSERT dWtd number

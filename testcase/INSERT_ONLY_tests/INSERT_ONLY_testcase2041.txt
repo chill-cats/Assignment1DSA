@@ -1,0 +1,6 @@
+INSERT yd0X number
+INSERT v number
+INSERT z string
+INSERT lJ string
+INSERT zDn string
+INSERT b6 string

@@ -1,0 +1,5 @@
+INSERT iSOi string
+INSERT z string
+INSERT c63JZN number
+INSERT wW8Hf8 number
+INSERT kf string

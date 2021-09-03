@@ -1,0 +1,12 @@
+INSERT sqQI string
+INSERT gH string
+INSERT k number
+INSERT glb number
+INSERT eCzSN9 string
+INSERT eh string
+INSERT ksK2aP string
+INSERT lbRU string
+INSERT v3Bu number
+INSERT i string
+INSERT p number
+INSERT iV number

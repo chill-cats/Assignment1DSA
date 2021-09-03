@@ -1,0 +1,8 @@
+INSERT weENP number
+INSERT mqO string
+INSERT m number
+INSERT pctmtD number
+INSERT svgL number
+INSERT znPL number
+INSERT w1P string
+INSERT l82 number

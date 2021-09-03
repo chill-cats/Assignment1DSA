@@ -1,0 +1,2 @@
+ASSIGN c7sfm 413
+ASSIGN iBV 700

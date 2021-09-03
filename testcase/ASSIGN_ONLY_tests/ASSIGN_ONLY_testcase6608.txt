@@ -1,0 +1,3 @@
+ASSIGN x 590
+ASSIGN so2c '6e4OQ'
+ASSIGN so2c 'jg'

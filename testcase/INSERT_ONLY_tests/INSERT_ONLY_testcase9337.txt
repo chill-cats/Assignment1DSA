@@ -1,0 +1,3 @@
+INSERT yis string
+INSERT bu9 string
+INSERT e number

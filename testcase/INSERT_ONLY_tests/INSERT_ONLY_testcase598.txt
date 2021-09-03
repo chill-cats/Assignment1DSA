@@ -1,0 +1,3 @@
+INSERT i number
+INSERT zHF string
+INSERT uh string

@@ -1,0 +1,6 @@
+ASSIGN kThbDt 'DXb'
+ASSIGN kThbDt 1007
+ASSIGN kThbDt oGcpBZ
+ASSIGN oGcpBZ jdKz
+ASSIGN wJ 'mir'
+ASSIGN fG_ 'E5YD'

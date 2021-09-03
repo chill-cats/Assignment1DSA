@@ -1,0 +1,2 @@
+INSERT q number
+INSERT bkn1wn string

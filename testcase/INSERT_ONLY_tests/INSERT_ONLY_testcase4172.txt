@@ -1,0 +1,6 @@
+INSERT v7N3 number
+INSERT wIk string
+INSERT fR string
+INSERT rPIj6a string
+INSERT zB number
+INSERT ng number

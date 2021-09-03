@@ -1,0 +1,4 @@
+INSERT f number
+INSERT e number
+INSERT oa number
+INSERT b6 number

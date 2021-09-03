@@ -1,0 +1,14 @@
+INSERT r string
+INSERT u2 number
+INSERT qA string
+INSERT l string
+INSERT uhv7 number
+INSERT i number
+INSERT dsfo string
+INSERT d3 string
+INSERT aC number
+INSERT sT0D string
+INSERT gzE number
+INSERT dRyk number
+INSERT ltM string
+INSERT gqRFC0 number

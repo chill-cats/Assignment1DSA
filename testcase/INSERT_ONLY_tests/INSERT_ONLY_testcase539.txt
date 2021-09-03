@@ -1,0 +1,5 @@
+INSERT z number
+INSERT itK number
+INSERT v string
+INSERT s1s number
+INSERT rr number

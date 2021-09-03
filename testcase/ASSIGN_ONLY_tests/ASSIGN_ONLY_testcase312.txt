@@ -1,0 +1,2 @@
+ASSIGN w1 37
+ASSIGN r 'M'

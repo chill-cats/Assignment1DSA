@@ -1,0 +1,6 @@
+INSERT tVKftz string
+INSERT b number
+INSERT wnLTa_ string
+INSERT qIXcK3 number
+INSERT v number
+INSERT dJ string

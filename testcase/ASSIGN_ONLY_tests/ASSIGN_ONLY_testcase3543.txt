@@ -1,0 +1,3 @@
+ASSIGN s 'U'
+ASSIGN qpO8 '2sbNS'
+ASSIGN qpO8 '0t'

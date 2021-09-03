@@ -1,0 +1,3 @@
+INSERT rI string
+INSERT g number
+INSERT q1fd6A number

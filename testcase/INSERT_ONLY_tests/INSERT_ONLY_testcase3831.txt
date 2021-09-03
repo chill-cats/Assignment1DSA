@@ -1,0 +1,7 @@
+INSERT r number
+INSERT v5kOB number
+INSERT m96ql string
+INSERT v number
+INSERT fWowx4 number
+INSERT et4giS string
+INSERT erbCpy number

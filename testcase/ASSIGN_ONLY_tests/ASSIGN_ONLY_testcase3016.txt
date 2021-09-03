@@ -1,0 +1,2 @@
+ASSIGN u '2B'
+ASSIGN vtG9i 535

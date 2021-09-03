@@ -1,0 +1,7 @@
+INSERT ry string
+INSERT y number
+INSERT xy string
+INSERT f number
+INSERT f1N_ string
+INSERT pr number
+INSERT kau number

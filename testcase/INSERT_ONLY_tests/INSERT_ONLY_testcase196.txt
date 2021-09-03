@@ -1,0 +1,4 @@
+INSERT gx string
+INSERT yokUZy number
+INSERT ly string
+INSERT ikRP number

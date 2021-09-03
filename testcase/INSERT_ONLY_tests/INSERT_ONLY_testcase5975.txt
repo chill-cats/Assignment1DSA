@@ -1,0 +1,6 @@
+INSERT aMKAY string
+INSERT wf_PF number
+INSERT z4 string
+INSERT i number
+INSERT q7f3 string
+INSERT ha5jLr string

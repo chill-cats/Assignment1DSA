@@ -1,0 +1,13 @@
+INSERT e string
+INSERT r number
+INSERT nv number
+INSERT mMT string
+INSERT g number
+INSERT m number
+INSERT kfam number
+INSERT wS string
+INSERT kcT string
+INSERT zI_QTC number
+INSERT eJVD number
+INSERT pq number
+INSERT y string

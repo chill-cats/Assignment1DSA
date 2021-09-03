@@ -1,0 +1,8 @@
+INSERT uBX number
+INSERT iU1 number
+INSERT q number
+INSERT a string
+INSERT sX5o0 number
+INSERT wOUt string
+INSERT d0oJs string
+INSERT anD97t string

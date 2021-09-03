@@ -1,0 +1,2 @@
+ASSIGN f_w 'S'
+ASSIGN eIKE vnte

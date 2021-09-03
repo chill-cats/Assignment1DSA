@@ -1,0 +1,7 @@
+INSERT byD number
+INSERT zm number
+INSERT fFt2W string
+INSERT xyL string
+INSERT fs1N string
+INSERT lXB string
+INSERT kNDp string

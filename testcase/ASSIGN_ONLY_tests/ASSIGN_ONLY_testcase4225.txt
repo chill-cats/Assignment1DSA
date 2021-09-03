@@ -1,0 +1,2 @@
+ASSIGN ad 'TIoiQ'
+ASSIGN pxpx '2f'

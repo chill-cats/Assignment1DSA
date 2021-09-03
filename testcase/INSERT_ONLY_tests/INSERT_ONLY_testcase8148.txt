@@ -1,0 +1,8 @@
+INSERT trX number
+INSERT iKeT number
+INSERT ihFa string
+INSERT s string
+INSERT m number
+INSERT mGSPW string
+INSERT udWPh string
+INSERT wPUk string

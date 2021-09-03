@@ -1,0 +1,2 @@
+ASSIGN o 'L'
+ASSIGN gv1 53

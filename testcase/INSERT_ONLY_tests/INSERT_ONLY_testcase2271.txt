@@ -1,0 +1,7 @@
+INSERT a string
+INSERT neFy number
+INSERT cl_X number
+INSERT q string
+INSERT n3sZoX number
+INSERT zC number
+INSERT zaM3Hw string

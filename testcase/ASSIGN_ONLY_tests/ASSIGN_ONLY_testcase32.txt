@@ -1,0 +1,4 @@
+ASSIGN hhk h
+ASSIGN hhk hhk
+ASSIGN t 'B'
+ASSIGN hhk 27

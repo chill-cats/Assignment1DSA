@@ -1,0 +1,9 @@
+INSERT r string
+INSERT t string
+INSERT cU3 number
+INSERT zg number
+INSERT rSKW75 string
+INSERT o number
+INSERT fC number
+INSERT lrlkB string
+INSERT osD string

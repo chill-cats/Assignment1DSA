@@ -1,0 +1,9 @@
+INSERT hiRh_c number
+INSERT nfAX string
+INSERT mx number
+INSERT on_Wak number
+INSERT nU5mmX number
+INSERT zYq string
+INSERT u number
+INSERT d number
+INSERT nor number

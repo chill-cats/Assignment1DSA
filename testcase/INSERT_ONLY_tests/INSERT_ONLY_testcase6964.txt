@@ -1,0 +1,5 @@
+INSERT jdww number
+INSERT o number
+INSERT rtQFd string
+INSERT fNR number
+INSERT fZ number

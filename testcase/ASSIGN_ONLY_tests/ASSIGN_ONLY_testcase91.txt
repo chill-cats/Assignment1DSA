@@ -1,0 +1,2 @@
+ASSIGN ph m
+ASSIGN vouGR2 'WGtr '

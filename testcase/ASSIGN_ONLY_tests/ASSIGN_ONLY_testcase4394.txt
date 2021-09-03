@@ -1,0 +1,3 @@
+ASSIGN vr 972
+ASSIGN vv cV
+ASSIGN vr 'HiS'

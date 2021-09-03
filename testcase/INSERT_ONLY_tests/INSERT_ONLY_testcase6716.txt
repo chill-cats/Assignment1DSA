@@ -1,0 +1,3 @@
+INSERT ruHay number
+INSERT yx number
+INSERT gyZ92A string

@@ -1,0 +1,4 @@
+INSERT g string
+INSERT j7 number
+INSERT rJ number
+INSERT v number

@@ -1,0 +1,5 @@
+INSERT c3 string
+INSERT ka string
+INSERT zIF number
+INSERT g number
+INSERT n string

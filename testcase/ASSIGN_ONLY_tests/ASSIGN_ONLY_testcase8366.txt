@@ -1,0 +1,2 @@
+ASSIGN nk 'TL'
+ASSIGN kQz 'N'

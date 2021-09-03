@@ -1,0 +1,5 @@
+INSERT fOaG number
+INSERT k number
+INSERT f string
+INSERT gme string
+INSERT chQ number

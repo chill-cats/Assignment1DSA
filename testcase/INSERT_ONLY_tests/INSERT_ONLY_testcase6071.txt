@@ -1,0 +1,5 @@
+INSERT kO3K number
+INSERT zLdv number
+INSERT c string
+INSERT e9z52 string
+INSERT qY number

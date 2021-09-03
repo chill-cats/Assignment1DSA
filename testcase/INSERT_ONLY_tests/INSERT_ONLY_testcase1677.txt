@@ -1,0 +1,7 @@
+INSERT kwl number
+INSERT x4i string
+INSERT x string
+INSERT iMWAvw number
+INSERT d5Pa string
+INSERT hIi string
+INSERT s string

@@ -1,0 +1,11 @@
+INSERT n8j38d string
+INSERT bx6 number
+INSERT enQi string
+INSERT durr number
+INSERT pk4 string
+INSERT tSbqW number
+INSERT v string
+INSERT ak number
+INSERT kcW string
+INSERT b number
+INSERT dcp number

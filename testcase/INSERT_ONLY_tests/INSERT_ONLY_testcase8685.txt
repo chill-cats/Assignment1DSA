@@ -1,0 +1,8 @@
+INSERT wem0 number
+INSERT cuYq number
+INSERT n string
+INSERT tdc3 string
+INSERT kR9F number
+INSERT kE8 string
+INSERT eh549 number
+INSERT veZAt string

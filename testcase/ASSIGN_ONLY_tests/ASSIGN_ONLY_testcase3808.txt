@@ -1,0 +1,2 @@
+ASSIGN zLz zLz
+ASSIGN zLz 'hm'

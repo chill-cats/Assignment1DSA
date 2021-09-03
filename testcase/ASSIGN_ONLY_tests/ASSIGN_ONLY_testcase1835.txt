@@ -1,0 +1,3 @@
+ASSIGN tum61 z
+ASSIGN tum61 n0
+ASSIGN j x

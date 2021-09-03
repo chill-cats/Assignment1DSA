@@ -1,0 +1,4 @@
+INSERT v number
+INSERT o_ string
+INSERT eA4t3 string
+INSERT u number

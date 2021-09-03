@@ -1,0 +1,8 @@
+INSERT x string
+INSERT mP number
+INSERT meRlG number
+INSERT k2g string
+INSERT sdmi number
+INSERT cu4wf number
+INSERT i4 number
+INSERT l number

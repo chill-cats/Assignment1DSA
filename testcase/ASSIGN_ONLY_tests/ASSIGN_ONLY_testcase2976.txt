@@ -1,0 +1,2 @@
+ASSIGN hkd wien
+ASSIGN rS 'vl99e'

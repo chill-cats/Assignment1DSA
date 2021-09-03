@@ -1,0 +1,13 @@
+INSERT lvNI string
+INSERT p string
+INSERT dFamG string
+INSERT tuBeRz string
+INSERT t number
+INSERT iJlxRP number
+INSERT ve string
+INSERT f8 string
+INSERT x string
+INSERT b string
+INSERT uMjPB string
+INSERT rJ number
+INSERT pB number

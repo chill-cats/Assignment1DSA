@@ -1,0 +1,3 @@
+INSERT ot string
+INSERT pir number
+INSERT g string

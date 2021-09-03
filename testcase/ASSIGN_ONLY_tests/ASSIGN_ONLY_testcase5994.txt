@@ -1,0 +1,3 @@
+ASSIGN sja 'T'
+ASSIGN p 'TM'
+ASSIGN rz 1152

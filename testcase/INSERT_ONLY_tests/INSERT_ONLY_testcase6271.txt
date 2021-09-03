@@ -1,0 +1,4 @@
+INSERT tW string
+INSERT in4Rk string
+INSERT ppnh6 string
+INSERT mT number

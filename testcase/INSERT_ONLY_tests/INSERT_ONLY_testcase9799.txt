@@ -1,0 +1,6 @@
+INSERT xl number
+INSERT t number
+INSERT urC number
+INSERT p number
+INSERT hy6 string
+INSERT ySLfr number

@@ -1,0 +1,3 @@
+INSERT r number
+INSERT nR string
+INSERT dbGbAJ string

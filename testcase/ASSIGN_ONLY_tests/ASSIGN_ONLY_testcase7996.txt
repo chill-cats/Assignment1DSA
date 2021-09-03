@@ -1,0 +1,3 @@
+ASSIGN c 400
+ASSIGN c 1226
+ASSIGN qGrtX 'Xm'

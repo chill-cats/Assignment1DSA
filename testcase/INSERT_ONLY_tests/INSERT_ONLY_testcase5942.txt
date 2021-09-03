@@ -1,0 +1,12 @@
+INSERT hu string
+INSERT t number
+INSERT w1or0 number
+INSERT qTft number
+INSERT yRH9t string
+INSERT rD92nr string
+INSERT k string
+INSERT icFD number
+INSERT xX string
+INSERT f1cB number
+INSERT y string
+INSERT pKyR number

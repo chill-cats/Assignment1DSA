@@ -1,0 +1,8 @@
+INSERT m5vVr number
+INSERT zr string
+INSERT xr6 string
+INSERT c number
+INSERT fYRAl number
+INSERT txt string
+INSERT t number
+INSERT u string

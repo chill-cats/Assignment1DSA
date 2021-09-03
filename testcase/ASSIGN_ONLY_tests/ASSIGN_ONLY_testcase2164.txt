@@ -1,0 +1,2 @@
+ASSIGN n6O3 9
+ASSIGN rlq 128

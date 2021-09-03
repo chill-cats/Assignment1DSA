@@ -1,0 +1,3 @@
+ASSIGN i0tBLf 'I'
+ASSIGN sL i0tBLf
+ASSIGN v 1052

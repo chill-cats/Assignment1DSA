@@ -1,0 +1,6 @@
+INSERT po string
+INSERT eljmx9 number
+INSERT mKm2 string
+INSERT o string
+INSERT exGfdJ string
+INSERT eRJG number

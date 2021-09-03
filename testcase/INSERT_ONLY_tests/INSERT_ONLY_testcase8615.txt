@@ -1,0 +1,7 @@
+INSERT i string
+INSERT oz number
+INSERT mk number
+INSERT htz3NG string
+INSERT c number
+INSERT wh number
+INSERT oQJCfB string

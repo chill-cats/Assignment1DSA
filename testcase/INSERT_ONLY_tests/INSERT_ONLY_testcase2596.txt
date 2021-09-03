@@ -1,0 +1,12 @@
+INSERT q2PV number
+INSERT m string
+INSERT mn number
+INSERT bsbTu number
+INSERT ehgGh9 string
+INSERT h7 number
+INSERT qfAh number
+INSERT v number
+INSERT dX number
+INSERT wScQz string
+INSERT eQ string
+INSERT i string

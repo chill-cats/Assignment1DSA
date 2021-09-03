@@ -1,0 +1,3 @@
+INSERT owpuj number
+INSERT k string
+INSERT xusJ0 string

@@ -1,0 +1,12 @@
+INSERT h number
+INSERT a1 number
+INSERT zI number
+INSERT rc string
+INSERT ms number
+INSERT k number
+INSERT iBCPj string
+INSERT v5T number
+INSERT xsV string
+INSERT qo number
+INSERT gP number
+INSERT uq string

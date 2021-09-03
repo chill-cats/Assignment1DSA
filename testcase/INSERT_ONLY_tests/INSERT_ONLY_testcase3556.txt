@@ -1,0 +1,8 @@
+INSERT lc39q number
+INSERT aXj string
+INSERT zAW number
+INSERT yRcP string
+INSERT fh number
+INSERT y6 string
+INSERT qtPaVi number
+INSERT jteULt string

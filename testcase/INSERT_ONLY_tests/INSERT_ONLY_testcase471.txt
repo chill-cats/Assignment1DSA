@@ -1,0 +1,8 @@
+INSERT myPJ8 string
+INSERT mbR6Ur number
+INSERT o1 number
+INSERT oS number
+INSERT f number
+INSERT wSrtF number
+INSERT kR5Go string
+INSERT zbrde1 string

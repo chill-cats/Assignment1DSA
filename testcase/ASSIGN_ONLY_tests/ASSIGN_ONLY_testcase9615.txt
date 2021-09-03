@@ -1,0 +1,2 @@
+ASSIGN qw_ x19IR
+ASSIGN c ueK

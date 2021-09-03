@@ -1,0 +1,14 @@
+INSERT xC string
+INSERT fi number
+INSERT o string
+INSERT vi string
+INSERT bt number
+INSERT kQc number
+INSERT af number
+INSERT l number
+INSERT bmS_5m string
+INSERT uyTAi number
+INSERT zCVf string
+INSERT wHSl number
+INSERT eyTrfA string
+INSERT qE string

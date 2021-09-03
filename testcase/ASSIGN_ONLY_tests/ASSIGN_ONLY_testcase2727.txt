@@ -1,0 +1,2 @@
+ASSIGN yqhr 60
+ASSIGN yqhr 296

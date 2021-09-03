@@ -1,0 +1,6 @@
+INSERT nxE7qw number
+INSERT t1 string
+INSERT z18 number
+INSERT b8 number
+INSERT s string
+INSERT qxj string

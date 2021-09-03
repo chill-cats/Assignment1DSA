@@ -1,0 +1,2 @@
+ASSIGN fBGKMb 'V'
+ASSIGN u hlopw1

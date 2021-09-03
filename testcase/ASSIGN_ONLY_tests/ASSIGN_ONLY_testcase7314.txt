@@ -1,0 +1,2 @@
+ASSIGN k k
+ASSIGN tA6KK_ 'Gnj'

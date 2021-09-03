@@ -1,0 +1,2 @@
+ASSIGN nyFsCa 'E4'
+ASSIGN cOU bOuPV

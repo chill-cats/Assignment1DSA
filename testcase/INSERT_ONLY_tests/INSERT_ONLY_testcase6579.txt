@@ -1,0 +1,9 @@
+INSERT v string
+INSERT y8W number
+INSERT aorMnZ number
+INSERT s number
+INSERT nACm number
+INSERT sgb string
+INSERT p number
+INSERT hE3e number
+INSERT dvUg string

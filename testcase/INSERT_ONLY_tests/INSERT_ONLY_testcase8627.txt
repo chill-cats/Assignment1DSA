@@ -1,0 +1,7 @@
+INSERT cK9 string
+INSERT jRvgt number
+INSERT dsc number
+INSERT btstn number
+INSERT nENs number
+INSERT t39 string
+INSERT lWQ number

@@ -1,0 +1,8 @@
+INSERT vrUc number
+INSERT fp string
+INSERT w string
+INSERT n9Gion string
+INSERT q string
+INSERT oFpD number
+INSERT dgI number
+INSERT tPB number

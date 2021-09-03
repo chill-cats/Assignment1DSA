@@ -1,0 +1,5 @@
+INSERT b number
+INSERT pGJLw string
+INSERT dp string
+INSERT joJ02 string
+INSERT l string

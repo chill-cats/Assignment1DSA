@@ -1,0 +1,6 @@
+INSERT ou number
+INSERT dV3 number
+INSERT ax4B string
+INSERT s number
+INSERT l4dG2M number
+INSERT r string

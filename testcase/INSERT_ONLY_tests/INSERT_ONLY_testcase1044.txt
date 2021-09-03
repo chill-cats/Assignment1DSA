@@ -1,0 +1,7 @@
+INSERT xp string
+INSERT n2 number
+INSERT vxnvn string
+INSERT c8qG0I number
+INSERT rcIphK string
+INSERT yn number
+INSERT hNT string

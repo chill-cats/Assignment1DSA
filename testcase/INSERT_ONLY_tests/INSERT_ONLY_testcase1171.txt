@@ -1,0 +1,3 @@
+INSERT ngiNx number
+INSERT bqt number
+INSERT ySIFtl string

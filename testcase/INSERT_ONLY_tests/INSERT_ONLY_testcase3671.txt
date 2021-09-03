@@ -1,0 +1,10 @@
+INSERT t0d7 number
+INSERT x0l string
+INSERT q number
+INSERT pN5E7 string
+INSERT l number
+INSERT y2oZW string
+INSERT qIal_G number
+INSERT z string
+INSERT iHXF number
+INSERT lPuIhB string

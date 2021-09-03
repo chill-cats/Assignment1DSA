@@ -1,0 +1,12 @@
+INSERT u8t number
+INSERT vb6 number
+INSERT yS8 string
+INSERT dIJEe string
+INSERT aJ string
+INSERT w number
+INSERT qLeML number
+INSERT uTldJ string
+INSERT e number
+INSERT y number
+INSERT l number
+INSERT wADDK number

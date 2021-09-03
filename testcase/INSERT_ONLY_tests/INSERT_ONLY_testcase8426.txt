@@ -1,0 +1,8 @@
+INSERT gb string
+INSERT zN string
+INSERT wLekow string
+INSERT wRWVxk number
+INSERT ohvR string
+INSERT ijk string
+INSERT hARF number
+INSERT vOks number

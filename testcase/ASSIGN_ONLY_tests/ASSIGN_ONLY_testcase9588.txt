@@ -1,0 +1,2 @@
+ASSIGN gb 'f0e2'
+ASSIGN gn gn

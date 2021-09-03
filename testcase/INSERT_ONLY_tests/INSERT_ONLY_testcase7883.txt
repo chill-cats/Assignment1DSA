@@ -1,0 +1,5 @@
+INSERT q number
+INSERT vR string
+INSERT t string
+INSERT jAp number
+INSERT ulN number

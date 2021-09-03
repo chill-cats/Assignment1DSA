@@ -1,0 +1,12 @@
+INSERT imc number
+INSERT kHNL string
+INSERT krc number
+INSERT rwNl number
+INSERT b3qk number
+INSERT zWVu3 number
+INSERT zy9PC string
+INSERT eJd number
+INSERT sQ number
+INSERT n number
+INSERT ns string
+INSERT hJeml number

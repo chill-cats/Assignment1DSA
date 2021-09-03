@@ -1,0 +1,9 @@
+INSERT v number
+INSERT aO number
+INSERT sAjz50 number
+INSERT tQFzC string
+INSERT fm1G string
+INSERT koq string
+INSERT vX string
+INSERT ydCK string
+INSERT wi string

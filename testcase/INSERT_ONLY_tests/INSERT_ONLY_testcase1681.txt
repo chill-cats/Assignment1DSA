@@ -1,0 +1,4 @@
+INSERT gA string
+INSERT wgs string
+INSERT p number
+INSERT pzre3 number

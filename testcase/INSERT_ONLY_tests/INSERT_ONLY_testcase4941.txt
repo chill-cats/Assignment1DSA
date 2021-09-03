@@ -1,0 +1,5 @@
+INSERT tdMoMy number
+INSERT q string
+INSERT xMG string
+INSERT lxahPe string
+INSERT iWh number

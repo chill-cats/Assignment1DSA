@@ -1,0 +1,8 @@
+INSERT a string
+INSERT aI8m string
+INSERT t number
+INSERT r9 number
+INSERT yD3B1E string
+INSERT eTPp number
+INSERT mXX string
+INSERT dCo_x string

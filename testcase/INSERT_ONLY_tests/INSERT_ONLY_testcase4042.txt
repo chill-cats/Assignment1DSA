@@ -1,0 +1,15 @@
+INSERT kWpp string
+INSERT mV number
+INSERT oKBW number
+INSERT t number
+INSERT m string
+INSERT i string
+INSERT qjj string
+INSERT sBJV string
+INSERT sM string
+INSERT z string
+INSERT o string
+INSERT q string
+INSERT b2h number
+INSERT txtr string
+INSERT gt string

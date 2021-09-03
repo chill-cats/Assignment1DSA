@@ -1,0 +1,6 @@
+INSERT tZx string
+INSERT mn2tV number
+INSERT irp number
+INSERT hdk number
+INSERT h0 number
+INSERT n string

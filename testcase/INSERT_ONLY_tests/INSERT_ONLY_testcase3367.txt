@@ -1,0 +1,8 @@
+INSERT auAfKJ number
+INSERT l string
+INSERT ixQl number
+INSERT vw9z string
+INSERT hPp string
+INSERT mefaBm string
+INSERT f number
+INSERT w number

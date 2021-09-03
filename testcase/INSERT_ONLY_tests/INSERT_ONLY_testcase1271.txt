@@ -1,0 +1,8 @@
+INSERT ka string
+INSERT nPJl1 number
+INSERT hR number
+INSERT lPoK number
+INSERT gfu number
+INSERT w string
+INSERT fU number
+INSERT xw0 number

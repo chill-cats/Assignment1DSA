@@ -1,0 +1,7 @@
+INSERT u4 number
+INSERT qWPm string
+INSERT xJf59 number
+INSERT ugq string
+INSERT dTGY5z string
+INSERT cyoJ string
+INSERT rZZ string

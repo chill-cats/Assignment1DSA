@@ -1,0 +1,2 @@
+ASSIGN g 849
+ASSIGN u2r 180

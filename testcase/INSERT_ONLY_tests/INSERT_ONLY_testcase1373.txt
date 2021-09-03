@@ -1,0 +1,9 @@
+INSERT i number
+INSERT bRiSrc number
+INSERT h string
+INSERT vSxOL number
+INSERT ar number
+INSERT tf number
+INSERT e0_Fg number
+INSERT on string
+INSERT y number

@@ -1,0 +1,3 @@
+ASSIGN ta 75
+ASSIGN o 'K7Bt'
+ASSIGN rnI6 lder

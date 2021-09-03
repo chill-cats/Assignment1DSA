@@ -1,0 +1,3 @@
+ASSIGN diloIc 873
+ASSIGN oL bedpRM
+ASSIGN bedpRM 61

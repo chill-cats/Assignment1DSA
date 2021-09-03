@@ -1,0 +1,6 @@
+INSERT eB string
+INSERT ga number
+INSERT a number
+INSERT z7OoKW number
+INSERT i0tY number
+INSERT mtzyxw number

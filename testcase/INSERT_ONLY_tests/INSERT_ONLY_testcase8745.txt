@@ -1,0 +1,7 @@
+INSERT rg number
+INSERT tB string
+INSERT ujjvA number
+INSERT jjI number
+INSERT l7Id string
+INSERT nR9F string
+INSERT ciX number

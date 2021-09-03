@@ -1,0 +1,5 @@
+INSERT ksOGd number
+INSERT nHhP string
+INSERT afF_M number
+INSERT ikUMRC number
+INSERT hPp string

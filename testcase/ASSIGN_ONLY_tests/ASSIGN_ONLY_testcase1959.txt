@@ -1,0 +1,3 @@
+ASSIGN r 1198
+ASSIGN gnb g
+ASSIGN kg mx

@@ -1,0 +1,3 @@
+ASSIGN hwJ 'vlb'
+ASSIGN etqSU0 266
+ASSIGN hbaMQ 'na'

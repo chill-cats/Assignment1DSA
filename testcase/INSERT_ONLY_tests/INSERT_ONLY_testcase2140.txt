@@ -1,0 +1,6 @@
+INSERT xGtarg number
+INSERT p string
+INSERT lrPL number
+INSERT bEISr number
+INSERT vbS number
+INSERT aAj number

@@ -1,0 +1,2 @@
+ASSIGN ktJDb 1133
+ASSIGN fh07 'nHNV'

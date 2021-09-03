@@ -1,0 +1,11 @@
+INSERT ofw string
+INSERT kk string
+INSERT w number
+INSERT ku string
+INSERT yj string
+INSERT wZ string
+INSERT ezn number
+INSERT q string
+INSERT hO number
+INSERT hQg7Qd string
+INSERT ftk string

@@ -1,0 +1,6 @@
+INSERT oIsla string
+INSERT tW number
+INSERT p number
+INSERT h number
+INSERT uPr number
+INSERT j number

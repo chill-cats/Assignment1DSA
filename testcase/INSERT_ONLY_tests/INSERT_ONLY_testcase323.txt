@@ -1,0 +1,5 @@
+INSERT pCX4ko string
+INSERT mENZ number
+INSERT e string
+INSERT x number
+INSERT gP0bma number

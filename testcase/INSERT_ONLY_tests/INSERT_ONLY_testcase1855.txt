@@ -1,0 +1,5 @@
+INSERT kopk72 string
+INSERT rc string
+INSERT nbRx1 string
+INSERT s number
+INSERT wkcNB string

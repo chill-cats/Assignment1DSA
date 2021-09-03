@@ -1,0 +1,10 @@
+INSERT y string
+INSERT m string
+INSERT fED number
+INSERT iUP string
+INSERT p string
+INSERT o number
+INSERT c number
+INSERT hdya string
+INSERT pP string
+INSERT zuE9dG number

@@ -1,0 +1,9 @@
+INSERT kx string
+INSERT w string
+INSERT g string
+INSERT qRVne string
+INSERT n string
+INSERT wNWKd number
+INSERT w number
+INSERT ui8c string
+INSERT v string

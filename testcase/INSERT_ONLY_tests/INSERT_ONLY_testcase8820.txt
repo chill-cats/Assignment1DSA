@@ -1,0 +1,6 @@
+INSERT hU_PKA number
+INSERT h304 string
+INSERT e number
+INSERT ipa0Er string
+INSERT yZzy string
+INSERT z number

@@ -1,0 +1,3 @@
+ASSIGN zeopr 'gLe'
+ASSIGN wO 794
+ASSIGN ih 213

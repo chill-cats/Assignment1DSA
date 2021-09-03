@@ -1,0 +1,10 @@
+INSERT pZ88c number
+INSERT mW number
+INSERT w string
+INSERT vE string
+INSERT s string
+INSERT p string
+INSERT hbh4F4 number
+INSERT c string
+INSERT yOBEhM number
+INSERT op string

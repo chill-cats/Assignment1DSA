@@ -1,0 +1,11 @@
+INSERT rT_5r number
+INSERT t string
+INSERT e6 string
+INSERT i9f string
+INSERT aQYE number
+INSERT b5K number
+INSERT j string
+INSERT vWJ number
+INSERT oT number
+INSERT mkba number
+INSERT gzNZ string

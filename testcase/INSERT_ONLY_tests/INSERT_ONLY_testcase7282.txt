@@ -1,0 +1,4 @@
+INSERT a4g string
+INSERT i9gBv number
+INSERT y1y string
+INSERT notqrJ number

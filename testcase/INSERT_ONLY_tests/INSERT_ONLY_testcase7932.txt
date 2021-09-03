@@ -1,0 +1,7 @@
+INSERT mxn number
+INSERT coN9 number
+INSERT c number
+INSERT hza string
+INSERT ks number
+INSERT biuZ number
+INSERT lZUlMT number

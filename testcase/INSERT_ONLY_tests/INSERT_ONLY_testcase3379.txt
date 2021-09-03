@@ -1,0 +1,12 @@
+INSERT f1 number
+INSERT nS string
+INSERT undq3l string
+INSERT g4 number
+INSERT j9F12 string
+INSERT xZV number
+INSERT ztyRi3 string
+INSERT v number
+INSERT m string
+INSERT mr number
+INSERT v number
+INSERT aZN number

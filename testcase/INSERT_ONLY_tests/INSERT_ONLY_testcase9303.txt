@@ -1,0 +1,4 @@
+INSERT i number
+INSERT y_2uDw number
+INSERT l number
+INSERT a8vJqF string

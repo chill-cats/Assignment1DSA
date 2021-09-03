@@ -1,0 +1,2 @@
+ASSIGN sq0 u9L0Un
+ASSIGN cucrs 'U'

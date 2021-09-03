@@ -1,0 +1,6 @@
+INSERT fBf number
+INSERT z number
+INSERT r7HN number
+INSERT gmni string
+INSERT uI7 string
+INSERT x number

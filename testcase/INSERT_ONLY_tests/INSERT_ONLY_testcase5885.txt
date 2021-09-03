@@ -1,0 +1,10 @@
+INSERT k5u string
+INSERT ic5dE number
+INSERT m47hFI number
+INSERT pW string
+INSERT b number
+INSERT i number
+INSERT w number
+INSERT hms number
+INSERT c3rI number
+INSERT f8 number

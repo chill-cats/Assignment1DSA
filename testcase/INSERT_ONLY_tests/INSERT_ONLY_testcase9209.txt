@@ -1,0 +1,8 @@
+INSERT rqid string
+INSERT px9Th number
+INSERT j number
+INSERT eX_PYo string
+INSERT w7h string
+INSERT aCHCgg number
+INSERT q0 number
+INSERT z string

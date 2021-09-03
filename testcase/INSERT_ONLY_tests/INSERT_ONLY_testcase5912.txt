@@ -1,0 +1,8 @@
+INSERT zec1 string
+INSERT mI8X number
+INSERT vaN132 number
+INSERT rRs6 number
+INSERT z number
+INSERT dS9 number
+INSERT trgw string
+INSERT tbZ string

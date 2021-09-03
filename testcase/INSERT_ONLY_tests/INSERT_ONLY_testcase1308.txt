@@ -1,0 +1,5 @@
+INSERT aR number
+INSERT w number
+INSERT ofNNuB string
+INSERT ahPJc7 number
+INSERT i number

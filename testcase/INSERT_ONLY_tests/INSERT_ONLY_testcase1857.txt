@@ -1,0 +1,15 @@
+INSERT rV number
+INSERT dF32Ih number
+INSERT zhZ4f string
+INSERT phcLdL number
+INSERT vXv9 string
+INSERT l string
+INSERT eNE0 string
+INSERT ug string
+INSERT ok number
+INSERT jk number
+INSERT a string
+INSERT zjeB string
+INSERT yZgb number
+INSERT n string
+INSERT s number

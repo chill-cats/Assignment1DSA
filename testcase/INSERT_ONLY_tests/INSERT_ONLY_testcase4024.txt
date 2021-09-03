@@ -1,0 +1,13 @@
+INSERT r number
+INSERT y6 string
+INSERT rC string
+INSERT k string
+INSERT l number
+INSERT mHMZ string
+INSERT w string
+INSERT a4uw number
+INSERT moi string
+INSERT r string
+INSERT kYC number
+INSERT sOi number
+INSERT yKK3 string

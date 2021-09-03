@@ -1,0 +1,7 @@
+INSERT xBr string
+INSERT x1o number
+INSERT xDiA string
+INSERT u9gi string
+INSERT tuGX string
+INSERT fxFaID number
+INSERT r number

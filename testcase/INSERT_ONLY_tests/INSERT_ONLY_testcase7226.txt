@@ -1,0 +1,11 @@
+INSERT uv number
+INSERT vNS string
+INSERT gAAmB string
+INSERT b string
+INSERT aSpzgC number
+INSERT qCz number
+INSERT z string
+INSERT wP number
+INSERT pebJ string
+INSERT oJ number
+INSERT kL string

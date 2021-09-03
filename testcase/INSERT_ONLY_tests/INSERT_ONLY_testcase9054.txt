@@ -1,0 +1,8 @@
+INSERT ppMT7F string
+INSERT s number
+INSERT ru number
+INSERT sm number
+INSERT gog number
+INSERT y5J string
+INSERT kupRx number
+INSERT hdCj string

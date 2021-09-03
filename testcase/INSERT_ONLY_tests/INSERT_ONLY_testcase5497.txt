@@ -1,0 +1,3 @@
+INSERT fww number
+INSERT fEkyjd string
+INSERT iS0 number

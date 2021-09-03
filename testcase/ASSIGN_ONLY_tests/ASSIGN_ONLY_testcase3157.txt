@@ -1,0 +1,2 @@
+ASSIGN o_ 'B'
+ASSIGN jg625 64

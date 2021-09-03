@@ -1,0 +1,4 @@
+INSERT sTk1 number
+INSERT dj number
+INSERT exhn7a string
+INSERT gWY7S number

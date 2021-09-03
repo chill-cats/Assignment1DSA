@@ -1,0 +1,2 @@
+ASSIGN cn00F 'NE9'
+ASSIGN a 'Hs'

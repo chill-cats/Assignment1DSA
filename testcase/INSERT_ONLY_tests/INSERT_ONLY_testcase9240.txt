@@ -1,0 +1,13 @@
+INSERT w9 number
+INSERT q string
+INSERT v string
+INSERT b83B8b number
+INSERT izw7H number
+INSERT w0Kcx number
+INSERT wtp string
+INSERT hDP string
+INSERT ty string
+INSERT qmH number
+INSERT f number
+INSERT eXsZ string
+INSERT fg string

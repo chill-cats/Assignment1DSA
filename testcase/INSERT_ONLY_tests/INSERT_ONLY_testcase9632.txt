@@ -1,0 +1,7 @@
+INSERT oWMA number
+INSERT i7 string
+INSERT huDVx string
+INSERT wm number
+INSERT sDw number
+INSERT cj number
+INSERT dI number

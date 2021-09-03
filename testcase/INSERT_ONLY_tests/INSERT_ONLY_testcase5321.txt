@@ -1,0 +1,6 @@
+INSERT ej string
+INSERT fja2 number
+INSERT bettM string
+INSERT mOdP number
+INSERT vo number
+INSERT xEda4 string

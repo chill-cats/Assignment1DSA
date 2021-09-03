@@ -1,0 +1,2 @@
+ASSIGN hAMNX j8v
+ASSIGN o 'O'

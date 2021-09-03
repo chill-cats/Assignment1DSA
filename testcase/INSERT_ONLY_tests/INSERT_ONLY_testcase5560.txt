@@ -1,0 +1,6 @@
+INSERT je number
+INSERT t number
+INSERT iYO number
+INSERT z4h string
+INSERT dW number
+INSERT iNTh string

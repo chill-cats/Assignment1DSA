@@ -1,0 +1,2 @@
+ASSIGN l 't5WoQ'
+ASSIGN a3B3 '4NPc2'

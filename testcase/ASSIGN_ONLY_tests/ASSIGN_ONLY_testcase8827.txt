@@ -1,0 +1,4 @@
+ASSIGN mpf 212
+ASSIGN mpf 'f'
+ASSIGN pzU 'aIjA1'
+ASSIGN dl83FN dlKU

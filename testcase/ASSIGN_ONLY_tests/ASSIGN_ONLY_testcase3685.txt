@@ -1,0 +1,2 @@
+ASSIGN e3 640
+ASSIGN jo 594

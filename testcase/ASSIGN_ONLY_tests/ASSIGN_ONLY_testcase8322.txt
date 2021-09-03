@@ -1,0 +1,3 @@
+ASSIGN te32 777
+ASSIGN a 'Lv'
+ASSIGN a 928

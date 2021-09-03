@@ -1,0 +1,3 @@
+ASSIGN pj 587
+ASSIGN gxQJ pj
+ASSIGN yhlNw 'L'

@@ -1,0 +1,3 @@
+ASSIGN a 'C'
+ASSIGN eNe 'MbT2W'
+ASSIGN p 'X'

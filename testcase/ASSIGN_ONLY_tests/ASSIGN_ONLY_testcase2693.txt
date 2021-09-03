@@ -1,0 +1,2 @@
+ASSIGN oOm 'h'
+ASSIGN wG 782

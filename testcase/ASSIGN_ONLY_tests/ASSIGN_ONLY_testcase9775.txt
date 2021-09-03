@@ -1,0 +1,3 @@
+ASSIGN elgVq 'R'
+ASSIGN llI 'IG'
+ASSIGN f_9lP 1030

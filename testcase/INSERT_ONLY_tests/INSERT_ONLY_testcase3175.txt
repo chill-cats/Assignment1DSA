@@ -1,0 +1,5 @@
+INSERT oC string
+INSERT qAGl6L number
+INSERT vE number
+INSERT gF4v string
+INSERT p1f string

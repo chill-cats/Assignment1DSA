@@ -1,0 +1,5 @@
+INSERT uQa string
+INSERT d number
+INSERT wd_2i number
+INSERT k number
+INSERT nmF number

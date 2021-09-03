@@ -1,0 +1,2 @@
+ASSIGN gPol0a gPol0a
+ASSIGN h8POrE 'rS'

@@ -1,0 +1,7 @@
+INSERT ex string
+INSERT m string
+INSERT su string
+INSERT v string
+INSERT tQWXq number
+INSERT d number
+INSERT g string

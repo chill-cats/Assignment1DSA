@@ -1,0 +1,4 @@
+ASSIGN c 'xnnLP'
+ASSIGN kv ha
+ASSIGN gJY '0B'
+ASSIGN gJY 128

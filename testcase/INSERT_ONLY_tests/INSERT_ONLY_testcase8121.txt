@@ -1,0 +1,8 @@
+INSERT sy string
+INSERT q string
+INSERT cD6rt number
+INSERT ip number
+INSERT k string
+INSERT et37TQ string
+INSERT y__ooV number
+INSERT g5acar string

@@ -1,0 +1,5 @@
+INSERT i number
+INSERT xq string
+INSERT lIKm string
+INSERT b2qyeV number
+INSERT iO number

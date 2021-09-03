@@ -1,0 +1,3 @@
+INSERT sY number
+INSERT wV number
+INSERT sirj_l number

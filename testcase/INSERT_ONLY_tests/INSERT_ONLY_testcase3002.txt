@@ -1,0 +1,5 @@
+INSERT upcs string
+INSERT j0 string
+INSERT r6Y string
+INSERT ns number
+INSERT tKa number

@@ -1,0 +1,2 @@
+INSERT trha66 string
+INSERT s number

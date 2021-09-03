@@ -1,0 +1,7 @@
+INSERT fkn string
+INSERT c number
+INSERT d4S string
+INSERT uKHPGt string
+INSERT v9OVCD number
+INSERT gBi number
+INSERT a6Wga number

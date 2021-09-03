@@ -1,0 +1,4 @@
+INSERT g7As4O number
+INSERT iVEz string
+INSERT huDA string
+INSERT b1 number

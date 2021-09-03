@@ -1,0 +1,10 @@
+INSERT n number
+INSERT pYM7sn string
+INSERT g5 number
+INSERT eU8 number
+INSERT dt number
+INSERT j string
+INSERT uLju number
+INSERT u number
+INSERT sAJDi number
+INSERT th number

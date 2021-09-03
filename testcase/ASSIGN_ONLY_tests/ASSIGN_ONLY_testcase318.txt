@@ -1,0 +1,3 @@
+ASSIGN zu7gW zu7gW
+ASSIGN mPIV 'qwjPI'
+ASSIGN ij 511

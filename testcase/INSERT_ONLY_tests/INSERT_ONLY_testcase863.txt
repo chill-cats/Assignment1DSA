@@ -1,0 +1,9 @@
+INSERT hu number
+INSERT q number
+INSERT sM_an number
+INSERT o number
+INSERT adKK number
+INSERT jknq number
+INSERT upiaGc number
+INSERT yvB string
+INSERT dy number

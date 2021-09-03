@@ -1,0 +1,1 @@
+ASSIGN vh_6 'rhngo'

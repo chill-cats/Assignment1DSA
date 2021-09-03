@@ -1,0 +1,4 @@
+INSERT yOc string
+INSERT f number
+INSERT tP5x7 number
+INSERT jdw string

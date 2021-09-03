@@ -1,0 +1,4 @@
+INSERT d number
+INSERT f string
+INSERT aPsW7i string
+INSERT qg3Q string

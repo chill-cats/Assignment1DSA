@@ -1,0 +1,3 @@
+ASSIGN x07 fp
+ASSIGN fp gYK
+ASSIGN fp ky

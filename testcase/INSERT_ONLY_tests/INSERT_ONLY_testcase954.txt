@@ -1,0 +1,6 @@
+INSERT hGZ string
+INSERT w10 number
+INSERT f string
+INSERT sj number
+INSERT tfrg number
+INSERT gcJw number

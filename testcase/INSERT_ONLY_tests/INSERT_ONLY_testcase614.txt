@@ -1,0 +1,10 @@
+INSERT e number
+INSERT m number
+INSERT dbMk5 string
+INSERT k number
+INSERT aD96b9 string
+INSERT zt string
+INSERT wo4g number
+INSERT c number
+INSERT aRfT7 number
+INSERT dDTfO3 string

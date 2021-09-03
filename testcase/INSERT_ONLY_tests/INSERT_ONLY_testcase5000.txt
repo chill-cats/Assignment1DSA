@@ -1,0 +1,10 @@
+INSERT f4 string
+INSERT z3_1t2 number
+INSERT a number
+INSERT f number
+INSERT gKg number
+INSERT hhg string
+INSERT bl number
+INSERT kn string
+INSERT phezQE number
+INSERT qH number

@@ -1,0 +1,10 @@
+INSERT q_ number
+INSERT wI string
+INSERT d string
+INSERT j number
+INSERT myZ3b number
+INSERT xES number
+INSERT tWfE string
+INSERT oKSVi string
+INSERT wjA number
+INSERT dZD string

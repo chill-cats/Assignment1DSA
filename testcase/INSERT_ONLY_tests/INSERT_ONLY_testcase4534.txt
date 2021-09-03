@@ -1,0 +1,9 @@
+INSERT tHZ number
+INSERT tpaKa number
+INSERT w string
+INSERT ghoZpw string
+INSERT o number
+INSERT dfL string
+INSERT t3 string
+INSERT hw44 number
+INSERT a string

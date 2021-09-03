@@ -1,0 +1,2 @@
+ASSIGN v6 'qA'
+ASSIGN cqav 501

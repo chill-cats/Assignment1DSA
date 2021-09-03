@@ -1,0 +1,3 @@
+ASSIGN fmd fmd
+ASSIGN aanx8 1074
+ASSIGN fmd 'mSi'

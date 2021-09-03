@@ -1,0 +1,3 @@
+INSERT pmqRhN string
+INSERT a string
+INSERT ix1v number

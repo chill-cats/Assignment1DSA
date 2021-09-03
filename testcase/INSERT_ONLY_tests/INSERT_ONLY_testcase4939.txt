@@ -1,0 +1,6 @@
+INSERT shSQLI string
+INSERT gWtSz number
+INSERT fmVoz number
+INSERT necgFp string
+INSERT v1eU number
+INSERT uiDnTW string

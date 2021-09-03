@@ -1,0 +1,2 @@
+ASSIGN lnm 'r'
+ASSIGN dg5JG ng

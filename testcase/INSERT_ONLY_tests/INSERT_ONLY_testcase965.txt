@@ -1,0 +1,8 @@
+INSERT guc string
+INSERT vom number
+INSERT uv number
+INSERT z4ROZ number
+INSERT f number
+INSERT e string
+INSERT j5c number
+INSERT s string

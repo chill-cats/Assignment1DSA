@@ -1,0 +1,6 @@
+INSERT tI string
+INSERT wwr string
+INSERT oMNow number
+INSERT msEchC number
+INSERT uU71l number
+INSERT g number

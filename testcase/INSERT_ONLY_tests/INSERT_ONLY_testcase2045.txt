@@ -1,0 +1,9 @@
+INSERT ktv string
+INSERT ym string
+INSERT fyQgHN string
+INSERT gJ4 string
+INSERT pJ string
+INSERT bXWnnd number
+INSERT h string
+INSERT ne string
+INSERT uF string

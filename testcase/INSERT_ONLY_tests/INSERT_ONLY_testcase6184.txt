@@ -1,0 +1,7 @@
+INSERT iloL string
+INSERT o number
+INSERT pj string
+INSERT zf1F string
+INSERT lZupns string
+INSERT z number
+INSERT eXi_ number

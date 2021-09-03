@@ -1,0 +1,11 @@
+INSERT wM4 number
+INSERT bx string
+INSERT iQ number
+INSERT zh string
+INSERT zF number
+INSERT r number
+INSERT pC_58x number
+INSERT iyGnhc number
+INSERT nER number
+INSERT uGgoE number
+INSERT dk string

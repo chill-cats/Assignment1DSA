@@ -1,0 +1,2 @@
+ASSIGN vtkav w_LQ
+ASSIGN w_LQ 687

@@ -1,0 +1,2 @@
+ASSIGN lcm_ko 'w7iog'
+ASSIGN pWAh 'l'

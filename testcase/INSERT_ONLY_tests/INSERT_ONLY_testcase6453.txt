@@ -1,0 +1,10 @@
+INSERT g number
+INSERT mTtRn number
+INSERT qS string
+INSERT dLWWch string
+INSERT mWW number
+INSERT oD number
+INSERT r_1v string
+INSERT sxu string
+INSERT m string
+INSERT f6HM4o number

@@ -1,0 +1,7 @@
+INSERT hbr number
+INSERT q string
+INSERT nG number
+INSERT iB number
+INSERT a number
+INSERT nyAxOg number
+INSERT wlRer string

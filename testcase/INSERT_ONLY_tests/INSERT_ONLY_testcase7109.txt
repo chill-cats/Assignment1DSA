@@ -1,0 +1,5 @@
+INSERT oMm1w2 number
+INSERT x number
+INSERT o4V string
+INSERT nN string
+INSERT pvqTHZ number

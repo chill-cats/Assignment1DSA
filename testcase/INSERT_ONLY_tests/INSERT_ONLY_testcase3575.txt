@@ -1,0 +1,8 @@
+INSERT q string
+INSERT eR string
+INSERT v string
+INSERT a4YIL number
+INSERT e08eq number
+INSERT tLny2g number
+INSERT jA string
+INSERT rjnJuj string

@@ -1,0 +1,3 @@
+ASSIGN wWhfz 'IcV8'
+ASSIGN cL0 cL0
+ASSIGN wWhfz 1040

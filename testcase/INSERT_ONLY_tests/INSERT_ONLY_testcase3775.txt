@@ -1,0 +1,9 @@
+INSERT vAQYH number
+INSERT h number
+INSERT tL string
+INSERT aP string
+INSERT p_O number
+INSERT d7 string
+INSERT gFq string
+INSERT rJsH string
+INSERT yE string

@@ -1,0 +1,7 @@
+INSERT tVT9i number
+INSERT p string
+INSERT bLjY number
+INSERT sp number
+INSERT zsbshs string
+INSERT tsPOp number
+INSERT y number

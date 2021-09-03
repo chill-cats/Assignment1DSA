@@ -1,0 +1,7 @@
+INSERT b string
+INSERT aEr3D string
+INSERT nnFr8w number
+INSERT a9 number
+INSERT pVIo string
+INSERT x string
+INSERT r string

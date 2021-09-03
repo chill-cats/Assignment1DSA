@@ -1,0 +1,6 @@
+INSERT r6jkcF number
+INSERT bz string
+INSERT b number
+INSERT e number
+INSERT d string
+INSERT zYk string

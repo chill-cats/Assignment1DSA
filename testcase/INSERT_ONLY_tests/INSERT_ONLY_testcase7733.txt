@@ -1,0 +1,4 @@
+INSERT s number
+INSERT f string
+INSERT eydbQI number
+INSERT bVUW number

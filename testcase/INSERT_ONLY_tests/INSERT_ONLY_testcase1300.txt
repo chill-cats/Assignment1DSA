@@ -1,0 +1,4 @@
+INSERT g6N string
+INSERT aZx string
+INSERT gnIF string
+INSERT f number

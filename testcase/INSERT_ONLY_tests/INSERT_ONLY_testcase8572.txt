@@ -1,0 +1,10 @@
+INSERT rPeto number
+INSERT p4s number
+INSERT l_cID number
+INSERT tPzV number
+INSERT k string
+INSERT zKP5 string
+INSERT q2 string
+INSERT uJorr6 number
+INSERT oJ string
+INSERT nx number

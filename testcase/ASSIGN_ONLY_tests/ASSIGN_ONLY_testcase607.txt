@@ -1,0 +1,3 @@
+ASSIGN hBh 1219
+ASSIGN lbI 'zk'
+ASSIGN mH k

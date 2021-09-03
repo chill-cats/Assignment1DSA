@@ -1,0 +1,7 @@
+INSERT g1Vj string
+INSERT rE number
+INSERT k string
+INSERT ei string
+INSERT a4 string
+INSERT ve number
+INSERT qAY string

@@ -1,0 +1,2 @@
+INSERT xVnbMa string
+INSERT wj number

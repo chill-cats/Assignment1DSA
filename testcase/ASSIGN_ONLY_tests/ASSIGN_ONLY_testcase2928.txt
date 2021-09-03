@@ -1,0 +1,2 @@
+ASSIGN p7aq 42
+ASSIGN htpaC p7aq

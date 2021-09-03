@@ -1,0 +1,2 @@
+INSERT qad string
+INSERT jNm number

@@ -1,0 +1,7 @@
+INSERT qpoR string
+INSERT d2kL7Y number
+INSERT nO number
+INSERT nRylK number
+INSERT h string
+INSERT xO string
+INSERT am string

@@ -1,0 +1,8 @@
+INSERT q string
+INSERT lM string
+INSERT sOn string
+INSERT tkU string
+INSERT q3kN number
+INSERT pFkQPR number
+INSERT xz0lE string
+INSERT mM string

@@ -1,0 +1,12 @@
+INSERT wb8 string
+INSERT m number
+INSERT z string
+INSERT wf string
+INSERT gfnh number
+INSERT r8hGlC number
+INSERT cox string
+INSERT eb number
+INSERT vmkMZO number
+INSERT f0B string
+INSERT ohIv string
+INSERT i number

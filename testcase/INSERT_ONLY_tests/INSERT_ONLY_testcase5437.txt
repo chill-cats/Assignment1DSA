@@ -1,0 +1,8 @@
+INSERT jGRK number
+INSERT t string
+INSERT ptF number
+INSERT tjec string
+INSERT p3 string
+INSERT bhm string
+INSERT s number
+INSERT g_ number

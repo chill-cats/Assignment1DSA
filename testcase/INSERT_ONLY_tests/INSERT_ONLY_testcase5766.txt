@@ -1,0 +1,2 @@
+INSERT e2AP number
+INSERT e4 string

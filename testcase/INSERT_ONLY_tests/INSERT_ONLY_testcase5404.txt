@@ -1,0 +1,6 @@
+INSERT j1CavD number
+INSERT v number
+INSERT tL string
+INSERT bB number
+INSERT etkh string
+INSERT o number

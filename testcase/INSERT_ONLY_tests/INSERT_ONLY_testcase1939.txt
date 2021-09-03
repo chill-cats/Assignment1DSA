@@ -1,0 +1,6 @@
+INSERT cILx number
+INSERT h1gGT string
+INSERT rC number
+INSERT vw number
+INSERT i9 string
+INSERT i string

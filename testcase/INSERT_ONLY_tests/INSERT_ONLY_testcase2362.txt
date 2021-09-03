@@ -1,0 +1,4 @@
+INSERT aXqA string
+INSERT bOl3 number
+INSERT cXsFTx string
+INSERT nA number

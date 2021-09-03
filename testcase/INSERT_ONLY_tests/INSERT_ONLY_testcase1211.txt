@@ -1,0 +1,5 @@
+INSERT o1 number
+INSERT dDpWQ string
+INSERT ku8 number
+INSERT ag number
+INSERT hu_sVF number

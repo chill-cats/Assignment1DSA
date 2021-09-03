@@ -1,0 +1,8 @@
+INSERT gWmeJ number
+INSERT f number
+INSERT q string
+INSERT x_CSD number
+INSERT tQ number
+INSERT looarx string
+INSERT p9 number
+INSERT yUC number

@@ -1,0 +1,7 @@
+INSERT z string
+INSERT s00CT number
+INSERT xrA number
+INSERT kcY2e string
+INSERT g string
+INSERT zt number
+INSERT f string

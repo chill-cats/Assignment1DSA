@@ -1,0 +1,3 @@
+ASSIGN ffH5 e6L
+ASSIGN ffH5 'AMmf'
+ASSIGN gv 'fwWUA'

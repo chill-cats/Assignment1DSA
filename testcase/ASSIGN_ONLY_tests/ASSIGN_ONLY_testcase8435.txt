@@ -1,0 +1,2 @@
+ASSIGN eFSc '5B7E4'
+ASSIGN eFSc rsSoaK

@@ -1,0 +1,3 @@
+ASSIGN ae 'pl Y'
+ASSIGN s '6ix'
+ASSIGN mdKY0i 'B'

@@ -1,0 +1,2 @@
+ASSIGN s 842
+ASSIGN a1ou_ 'mqHFz'

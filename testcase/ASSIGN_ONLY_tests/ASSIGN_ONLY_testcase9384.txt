@@ -1,0 +1,2 @@
+ASSIGN pXiQ pXiQ
+ASSIGN pXiQ '4S2'

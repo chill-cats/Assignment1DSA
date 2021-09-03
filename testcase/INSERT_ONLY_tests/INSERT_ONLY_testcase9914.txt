@@ -1,0 +1,3 @@
+INSERT r_iP0_ number
+INSERT td66H string
+INSERT mBmQur string

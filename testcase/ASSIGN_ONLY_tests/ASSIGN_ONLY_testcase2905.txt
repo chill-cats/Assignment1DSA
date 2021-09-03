@@ -1,0 +1,3 @@
+ASSIGN wsi 'tc'
+ASSIGN rFXP1 tl5
+ASSIGN uWC1i 'fK6S'

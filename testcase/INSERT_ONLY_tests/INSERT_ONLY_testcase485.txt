@@ -1,0 +1,4 @@
+INSERT wJuL string
+INSERT teZJSA number
+INSERT trlmo3 number
+INSERT u number

@@ -1,0 +1,9 @@
+INSERT fNGoMk string
+INSERT aNr number
+INSERT bBz number
+INSERT y7LVPc number
+INSERT l_MA string
+INSERT aZg number
+INSERT coE number
+INSERT fXE string
+INSERT ch string

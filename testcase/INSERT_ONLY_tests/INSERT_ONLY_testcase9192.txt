@@ -1,0 +1,5 @@
+INSERT v0v string
+INSERT w string
+INSERT p number
+INSERT rn string
+INSERT z6HS number

@@ -1,0 +1,2 @@
+INSERT gTU number
+INSERT bENrGP string

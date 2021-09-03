@@ -1,0 +1,7 @@
+INSERT fl number
+INSERT p5U number
+INSERT is4teP string
+INSERT ez string
+INSERT e8P string
+INSERT pn5Fw0 number
+INSERT kOicro string

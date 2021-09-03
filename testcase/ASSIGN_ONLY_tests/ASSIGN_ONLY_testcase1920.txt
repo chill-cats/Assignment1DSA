@@ -1,0 +1,3 @@
+ASSIGN rvLEd5 'w'
+ASSIGN d 617
+ASSIGN lRCZ9r qeuK

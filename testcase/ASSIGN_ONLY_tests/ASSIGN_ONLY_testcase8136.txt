@@ -1,0 +1,2 @@
+ASSIGN n d2f6g5
+ASSIGN fX 940

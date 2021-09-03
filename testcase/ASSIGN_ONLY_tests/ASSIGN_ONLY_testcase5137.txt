@@ -1,0 +1,3 @@
+ASSIGN l6 'AB'
+ASSIGN z 'qA4'
+ASSIGN z 'U'

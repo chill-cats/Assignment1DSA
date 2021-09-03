@@ -1,0 +1,2 @@
+ASSIGN kCfNTH 'Hc9C'
+ASSIGN gceOr 162

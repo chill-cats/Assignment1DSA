@@ -1,0 +1,9 @@
+INSERT b string
+INSERT g7E string
+INSERT lTpc9 string
+INSERT iTuFk number
+INSERT bdpI number
+INSERT uD number
+INSERT vxG string
+INSERT mrE8 string
+INSERT gJdA string

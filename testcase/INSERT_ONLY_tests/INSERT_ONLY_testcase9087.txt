@@ -1,0 +1,2 @@
+INSERT qX number
+INSERT nhh6 number

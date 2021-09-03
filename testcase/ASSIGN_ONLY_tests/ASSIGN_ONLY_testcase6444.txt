@@ -1,0 +1,2 @@
+ASSIGN kP 654
+ASSIGN u0R3OV 'scUgl'

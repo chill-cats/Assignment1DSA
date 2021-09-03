@@ -1,0 +1,4 @@
+ASSIGN fOK 344
+ASSIGN r 802
+ASSIGN w 'eef'
+ASSIGN xGy 'G8'

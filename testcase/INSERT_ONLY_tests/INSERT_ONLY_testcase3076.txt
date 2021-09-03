@@ -1,0 +1,6 @@
+INSERT rqi number
+INSERT v number
+INSERT rWMSwg number
+INSERT dvW string
+INSERT ipd91y string
+INSERT iV string

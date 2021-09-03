@@ -1,0 +1,8 @@
+INSERT eOk_z string
+INSERT q number
+INSERT c number
+INSERT rylVZ string
+INSERT ws string
+INSERT l0cCt string
+INSERT bdq number
+INSERT jR string

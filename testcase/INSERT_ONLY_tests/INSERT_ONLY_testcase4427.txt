@@ -1,0 +1,14 @@
+INSERT mtEL string
+INSERT yS string
+INSERT a_n number
+INSERT qV number
+INSERT x string
+INSERT i number
+INSERT iUsiv string
+INSERT n number
+INSERT qccUWA number
+INSERT z4 number
+INSERT gDN number
+INSERT y number
+INSERT aeGr string
+INSERT mWKo number

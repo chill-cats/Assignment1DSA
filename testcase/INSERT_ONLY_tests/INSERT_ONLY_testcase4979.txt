@@ -1,0 +1,5 @@
+INSERT sKX string
+INSERT ufggy number
+INSERT doA9I number
+INSERT dL string
+INSERT xsWp number

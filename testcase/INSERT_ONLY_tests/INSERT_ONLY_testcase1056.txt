@@ -1,0 +1,7 @@
+INSERT i string
+INSERT vim string
+INSERT xvJQVi number
+INSERT m5 number
+INSERT j number
+INSERT b string
+INSERT tt string

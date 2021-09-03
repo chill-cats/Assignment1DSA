@@ -1,0 +1,13 @@
+INSERT v number
+INSERT nCh78 number
+INSERT dD number
+INSERT bc string
+INSERT m string
+INSERT lYQlLI number
+INSERT kJlg number
+INSERT gO string
+INSERT p string
+INSERT x number
+INSERT z1uE string
+INSERT qb string
+INSERT jRDLq string

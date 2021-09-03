@@ -1,0 +1,8 @@
+INSERT jWF string
+INSERT os7 string
+INSERT y string
+INSERT s_H1t string
+INSERT n number
+INSERT zbBEK number
+INSERT rqR number
+INSERT cGW string

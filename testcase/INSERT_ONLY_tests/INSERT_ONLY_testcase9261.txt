@@ -1,0 +1,9 @@
+INSERT y number
+INSERT tfPre string
+INSERT aj number
+INSERT hYJ string
+INSERT jr string
+INSERT eFT string
+INSERT cMhI number
+INSERT e number
+INSERT nlICSy number

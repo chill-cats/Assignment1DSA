@@ -1,0 +1,14 @@
+INSERT sn number
+INSERT g number
+INSERT h number
+INSERT nc number
+INSERT l number
+INSERT cL string
+INSERT rt string
+INSERT s string
+INSERT sXK string
+INSERT jEb string
+INSERT gN3Fl number
+INSERT vs9 number
+INSERT hhxlwr number
+INSERT za number

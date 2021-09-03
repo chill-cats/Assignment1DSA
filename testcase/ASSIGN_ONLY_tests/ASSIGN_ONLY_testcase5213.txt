@@ -1,0 +1,3 @@
+ASSIGN tv 696
+ASSIGN kw4C bKK
+ASSIGN tm8M c4

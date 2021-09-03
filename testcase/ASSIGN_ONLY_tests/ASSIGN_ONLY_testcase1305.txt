@@ -1,0 +1,2 @@
+ASSIGN d cCmg
+ASSIGN rafrXr 'iStrr'

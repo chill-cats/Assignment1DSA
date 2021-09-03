@@ -1,0 +1,8 @@
+INSERT tzmd string
+INSERT rUREm number
+INSERT rN7 number
+INSERT aE4cC string
+INSERT f number
+INSERT hFpZ string
+INSERT zx string
+INSERT l__5H string

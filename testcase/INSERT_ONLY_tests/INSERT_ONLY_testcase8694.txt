@@ -1,0 +1,7 @@
+INSERT cd number
+INSERT tkbn number
+INSERT uz number
+INSERT x number
+INSERT g63q number
+INSERT nD number
+INSERT wEpNR string

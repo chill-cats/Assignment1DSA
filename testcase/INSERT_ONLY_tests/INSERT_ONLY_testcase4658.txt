@@ -1,0 +1,8 @@
+INSERT u string
+INSERT htZHUf number
+INSERT m string
+INSERT oS number
+INSERT oQ string
+INSERT x5 number
+INSERT s number
+INSERT icZ string

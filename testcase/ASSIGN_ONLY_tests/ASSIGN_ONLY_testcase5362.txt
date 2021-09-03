@@ -1,0 +1,6 @@
+ASSIGN pf c7
+ASSIGN mm7W mm7W
+ASSIGN mnyk 279
+ASSIGN o5DyF 'Id'
+ASSIGN c7 'C7B0'
+ASSIGN lPwd 'cDyC'

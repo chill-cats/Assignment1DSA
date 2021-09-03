@@ -1,0 +1,13 @@
+INSERT jS string
+INSERT s7XY number
+INSERT oni string
+INSERT zE25 number
+INSERT h6 string
+INSERT wE number
+INSERT gS string
+INSERT iWiV number
+INSERT y number
+INSERT m string
+INSERT lnDc number
+INSERT n number
+INSERT aJv string

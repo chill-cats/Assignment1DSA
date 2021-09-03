@@ -1,0 +1,11 @@
+INSERT y1 number
+INSERT dt number
+INSERT avYgEq number
+INSERT t string
+INSERT j number
+INSERT vLeSnL string
+INSERT eR number
+INSERT tE number
+INSERT jn string
+INSERT a string
+INSERT yRCqA number

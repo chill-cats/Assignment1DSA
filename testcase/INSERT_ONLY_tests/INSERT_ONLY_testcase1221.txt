@@ -1,0 +1,6 @@
+INSERT f string
+INSERT rSYxt number
+INSERT aimSY string
+INSERT lzTN string
+INSERT e number
+INSERT warz number

@@ -1,0 +1,4 @@
+INSERT o7 number
+INSERT eW string
+INSERT ckW string
+INSERT b number

@@ -1,0 +1,10 @@
+INSERT pt string
+INSERT i string
+INSERT m number
+INSERT oEZ number
+INSERT q number
+INSERT j5P9k number
+INSERT qda string
+INSERT hzA string
+INSERT x5 number
+INSERT s number

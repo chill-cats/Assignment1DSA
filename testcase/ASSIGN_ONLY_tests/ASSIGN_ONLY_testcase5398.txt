@@ -1,0 +1,3 @@
+ASSIGN j eyr
+ASSIGN eyr fliz
+ASSIGN pcNWEO 479

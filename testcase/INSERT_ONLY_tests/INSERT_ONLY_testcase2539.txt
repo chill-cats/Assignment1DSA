@@ -1,0 +1,6 @@
+INSERT fWm string
+INSERT l4nM string
+INSERT u number
+INSERT h string
+INSERT hSKA number
+INSERT owM string

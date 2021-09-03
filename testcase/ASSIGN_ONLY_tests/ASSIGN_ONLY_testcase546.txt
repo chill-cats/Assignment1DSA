@@ -1,0 +1,3 @@
+ASSIGN rp rp
+ASSIGN noUQf 'H8sh'
+ASSIGN j3sul0 641

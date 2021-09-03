@@ -1,0 +1,10 @@
+INSERT iUeZ number
+INSERT li string
+INSERT v string
+INSERT k4 string
+INSERT s string
+INSERT m_RX number
+INSERT vb number
+INSERT ri string
+INSERT d4dZ number
+INSERT zScw string
