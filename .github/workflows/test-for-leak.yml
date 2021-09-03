@@ -14,7 +14,7 @@ jobs:
           ref: hoangnhan
       - name: Cache LLVM and Clang
         id: cache-llvm
-        uses: action/cache@v2
+        uses: actions/cache@v2
         with:
           path: |
             ./llvm
