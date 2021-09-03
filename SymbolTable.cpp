@@ -42,7 +42,6 @@ IdentifierList::~IdentifierList() {
         current = current->prevInSameScope;
 
         delete deleteNode;
-        deleteNode = nullptr;
     }
     this->head = nullptr;
     this->tail = this->head;
@@ -93,7 +92,6 @@ ScopeList::~ScopeList() {
         auto deleteScope = current;
         current = current->parentScope;
         delete deleteScope;
-        deleteScope = nullptr;
     }
     this->innerMostScope = nullptr;
     this->globalScope = this->innerMostScope;
@@ -228,53 +226,38 @@ SymbolTable::handleInsert(const std::string &identifierName, const std::string &
 
 void
 SymbolTable::handleAssign(const std::string &identifierName, const std::string &value, const std::string &line) const {
-    using std::regex;
-    static const regex STRING_VALUE_REGEX(R"(^'[\dA-Za-z\s]+'$)");
-    static const regex NUMBER_VALUE_REGEX(R"(^\d+$)");
-    static const regex IDENTIFIER_VALUE_REGEX(R"(^[a-z]\w*$)");
+    static const std::regex STRING_VALUE_REGEX(R"(^'[\dA-Za-z\s]+'$)");
+    static const std::regex NUMBER_VALUE_REGEX(R"(^\d+$)");
 
     if (std::regex_match(value, NUMBER_VALUE_REGEX)) {
-        auto *currentScope = this->scopes.innerMostScope;
-        while (currentScope) {
-            auto identifier = currentScope->idList.containIdentifierWithName(identifierName);
-            if (identifier) {
-                if (identifier->type != IdentifierType::number)
-                    throw TypeMismatch(line);
-                else {
-                    identifier->value = value;
-                    return;
-                }
-            }
-            currentScope = currentScope->parentScope;
-        }
-        throw Undeclared(line);
+        auto type = IdentifierType::number;
 
+        auto id = this->scopes.containIdentifierWithName(identifierName);
+        if (id == nullptr)
+            throw Undeclared(line);
+        if (id->type != type)
+            throw TypeMismatch(line);
+        id->value = value;
     } else if (std::regex_match(value, STRING_VALUE_REGEX)) {
-        auto *currentScope = this->scopes.innerMostScope;
-        while (currentScope) {
-            auto identifier = currentScope->idList.containIdentifierWithName(identifierName);
-            if (identifier) {
-                if (identifier->type != IdentifierType::string)
-                    throw TypeMismatch(line);
-                else {
-                    identifier->value = value;
-                    return;
-                }
-            }
-            currentScope = currentScope->parentScope;
-        }
-        throw Undeclared(line);
-    } else if (std::regex_match(value, IDENTIFIER_VALUE_REGEX)) {
+        auto type = IdentifierType::string;
+
+        auto id = this->scopes.containIdentifierWithName(identifierName);
+        if (id == nullptr)
+            throw Undeclared(line);
+        if (id->type != type)
+            throw TypeMismatch(line);
+        id->value = value;
+    } else {
         // value is identifier
         auto *currentScope = this->scopes.innerMostScope;
         Identifier *assignee = nullptr;
         Identifier *assigner = nullptr;
         while (currentScope && (assignee == nullptr || assigner == nullptr)) {
             if (assignee == nullptr) {
-                assignee = currentScope->idList.containIdentifierWithName(identifierName);
+                assignee = currentScope->containIdentifierWithName(identifierName);
             }
             if (assigner == nullptr) {
-                assigner = currentScope->idList.containIdentifierWithName(value);
+                assigner = currentScope->containIdentifierWithName(value);
             }
             currentScope = currentScope->parentScope;
         }
@@ -288,13 +271,13 @@ SymbolTable::handleAssign(const std::string &identifierName, const std::string &
         return;
     }
 
-    throw InvalidInstruction(line);
+
 }
 
 int SymbolTable::handleLookup(const string &identifierName, const std::string &line) const {
     auto currentScope = this->scopes.innerMostScope;
     while (currentScope) {
-        if (currentScope->idList.containIdentifierWithName(identifierName)) {
+        if (currentScope->containIdentifierWithName(identifierName)) {
             return currentScope->level;
         }
         currentScope = currentScope->parentScope;

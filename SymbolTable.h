@@ -2,7 +2,6 @@
 #define SYMBOLTABLE_H
 
 #include "main.h"
-
 enum class IdentifierType {
     string,
     number,
@@ -38,7 +37,7 @@ public:
     ~IdentifierList();
 
     [[nodiscard]] Identifier *containIdentifierWithName(const std::string &name) const;
-    void insert(const std::string &name, const IdentifierType type);
+    void insert(const std::string &name, IdentifierType type);
 };
 
 class Scope {
@@ -71,6 +70,16 @@ public:
         this->innerMostScope->insert(name, type);
     }
 
+    [[nodiscard]] inline Identifier *containIdentifierWithName(const std::string &name) const {
+        for (auto scope = innerMostScope; scope != nullptr; scope = scope->parentScope) {
+            auto id = scope->containIdentifierWithName(name);
+            if (id)
+                return id;
+
+        }
+        return nullptr;
+    }
+
     ~ScopeList();
 };
 
@@ -85,7 +94,7 @@ public:
 
     void handleInsert(const std::string &identifierName, const std::string &type, const std::string &line) const;
     void handleAssign(const std::string &identifierName, const std::string &value, const std::string &line) const;
-    int handleLookup(const string &identifierName, const std::string &line) const;
+    [[nodiscard]] int handleLookup(const string &identifierName, const std::string &line) const;
     void handleBegin();
     void handleEnd();
     [[nodiscard]] std::string handlePrint() const;

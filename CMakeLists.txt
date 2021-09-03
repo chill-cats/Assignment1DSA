@@ -37,9 +37,9 @@ add_library(symbolTable SymbolTable.h SymbolTable.cpp)
 add_executable(assignmentDsaAlternative main.cpp main.h)
 target_link_libraries(assignmentDsaAlternative symbolTable)
 
-add_library(symbolTableHQ testing/HQ/SymbolTable.cpp testing/HQ/SymbolTable.h)
-add_executable(mainHQ testing/HQ/mainQ.cpp testing/HQ/main.h)
-target_link_libraries(mainHQ symbolTableHQ)
+#add_library(symbolTableHQ testing/HQ/SymbolTable.cpp testing/HQ/SymbolTable.h)
+#add_executable(mainHQ testing/HQ/mainQ.cpp testing/HQ/main.h)
+#target_link_libraries(mainHQ symbolTableHQ)
 
 #if (GTest_FOUND AND (CMAKE_BUILD_TYPE STREQUAL "Debug"))
 #    enable_testing()
