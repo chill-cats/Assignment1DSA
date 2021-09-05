@@ -2,6 +2,7 @@
 #define SYMBOLTABLE_H
 
 #include "main.h"
+
 enum class IdentifierType {
     string,
     number,
@@ -12,8 +13,9 @@ public:
     IdentifierType type = IdentifierType::string;
     std::string name;
     std::string value;
-    Identifier() = default;
-    Identifier(std::string name, IdentifierType type, std::string value = "");
+
+    Identifier(std::string name, IdentifierType type, std::string value = "") : type(type), name(std::move(name)),
+                                                                                value(std::move(value)) {}
 };
 
 class IdentifierNode {
@@ -26,7 +28,10 @@ public:
     IdentifierNode *nextOfSameType{nullptr};
 public:
     explicit IdentifierNode(Identifier id, IdentifierNode *next = nullptr, IdentifierNode *prev = nullptr,
-                            IdentifierNode *nextOfSameType = nullptr, IdentifierNode *prevOfSameType = nullptr);
+                            IdentifierNode *nextOfSameType = nullptr, IdentifierNode *prevOfSameType = nullptr) : id(
+            std::move(
+                    id)), nextInSameScope(next), prevInSameScope(prev), prevOfSameType(prevOfSameType), nextOfSameType(
+            nextOfSameType) {}
 };
 
 class IdentifierList {
@@ -37,6 +42,7 @@ public:
     ~IdentifierList();
 
     [[nodiscard]] Identifier *containIdentifierWithName(const std::string &name) const;
+
     void insert(const std::string &name, IdentifierType type);
 };
 
@@ -48,11 +54,14 @@ public:
     Scope *parentScope{nullptr};
     Scope *childScope{nullptr};
 
-    explicit Scope(int level, Scope *parentScope = nullptr, Scope *childScope = nullptr);
+    explicit Scope(int level, Scope *parentScope = nullptr, Scope *childScope = nullptr) : level{level},
+                                                                                           parentScope{parentScope},
+                                                                                           childScope{childScope} {}
 
     [[nodiscard]] inline Identifier *containIdentifierWithName(const std::string &name) const {
         return this->idList.containIdentifierWithName(name);
     }
+
     inline void insert(const std::string &name, const IdentifierType type) {
         this->idList.insert(name, type);
     }
@@ -64,6 +73,7 @@ public:
     Scope *innerMostScope{nullptr};
 
     void addInnerScope();
+
     void removeInnermostScope();
 
     inline void insert(const std::string &name, const IdentifierType type) const {
@@ -89,16 +99,26 @@ public:
     ScopeList scopes;
 
     SymbolTable();
-    void run(const string &filename);
-    std::string processLine(const std::string &str);
 
-    void handleInsert(const std::string &identifierName, const std::string &type, const std::string &line) const;
-    void handleAssign(const std::string &identifierName, const std::string &value, const std::string &line) const;
-    [[nodiscard]] int handleLookup(const string &identifierName, const std::string &line) const;
-    void handleBegin();
-    void handleEnd();
-    [[nodiscard]] std::string handlePrint() const;
-    [[nodiscard]] std::string handleReversePrint() const;
+    auto run(const string &filename) -> void;
+
+    auto processLine(const std::string &str) -> std::string;
+
+    auto
+    handleInsert(const std::string &identifierName, const std::string &type, const std::string &line) const -> void;
+
+    auto
+    handleAssign(const std::string &identifierName, const std::string &value, const std::string &line) const -> void;
+
+    [[nodiscard]] auto handleLookup(const string &identifierName, const std::string &line) const -> int;
+
+    auto handleBegin() -> void;
+
+    auto handleEnd() -> void;
+
+    [[nodiscard]] auto handlePrint() const -> std::string;
+
+    [[nodiscard]] auto handleReversePrint() const -> std::string;
 
     void detectUnclosedBlock() const;
 };

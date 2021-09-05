@@ -1,35 +1,5 @@
 #include "SymbolTable.h"
 
-static std::string trim(const std::string &s) {
-    auto start = s.begin();
-    while (start != s.end() && std::isspace(*start)) {
-        start++;
-    }
-
-    auto end = s.end();
-    do {
-        end--;
-    } while (std::distance(start, end) > 0 && std::isspace(*end));
-
-    return {start, end + 1};
-}
-
-Identifier::Identifier(std::string name, IdentifierType type, std::string value) {
-    this->value = std::move(value);
-    this->type = type;
-    this->name = std::move(name);
-}
-
-IdentifierNode::IdentifierNode(Identifier id, IdentifierNode *next, IdentifierNode *prev,
-                               IdentifierNode *nextOfSameType, IdentifierNode *prevOfSameType) {
-    this->id = std::move(id);
-    this->nextInSameScope = next;
-    this->prevInSameScope = prev;
-    this->nextOfSameType = nextOfSameType;
-    this->prevOfSameType = prevOfSameType;
-}
-
-
 IdentifierList::~IdentifierList() {
     auto *current = this->tail;
     while (current) {
@@ -47,7 +17,7 @@ IdentifierList::~IdentifierList() {
     this->tail = this->head;
 }
 
-Identifier *IdentifierList::containIdentifierWithName(const string &name) const {
+auto IdentifierList::containIdentifierWithName(const string &name) const -> Identifier * {
     for (auto identifier = this->head; identifier != nullptr; identifier = identifier->nextInSameScope) {
         if (identifier->id.name == name)
             return &identifier->id;
@@ -55,7 +25,7 @@ Identifier *IdentifierList::containIdentifierWithName(const string &name) const 
     return nullptr;
 }
 
-void IdentifierList::insert(const string &name, const IdentifierType type) {
+auto IdentifierList::insert(const string &name, const IdentifierType type) -> void {
     auto identifierNode = new IdentifierNode(Identifier(name, type), nullptr, this->tail);
 
     if (this->tail != nullptr) {
@@ -67,14 +37,7 @@ void IdentifierList::insert(const string &name, const IdentifierType type) {
     this->tail = identifierNode;
 }
 
-
-Scope::Scope(int level, Scope *parentScope, Scope *childScope) {
-    this->level = level;
-    this->parentScope = parentScope;
-    this->childScope = childScope;
-}
-
-void ScopeList::addInnerScope() {
+auto ScopeList::addInnerScope() -> void {
     auto *newScope = new Scope(0, this->innerMostScope, nullptr);
 
     if (this->innerMostScope != nullptr) {
@@ -97,7 +60,7 @@ ScopeList::~ScopeList() {
     this->globalScope = this->innerMostScope;
 }
 
-void ScopeList::removeInnermostScope() {
+auto ScopeList::removeInnermostScope() -> void {
     if (this->globalScope != nullptr) {
         auto temp = this->innerMostScope->parentScope;
 
@@ -112,7 +75,8 @@ void ScopeList::removeInnermostScope() {
     }
 }
 
-void SymbolTable::run(const string &filename) {
+auto SymbolTable::run(const string &filename) -> void {
+
     std::ifstream fileInput(filename);
 
     std::string line;
@@ -122,7 +86,7 @@ void SymbolTable::run(const string &filename) {
 #ifdef __EMSCRIPTEN__
             cout << output << std::endl;
 #else
-            std::cout << output << std::endl;
+            std::cout << output << '\n';
 #endif
         }
         this->shouldPrint = false;
@@ -131,10 +95,9 @@ void SymbolTable::run(const string &filename) {
     fileInput.close();
 }
 
-std::string SymbolTable::processLine(const string &line) {
+auto SymbolTable::processLine(const string &line) -> std::string {
     static const regex VALID_INSERT_REGEX(R"(^INSERT[ ]([a-z]\w*)[ ](string|number)$)");
-    static const regex VALID_ASSIGN_REGEX(R"(^ASSIGN[ ]([a-z]\w*)[ ]([a-z]\w*|\d+|'[\dA-Za-z\s]+')$)"
-    );
+    static const regex VALID_ASSIGN_REGEX(R"(^ASSIGN[ ]([a-z]\w*)[ ]([a-z]\w*|\d+|'[\dA-Za-z\s]+')$)");
     static const regex VALID_LOOKUP_REGEX(R"(^LOOKUP[ ]([a-z]\w*)$)");
     static const regex VALID_BEGIN_REGEX(R"(^BEGIN$)");
     static const regex VALID_END_REGEX(R"(^END$)");
@@ -181,23 +144,26 @@ std::string SymbolTable::processLine(const string &line) {
         return {};
 
     } else if (std::regex_match(line, VALID_PRINT_REGEX)) {
+        auto result = handlePrint();
 
-        auto result = trim(handlePrint());
         this->shouldPrint = !result.empty();
+
         return result;
 
     } else if (std::regex_match(line, VALID_REVERSE_PRINT_REGEX)) {
+        auto result = handleReversePrint();
 
-        auto result = trim(handleReversePrint());
         this->shouldPrint = !result.empty();
+
         return result;
 
     }
     throw InvalidInstruction(line);
 }
 
-void
-SymbolTable::handleInsert(const std::string &identifierName, const std::string &type, const std::string &line) const {
+auto
+SymbolTable::handleInsert(const std::string &identifierName, const std::string &type,
+                          const std::string &line) const -> void {
     IdentifierType idType = type == "string" ? IdentifierType::string : IdentifierType::number;
 
     auto foundIdentifierInInnerMostScope =
@@ -224,8 +190,9 @@ SymbolTable::handleInsert(const std::string &identifierName, const std::string &
     }
 }
 
-void
-SymbolTable::handleAssign(const std::string &identifierName, const std::string &value, const std::string &line) const {
+auto
+SymbolTable::handleAssign(const std::string &identifierName, const std::string &value,
+                          const std::string &line) const -> void {
     static const std::regex STRING_VALUE_REGEX(R"(^'[\dA-Za-z\s]+'$)");
     static const std::regex NUMBER_VALUE_REGEX(R"(^\d+$)");
 
@@ -274,7 +241,7 @@ SymbolTable::handleAssign(const std::string &identifierName, const std::string &
 
 }
 
-int SymbolTable::handleLookup(const string &identifierName, const std::string &line) const {
+auto SymbolTable::handleLookup(const string &identifierName, const std::string &line) const -> int {
     auto currentScope = this->scopes.innerMostScope;
     while (currentScope) {
         if (currentScope->containIdentifierWithName(identifierName)) {
@@ -285,18 +252,18 @@ int SymbolTable::handleLookup(const string &identifierName, const std::string &l
     throw Undeclared(line);
 }
 
-void SymbolTable::handleBegin() {
+auto SymbolTable::handleBegin() -> void {
     this->scopes.addInnerScope();
 }
 
-void SymbolTable::handleEnd() {
+auto SymbolTable::handleEnd() -> void {
     if (this->scopes.innerMostScope->level <= 0) {
         throw UnknownBlock();
     }
     this->scopes.removeInnermostScope();
 }
 
-std::string SymbolTable::handlePrint() const {
+auto SymbolTable::handlePrint() const -> std::string {
     std::string output;
     for (auto currentScope = this->scopes.globalScope;
          currentScope != nullptr; currentScope = currentScope->childScope) {
@@ -310,10 +277,12 @@ std::string SymbolTable::handlePrint() const {
             }
         }
     }
-    return output;
+    if (output.empty())
+        return output;
+    return {output.begin(), output.end() - 1};
 }
 
-std::string SymbolTable::handleReversePrint() const {
+auto SymbolTable::handleReversePrint() const -> std::string {
     std::string output;
     for (auto currentScope = this->scopes.innerMostScope;
          currentScope != nullptr; currentScope = currentScope->parentScope) {
@@ -327,10 +296,12 @@ std::string SymbolTable::handleReversePrint() const {
             }
         }
     }
-    return output;
+    if (output.empty())
+        return output;
+    return {output.begin(), output.end() - 1};
 }
 
-void SymbolTable::detectUnclosedBlock() const {
+auto SymbolTable::detectUnclosedBlock() const -> void {
     auto level = this->scopes.innerMostScope->level;
     if (level != 0)
         throw UnclosedBlock(level);
