@@ -1,5 +1,4 @@
 #include "SymbolTable.h"
-#include "SymbolTable.cpp"
 using namespace std;
 
 void test(string filename)
