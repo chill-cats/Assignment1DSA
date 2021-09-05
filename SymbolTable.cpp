@@ -2,7 +2,9 @@
 
 // ================== Symbol Table ===================
 SymbolTable::SymbolTable(){
-    this->curList = &global_list;
+    this->global_list = new Idn_List;
+    this->curList = new Idn_List;
+    this->numBlock = 0;
 }
 SymbolTable::~SymbolTable(){}
 void SymbolTable::run(string filename) {
@@ -29,20 +31,9 @@ void SymbolTable::run(string filename) {
                 this->new_scope();
             }
             else if (command.first =="END"){
+
                 this->end_scope();
             }
-            else if (command.first == "PRINT"){
-                if(this->trackList_print.head != NULL){
-                    this->print();  
-                    cout << endl; 
-                }
-            }
-            else if (command.first == "RPRINT"){
-                if(this->trackList_print.head != NULL){
-                    this->rprint();   
-                    cout << endl;
-                }
-            }   
         }
         handle_end_file();
     }
@@ -51,15 +42,13 @@ void SymbolTable::run(string filename) {
 }
 
 void SymbolTable::cleanup(){
-    Idn_List *ptr_list = &global_list;
-    while(ptr_list->child){
-        Idn_List *tmp1 = ptr_list->child;
-        ptr_list->destroy_list();
-        ptr_list = tmp1;
+    Idn_List*tmp = this->global_list;
+    while(tmp->child){
+        Idn_List*del = tmp;
+        tmp = tmp->child;
+        delete del;
     }
-    // Idn_List *tmp2 = &this->trackList_print;
-    // tmp2->destroy_list();
-
+    delete this->curList;
 }
 pair<string, int> SymbolTable::process(string line){
     static const regex valid_insert("^INSERT[ ][a-z][a-zA-Z0-9_]*[ ](?:number|string)$");
@@ -94,63 +83,33 @@ pair<string, int> SymbolTable::process(string line){
         command.first = "END"; command.second = 1;
         return command;
     }
-    else if(regex_match(line, valid_print)){
-        command.first = "PRINT"; command.second = 1;
-        return command;
-    }
-    else if(regex_match(line, valid_rprint)){
-        command.first = "RPRINT"; command.second = 1;
-        return command;
-    }
+    // else if(regex_match(line, valid_print)){
+    //     command.first = "PRINT"; command.second = 1;
+    //     return command;
+    // }
+    // else if(regex_match(line, valid_rprint)){
+    //     command.first = "RPRINT"; command.second = 1;
+    //     return command;
+    // }
     //Do not match all
     else{
         InvalidInstruction invalid = InvalidInstruction(line);
+        this->cleanup();
         throw invalid;
     }
 }
 
 void SymbolTable::insert(string line){
-    //cout << "Can insert return " << this->can_insert(line) << endl;
     int start = line.find(" "), i = 0;
     string name = line.substr(start + 1, line.find(" ", start + 1) - start - 1);
     string type = line.substr(line.find(" ", start + 1) + 1);
+
     Identifier a = Identifier(name, type, "");
-
     Idn_Node *node = new Idn_Node(a);
-    node->setLevel(this->curList->level); //Set level
+    // if(this->curList->level == 0)
+    //     this->curList = this->global_list;
+    node->setLevel(this->curList->level);
     this->curList->insert_to_list(node);
-
-    //Tracking for print and rprint
-    //create a new node and copy information from soure node
-    Idn_Node *tmp = trackList_print.getNode(name); //Node containing the identifier exist or not
-    if(tmp == NULL){ //If not exist yet
-        Idn_Node *track_node = new Idn_Node(node->data); //Create a new node with same name and type
-        track_node->setLevel(this->curList->level); //Set level
-        trackList_print.insert_to_list(track_node);
-    }
-    else{
-        //Delete the older node
-        if(tmp->next == NULL){
-            tmp->prev->next = NULL;
-            delete tmp;
-        }
-        else{
-            if(tmp == this->trackList_print.head){
-                this->trackList_print.head = tmp->next;
-                delete tmp;
-            }
-            else{
-                tmp->prev->next = tmp->next;
-                delete tmp;
-            }
-        }
-        this->trackList_print.size--;
-        //Insert new node
-        Idn_Node *track_node = new Idn_Node(node->data); //Create a new node
-        track_node->setLevel(this->curList->level);
-        this->trackList_print.insert_to_list(track_node);
-    }
-
     cout << "success";
 }
 void SymbolTable::assign(string line, int type){
@@ -200,50 +159,38 @@ void SymbolTable::lookup(string line){
         else tmp = tmp->parent; 
     }
     if(name_node == NULL){
+        this->cleanup();
         throw Undeclared(line);
     } 
 }
 void SymbolTable::new_scope(){
-    Idn_List *inner_scope = new Idn_List;
-    this->curList->child = inner_scope;
-    inner_scope->parent = this->curList;
-    inner_scope->level = inner_scope->parent->level + 1;
+/*
+The procedure will be:
+1. Create a new list in heap.
+2. Set the next (child) of current list is the new list.
+3. Set the previous (parent) list of the new list is the current list.
+4. Set the level of the new list is the level of current list + 1
+5. Shift the current list to the new list.
+*/
+    Idn_List *new_list = new Idn_List;
+    this->curList->child = new_list;
+    new_list->parent = this->curList;
+    new_list->level = this->curList->level + 1; //Set level for the inner scope
     this->curList = this->curList->child;
 }
 void SymbolTable::end_scope(){
-     int current_level = this->curList->level;
-     if(current_level == 0){
+    int current_level = this->curList->level;
+    if(current_level == 0){
+        this->cleanup();
         throw UnknownBlock();
-     }
-     else{
-         // Destroy Identifier in the current List which existed in trackList
-         if(this->trackList_print.size == 1){
-             if(this->trackList_print.head->node_level == this->curList->level)
-                delete this->trackList_print.head;
-            this->trackList_print.size--;
-         }
-         else{
-             if(this->trackList_print.head != NULL){
-             Idn_Node* track = this->trackList_print.head;
-             while(track){
-                 if(track->node_level == this->curList->level){
-                     Idn_Node *del = track;
-                     track = track->next;
-                     trackList_print.destroy_node(del);
-                 }
-                 else{
-                    track = track->next;
-                 }
-             }
-            }
-         }
-         Idn_List *tmp = this->curList;
-         this->curList = this->curList->parent;
-         tmp->destroy_list();
-     }
-}
-void SymbolTable::print(){
-    this->trackList_print.printForward();
+    }
+    else{
+        if(this->curList){
+            Idn_List *tmp = this->curList;
+            this->curList = this->curList->parent;
+            delete tmp;
+        }
+    }
 }
 int SymbolTable::handle_exception_assign(string line){
 // Return a number corresponding to the type of value
@@ -272,6 +219,7 @@ int SymbolTable::handle_exception_assign(string line){
     }
     //IDENTIFIER HAD NOT BEEN DECLARED
     if(name_node == NULL){
+        this->cleanup(); 
         throw Undeclared(line);
     }
 
@@ -289,6 +237,7 @@ int SymbolTable::handle_exception_assign(string line){
             }
             //VALUE_IDENTIFIER NOT DECLARED
             if(val_node == NULL){
+                this->cleanup();
                 throw Undeclared(line);
             }
             //VALUE IDENTIFER DECLARED
@@ -296,6 +245,7 @@ int SymbolTable::handle_exception_assign(string line){
                 if(val_node->data.type == name_node->data.type) //MATCH TYPE
                     return 0;
                 else{ //NOT MATCH TYPE
+                    this->cleanup();
                     throw TypeMismatch(line);
                 }
             }
@@ -305,6 +255,7 @@ int SymbolTable::handle_exception_assign(string line){
         else if(regex_match(value, valid_number)){ 
             if(name_node->data.type != "number"){
                 //TYPE NOT MATCH
+                this->cleanup();
                 throw TypeMismatch(line);
             }
             return 1; //Return when type of name is number and had been declared.
@@ -315,12 +266,14 @@ int SymbolTable::handle_exception_assign(string line){
             
             if(name_node->data.type != "string"){
                 //TYPE NOT MATCH
+                this->cleanup();
                 throw TypeMismatch(line);
             }
             return 2; //Return when type of name is string and had been declared.
         }
 
         else{
+            this->cleanup();
             throw InvalidInstruction(line);
         }
     }
@@ -329,20 +282,26 @@ void SymbolTable::handle_exception_insert(string line){
     int start = line.find(" "), i = 0;
     string name = line.substr(start + 1, line.find(" ", start + 1) - start - 1);
     string type = line.substr(line.find(" ", start + 1) + 1);
-    if(this->curList->find(name)){
+    if(this->numBlock == 0){
+        if(this->global_list->find(name)){
+            this->cleanup();
+            throw Redeclared(line);
+        }
+    }
+    else{
+        if (this->curList->find(name)){
+        this->cleanup();
         Redeclared a = Redeclared(line);
         throw a; //Found - Redeclared
+    }
     }
 }
 void SymbolTable::handle_end_file(){
     int current_level = this->curList->level;
     if(current_level != 0){
+        this->cleanup();
         throw UnclosedBlock(current_level);
     }
-}
-void SymbolTable::rprint()
-{
-    this->trackList_print.printBackward();
 }
 
 void SymbolTable::printList(){
@@ -383,26 +342,32 @@ void Idn_Node::setLevel(int level){
 Idn_List::Idn_List(){
     this->head = NULL;
     this->tail = NULL;
-    this->child = NULL;
-    this->parent = NULL;
     this->size = 0;
     this->level = 0;
 }
-Idn_List::~Idn_List(){}
+Idn_List::~Idn_List(){
+    Idn_Node *tmp = this->head;
+    while(tmp){
+        Idn_Node*del = tmp;
+        tmp = tmp->next;
+        delete del;
+    }
+}
 void Idn_List::insert_to_list(Idn_Node *node){
-    if(head == NULL){
-        head = node;
-        tail = head;
+    if(this->head == NULL){
+        this->head = node;
+        this->tail = head;
     }
     else{
-        tail->next = node;
+        this->tail->next = node;
         node->prev = tail;
-        tail = node;
+        this->tail = node;
     }
     this->size++;
 }
 bool Idn_List::find(string name){
     Idn_Node *tmp = this->head;
+    if(tmp == NULL) return false;
     while(tmp){
         if(tmp->data.name == name)
             return true;
@@ -423,68 +388,6 @@ Idn_Node* Idn_List::getNode(string name){
     return NULL;
 }
 
-void Idn_List::destroy_list(){
-    Idn_Node *ptr = new Idn_Node;
-    ptr = this->head;
-    while(ptr){
-        Idn_Node*tmp = ptr->next;
-        delete ptr;
-        ptr = tmp;
-    }
-    delete ptr;
-}
-
-void Idn_List::printForward(){
-    Idn_Node *tmp = this->head;
-    if(tmp == NULL);
-    else{
-        while(tmp){
-            if(tmp->next != NULL){
-                cout << tmp->data.name <<"//"<<tmp->node_level <<" ";
-                tmp = tmp->next;
-            }
-
-            else{
-                cout << tmp->data.name <<"//"<<tmp->node_level;
-                tmp = tmp->next;
-            }
-        }
-    }
-}
-
-void Idn_List::printBackward(){
-    Idn_Node *tmp = this->tail;
-    if(tmp == NULL){}
-    else{
-        while(tmp){
-            if(tmp->prev == NULL){
-                cout << tmp->data.name<<"//"<<tmp->node_level;
-                tmp = tmp->prev;
-            }
-            else{
-                cout << tmp->data.name<<"//"<<tmp->node_level << " ";
-                tmp = tmp->prev;
-            }
-        }
-    }
-}
-
-void Idn_List::destroy_node(Idn_Node *tobe_del){
-    //IF DELETE HEAD
-    if(tobe_del == this->head){
-        head = this->head->next;
-        delete tobe_del;
-    }
-    if(tobe_del->next == NULL){
-        tobe_del->prev->next = NULL;
-        delete tobe_del;
-    }
-    if(tobe_del->next != NULL){
-        tobe_del->prev->next = tobe_del->next;
-        delete tobe_del;
-    }
-    this->size--;
-}
 
 void Idn_List::printout(){
     if(this->head == NULL);
