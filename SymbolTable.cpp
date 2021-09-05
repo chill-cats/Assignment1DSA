@@ -15,15 +15,15 @@ void SymbolTable::run(string filename) {
             pair<string, int> command = process(line);
             if(command.first == "INSERT"){
                 this->insert(line);
-                if(!_end) cout << endl;
+                cout << endl;
             }
             else if(command.first == "ASSIGN"){
                 this->assign(line, command.second);
-                if(!_end) cout << endl;
+                cout << endl;
             }
             else if (command.first == "LOOKUP"){
                 this->lookup(line);
-                if(!ifs.eof()) cout << endl;   
+                cout << endl;
             }
             else if (command.first =="BEGIN"){
                 this->new_scope();
@@ -33,14 +33,14 @@ void SymbolTable::run(string filename) {
             }
             else if (command.first == "PRINT"){
                 if(this->trackList_print.head != NULL){
-                    this->print();   
-                    if(!ifs.eof()) cout << endl;
+                    this->print();  
+                    cout << endl; 
                 }
             }
             else if (command.first == "RPRINT"){
                 if(this->trackList_print.head != NULL){
                     this->rprint();   
-                    if(!ifs.eof()) cout << endl;
+                    cout << endl;
                 }
             }   
         }
@@ -216,6 +216,27 @@ void SymbolTable::end_scope(){
         throw UnknownBlock();
      }
      else{
+         // Destroy Identifier in the current List which existed in trackList
+         if(this->trackList_print.size == 1){
+             if(this->trackList_print.head->node_level == this->curList->level)
+                delete this->trackList_print.head;
+            this->trackList_print.size--;
+         }
+         else{
+             if(this->trackList_print.head != NULL){
+             Idn_Node* track = this->trackList_print.head;
+             while(track){
+                 if(track->node_level == this->curList->level){
+                     Idn_Node *del = track;
+                     track = track->next;
+                     trackList_print.destroy_node(del);
+                 }
+                 else{
+                    track = track->next;
+                 }
+             }
+            }
+         }
          Idn_List *tmp = this->curList;
          this->curList = this->curList->parent;
          tmp->destroy_list();
@@ -338,9 +359,9 @@ Identifier::Identifier(string name, string type, string value){
     this->type = type;
     this->value = value;
 }
-Identifier::Identifier(){
+Identifier::Identifier(){}
+Identifier::~Identifier(){}
 
-}
 // ================== Identifier Node===================
 Idn_Node::Idn_Node(Identifier data){
     this->data = data;
@@ -348,7 +369,7 @@ Idn_Node::Idn_Node(Identifier data){
     this->prev = NULL;
     this->node_level = 0;
 }
-
+Idn_Node::~Idn_Node(){}
 Idn_Node::Idn_Node(){
     this->next = NULL;
     this->prev = NULL;
@@ -367,7 +388,7 @@ Idn_List::Idn_List(){
     this->size = 0;
     this->level = 0;
 }
-
+Idn_List::~Idn_List(){}
 void Idn_List::insert_to_list(Idn_Node *node){
     if(head == NULL){
         head = node;
@@ -410,14 +431,15 @@ void Idn_List::destroy_list(){
         delete ptr;
         ptr = tmp;
     }
+    delete ptr;
 }
 
 void Idn_List::printForward(){
     Idn_Node *tmp = this->head;
     if(tmp == NULL);
     else{
-        for(int i =0; i < this->size; i++){
-            if(i != this->size - 1){
+        while(tmp){
+            if(tmp->next != NULL){
                 cout << tmp->data.name <<"//"<<tmp->node_level <<" ";
                 tmp = tmp->next;
             }
@@ -426,7 +448,7 @@ void Idn_List::printForward(){
                 cout << tmp->data.name <<"//"<<tmp->node_level;
                 tmp = tmp->next;
             }
-        }   
+        }
     }
 }
 
@@ -434,8 +456,8 @@ void Idn_List::printBackward(){
     Idn_Node *tmp = this->tail;
     if(tmp == NULL){}
     else{
-        for(int i = 0; i < this->size; i++){
-            if(i == this->size - 1){
+        while(tmp){
+            if(tmp->prev == NULL){
                 cout << tmp->data.name<<"//"<<tmp->node_level;
                 tmp = tmp->prev;
             }
@@ -444,7 +466,24 @@ void Idn_List::printBackward(){
                 tmp = tmp->prev;
             }
         }
-    } 
+    }
+}
+
+void Idn_List::destroy_node(Idn_Node *tobe_del){
+    //IF DELETE HEAD
+    if(tobe_del == this->head){
+        head = this->head->next;
+        delete tobe_del;
+    }
+    if(tobe_del->next == NULL){
+        tobe_del->prev->next = NULL;
+        delete tobe_del;
+    }
+    if(tobe_del->next != NULL){
+        tobe_del->prev->next = tobe_del->next;
+        delete tobe_del;
+    }
+    this->size--;
 }
 
 void Idn_List::printout(){
