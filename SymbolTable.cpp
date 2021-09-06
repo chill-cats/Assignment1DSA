@@ -47,7 +47,7 @@ void SymbolTable::run(string filename) {
 
 void SymbolTable::cleanup(){
     Idn_List *tmp = this->curList; //Start from the most inner scope
-    while (tmp->parent != nullptr)
+    while (tmp!= nullptr)
     {
         Idn_List *del = tmp;
         tmp = tmp->parent;
