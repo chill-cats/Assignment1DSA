@@ -16,8 +16,8 @@ class Idn_Node{
 public:
     Identifier data; //Data in node
     int node_level;
-    Idn_Node *next; //Next pointer
-    Idn_Node *prev;
+    Idn_Node *next = nullptr; //Next pointer
+    Idn_Node *prev = nullptr;
     Idn_Node();
     ~Idn_Node();
     Idn_Node(Identifier new_data);
@@ -31,10 +31,10 @@ class Idn_List{
 public:
     Idn_List();
     ~Idn_List();
-    Idn_Node *head; //head of a list
-    Idn_Node *tail; //tail of a list
-    Idn_List *parent;
-    Idn_List *child;
+    Idn_Node *head = nullptr; //head of a list
+    Idn_Node *tail = nullptr; //tail of a list
+    Idn_List *parent = nullptr;
+    Idn_List *child = nullptr;
     int size;
     int level;
     void append(Idn_Node *node);
@@ -55,9 +55,9 @@ public:
     SymbolTable();
     ~SymbolTable();
     int numBlock;
-    Idn_List *global_list;
-    Idn_List *curList;
-    Idn_List *track_list;
+    Idn_List *global_list = nullptr;
+    Idn_List *curList = nullptr;
+    Idn_List *track_list = nullptr;
     //MAIN METHODS
     void run(string filename);  
     void insert(string line);

@@ -8,9 +8,9 @@ add_executable(main main.h mainQ.cpp)
 target_link_libraries(main SymbolTable)
 
 if (CMAKE_CXX_COMPILER_ID STREQUAL "GNU" OR CMAKE_CXX_COMPILER_ID STREQUAL "Clang")
-    target_compile_options(main PRIVATE -fsanitize=address -fno-omit-frame-pointer)
-    target_compile_options(SymbolTable PRIVATE -fsanitize=address -fno-omit-frame-pointer)
+    target_compile_options(main PRIVATE -fsanitize=address -fno-omit-frame-pointer -g -Og)
+    target_compile_options(SymbolTable PRIVATE -fsanitize=address -fno-omit-frame-pointer -g -Og)
 
-    target_link_options(main PRIVATE -fsanitize=address -fno-omit-frame-pointer)
-    target_link_options(SymbolTable PRIVATE -fsanitize=address -fno-omit-frame-pointer)
+    target_link_options(main PRIVATE -fsanitize=address -fno-omit-frame-pointer -g -Og)
+    target_link_options(SymbolTable PRIVATE -fsanitize=address -fno-omit-frame-pointer -g -Og)
 endif()
