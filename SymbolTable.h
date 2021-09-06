@@ -2,6 +2,8 @@
 #define SYMBOLTABLE_H
 #include "main.h"
 
+using namespace std;
+
 class SymbolTable {
 public:
     SymbolTable() {}
@@ -34,6 +36,8 @@ public:
         int size;
     };
 
+    int count_line(string filename);
+
     int check_tok(string s);
 
     bool check_valid_name(string s);
@@ -50,11 +54,15 @@ public:
 
     int count_ID(DLinkedList list, string ID);
 
-    void print(DLinkedList list, int level);
+    void print(DLinkedList list);
 
-    void rprint(DLinkedList list, int level);
+    void rprint(DLinkedList list);
 
     int lookup(DLinkedList list, string ID);
+
+    DLinkedList copy(DLinkedList);
+
+    void delete_same_ID(DLinkedList &list);
 };
 
 #endif
