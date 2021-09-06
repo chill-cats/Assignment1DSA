@@ -251,6 +251,7 @@ void SymbolTable::delete_same_ID(DLinkedList &list) {
                         h->next->prev = h2;
                         free(h);
                         h = h1;
+                        a--;
                     }
                 }
                 h1 = h1->next;
