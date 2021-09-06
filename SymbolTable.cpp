@@ -1,5 +1,5 @@
 #include "SymbolTable.h"
-
+//NEWEST VERSION
 // ================== Symbol Table ===================
 SymbolTable::SymbolTable(){
     this->global_list = new Idn_List;
@@ -47,7 +47,7 @@ void SymbolTable::run(string filename) {
 
 void SymbolTable::cleanup(){
     Idn_List *tmp = this->curList; //Start from the most inner scope
-    while (tmp!= nullptr)
+    while (tmp!= NULL)
     {
         Idn_List *del = tmp;
         tmp = tmp->parent;
@@ -393,7 +393,7 @@ Idn_List::Idn_List(){
 }
 Idn_List::~Idn_List(){
     Idn_Node *tmp = this->head;
-    if(tmp!=nullptr){
+    if(tmp!=NULL){
         while(tmp){
             Idn_Node*del = tmp;
             tmp = tmp->next;
