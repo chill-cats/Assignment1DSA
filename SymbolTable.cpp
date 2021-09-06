@@ -196,7 +196,10 @@ The procedure will be:
 void SymbolTable::end_scope(){
     int current_level = this->curList->level;
     if(current_level == 0){
-        if(this->global_list->head != NULL) delete global_list; delete track_list;
+        //if(this->global_list->head != NULL) {
+        //    delete global_list; 
+        //    delete track_list;
+        // }
         throw UnknownBlock();
     }
     else{
