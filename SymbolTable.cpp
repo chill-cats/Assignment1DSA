@@ -3,8 +3,8 @@
 // ================== Symbol Table ===================
 SymbolTable::SymbolTable(){
     this->global_list = new Idn_List;
-    this->curList = new Idn_List;
-    this->numBlock = 0;
+    this->curList = global_list;
+    this->track_list = new Idn_List;
 }
 SymbolTable::~SymbolTable(){}
 void SymbolTable::run(string filename) {
@@ -31,24 +31,29 @@ void SymbolTable::run(string filename) {
                 this->new_scope();
             }
             else if (command.first =="END"){
-
                 this->end_scope();
             }
+            else if (command.first == "PRINT"){
+                this->print();
+            }
+            else if(command.first =="RPRINT")
+                this->rprint();
         }
         handle_end_file();
+        this->cleanup();
     }
-    this->cleanup();
     ifs.close();   
 }
 
 void SymbolTable::cleanup(){
-    Idn_List*tmp = this->global_list;
-    while(tmp->child){
-        Idn_List*del = tmp;
-        tmp = tmp->child;
+    Idn_List *tmp = this->curList; //Start from the most inner scope
+    while (tmp->parent != nullptr)
+    {
+        Idn_List *del = tmp;
+        tmp = tmp->parent;
         delete del;
     }
-    delete this->curList;
+    delete this->track_list;
 }
 pair<string, int> SymbolTable::process(string line){
     static const regex valid_insert("^INSERT[ ][a-z][a-zA-Z0-9_]*[ ](?:number|string)$");
@@ -83,14 +88,14 @@ pair<string, int> SymbolTable::process(string line){
         command.first = "END"; command.second = 1;
         return command;
     }
-    // else if(regex_match(line, valid_print)){
-    //     command.first = "PRINT"; command.second = 1;
-    //     return command;
-    // }
-    // else if(regex_match(line, valid_rprint)){
-    //     command.first = "RPRINT"; command.second = 1;
-    //     return command;
-    // }
+    else if(regex_match(line, valid_print)){
+        command.first = "PRINT"; command.second = 1;
+        return command;
+    }
+    else if(regex_match(line, valid_rprint)){
+        command.first = "RPRINT"; command.second = 1;
+        return command;
+    }
     //Do not match all
     else{
         InvalidInstruction invalid = InvalidInstruction(line);
@@ -105,11 +110,22 @@ void SymbolTable::insert(string line){
     string type = line.substr(line.find(" ", start + 1) + 1);
 
     Identifier a = Identifier(name, type, "");
-    Idn_Node *node = new Idn_Node(a);
-    // if(this->curList->level == 0)
-    //     this->curList = this->global_list;
-    node->setLevel(this->curList->level);
-    this->curList->insert_to_list(node);
+    Idn_Node *main_node = new Idn_Node(a);
+    Idn_Node *track_node = new Idn_Node(a); //Allocating a new node
+    
+    main_node->setLevel(this->curList->level);
+    track_node->setLevel(this->curList->level);
+
+    this->curList->append(main_node);
+
+    //Enable or disable print property
+    //Note that track_node will have the same identifier with tmp_track
+    Idn_Node *tmp_track = this->track_list->getNode(name); // Existed in track list or not
+    if(tmp_track != NULL){ //If exist
+        tmp_track->enable = false;
+    }
+    track_node->enable = true;
+    this->track_list->append(track_node);
     cout << "success";
 }
 void SymbolTable::assign(string line, int type){
@@ -181,15 +197,53 @@ The procedure will be:
 void SymbolTable::end_scope(){
     int current_level = this->curList->level;
     if(current_level == 0){
-        this->cleanup();
+        if(this->global_list->head != NULL) delete global_list; delete track_list;
         throw UnknownBlock();
     }
     else{
-        if(this->curList){
-            Idn_List *tmp = this->curList;
-            this->curList = this->curList->parent;
-            delete tmp;
+        Idn_List *tmp = this->curList;
+        this->curList = this->curList->parent; //Shifting to the previous list.
+        delete tmp;
+    }
+    //Tracking to disable
+    Idn_Node *track_disable = this->track_list->head;
+    while(track_disable != NULL){
+        if(track_disable->node_level == current_level){
+           track_disable->enable = false;
+           track_disable = track_disable->next; 
+        } //If in the same level -> Disable
+        else{
+            track_disable->enable = true;
+            track_disable = track_disable->next;
         }
+    }
+}
+void SymbolTable::print(){
+    Idn_Node *tmp = this->track_list->head;
+    while (tmp)
+    {
+        if(tmp->next == NULL){//The last element -> do not leave a space
+            if(tmp->enable == true) cout << tmp->data.name <<"//"<<tmp->node_level << endl;
+            
+        }
+        else{
+            if(tmp->enable == true) cout <<tmp->data.name<<"//"<<tmp->node_level <<" ";
+        } 
+        tmp = tmp->next;
+    }
+}
+void SymbolTable::rprint(){
+    Idn_Node *tmp = this->track_list->tail;
+    while (tmp)
+    {
+        if(tmp->prev == NULL){//The last element -> do not leave a space
+            if(tmp->enable == true) cout << tmp->data.name <<"//"<<tmp->node_level << endl;
+            
+        }
+        else{
+            if(tmp->enable == true) cout <<tmp->data.name<<"//"<<tmp->node_level <<" ";
+        } 
+        tmp = tmp->prev;
     }
 }
 int SymbolTable::handle_exception_assign(string line){
@@ -282,18 +336,9 @@ void SymbolTable::handle_exception_insert(string line){
     int start = line.find(" "), i = 0;
     string name = line.substr(start + 1, line.find(" ", start + 1) - start - 1);
     string type = line.substr(line.find(" ", start + 1) + 1);
-    if(this->numBlock == 0){
-        if(this->global_list->find(name)){
-            this->cleanup();
-            throw Redeclared(line);
-        }
-    }
-    else{
-        if (this->curList->find(name)){
+    if(this->curList->find(name)){
         this->cleanup();
-        Redeclared a = Redeclared(line);
-        throw a; //Found - Redeclared
-    }
+        throw Redeclared(line);
     }
 }
 void SymbolTable::handle_end_file(){
@@ -333,6 +378,7 @@ Idn_Node::Idn_Node(){
     this->next = NULL;
     this->prev = NULL;
     this->node_level = 0;
+    this->enable = true; //Default to be printed out.
 }
 
 void Idn_Node::setLevel(int level){
@@ -347,13 +393,17 @@ Idn_List::Idn_List(){
 }
 Idn_List::~Idn_List(){
     Idn_Node *tmp = this->head;
-    while(tmp){
-        Idn_Node*del = tmp;
-        tmp = tmp->next;
-        delete del;
+    if(tmp!=nullptr){
+        while(tmp){
+            Idn_Node*del = tmp;
+            tmp = tmp->next;
+            delete del;
+        }
     }
+    this->parent = NULL;
+    this->child = NULL;
 }
-void Idn_List::insert_to_list(Idn_Node *node){
+void Idn_List::append(Idn_Node *node){
     if(this->head == NULL){
         this->head = node;
         this->tail = head;
@@ -365,6 +415,7 @@ void Idn_List::insert_to_list(Idn_Node *node){
     }
     this->size++;
 }
+
 bool Idn_List::find(string name){
     Idn_Node *tmp = this->head;
     if(tmp == NULL) return false;
@@ -390,7 +441,7 @@ Idn_Node* Idn_List::getNode(string name){
 
 
 void Idn_List::printout(){
-    if(this->head == NULL);
+    if(this->head == NULL) cout <<"EMPTY" << endl; //Testing
     else{
         Idn_Node *tmp = this->head;
         while(tmp){

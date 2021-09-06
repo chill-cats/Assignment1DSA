@@ -8,6 +8,7 @@ public:
     string name;
     string value;
     Identifier();
+    ~Identifier();
     Identifier(string name, string type, string value);
 };
 
@@ -18,27 +19,32 @@ public:
     Idn_Node *next; //Next pointer
     Idn_Node *prev;
     Idn_Node();
+    ~Idn_Node();
     Idn_Node(Identifier new_data);
     void setData(int data); //Assign new value for variable
     void setLevel(int level);
+    bool enable;
 };
 
 
 class Idn_List{
 public:
     Idn_List();
+    ~Idn_List();
     Idn_Node *head; //head of a list
     Idn_Node *tail; //tail of a list
     Idn_List *parent;
     Idn_List *child;
     int size;
     int level;
-    void insert_to_list(Idn_Node *node);
-    void destroy_list();
-    void printForward();
-    void printBackward();
+    void append(Idn_Node *node);
+    void destroy_list(); //Clean
+    void destroy_node(Idn_Node *tobe_del); //Xoa node
+    void printForward(); //PRINT
+    void printBackward(); //RPRINT
     //void set_value(string name, string val);
     bool find(string name);
+
     Idn_Node *getNode(string name);
     void printout(); // Testing 
 
@@ -48,12 +54,12 @@ class SymbolTable {
 public:
     SymbolTable();
     ~SymbolTable();
-    Idn_List global_list;
-    Idn_List trackList_print;
+    int numBlock;
+    Idn_List *global_list;
     Idn_List *curList;
-
+    Idn_List *track_list;
     //MAIN METHODS
-    void run(string filename);
+    void run(string filename);  
     void insert(string line);
     void lookup(string line);
     void assign(string line, int type);
