@@ -6,14 +6,13 @@ programPath = sys.argv[1]
 testPath = sys.argv[2]
 
 files = [os.path.join(testPath, f) for f in os.listdir(testPath) if os.path.isfile(os.path.join(testPath, f))]
-for file in files:
-    # print("Running file %s" % file)
-    hasError = subprocess.run(
-        [programPath, file], stdout=subprocess.DEVNULL, env=dict(os.environ, ASAN_OPTIONS="detect_leaks=1",
+for idx, file in enumerate(files):
+    print('\x1bc')
+    print(f'\nRunning file #{idx}: {file}')
+    returnCode = subprocess.run(
+        [programPath, file], env=dict(os.environ, ASAN_OPTIONS="detect_leaks=1",
                                                                  ASAN_SYMBOLIZER_PATH="/usr/local/opt/llvm/bin/llvm"
-                                                                                      "-symbolizer")) == 1
-    if hasError:
-        print("Memory leak detect in test case %s" % file)
-        exit(1)
-    else:
-        print("Testcase %s ok!" % file, end='\r', flush=True)
+                                                                                         "-symbolizer")).returncode;
+    print("Test finished with status code %d" % returnCode)
+    if returnCode != 0:
+        print("\e[1m\e[31mERROR:\e[0m in file %s" % file)
