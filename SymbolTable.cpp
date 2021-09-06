@@ -6,7 +6,9 @@ SymbolTable::SymbolTable(){
     this->curList = global_list;
     this->track_list = new Idn_List;
 }
-SymbolTable::~SymbolTable(){}
+SymbolTable::~SymbolTable(){
+    this->cleanup();
+}
 void SymbolTable::run(string filename) {
     ifstream ifs(filename);
     string line;
@@ -40,7 +42,6 @@ void SymbolTable::run(string filename) {
                 this->rprint();
         }
         handle_end_file();
-        this->cleanup();
     }
     ifs.close();   
 }
@@ -99,7 +100,6 @@ pair<string, int> SymbolTable::process(string line){
     //Do not match all
     else{
         InvalidInstruction invalid = InvalidInstruction(line);
-        this->cleanup();
         throw invalid;
     }
 }
@@ -175,7 +175,6 @@ void SymbolTable::lookup(string line){
         else tmp = tmp->parent; 
     }
     if(name_node == NULL){
-        this->cleanup();
         throw Undeclared(line);
     } 
 }
@@ -273,7 +272,6 @@ int SymbolTable::handle_exception_assign(string line){
     }
     //IDENTIFIER HAD NOT BEEN DECLARED
     if(name_node == NULL){
-        this->cleanup(); 
         throw Undeclared(line);
     }
 
@@ -291,7 +289,6 @@ int SymbolTable::handle_exception_assign(string line){
             }
             //VALUE_IDENTIFIER NOT DECLARED
             if(val_node == NULL){
-                this->cleanup();
                 throw Undeclared(line);
             }
             //VALUE IDENTIFER DECLARED
@@ -299,7 +296,6 @@ int SymbolTable::handle_exception_assign(string line){
                 if(val_node->data.type == name_node->data.type) //MATCH TYPE
                     return 0;
                 else{ //NOT MATCH TYPE
-                    this->cleanup();
                     throw TypeMismatch(line);
                 }
             }
@@ -309,7 +305,6 @@ int SymbolTable::handle_exception_assign(string line){
         else if(regex_match(value, valid_number)){ 
             if(name_node->data.type != "number"){
                 //TYPE NOT MATCH
-                this->cleanup();
                 throw TypeMismatch(line);
             }
             return 1; //Return when type of name is number and had been declared.
@@ -320,14 +315,12 @@ int SymbolTable::handle_exception_assign(string line){
             
             if(name_node->data.type != "string"){
                 //TYPE NOT MATCH
-                this->cleanup();
                 throw TypeMismatch(line);
             }
             return 2; //Return when type of name is string and had been declared.
         }
 
         else{
-            this->cleanup();
             throw InvalidInstruction(line);
         }
     }
@@ -337,14 +330,12 @@ void SymbolTable::handle_exception_insert(string line){
     string name = line.substr(start + 1, line.find(" ", start + 1) - start - 1);
     string type = line.substr(line.find(" ", start + 1) + 1);
     if(this->curList->find(name)){
-        this->cleanup();
         throw Redeclared(line);
     }
 }
 void SymbolTable::handle_end_file(){
     int current_level = this->curList->level;
     if(current_level != 0){
-        this->cleanup();
         throw UnclosedBlock(current_level);
     }
 }
