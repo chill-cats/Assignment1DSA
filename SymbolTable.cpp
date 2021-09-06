@@ -197,8 +197,8 @@ void SymbolTable::end(DLinkedList &list, int level) {
     if (list.head == nullptr) return;
     while (true) {
         identifier_node *h = list.tail;
-        if (h->data.level != level) break;
         if (list.tail == nullptr) break;
+        if (h->data.level != level) break;
         list.tail = h->prev;
         delete h;
         list.size--;
@@ -215,98 +215,75 @@ int SymbolTable::count_ID(DLinkedList list, string ID) {
     return count;
 }
 
-void SymbolTable::print(DLinkedList list, int level) {
-    DLinkedList list1(list.head, list.tail, list.size);
-    if (list1.head == nullptr) return;
-    else {
-        identifier_node *h = list1.tail;
-        while (h->data.level == level) {
-            h = h->prev;
-            if (h == nullptr) {
-                h = list1.head;
-                while (h->next) {
-                    cout << h->data.ID << "//" << h->data.level << " ";
-                    h = h->next;
-                }
-                cout << h->data.ID << "//" << h->data.level;
-                return;
-            }
-        }
-        h = list1.head;
-        while (h) {
-            int a = count_ID(list1, h->data.ID);
-            if (a > 1) {
-                auto *h1 = h;
-                while (a > 1) {
-                    if (h1->data.ID == h->data.ID) {
-                        identifier_node *h2 = h1;
-                        identifier_node *h3 = h1->next;
-                        h1 = h1->prev;
-                        h1->next = h3;
-                        h3->prev = h1;
-                        if (h2 == list1.head) list1.head = h3;
-                        delete h2;
+SymbolTable::DLinkedList SymbolTable::copy(DLinkedList list) {
+    if (list.head == nullptr) return list;
+    DLinkedList list1;
+    identifier_node *h = list.head;
+    while (h) {
+        identifier_name h1(h->data.ID, h->data.type, h->data.value, h->data.level);
+        insert_list(list1, h1);
+        h = h->next;
+    }
+    return list1;
+}
+
+void SymbolTable::delete_same_ID(DLinkedList &list) {
+    if (list.head == nullptr) return;
+    auto h = list.head;
+    while (h) {
+        int a = count_ID(list, h->data.ID);
+        if (a > 1) {
+            auto *h1 = h;
+            string cur = h->data.ID;
+            while (a > 1) {
+                if (h1->data.ID == cur) {
+                    if (h == list.head) {
                         h1 = h1->next;
+                        list.head = list.head->next;
+                        free(h);
+                        list.head->prev = nullptr;
+                        h = h1;
                         a--;
+                    } else {
+                        h1 = h1->next;
+                        auto *h2 = h->prev;
+                        h2->next = h->next;
+                        h->next->prev = h2;
+                        free(h);
+                        h = h1;
                     }
                 }
+                h1 = h1->next;
+                if (h1 == nullptr) break;
+                h = h1;
             }
-            h = h->next;
         }
-        h = list1.head;
-        while (h->next) {
-            cout << h->data.ID << "//" << h->data.level << " ";
-            h = h->next;
-        }
-        cout << h->data.ID << "//" << h->data.level;
+        h = h->next;
     }
 }
 
-void SymbolTable::rprint(DLinkedList list, int level) {
-    DLinkedList list1(list.head, list.tail, list.size);
-    if (list1.head == nullptr) return;
-    else {
-        identifier_node *h = list1.tail;
-        while (h->data.level == level) {
-            h = h->prev;
-            if (h == nullptr) {
-                h = list1.tail;
-                while (h->prev) {
-                    cout << h->data.ID << "//" << h->data.level << " ";
-                    h = h->next;
-                }
-                cout << h->data.ID << "//" << h->data.level;
-                return;
-            }
-        }
-        h = list1.head;
-        while (h) {
-            int a = count_ID(list1, h->data.ID);
-            if (a > 1) {
-                auto *h1 = h;
-                while (a > 1) {
-                    if (h1->data.ID == h->data.ID) {
-                        identifier_node *h2 = h1;
-                        identifier_node *h3 = h1->next;
-                        h1 = h1->prev;
-                        h1->next = h3;
-                        h3->prev = h1;
-                        if (h2 == list1.head) list1.head = h3;
-                        delete h2;
-                        h1 = h1->next;
-                        a--;
-                    }
-                }
-            }
-            h = h->next;
-        }
-        h = list1.tail;
-        while (h->next) {
-            cout << h->data.ID << "//" << h->data.level << " ";
-            h = h->prev;
-        }
-        cout << h->data.ID << "//" << h->data.level;
+void SymbolTable::print(DLinkedList list, int level) {
+    if (list.head == nullptr) return;
+    DLinkedList list1 = copy(list);
+    delete_same_ID(list1);
+    auto h = list1.head;
+    while (h->next) {
+        cout << h->data.ID << "//" << h->data.level << " ";
+        h = h->next;
     }
+    cout << h->data.ID << "//" << h->data.level;
+}
+
+void SymbolTable::rprint(DLinkedList list, int level) {
+    if (list.head == nullptr) return;
+    DLinkedList list1 = copy(list);
+    delete_same_ID(list1);
+    auto h = list1.tail;
+    while (h->prev) {
+        cout << h->data.ID << "//" << h->data.level << " ";
+        h = h->prev;
+    }
+    cout << h->data.ID << "//" << h->data.level;
 }
 
 int SymbolTable::lookup(DLinkedList list, string ID) {
