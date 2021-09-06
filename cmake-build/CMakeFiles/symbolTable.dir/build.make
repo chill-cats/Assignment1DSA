@@ -73,15 +73,15 @@ CMakeFiles/symbolTable.dir/SymbolTable.cpp.o: CMakeFiles/symbolTable.dir/flags.m
 CMakeFiles/symbolTable.dir/SymbolTable.cpp.o: ../SymbolTable.cpp
 CMakeFiles/symbolTable.dir/SymbolTable.cpp.o: CMakeFiles/symbolTable.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hoangnhan/CLionProjects/assignmentDsaAlternative/cmake-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/symbolTable.dir/SymbolTable.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/symbolTable.dir/SymbolTable.cpp.o -MF CMakeFiles/symbolTable.dir/SymbolTable.cpp.o.d -o CMakeFiles/symbolTable.dir/SymbolTable.cpp.o -c /Users/hoangnhan/CLionProjects/assignmentDsaAlternative/SymbolTable.cpp
+	/usr/local/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/symbolTable.dir/SymbolTable.cpp.o -MF CMakeFiles/symbolTable.dir/SymbolTable.cpp.o.d -o CMakeFiles/symbolTable.dir/SymbolTable.cpp.o -c /Users/hoangnhan/CLionProjects/assignmentDsaAlternative/SymbolTable.cpp
 
 CMakeFiles/symbolTable.dir/SymbolTable.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/symbolTable.dir/SymbolTable.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/hoangnhan/CLionProjects/assignmentDsaAlternative/SymbolTable.cpp > CMakeFiles/symbolTable.dir/SymbolTable.cpp.i
+	/usr/local/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/hoangnhan/CLionProjects/assignmentDsaAlternative/SymbolTable.cpp > CMakeFiles/symbolTable.dir/SymbolTable.cpp.i
 
 CMakeFiles/symbolTable.dir/SymbolTable.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/symbolTable.dir/SymbolTable.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/hoangnhan/CLionProjects/assignmentDsaAlternative/SymbolTable.cpp -o CMakeFiles/symbolTable.dir/SymbolTable.cpp.s
+	/usr/local/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/hoangnhan/CLionProjects/assignmentDsaAlternative/SymbolTable.cpp -o CMakeFiles/symbolTable.dir/SymbolTable.cpp.s
 
 # Object files for target symbolTable
 symbolTable_OBJECTS = \
