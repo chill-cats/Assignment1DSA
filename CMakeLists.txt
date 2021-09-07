@@ -10,8 +10,8 @@ target_link_libraries(untitled26 symbolTable)
 
 if (CMAKE_CXX_COMPILER_ID STREQUAL "GNU"
         OR CMAKE_CXX_COMPILER_ID STREQUAL "Clang")
-    target_compile_options(untitled26 PRIVATE -fsanitize=address -fno-omit-frame-pointer)
-    target_compile_options(symbolTable PRIVATE -fsanitize=address -fno-omit-frame-pointer)
-    target_link_options(untitled26 PRIVATE -fsanitize=address -fno-omit-frame-pointer)
-    target_link_options(symbolTable PRIVATE -fsanitize=address -fno-omit-frame-pointer)
+    target_compile_options(untitled26 PRIVATE -fsanitize=address -fno-omit-frame-pointer -g -O0)
+    target_compile_options(symbolTable PRIVATE -fsanitize=address -fno-omit-frame-pointer -g -O0)
+    target_link_options(untitled26 PRIVATE -fsanitize=address -fno-omit-frame-pointer -g -O0)
+    target_link_options(symbolTable PRIVATE -fsanitize=address -fno-omit-frame-pointer -g -O0)
 endif()
