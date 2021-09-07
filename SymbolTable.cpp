@@ -71,13 +71,14 @@ bool SymbolTable::check_valid(string s) {
         a++;
       }
     }
+
     if (s1[0] == "INSERT") {
       if (check_valid_name(s1[1]) && check_tok(s) == 3) {
         if (s1[0] == "INSERT" && s1[2] != "number" && s1[2] != "string") {
           delete[] s1;
           return false;
         }
-
+        delete[] s1;
         return true;
       }
     } else if (s1[0] == "LOOKUP" &&
