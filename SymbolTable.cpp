@@ -109,6 +109,7 @@ int SymbolTable::count_line(string filename) {
 }
 
 void SymbolTable::run(string filename) {
+  std::cout << sizeof(identifier_node) << std::endl;
   DLinkedList list;
   int level = 0, count_begin = 0, count_end = 0, line = count_line(filename),
       count_line = 0;
@@ -141,25 +142,64 @@ void SymbolTable::run(string filename) {
           if (insert_list(list, newID)) {
             list.size++;
             cout << "success" << endl;
-          } else
+          } else {
+            delete[] s1;
+            identifier_node *temp = list.head;
+            while (temp != nullptr) {
+              auto toBeDeletedNode = temp;
+              temp = temp->next;
+              delete toBeDeletedNode;
+            }
             throw Redeclared(s);
+          }
         } else if (s1[0] == "ASSIGN") {
           string as = assign(list, s1[1], s1[2]);
           if (as == "success")
             cout << "success" << endl;
-          else if (as == "mismatch")
+          else if (as == "mismatch") {
+            delete[] s1;
+            identifier_node *temp = list.head;
+            while (temp != nullptr) {
+              auto toBeDeletedNode = temp;
+              temp = temp->next;
+              delete toBeDeletedNode;
+            }
             throw TypeMismatch(s);
-          else if (as == "undeclared")
+          } else if (as == "undeclared") {
+            delete[] s1;
+            identifier_node *temp = list.head;
+            while (temp != nullptr) {
+              auto toBeDeletedNode = temp;
+              temp = temp->next;
+              delete toBeDeletedNode;
+            }
             throw Undeclared(s);
-          else if (as == "invalid")
+          } else if (as == "invalid") {
+            delete[] s1;
+            identifier_node *temp = list.head;
+            while (temp != nullptr) {
+              auto toBeDeletedNode = temp;
+              temp = temp->next;
+              delete toBeDeletedNode;
+            }
             throw InvalidInstruction(s);
+          }
         } else if (s1[0] == "BEGIN") {
           level++;
           count_begin++;
         } else if (s1[0] == "END") {
           count_end++;
-          if (count_end > count_begin)
+          if (count_end > count_begin) {
+            delete[] s1;
+
+            identifier_node *temp2 = list.head;
+            while (temp2 != nullptr) {
+              auto toBeDeletedNode = temp2;
+              temp2 = temp2->next;
+              delete toBeDeletedNode;
+            }
             throw UnknownBlock();
+          }
           end(list, level);
           level--;
         } else if (s1[0] == "PRINT") {
@@ -167,25 +207,54 @@ void SymbolTable::run(string filename) {
         } else if (s1[0] == "RPRINT") {
           rprint(list);
         } else if (s1[0] == "LOOKUP") {
-          if (lookup(list, s1[1]) == -1)
+          if (lookup(list, s1[1]) == -1) {
+            delete[] s1;
+            identifier_node *temp = list.head;
+            while (temp != nullptr) {
+              auto toBeDeletedNode = temp;
+              temp = temp->next;
+              delete toBeDeletedNode;
+            }
             throw Undeclared(s);
-          else
+          } else {
             cout << lookup(list, s1[1]) << endl;
+          }
         }
-      } else
+        delete[] s1;
+      } else {
+        identifier_node *temp = list.head;
+        while (temp != nullptr) {
+          auto toBeDeletedNode = temp;
+          temp = temp->next;
+          delete toBeDeletedNode;
+        }
+        identifier_node *temp_lol = list.head;
+        while (temp != nullptr) {
+          auto toBeDeletedNode = temp;
+          temp_lol = temp_lol->next;
+          delete toBeDeletedNode;
+        }
         throw InvalidInstruction(s);
+      }
     }
     if (count_line == line) {
-      if (count_begin > count_end)
+      if (count_begin > count_end) {
+        identifier_node *temp = list.head;
+        while (temp != nullptr) {
+          auto toBeDeletedNode = temp;
+          temp = temp->next;
+          delete toBeDeletedNode;
+        }
         throw UnclosedBlock(level);
+      }
     }
   }
   myfile.close();
-  identifier_node *temp;
-  while (list.head != nullptr) {
-    temp = list.head;
-    list.head = list.head->next;
-    delete temp;
+  identifier_node *temp = list.head;
+  while (temp != nullptr) {
+    auto toBeDeletedNode = temp;
+    temp = temp->next;
+    delete toBeDeletedNode;
   }
 }
 
@@ -284,12 +353,15 @@ string SymbolTable::assign(DLinkedList &list, const string &ID,
 void SymbolTable::end(DLinkedList &list, int level) {
   if (list.head == nullptr)
     return;
+
   auto *h = list.head;
   while (h) {
     if (h->data.level == level) {
       if (list.head == list.tail) {
+        delete list.head;
         list.tail = nullptr;
         list.head = nullptr;
+
         return;
       }
       if (h == list.head) {
@@ -390,6 +462,12 @@ void SymbolTable::print(DLinkedList list) {
   }
   cout << h->data.ID << "//" << h->data.level;
   cout << endl;
+  identifier_node *temp = list1.head;
+  while (temp != nullptr) {
+    auto toBeDeletedNode = temp;
+    temp = temp->next;
+    delete toBeDeletedNode;
+  }
 }
 
 void SymbolTable::rprint(DLinkedList list) {
@@ -404,6 +482,12 @@ void SymbolTable::rprint(DLinkedList list) {
   }
   cout << h->data.ID << "//" << h->data.level;
   cout << endl;
+  identifier_node *temp = list1.head;
+  while (temp != nullptr) {
+    auto toBeDeletedNode = temp;
+    temp = temp->next;
+    delete toBeDeletedNode;
+  }
 }
 
 int SymbolTable::lookup(DLinkedList list, const string &ID) {
