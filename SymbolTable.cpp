@@ -2,12 +2,13 @@
 
 IdentifierList::~IdentifierList() {
     auto *current = this->tail;
-    while (current) {
-        auto deleteNode = current;
+    while (current != nullptr) {
+        auto *deleteNode = current;
 
         // set the pointer pointing from variable of the same name in parent scope to null
-        if (deleteNode->prevOfSameType)
+        if (deleteNode->prevOfSameType != nullptr) {
             deleteNode->prevOfSameType->nextOfSameType = nullptr;
+        }
 
         current = current->prevInSameScope;
 
@@ -18,15 +19,16 @@ IdentifierList::~IdentifierList() {
 }
 
 auto IdentifierList::containIdentifierWithName(const string &name) const -> Identifier * {
-    for (auto identifier = this->head; identifier != nullptr; identifier = identifier->nextInSameScope) {
-        if (identifier->id.name == name)
+    for (auto *identifier = this->head; identifier != nullptr; identifier = identifier->nextInSameScope) {
+        if (identifier->id.name == name) {
             return &identifier->id;
+        }
     }
     return nullptr;
 }
 
 auto IdentifierList::insert(const string &name, const IdentifierType type) -> void {
-    auto identifierNode = new IdentifierNode(Identifier(name, type), nullptr, this->tail);
+    auto *identifierNode = new IdentifierNode(Identifier(name, type), nullptr, this->tail);
 
     if (this->tail != nullptr) {
         identifierNode->prevInSameScope = this->tail;
@@ -35,6 +37,10 @@ auto IdentifierList::insert(const string &name, const IdentifierType type) -> vo
         this->head = identifierNode;
     }
     this->tail = identifierNode;
+}
+
+ScopeList::ScopeList() {
+    this->addInnerScope();
 }
 
 auto ScopeList::addInnerScope() -> void {
@@ -50,9 +56,9 @@ auto ScopeList::addInnerScope() -> void {
 }
 
 ScopeList::~ScopeList() {
-    auto current = this->innerMostScope;
-    while (current) {
-        auto deleteScope = current;
+    auto *current = this->innerMostScope;
+    while (current != nullptr) {
+        auto *deleteScope = current;
         current = current->parentScope;
         delete deleteScope;
     }
@@ -62,7 +68,7 @@ ScopeList::~ScopeList() {
 
 auto ScopeList::removeInnermostScope() -> void {
     if (this->globalScope != nullptr) {
-        auto temp = this->innerMostScope->parentScope;
+        auto *temp = this->innerMostScope->parentScope;
 
         delete this->innerMostScope;
 
@@ -115,59 +121,61 @@ auto SymbolTable::processLine(const string &line) -> std::string {
         handleInsert(identifierName, type, line);
 
         this->shouldPrint = true;
-        return {"success"};
+        return { "success" };
+    }
 
-    } else if (std::regex_search(line, matches, VALID_ASSIGN_REGEX)) {
+    if (std::regex_search(line, matches, VALID_ASSIGN_REGEX)) {
         const auto identifierName = matches[1];
         const auto value = matches[2];
         handleAssign(identifierName, value, line);
 
         this->shouldPrint = true;
-        return {"success"};
+        return { "success" };
+    }
 
-    } else if (std::regex_search(line, matches, VALID_LOOKUP_REGEX)) {
+    if (std::regex_search(line, matches, VALID_LOOKUP_REGEX)) {
         const auto identifierName = matches[1];
 
         this->shouldPrint = true;
         return std::to_string(handleLookup(identifierName, line));
+    }
 
-    } else if (std::regex_match(line, VALID_BEGIN_REGEX)) {
+    if (std::regex_match(line, VALID_BEGIN_REGEX)) {
         handleBegin();
 
         this->shouldPrint = false;
         return {};
+    }
 
-    } else if (std::regex_match(line, VALID_END_REGEX)) {
+    if (std::regex_match(line, VALID_END_REGEX)) {
         handleEnd();
 
         this->shouldPrint = false;
         return {};
+    }
 
-    } else if (std::regex_match(line, VALID_PRINT_REGEX)) {
+    if (std::regex_match(line, VALID_PRINT_REGEX)) {
         auto result = handlePrint();
 
         this->shouldPrint = !result.empty();
 
         return result;
-
-    } else if (std::regex_match(line, VALID_REVERSE_PRINT_REGEX)) {
+    }
+    if (std::regex_match(line, VALID_REVERSE_PRINT_REGEX)) {
         auto result = handleReversePrint();
 
         this->shouldPrint = !result.empty();
 
         return result;
-
     }
     throw InvalidInstruction(line);
 }
 
-auto
-SymbolTable::handleInsert(const std::string &identifierName, const std::string &type,
-                          const std::string &line) const -> void {
+auto SymbolTable::handleInsert(const std::string &identifierName, const std::string &type, const std::string &line) const -> void {
     IdentifierType idType = type == "string" ? IdentifierType::string : IdentifierType::number;
 
     auto foundIdentifierInInnerMostScope =
-            this->scopes.innerMostScope->containIdentifierWithName(identifierName) != nullptr;
+      this->scopes.innerMostScope->containIdentifierWithName(identifierName) != nullptr;
     if (foundIdentifierInInnerMostScope) {
         throw Redeclared(line);
     }
@@ -175,10 +183,10 @@ SymbolTable::handleInsert(const std::string &identifierName, const std::string &
     this->scopes.insert(identifierName, idType);
 
     // find the identifier node with the same name on the parents scope and set the next pointer
-    auto currentScope = this->scopes.innerMostScope->parentScope;
-    while (currentScope) {
+    auto *currentScope = this->scopes.innerMostScope->parentScope;
+    while (currentScope != nullptr) {
         auto *idNode = currentScope->idList.head;
-        while (idNode) {
+        while (idNode != nullptr) {
             if (idNode->id.name == identifierName) {
                 idNode->nextOfSameType = this->scopes.innerMostScope->idList.tail;
                 this->scopes.innerMostScope->idList.tail->prevOfSameType = idNode;
@@ -190,61 +198,64 @@ SymbolTable::handleInsert(const std::string &identifierName, const std::string &
     }
 }
 
-auto
-SymbolTable::handleAssign(const std::string &identifierName, const std::string &value,
-                          const std::string &line) const -> void {
+auto SymbolTable::handleAssign(const std::string &identifierName, const std::string &value, const std::string &line) const -> void {
     static const std::regex STRING_VALUE_REGEX(R"(^'[\dA-Za-z\s]+'$)");
     static const std::regex NUMBER_VALUE_REGEX(R"(^\d+$)");
 
     if (std::regex_match(value, NUMBER_VALUE_REGEX)) {
         auto type = IdentifierType::number;
 
-        auto id = this->scopes.containIdentifierWithName(identifierName);
-        if (id == nullptr)
+        auto *id = this->scopes.containIdentifierWithName(identifierName);
+        if (id == nullptr) {
             throw Undeclared(line);
-        if (id->type != type)
-            throw TypeMismatch(line);
-        id->value = value;
-    } else if (std::regex_match(value, STRING_VALUE_REGEX)) {
-        auto type = IdentifierType::string;
+        }
 
-        auto id = this->scopes.containIdentifierWithName(identifierName);
-        if (id == nullptr)
-            throw Undeclared(line);
-        if (id->type != type)
+        if (id->type != type) {
             throw TypeMismatch(line);
+        }
+
         id->value = value;
-    } else {
-        // value is identifier
-        auto *currentScope = this->scopes.innerMostScope;
-        Identifier *assignee = nullptr;
-        Identifier *assigner = nullptr;
-        while (currentScope && (assignee == nullptr || assigner == nullptr)) {
-            if (assignee == nullptr) {
-                assignee = currentScope->containIdentifierWithName(identifierName);
-            }
-            if (assigner == nullptr) {
-                assigner = currentScope->containIdentifierWithName(value);
-            }
-            currentScope = currentScope->parentScope;
-        }
-        if (assigner == nullptr || assignee == nullptr) {
-            throw Undeclared(line);
-        }
-        if (assignee->type != assigner->type) {
-            throw TypeMismatch(line);
-        }
-        assignee->value = assigner->value;
         return;
     }
+    if (std::regex_match(value, STRING_VALUE_REGEX)) {
+        auto type = IdentifierType::string;
 
-
+        auto *id = this->scopes.containIdentifierWithName(identifierName);
+        if (id == nullptr) {
+            throw Undeclared(line);
+        }
+        if (id->type != type) {
+            throw TypeMismatch(line);
+        }
+        id->value = value;
+        return;
+    }
+    // value is identifier
+    auto *currentScope = this->scopes.innerMostScope;
+    Identifier *assignee = nullptr;
+    Identifier *assigner = nullptr;
+    while (currentScope != nullptr && (assignee == nullptr || assigner == nullptr)) {
+        if (assignee == nullptr) {
+            assignee = currentScope->containIdentifierWithName(identifierName);
+        }
+        if (assigner == nullptr) {
+            assigner = currentScope->containIdentifierWithName(value);
+        }
+        currentScope = currentScope->parentScope;
+    }
+    if (assigner == nullptr || assignee == nullptr) {
+        throw Undeclared(line);
+    }
+    if (assignee->type != assigner->type) {
+        throw TypeMismatch(line);
+    }
+    assignee->value = assigner->value;
 }
 
 auto SymbolTable::handleLookup(const string &identifierName, const std::string &line) const -> int {
-    auto currentScope = this->scopes.innerMostScope;
-    while (currentScope) {
-        if (currentScope->containIdentifierWithName(identifierName)) {
+    auto *currentScope = this->scopes.innerMostScope;
+    while (currentScope != nullptr) {
+        if (currentScope->containIdentifierWithName(identifierName) != nullptr) {
             return currentScope->level;
         }
         currentScope = currentScope->parentScope;
@@ -265,10 +276,12 @@ auto SymbolTable::handleEnd() -> void {
 
 auto SymbolTable::handlePrint() const -> std::string {
     std::string output;
-    for (auto currentScope = this->scopes.globalScope;
-         currentScope != nullptr; currentScope = currentScope->childScope) {
-        for (auto identifier = currentScope->idList.head;
-             identifier != nullptr; identifier = identifier->nextInSameScope) {
+    for (auto *currentScope = this->scopes.globalScope;
+         currentScope != nullptr;
+         currentScope = currentScope->childScope) {
+        for (auto *identifier = currentScope->idList.head;
+             identifier != nullptr;
+             identifier = identifier->nextInSameScope) {
             if (identifier->nextOfSameType == nullptr) {
                 output += identifier->id.name;
                 output += "//";
@@ -277,17 +290,20 @@ auto SymbolTable::handlePrint() const -> std::string {
             }
         }
     }
-    if (output.empty())
+    if (output.empty()) {
         return output;
-    return {output.begin(), output.end() - 1};
+    }
+    return { output.begin(), output.end() - 1 };
 }
 
 auto SymbolTable::handleReversePrint() const -> std::string {
     std::string output;
-    for (auto currentScope = this->scopes.innerMostScope;
-         currentScope != nullptr; currentScope = currentScope->parentScope) {
-        for (auto identifier = currentScope->idList.tail;
-             identifier != nullptr; identifier = identifier->prevInSameScope) {
+    for (auto *currentScope = this->scopes.innerMostScope;
+         currentScope != nullptr;
+         currentScope = currentScope->parentScope) {
+        for (auto *identifier = currentScope->idList.tail;
+             identifier != nullptr;
+             identifier = identifier->prevInSameScope) {
             if (identifier->nextOfSameType == nullptr) {
                 output += identifier->id.name;
                 output += "//";
@@ -296,17 +312,15 @@ auto SymbolTable::handleReversePrint() const -> std::string {
             }
         }
     }
-    if (output.empty())
+    if (output.empty()) {
         return output;
-    return {output.begin(), output.end() - 1};
+    }
+    return { output.begin(), output.end() - 1 };
 }
 
 auto SymbolTable::detectUnclosedBlock() const -> void {
     auto level = this->scopes.innerMostScope->level;
-    if (level != 0)
+    if (level != 0) {
         throw UnclosedBlock(level);
-}
-
-SymbolTable::SymbolTable() {
-    this->scopes.addInnerScope();
+    }
 }

@@ -9,7 +9,7 @@ enum class IdentifierType {
 };
 
 class Identifier {
-public:
+  public:
     IdentifierType type = IdentifierType::string;
     std::string name;
     std::string value;
@@ -19,25 +19,25 @@ public:
 };
 
 class IdentifierNode {
-public:
+  public:
     Identifier id;
-    IdentifierNode *nextInSameScope{nullptr};
-    IdentifierNode *prevInSameScope{nullptr};
+    IdentifierNode *nextInSameScope{ nullptr };
+    IdentifierNode *prevInSameScope{ nullptr };
 
-    IdentifierNode *prevOfSameType{nullptr};
-    IdentifierNode *nextOfSameType{nullptr};
-public:
-    explicit IdentifierNode(Identifier id, IdentifierNode *next = nullptr, IdentifierNode *prev = nullptr,
-                            IdentifierNode *nextOfSameType = nullptr, IdentifierNode *prevOfSameType = nullptr) : id(
-            std::move(
-                    id)), nextInSameScope(next), prevInSameScope(prev), prevOfSameType(prevOfSameType), nextOfSameType(
-            nextOfSameType) {}
+    IdentifierNode *prevOfSameType{ nullptr };
+    IdentifierNode *nextOfSameType{ nullptr };
+
+    explicit IdentifierNode(Identifier id, IdentifierNode *next = nullptr, IdentifierNode *prev = nullptr, IdentifierNode *nextOfSameType = nullptr, IdentifierNode *prevOfSameType = nullptr) : id(
+      std::move(
+        id)),
+                                                                                                                                                                                                 nextInSameScope(next), prevInSameScope(prev), prevOfSameType(prevOfSameType), nextOfSameType(
+                                                                                                                                                                                                                                                                                 nextOfSameType) {}
 };
 
 class IdentifierList {
-public:
-    IdentifierNode *head{nullptr};
-    IdentifierNode *tail{nullptr};
+  public:
+    IdentifierNode *head{ nullptr };
+    IdentifierNode *tail{ nullptr };
 
     ~IdentifierList();
 
@@ -47,16 +47,16 @@ public:
 };
 
 class Scope {
-public:
+  public:
     IdentifierList idList;
     int level = 0;
 
-    Scope *parentScope{nullptr};
-    Scope *childScope{nullptr};
+    Scope *parentScope{ nullptr };
+    Scope *childScope{ nullptr };
 
-    explicit Scope(int level, Scope *parentScope = nullptr, Scope *childScope = nullptr) : level{level},
-                                                                                           parentScope{parentScope},
-                                                                                           childScope{childScope} {}
+    explicit Scope(int level, Scope *parentScope = nullptr, Scope *childScope = nullptr) : level{ level },
+                                                                                           parentScope{ parentScope },
+                                                                                           childScope{ childScope } {}
 
     [[nodiscard]] inline Identifier *containIdentifierWithName(const std::string &name) const {
         return this->idList.containIdentifierWithName(name);
@@ -68,24 +68,26 @@ public:
 };
 
 class ScopeList {
-public:
-    Scope *globalScope{nullptr};
-    Scope *innerMostScope{nullptr};
+  public:
+    Scope *globalScope{ nullptr };
+    Scope *innerMostScope{ nullptr };
 
     void addInnerScope();
 
     void removeInnermostScope();
+
+    ScopeList();
 
     inline void insert(const std::string &name, const IdentifierType type) const {
         this->innerMostScope->insert(name, type);
     }
 
     [[nodiscard]] inline Identifier *containIdentifierWithName(const std::string &name) const {
-        for (auto scope = innerMostScope; scope != nullptr; scope = scope->parentScope) {
-            auto id = scope->containIdentifierWithName(name);
-            if (id)
+        for (auto *scope = innerMostScope; scope != nullptr; scope = scope->parentScope) {
+            auto *id = scope->containIdentifierWithName(name);
+            if (id != nullptr) {
                 return id;
-
+            }
         }
         return nullptr;
     }
@@ -94,21 +96,19 @@ public:
 };
 
 class SymbolTable {
-public:
+  public:
     bool shouldPrint = false;
     ScopeList scopes;
 
-    SymbolTable();
-
     auto run(const string &filename) -> void;
 
-    auto processLine(const std::string &str) -> std::string;
+    auto processLine(const std::string &line) -> std::string;
 
     auto
-    handleInsert(const std::string &identifierName, const std::string &type, const std::string &line) const -> void;
+      handleInsert(const std::string &identifierName, const std::string &type, const std::string &line) const -> void;
 
     auto
-    handleAssign(const std::string &identifierName, const std::string &value, const std::string &line) const -> void;
+      handleAssign(const std::string &identifierName, const std::string &value, const std::string &line) const -> void;
 
     [[nodiscard]] auto handleLookup(const string &identifierName, const std::string &line) const -> int;
 
