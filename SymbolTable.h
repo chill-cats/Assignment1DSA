@@ -44,21 +44,23 @@ public:
 
     bool check_valid(string s);
 
-    bool insert_list(DLinkedList &list, identifier_name newID);
+    string substring(string s, int start, int end);
+
+    bool insert_list(DLinkedList &list, const identifier_name& newID);
 
     string type_of_value(string value);
 
-    string assign(DLinkedList &list, string ID, string value);
+    string assign(DLinkedList &list, const string& ID, const string& value);
 
     void end(DLinkedList &list, int level);
 
-    int count_ID(DLinkedList list, string ID);
+    int count_ID(DLinkedList list, const string& ID);
 
     void print(DLinkedList list);
 
     void rprint(DLinkedList list);
 
-    int lookup(DLinkedList list, string ID);
+    int lookup(DLinkedList list, const string& ID);
 
     DLinkedList copy(DLinkedList);
 

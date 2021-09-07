@@ -22,15 +22,22 @@ int SymbolTable::check_tok(string s) {
             else break;
         }
         if (s1 != "INSERT" && s1 != "ASSIGN" && s1 != "LOOKUP") return 0;
-        else {
+        else if (s1 == "INSERT" || s1 == "LOOKUP") {
             for (int i = 1; i < (int) s.length(); i++) {
                 if (s[i] == ' ' && i != (int) s.length() - 1 && s[i] != s[i - 1]) count++;
                 else if (s[i] == ' ' && (i == (int) s.length() - 1 || s[i] == s[i - 1])) return 0;
             }
             if (count > 2) return 0;
             return ++count;
+        } else if (s1 == "ASSIGN") {
+            for (int i = 1; i < (int) s.length(); i++) {
+                if (s[i] == ' ' && s[i] != s[i - 1]) count++;
+                else if (s[i] == ' ' && (i == (int) s.length() - 1 || s[i] == s[i - 1])) return 0;
+            }
+            if (count >= 2) return ++count;
         }
     }
+    return 0;
 }
 
 bool SymbolTable::check_valid(string s) {
@@ -43,12 +50,13 @@ bool SymbolTable::check_valid(string s) {
             if (s[i] != ' ') s1[a].push_back(s[i]);
             if (s[i] == ' ') a++;
         }
-        if (s1[0] == "INSERT" || s1[0] == "ASSIGN") {
+        if (s1[0] == "INSERT") {
             if (check_valid_name(s1[1]) && check_tok(s) == 3) {
                 if (s1[0] == "INSERT" && s1[2] != "number" && s1[2] != "string") return false;
                 return true;
             }
         } else if (s1[0] == "LOOKUP" && (check_valid_name(s1[1]) && check_tok(s) == 2)) return true;
+        if (s1[0] == "ASSIGN" && check_tok(s) >= 3) return true;
     } else return false;
     return false;
 }
@@ -69,7 +77,7 @@ int SymbolTable::count_line(string filename) {
 
 void SymbolTable::run(string filename) {
     DLinkedList list;
-    int level = 0, count_begin = 0, count_end = 0, n = count_line(filename), count_line = 0;
+    int level = 0, count_begin = 0, count_end = 0, line = count_line(filename), count_line = 0;
     ifstream myfile;
     myfile.open(filename);
     if (myfile.is_open()) {
@@ -79,47 +87,35 @@ void SymbolTable::run(string filename) {
             if (check_valid(s)) {
                 int n = check_tok(s);
                 auto* s1 = new string[n];
-                int a = 0;
+                int a = 0, x = 0;
                 for (int i = 0; i < (int) s.length(); i++) {
                     if (s[i] != ' ') s1[a].push_back(s[i]);
                     if (s[i] == ' ') a++;
+                    if (a > 2 && s[i] == ' ') x++;
+                }
+                for (int i = 3; i < n; i++) {
+                    if (x == 1) s1[2] = s1[2] + " ";
+                    s1[2] = s1[2] + s1[i];
+                    x--;
                 }
                 if (s1[0] == "INSERT") {
                     identifier_name newID(s1[1], s1[2], "", level);
                     if (insert_list(list, newID)) {
                         list.size++;
                         cout << "success" << endl;
-                    } else {
-                        Redeclared I(s);
-                        cout << I.what();
-                        break;
-                    }
+                    } else throw Redeclared(s);
                 } else if (s1[0] == "ASSIGN") {
                     string as = assign(list, s1[1], s1[2]);
                     if (as == "success") cout << "success" << endl;
-                    else if (as == "mismatch") {
-                        TypeMismatch I(s);
-                        cout << I.what();
-                        break;
-                    } else if (as == "undeclared") {
-                        Undeclared I(s);
-                        cout << I.what();
-                        break;
-                    } else if (as == "invalid") {
-                        InvalidInstruction I(s);
-                        cout << I.what();
-                        break;
-                    }
+                    else if (as == "mismatch") throw TypeMismatch(s);
+                    else if (as == "undeclared") throw Undeclared(s);
+                    else if (as == "invalid") throw InvalidInstruction(s);
                 } else if (s1[0] == "BEGIN") {
                     level++;
                     count_begin++;
                 } else if (s1[0] == "END") {
                     count_end++;
-                    if (count_end > count_begin) {
-                        UnknownBlock I;
-                        cout << I.what();
-                        break;
-                    }
+                    if (count_end > count_begin) throw UnknownBlock();
                     end(list, level);
                     level--;
                 } else if (s1[0] == "PRINT") {
@@ -127,36 +123,25 @@ void SymbolTable::run(string filename) {
                 } else if (s1[0] == "RPRINT") {
                     rprint(list);
                 } else if (s1[0] == "LOOKUP") {
-                    if (lookup(list, s1[1]) == -1) {
-                        Undeclared I(s);
-                        cout << I.what();
-                        break;
-                    } else cout << lookup(list, s1[1]) << endl;
+                    if (lookup(list, s1[1]) == -1) throw Undeclared(s);
+                    else cout << lookup(list, s1[1]) << endl;
                 }
-            } else {
-                InvalidInstruction I(s);
-                cout << I.what();
-                break;
-            }
+            } else throw InvalidInstruction(s);
         }
-        if (count_line == n) {
-            if (count_begin > count_end) {
-                UnclosedBlock s1 = UnclosedBlock(level);
-                UnclosedBlock I(s1);
-                cout << I.what();
-            }
+        if (count_line == line) {
+            if (count_begin > count_end) throw UnclosedBlock(level);
         }
     }
     myfile.close();
     identifier_node *temp;
-    while(list.head != nullptr) {
+    while (list.head != nullptr) {
         temp = list.head;
         list.head = list.head->next;
-        free(temp);
+        delete temp;
     }
 }
 
-bool SymbolTable::insert_list(DLinkedList &list, identifier_name element) {
+bool SymbolTable::insert_list(DLinkedList &list, const identifier_name& element) {
     auto *h1 = new identifier_node;
     h1->data = element;
     if (list.head == nullptr) {
@@ -164,27 +149,24 @@ bool SymbolTable::insert_list(DLinkedList &list, identifier_name element) {
         h1->next = nullptr;
         h1->prev = nullptr;
         list.tail = list.head;
-        h1 = nullptr; free(h1);
         return true;
     }
     auto *h = list.head;
     while (h->next != nullptr) {
         if (h->data.ID == element.ID && h->data.level == element.level) {
-            h = nullptr; free(h);
+            delete h1;
             return false;
         }
         h = h->next;
     }
     if (h->data.ID == element.ID && h->data.level == element.level) {
-        h = nullptr; free(h);
+        delete h1;
         return false;
     }
     h->next = h1;
     h1->next = nullptr;
     h1->prev = h;
     list.tail = h1;
-    h = nullptr; free(h);
-    h1 = nullptr; free(h1);
     return true;
 }
 
@@ -200,13 +182,9 @@ string SymbolTable::type_of_value(string value) {
     } else {
         int n = value.length();
         if (n == 1) return error;
-        if (n == 2) {
-            if (value[1] == '\'') return "string";
-            else return error;
-        }
         for (int i = 1; i < n - 1; i++) {
             if (value[i] != ' ') {
-                if ((value[i] < 'A' || value[i] > 'Z') && (value[i] < 'a' || value[i] > 'z') && (value[i] < '0' || value[i] > '9')) return error;
+                if ((value[i] < 'A' || value[i] > 'Z') && (value[i] < 'a' || value[i] > 'z') && (value[i] < '0' || value[i] > '9')) break;
             }
         }
         if (value[n - 1] == '\'') return "string";
@@ -214,9 +192,9 @@ string SymbolTable::type_of_value(string value) {
     return error;
 }
 
-string SymbolTable::assign(DLinkedList &list, string ID, string value) {
+string SymbolTable::assign(DLinkedList &list, const string& ID, const string& value) {
     if (type_of_value(value) == "invalid") return "invalid";
-    identifier_node *h = list.tail;
+    auto *h = list.tail;
     while (h) {
         if (h->data.ID == ID) {
             if (type_of_value(value) == "id") {
@@ -225,29 +203,20 @@ string SymbolTable::assign(DLinkedList &list, string ID, string value) {
                     if (h1->data.ID == value) {
                         if (h1->data.type == h->data.type) {
                             h->data.value = value;
-                            h = nullptr; free(h);
-                            h1 = nullptr; free(h1);
                             return "success";
                         } else return "mismatch";
                     }
                     h1 = h1->prev;
                 }
-                h = nullptr; free(h);
-                h1 = nullptr; free(h1);
                 return "undeclared";
             }
             if (type_of_value(value) == h->data.type) {
                 h->data.value = value;
-                h = nullptr; free(h);
                 return "success";
-            } else {
-                h = nullptr; free(h);
-                return "mismatch";
-            }
+            } else return "mismatch";
         }
         h = h->prev;
     }
-    h = nullptr; free(h);
     return "undeclared";
 }
 
@@ -259,58 +228,55 @@ void SymbolTable::end(DLinkedList &list, int level) {
             if (list.head == list.tail) {
                 list.tail = nullptr;
                 list.head = nullptr;
-                h = nullptr; free(h);
                 return;
             }
             if (h == list.head) {
                 list.head = list.head->next;
-                free(h);
+                delete h;
                 list.head->prev = nullptr;
                 h = list.head;
             } else if (h == list.tail) {
                 list.tail = list.tail->prev;
                 list.tail->next = nullptr;
-                free(h);
+                delete h;
                 break;
             } else {
                 auto *h2 = h->prev;
                 h2->next = h->next;
                 h->next->prev = h2;
-                free(h);
+                delete h;
                 h = h2->next;
             }
         } else h = h->next;
     }
-    h = nullptr; free(h);
 }
 
-int SymbolTable::count_ID(DLinkedList list, string ID) {
+int SymbolTable::count_ID(DLinkedList list, const string& ID) {
+    if (list.head == nullptr) return 0;
     auto *h = list.head;
     int count = 0;
     while (h) {
         if (h->data.ID == ID) count++;
         h = h->next;
     }
-    h = nullptr; free(h);
     return count;
 }
 
 SymbolTable::DLinkedList SymbolTable::copy(DLinkedList list) {
     if (list.head == nullptr) return list;
     DLinkedList list1;
-    identifier_node *h = list.head;
+    auto *h = list.head;
     while (h) {
         identifier_name h1(h->data.ID, h->data.type, h->data.value, h->data.level);
         insert_list(list1, h1);
         h = h->next;
     }
-    h = nullptr; free(h);
     return list1;
 }
 
 void SymbolTable::delete_same_ID(DLinkedList &list) {
     if (list.head == nullptr) return;
-    auto h = list.head;
+    auto *h = list.head;
     while (h) {
         int a = count_ID(list, h->data.ID);
         if (a > 1) {
@@ -321,7 +287,7 @@ void SymbolTable::delete_same_ID(DLinkedList &list) {
                     if (h == list.head) {
                         h1 = h1->next;
                         list.head = list.head->next;
-                        free(h);
+                        delete h;
                         list.head->prev = nullptr;
                         h = h1;
                         a--;
@@ -330,7 +296,7 @@ void SymbolTable::delete_same_ID(DLinkedList &list) {
                         auto *h2 = h->prev;
                         h2->next = h->next;
                         h->next->prev = h2;
-                        free(h);
+                        delete h;
                         h = h1;
                         a--;
                     }
@@ -342,7 +308,6 @@ void SymbolTable::delete_same_ID(DLinkedList &list) {
         }
         h = h->next;
     }
-    h = nullptr; free(h);
 }
 
 void SymbolTable::print(DLinkedList list) {
@@ -356,7 +321,6 @@ void SymbolTable::print(DLinkedList list) {
     }
     cout << h->data.ID << "//" << h->data.level;
     cout << endl;
-    h = nullptr; delete h;
 }
 
 void SymbolTable::rprint(DLinkedList list) {
@@ -370,15 +334,13 @@ void SymbolTable::rprint(DLinkedList list) {
     }
     cout << h->data.ID << "//" << h->data.level;
     cout << endl;
-    h = nullptr; delete h;
 }
 
-int SymbolTable::lookup(DLinkedList list, string ID) {
+int SymbolTable::lookup(DLinkedList list, const string& ID) {
     identifier_node *h = list.tail;
     while (h) {
         if (h->data.ID == ID) return h->data.level;
         h = h->prev;
     }
-    h = nullptr; delete h;
     return -1;
 }
