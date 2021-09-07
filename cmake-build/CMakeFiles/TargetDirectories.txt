@@ -1,3 +1,0 @@
-/Users/hoangnhan/CLionProjects/assignmentDsaAlternative/cmake-build/CMakeFiles/rebuild_cache.dir
-/Users/hoangnhan/CLionProjects/assignmentDsaAlternative/cmake-build/CMakeFiles/edit_cache.dir
-/Users/hoangnhan/CLionProjects/assignmentDsaAlternative/cmake-build/CMakeFiles/untitled26.dir
