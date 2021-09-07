@@ -16,3 +16,4 @@ for idx, file in enumerate(files):
     print("Test finished with status code %d" % returnCode)
     if returnCode != 0:
         print("\e[1m\e[31mERROR:\e[0m in file %s" % file)
+        exit(1)
