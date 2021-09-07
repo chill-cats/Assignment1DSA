@@ -63,8 +63,7 @@ CMAKE_BINARY_DIR = /Users/hoangnhan/CLionProjects/assignmentDsaAlternative/cmake
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles/main.dir/all
-all: CMakeFiles/symbolTable.dir/all
+all: CMakeFiles/untitled26.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -72,61 +71,34 @@ preinstall:
 .PHONY : preinstall
 
 # The main recursive "clean" target.
-clean: CMakeFiles/main.dir/clean
-clean: CMakeFiles/symbolTable.dir/clean
+clean: CMakeFiles/untitled26.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/main.dir
+# Target rules for target CMakeFiles/untitled26.dir
 
 # All Build rule for target.
-CMakeFiles/main.dir/all: CMakeFiles/symbolTable.dir/all
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/hoangnhan/CLionProjects/assignmentDsaAlternative/cmake-build/CMakeFiles --progress-num=1,2 "Built target main"
-.PHONY : CMakeFiles/main.dir/all
+CMakeFiles/untitled26.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled26.dir/build.make CMakeFiles/untitled26.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled26.dir/build.make CMakeFiles/untitled26.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/hoangnhan/CLionProjects/assignmentDsaAlternative/cmake-build/CMakeFiles --progress-num=1,2 "Built target untitled26"
+.PHONY : CMakeFiles/untitled26.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/main.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/hoangnhan/CLionProjects/assignmentDsaAlternative/cmake-build/CMakeFiles 4
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/main.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/hoangnhan/CLionProjects/assignmentDsaAlternative/cmake-build/CMakeFiles 0
-.PHONY : CMakeFiles/main.dir/rule
-
-# Convenience name for target.
-main: CMakeFiles/main.dir/rule
-.PHONY : main
-
-# clean rule for target.
-CMakeFiles/main.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/clean
-.PHONY : CMakeFiles/main.dir/clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/symbolTable.dir
-
-# All Build rule for target.
-CMakeFiles/symbolTable.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/symbolTable.dir/build.make CMakeFiles/symbolTable.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/symbolTable.dir/build.make CMakeFiles/symbolTable.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/hoangnhan/CLionProjects/assignmentDsaAlternative/cmake-build/CMakeFiles --progress-num=3,4 "Built target symbolTable"
-.PHONY : CMakeFiles/symbolTable.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/symbolTable.dir/rule: cmake_check_build_system
+CMakeFiles/untitled26.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/hoangnhan/CLionProjects/assignmentDsaAlternative/cmake-build/CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/symbolTable.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/untitled26.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/hoangnhan/CLionProjects/assignmentDsaAlternative/cmake-build/CMakeFiles 0
-.PHONY : CMakeFiles/symbolTable.dir/rule
+.PHONY : CMakeFiles/untitled26.dir/rule
 
 # Convenience name for target.
-symbolTable: CMakeFiles/symbolTable.dir/rule
-.PHONY : symbolTable
+untitled26: CMakeFiles/untitled26.dir/rule
+.PHONY : untitled26
 
 # clean rule for target.
-CMakeFiles/symbolTable.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/symbolTable.dir/build.make CMakeFiles/symbolTable.dir/clean
-.PHONY : CMakeFiles/symbolTable.dir/clean
+CMakeFiles/untitled26.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled26.dir/build.make CMakeFiles/untitled26.dir/clean
+.PHONY : CMakeFiles/untitled26.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

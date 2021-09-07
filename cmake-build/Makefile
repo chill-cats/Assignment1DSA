@@ -117,61 +117,24 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named main
+# Target rules for targets named untitled26
 
 # Build rule for target.
-main: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 main
-.PHONY : main
+untitled26: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 untitled26
+.PHONY : untitled26
 
 # fast build rule for target.
-main/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
-.PHONY : main/fast
-
-#=============================================================================
-# Target rules for targets named symbolTable
-
-# Build rule for target.
-symbolTable: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 symbolTable
-.PHONY : symbolTable
-
-# fast build rule for target.
-symbolTable/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/symbolTable.dir/build.make CMakeFiles/symbolTable.dir/build
-.PHONY : symbolTable/fast
-
-SymbolTable.o: SymbolTable.cpp.o
-.PHONY : SymbolTable.o
-
-# target to build an object file
-SymbolTable.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/symbolTable.dir/build.make CMakeFiles/symbolTable.dir/SymbolTable.cpp.o
-.PHONY : SymbolTable.cpp.o
-
-SymbolTable.i: SymbolTable.cpp.i
-.PHONY : SymbolTable.i
-
-# target to preprocess a source file
-SymbolTable.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/symbolTable.dir/build.make CMakeFiles/symbolTable.dir/SymbolTable.cpp.i
-.PHONY : SymbolTable.cpp.i
-
-SymbolTable.s: SymbolTable.cpp.s
-.PHONY : SymbolTable.s
-
-# target to generate assembly for a file
-SymbolTable.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/symbolTable.dir/build.make CMakeFiles/symbolTable.dir/SymbolTable.cpp.s
-.PHONY : SymbolTable.cpp.s
+untitled26/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled26.dir/build.make CMakeFiles/untitled26.dir/build
+.PHONY : untitled26/fast
 
 main.o: main.cpp.o
 .PHONY : main.o
 
 # target to build an object file
 main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/main.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled26.dir/build.make CMakeFiles/untitled26.dir/main.cpp.o
 .PHONY : main.cpp.o
 
 main.i: main.cpp.i
@@ -179,7 +142,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/main.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled26.dir/build.make CMakeFiles/untitled26.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -187,7 +150,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/main.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled26.dir/build.make CMakeFiles/untitled26.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 # Help Target
@@ -198,11 +161,7 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... main"
-	@echo "... symbolTable"
-	@echo "... SymbolTable.o"
-	@echo "... SymbolTable.i"
-	@echo "... SymbolTable.s"
+	@echo "... untitled26"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

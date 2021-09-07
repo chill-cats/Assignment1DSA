@@ -21,11 +21,11 @@ set(CMAKE_CXX_SIMULATE_VERSION "")
 
 
 
-set(CMAKE_AR "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar")
+set(CMAKE_AR "/usr/local/opt/llvm/bin/llvm-ar")
 set(CMAKE_CXX_COMPILER_AR "/usr/local/Cellar/llvm/12.0.1/bin/llvm-ar")
-set(CMAKE_RANLIB "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib")
+set(CMAKE_RANLIB "/usr/local/opt/llvm/bin/llvm-ranlib")
 set(CMAKE_CXX_COMPILER_RANLIB "/usr/local/Cellar/llvm/12.0.1/bin/llvm-ranlib")
-set(CMAKE_LINKER "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld")
+set(CMAKE_LINKER "/usr/local/opt/llvm/bin/ld.lld")
 set(CMAKE_MT "")
 set(CMAKE_COMPILER_IS_GNUCXX )
 set(CMAKE_CXX_COMPILER_LOADED 1)
