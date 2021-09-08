@@ -1,0 +1,2 @@
+/usr/local/opt/llvm/bin/llvm-ar qc libsymbolTable.a CMakeFiles/symbolTable.dir/SymbolTable.cpp.o
+/usr/local/opt/llvm/bin/llvm-ranlib libsymbolTable.a
