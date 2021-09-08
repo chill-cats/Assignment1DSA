@@ -5,7 +5,7 @@ IdentifierList::~IdentifierList() {
     while (current != nullptr) {
         auto *deleteNode = current;
 
-        // set the pointer pointing from variable of the same name in parent scope to null
+        // SeT the pointer pointing from variable of the same name in parent scope to null
         if (deleteNode->prevOfSameType != nullptr) {
             deleteNode->prevOfSameType->nextOfSameType = nullptr;
         }
@@ -182,7 +182,7 @@ auto SymbolTable::handleInsert(const std::string &identifierName, const std::str
 
     this->scopes.insert(identifierName, idType);
 
-    // find the identifier node with the same name on the parents scope and set the next pointer
+    // find the identifier node with the same name on the parents scope and SeT the next pointer
     auto *currentScope = this->scopes.innerMostScope->parentScope;
     while (currentScope != nullptr) {
         auto *idNode = currentScope->idList.head;
