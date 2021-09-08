@@ -1,4 +1,5 @@
 #include "SymbolTable.h"
+#include "error.h"
 
 IdentifierList::~IdentifierList() {
     auto *current = this->tail;
@@ -103,7 +104,7 @@ auto SymbolTable::run(const string &filename) -> void {
 
 auto SymbolTable::processLine(const string &line) -> std::string {
     static const regex VALID_INSERT_REGEX(R"(^INSERT[ ]([a-z]\w*)[ ](string|number)$)");
-    static const regex VALID_ASSIGN_REGEX(R"(^ASSIGN[ ]([a-z]\w*)[ ]([a-z]\w*|\d+|'[\dA-Za-z\s]+')$)");
+    static const regex VALID_ASSIGN_REGEX(R"(^ASSIGN[ ]([a-z]\w*)[ ]([a-z]\w*|\d+|'[\dA-Za-z\s]*')$)");
     static const regex VALID_LOOKUP_REGEX(R"(^LOOKUP[ ]([a-z]\w*)$)");
     static const regex VALID_BEGIN_REGEX(R"(^BEGIN$)");
     static const regex VALID_END_REGEX(R"(^END$)");
@@ -174,8 +175,7 @@ auto SymbolTable::processLine(const string &line) -> std::string {
 auto SymbolTable::handleInsert(const std::string &identifierName, const std::string &type, const std::string &line) const -> void {
     IdentifierType idType = type == "string" ? IdentifierType::string : IdentifierType::number;
 
-    auto foundIdentifierInInnerMostScope =
-      this->scopes.innerMostScope->containIdentifierWithName(identifierName) != nullptr;
+    auto foundIdentifierInInnerMostScope = this->scopes.innerMostScope->containIdentifierWithName(identifierName) != nullptr;
     if (foundIdentifierInInnerMostScope) {
         throw Redeclared(line);
     }
@@ -207,7 +207,7 @@ auto SymbolTable::handleAssign(const std::string &identifierName, const std::str
 
         auto *id = this->scopes.containIdentifierWithName(identifierName);
         if (id == nullptr) {
-            throw Undeclared(line);
+            throw Undeclared(identifierName);
         }
 
         if (id->type != type) {
@@ -222,7 +222,7 @@ auto SymbolTable::handleAssign(const std::string &identifierName, const std::str
 
         auto *id = this->scopes.containIdentifierWithName(identifierName);
         if (id == nullptr) {
-            throw Undeclared(line);
+            throw Undeclared(identifierName);
         }
         if (id->type != type) {
             throw TypeMismatch(line);
@@ -243,9 +243,15 @@ auto SymbolTable::handleAssign(const std::string &identifierName, const std::str
         }
         currentScope = currentScope->parentScope;
     }
-    if (assigner == nullptr || assignee == nullptr) {
-        throw Undeclared(line);
+
+    if (assignee == nullptr) {
+        throw Undeclared(identifierName);
     }
+
+    if (assigner == nullptr) {
+        throw Undeclared(value);
+    }
+
     if (assignee->type != assigner->type) {
         throw TypeMismatch(line);
     }
@@ -275,13 +281,8 @@ auto SymbolTable::handleEnd() -> void {
 }
 
 auto SymbolTable::handlePrint() const -> std::string {
-    std::string output;
-    for (auto *currentScope = this->scopes.globalScope;
-         currentScope != nullptr;
-         currentScope = currentScope->childScope) {
-        for (auto *identifier = currentScope->idList.head;
-             identifier != nullptr;
-             identifier = identifier->nextInSameScope) {
+    for (auto *currentScope = this->scopes.globalScope; currentScope != nullptr; currentScope = currentScope->childScope) {
+        for (auto *identifier = currentScope->idList.head; identifier != nullptr; identifier = identifier->nextInSameScope) {
             if (identifier->nextOfSameType == nullptr) {
                 output += identifier->id.name;
                 output += "//";
