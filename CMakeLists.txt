@@ -3,15 +3,4 @@ project(untitled26)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(untitled26 main.cpp main.h)
-add_library(symbolTable SymbolTable.h SymbolTable.cpp)
-
-target_link_libraries(untitled26 symbolTable)
-
-if (CMAKE_CXX_COMPILER_ID STREQUAL "GNU"
-        OR CMAKE_CXX_COMPILER_ID STREQUAL "Clang")
-    target_compile_options(untitled26 PRIVATE -fsanitize=address -fno-omit-frame-pointer -g -O0)
-    target_compile_options(symbolTable PRIVATE -fsanitize=address -fno-omit-frame-pointer -g -O0)
-    target_link_options(untitled26 PRIVATE -fsanitize=address -fno-omit-frame-pointer -g -O0)
-    target_link_options(symbolTable PRIVATE -fsanitize=address -fno-omit-frame-pointer -g -O0)
-endif()
+add_executable(untitled26 main.cpp)

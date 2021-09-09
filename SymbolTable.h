@@ -6,68 +6,59 @@ using namespace std;
 
 class SymbolTable {
 public:
-  SymbolTable() {}
-  void run(string filename);
+    SymbolTable() {}
+    void run(const string& filename);
 
-  struct identifier_name {
-    identifier_name() : ID(), type(), value(""), level(0) {}
-    identifier_name(string ID, string type, string value, int level)
-        : ID(ID), type(type), value(value), level(level) {}
-    string ID;
-    string type;
-    string value;
-    int level;
-  };
+    struct identifier_name {
+        identifier_name(): ID(), type(), value(""), level(0) {}
+        identifier_name(string ID, string type, string value, int level): ID(ID), type(type), value(value), level(level) {}
+        string ID;
+        string type;
+        string value;
+        int level;
+    };
 
-  struct identifier_node {
-    identifier_node() : data(identifier_name()), next(nullptr) {}
-    identifier_node(identifier_name data, identifier_node *next)
-        : data(data), next(next) {}
+    struct identifier_node {
+        identifier_node(): data(identifier_name()), next(nullptr) {}
+        identifier_node(identifier_name data, identifier_node* next): data(data), next(next) {}
 
-    identifier_name data;
-    identifier_node *next;
-    identifier_node *prev;
-  };
+        identifier_name data;
+        identifier_node* next;
+        identifier_node* prev;
+    };
 
-  struct DLinkedList {
-    DLinkedList() : head(nullptr), tail(nullptr), size(0) {}
-    DLinkedList(identifier_node *head, identifier_node *tail, int size)
-        : head(head), tail(tail), size(size) {}
+    struct DLinkedlisst{
+        DLinkedlisst(): head(nullptr), tail(nullptr), size(0) {}
+        DLinkedlisst(identifier_node* head, identifier_node* tail, int size): head(head), tail(tail), size(size) {}
 
-    identifier_node *head;
-    identifier_node *tail;
-    int size;
-  };
+        identifier_node* head;
+        identifier_node* tail;
+        int size;
+    };
 
-  int count_line(string filename);
+    int count_line(string filename);
 
-  int check_tok(string s);
+    bool insert_lisst(DLinkedlisst &lisst, const identifier_name& newID);
 
-  bool check_valid_name(string s);
+    string type_of_value(string value);
 
-  bool check_valid(string s);
+    string assign_lisst(DLinkedlisst &lisst, const string& ID, const string& value);
 
-  string substring(string s, int start, int end);
+    void end_lisst(DLinkedlisst &lisst, int level);
 
-  bool insert_list(DLinkedList &list, const identifier_name &newID);
+    int count_ID(DLinkedlisst lisst, const string& ID);
 
-  string type_of_value(string value);
+    void print_lisst(DLinkedlisst lisst);
 
-  string assign(DLinkedList &list, const string &ID, const string &value);
+    void rprint_lisst(DLinkedlisst lisst);
 
-  void end(DLinkedList &list, int level);
+    int lookup_lisst(DLinkedlisst lisst, const string& ID);
 
-  int count_ID(DLinkedList list, const string &ID);
+    DLinkedlisst copy_lisst(DLinkedlisst);
 
-  void print(DLinkedList list);
+    void delete_same_ID(DLinkedlisst &lisst);
 
-  void rprint(DLinkedList list);
-
-  int lookup(DLinkedList list, const string &ID);
-
-  DLinkedList copy(DLinkedList);
-
-  void delete_same_ID(DLinkedList &list);
+    void destroy_lisst(DLinkedlisst &lisst);
 };
 
 #endif
