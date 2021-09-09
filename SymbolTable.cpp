@@ -172,7 +172,16 @@ string SymbolTable::checkLOOKUP(List& list, string S) {
             if (temp1->data[0] == 'I') {
                 string s1;
                 for (int j = 7; temp1->data[j] != ' '; j++) s1 += temp1->data[j];
-                if (s1 == s && temp1->level <= scope) return to_string(temp1->level);
+                if (s1 == s && temp1->level <= scope) {
+                    int n = temp1->level;
+                    while (head != nullptr) {
+                        DNode* temp1 = head;
+                        head = head->next;
+                        delete temp1;
+                        temp1 = nullptr;
+                    }
+                    return to_string(n);
+                }
             }
             temp1 = temp1->prev;
         }
