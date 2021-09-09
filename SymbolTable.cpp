@@ -4,7 +4,6 @@
 SymbolTable::SymbolTable(){
     this->global_list = new Idn_List;
     this->curList = global_list;
-    this->track_list = new Idn_List;
 }
 SymbolTable::~SymbolTable(){
     this->cleanup();
@@ -29,17 +28,10 @@ void SymbolTable::run(string filename) {
                 this->lookup(line);
                 cout << endl;
             }
-            else if (command.first =="BEGIN"){
-                this->new_scope();
-            }
-            else if (command.first =="END"){
-                this->end_scope();
-            }
-            else if (command.first == "PRINT"){
-                this->print();
-            }
-            else if(command.first =="RPRINT")
-                this->rprint();
+            else if (command.first =="BEGIN")   this->new_scope();
+            else if (command.first =="END")     this->end_scope();
+            else if (command.first == "PRINT")  this->print();
+            else if(command.first =="RPRINT")   this->rprint();
         }
         handle_end_file();
     }
@@ -54,7 +46,7 @@ void SymbolTable::cleanup(){
         tmp = tmp->parent;
         delete del;
     }
-    delete this->track_list;
+
 }
 pair<string, int> SymbolTable::process(string line){
     static const regex valid_insert("^INSERT[ ][a-z][a-zA-Z0-9_]*[ ](?:number|string)$");
@@ -98,10 +90,7 @@ pair<string, int> SymbolTable::process(string line){
         return command;
     }
     //Do not match all
-    else{
-        InvalidInstruction invalid = InvalidInstruction(line);
-        throw invalid;
-    }
+    else    throw InvalidInstruction(line);
 }
 
 void SymbolTable::insert(string line){
@@ -111,21 +100,21 @@ void SymbolTable::insert(string line){
 
     Identifier a = Identifier(name, type, "");
     Idn_Node *main_node = new Idn_Node(a);
-    Idn_Node *track_node = new Idn_Node(a); //Allocating a new node
-    
     main_node->setLevel(this->curList->level);
-    track_node->setLevel(this->curList->level);
-
     this->curList->append(main_node);
-
-    //Enable or disable print property
-    //Note that track_node will have the same identifier with tmp_track
-    Idn_Node *tmp_track = this->track_list->getNode(name); // Existed in track list or not
-    if(tmp_track != NULL){ //If exist
-        tmp_track->enable = false;
+    
+    int current_level = this->curList->level;
+    if(current_level != 0){
+        Idn_List *tmp_track = this->curList->parent; //Finding the same name in the previous scope
+        while (tmp_track)
+        {
+            Idn_Node *tmp_node = tmp_track->getNode(main_node->data.name);
+            if(tmp_node != nullptr){
+                tmp_node->enable = false;
+            }
+            tmp_track = tmp_track->parent;
+        }
     }
-    track_node->enable = true;
-    this->track_list->append(track_node);
     cout << "success";
 }
 void SymbolTable::assign(string line, int type){
@@ -167,15 +156,15 @@ void SymbolTable::lookup(string line){
     Idn_List *tmp = this->curList;
     Idn_Node *name_node = NULL;
     while(tmp){
-        name_node = tmp->getNode(name);
+        name_node = tmp->getNode(name); //Check whether exist in current scope
         if(name_node != NULL){
             cout << tmp->level;
             break;
         }  
-        else tmp = tmp->parent; 
+        else tmp = tmp->parent; //if not move to the outer scope
     }
     if(name_node == NULL){
-        throw Undeclared(line);
+        throw Undeclared(line); //If cannot find
     } 
 }
 void SymbolTable::new_scope(){
@@ -194,59 +183,62 @@ The procedure will be:
     this->curList = this->curList->child;
 }
 void SymbolTable::end_scope(){
-    int current_level = this->curList->level;
+    int current_level = this->curList->level;   
+    //TRACKING FOR DISABLED AND ENABLED
+    if(current_level != 0){
+        Idn_List *tmp_track = this->curList->parent;
+        while(tmp_track){ //Consider each outer list
+            Idn_Node *track = this->curList->head;
+            while(track){
+                Idn_Node *tmp = tmp_track->getNode(track->data.name);
+                if(tmp != nullptr){
+                    tmp->enable = true;
+                }
+                track = track->next;
+            }
+            tmp_track = tmp_track->parent;
+        }
+    }
     if(current_level == 0){
-        //if(this->global_list->head != NULL) {
-        //    delete global_list; 
-        //    delete track_list;
-        // }
         throw UnknownBlock();
     }
     else{
+        //this->curList->parent->printout();
         Idn_List *tmp = this->curList;
         this->curList = this->curList->parent; //Shifting to the previous list.
+        tmp->parent = nullptr; tmp->child = nullptr;
         delete tmp;
     }
-    //Tracking to disable
-    Idn_Node *track_disable = this->track_list->head;
-    while(track_disable != NULL){
-        if(track_disable->node_level == current_level){
-           track_disable->enable = false;
-           track_disable = track_disable->next; 
-        } //If in the same level -> Disable
-        else{
-            track_disable->enable = true;
-            track_disable = track_disable->next;
-        }
-    }
+    //Tracking to disable and enable 
 }
 void SymbolTable::print(){
-    Idn_Node *tmp = this->track_list->head;
-    while (tmp)
-    {
-        if(tmp->next == NULL){//The last element -> do not leave a space
-            if(tmp->enable == true) cout << tmp->data.name <<"//"<<tmp->node_level << endl;
-            
-        }
-        else{
-            if(tmp->enable == true) cout <<tmp->data.name<<"//"<<tmp->node_level <<" ";
-        } 
-        tmp = tmp->next;
-    }
+    Idn_List *track_list = tracking();
+    track_list->printBackward();
+    delete track_list;
 }
 void SymbolTable::rprint(){
-    Idn_Node *tmp = this->track_list->tail;
-    while (tmp)
-    {
-        if(tmp->prev == NULL){//The last element -> do not leave a space
-            if(tmp->enable == true) cout << tmp->data.name <<"//"<<tmp->node_level << endl;
-            
+    Idn_List *track_list = tracking();
+    track_list->printForward();
+    delete track_list;
+}
+Idn_List* SymbolTable::tracking(){
+    Idn_List * track_list = new Idn_List;
+    Idn_List *tmp_track = this->curList;
+    while(tmp_track){
+        Idn_Node *tmp_tail = tmp_track->tail;
+        while(tmp_tail){ //If tmp_head not null
+            if(tmp_tail->enable == true){    //If ready to print
+                if(track_list->find(tmp_tail->data.name) == false){
+                    Idn_Node *print_node = new Idn_Node(tmp_tail->data);
+                    print_node->setLevel(tmp_track->level);
+                    track_list->append(print_node);
+                }
+            }
+            tmp_tail = tmp_tail->prev;
         }
-        else{
-            if(tmp->enable == true) cout <<tmp->data.name<<"//"<<tmp->node_level <<" ";
-        } 
-        tmp = tmp->prev;
+        tmp_track = tmp_track->parent;
     }
+    return track_list;
 }
 int SymbolTable::handle_exception_assign(string line){
 // Return a number corresponding to the type of value
@@ -343,14 +335,6 @@ void SymbolTable::handle_end_file(){
     }
 }
 
-void SymbolTable::printList(){
-    Idn_List *tmp = this->curList;
-    while(tmp){
-        tmp->printout();
-        tmp = tmp->parent;
-    }
-}
-
 // ================== Identifier ===================
 Identifier::Identifier(string name, string type, string value){
     this->name = name;
@@ -366,6 +350,7 @@ Idn_Node::Idn_Node(Identifier data){
     this->next = NULL;
     this->prev = NULL;
     this->node_level = 0;
+    this->enable = true;
 }
 Idn_Node::~Idn_Node(){}
 Idn_Node::Idn_Node(){
@@ -382,6 +367,8 @@ void Idn_Node::setLevel(int level){
 Idn_List::Idn_List(){
     this->head = NULL;
     this->tail = NULL;
+    this->parent = NULL;
+    this->child = NULL;
     this->size = 0;
     this->level = 0;
 }
@@ -407,9 +394,8 @@ void Idn_List::append(Idn_Node *node){
         node->prev = tail;
         this->tail = node;
     }
-    this->size++;
+    this->size++; 
 }
-
 bool Idn_List::find(string name){
     Idn_Node *tmp = this->head;
     if(tmp == NULL) return false;
@@ -432,14 +418,49 @@ Idn_Node* Idn_List::getNode(string name){
     }
     return NULL;
 }
+void Idn_List::printForward(){
+    Idn_Node *tmp = this->head;
+    if(tmp != nullptr){
+        cout <<tmp->data.name<<"//"<<tmp->node_level;
+        tmp = tmp->next;
+        if(tmp == nullptr) cout << endl;
+    }
+    while(tmp){
+        cout<<" "<<tmp->data.name<<"//"<<tmp->node_level;
+        tmp = tmp->next;
+        if(tmp == nullptr) cout << endl;
+    }
+}
 
-
+void Idn_List::printBackward(){
+    Idn_Node *tmp = this->tail;
+    if(tmp != nullptr){
+        cout <<tmp->data.name<<"//"<<tmp->node_level;
+        tmp = tmp->prev;
+        if(tmp == nullptr) cout << endl;
+    }
+    while(tmp){
+        cout<<" "<<tmp->data.name<<"//"<<tmp->node_level;
+        tmp = tmp->prev;
+        if(tmp == nullptr) cout << endl;
+    }
+}
+void Idn_List::destroy_node(){
+    Idn_Node *tmp = this->head;
+    if(tmp!=NULL){
+        while(tmp){
+            Idn_Node*del = tmp;
+            tmp = tmp->next;
+            delete del;
+        }
+    }
+}
 void Idn_List::printout(){
     if(this->head == NULL) cout <<"EMPTY" << endl; //Testing
     else{
         Idn_Node *tmp = this->head;
         while(tmp){
-            cout << tmp->data.name<<" -level: "<<tmp->node_level<<" value: " << tmp->data.value << endl;
+            cout << tmp->data.name<<" -level: "<<tmp->node_level<<" value: " << tmp->data.value <<"Enable: " << tmp->enable<< endl;
             tmp = tmp->next;
         }
     }
