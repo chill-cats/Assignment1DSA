@@ -281,6 +281,7 @@ auto SymbolTable::handleEnd() -> void {
 }
 
 auto SymbolTable::handlePrint() const -> std::string {
+    std::string output;
     for (auto *currentScope = this->scopes.globalScope; currentScope != nullptr; currentScope = currentScope->childScope) {
         for (auto *identifier = currentScope->idList.head; identifier != nullptr; identifier = identifier->nextInSameScope) {
             if (identifier->nextOfSameType == nullptr) {
