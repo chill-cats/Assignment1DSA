@@ -1,7 +1,0 @@
-INSERT x number
-INSERT y string
-ASSIGN x 15
-BEGIN
-INSERT y number
-RPRINT
-END
