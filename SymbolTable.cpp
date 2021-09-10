@@ -57,9 +57,7 @@ auto ScopeList::removeInnermostScope() -> void {
 }
 
 auto SymbolTable::run(const string &filename) -> void {
-
     std::ifstream fileInput(filename);
-
     std::string line;
     while (std::getline(fileInput, line)) {
         auto output = this->processLine(line);
@@ -181,7 +179,11 @@ auto SymbolTable::handleAssign(const std::string &identifierName, const std::str
 
         auto *id = this->scopes.containIdentifierWithName(identifierName);
         if (id == nullptr) {
+#ifdef __EMSCRIPTEN__
+            throw Undeclared(line);
+#else
             throw Undeclared(identifierName);
+#endif
         }
 
         if (id->type != type) {
@@ -196,7 +198,11 @@ auto SymbolTable::handleAssign(const std::string &identifierName, const std::str
 
         auto *id = this->scopes.containIdentifierWithName(identifierName);
         if (id == nullptr) {
+#ifdef __EMSCRIPTEN__
+            throw Undeclared(line);
+#else
             throw Undeclared(identifierName);
+#endif
         }
         if (id->type != type) {
             throw TypeMismatch(line);
@@ -219,13 +225,19 @@ auto SymbolTable::handleAssign(const std::string &identifierName, const std::str
     }
 
     if (assigner == nullptr) {
+#ifdef __EMSCRIPTEN__
+        throw Undeclared(line);
+#else
         throw Undeclared(value);
+#endif
     }
-
     if (assignee == nullptr) {
+#ifdef __EMSCRIPTEN__
+        throw Undeclared(line);
+#else
         throw Undeclared(identifierName);
+#endif
     }
-
     if (assignee->type != assigner->type) {
         throw TypeMismatch(line);
     }
@@ -240,7 +252,11 @@ auto SymbolTable::handleLookup(const string &identifierName, const std::string &
         }
         currentScope = currentScope->parentScope;
     }
+#ifdef __EMSCRIPTEN__
     throw Undeclared(line);
+#else
+    throw Undeclared(identifierName);
+#endif
 }
 
 auto SymbolTable::handleBegin() -> void {
