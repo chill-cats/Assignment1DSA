@@ -1,0 +1,138 @@
+
+struct ID {
+    std::string name;
+    std::string type;
+    
+    std::string value;
+    int level;
+
+    ID(name, type, level, value = "")
+}
+
+class DLinkedList {
+    ptr *head = nullptr;
+    ptr *tail = nullptr;
+
+    int current_level = 0;
+
+    DLinkedList() = default;
+    DLinkedlist(const DLinkedlist &other);
+    ~DLinkedlist() {
+        // xoa het node trong list
+    }
+    void pushBack(ID id);
+    void popBack();
+
+    void pushFront(ID id)
+    void popFront();
+
+    void removeDuplicate(); 
+    int countID();
+
+    void print();
+    void reversePrint();
+
+    int lookup();
+    
+    auto print(); -> string {
+        removeDuplicate
+        for (ptr = this->head
+        return 1 cai string duoi dang x//1 y//2
+    }
+
+    auto rprint(); -> string {
+
+        printList(this);
+        printList.removeDuplicate
+        for (ptr = print->tail
+        y//2 x//1
+    }
+}
+
+class SymbolTable {
+    DLinkedlist scopes;
+
+    void run() {
+        // regex
+        file file(filename) 
+        string eachLine
+        while(readLine) {
+            if 
+            if
+            if 
+            throw invalid
+        }
+    }
+}
+DLinkedlist new_list(list);
+new_list.removeDuplicate();
+
+
+endScope() {
+    if (current_level <= 0) {
+        throw UnknowBlock
+    }
+    auto ptr = tail
+    while (ptr->id.level != current_level) {
+        auto toBeDelete = ptr;
+        ptr = ptr->prev;
+        delete toBeDelete;
+        ptr->next = nullptr
+    }
+}
+
+beginScope() {
+    this->current_level++;
+}
+
+insert(std::string name, std::string type) {
+    this->pushBack(ID(name, type, this->current_level));
+}
+
+assign(string name, string value) {
+    // code check value la string hay number hay id khac
+    if (std::match(value, string_regex) {
+
+        for (auto *ptr = this->tail; ptr != nullptr; ptr = ptr->prev) {
+            if (ptr->data.name == name) {
+                if (ptr->data.type == "string") {
+                    // gan
+                } else {
+                    throw typmismatch
+                }
+            }
+        }
+        throw Undeclared;
+    }
+    if (std::match(value, number_regex) {
+        // see above 
+        return;
+    }
+    // kiem bien dc gan
+    // kiem bien de gan
+    // neu bien dc gan k ton tai
+    // throw undeclared(bien dc gan)
+    // new bien de gan k ton tai
+    // thow undeclared
+    // neu type khac nhau
+    // throw type missmatch
+    // neu giong thi gan
+}
+
+
+
+std::regex_search(.....)
+smatch[1] name
+smatch[2] type
+
+insert(name, type);
+
+INSERT x string = x//0
+INSERT a  = x//0 -> a//0
+BEGIN     = x//0 -> a//0
+INSERT x  = x//0 -> a//0 -> x//1
+INSERT b  = x//0 -> a//0 -> x//1 -> b//1
+END       = x//0 -> a//0 -> nullptr
+INSERT y  = x//0 -> a//0 -> y//0
+
+
