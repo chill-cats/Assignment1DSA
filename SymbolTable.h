@@ -21,22 +21,18 @@ class Identifier {
 class IdentifierNode {
   public:
     Identifier id;
-    IdentifierNode *nextInSameScope{ nullptr };
+    std::unique_ptr<IdentifierNode> nextInSameScope;
     IdentifierNode *prevInSameScope{ nullptr };
 
     IdentifierNode *prevOfSameType{ nullptr };
     IdentifierNode *nextOfSameType{ nullptr };
 
-    explicit IdentifierNode(Identifier id, IdentifierNode *next = nullptr, IdentifierNode *prev = nullptr, IdentifierNode *nextOfSameType = nullptr, IdentifierNode *prevOfSameType = nullptr) : id(
-      std::move(
-        id)),
-                                                                                                                                                                                                 nextInSameScope(next), prevInSameScope(prev), prevOfSameType(prevOfSameType), nextOfSameType(
-                                                                                                                                                                                                                                                                                 nextOfSameType) {}
+    explicit IdentifierNode(Identifier id, IdentifierNode *next = nullptr, IdentifierNode *prev = nullptr, IdentifierNode *nextOfSameType = nullptr, IdentifierNode *prevOfSameType = nullptr) : id(std::move(id)), nextInSameScope{ next }, prevInSameScope(prev), prevOfSameType(prevOfSameType), nextOfSameType(nextOfSameType) {}
 };
 
 class IdentifierList {
   public:
-    IdentifierNode *head{ nullptr };
+    std::unique_ptr<IdentifierNode> head;
     IdentifierNode *tail{ nullptr };
 
     ~IdentifierList();
@@ -52,7 +48,7 @@ class Scope {
     int level = 0;
 
     Scope *parentScope{ nullptr };
-    Scope *childScope{ nullptr };
+    std::unique_ptr<Scope> childScope;
 
     explicit Scope(int level, Scope *parentScope = nullptr, Scope *childScope = nullptr) : level{ level },
                                                                                            parentScope{ parentScope },
@@ -69,7 +65,7 @@ class Scope {
 
 class ScopeList {
   public:
-    Scope *globalScope{ nullptr };
+    std::unique_ptr<Scope> globalScope;
     Scope *innerMostScope{ nullptr };
 
     void addInnerScope();

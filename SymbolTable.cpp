@@ -1,26 +1,17 @@
 #include "SymbolTable.h"
-#include "error.h"
 
 IdentifierList::~IdentifierList() {
-    auto *current = this->tail;
-    while (current != nullptr) {
-        auto *deleteNode = current;
-
-        // SeT the pointer pointing from variable of the same name in parent scope to null
-        if (deleteNode->prevOfSameType != nullptr) {
-            deleteNode->prevOfSameType->nextOfSameType = nullptr;
+    while (this->head) {
+        if (this->head->prevOfSameType != nullptr) {
+            this->head->prevOfSameType->nextOfSameType = nullptr;
         }
-
-        current = current->prevInSameScope;
-
-        delete deleteNode;
+        head = std::move(head->nextInSameScope);
     }
-    this->head = nullptr;
-    this->tail = this->head;
 }
 
+
 auto IdentifierList::containIdentifierWithName(const string &name) const -> Identifier * {
-    for (auto *identifier = this->head; identifier != nullptr; identifier = identifier->nextInSameScope) {
+    for (auto *identifier = this->head.get(); identifier != nullptr; identifier = identifier->nextInSameScope.get()) {
         if (identifier->id.name == name) {
             return &identifier->id;
         }
@@ -29,15 +20,13 @@ auto IdentifierList::containIdentifierWithName(const string &name) const -> Iden
 }
 
 auto IdentifierList::insert(const string &name, const IdentifierType type) -> void {
-    auto *identifierNode = new IdentifierNode(Identifier(name, type), nullptr, this->tail);
-
-    if (this->tail != nullptr) {
-        identifierNode->prevInSameScope = this->tail;
-        identifierNode->prevInSameScope->nextInSameScope = identifierNode;
+    if (this->tail == nullptr) {
+        this->head = std::make_unique<IdentifierNode>(Identifier(name, type));
+        this->tail = this->head.get();
     } else {
-        this->head = identifierNode;
+        this->tail->nextInSameScope = std::make_unique<IdentifierNode>(Identifier(name, type), nullptr, this->tail);
+        this->tail = this->tail->nextInSameScope.get();
     }
-    this->tail = identifierNode;
 }
 
 ScopeList::ScopeList() {
@@ -45,41 +34,26 @@ ScopeList::ScopeList() {
 }
 
 auto ScopeList::addInnerScope() -> void {
-    auto *newScope = new Scope(0, this->innerMostScope, nullptr);
-
-    if (this->innerMostScope != nullptr) {
-        newScope->level = this->innerMostScope->level + 1;
-        newScope->parentScope->childScope = newScope;
+    if (this->innerMostScope == nullptr) {
+        this->globalScope = std::make_unique<Scope>(0);
+        this->innerMostScope = this->globalScope.get();
     } else {
-        this->globalScope = newScope;
+        this->innerMostScope->childScope = std::make_unique<Scope>(this->innerMostScope->level + 1, this->innerMostScope);
+        this->innerMostScope = this->innerMostScope->childScope.get();
     }
-    this->innerMostScope = newScope;
 }
 
 ScopeList::~ScopeList() {
-    auto *current = this->innerMostScope;
-    while (current != nullptr) {
-        auto *deleteScope = current;
-        current = current->parentScope;
-        delete deleteScope;
+    while (this->innerMostScope != this->globalScope.get()) {
+        this->innerMostScope = this->innerMostScope->parentScope;
+        auto a = std::move(this->innerMostScope->childScope);
     }
-    this->innerMostScope = nullptr;
-    this->globalScope = this->innerMostScope;
+    auto a = std::move(this->globalScope);
 }
 
 auto ScopeList::removeInnermostScope() -> void {
-    if (this->globalScope != nullptr) {
-        auto *temp = this->innerMostScope->parentScope;
-
-        delete this->innerMostScope;
-
-        this->innerMostScope = temp;
-        if (this->innerMostScope == nullptr) {
-            this->globalScope = nullptr;
-        } else {
-            this->innerMostScope->childScope = nullptr;
-        }
-    }
+    this->innerMostScope = this->innerMostScope->parentScope;
+    auto a = std::move(this->innerMostScope->childScope);
 }
 
 auto SymbolTable::run(const string &filename) -> void {
@@ -185,14 +159,14 @@ auto SymbolTable::handleInsert(const std::string &identifierName, const std::str
     // find the identifier node with the same name on the parents scope and SeT the next pointer
     auto *currentScope = this->scopes.innerMostScope->parentScope;
     while (currentScope != nullptr) {
-        auto *idNode = currentScope->idList.head;
+        auto *idNode = currentScope->idList.head.get();
         while (idNode != nullptr) {
             if (idNode->id.name == identifierName) {
                 idNode->nextOfSameType = this->scopes.innerMostScope->idList.tail;
                 this->scopes.innerMostScope->idList.tail->prevOfSameType = idNode;
                 return;
             }
-            idNode = idNode->nextInSameScope;
+            idNode = idNode->nextInSameScope.get();
         }
         currentScope = currentScope->parentScope;
     }
@@ -244,12 +218,12 @@ auto SymbolTable::handleAssign(const std::string &identifierName, const std::str
         currentScope = currentScope->parentScope;
     }
 
-    if (assignee == nullptr) {
-        throw Undeclared(identifierName);
-    }
-
     if (assigner == nullptr) {
         throw Undeclared(value);
+    }
+
+    if (assignee == nullptr) {
+        throw Undeclared(identifierName);
     }
 
     if (assignee->type != assigner->type) {
@@ -282,8 +256,8 @@ auto SymbolTable::handleEnd() -> void {
 
 auto SymbolTable::handlePrint() const -> std::string {
     std::string output;
-    for (auto *currentScope = this->scopes.globalScope; currentScope != nullptr; currentScope = currentScope->childScope) {
-        for (auto *identifier = currentScope->idList.head; identifier != nullptr; identifier = identifier->nextInSameScope) {
+    for (auto *currentScope = this->scopes.globalScope.get(); currentScope != nullptr; currentScope = currentScope->childScope.get()) {
+        for (auto *identifier = currentScope->idList.head.get(); identifier != nullptr; identifier = identifier->nextInSameScope.get()) {
             if (identifier->nextOfSameType == nullptr) {
                 output += identifier->id.name;
                 output += "//";
