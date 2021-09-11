@@ -7,9 +7,10 @@ void SymbolTable::checkRPRINT(List& list, string S, int line, int count_line) {
         Node* new_node = new Node(S, "", temp->level, temp->next);
         temp->next = new_node;
         list.size += 1;
-        DNode* head = new DNode(list.head->data, "", list.head->level, nullptr, nullptr);
+        DList dlist;
+        dlist.head = new DNode(list.head->data, "", list.head->level, nullptr, nullptr);
         temp = list.head->next;
-        DNode* tam = head;
+        DNode* tam = dlist.head;
         while (temp != nullptr) {
             DNode* new_ = new DNode(temp->data, "", temp->level, tam->next, tam);
             tam->next = new_;
@@ -53,21 +54,12 @@ void SymbolTable::checkRPRINT(List& list, string S, int line, int count_line) {
             }
             cout << endl;
         }
+        deleteList(list1);
+        deleteDList(dlist);
         if (line == count_line && new_node->level > 0) {
-            UnclosedBlock U(new_node->level);
-            cout << U.what();
-        }
-        while (list1.head != nullptr) {
-            Node* tam1 = list1.head;
-            list1.head = list1.head->next;
-            delete tam1;
-            tam1 = nullptr;
-        }
-        while (head != nullptr) {
-            DNode* tam = head;
-            head = head->next;
-            delete tam;
-            tam = nullptr;
+            int level = new_node->level;
+            deleteList(list);
+            throw UnclosedBlock(level);
         }
     }
 }
@@ -79,9 +71,10 @@ void SymbolTable::checkPRINT(List& list, string S, int line, int count_line) {
         Node* new_node = new Node(S, "", temp->level, temp->next);
         temp->next = new_node;
         list.size += 1;
-        DNode* head = new DNode(list.head->data, "", list.head->level, nullptr, nullptr);
+        DList dlist;
+        dlist.head = new DNode(list.head->data, "", list.head->level, nullptr, nullptr);
         temp = list.head->next;
-        DNode* tam = head;
+        DNode* tam = dlist.head;
         while (temp != nullptr) {
             DNode* new_ = new DNode(temp->data, "", temp->level, tam->next, tam);
             tam->next = new_;
@@ -125,21 +118,12 @@ void SymbolTable::checkPRINT(List& list, string S, int line, int count_line) {
             }
             cout << endl;
         }
+        deleteList(list1);
+        deleteDList(dlist);
         if (line == count_line && new_node->level > 0) {
-            UnclosedBlock U(new_node->level);
-            cout << U.what();
-        }
-        while (list1.head != nullptr) {
-            Node* tam1 = list1.head;
-            list1.head = list1.head->next;
-            delete tam1;
-            tam1 = nullptr;
-        }
-        while (head != nullptr) {
-            DNode* tam = head;
-            head = head->next;
-            delete tam;
-            tam = nullptr;
+            int level = new_node->level;
+            deleteList(list);
+            throw UnclosedBlock(level);
         }
     }
 }
@@ -155,8 +139,9 @@ string SymbolTable::checkLOOKUP(List& list, string S) {
         Node* new_ = new Node(S, "", temp->level, temp->next);
         temp->next = new_;
         list.size += 1;
-        DNode* head = new DNode(list.head->data, "", list.head->level, nullptr, nullptr);
-        DNode* temp1 = head;
+        DList dlist;
+        dlist.head = new DNode(list.head->data, "", list.head->level, nullptr, nullptr);
+        DNode* temp1 = dlist.head;
         temp = list.head->next;
         while (temp != nullptr) {
             DNode* new_node = new DNode(temp->data, "", temp->level, temp1->next, temp1);
@@ -174,23 +159,13 @@ string SymbolTable::checkLOOKUP(List& list, string S) {
                 for (int j = 7; temp1->data[j] != ' '; j++) s1 += temp1->data[j];
                 if (s1 == s && temp1->level <= scope) {
                     int n = temp1->level;
-                    while (head != nullptr) {
-                        DNode* temp1 = head;
-                        head = head->next;
-                        delete temp1;
-                        temp1 = nullptr;
-                    }
+                    deleteDList(dlist);
                     return to_string(n);
                 }
             }
             temp1 = temp1->prev;
         }
-        while (head != nullptr) {
-            DNode* temp1 = head;
-            head = head->next;
-            delete temp1;
-            temp1 = nullptr;
-        }
+        deleteDList(dlist);
     }
     Undeclared U(S);
     return U.what();
@@ -217,15 +192,7 @@ void SymbolTable::deleteBLOCK(List& list) {
             list.size -= 1;
         }
     }
-    else {
-        while (list.head != nullptr) {
-            Node* tam = list.head;
-            list.head = tam->next;
-            delete tam;
-            tam = nullptr;
-            list.size = 0;
-        }
-    }
+    else deleteList(list);
 }
 
 void SymbolTable::checkEND(List& list, string S) {
@@ -265,7 +232,9 @@ string SymbolTable::checkASSIGN(List& list, string S) {
     }
     else {
         Node* temp = list.head;
-        DNode* head = new DNode(temp->data, "", temp->level, nullptr, nullptr), * tmp = head;
+        DList dlist;
+        dlist.head = new DNode(temp->data, "", temp->level, nullptr, nullptr);
+        DNode* tmp = dlist.head;
         while (temp->next != nullptr) temp = temp->next;
         Node* new_ = new Node(S, "", temp->level, temp->next);
         temp->next = new_;
@@ -292,21 +261,11 @@ string SymbolTable::checkASSIGN(List& list, string S) {
                         string vari_tmp;
                         for (j = j + 1; j < int(tmp->data.length()); j++) vari_tmp += tmp->data[j];
                         if ((variable[0] == 39 && vari_tmp == "string") || (variable[0] >= 48 && variable[0] <= 57 && vari_tmp == "number")) {
-                            while (head != nullptr) {
-                                DNode* tam = head;
-                                head = head->next;
-                                delete tam;
-                                tam = nullptr;
-                            }
+                            deleteDList(dlist);
                             return "success";
                         }
                         else {
-                            while (head != nullptr) {
-                                DNode* tam = head;
-                                head = head->next;
-                                delete tam;
-                                tam = nullptr;
-                            }
+                            deleteDList(dlist);
                             TypeMismatch T(S);
                             return T.what();
                         }
@@ -340,31 +299,16 @@ string SymbolTable::checkASSIGN(List& list, string S) {
                         tmp2 = tmp2->prev;
                     }
                     if (vari1 == vari2 && vari1 != "" && vari2 != "") {
-                        while (head != nullptr) {
-                            DNode* tam = head;
-                            head = head->next;
-                            delete tam;
-                            tam = nullptr;
-                        }
+                        deleteDList(dlist);
                         return "success";
                     }
                     else if (id1 != "" && id2 != "" && vari1 != vari2) {
-                        while (head != nullptr) {
-                            DNode* tam = head;
-                            head = head->next;
-                            delete tam;
-                            tam = nullptr;
-                        }
+                        deleteDList(dlist);
                         TypeMismatch T(S);
                         return T.what();
                     }
                     else {
-                        while (head != nullptr) {
-                            DNode* tam = head;
-                            head = head->next;
-                            delete tam;
-                            tam = nullptr;
-                        }
+                        deleteDList(dlist);
                         Undeclared U(S);
                         return U.what();
                     }
@@ -372,22 +316,17 @@ string SymbolTable::checkASSIGN(List& list, string S) {
             }
             tmp = tmp->prev;
         }
-        while (head != nullptr) {
-            DNode* tam = head;
-            head = head->next;
-            delete tam;
-            tam = nullptr;
-        }
+        deleteDList(dlist);
     }
     Undeclared U(S);
     return U.what();
 }
 
-string SymbolTable::checkINSERT(List& list, string S) {
+void SymbolTable::checkINSERT(List& list, string S, int line, int count_line) {
     if (list.size == 0) {
         list.head = new Node(S, "", 0, nullptr);
         list.size += 1;
-        return  "success";
+        cout << "success" << endl;
     }
     else {
         Node* temp = list.head;
@@ -416,158 +355,186 @@ string SymbolTable::checkINSERT(List& list, string S) {
             temp = temp->next;
         }
         if (mark == 1) {
-            Redeclared R(S);
-            return R.what();
+            deleteList(list);
+            throw Redeclared(S);
+        }
+        else {
+            if (line == count_line && new_->level > 0) {
+                int level = new_->level;
+                cout << "success" << endl;
+                deleteList(list);
+                throw UnclosedBlock(level);
+            }
+            else cout << "success" << endl;
         }
     }
-    return "success";
 }
 
-bool SymbolTable::checkInstruction(string S) {
+void SymbolTable::checkInstruction(List& list, string S) {
     string s;
     int i = 0;
     for (i = 0; i < int(S.length()) && (S[i] >= 65 && S[i] <= 90); i++) s += S[i];
     if (s == "INSERT" || s == "ASSIGN" || s == "BEGIN" || s == "END" || s == "LOOKUP" || s == "PRINT" || s == "RPRINT") {
-        if ((s == "BEGIN" || s == "END" || s == "PRINT" || s == "RPRINT") && int(s.length()) == int(S.length())) return true;
-        else if (s == "INSERT") {
-            int count_mistake = 0;
-            s.clear();
-            if (i == int(S.length()) || (i < int(S.length()) && S[i] != ' ')) count_mistake += 1;
-            i++;
-            if (i < int(S.length()) && S[i] >= 97 && S[i] <= 122) {
-                for (i = i; i < int(S.length()) && S[i] != ' '; i++) {
-                    if ((S[i] < 65 || S[i] > 90) && (S[i] < 97 || S[i] > 122) && (S[i] < 48 || S[i] > 57) && S[i] != '_') count_mistake += 1;
-                }
+        int count_mistake = 0;
+        if ((s == "BEGIN" || s == "END" || s == "PRINT" || s == "RPRINT") && int(s.length()) == int(S.length()));
+        else if (s == "INSERT" || s == "LOOKUP" || s == "ASSIGN") {
+            if (s == "INSERT") {
+                s.clear();
                 if (i == int(S.length()) || (i < int(S.length()) && S[i] != ' ')) count_mistake += 1;
-                else if (i < int(S.length()) && S[i] == ' ') {
-                    for (i = i + 1; i < int(S.length()); i++) {
-                        if (S[i] < 97 || S[i] > 122) count_mistake += 1;
-                        s += S[i];
+                i++;
+                if (i < int(S.length()) && S[i] >= 97 && S[i] <= 122) {
+                    for (i = i; i < int(S.length()) && S[i] != ' '; i++) {
+                        if ((S[i] < 65 || S[i] > 90) && (S[i] < 97 || S[i] > 122) && (S[i] < 48 || S[i] > 57) && S[i] != '_') count_mistake += 1;
                     }
-                    if (s != "string" && s != "number") count_mistake += 1;
+                    if (i == int(S.length()) || (i < int(S.length()) && S[i] != ' ')) count_mistake += 1;
+                    else if (i < int(S.length()) && S[i] == ' ') {
+                        for (i = i + 1; i < int(S.length()); i++) {
+                            if (S[i] < 97 || S[i] > 122) count_mistake += 1;
+                            s += S[i];
+                        }
+                        if (s != "string" && s != "number") count_mistake += 1;
+                    }
                 }
+                else count_mistake += 1;
             }
-            else count_mistake += 1;
-            if (count_mistake == 0) return true;
-        }
-        else if (s == "ASSIGN") {
-            int count_mistake = 0;
-            if (i == int(S.length()) || (i < int(S.length()) && S[i] != ' ')) count_mistake += 1;
-            i++;
-            if (i < int(S.length()) && (S[i] >= 97 && S[i] <= 122)) {
-                for (i = i; i < int(S.length()) && S[i] != ' '; i++) {
-                    if ((S[i] < 65 || S[i] > 90) && (S[i] < 97 || S[i] > 122) && (S[i] < 48 || S[i] > 57) && S[i] != '_') count_mistake += 1;
-                }
+            else if (s == "ASSIGN") {
                 if (i == int(S.length()) || (i < int(S.length()) && S[i] != ' ')) count_mistake += 1;
-                else {
-                    i++;
-                    if (S[i] == 39 && i < int(S.length()) - 2 && S[int(S.length()) - 1] == 39) {
-                        for (i = i + 1; i < int(S.length()) - 1; i++) {
-                            if (S[i] != ' ' && (S[i] < 97 || S[i] > 122) && (S[i] < 65 || S[i] > 90) && (S[i] < 48 || S[i] > 57)) count_mistake += 1;
-                        }
+                i++;
+                if (i < int(S.length()) && (S[i] >= 97 && S[i] <= 122)) {
+                    for (i = i; i < int(S.length()) && S[i] != ' '; i++) {
+                        if ((S[i] < 65 || S[i] > 90) && (S[i] < 97 || S[i] > 122) && (S[i] < 48 || S[i] > 57) && S[i] != '_') count_mistake += 1;
                     }
-                    else if (i < int(S.length()) && S[i] >= 48 && S[i] <= 57) {
-                        for (i = i; i < int(S.length()); i++) {
-                            if (S[i] < 48 || S[i] > 57) count_mistake += 1;
+                    if (i == int(S.length()) || (i < int(S.length()) && S[i] != ' ')) count_mistake += 1;
+                    else {
+                        i++;
+                        if (S[i] == 39 && i < int(S.length()) - 2 && S[int(S.length()) - 1] == 39) {
+                            for (i = i + 1; i < int(S.length()) - 1; i++) {
+                                if (S[i] != ' ' && (S[i] < 97 || S[i] > 122) && (S[i] < 65 || S[i] > 90) && (S[i] < 48 || S[i] > 57)) count_mistake += 1;
+                            }
                         }
-                    }
-                    else if (i < int(S.length()) && (S[i] >= 97 && S[i] <= 122)) {
-                        for (i = i; i < int(S.length()); i++) {
-                            if (S[i] == '_' || (S[i] >= 48 && S[i] <= 57) || (S[i] >= 65 && S[i] <= 90) || (S[i] >= 97 && S[i] <= 122)) count_mistake += 0;
-                            else count_mistake += 1;
+                        else if (i < int(S.length()) && S[i] >= 48 && S[i] <= 57) {
+                            for (i = i; i < int(S.length()); i++) {
+                                if (S[i] < 48 || S[i] > 57) count_mistake += 1;
+                            }
                         }
+                        else if (i < int(S.length()) && (S[i] >= 97 && S[i] <= 122)) {
+                            for (i = i; i < int(S.length()); i++) {
+                                if (S[i] == '_' || (S[i] >= 48 && S[i] <= 57) || (S[i] >= 65 && S[i] <= 90) || (S[i] >= 97 && S[i] <= 122)) count_mistake += 0;
+                                else count_mistake += 1;
+                            }
+                        }
+                        else if (S[i] == 39 && S[i + 1] == 39) count_mistake += 0;
+                        else count_mistake += 1;
                     }
-                    else if (S[i] == 39 && S[++i] == 39) count_mistake += 0;
-                    else count_mistake += 1;
                 }
+                else count_mistake += 1;
             }
-            else count_mistake += 1;
-            if (count_mistake == 0) return true;
+            else if (s == "LOOKUP") {
+                if (i == int(S.length()) || (i < int(S.length()) && S[i] != ' ')) count_mistake += 1;
+                i++;
+                if (i < int(S.length()) && S[i] >= 97 && S[i] <= 122) {
+                    for (i = i; i < int(S.length()); i++) {
+                        if ((S[i] < 65 || S[i] > 90) && (S[i] < 97 || S[i] > 122) && (S[i] < 48 || S[i] > 57) && S[i] != '_') count_mistake += 1;
+                    }
+                }
+                else count_mistake += 1;
+            }
         }
-        else if (s == "LOOKUP") {
-            int count_mistake = 0;
-            if (i == int(S.length()) || (i < int(S.length()) && S[i] != ' ')) count_mistake += 1;
-            i++;
-            if (i < int(S.length()) && S[i] >= 97 && S[i] <= 122) {
-                for (i = i; i < int(S.length()); i++) {
-                    if ((S[i] < 65 || S[i] > 90) && (S[i] < 97 || S[i] > 122) && (S[i] < 48 || S[i] > 57) && S[i] != '_') count_mistake += 1;
-                }
-            }
-            else count_mistake += 1;
-            if (count_mistake == 0) return true;
+        else count_mistake += 1;
+        if (count_mistake != 0) {
+            deleteList(list);
+            throw InvalidInstruction(S);
         }
     }
-    return false;
+    else {
+        deleteList(list);
+        throw InvalidInstruction(S);
+    }
+}
+
+void SymbolTable::deleteList(List& list) {
+    while (list.head != nullptr) {
+        Node* tmp = list.head;
+        list.head = list.head->next;
+        delete tmp;
+        tmp = nullptr;
+        list.size = 0;
+    }
+}
+
+void SymbolTable::deleteDList(DList& dlist) {
+    while (dlist.head != nullptr) {
+        DNode* tmp = dlist.head;
+        dlist.head = dlist.head->next;
+        delete tmp;
+        tmp = nullptr;
+    }
 }
 
 void SymbolTable::run(string filename) {
-    fstream new_file, file;
-    new_file.open(filename, ios::in);
-    file.open(filename, ios::in);
+    fstream file(filename);
     int count_line = 0;
-    if (file.is_open()) {
+    if (file) {
         string S1;
         while (getline(file, S1)) count_line += 1;
     }
     file.close();
-    if (new_file.is_open()) {
+    fstream new_file(filename);
+    if (new_file) {
         string S;
         List list;
         int line = 0;
         while (getline(new_file, S)) {
             line += 1;
-            bool temp = checkInstruction(S);
-            if (temp == false) {
-                InvalidInstruction I(S);
-                cout << I.what();
-                break;
-            }
+            checkInstruction(list, S);
             string s;
             for (int i = 0; i < int(S.length()) && S[i] != ' '; i++) s += S[i];
-            if (s == "INSERT") {
-                string T = checkINSERT(list, S);
-                Node* tam = list.head;
-                while (tam->next != nullptr) tam = tam->next;
-                if (line == count_line) {
-                    if (T == "success" && tam->level == 0) cout << "success" << endl;
-                    else if (T == "success" && tam->level > 0) {
-                        cout << "success" << endl;
-                        UnclosedBlock U(tam->level);
-                        cout << U.what();
-                    }
-                    else if (T != "success") cout << T;
-                }
-                else {
-                    if (T == "success") cout << T << endl;
-                    else {
-                        cout << T;
-                        break;
-                    }
-                }
-            }
+            if (s == "INSERT") checkINSERT(list, S, line, count_line);
             else if (s == "ASSIGN") {
                 string T = checkASSIGN(list, S);
                 Node* tam = list.head;
                 while (tam->next != nullptr) tam = tam->next;
                 if (line == count_line) {
                     if (tam->level == 0) {
-                        if (T == "success") cout << T << endl;
-                        else cout << T;
+                        if (T == "success") {
+                            deleteList(list);
+                            cout << T << endl;
+                        }
+                        else if (T[0] == 'U') {
+                            deleteList(list);
+                            throw Undeclared(S);
+                        }
+                        else if (T[0] == 'T') {
+                            deleteList(list);
+                            throw TypeMismatch(S);
+                        }
                     }
                     else {
                         if (T == "success") {
                             cout << T << endl;
-                            UnclosedBlock U(tam->level);
-                            cout << U.what();
+                            int n = tam->level;
+                            deleteList(list);
+                            throw UnclosedBlock(n);
                         }
-                        else cout << T;
+                        else if (T[0] == 'U') {
+                            deleteList(list);
+                            throw Undeclared(S);
+                        }
+                        else if (T[0] == 'T') {
+                            deleteList(list);
+                            throw TypeMismatch(S);
+                        }
                     }
                 }
                 else {
                     if (T == "success") cout << T << endl;
-                    else {
-                        cout << T;
-                        break;
+                    else if (T[0] == 'U') {
+                        deleteList(list);
+                        throw Undeclared(S);
+                    }
+                    else if (T[0] == 'T') {
+                        deleteList(list);
+                        throw TypeMismatch(S);
                     }
                 }
             }
@@ -576,8 +543,9 @@ void SymbolTable::run(string filename) {
                 Node* tam = list.head;
                 while (tam->next != nullptr) tam = tam->next;
                 if (line == count_line && tam->level > 0) {
-                    UnclosedBlock U(tam->level);
-                    cout << U.what();
+                    int level = tam->level;
+                    deleteList(list);
+                    throw UnclosedBlock(level);
                 }
             }
             else if (s == "END") {
@@ -586,18 +554,20 @@ void SymbolTable::run(string filename) {
                 while (tam->next != nullptr) tam = tam->next;
                 if (line == count_line) {
                     if (tam->level < 0) {
-                        UnknownBlock U;
-                        cout << U.what();
+                        int level = tam->level;
+                        deleteList(list);
+                        throw UnknownBlock();
                     }
                     else if (tam->level > 0) {
-                        UnclosedBlock U(tam->level);
-                        cout << U.what();
+                        int level = tam->level;
+                        deleteList(list);
+                        throw UnclosedBlock(level);
                     }
                 }
                 else if (line != count_line && tam->level < 0) {
-                    UnknownBlock U;
-                    cout << U.what();
-                    break;
+                    int level = tam->level;
+                    deleteList(list);
+                    throw UnknownBlock();
                 }
                 else deleteBLOCK(list);
             }
@@ -608,29 +578,26 @@ void SymbolTable::run(string filename) {
                 if (line == count_line && tam->level > 0) {
                     if (T[0] >= 48 && T[0] <= 57) {
                         cout << T << endl;
-                        UnclosedBlock U(tam->level);
-                        cout << U.what();
+                        int level = tam->level;
+                        deleteList(list);
+                        throw UnclosedBlock(level);
                     }
-                    else cout << T;
+                    else {
+                        deleteList(list);
+                        throw Undeclared(S);
+                    }
                 }
                 else {
                     if (T[0] >= 48 && T[0] <= 57) cout << T << endl;
                     else {
-                        cout << T;
-                        break;
+                        deleteList(list);
+                        throw Undeclared(S);
                     }
                 }
             }
             else if (s == "PRINT") checkPRINT(list, S, line, count_line);
             else if (s == "RPRINT") checkRPRINT(list, S, line, count_line);
         }
-        while (list.head != nullptr) {
-            Node* tmp = list.head;
-            list.head = list.head->next;
-            delete tmp;
-            tmp = nullptr;
-            list.size = 0;
-        }
+        deleteList(list);
     }
-    new_file.close();
 }
