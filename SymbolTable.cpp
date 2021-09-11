@@ -54,9 +54,9 @@ void SymbolTable::run(const string& filename) {
                 }
             } else if (regex_match(s, data, assign)) {
                 string as = assign_lisst(lisst, data[1], data[2]);
-                if (as == "success")
+                if (as == "success") {
                     cout << "success" << endl;
-                else if (as == "mismatch") {
+                } else if (as == "mismatch") {
                     destroy_lisst(lisst);
                     throw TypeMismatch(s);
                 } else if (as == "undeclared") {
@@ -77,11 +77,11 @@ void SymbolTable::run(const string& filename) {
                 }
                 end_lisst(lisst, level);
                 level--;
-            } else if (regex_match(s, print))
+            } else if (regex_match(s, print)) {
                 print_lisst(lisst);
-            else if (regex_match(s, rprint))
+            } else if (regex_match(s, rprint)) {
                 rprint_lisst(lisst);
-            else if (regex_match(s, data, lookup)) {
+            } else if (regex_match(s, data, lookup)) {
                 if (lookup_lisst(lisst, data[1]) == -1) {
                     destroy_lisst(lisst);
                     throw Undeclared(s);
@@ -159,8 +159,9 @@ string SymbolTable::assign_lisst(DLinkedlisst &lisst, const string &ID,
                         if (h1->data.type == h->data.type) {
                             h->data.value = value;
                             return "success";
-                        } else
+                        } else {
                             return "mismatch";
+                        }
                     }
                     h1 = h1->prev;
                 }
@@ -169,8 +170,9 @@ string SymbolTable::assign_lisst(DLinkedlisst &lisst, const string &ID,
             if (type_of_value(value) == h->data.type) {
                 h->data.value = value;
                 return "success";
-            } else
+            } else {
                 return "mismatch";
+            }
         }
         h = h->prev;
     }
@@ -208,8 +210,9 @@ void SymbolTable::end_lisst(DLinkedlisst &lisst, int level) {
                 delete h;
                 h = h2->next;
             }
-        } else
+        } else {
             h = h->next;
+        }
     }
 }
 
