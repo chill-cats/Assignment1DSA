@@ -1,16 +1,16 @@
 #include "SymbolTable.h"
 
-void SymbolTable::checkRPRINT(List& list, string S, int line, int count_line) {
-    if (list.size != 0) {
-        Node* temp = list.head;
+void SymbolTable::checkRPRINT(Ds& ds, string S, int line, int count_line) {
+    if (ds.size != 0) {
+        Node* temp = ds.head;
         while (temp->next != nullptr) temp = temp->next;
         Node* new_node = new Node(S, "", temp->level, temp->next);
         temp->next = new_node;
-        list.size += 1;
-        DList dlist;
-        dlist.head = new DNode(list.head->data, "", list.head->level, nullptr, nullptr);
-        temp = list.head->next;
-        DNode* tam = dlist.head;
+        ds.size += 1;
+        DDs dds;
+        dds.head = new DNode(ds.head->data, "", ds.head->level, nullptr, nullptr);
+        temp = ds.head->next;
+        DNode* tam = dds.head;
         while (temp != nullptr) {
             DNode* new_ = new DNode(temp->data, "", temp->level, tam->next, tam);
             tam->next = new_;
@@ -19,15 +19,15 @@ void SymbolTable::checkRPRINT(List& list, string S, int line, int count_line) {
         }
         int scope = tam->level;
         tam = tam->prev;
-        List list1;
-        list1.head = new Node;
-        Node* tam1 = list1.head;
+        Ds ds1;
+        ds1.head = new Node;
+        Node* tam1 = ds1.head;
         while (tam != nullptr) {
             if (tam->data[0] == 'I') {
                 if (tam->level <= scope) {
                     string s;
                     for (int i = 7; i < int(tam->data.length()) && tam->data[i] != ' '; i++) s += tam->data[i];
-                    tam1 = list1.head;
+                    tam1 = ds1.head;
                     int mark = 0;
                     while (tam1->next != nullptr) {
                         if (tam1->data == s + "//") {
@@ -45,7 +45,7 @@ void SymbolTable::checkRPRINT(List& list, string S, int line, int count_line) {
             }
             tam = tam->prev;
         }
-        tam1 = list1.head->next;
+        tam1 = ds1.head->next;
         if (tam1 != nullptr && tam1->data != "") {
             while (tam1 != nullptr) {
                 cout << tam1->data << tam1->level;
@@ -54,27 +54,27 @@ void SymbolTable::checkRPRINT(List& list, string S, int line, int count_line) {
             }
             cout << endl;
         }
-        deleteList(list1);
-        deleteDList(dlist);
+        deleteDs(ds1);
+        deleteDDs(dds);
         if (line == count_line && new_node->level > 0) {
             int level = new_node->level;
-            deleteList(list);
+            deleteDs(ds);
             throw UnclosedBlock(level);
         }
     }
 }
 
-void SymbolTable::checkPRINT(List& list, string S, int line, int count_line) {
-    if (list.size != 0) {
-        Node* temp = list.head;
+void SymbolTable::checkPRINT(Ds& ds, string S, int line, int count_line) {
+    if (ds.size != 0) {
+        Node* temp = ds.head;
         while (temp->next != nullptr) temp = temp->next;
         Node* new_node = new Node(S, "", temp->level, temp->next);
         temp->next = new_node;
-        list.size += 1;
-        DList dlist;
-        dlist.head = new DNode(list.head->data, "", list.head->level, nullptr, nullptr);
-        temp = list.head->next;
-        DNode* tam = dlist.head;
+        ds.size += 1;
+        DDs dds;
+        dds.head = new DNode(ds.head->data, "", ds.head->level, nullptr, nullptr);
+        temp = ds.head->next;
+        DNode* tam = dds.head;
         while (temp != nullptr) {
             DNode* new_ = new DNode(temp->data, "", temp->level, tam->next, tam);
             tam->next = new_;
@@ -83,15 +83,15 @@ void SymbolTable::checkPRINT(List& list, string S, int line, int count_line) {
         }
         int scope = tam->level;
         tam = tam->prev;
-        List list1;
-        list1.head = new Node;
-        Node* tam1 = list1.head;
+        Ds ds1;
+        ds1.head = new Node;
+        Node* tam1 = ds1.head;
         while (tam != nullptr) {
             if (tam->data[0] == 'I') {
                 if (tam->level <= scope) {
                     string s;
                     for (int i = 7; i < int(tam->data.length()) && tam->data[i] != ' '; i++) s += tam->data[i];
-                    tam1 = list1.head;
+                    tam1 = ds1.head;
                     int mark = 0;
                     if (tam1->data == s + "//") mark += 1;
                     while (tam1->next != nullptr) {
@@ -102,14 +102,14 @@ void SymbolTable::checkPRINT(List& list, string S, int line, int count_line) {
                         tam1 = tam1->next;
                     }
                     if (mark == 0) {
-                        Node* new_node = new Node(s + "//", "", tam->level, list1.head);
-                        list1.head = new_node;
+                        Node* new_node = new Node(s + "//", "", tam->level, ds1.head);
+                        ds1.head = new_node;
                     }
                 }
             }
             tam = tam->prev;
         }
-        tam1 = list1.head;
+        tam1 = ds1.head;
         if (tam1->data != "") {
             while (tam1->next != nullptr) {
                 cout << tam1->data << tam1->level;
@@ -118,31 +118,31 @@ void SymbolTable::checkPRINT(List& list, string S, int line, int count_line) {
             }
             cout << endl;
         }
-        deleteList(list1);
-        deleteDList(dlist);
+        deleteDs(ds1);
+        deleteDDs(dds);
         if (line == count_line && new_node->level > 0) {
             int level = new_node->level;
-            deleteList(list);
+            deleteDs(ds);
             throw UnclosedBlock(level);
         }
     }
 }
 
-string SymbolTable::checkLOOKUP(List& list, string S) {
-    if (list.size == 0) {
-        list.head = new Node(S, "", 0, nullptr);
-        list.size += 1;
+string SymbolTable::checkLOOKUP(Ds& ds, string S) {
+    if (ds.size == 0) {
+        ds.head = new Node(S, "", 0, nullptr);
+        ds.size += 1;
     }
     else {
-        Node* temp = list.head;
+        Node* temp = ds.head;
         while (temp->next != nullptr) temp = temp->next;
         Node* new_ = new Node(S, "", temp->level, temp->next);
         temp->next = new_;
-        list.size += 1;
-        DList dlist;
-        dlist.head = new DNode(list.head->data, "", list.head->level, nullptr, nullptr);
-        DNode* temp1 = dlist.head;
-        temp = list.head->next;
+        ds.size += 1;
+        DDs dds;
+        dds.head = new DNode(ds.head->data, "", ds.head->level, nullptr, nullptr);
+        DNode* temp1 = dds.head;
+        temp = ds.head->next;
         while (temp != nullptr) {
             DNode* new_node = new DNode(temp->data, "", temp->level, temp1->next, temp1);
             temp1->next = new_node;
@@ -159,87 +159,87 @@ string SymbolTable::checkLOOKUP(List& list, string S) {
                 for (int j = 7; temp1->data[j] != ' '; j++) s1 += temp1->data[j];
                 if (s1 == s && temp1->level <= scope) {
                     int n = temp1->level;
-                    deleteDList(dlist);
+                    deleteDDs(dds);
                     return to_string(n);
                 }
             }
             temp1 = temp1->prev;
         }
-        deleteDList(dlist);
+        deleteDDs(dds);
     }
     Undeclared U(S);
     return U.what();
 }
 
-void SymbolTable::deleteBLOCK(List& list) {
-    Node* temp = list.head;
+void SymbolTable::deleteBLOCK(Ds& ds) {
+    Node* temp = ds.head;
     while (temp->next != nullptr) temp = temp->next;
     int scope = temp->level + 1;
-    temp = list.head;
+    temp = ds.head;
     if (temp->level != scope) {
         int count = 0;
         while (temp != nullptr && temp->level < scope) {
             count += 1;
             temp = temp->next;
         }
-        Node* temp1 = list.head;
+        Node* temp1 = ds.head;
         for (int i = 1; i < count; i++) temp1 = temp1->next;
         while (temp1 != nullptr && temp1->next != nullptr) {
             Node* temp2 = temp1->next;
             temp1->next = temp2->next;
             delete temp2;
             temp2 = nullptr;
-            list.size -= 1;
+            ds.size -= 1;
         }
     }
-    else deleteList(list);
+    else deleteDs(ds);
 }
 
-void SymbolTable::checkEND(List& list, string S) {
-    if (list.size == 0) {
-        list.head = new Node(S, "", -1, nullptr);
-        list.size += 1;
+void SymbolTable::checkEND(Ds& ds, string S) {
+    if (ds.size == 0) {
+        ds.head = new Node(S, "", -1, nullptr);
+        ds.size += 1;
     }
     else {
-        Node* temp = list.head;
+        Node* temp = ds.head;
         while (temp->next != nullptr) temp = temp->next;
         Node* new_node = new Node(S, "", temp->level - 1, temp->next);
         temp->next = new_node;
-        list.size += 1;
+        ds.size += 1;
     }
 }
 
-void SymbolTable::checkBEGIN(List& list, string S) {
-    if (list.size == 0) {
-        list.head = new Node(S, "", 1, nullptr);
-        list.size += 1;
+void SymbolTable::checkBEGIN(Ds& ds, string S) {
+    if (ds.size == 0) {
+        ds.head = new Node(S, "", 1, nullptr);
+        ds.size += 1;
     }
     else {
-        Node* temp = list.head;
+        Node* temp = ds.head;
         while (temp->next != nullptr) temp = temp->next;
         Node* new_node = new Node(S, "", temp->level + 1, temp->next);
         temp->next = new_node;
-        list.size += 1;
+        ds.size += 1;
     }
 }
 
-string SymbolTable::checkASSIGN(List& list, string S) {
-    if (list.size == 0) {
-        list.head = new Node(S, "", 0, nullptr);
-        list.size += 1;
+string SymbolTable::checkASSIGN(Ds& ds, string S) {
+    if (ds.size == 0) {
+        ds.head = new Node(S, "", 0, nullptr);
+        ds.size += 1;
         Undeclared U(S);
         return U.what();
     }
     else {
-        Node* temp = list.head;
-        DList dlist;
-        dlist.head = new DNode(temp->data, "", temp->level, nullptr, nullptr);
-        DNode* tmp = dlist.head;
+        Node* temp = ds.head;
+        DDs dds;
+        dds.head = new DNode(temp->data, "", temp->level, nullptr, nullptr);
+        DNode* tmp = dds.head;
         while (temp->next != nullptr) temp = temp->next;
         Node* new_ = new Node(S, "", temp->level, temp->next);
         temp->next = new_;
-        list.size += 1;
-        temp = list.head->next;
+        ds.size += 1;
+        temp = ds.head->next;
         while (temp != nullptr) {
             DNode* new_node = new DNode(temp->data, "", temp->level, tmp->next, tmp);
             tmp->next = new_node;
@@ -261,11 +261,11 @@ string SymbolTable::checkASSIGN(List& list, string S) {
                         string vari_tmp;
                         for (j = j + 1; j < int(tmp->data.length()); j++) vari_tmp += tmp->data[j];
                         if ((variable[0] == 39 && vari_tmp == "string") || (variable[0] >= 48 && variable[0] <= 57 && vari_tmp == "number")) {
-                            deleteDList(dlist);
+                            deleteDDs(dds);
                             return "success";
                         }
                         else {
-                            deleteDList(dlist);
+                            deleteDDs(dds);
                             TypeMismatch T(S);
                             return T.what();
                         }
@@ -299,16 +299,16 @@ string SymbolTable::checkASSIGN(List& list, string S) {
                         tmp2 = tmp2->prev;
                     }
                     if (vari1 == vari2 && vari1 != "" && vari2 != "") {
-                        deleteDList(dlist);
+                        deleteDDs(dds);
                         return "success";
                     }
                     else if (id1 != "" && id2 != "" && vari1 != vari2) {
-                        deleteDList(dlist);
+                        deleteDDs(dds);
                         TypeMismatch T(S);
                         return T.what();
                     }
                     else {
-                        deleteDList(dlist);
+                        deleteDDs(dds);
                         Undeclared U(S);
                         return U.what();
                     }
@@ -316,30 +316,30 @@ string SymbolTable::checkASSIGN(List& list, string S) {
             }
             tmp = tmp->prev;
         }
-        deleteDList(dlist);
+        deleteDDs(dds);
     }
     Undeclared U(S);
     return U.what();
 }
 
-void SymbolTable::checkINSERT(List& list, string S, int line, int count_line) {
-    if (list.size == 0) {
-        list.head = new Node(S, "", 0, nullptr);
-        list.size += 1;
+void SymbolTable::checkINSERT(Ds& ds, string S, int line, int count_line) {
+    if (ds.size == 0) {
+        ds.head = new Node(S, "", 0, nullptr);
+        ds.size += 1;
         cout << "success" << endl;
     }
     else {
-        Node* temp = list.head;
+        Node* temp = ds.head;
         while (temp->next != nullptr) temp = temp->next;
         Node* new_ = new Node(S, "", temp->level, temp->next);
         int scope = temp->level;
         temp->next = new_;
-        list.size += 1;
-        temp = list.head;
+        ds.size += 1;
+        temp = ds.head;
         string s;
         int mark = 0;
         for (int i = 7; S[i] != ' '; i++) s += S[i];
-        for (int i = 1; i < list.size; i++) {
+        for (int i = 1; i < ds.size; i++) {
             if (temp->level == scope) {
                 string s1;
                 for (int j = 0; j < int(temp->data.length()) && temp->data[j] != ' '; j++) s1 += temp->data[j];
@@ -355,14 +355,14 @@ void SymbolTable::checkINSERT(List& list, string S, int line, int count_line) {
             temp = temp->next;
         }
         if (mark == 1) {
-            deleteList(list);
+            deleteDs(ds);
             throw Redeclared(S);
         }
         else {
             if (line == count_line && new_->level > 0) {
                 int level = new_->level;
                 cout << "success" << endl;
-                deleteList(list);
+                deleteDs(ds);
                 throw UnclosedBlock(level);
             }
             else cout << "success" << endl;
@@ -370,7 +370,7 @@ void SymbolTable::checkINSERT(List& list, string S, int line, int count_line) {
     }
 }
 
-void SymbolTable::checkInstruction(List& list, string S) {
+void SymbolTable::checkInstruction(Ds& ds, string S) {
     string s;
     int i = 0;
     for (i = 0; i < int(S.length()) && (S[i] >= 65 && S[i] <= 90); i++) s += S[i];
@@ -442,30 +442,30 @@ void SymbolTable::checkInstruction(List& list, string S) {
         }
         else count_mistake += 1;
         if (count_mistake != 0) {
-            deleteList(list);
+            deleteDs(ds);
             throw InvalidInstruction(S);
         }
     }
     else {
-        deleteList(list);
+        deleteDs(ds);
         throw InvalidInstruction(S);
     }
 }
 
-void SymbolTable::deleteList(List& list) {
-    while (list.head != nullptr) {
-        Node* tmp = list.head;
-        list.head = list.head->next;
+void SymbolTable::deleteDs(Ds& ds) {
+    while (ds.head != nullptr) {
+        Node* tmp = ds.head;
+        ds.head = ds.head->next;
         delete tmp;
         tmp = nullptr;
-        list.size = 0;
+        ds.size = 0;
     }
 }
 
-void SymbolTable::deleteDList(DList& dlist) {
-    while (dlist.head != nullptr) {
-        DNode* tmp = dlist.head;
-        dlist.head = dlist.head->next;
+void SymbolTable::deleteDDs(DDs& dds) {
+    while (dds.head != nullptr) {
+        DNode* tmp = dds.head;
+        dds.head = dds.head->next;
         delete tmp;
         tmp = nullptr;
     }
@@ -482,30 +482,30 @@ void SymbolTable::run(string filename) {
     fstream new_file(filename);
     if (new_file) {
         string S;
-        List list;
+        Ds ds;
         int line = 0;
         while (getline(new_file, S)) {
             line += 1;
-            checkInstruction(list, S);
+            checkInstruction(ds, S);
             string s;
             for (int i = 0; i < int(S.length()) && S[i] != ' '; i++) s += S[i];
-            if (s == "INSERT") checkINSERT(list, S, line, count_line);
+            if (s == "INSERT") checkINSERT(ds, S, line, count_line);
             else if (s == "ASSIGN") {
-                string T = checkASSIGN(list, S);
-                Node* tam = list.head;
+                string T = checkASSIGN(ds, S);
+                Node* tam = ds.head;
                 while (tam->next != nullptr) tam = tam->next;
                 if (line == count_line) {
                     if (tam->level == 0) {
                         if (T == "success") {
-                            deleteList(list);
+                            deleteDs(ds);
                             cout << T << endl;
                         }
                         else if (T[0] == 'U') {
-                            deleteList(list);
+                            deleteDs(ds);
                             throw Undeclared(S);
                         }
                         else if (T[0] == 'T') {
-                            deleteList(list);
+                            deleteDs(ds);
                             throw TypeMismatch(S);
                         }
                     }
@@ -513,15 +513,15 @@ void SymbolTable::run(string filename) {
                         if (T == "success") {
                             cout << T << endl;
                             int n = tam->level;
-                            deleteList(list);
+                            deleteDs(ds);
                             throw UnclosedBlock(n);
                         }
                         else if (T[0] == 'U') {
-                            deleteList(list);
+                            deleteDs(ds);
                             throw Undeclared(S);
                         }
                         else if (T[0] == 'T') {
-                            deleteList(list);
+                            deleteDs(ds);
                             throw TypeMismatch(S);
                         }
                     }
@@ -529,75 +529,75 @@ void SymbolTable::run(string filename) {
                 else {
                     if (T == "success") cout << T << endl;
                     else if (T[0] == 'U') {
-                        deleteList(list);
+                        deleteDs(ds);
                         throw Undeclared(S);
                     }
                     else if (T[0] == 'T') {
-                        deleteList(list);
+                        deleteDs(ds);
                         throw TypeMismatch(S);
                     }
                 }
             }
             else if (s == "BEGIN") {
-                checkBEGIN(list, S);
-                Node* tam = list.head;
+                checkBEGIN(ds, S);
+                Node* tam = ds.head;
                 while (tam->next != nullptr) tam = tam->next;
                 if (line == count_line && tam->level > 0) {
                     int level = tam->level;
-                    deleteList(list);
+                    deleteDs(ds);
                     throw UnclosedBlock(level);
                 }
             }
             else if (s == "END") {
-                checkEND(list, S);
-                Node* tam = list.head;
+                checkEND(ds, S);
+                Node* tam = ds.head;
                 while (tam->next != nullptr) tam = tam->next;
                 if (line == count_line) {
                     if (tam->level < 0) {
                         int level = tam->level;
-                        deleteList(list);
+                        deleteDs(ds);
                         throw UnknownBlock();
                     }
                     else if (tam->level > 0) {
                         int level = tam->level;
-                        deleteList(list);
+                        deleteDs(ds);
                         throw UnclosedBlock(level);
                     }
                 }
                 else if (line != count_line && tam->level < 0) {
                     int level = tam->level;
-                    deleteList(list);
+                    deleteDs(ds);
                     throw UnknownBlock();
                 }
-                else deleteBLOCK(list);
+                else deleteBLOCK(ds);
             }
             else if (s == "LOOKUP") {
-                string T = checkLOOKUP(list, S);
-                Node* tam = list.head;
+                string T = checkLOOKUP(ds, S);
+                Node* tam = ds.head;
                 while (tam->next != nullptr) tam = tam->next;
                 if (line == count_line && tam->level > 0) {
                     if (T[0] >= 48 && T[0] <= 57) {
                         cout << T << endl;
                         int level = tam->level;
-                        deleteList(list);
+                        deleteDs(ds);
                         throw UnclosedBlock(level);
                     }
                     else {
-                        deleteList(list);
+                        deleteDs(ds);
                         throw Undeclared(S);
                     }
                 }
                 else {
                     if (T[0] >= 48 && T[0] <= 57) cout << T << endl;
                     else {
-                        deleteList(list);
+                        deleteDs(ds);
                         throw Undeclared(S);
                     }
                 }
             }
-            else if (s == "PRINT") checkPRINT(list, S, line, count_line);
-            else if (s == "RPRINT") checkRPRINT(list, S, line, count_line);
+            else if (s == "PRINT") checkPRINT(ds, S, line, count_line);
+            else if (s == "RPRINT") checkRPRINT(ds, S, line, count_line);
         }
-        deleteList(list);
+        deleteDs(ds);
     }
 }

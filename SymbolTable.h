@@ -10,9 +10,9 @@ struct Node {
     Node* next;
 };
 
-struct List {
-    List() : head(nullptr), size(0) {}
-    List(Node* head, int size) : head(head), size(size) {}
+struct Ds {
+    Ds() : head(nullptr), size(0) {}
+    Ds(Node* head, int size) : head(head), size(size) {}
     Node* head;
     int size;
 };
@@ -25,9 +25,9 @@ struct DNode {
     DNode* next, * prev;
 };
 
-struct DList {
-    DList() : head(nullptr) {}
-    DList(DNode* head) : head(head) {}
+struct DDs {
+    DDs() : head(nullptr) {}
+    DDs(DNode* head) : head(head) {}
     DNode* head;
 };
 
@@ -35,17 +35,17 @@ class SymbolTable {
 public:
     SymbolTable() {}
     void run(string filename);
-    void deleteList(List& list);
-    void deleteDList(DList& dlist);
-    void checkInstruction(List& list, string S);
-    void checkINSERT(List& list, string S, int line, int count_line);
-    string checkASSIGN(List& list, string S);
-    void checkBEGIN(List& list, string S);
-    void checkEND(List& list, string S);
-    void deleteBLOCK(List& list);
-    string checkLOOKUP(List& list, string S);
-    void checkPRINT(List& list, string S, int line, int count_line);
-    void checkRPRINT(List& list, string S, int line, int count_line);
+    void deleteDs(Ds& ds);
+    void deleteDDs(DDs& dds);
+    void checkInstruction(Ds& ds, string S);
+    void checkINSERT(Ds& ds, string S, int line, int count_line);
+    string checkASSIGN(Ds& ds, string S);
+    void checkBEGIN(Ds& ds, string S);
+    void checkEND(Ds& ds, string S);
+    void deleteBLOCK(Ds& ds);
+    string checkLOOKUP(Ds& ds, string S);
+    void checkPRINT(Ds& ds, string S, int line, int count_line);
+    void checkRPRINT(Ds& ds, string S, int line, int count_line);
 };
 
 
