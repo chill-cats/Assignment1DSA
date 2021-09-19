@@ -1,8 +1,8 @@
 #ifndef DSA_EXCEPTION_H
 #define DSA_EXCEPTION_H
 #include <string>
-#include <stdio.h>
-#include <string.h>
+#include <cstdio>
+#include <cstring>
 #include <iostream>
 
 using namespace std;
